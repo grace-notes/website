@@ -1,0 +1,35 @@
+extends layout
+
+block header
+  include partials/menu
+  h1 Topics Library
+
+block content
+  ul.topic-index
+    - var alphabet = {};
+    each article in contents.topics
+      - if (article.title) alphabet[article.title.toLowerCase().substr(0,1)] = 1
+    each val, letter in alphabet
+      li
+        a(href='#'+letter)= letter
+    li
+      a(href='#all') all
+
+  - var initial, id, attributes;
+  each article in contents.topics
+    if article.title != undefined
+      - initial = article.title.toLowerCase().substr(0, 1);
+      - attributes = { 'data-initial': initial }
+      if initial != id
+        - id = initial
+        - attributes.id = id
+      article.listing&attributes(attributes)
+        header
+          h2
+            a(href=article.url)= article.title
+        if article.metadata.description
+          p.description= article.metadata.description
+  script(src="/topics/toc.js")
+
+
+

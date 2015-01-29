@@ -1,0 +1,21 @@
+extends layout
+
+block append vars
+  - bodyclass = 'article-detail'
+
+block prepend title
+  | #{ page.title + " - "}
+
+block header
+  h1= page.title
+  include partials/menu
+
+block content
+  article.article
+    section.content!= typogr(page.html).typogrify()
+
+block prepend footer
+  div.nav
+    a(href=contents.topics.index.url) « Topics List
+
+

@@ -1,0 +1,28 @@
+{
+  "locals": {
+    "url": "http://localhost:8080",
+    "name": "Grace Notes",
+    "owner": "Grace Notes",
+    "description": "Training in Bible Teaching"
+  },
+  "plugins": [
+    "./plugins/paginator.coffee",
+    "./node_modules/wintersmith-sass",
+    "./node_modules/wintersmith-coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

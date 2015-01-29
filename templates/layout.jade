@@ -1,0 +1,47 @@
+doctype html
+block vars
+  - var bodyclass = null;
+html(lang='en')
+  head
+    block head
+      meta(charset='utf-8')
+      meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+      meta(name='viewport', content='width=device-width, initial-scale=1.0')
+
+      title
+        block title
+          = locals.name
+
+      link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
+      link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Anonymous+Pro:400,700,400italic,700italic|Merriweather:400,700,300')
+      link(rel='stylesheet', href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css')
+      link(rel='stylesheet', href='/css/main.css')
+      script(src='https://code.jquery.com/jquery-2.1.3.min.js')
+      script(src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js')
+      script(src='/js/scripts.js')
+      script(src='/js/jquery.bibleref.min.js')
+      script(src='//cdnjs.cloudflare.com/ajax/libs/xregexp/2.0.0/xregexp.js')
+      script(src='//cdnjs.cloudflare.com/ajax/libs/xregexp/2.0.0/unicode-base.min.js')
+      script(src='//cdnjs.cloudflare.com/ajax/libs/xregexp/2.0.0/unicode-categories.js')
+      script(src='//cdnjs.cloudflare.com/ajax/libs/xregexp/2.0.0/unicode-blocks.js')
+
+  body(class=bodyclass)
+    header.header
+      div.content-wrap
+        block header
+          div.logo
+            h1
+              a(href=locals.url)= locals.name
+            p.description= locals.description
+          include partials/menu
+    div#content
+      div.content-wrap
+        block content
+          h2 Welcome to zombocom!
+    footer
+      div.content-wrap
+        block footer
+          section.about
+            !=contents['about.md'].html
+          section.copy
+            p &copy; #{ new Date().getFullYear() } #{ locals.owner }
