@@ -1,7 +1,7 @@
 ---
 title: "Prophets and Prophesying"
 pdf: "prophets.pdf"
-description: "Prophets and Prophesying - [PDF] An outline study of the Old Testament Prophet and his ministry."
+description: "Prophets and Prophesying -  An outline study of the Old Testament Prophet and his ministry."
 template: lesson.jade
 ---
 

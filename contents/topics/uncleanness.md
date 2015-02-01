@@ -1,7 +1,7 @@
 ---
 title: "Uncleanness in the Levitical System"
 pdf: "uncleanness.pdf"
-description: "Uncleanness in the Levitical System - [PDF] Notes on the concept of ceremonial uncleanness in the Old Testament Jewish system."
+description: "Uncleanness in the Levitical System -  Notes on the concept of ceremonial uncleanness in the Old Testament Jewish system."
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Hermeneutics"
 pdf: "hermeneutics.pdf"
-description: "Hermeneutics - [PDF] The science and art of Biblical interpretation, by Pastor Drue Freeman."
+description: "Hermeneutics -  The science and art of Biblical interpretation, by Pastor Drue Freeman."
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Salvation in the Old Testament"
 pdf: "salvationot.pdf"
-description: "Salvation in the Old Testament - [PDF] How people got saved before the death of Christ on the Cross."
+description: "Salvation in the Old Testament -  How people got saved before the death of Christ on the Cross."
 template: lesson.jade
 ---
 

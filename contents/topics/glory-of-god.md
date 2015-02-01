@@ -1,7 +1,7 @@
 ---
 title: "Glory of God"
 pdf: "gloryofgod.pdf"
-description: "Glory of God - [PDF] Word study of the word \"glory\" as it refers to the nature of God.\\"
+description: "Glory of God -  Word study of the word \"glory\" as it refers to the nature of God.\\"
 template: lesson.jade
 ---
 

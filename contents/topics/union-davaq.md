@@ -1,7 +1,7 @@
 ---
 title: "Union (davaq)"
 pdf: "uniondavaq.pdf"
-description: "Union (davaq) - [PDF] a study of the Hebrew word DAVAQ, \"union\"."
+description: "Union (davaq) -  a study of the Hebrew word DAVAQ, \"union\"."
 template: lesson.jade
 ---
 

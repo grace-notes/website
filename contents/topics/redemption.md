@@ -1,7 +1,7 @@
 ---
 title: "Redemption"
 pdf: "redemption.pdf"
-description: "Redemption - [PDF] A study of the doctrine of redemption, God's special intervention for the salvation of mankind."
+description: "Redemption -  A study of the doctrine of redemption, God's special intervention for the salvation of mankind."
 template: lesson.jade
 ---
 

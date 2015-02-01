@@ -1,7 +1,7 @@
 ---
 title: "Fellowship, Christian"
 pdf: "fellowship.pdf"
-description: "Fellowship, Christian - [PDF] Four areas of relationship [koinonia] for believers in a local church: doctrine, fellowship, breaking of bread, prayer."
+description: "Fellowship, Christian -  Four areas of relationship [koinonia] for believers in a local church: doctrine, fellowship, breaking of bread, prayer."
 template: lesson.jade
 ---
 

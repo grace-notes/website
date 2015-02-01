@@ -1,7 +1,7 @@
 ---
 title: "Faith-Rest"
 pdf: "faithrest.pdf"
-description: "Faith-Rest - [PDF] The practice of enjoying the peace of God. How to claim promises; how to be stable and relaxed; how to enjoy happiness that doesn't depend on people, circumstances or things."
+description: "Faith-Rest -  The practice of enjoying the peace of God. How to claim promises; how to be stable and relaxed; how to enjoy happiness that doesn't depend on people, circumstances or things."
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Four Gospels, The"
 pdf: "fourgospels.pdf"
-description: "Four Gospels, The - [PDF] An introduction to the gospels of Matthew, Mark, Luke and John."
+description: "Four Gospels, The -  An introduction to the gospels of Matthew, Mark, Luke and John."
 template: lesson.jade
 ---
 

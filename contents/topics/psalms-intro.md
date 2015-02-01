@@ -1,7 +1,7 @@
 ---
 title: "Psalms, Introduction to"
 pdf: "psalmsintro.pdf"
-description: "Psalms, Introduction to - [PDF] An introduction to the study of the Psalms, and an outline of the First Psalm."
+description: "Psalms, Introduction to -  An introduction to the study of the Psalms, and an outline of the First Psalm."
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Manna"
 pdf: "manna.pdf"
-description: "Manna - [PDF] Manna means \"What is it?\" in the Hebrew."
+description: "Manna -  Manna means \"What is it?\" in the Hebrew."
 template: lesson.jade
 ---
 

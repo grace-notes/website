@@ -1,7 +1,7 @@
 ---
 title: "Rabbinical Exegesis"
 pdf: "rabbinicalexegesis.pdf"
-description: "Rabbinical Exegesis - [PDF] -from Talmud scholars, a brief description of the rules to be observed in deducing Halakhah (Jewish law) from the texts of Scripture."
+description: "Rabbinical Exegesis -  -from Talmud scholars, a brief description of the rules to be observed in deducing Halakhah (Jewish law) from the texts of Scripture."
 template: lesson.jade
 ---
 

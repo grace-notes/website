@@ -1,7 +1,7 @@
 ---
 title: "Levitical Sacrifices and Offerings"
 pdf: "leviticalsacrifices.pdf"
-description: "Levitical Sacrifices and Offerings - [PDF] Descriptions and Christian typology of the Levitical sacrifices and offerings; isagogical support to study of New Testament epistles."
+description: "Levitical Sacrifices and Offerings -  Descriptions and Christian typology of the Levitical sacrifices and offerings; isagogical support to study of New Testament epistles."
 template: lesson.jade
 ---
 

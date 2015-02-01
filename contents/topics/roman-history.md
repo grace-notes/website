@@ -1,7 +1,7 @@
 ---
 title: "Roman History"
 pdf: "romanhistory.pdf"
-description: "Roman History - [PDF] An outline history of the period of time leading up to the birth of Christ; The Republic, the Punic Wars, the rise of the Caesars; the city of Rome in New Testament times; the Catacombs."
+description: "Roman History -  An outline history of the period of time leading up to the birth of Christ; The Republic, the Punic Wars, the rise of the Caesars; the city of Rome in New Testament times; the Catacombs."
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Promotion"
 pdf: "promotion.pdf"
-description: "Promotion - [PDF] Personal advancement in the Bible; if God does not promote you, you're not promoted!"
+description: "Promotion -  Personal advancement in the Bible; if God does not promote you, you're not promoted!"
 template: lesson.jade
 ---
 

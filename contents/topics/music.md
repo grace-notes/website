@@ -1,7 +1,7 @@
 ---
 title: "Music, Christian"
 pdf: "music.pdf"
-description: "Music, Christian - [PDF] What the Bible says about Christian singing; psalms, hymns, spiritual songs; doctrinal content of a few well-known hymns. [AUG 2014]"
+description: "Music, Christian -  What the Bible says about Christian singing; psalms, hymns, spiritual songs; doctrinal content of a few well-known hymns. [AUG 2014]"
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Legalism"
 pdf: "legalism.pdf"
-description: "Legalism - [PDF] The greatest distortion to Grace is religious legalism."
+description: "Legalism -  The greatest distortion to Grace is religious legalism."
 template: lesson.jade
 ---
 

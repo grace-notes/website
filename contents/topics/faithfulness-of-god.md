@@ -1,7 +1,7 @@
 ---
 title: "Faithfulness of God"
 pdf: "faithfulnessofgod.pdf"
-description: "Faithfulness of God - [PDF] The faithfulness of God to the believer is expressed in many ways in the Bible."
+description: "Faithfulness of God -  The faithfulness of God to the believer is expressed in many ways in the Bible."
 template: lesson.jade
 ---
 

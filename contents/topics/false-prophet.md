@@ -1,7 +1,7 @@
 ---
 title: "False Prophet, The"
 pdf: "falseprophet.pdf"
-description: "False Prophet, The- [PDF] The False Prophet of the end times."
+description: "False Prophet, The-  The False Prophet of the end times."
 template: lesson.jade
 ---
 **THE FALSE PROPHET**

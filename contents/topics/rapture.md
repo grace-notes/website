@@ -1,7 +1,7 @@
 ---
 title: "Rapture, The"
 pdf: "rapture.pdf"
-description: "Rapture, The - [PDF] A description of the carrying away of believers at the end of the Church Age; a comparison between Rapture and Second Coming events."
+description: "Rapture, The -  A description of the carrying away of believers at the end of the Church Age; a comparison between Rapture and Second Coming events."
 template: lesson.jade
 ---
 

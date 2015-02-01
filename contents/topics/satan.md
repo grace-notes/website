@@ -1,7 +1,7 @@
 ---
 title: "Satan"
 pdf: "satan.pdf"
-description: "Satan - [PDF] What the Bible says about Satan and his strategies."
+description: "Satan -  What the Bible says about Satan and his strategies."
 template: lesson.jade
 ---
 

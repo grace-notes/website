@@ -1,7 +1,7 @@
 ---
 title: "Inheritance"
 pdf: "inheritance.pdf"
-description: "Inheritance - [PDF] A study of the Christian's heritage in Christ."
+description: "Inheritance -  A study of the Christian's heritage in Christ."
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Grace Provision"
 pdf: "graceprovision.pdf"
-description: "Grace Provision - [PDF] God the Father provides logistical supply for believers."
+description: "Grace Provision -  God the Father provides logistical supply for believers."
 template: lesson.jade
 ---
 

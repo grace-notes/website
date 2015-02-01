@@ -1,7 +1,7 @@
 ---
 title: "Gnosticism and the Colossian Heresy"
 pdf: "gnosticism(colossianheresy).pdf"
-description: "Gnosticism and the Colossian Heresy> - [PDF]"
+description: "Gnosticism and the Colossian Heresy"
 template: lesson.jade
 ---
 

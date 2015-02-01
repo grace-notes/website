@@ -1,7 +1,7 @@
 ---
 title: "Inspiration"
 pdf: "inspiration.pdf"
-description: "Inspiration - [PDF] The verbal, plenary inspiration of the Bible."
+description: "Inspiration -  The verbal, plenary inspiration of the Bible."
 template: lesson.jade
 ---
 

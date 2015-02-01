@@ -1,7 +1,7 @@
 ---
 title: "Paul - to the Thessalonians"
 pdf: "paul_firstlettertocorinth.pdf"
-description: "Paul - to the Thessalonians - [PDF] an account of the events surrounding Paul's writing the two Thessalonian epistles, along with translations by Conybeare and Howson."
+description: "Paul - to the Thessalonians -  an account of the events surrounding Paul's writing the two Thessalonian epistles, along with translations by Conybeare and Howson."
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Old Age"
 pdf: "oldage.pdf"
-description: "Old Age - [PDF] The doctrinal truth behind dying grace. How the last years of your life are the best years. Growing old and gracious at the same time."
+description: "Old Age -  The doctrinal truth behind dying grace. How the last years of your life are the best years. Growing old and gracious at the same time."
 template: lesson.jade
 ---
 

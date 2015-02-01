@@ -1,14 +1,9 @@
 ---
 title: "Second Advent of Christ"
 pdf: "secondadvent.pdf"
-description: "Second Advent of Christ - [PDF]"
+description: "Second Advent of Christ"
 template: lesson.jade
 ---
-
-
-**Second Advent 0**
-
-The Second Advent of Christ
 
 by Dr. Randall E. Radic, Pastor
 

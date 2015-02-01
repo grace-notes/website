@@ -1,7 +1,7 @@
 ---
 title: "Heavenlies, The"
 pdf: "heavenlies.pdf"
-description: "Heavenlies, The - [PDF] Brief notes on the locations known as the heavenlies or heavenly places."
+description: "Heavenlies, The -  Brief notes on the locations known as the heavenlies or heavenly places."
 template: lesson.jade
 ---
 

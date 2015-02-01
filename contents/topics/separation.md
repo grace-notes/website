@@ -1,7 +1,7 @@
 ---
 title: "Separation"
 pdf: "separation.pdf"
-description: "Separation - [PDF] A Christian lives in the world, but is not \"of\" it."
+description: "Separation -  A Christian lives in the world, but is not \"of\" it."
 template: lesson.jade
 ---
 

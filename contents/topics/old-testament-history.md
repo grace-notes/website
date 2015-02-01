@@ -1,7 +1,7 @@
 ---
 title: "Old Testament History"
 pdf: "oldtestamenthistory.pdf"
-description: "Old Testament History - [PDF] A history of the period from Solomon to the return of the Jews from exile."
+description: "Old Testament History -  A history of the period from Solomon to the return of the Jews from exile."
 template: lesson.jade
 ---
 

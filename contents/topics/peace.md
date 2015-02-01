@@ -1,7 +1,7 @@
 ---
 title: "Peace of God, and Peace with God"
 pdf: "peace.pdf"
-description: "Peace of God, and Peace with God - [PDF] How to have peace with God and the peace of God. One of the important stability doctrines and Biblical treatments for depression."
+description: "Peace of God, and Peace with God -  How to have peace with God and the peace of God. One of the important stability doctrines and Biblical treatments for depression."
 template: lesson.jade
 ---
 **Christian Peace**

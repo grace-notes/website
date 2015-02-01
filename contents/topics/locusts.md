@@ -1,7 +1,7 @@
 ---
 title: "Locusts"
 pdf: "locusts.pdf"
-description: "Locusts - [PDF] Four different types of locusts are mentioned in Joel 4:1."
+description: "Locusts -  Four different types of locusts are mentioned in Joel 4:1."
 template: lesson.jade
 ---
 
