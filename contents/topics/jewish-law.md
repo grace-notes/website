@@ -1,5 +1,7 @@
 ---
-title: Jewish Law
+title: "Jewish Law in the 1st Century"
+pdf: "jewishlaw.pdf"
+description: "All jurisdiction was either civil, criminal, or ecclesiastical, according as questions of private right, public morality, or religious duty were to be decided."
 template: lesson.jade
 ---
 

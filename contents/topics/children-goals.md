@@ -1,5 +1,7 @@
 ---
-title: Children Goals
+title: "Children, Goals for"
+pdf: "childrengoals.pdf"
+description: "Some ideas regarding setting Biblical goals for nurturing and training children in the plan of God."
 template: lesson.jade
 ---
 

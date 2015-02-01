@@ -1,5 +1,7 @@
 ---
-title: Chapter Titles Bible
+title: "Chapter Titles"
+pdf: "chaptertitles_bible.pdf"
+description: "a title for each chapter in the Bible."
 template: lesson.jade
 ---
 

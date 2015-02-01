@@ -1,5 +1,7 @@
 ---
-title: Ascension
+title: "Ascension of Christ"
+pdf: "ascension.pdf"
+description: "Scripture passages related to the ascension of the Lord Jesus Christ."
 template: lesson.jade
 ---
 

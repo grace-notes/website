@@ -1,5 +1,7 @@
 ---
-title: Widows
+title: "Widows"
+pdf: "widows.pdf"
+description: "In the New Testament, a widow is a woman who has lost her husband by death or is divorced from her husband."
 template: lesson.jade
 ---
 

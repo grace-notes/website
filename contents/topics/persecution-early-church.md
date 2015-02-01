@@ -1,5 +1,7 @@
 ---
-title: Persecution Early Church
+title: "Persecution in the Early Church"
+pdf: "persecutionearlychurch.pdf"
+description: "a description of the life of early believers under Jewish persecution."
 template: lesson.jade
 ---
 

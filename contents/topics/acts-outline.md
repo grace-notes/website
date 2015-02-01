@@ -1,8 +1,8 @@
 ---
-title: Acts, Outline
+title: "Acts, Outline"
+pdf: "actsoutline.pdf"
+description: "outline of the book of Acts."
 template: lesson.jade
-discription: "outline of the book of Acts."
-date: "06/01/2004"
 ---
 
 **The Acts of the Apostles - Outline**

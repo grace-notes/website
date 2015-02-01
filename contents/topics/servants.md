@@ -1,5 +1,7 @@
 ---
-title: Servants
+title: "Servants of God"
+pdf: "servants.pdf"
+description: "Servants of God - [PDF] God commands Christians to be faithful and obedient servants."
 template: lesson.jade
 ---
 

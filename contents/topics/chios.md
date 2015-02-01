@@ -1,5 +1,7 @@
 ---
-title: Chios
+title: "Chios -"
+pdf: "chios.pdf"
+description: "mentioned on Paul’s third missionary journey. Chios was especially noted in antiquity for its claim to be the birthplace of Homer, for its school of epic poets, and its sculptors."
 template: lesson.jade
 ---
 

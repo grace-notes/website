@@ -1,5 +1,7 @@
 ---
-title: Hellenism
+title: "Hellenism"
+pdf: "hellenism.pdf"
+description: "a short study of the Greek thinking that influenced the thinking and culture of those Jewish people who were educated in Greek philosophy and culture."
 template: lesson.jade
 ---
 

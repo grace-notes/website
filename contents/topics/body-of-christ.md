@@ -1,5 +1,7 @@
 ---
-title: Body Of Christ
+title: "Body of Christ"
+pdf: "bodyofchrist.pdf"
+description: "Every Christian is a member of the Body of Christ."
 template: lesson.jade
 ---
 

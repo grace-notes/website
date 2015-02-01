@@ -1,5 +1,7 @@
 ---
-title: Bible Study
+title: "Bible Study"
+pdf: "biblestudy.pdf"
+description: "by Drue Freeman. How to study the Bible with understanding."
 template: lesson.jade
 ---
 

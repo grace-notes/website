@@ -1,5 +1,7 @@
 ---
-title: Servants Slaves
+title: "Servants and Slaves"
+pdf: "servantsslaves.pdf"
+description: "Servants and Slaves - [PDF] A description of the condition and treatment of servants and slaves in Bible times."
 template: lesson.jade
 ---
 

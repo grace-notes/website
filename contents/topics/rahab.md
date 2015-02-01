@@ -1,5 +1,7 @@
 ---
-title: Rahab
+title: "Rahab and the Grace of God"
+pdf: "rahab.pdf"
+description: "Rahab and the Grace of God - [PDF] Rahab, Salmon's wife, Ruth's mother-in-law, David's great-great-grandmother, a trophy to the Grace of God."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Blessing
+title: "Blessing"
+pdf: "blessing.pdf"
+description: "Bible origins of the New Testament word \"blessing\", applications."
 template: lesson.jade
 ---
 

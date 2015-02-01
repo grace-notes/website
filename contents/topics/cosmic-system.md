@@ -1,6 +1,7 @@
 ---
-title: Cosmic System
-description: Satan's plan and process for controlling the world, and his attempt, using his organization of fallen angels, to counteract the plan of God in all respects.
+title: "Cosmic System"
+pdf: "cosmicsystem.pdf"
+description: "Satan's plan and process for controlling the world, and his attempt, using his organization of fallen angels, to counteract the plan of God in all respects."
 template: lesson.jade
 ---
 

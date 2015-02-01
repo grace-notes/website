@@ -1,5 +1,7 @@
 ---
-title: Agape Feast
+title: "The Agape Feast"
+pdf: "agapefeast.pdf"
+description: "The brotherly common meals of the early Church."
 template: lesson.jade
 ---
 

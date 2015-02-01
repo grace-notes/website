@@ -1,5 +1,7 @@
 ---
-title: Regeneration
+title: "Regeneration"
+pdf: "regeneration.pdf"
+description: "Regeneration - [PDF] What does it mean to be born again? A discussion of the words referring to a believer's new life in Christ."
 template: lesson.jade
 ---
 

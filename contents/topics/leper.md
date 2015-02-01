@@ -1,5 +1,7 @@
 ---
-title: Leper
+title: "Leper"
+pdf: "leper.pdf"
+description: "A leper suffers from a specific form of mycobacterial infection that was dreaded in antiquity and that until A.D. 1960 was regarded as intractable and incurable."
 template: lesson.jade
 ---
 

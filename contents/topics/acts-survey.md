@@ -1,8 +1,8 @@
 ---
-title: Acts, Survey
-template: lesson.jade
+title: "Acts, Survey"
+pdf: "acts_survey.pdf"
 description: "a survey of the Acts of the Apostles."
-date: "11/1/2011"
+template: lesson.jade
 ---
 
 **Survey of the Acts of the Apostles**

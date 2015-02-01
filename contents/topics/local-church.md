@@ -1,5 +1,7 @@
 ---
-title: Local Church
+title: "Local Church"
+pdf: "localchurch.pdf"
+description: "Local Church - [PDF] a collection of Bible references dealing with the basic attitude and activities which are present in a local church."
 template: lesson.jade
 ---
 

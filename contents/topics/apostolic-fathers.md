@@ -1,5 +1,7 @@
 ---
-title: Apostolic Fathers
+title: "Apostolic Fathers, The"
+pdf: "apostolicfathers.pdf"
+description: "at least a partial listing, including brief biographies of the successors to the Apostles."
 template: lesson.jade
 ---
 

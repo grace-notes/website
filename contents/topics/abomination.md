@@ -1,8 +1,8 @@
 ---
-title: Abomination
-template: lesson.jade
-published: 2014-02-20
+title: "Abomination of Desolation"
+pdf: "abomination.pdf"
 description: "In Matthew 24:15-20, our Lord Himself spoke of the \"abomination of desolation\"."
+template: lesson.jade
 ---
 
 In Matthew 24:15-20, our Lord Himself spoke of the “abomination of

@@ -1,5 +1,7 @@
 ---
-title: Atonement Day Of
+title: "Atonement, The Day of"
+pdf: "atonementdayof.pdf"
+description: "The Day of Atonement was the fourth of the five annual feasts of pre-exile Israel."
 template: lesson.jade
 ---
 

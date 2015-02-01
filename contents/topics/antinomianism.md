@@ -1,5 +1,7 @@
 ---
-title: Antinomianism
+title: "Antinomianism"
+pdf: "antinomianism.pdf"
+description: "Antinomianism is the view that Christians are exempt from the demands of the moral law by reason of their reliance upon divine grace alone for salvation."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: John The Baptist Outline
+title: "John the Baptist"
+pdf: "johnthebaptist_outline.pdf"
+description: "John the Baptist - [PDF] -a complete exposition of all of the teaching in the Bible about the great prophet and his relationship to Jesus Christ."
 template: lesson.jade
 ---
 

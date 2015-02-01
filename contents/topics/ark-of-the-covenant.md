@@ -1,5 +1,7 @@
 ---
-title: Ark Of The Covenant
+title: "Ark of the Covenant"
+pdf: "arkofthecovenant.pdf"
+description: "The Ark of the Tabernacle, its history and typology."
 template: lesson.jade
 ---
 

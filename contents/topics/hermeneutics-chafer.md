@@ -1,5 +1,7 @@
 ---
-title: Hermeneutics Chafer
+title: "Hermeneutics, Syllabus of Studies in"
+pdf: "hermeneutics_chafer.pdf"
+description: "A classical study in Hermeneutics, by Rollin Thomas Chafer. Used in Pastor's Ministry Workshop of Austin Bible Church"
 template: lesson.jade
 ---
 

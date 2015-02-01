@@ -1,5 +1,7 @@
 ---
-title: Assyria
+title: "Assyria"
+pdf: "assyria.pdf"
+description: "Capsule history of the Assyrian Empire."
 template: lesson.jade
 ---
 

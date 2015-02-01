@@ -1,5 +1,7 @@
 ---
-title: Ephesus
+title: "Ephesus"
+pdf: "ephesus.pdf"
+description: "overview of the city of the Ephesians."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Genealogy
+title: "Genealogy of Jesus Christ"
+pdf: "genealogy.pdf"
+description: "Genealogy of Jesus Christ - [PDF] the complete listing of all the forbears of Jesus, from Adam to Joseph and Mary."
 template: lesson.jade
 ---
 

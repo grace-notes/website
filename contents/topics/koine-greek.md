@@ -1,5 +1,7 @@
 ---
-title: Koine Greek
+title: "Koine Greek, History of"
+pdf: "koinegreek.pdf"
+description: "how the common Greek of the New Testament was formed."
 template: lesson.jade
 ---
 

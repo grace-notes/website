@@ -1,7 +1,7 @@
 ---
-title: Gospel
-display_title: The Gospel
-description: The use of the term "gospel" in the New Testament - the "good news" of salvation.
+title: "Gospel, The"
+pdf: "gospel.pdf"
+description: "Gospel, The - [PDF] The use of the term \"gospel\" in the New Testament - the \"good news\" of salvation."
 template: lesson.jade
 ---
 

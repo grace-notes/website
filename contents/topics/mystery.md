@@ -1,7 +1,7 @@
 ---
-title: Mystery
-display_title: Mystery Doctrines
-description: The word "mystery" in the New Testament refers to the doctrine which is specific for the Church Age. It is called "the mystery" because there things were never revealed in Old Testament times.
+title: "Mystery Doctrines"
+pdf: "mystery.pdf"
+description: "The word \"mystery\" in the New Testament refers to the doctrine which is specific for the Church Age. It is called \"the mystery\" because there things were never revealed in Old Testament times."
 template: lesson.jade
 ---
 

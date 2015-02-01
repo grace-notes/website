@@ -1,5 +1,7 @@
 ---
-title: Tyre
+title: "Tyre"
+pdf: "tyre.pdf"
+description: "When Paul and Barnabas traveled from Antioch to Jerusalem, they went through Phoenicia to tell the believers how God had brought Gentiles to faith (Acts 15:3)."
 template: lesson.jade
 ---
 

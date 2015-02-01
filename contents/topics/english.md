@@ -1,5 +1,7 @@
 ---
-title: English
+title: "English Language, Origins of the"
+pdf: "english.pdf"
+description: "English Language, Origins of the - [PDF]"
 template: lesson.jade
 ---
 

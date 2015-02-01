@@ -1,5 +1,7 @@
 ---
-title: Pilate
+title: "Pilate"
+pdf: "pilate.pdf"
+description: "Pontius Pilate was the fifth governor of the Roman province of Judaea. His rule began in 26 AD and lasted until early in 37 AD."
 template: lesson.jade
 ---
 

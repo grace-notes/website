@@ -1,5 +1,7 @@
 ---
-title: Greek History
+title: "Greek History"
+pdf: "greekhistory.pdf"
+description: "a short history of ancient Greece (24 pages)."
 template: lesson.jade
 ---
 

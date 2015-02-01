@@ -1,6 +1,7 @@
 ---
-title: Redeeming Time
-description: A Christian is obliged to make the most of time here on earth, living with eternity's values in view.
+title: "Redeeming the Time"
+pdf: "redeemingtime.pdf"
+description: "Redeeming the Time - [PDF] A Christian is obliged to make the most of time here on earth, living with eternity's values in view."
 template: lesson.jade
 ---
 **Have the Time of Your Life!**

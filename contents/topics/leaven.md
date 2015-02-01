@@ -1,5 +1,7 @@
 ---
-title: Leaven
+title: "Leaven"
+pdf: "leaven.pdf"
+description: "Leaven - [PDF] A study of the concept of leaven in the Bible"
 template: lesson.jade
 ---
 

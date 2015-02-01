@@ -1,5 +1,7 @@
 ---
-title: Zion
+title: "Zion"
+pdf: "zion.pdf"
+description: "one page study giving the Bible references and definitions for Zion, a word that means \"grace.\""
 template: lesson.jade
 ---
 

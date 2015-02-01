@@ -1,6 +1,7 @@
 ---
-title: Edification
-description:  the doctrine of growing in the knowledge of Jesus Christ, leading to productivity in the Christian way of life.
+title: "Edification"
+pdf: "edification.pdf"
+description: "the doctrine of growing in the knowledge of Jesus Christ, leading to productivity in the Christian way of life."
 template: lesson.jade
 ---
 

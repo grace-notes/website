@@ -1,12 +1,9 @@
 ---
-title: Divisionsinthe Early Church
+title: "Divisions in the Early Church"
+pdf: "divisionsintheearlychurch.pdf"
+description: "divisions and heresies in the Church in the time of the apostle Paul."
 template: lesson.jade
 ---
-
-
-**Divisions in the Early Church 12**
-
-**Divisions in the Early Church**
 
 **Divisions and Heresies in the Church During the Lifetime of St. Paul**
 

@@ -1,5 +1,7 @@
 ---
-title: Sennacherib
+title: "Sennacherib"
+pdf: "sennacherib.pdf"
+description: "King of Assyria and Babylonia (705-681 B.C.), son of Sargon II and father of Esarhaddon. He besieged Jerusalem in the days of Hezekiah."
 template: lesson.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Salvation Doctrines
-display_title: Salvation Doctrines
-description: Teaching about our union with Christ; and a listing, with verses, of more than 50 basic doctrines of the Bible which describe all that happens to a believer at the moment of salvation.
+title: "Salvation Doctrines"
+pdf: "salvationdoctrines.pdf"
+description: "Salvation Doctrines - [PDF] Teaching about our union with Christ; and a listing, with verses, of more than 50 basic doctrines of the Bible which describe all that happens to a believer at the moment of salvation."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Methusaleh
+title: "Methusaleh"
+pdf: "methusaleh.pdf"
+description: "Methusaleh - [PDF] The oldest man is the world may also be the most famous."
 template: lesson.jade
 ---
 

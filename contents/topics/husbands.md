@@ -1,5 +1,7 @@
 ---
-title: Husbands
+title: "Husbands"
+pdf: "husbands.pdf"
+description: "Husbands - [PDF] How to be the husband of a happy wife."
 template: lesson.jade
 ---
 

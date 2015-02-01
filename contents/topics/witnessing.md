@@ -1,5 +1,7 @@
 ---
-title: Witnessing
+title: "Witnessing"
+pdf: "witnessing.pdf"
+description: "from a discussion of Ephesians 6:15, \"And your feet shod with the preparation of the gospel of peace.\""
 template: lesson.jade
 ---
 

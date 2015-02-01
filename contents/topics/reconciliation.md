@@ -1,5 +1,7 @@
 ---
-title: Reconciliation
+title: "Reconciliation"
+pdf: "reconciliation.pdf"
+description: "Reconciliation - [PDF] How God the Father changes (reconciles) us to His own standards and righteousness."
 template: lesson.jade
 ---
 

@@ -1,6 +1,7 @@
 ---
-title: Holy Spirit Salvation Ministry
-description: God the Holy Spirit did seven things for each Church Age believer at the time of salvation.
+title: "Holy Spirit - Salvation Ministry"
+pdf: "holyspirit_salvationministry.pdf"
+description: "Holy Spirit - Salvation Ministry - [PDF] God the Holy Spirit did seven things for each Church Age believer at the time of salvation."
 template: lesson.jade
 ---
 

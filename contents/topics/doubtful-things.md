@@ -1,5 +1,7 @@
 ---
-title: Doubtful Things
+title: "Doubtful Things"
+pdf: "doubtfulthings.pdf"
+description: "The doctrine of Doubtful Things refers to those issues that are not directly dealt with in the Scriptures. It is primarily related to the believer's attitude toward the weaker Christian."
 template: lesson.jade
 ---
 

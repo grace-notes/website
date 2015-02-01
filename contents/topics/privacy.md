@@ -1,5 +1,7 @@
 ---
-title: Privacy
+title: "Privacy"
+pdf: "privacy.pdf"
+description: "Privacy is that principle of freedom whereby an individual has the right to retire from the company of others, remaining in seclusion from the knowledge or observation of others."
 template: lesson.jade
 ---
 

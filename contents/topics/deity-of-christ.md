@@ -1,6 +1,7 @@
 ---
-title: Deity Of Christ
-description: Scripture references to the deity of Christ in which divine essence is attributed to Christ. [JUL 2013]
+title: "Deity of Christ"
+pdf: "deityofchrist.pdf"
+description: "Scripture references to the deity of Christ in which divine essence is attributed to Christ."
 template: lesson.jade
 ---
 

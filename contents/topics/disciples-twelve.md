@@ -1,12 +1,9 @@
 ---
-title: Disciples Twelve
+title: The Twelve Disciples
+description: "Biographies of the twelve disciples by Mark Perkins"
+pdf: disciplestwelve.pdf
 template: lesson.jade
 ---
-
-
-**The Twelve Disciples 8**
-
-**The Twelve Disciples**
 
 **by Mark Perkins, Pastor, Front Range Bible Church, Denver, Colorado
 USA**

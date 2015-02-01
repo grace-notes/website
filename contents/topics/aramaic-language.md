@@ -1,5 +1,7 @@
 ---
-title: Aramaic Language
+title: "The Aramaic Language"
+pdf: "aramaiclanguage.pdf"
+description: "Aramaic is a language or group of languages of the Semitic family, closely related to Hebrew. Biblical Aramaic, formerly called Chaldee, is the name given to the Aramaic occasionally found in the Old Testament."
 template: lesson.jade
 ---
 

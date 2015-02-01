@@ -1,7 +1,7 @@
 ---
-title: Holy Spirit Sustaining Ministry
-display_title: Holy Spirit - Sustaining Ministry
-description: The Holy Spirit sustained Christ during His time on earth, and the Holy Spirit sustains believers in the Christian life.
+title: "Holy Spirit - Sustaining Ministry"
+pdf: "holyspirit_sustainingministry.pdf"
+description: "Holy Spirit - Sustaining Ministry - [PDF] The Holy Spirit sustained Christ during His time on earth, and the Holy Spirit sustains believers in the Christian life."
 template: lesson.jade
 ---
 

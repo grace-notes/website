@@ -1,5 +1,7 @@
 ---
-title: Paul Chronology
+title: "Paul: Chronological Table"
+pdf: "paulchronology.pdf"
+description: "Paul: Chronological Table - [PDF] A time table of Paul's life, with matching contemporary events."
 template: lesson.jade
 ---
 

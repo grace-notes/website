@@ -1,5 +1,7 @@
 ---
-title: Caesarea Palestine
+title: "Caesarea Palestine"
+pdf: "caesareapalestine.pdf"
+description: "Caesarea, the Roman capital of Judea in the time of Christ and Paul, was located by the sea, thirty-two miles north of Joppa, and some sixty miles northwest of Jerusalem."
 template: lesson.jade
 ---
 

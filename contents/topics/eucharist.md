@@ -1,5 +1,7 @@
 ---
-title: Eucharist
+title: "Eucharist"
+pdf: "eucharist.pdf"
+description: "The history of the relationship between the Passover and the Lord's Supper."
 template: lesson.jade
 ---
 

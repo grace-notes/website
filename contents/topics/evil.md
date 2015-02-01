@@ -1,6 +1,6 @@
 ---
-title: Evil
-display_title: "Doctrine of Evil"
+title: "Evil, Doctrine of"
+pdf: "evil.pdf"
 description: "A thorough study of the doctrines related to Satan's strategy, his attempt to discredit the Lord Jesus Christ during the Church Age."
 template: lesson.jade
 ---

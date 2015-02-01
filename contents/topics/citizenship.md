@@ -1,5 +1,7 @@
 ---
-title: Citizenship
+title: "Citizenship of the Believer"
+pdf: "citizenship.pdf"
+description: "Verses describing the Christian's transfer of citizenship from the world to the heavenly kingdom through union with Christ."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Edomites
+title: "Edomites"
+pdf: "edomites.pdf"
+description: "Historical summary of the Edomites."
 template: lesson.jade
 ---
 

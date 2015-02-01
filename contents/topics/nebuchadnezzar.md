@@ -1,5 +1,7 @@
 ---
-title: Nebuchadnezzar
+title: "Nebuchadnezzar"
+pdf: "nebuchadnezzar.pdf"
+description: "King of Babylon (605-562 BC) and conqueror of Jerusalem."
 template: lesson.jade
 ---
 

@@ -1,6 +1,7 @@
 ---
-title: Suffering
-description: A discussion of the suffering experienced by believers and unbelievers; deserved and undeserved suffering; how to avoid some forms of suffering; suffering for blessing.
+title: "Suffering"
+pdf: "suffering.pdf"
+description: "Suffering - [PDF] A discussion of the suffering experienced by believers and unbelievers; deserved and undeserved suffering; how to avoid some forms of suffering; suffering for blessing."
 template: lesson.jade
 ---
 

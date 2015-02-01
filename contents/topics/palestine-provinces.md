@@ -1,5 +1,7 @@
 ---
-title: Palestine Provinces
+title: "Palestine Provinces"
+pdf: "palestineprovinces.pdf"
+description: "The geographical position of Palestine gave it a political importance greater than that to which its extent and population would otherwise have entitled it."
 template: lesson.jade
 ---
 

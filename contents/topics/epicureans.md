@@ -1,5 +1,7 @@
 ---
-title: Epicureans
+title: "Epicureans"
+pdf: "epicureans.pdf"
+description: "Epicurus and his followers devoted themselves primarily to the pursuit of personal, individual happiness."
 template: lesson.jade
 ---
 

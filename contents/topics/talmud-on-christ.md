@@ -1,5 +1,7 @@
 ---
-title: Talmud On Christ
+title: "Talmud: On Christ"
+pdf: "talmud_onchrist.pdf"
+description: "what the Talmud teaches about Jesus Christ, the founder of Christianity; and about his followers, the Christians."
 template: lesson.jade
 ---
 

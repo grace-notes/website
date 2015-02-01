@@ -1,5 +1,7 @@
 ---
-title: Rome In Bible Times
+title: "Rome in BibleTimes"
+pdf: "romeinbibletimes.pdf"
+description: "Rome in BibleTimes - [PDF] -what was the city of Rome like in the times of the early church?"
 template: lesson.jade
 ---
 

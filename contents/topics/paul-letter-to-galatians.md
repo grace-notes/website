@@ -1,5 +1,7 @@
 ---
-title: Paul Letter To Galatians
+title: "Paul - Letter to the Galatians"
+pdf: "paul_lettertogalatians.pdf"
+description: "narrative surrounding Paul's writing from Macedonia his epistle to the Galatians; by Conybeare and Howson, along with their translation of the letter."
 template: lesson.jade
 ---
 

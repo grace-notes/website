@@ -1,5 +1,7 @@
 ---
-title: Prayer Principles
+title: "Prayer, Principles of"
+pdf: "prayerprinciples.pdf"
+description: "Prayer, Principles of- [PDF] prayer is communication with God."
 template: lesson.jade
 ---
 

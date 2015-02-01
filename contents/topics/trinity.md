@@ -1,5 +1,7 @@
 ---
-title: Trinity
+title: "Trinity"
+pdf: "trinity.pdf"
+description: "The doctrine of the trinity recognizes God as being one in essence but three persons who possess equal, perfect, eternal and infinite identical essence."
 template: lesson.jade
 ---
 

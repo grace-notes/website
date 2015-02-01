@@ -1,5 +1,7 @@
 ---
-title: Sects Parties
+title: "Jews, Sects and Parties"
+pdf: "sectsparties.pdf"
+description: "a description of the various Jewish parties in the time of Christ, including Pharisees, Sadducees, Hellenists, Arameans."
 template: lesson.jade
 ---
 

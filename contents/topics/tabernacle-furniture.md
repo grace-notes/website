@@ -1,5 +1,7 @@
 ---
-title: Tabernacle Furniture
+title: "Tabernacle Furniture"
+pdf: "tabernaclefurniture.pdf"
+description: "Tabernacle Furniture - [PDF] A description of function and typology of the laver, candlesticks, table of bread, altar of incense, veil, and ark of the covenant."
 template: lesson.jade
 ---
 

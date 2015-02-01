@@ -1,6 +1,7 @@
 ---
-title: Happiness
-description: The joy of God; a happiness that does not depend on people, things, or circumstances.
+title: "Happiness"
+pdf: "happiness.pdf"
+description: "Happiness - [PDF] The joy of God; a happiness that does not depend on people, things, or circumstances."
 template: lesson.jade
 ---
 

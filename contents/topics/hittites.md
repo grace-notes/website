@@ -1,5 +1,7 @@
 ---
-title: Hittites
+title: "Hittites"
+pdf: "hittites.pdf"
+description: "The Hittites are a Hamitic people. They are the descendants of Heth, Gen 10:15."
 template: lesson.jade
 ---
 

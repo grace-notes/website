@@ -1,5 +1,7 @@
 ---
-title: Godliness
+title: "Godliness"
+pdf: "godliness.pdf"
+description: "Godliness - [PDF] The study of the Greek Word eusebeia, \"inner piety\", spiritual maturity in believers."
 template: lesson.jade
 ---
 

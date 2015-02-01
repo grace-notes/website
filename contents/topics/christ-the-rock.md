@@ -1,6 +1,7 @@
 ---
-title: Christ The Rock
-description: This is the stone which was set at nought of you builders, which is become the head of the corner.
+title: "Rock, Jesus Christ the Rock"
+pdf: "christtherock.pdf"
+description: "Scriptures referring to Jesus Christ as the Rock."
 template: lesson.jade
 ---
 
@@ -29,4 +30,6 @@ Jesus Christ the Rock
 The Jews understood these references; and Peter is telling them that they have “set at nought” the Lord, having rejected Him and totally disregarded Him.
 
 Christ “became” the “head of the corner,” referring to His joining the two spiritual kingdoms, the Church and born-again Israel. After the 2nd Advent, there will also be political unity, but of course made up only of believers in Christ.
+
+ade up only of believers in Christ.
 

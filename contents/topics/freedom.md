@@ -1,5 +1,7 @@
 ---
-title: Freedom
+title: "Freedom"
+pdf: "freedom.pdf"
+description: "Freedom - [PDF] What it means to be set free from \"the law of sin and death.\""
 template: lesson.jade
 ---
 

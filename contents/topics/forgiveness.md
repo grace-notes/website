@@ -1,6 +1,7 @@
 ---
-title: Forgiveness
-description: The test of Grace living is a forgiving spirit.
+title: "Forgiveness"
+pdf: "forgiveness.pdf"
+description: "Forgiveness - [PDF] The test of Grace living is a forgiving spirit."
 template: lesson.jade
 ---
 

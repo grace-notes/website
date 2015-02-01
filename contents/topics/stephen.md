@@ -1,5 +1,7 @@
 ---
-title: Stephen
+title: "Stephen"
+pdf: "stephen.pdf"
+description: "an excellent study of the first martyr!"
 template: lesson.jade
 ---
 

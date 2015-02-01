@@ -1,5 +1,7 @@
 ---
-title: Inerrancy
+title: "Inerrancy"
+pdf: "inerrancy.pdf"
+description: "Inerrancy - [PDF] A comparison of the views of both sides of the issue of inerrancy in the Bible."
 template: lesson.jade
 ---
 

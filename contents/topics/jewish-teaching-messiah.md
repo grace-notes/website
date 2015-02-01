@@ -1,5 +1,7 @@
 ---
-title: Jewish Teaching Messiah
+title: "Jewish Teaching, Messiah"
+pdf: "jewishteaching_messiah.pdf"
+description: "Jewish teaching regarding the Messiah."
 template: lesson.jade
 ---
 

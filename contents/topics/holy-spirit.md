@@ -1,5 +1,7 @@
 ---
-title: Holy Spirit
+title: "Holy Spirit"
+pdf: "holyspirit.pdf"
+description: "Holy Spirit - [PDF] The Person and work of God the Holy Spirit; the indwelling of the Spirit; the filling of the Spirit; the fruit of the Spirit."
 template: lesson.jade
 ---
 

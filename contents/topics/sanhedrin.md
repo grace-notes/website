@@ -1,5 +1,7 @@
 ---
-title: Sanhedrin
+title: "Sanhedrin"
+pdf: "sanhedrin.pdf"
+description: "a brief description and history of this ruling Jewish organization."
 template: lesson.jade
 ---
 

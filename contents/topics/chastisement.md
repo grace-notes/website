@@ -1,7 +1,7 @@
 ---
-title: Chastisement
-display_title: Chastisement (Divine Discipline)
-description: Whom the Lord loves, He chastens; the study of Divine Discipline
+title: "Chastisement (Divine Discipline)"
+pdf: "chastisement.pdf"
+description: "Whom the Lord loves, He chastens; the study of Divine Discipline"
 template: lesson.jade
 ---
 

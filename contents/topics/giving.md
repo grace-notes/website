@@ -1,6 +1,7 @@
 ---
-title: Giving
-description: A brief study of Christian giving - comments on 2 Corinthians 8 and 9.
+title: "Giving"
+pdf: "giving.pdf"
+description: "Giving - [PDF] A brief study of Christian giving - comments on 2 Corinthians 8 and 9."
 template: lesson.jade
 ---
 

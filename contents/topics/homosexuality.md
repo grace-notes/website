@@ -1,5 +1,7 @@
 ---
-title: Homosexuality
+title: "Homosexuality"
+pdf: "homosexuality.pdf"
+description: "a thorough treatment of what the Bible says about this issue."
 template: lesson.jade
 ---
 

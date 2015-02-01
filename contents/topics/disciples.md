@@ -1,12 +1,9 @@
 ---
-title: Disciples
+title: "Christ's Disciples"
+pdf: "disciples.pdf"
+description: "Biographies of the twelve and other disciples"
 template: lesson.jade
 ---
-
-
-**Christ’s Disciples 9**
-
-**Christ’s Disciples**
 
 The Official Calling of the Disciples
 =====================================

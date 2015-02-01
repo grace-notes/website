@@ -1,5 +1,7 @@
 ---
-title: Paul In Corinth
+title: "Paul in Corinth"
+pdf: "paulincorinth.pdf"
+description: "Paul in Corinth - [PDF] an account of the apostle Paul's ministry in Corinth."
 template: lesson.jade
 ---
 

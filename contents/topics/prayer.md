@@ -1,5 +1,7 @@
 ---
-title: Prayer
+title: "Prayer"
+pdf: "prayer.pdf"
+description: "Prayer - [PDF] Practical teaching on how to pray to God and what to expect from Him."
 template: lesson.jade
 ---
 

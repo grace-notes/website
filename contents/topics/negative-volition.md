@@ -1,6 +1,7 @@
 ---
-title: Negative Volition
-description: Stern warnings to believers "not to walk as other Gentiles walk".
+title: "Negative Volition"
+pdf: "negativevolition.pdf"
+description: "Negative Volition - [PDF] Stern warnings to believers \"not to walk as other Gentiles walk\"."
 template: lesson.jade
 ---
 

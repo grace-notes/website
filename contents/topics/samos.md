@@ -1,5 +1,7 @@
 ---
-title: Samos
+title: "Samos"
+pdf: "samos.pdf"
+description: "When Paul \"touched\" here after passing Chios on returning from his third missionary journey (Acts 20:15), Samos was a \"free city\" in the province of Asia."
 template: lesson.jade
 ---
 

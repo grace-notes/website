@@ -1,5 +1,7 @@
 ---
-title: Phoenicia
+title: "Phoenicia"
+pdf: "phoenicia.pdf"
+description: "Phoenicia designates the Syrian coast, and Phoenicians the Northwest Semitic inhabitants of that region in the period from 1200 b.c. to about the end of the Roman era."
 template: lesson.jade
 ---
 

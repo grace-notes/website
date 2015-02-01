@@ -1,9 +1,8 @@
 ---
 title: "Acts, Introduction"
-template: lesson.jade
-published: true
+pdf: "acts_intro.pdf"
 description: "an introduction to the study of the Acts of the Apostles."
-date: "12/01/2008"
+template: lesson.jade
 ---
 
 By David Malick, Biblical Studies Foundation

@@ -1,5 +1,7 @@
 ---
-title: Jerusalem
+title: "Jerusalem"
+pdf: "jerusalem.pdf"
+description: "Jerusalem - [PDF] A study of the chief city of Israel."
 template: lesson.jade
 ---
 

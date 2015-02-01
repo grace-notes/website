@@ -1,5 +1,7 @@
 ---
-title: Pride
+title: "Pride (Arrogance)"
+pdf: "pride.pdf"
+description: "Pride (Arrogance) - [PDF] Whenever a Christian fails to execute the plan of God for his life, sinful pride is the primary reason and motivating cause."
 template: lesson.jade
 ---
 

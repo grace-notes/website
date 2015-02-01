@@ -1,5 +1,7 @@
 ---
-title: Pentecost
+title: "Pentecost"
+pdf: "pentecost.pdf"
+description: "The ascension of Christ to heaven was followed ten days afterwards by the descent of the Holy Spirit upon earth and the birth of the Christian Church."
 template: lesson.jade
 ---
 

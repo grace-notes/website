@@ -1,5 +1,7 @@
 ---
-title: Canaan
+title: "Canaan"
+pdf: "canaan.pdf"
+description: "Canaan is an ancient name for the area that includes all of the land west of the Jordan and Syria to the level of Lebweh."
 template: lesson.jade
 ---
 

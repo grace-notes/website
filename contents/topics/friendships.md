@@ -1,5 +1,7 @@
 ---
-title: Friendships
+title: "Friendships"
+pdf: "friendships.pdf"
+description: "Friendships - [PDF] Every meeting with another person is a divine encounter."
 template: lesson.jade
 ---
 

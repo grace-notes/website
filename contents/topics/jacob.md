@@ -1,5 +1,7 @@
 ---
-title: JACOB
+title: "Jacob"
+pdf: "jacob.pdf"
+description: "Jacob was an OT patriarch, son of Isaac and father of the twelve named ancestors of the tribes of Israel (from International Standard Bible Encyclopedia)."
 template: lesson.jade
 ---
 

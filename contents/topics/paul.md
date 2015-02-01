@@ -1,5 +1,7 @@
 ---
-title: Paul
+title: "Paul the Apostle"
+pdf: "paul.pdf"
+description: "Paul the Apostle - [PDF] Paul's education and career. [AUG 2014]"
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Egypt.Herodotus
+title: "Egypt - Herodotus"
+pdf: "egypt.herodotus.pdf"
+description: "Among Herodotus' descriptions of countries the most fascinating to the modern reader, as it was to the ancient, is his account of the marvels of the land of Egypt."
 template: lesson.jade
 ---
 

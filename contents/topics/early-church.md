@@ -1,14 +1,11 @@
 ---
-title: Early Church
+title: "The Early Church"
+pdf: "earlychurch.pdf"
+description: "Details of the organization and activities of the Church, from Pentecost to the beginning of Paul's ministry."
 template: lesson.jade
 ---
 
-
-The Early Church **3**
-
-The Early Church
-
-from The Life and Epistles of St. Paul  
+from _The Life and Epistles of St. Paul_  
 by W. J. Conybeare and J. S. Howson
 
 We will describe in a few words the first beginnings of the Apostolic
@@ -56,7 +53,7 @@ support, and this would make almsgiving necessary.
 But the Jews of Palestine were relatively poor compared with those of
 the dispersion. We see this exemplified on later occasions in the
 contributions which St. Paul more than once anxiously promoted.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> And in the very first
+[^1] And in the very first
 days of the Church, we find its wealthier members placing their entire
 possessions at the disposal of the Apostles. Not that there was any
 abolition of the rights of property, as the words of St. Peter to
@@ -82,7 +79,7 @@ will wonder that it broke out again even among those who had become
 obedient to the doctrine of Christ.
 
 That the widows’ fund might be carefully distributed, seven almoners, or
-deacons, <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> were appointed,
+deacons, [^2] were appointed,
 of whom the most eminent was Stephen, described as a man “full of faith,
 and of the Holy Spirit,” and as one who, “full of faith and power did
 great wonders and miracles among the people.” It will be observed that
@@ -109,7 +106,7 @@ now added the Nazarene Synagogue, or the Synagogue of the Galileans.
 Not that any separate building was erected for the devotions of the
 Christians, for they met from house to house for prayer and the breaking
 of bread. But they were by no means separated from the nation:
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> they attended the
+[^3] they attended the
 festivals; they worshipped in the Temple. They were a new and singular
 party in the nation, holding peculiar opinions and interpreting the
 Scriptures in a peculiar way.
@@ -195,3 +192,17 @@ the Temple only or in any one sacred spot, but everywhere throughout the
 earth, “in spirit and in truth,” and for this doctrine he was doomed to
 die.
 
+[^1]: Acts 19:29,30; Rom. 15:25,26, cf. Acts 24:17; 1 Cor. 16:1-4; 2
+Cor. 8:1-4. 
+
+[^2]: The general question of the Diaconate in the primitive Church
+is considered in chapter 13. 
+
+[^3]: “The worship of the Temple and the synagogue still went side
+by side with the prayers and the breaking of bread from house
+to house … The Jewish family life was the highest expression of
+Christian unity … The fulfillment of the ancient law was the
+aspect of Christianity to which the attention of the Church was 
+most directed.” Prof. Stanley’s Sermon on St. Peter, p. 92; see
+James 2:2, where the word “synagogue” is applied to Christian
+assemblies. 

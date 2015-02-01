@@ -1,5 +1,7 @@
 ---
-title: Asia Minor
+title: "Asia Minor"
+pdf: "asiaminor.pdf"
+description: "The land to which this name has been applied plays an important part in some periods of Bible history, and a central part in the history of the earliest Christian mission."
 template: lesson.jade
 ---
 

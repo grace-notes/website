@@ -1,5 +1,7 @@
 ---
-title: Roman Law
+title: "Roman Law"
+pdf: "romanlaw.pdf"
+description: "The source of Roman law is the family or gens. The proprietary rights of the pater familias as head of this primitive unit of organization are fundamental in private law, and the scope of the criminal jurisdiction of the state was limited by the power of life and death exercised by the head of the family over those under his authority."
 template: lesson.jade
 ---
 

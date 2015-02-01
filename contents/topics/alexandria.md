@@ -1,5 +1,7 @@
 ---
-title: Alexandria
+title: "Alexandria"
+pdf: "alexandria.pdf"
+description: "City in Egypt founded by Alexander the Great. Birthplace of Apollos. Work site for the Septuagint version of the Old Testament."
 template: lesson.jade
 ---
 

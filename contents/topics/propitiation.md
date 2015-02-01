@@ -1,5 +1,7 @@
 ---
-title: Propitiation
+title: "Propitiation"
+pdf: "propitiation.pdf"
+description: "Propitiation - [PDF] Jesus Christ is our Mercy Seat, our place of propitiation!"
 template: lesson.jade
 ---
 

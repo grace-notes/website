@@ -1,5 +1,7 @@
 ---
-title: Salamis
+title: "Salamis"
+pdf: "salamis.pdf"
+description: "the city on Cyprus, visited by Paul and Barnabus. Traditional place where Barnabas, a native of Cyprus, was martyred."
 template: lesson.jade
 ---
 

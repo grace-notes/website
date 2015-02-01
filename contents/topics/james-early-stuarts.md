@@ -1,5 +1,7 @@
 ---
-title: James Early Stuarts
+title: "James I, King of England, and the Early Stuarts"
+pdf: "james_earlystuarts.pdf"
+description: "from English history, a thorough treatment of Elizabeth I, James I, Edward VI, and Charles I."
 template: lesson.jade
 ---
 

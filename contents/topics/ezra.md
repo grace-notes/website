@@ -1,5 +1,7 @@
 ---
-title: Ezra
+title: "Ezra"
+pdf: "ezra.pdf"
+description: "Ezra returned to Jerusalem with a group of repatriates and others in the seventh year of Artaxerxes."
 template: lesson.jade
 ---
 

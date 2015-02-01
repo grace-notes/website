@@ -1,5 +1,7 @@
 ---
-title: Temple Measurement
+title: "Temple: Description and Measurements"
+pdf: "templemeasurement.pdf"
+description: "from Edersheim, Alfred, \"Sketches of Jewish Social Life\", Appendix I."
 template: lesson.jade
 ---
 

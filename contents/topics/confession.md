@@ -1,7 +1,7 @@
 ---
-title: Confession
-display_title: Confession of Sin
-description: The principles of biblical confession of sin; how the Lord's grace provision makes it possible for a Christian to stay in fellowship.
+title: "Confession of Sin"
+pdf: "confession.pdf"
+description: "The principles of biblical confession of sin; how the Lord's grace provision makes it possible for a Christian to stay in fellowship."
 template: lesson.jade
 ---
 

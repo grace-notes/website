@@ -1,7 +1,7 @@
 ---
-title: Aquila
-display_title: Aquila and Priscilla
-description: Two friends of Paul whom he met in Corinth, who traveled to Ephesus with him, and were instructors of Apollos. [JAN 2012]
+title: "Aquila and Priscilla"
+pdf: "aquila.pdf"
+description: "Two friends of Paul whom he met in Corinth, who traveled to Ephesus with him, and were instructors of Apollos."
 template: lesson.jade
 ---
 

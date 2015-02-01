@@ -1,5 +1,7 @@
 ---
-title: Priesthood
+title: "Priesthood, The Officiating"
+pdf: "priesthood.pdf"
+description: "Among the most interesting glimpses of early life in the church is that afforded by a small piece of rapidly-drawn scenery which presents to our view 'a great company of the priests,' 'obedient to the faith' (Acts 6:7)."
 template: lesson.jade
 ---
 

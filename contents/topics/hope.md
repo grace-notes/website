@@ -1,6 +1,7 @@
 ---
-title: Hope
-description: The Christian's confidence is much more than just wishful thinking.
+title: "Hope"
+pdf: "hope.pdf"
+description: "Hope - [PDF] The Christian's confidence is much more than just wishful thinking."
 template: lesson.jade
 ---
 

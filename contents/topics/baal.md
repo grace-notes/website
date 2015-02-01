@@ -1,8 +1,8 @@
 ---
-title: Baal
-display_title: Baal
+title: "Baal"
+pdf: "baal.pdf"
+description: "The supreme fertility-god of the Canaanites."
 template: lesson.jade
-description: The supreme fertility-god of the Canaanites. [FEB 2013]
 ---
 
 

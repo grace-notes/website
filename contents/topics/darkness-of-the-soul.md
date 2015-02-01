@@ -1,6 +1,7 @@
 ---
-title: Darkness Of The Soul
-description: an exposition of Ephesians 4:17-24.
+title: "Darkness in the Soul"
+pdf: "darknessofthesoul.pdf"
+description: "an exposition of Ephesians 4:17-24."
 template: lesson.jade
 ---
 

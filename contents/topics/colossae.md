@@ -1,5 +1,7 @@
 ---
-title: Colossae
+title: "Colossae"
+pdf: "colossae.pdf"
+description: "overview of the city of the Colossians."
 template: lesson.jade
 ---
 

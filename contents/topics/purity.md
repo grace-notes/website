@@ -1,5 +1,7 @@
 ---
-title: Purity
+title: "Purity in the Christian Life"
+pdf: "purity.pdf"
+description: "Purity in the Christian Life - [PDF] The apostle Paul told Timothy, \"Keep yourself pure...\" Good advice for all of us. A study of KATHAROS."
 template: lesson.jade
 ---
 

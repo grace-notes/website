@@ -1,5 +1,7 @@
 ---
-title: Second Advent
+title: "Second Advent of Christ"
+pdf: "secondadvent.pdf"
+description: "Second Advent of Christ - [PDF]"
 template: lesson.jade
 ---
 

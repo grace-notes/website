@@ -1,5 +1,7 @@
 ---
-title: Enoch
+title: "Enoch"
+pdf: "enoch.pdf"
+description: "the man who \"was not, because God took him.\""
 template: lesson.jade
 ---
 

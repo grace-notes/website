@@ -1,5 +1,7 @@
 ---
-title: Jewish Literature
+title: "Jewish Literature"
+pdf: "jewishliterature.pdf"
+description: "a brief outline of ancient Jewish theological literature (Alfred Edersheim)."
 template: lesson.jade
 ---
 

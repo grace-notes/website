@@ -1,5 +1,7 @@
 ---
-title: Talmud Organization
+title: "Talmud, Organization"
+pdf: "talmud_organization.pdf"
+description: "Talmud, Organization - [PDF] -The rabbis of the 2nd and 3rd centuries after Christ organized the Talmud in the form we find it today."
 template: lesson.jade
 ---
 

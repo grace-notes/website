@@ -1,5 +1,7 @@
 ---
-title: Jubilee
+title: "Jubilee, Year of"
+pdf: "jubilee.pdf"
+description: "the fiftieth year was to be announced as a Jubilee Year. It possessed the function of an ordinary sabbatic year, thus allowing the land to lie fallow for two successive years."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Septuagint
+title: "Septuagint"
+pdf: "septuagint.pdf"
+description: "Septuagint (sometimes abbreviated LXX) is the name given to the Greek translation of the Jewish Scriptures."
 template: lesson.jade
 ---
 

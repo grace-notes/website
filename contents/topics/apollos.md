@@ -1,7 +1,7 @@
 ---
-title: Apollos
-description: a short account of what the Bible has to say about this friend of the apostle Paul.
-date: JAN 2012
+title: "Apollos"
+pdf: "apollos.pdf"
+description: "a short account of what the Bible has to say about this friend of the apostle Paul."
 template: lesson.jade
 ---
 

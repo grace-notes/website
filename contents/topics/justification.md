@@ -1,5 +1,7 @@
 ---
-title: Justification
+title: "Justification"
+pdf: "justification.pdf"
+description: "Justification - [PDF] Outline of the doctrine of Justification."
 template: lesson.jade
 ---
 

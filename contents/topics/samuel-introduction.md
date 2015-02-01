@@ -1,5 +1,7 @@
 ---
-title: Samuel Introduction
+title: "Samuel, Introduction"
+pdf: "samuel_introduction.pdf"
+description: "Introduction to the books of Samuel, from Commentary on the Old Testament, by C. F. Keil and F. Delitzsch"
 template: lesson.jade
 ---
 

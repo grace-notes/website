@@ -1,5 +1,7 @@
 ---
-title: Nicodemus
+title: "Nicodemus"
+pdf: "nicodemus.pdf"
+description: "Nicodemus is a Greek name meaning \"Victor of the People\"."
 template: lesson.jade
 ---
 

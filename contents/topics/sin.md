@@ -1,5 +1,7 @@
 ---
-title: Sin
+title: "Sin, Doctrine of"
+pdf: "sin.pdf"
+description: "Sin, Doctrine of - [PDF] a comprehensive topic study of the Doctrine of Sin."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Paul First Letter To Corinth
+title: "Paul - to the Thessalonians"
+pdf: "paul_firstlettertocorinth.pdf"
+description: "Paul - to the Thessalonians - [PDF] an account of the events surrounding Paul's writing the two Thessalonian epistles, along with translations by Conybeare and Howson."
 template: lesson.jade
 ---
 
@@ -1956,4 +1958,6 @@ Because the Law of Duty, being acknowledged, gives to sin its power to
 wound the conscience; in fact, a moral law of precepts and penalties
 announces the fatal consequences of sin, without giving us any power on
 conquering sin. Compare Romans 7:7-11.
+
+ng sin. Compare Romans 7:7-11.
 

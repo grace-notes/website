@@ -1,5 +1,7 @@
 ---
-title: Deborah And Barak
+title: "Deborah and Barak"
+pdf: "deborahandbarak.pdf"
+description: "a fresh oppression of the Israelites, and the glorious victory which they obtained over Sisera, Jabin's general, through the judge Deborah and the heroic warrior Barak."
 template: lesson.jade
 ---
 

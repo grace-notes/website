@@ -1,5 +1,7 @@
 ---
-title: Standing
+title: "Standing"
+pdf: "standing.pdf"
+description: "The advanced Christian, the person who has \"attained to the unity of the faith, and of the knowledge of the Son of God, to a mature man, to the measure of the stature which belongs to the fullness of Christ,\" has completed basic preparation, is standing firm, and is ready to be promoted into mature production in the Lord."
 template: lesson.jade
 ---
 

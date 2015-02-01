@@ -1,5 +1,7 @@
 ---
-title: Ambassadorship
+title: "Ambassadorship"
+pdf: "ambassadorship.pdf"
+description: "Now then, we are ambassadors for Christ."
 template: lesson.jade
 ---
 

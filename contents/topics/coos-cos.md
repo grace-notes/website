@@ -1,13 +1,12 @@
 ---
-title: Coos Cos 
+title: "Coos (Cos)"
+pdf: "coos(cos).pdf"
+description: "Coos is an island mentioned in connection with Paul’s third missionary journey in Acts 21:1, and in its relations with the Jews in 1 Macc. 15:23; Josephus Ant. xiv.7.2; 10.15."
 template: lesson.jade
 ---
 
-
-**Coos 1**
-
-Coos <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
-===============================================
+Coos
+====
 
 Coos is an island off the coast of Caria, Asia Minor, one of the
 Sporades, under Greek control since 1948.
@@ -67,5 +66,5 @@ uncovered Roman baths which utilized the healing waters of the island’s
 springs and which (by inscriptions) dated to Nero’s reign — and thus to
 the time of Paul’s ministry.
 
-[1](#sdfootnote1anc) International Standard Bible Encyclopedia
+_International Standard Bible Encyclopedia_
 

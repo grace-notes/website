@@ -1,5 +1,7 @@
 ---
-title: Moses Egypt
+title: "Moses in Egypt"
+pdf: "mosesegypt.pdf"
+description: "notes from history about Moses and the Pharoahs in Egypt."
 template: lesson.jade
 ---
 

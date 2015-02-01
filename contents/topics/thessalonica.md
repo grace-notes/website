@@ -1,5 +1,7 @@
 ---
-title: Thessalonica
+title: "Thessalonica"
+pdf: "thessalonica.pdf"
+description: "the second city in Europe to hear the preaching voice of St. Paul, and probably the first church to receive an epistle from him.."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Sadducees
+title: "Sadducees"
+pdf: "sadducees.pdf"
+description: "brief article describing this sect."
 template: lesson.jade
 ---
 

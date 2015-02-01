@@ -1,5 +1,7 @@
 ---
-title: Philip
+title: "Philip the Evangelist"
+pdf: "philip.pdf"
+description: "The “deacon” who brought the Gospel to the Samaritans and to the Ethiopian eunuch."
 template: lesson.jade
 ---
 

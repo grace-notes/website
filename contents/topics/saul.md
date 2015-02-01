@@ -1,5 +1,7 @@
 ---
-title: Saul
+title: "Saul"
+pdf: "saul.pdf"
+description: "Saul - [PDF] The son of Kish of the tribe of Benjamin, the first king of Israel. [FEB 13]"
 template: lesson.jade
 ---
 

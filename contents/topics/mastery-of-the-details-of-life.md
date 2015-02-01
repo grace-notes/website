@@ -1,6 +1,7 @@
 ---
-title: Mastery Of The Details Of Life
-description: Mastery of the details of life means that you look to the Lord for every detail, that you accept with calm fortitude either the gain or loss of details of life. [MAR 2013]
+title: "Mastery of the Details of Life"
+pdf: "masteryofthedetailsoflife.pdf"
+description: "Mastery of the details of life means that you look to the Lord for every detail, that you accept with calm fortitude either the gain or loss of details of life."
 template: lesson.jade
 ---
 

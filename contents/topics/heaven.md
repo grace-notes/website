@@ -1,5 +1,7 @@
 ---
-title: Heaven
+title: "Heaven"
+pdf: "heaven.pdf"
+description: "Heaven - [PDF] The word heaven, or the heavens, is used in the Scriptures in a number of different senses. [FEB 13]"
 template: lesson.jade
 ---
 

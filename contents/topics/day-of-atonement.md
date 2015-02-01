@@ -1,5 +1,7 @@
 ---
-title: Day Of Atonement
+title: "Day of Atonement"
+pdf: "dayofatonement.pdf"
+description: "an exposition of Leviticus 16; Keil and Delitzsch"
 template: lesson.jade
 ---
 

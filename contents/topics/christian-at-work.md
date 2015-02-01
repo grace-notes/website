@@ -1,5 +1,7 @@
 ---
-title: Christian At Work
+title: "Christian at Work"
+pdf: "christianatwork.pdf"
+description: "Suggestions for a believer's attitude and function on the job."
 template: lesson.jade
 ---
 

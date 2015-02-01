@@ -1,5 +1,7 @@
 ---
-title: Messiah
+title: "Messiah in the Old Testament"
+pdf: "messiah.pdf"
+description: "from The Life and Times of Jesus the Messiah by Alfred Edersheim, Appendix IX."
 template: lesson.jade
 ---
 

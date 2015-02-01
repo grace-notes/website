@@ -1,5 +1,7 @@
 ---
-title: Intertestamental Period
+title: "Intertestamental Period"
+pdf: "intertestamentalperiod.pdf"
+description: "denotes the history of Judaism from the time of the completion of the book of Malachi to the destruction of the temple of Jerusalem (A.D. 70)."
 template: lesson.jade
 ---
 

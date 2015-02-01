@@ -1,5 +1,7 @@
 ---
-title: Papyrus
+title: "Papyrus"
+pdf: "papyrus.pdf"
+description: "A plant and the writing material that was made from it."
 template: lesson.jade
 ---
 

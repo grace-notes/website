@@ -1,5 +1,7 @@
 ---
-title: Claudius
+title: "Claudius"
+pdf: "claudius.pdf"
+description: "Tiberius Claudius Drusus Caesar, the fourth Roman Emperor (40 to 54 AD)."
 template: lesson.jade
 ---
 

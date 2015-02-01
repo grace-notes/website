@@ -1,5 +1,7 @@
 ---
-title: Enemies
+title: "Enemies, Witnessing to"
+pdf: "enemies.pdf"
+description: "Every Christian has a duty to love his enemies and to witness to them."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Roman Army Soldier Training
+title: "Roman Army, Soldier Training"
+pdf: "romanarmy_soldiertraining.pdf"
+description: "from Vegetius, Epitome of Military Science."
 template: lesson.jade
 ---
 

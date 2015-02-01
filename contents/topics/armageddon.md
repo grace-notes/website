@@ -1,5 +1,7 @@
 ---
-title: Armageddon
+title: "Armageddon"
+pdf: "armageddon.pdf"
+description: "a review of the final battle."
 template: lesson.jade
 ---
 

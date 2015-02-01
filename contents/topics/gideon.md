@@ -1,5 +1,7 @@
 ---
-title: Gideon
+title: "Gideon"
+pdf: "gideon.pdf"
+description: "Gideon - [PDF] A brief history of the life of Gideon, the judge of Israel."
 template: lesson.jade
 ---
 

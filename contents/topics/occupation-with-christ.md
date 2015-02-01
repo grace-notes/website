@@ -1,6 +1,7 @@
 ---
-title: Occupation With Christ
-description: the primary focus of the Christian life is the Lord Jesus Christ, and we know Him from the Word of God.
+title: "Occupation with Christ"
+pdf: "occupationwithchrist.pdf"
+description: "Occupation with Christ - [PDF] the primary focus of the Christian life is the Lord Jesus Christ, and we know Him from the Word of God."
 template: lesson.jade
 ---
 

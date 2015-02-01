@@ -1,5 +1,7 @@
 ---
-title: Law Of Moses
+title: "Law of Moses"
+pdf: "lawofmoses.pdf"
+description: "A discussion of how the Law of Moses relates to Church Age doctrine."
 template: lesson.jade
 ---
 

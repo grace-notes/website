@@ -1,5 +1,7 @@
 ---
-title: Resurrection
+title: "Resurrection of Christ"
+pdf: "resurrection.pdf"
+description: "Resurrection of Christ - [PDF] An outline study of the main features of the resurrection of Christ, including a description of the resurrection body of Christ and the events surrounding the resurrection."
 template: lesson.jade
 ---
 

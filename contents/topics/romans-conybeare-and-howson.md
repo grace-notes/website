@@ -1,5 +1,7 @@
 ---
-title: Romans Conybeare&Howson
+title: "Romans - Conybeare and Howson"
+pdf: "romans_conybeare&howson.pdf"
+description: "translation of Romans by C&H, extensive comments and footnotes."
 template: lesson.jade
 ---
 

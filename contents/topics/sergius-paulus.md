@@ -1,5 +1,7 @@
 ---
-title: Sergius Paulus
+title: "Sergius Paulus"
+pdf: "sergiuspaulus.pdf"
+description: "the Roman official whom Paul and Barnabas met in Cyprus on their first missionary journey."
 template: lesson.jade
 ---
 

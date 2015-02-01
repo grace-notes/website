@@ -1,5 +1,7 @@
 ---
-title: Truth
+title: "Truth"
+pdf: "truth.pdf"
+description: "Truth - [PDF] The Word of God is Truth; examples of eagerness for God's truth."
 template: lesson.jade
 ---
 

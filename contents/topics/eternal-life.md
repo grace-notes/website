@@ -1,5 +1,7 @@
 ---
-title: Eternal Life
+title: "Eternal Life"
+pdf: "eternallife.pdf"
+description: "Three stages of everlasting life, \"now\" and \"forever\"."
 template: lesson.jade
 ---
 

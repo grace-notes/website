@@ -1,5 +1,7 @@
 ---
-title: Timothy
+title: "Timothy"
+pdf: "timothy.pdf"
+description: "a brief biography of Paul's companion."
 template: lesson.jade
 ---
 

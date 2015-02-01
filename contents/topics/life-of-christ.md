@@ -1,5 +1,6 @@
 ---
-title: Life of Christ
+title: "Life of Christ"
+pdf: "lifeofchrist.pdf"
 description: "the Person and Work of Christ, from His presence in eternity past, through His ministry in the feeding of the 5000."
 template: lesson.jade
 ---
@@ -8,13 +9,7 @@ template: lesson.jade
 
 *by Rev. Mark Perkins*
 
-Table of Contents
------------------
-{:.no_toc}
-
-* Table of Contents
 {:toc}
-
 
 Historical Introduction
 -----------------------
@@ -2463,7 +2458,7 @@ beginning of the great apostasy of the antediluvian civilization.
 **Gen. 4:26**, “to Seth also a son was born, and he called his name
 Enosh. At that time men began to cry out against the name of Yahweh.”
 
-The word for ‘begin’ in this verse is ***h.Uh.a**l*, and it means to
+The word for ‘begin’ in this verse is **h.Uh.al**, and it means to
 pierce or penetrate something for the first time. It had a universally
 negative connotation. It referred to rape, and other horrible crimes
 that included penetration. It referred to the abuse of land, and even
@@ -2471,16 +2466,16 @@ pollution. In the context of Gen. 4:26, it means to begin something that
 should never begin. It is, in essence, a rape of something that was
 innocent.
 
-The verb ‘to call’ also can be used in the negative sense. ***qArA’***
+The verb ‘to call’ also can be used in the negative sense. **qArA’**
 means in its basic form to call or summon someone. However, in its more
 severe connotation, it has the sense of crying out, or screaming against
 someone, and that is how it is used here.
 
-The inseparable preposition ***‘bh’*** is attached to ***shEm Yahweh***
+The inseparable preposition **‘bh’** is attached to **shEm Yahweh**
 in the final part of the verse. This preposition can have many meanings,
 but the one that fits best here is ‘against’.
 
-The word ***shEm*** is translated ‘the name of’. The ancient Hebrews
+The word **shEm** is translated ‘the name of’. The ancient Hebrews
 believed that a person’s name represented his very essence.
 
 Therefore, during Enosh’s lifetime, there was a great bitter outcry
@@ -2739,13 +2734,13 @@ water.
 
 This is the background to the verb which is translated ‘cursing’.
 
-***qalal*** means to diminish something. When it is used of water, it
+**qalal** means to diminish something. When it is used of water, it
 means to drain it.
 
 It is this same verb which is used to describe the draining of the water
 after the flood.
 
-The word used for ‘earth’ is ***Adamah***. ***Adamah*** in the feminine
+The word used for ‘earth’ is **Adamah**. **Adamah** in the feminine
 means earth and all its inhabitants, and so it is here.
 
 The final part place the blame squarely where it belongs: on man.
@@ -4150,9 +4145,9 @@ religious group came into being about 300 years before Christ. They are
 characterized by their aristocracy, their cultural surrender to the
 Greeks and others, and their opposition to everything Pharasaic.
 
-The name “sadducee” comes from the Aramaic ***Sadduqim***, which meant
+The name “sadducee” comes from the Aramaic **Sadduqim**, which meant
 ‘righteousness’. However, those who were in opposition to them called
-them ***saddiqim***, which meant ‘destruction’.
+them **saddiqim**, which meant ‘destruction’.
 
 They came from the ranks of the priests and high priests of Israel,
 during the time of the Greek occupation. Their desire was to give in to
@@ -4286,7 +4281,7 @@ he will be great before the Lord. He will be different in that he will
 be filled with the Holy Spirit, even from his mother’s womb.
 
 The first part of the verse makes it clear that he will be great in his
-relationship with the Lord. ***ENO.PION*** is a preposition which
+relationship with the Lord. **ENO.PION** is a preposition which
 denotes face to face relationship. John will have that kind of
 relationship.
 
@@ -4295,7 +4290,7 @@ beverages. This also probably indicated that he would refrain from
 social life.
 
 Finally, John is filled with the Spirit from birth. The preposition
-***EK***indicates separation, and this case, separation from the womb.
+**EK**indicates separation, and this case, separation from the womb.
 This preposition may indicate source the origin of something from
 someplace, but even so, the separation is now effective. It is no longer
 there at the place of its origin. EK does not indicate the existence of
@@ -4304,7 +4299,7 @@ one thing inside another.
 There is no precedence for interpreting this preposition to mean ‘from
 inside’, as is often done.
 
-The adverb ***ETI*** is the key here. This together with ***EK***
+The adverb **ETI** is the key here. This together with **EK**
 translates “ever since.” The Liddell-Scott lexicon makes this very clear
 on p.703. ETI does have some flexibility it can be taken in the
 ascensive meaning, which shows surprise on the part of the writer. It
@@ -4528,7 +4523,7 @@ already know much. Repetition is not necessary.
 
 As the angel “beams in”, he issues a greeting to her. The greeting means
 literally, “woman who has been graced out”. God is the only subject ever
-used by ***CHARITOO***.
+used by **CHARITOO**.
 
 #### A Conversation with an Angel, Luke 1:29-38
 
@@ -6368,11 +6363,11 @@ The young adulthood of Christ is recorded in verse 52. Translation, “And
 Jesus kept on progressing in wisdom and years and blessing before God
 and men.”
 
-The verb ***prokopto*** applies to all three statements which follow;
+The verb **prokopto** applies to all three statements which follow;
 all three are equivalent with reference to the progression which occurs.
 
 The verb means to advance or progress. There is a hint that hard work or
-toil that is involved in this advancement, from the stem ***kopos***.
+toil that is involved in this advancement, from the stem **kopos**.
 
 In reality, there is a double advancement that is commensurate with his
 advance in age. The age advancement goes on without volition it is the
@@ -6381,38 +6376,38 @@ natural thing.
 The other two advances have to do with the good decisions of our Lord in
 His young manhood.
 
-***prokopto*** is in the imperfect tense, showing this progression over
+**prokopto** is in the imperfect tense, showing this progression over
 a duration of time.
 
 The first way in which Christ grew (as he grew in years) is in wisdom;
-***sophia***. His increase in wisdom goes on unabated through the
+**sophia**. His increase in wisdom goes on unabated through the
 perception and application of the Word of Truth. Note this in spite of
 the fact that his parents made the wrong decision for him.
 
 The second way in which Christ grew (as he grew in years) is in
-***charis***.
+**charis**.
 
-***charis*** can be translated as grace, or the result of the
+**charis** can be translated as grace, or the result of the
 appropriation of grace, which is blessing.
 
 Since the appropriation of God’s grace is portrayed in the word
-***sophia***, this second thing must concentrate on the blessing side.
+**sophia**, this second thing must concentrate on the blessing side.
 The word favor is not a good translation, since it limits the realm of
 blessing to opinion. It encompasses much more than respect or opinion.
 
 There are two realms of blessing which are mentioned: human and divine.
 
-The preposition ***para*** plus the dative case of the two nouns shows
+The preposition **para** plus the dative case of the two nouns shows
 that the blessing is in the sight of each category described by those
 nouns.
 
 In the sight of is another way of saying viewpoint. The two categories
-of blessing are human and divine; ***anthropoids*** and ***theo***.
+of blessing are human and divine; **anthropoids** and **theo**.
 
 No matter which viewpoint you take, Christ was blessed in his life as a
 young man.
 
-There is no doubt whatsoever that this blessing was due to ***sophia***,
+There is no doubt whatsoever that this blessing was due to **sophia**,
 and commensurate with its growth. To: Appropriate Prosperity; Essence of
 God Note: this passage and the next take place during the ministry of
 Christ, but they reveal details that have to do with his early years.
@@ -6698,14 +6693,14 @@ doctrine of logos).
 
 The first clause places the existence of the Word in eternity past.
 
-The phrase ***en arche***. emphasizes the qualitative aspect of the
+The phrase **en arche**. emphasizes the qualitative aspect of the
 beginning. This is the beginning of Gen. 1:1; the beginning before the
 heavens and the earth were created.
 
-The imperfect tense of the verb ***eimi*** reveals the eternity of the
+The imperfect tense of the verb **eimi** reveals the eternity of the
 Word in the beginning. The existence of the Word went on and on.
 
-The term ***ho logos*** shows the personification of order and wisdom
+The term **ho logos** shows the personification of order and wisdom
 existing on and on before the creation of the heavens and the earth.
 This is a person, and not just a principle.
 
@@ -6713,7 +6708,7 @@ Thus from the beginning of John’s gospel you know that we are talking
 about God.
 
 The second clause indicates the coexistence of the Word with the God.
-The proper noun ***Theos*** is preceded by the definite article ho. It
+The proper noun **Theos** is preceded by the definite article ho. It
 points out that this is the one and only God; not just one God among
 many. Thus we know of at least two persons in the Godhead. The
 preposition pros shows the face to face presence of one with the other.
@@ -6728,26 +6723,26 @@ God.
 The second verse offers even more clarification on the trinity and the
 preexistence of the Word: “This one was in the beginning with the God.”
 
-The demonstrative pronoun ***houtos*** points back to the ***logos***.
+The demonstrative pronoun **houtos** points back to the **logos**.
 It is translated ‘this one’.
 
 The imperfect tense of the verb to be makes the action timeless, eternal
 in nature.
 
-The phrase ***en arche*** is used again to point to the time before the
+The phrase **en arche** is used again to point to the time before the
 creation, eternity past.
 
-The phrase ***pros Theos*** again shows the face to face presence of the
-***logos*** and the ***theos***.
+The phrase **pros Theos** again shows the face to face presence of the
+**logos** and the **theos**.
 
 Verse three turns to the creation. Up to this point all activity has
 been in precreation eternity past. “All things came into being through
 him, and outside of Him not one thing that came into being came into
 being.”
 
-This verse describes the ***logos*** as the agent of the creation.
+This verse describes the **logos** as the agent of the creation.
 
-All things is from the Greek ***panta***. It refers to both creatures
+All things is from the Greek **panta**. It refers to both creatures
 and the material universe apart from living creatures.
 
 Whether the material universe or living creatures, all were created by
@@ -6759,8 +6754,8 @@ also handled by the deity of Jesus Christ, Col. 1:16-17.
 Notice that God is apart from the material universe; he created it, but
 it is not Him.
 
-The inchoative aorist tense of ***ginomai*** reveals that the creatures
-and material universe had a definite beginning. ***ginomai*** itself
+The inchoative aorist tense of **ginomai** reveals that the creatures
+and material universe had a definite beginning. **ginomai** itself
 describe the ‘becoming’ of something its beginning. This is contrasted
 strongly with the being of the Godhead in the previous verses.
 
@@ -6776,10 +6771,10 @@ Verse 4 turns back to eternity past and then marches forward into the
 time of men. “In Him was life, and that life was the light of men.”
 
 There was always life in Jesus Christ: this is indicated by the
-imperfect tense of the Greek verb to be, ***eimi***.
+imperfect tense of the Greek verb to be, **eimi**.
 
-This life, ***zoe***, is much more than the principle of biological life
-it was soul life. ***zoe*** rises above animal instinct and behavior to
+This life, **zoe**, is much more than the principle of biological life
+it was soul life. **zoe** rises above animal instinct and behavior to
 the independence of the soul. And not just the function of volition, but
 the soul as it was designed to enjoy God and His provision.
 
@@ -6813,12 +6808,12 @@ Verse five gives the final description of Christ, bringing Him into
 present times (for John and for us). “And the light shines in the
 darkness, and the darkness did not grasp it.”
 
-There is a nice little double entendre here with the ***katalambano***.
+There is a nice little double entendre here with the **katalambano**.
 It has the dual meaning of overcome and comprehend. Had the forces of
 darkness truly comprehended the intrinsic good of the light, then it
 would not have tried to put it out.
 
-John uses the present tense of the verb ***phaino*** to portray Christ’s
+John uses the present tense of the verb **phaino** to portray Christ’s
 present shining. Even though he died on the cross he still shines now.
 
 Christ is the Sun (1 Cor 15:41), and the Morning Star (Rev 22:16). The
@@ -6834,23 +6829,23 @@ downplay the nature of this man, especially when compared to Christ.
 Although John’s writing style is almost always simple, here it become
 hyper-simple, and less elegant than John’s brief discourse on Christ.
 
-The verb ***egeneto*** is used here to describe the arrival of John.
+The verb **egeneto** is used here to describe the arrival of John.
 Again it is the inchoative aorist that John uses to describe the
 beginning of an action. John had a definite beginning. It is also the
 same verb that John has used previously to describe the creation by the
 Word. John was one created by the creator. But this verb more describes
 the arrival of John’s public ministry than the creation of his soul.
 
-The noun ***anthropos*** leaves no doubt about the true nature of John.
+The noun **anthropos** leaves no doubt about the true nature of John.
 He is a man of the human race.
 
-The participle ***apestalmenos*** portrays the action of God in sending
-John the Baptist. It is from the verb ***apostello***, ‘to send forth’.
+The participle **apestalmenos** portrays the action of God in sending
+John the Baptist. It is from the verb **apostello**, ‘to send forth’.
 It is the perfect participle, so it shows that before John arrived
 someone sent him. It is the passive participle, so it shows that it was
 not John who was the ultimate source of arrival, but someone else.
 
-The preposition ***para*** points to the source of the sending it is
+The preposition **para** points to the source of the sending it is
 God. This shows that John came from the side of God. A figure of speech
 that reveals how very close John the Baptist was to God. Before John
 began his ministry he was close to God he prepared himself in a very
@@ -6864,24 +6859,24 @@ Verse seven continues John’s description of John. “He himself came as a
 witness that he might testify concerning the light, that all might
 believe through him.”
 
-The aorist verb ***elthen*** describes again the arrival of John on the
+The aorist verb **elthen** describes again the arrival of John on the
 scene. It is translated, ‘he came’.
 
-The subject of the verb is ***houtos***, the demonstrative pronoun used
+The subject of the verb is **houtos**, the demonstrative pronoun used
 to intensify the source of the action in the verb. It points strongly to
 John in contrast to Jesus Christ.
 
-The preposition ***eis*** plus the accusative case of the noun
-***marturian*** is translated, “as a witness.” John was a witness, a man
+The preposition **eis** plus the accusative case of the noun
+**marturian** is translated, “as a witness.” John was a witness, a man
 who pointed to the truth of the matter.
 
 John then goes on to give the twofold purpose of the Baptist’s ministry,
-using the particle ***hina*** twice to introduce two purpose clause.
+using the particle **hina** twice to introduce two purpose clause.
 
-The first clause is ***hina marturese. peri tou photos***. “that he
+The first clause is **hina marturese. peri tou photos**. “that he
 might testify concerning the light.”
 
-The potential subjunctive mood of the verb ***marture.se***. indicates
+The potential subjunctive mood of the verb **marture.se**. indicates
 that John had a responsibility to fulfill in his ministry. This mood
 lays the emphasis on human volition, or choice.
 
@@ -6891,7 +6886,7 @@ testimony about the light. The light, of course is Jesus Christ.
 Notice that this passage does not say it was John’s responsibility to
 convert people. That is addressed in the next clause.
 
-The second clause is ***hina pantes pisteuso.sin di’autou***. “that all
+The second clause is **hina pantes pisteuso.sin di’autou**. “that all
 might believe through him.”
 
 The subject of the clause is all those who were alive at the time of
@@ -6938,16 +6933,16 @@ world.” This is very poorly translated into your English Bible, and so
 we must make some corrections.
 
 There is first an addition of one adjective to the idea of light:
-***ale.thinon,*** true. There were many false messiahs at the time of
+**ale.thinon,** true. There were many false messiahs at the time of
 Christ, and even the Baptist was thought to be the Messiah himself, he
 was so magnificent. Therefore the light is qualified as the true light.
 
 The next statement reveals a function of the light related to creation.
 It begins with the definite article used as the relative pronoun
-***ho***, which simply picks up the true light from the previous clause
+**ho**, which simply picks up the true light from the previous clause
 and makes it the subject of the verb of this sentence.
 
-The verb ***pho.tizei*** describes the action of illumination. This is a
+The verb **pho.tizei** describes the action of illumination. This is a
 transitive verb, so the translation shining does not work as well as
 illumination. This is the light shining on someone or something giving
 its light.
@@ -6958,22 +6953,22 @@ illumination from birth.
 The idea of illumination, when used as a figure of speech, always
 describes the process of understanding.
 
-The object of the verb is ***panta anthro.pon***. This is translated
+The object of the verb is **panta anthro.pon**. This is translated
 “every man”. John chooses to emphasize the individual by using the
 singular of anthro.pon. The illuminated truth is available to every man
 from the moment that he enters the world.
 
 The third clause of the verse indicates the moment of illumination.
 
-This clause begins with the accusative participle ***erchomenon***. This
-participle can only be connected with ***anthro.pon***, since
-***anthro.pon*** is the only noun in the previous sentence that is in
-the accusative case. ***ale.thinon***, which appears to be in the
+This clause begins with the accusative participle **erchomenon**. This
+participle can only be connected with **anthro.pon**, since
+**anthro.pon** is the only noun in the previous sentence that is in
+the accusative case. **ale.thinon**, which appears to be in the
 accusative is actually in the nominative neuter as the predicate of the
 first clause.
 
 Grammatically, the participle can only describe the coming of every
-human being into the world. The phrase ***eis ton kosmon***describes a
+human being into the world. The phrase **eis ton kosmon**describes a
 transition from one place to another.
 
 Verse ten reveals the relationship between Christ and the world. “He was
@@ -6998,7 +6993,7 @@ But this is significant on the basis of the first clause of the verse he
 was in the world, the same world that he created. God is responsible
 towards his creation.
 
-The conjunction ***kai*** sets up a mild contrast to that which has come
+The conjunction **kai** sets up a mild contrast to that which has come
 previously in the verse. The contrast has to do with the difference
 between what God has done for man and how man responded.
 
@@ -7012,7 +7007,7 @@ humanity to the incarnation. They did not know him describes both
 recognition and acceptance. Although Christ presented himself as the Son
 of God, the world did not accept Him as such.
 
-Here ***ho kosmos*** is identified with the human race at the time of
+Here **ho kosmos** is identified with the human race at the time of
 the incarnation.
 
 Verse 11 tells of the coming of the Word to a chosen people, “He came
@@ -7032,15 +7027,15 @@ Verse 12 identifies the shift in Christ’s ministry: “But as many as
 received Him, to them He gave the authority to become children of God,
 to those who believe unto His name.”
 
-The correlative pronoun ***hosoi*** describes a direct correlation
+The correlative pronoun **hosoi** describes a direct correlation
 between those who receive Christ and what they receive as a result. The
 number is an exact correlation, so that no one is short changed.
 
-The aorist tense of the verb ***lambano*** describes the action. It is
+The aorist tense of the verb **lambano** describes the action. It is
 past action, summed up in one moment of time. It is translated
 “received”, and it is a synonym for trust or belief in Christ.
 
-The accusative direct object ***auton*** identifies the object of
+The accusative direct object **auton** identifies the object of
 belief, who is Christ: Him.
 
 The second clause of the verse puts down what those who receive Christ
@@ -7049,11 +7044,11 @@ receive in return.
 The dative indirect object of the personal pronoun *autois* identifies
 the receivers as those who receive Christ. “to them”.
 
-The aorist tense of the verb ***didomi*** identifies a past action that
+The aorist tense of the verb **didomi** identifies a past action that
 is seen in one moment of time. It is translated “He gave.” The ‘He’ here
 is Jesus Christ, the living Word.
 
-What is given is a right, ***exousia***. This word describes legitimate
+What is given is a right, **exousia**. This word describes legitimate
 authority, and individual rights. Since this is given to individuals, it
 is better to call this a right given by God.
 
@@ -7083,7 +7078,7 @@ from God.”
 This verse comments on how one becomes a child of God. You must be born
 first.
 
-The aorist passive verb ***egennethesan*** makes it clear that the birth
+The aorist passive verb **egennethesan** makes it clear that the birth
 is outside of the choice of the one being born. The objective negative
 adverb ouk shows that the three things listed before God are definitely
 not the way.
@@ -7102,7 +7097,7 @@ salvation spiritual growth. The context is change, not salvation. John
 uses the figure of birth to portray post salvation spiritual growth in
 his epistle.
 
-The word ***haimaton*** is translated, ‘bloodshed’. It is in the plural
+The word **haimaton** is translated, ‘bloodshed’. It is in the plural
 here, and the plural of this noun always depicts the shedding of
 innocent blood. It could easily be translated ‘violence’. This is
 emphatically not a portrayal of the physical birth of a child, but
@@ -7110,8 +7105,8 @@ instead of attempting to bring change about through violence. The threat
 of physical violence to a person does not bring about true change.
 
 The next possibility of the means of change is from the Greek phrase
-***ek thelematos sarkos***. This is change from the will of the flesh.
-***sarkos*** is the Greek word for flesh, and it often describes the
+**ek thelematos sarkos**. This is change from the will of the flesh.
+**sarkos** is the Greek word for flesh, and it often describes the
 activity of the Old Sin Nature. It certainly does here.
 
 What comes from the sin nature may be change in the sense of
@@ -7121,7 +7116,7 @@ Changing the trend of your sin nature from self-righteous moral
 degeneracy to immoral overt degeneracy or vice versa is definitely not a
 change for the better. In fact, sometimes it is a change for the worse.
 
-The noun ***thelematos*** outlines the function of volition. Here it is
+The noun **thelematos** outlines the function of volition. Here it is
 the human volition as controlled by the Old Sin Nature.
 
 You cannot do it is impossible to bring about change in your life by
@@ -7135,7 +7130,7 @@ appearance remains a wicked heart.
 
 Do not allow yourself to fall prey to anti-grace sentiment about self.
 
-The third possibility for change is ***ek thelematosandros*** ‘from the
+The third possibility for change is **ek thelematosandros** ‘from the
 will of man’.
 
 This phrase contrast the previous one by emphasizing dependence on
@@ -7154,11 +7149,11 @@ nature can.
 The only real catalyst for change is God, as explained by the Greek
 phrase alla ek Theou.
 
-The conjunction ***alla*** indicates a very strong contrast with what
+The conjunction **alla** indicates a very strong contrast with what
 has gone previously. What is to follow is the right and true way to the
 change of heart. It is the true post salvation change.
 
-***ek Theou*** tells us that true change only comes from God, and this
+**ek Theou** tells us that true change only comes from God, and this
 is the set up for what is to follow in verse 14.
 
 Get it through your heads that you can only bring about true change
@@ -7177,41 +7172,41 @@ became flesh and camped among us, and we beheld His glory, glory as a
 unique and only born one from the side of the Father, full of Grace and
 Truth.”
 
-The verse begins with the conjunction ***kai*** which continues the
+The verse begins with the conjunction **kai** which continues the
 train of thought from the previous verse.
 
-The noun ***logos*** is next, and with the definite article ho it is
+The noun **logos** is next, and with the definite article ho it is
 translated “the word”. It is the subject of the sentence, and of course
 it is describing Christ.
 
-The verb of the sentence is ***egeneto***, which describes the beginning
+The verb of the sentence is **egeneto**, which describes the beginning
 of the hypostatic union at the virgin birth. It is in the aorist tense,
 so it portrays one moment of time in the past. It is translated,
 “became”.
 
-***sarx*** is the Greek word for flesh, and in this case it describes
+**sarx** is the Greek word for flesh, and in this case it describes
 the physical human body, with no sin nature.
 
-The conjunction ***kai*** shifts the thought to another fact about the
+The conjunction **kai** shifts the thought to another fact about the
 incarnation. It is translated “and”.
 
-The aorist verb ***skenosen*** depicts an action from the past as
+The aorist verb **skenosen** depicts an action from the past as
 occurring in one moment of time. It describes the temporary dwelling in
 a tent. “Camped” is a good way to translate this.
 
-The preposition ***en*** plus the locative of place is translated here
+The preposition **en** plus the locative of place is translated here
 “among us”.
 
-Again the conjunction ***kai*** is used by John to shift to another fact
+Again the conjunction **kai** is used by John to shift to another fact
 about the incarnation, this time a more personal one.
 
-The verb ***etheasametha*** is in the first person plural and so it
+The verb **etheasametha** is in the first person plural and so it
 reveals that John was an eyewitness to these events. It is in the aorist
 tense, and so it sums up the past action into one moment of time. The
 verb itself describes the act of witnessing an event with your own eyes.
 It is translated “we beheld” or “we eyewitnessed”.
 
-The object witnessed was ***te.n doxan auton**.*, which is translated
+The object witnessed was **te.n doxan auton**.*, which is translated
 “His glory”.
 
 This may be taken in the narrow sense of the transfiguration, or in the
@@ -7224,31 +7219,31 @@ as well as His actions toward mankind.
 Glory here represents the reflection of the glory of the Father in the
 life of the Son.
 
-This glory is further described with the phrase ***doxan hos monogenous
-para patros***.
+This glory is further described with the phrase **doxan hos monogenous
+para patros**.
 
-The comparative conjunction ***hos*** makes an exact comparison between
+The comparative conjunction **hos** makes an exact comparison between
 the status described and the glory itself. This is translated “as”.
 
-The status is ***monogenes***, which contains the idea of “unique and
+The status is **monogenes**, which contains the idea of “unique and
 only born”.
 
-Completing the idea is the preposition ***para*** and the noun
-***patros***. The preposition indicates that the action proceeds from
+Completing the idea is the preposition **para** and the noun
+**patros**. The preposition indicates that the action proceeds from
 the very side of the person named, which in this instance is the Father.
 
-The final description of the incarnation ***isple.re.s charitos kai
-ale.theias*****.**
+The final description of the incarnation **isple.re.s charitos kai
+ale.theias****.**
 
-***ple.re.s***describes a state of being completely full, and it is
+**ple.re.s**describes a state of being completely full, and it is
 translated “full”.
 
-The genitive of description of the noun ***charitos*** is translated
+The genitive of description of the noun **charitos** is translated
 “grace”.
 
-The connective conjunction***kai*** is translated “and”.
+The connective conjunction**kai** is translated “and”.
 
-The noun ***ale.theias*** is in the genitive case, and translated
+The noun **ale.theias** is in the genitive case, and translated
 “truth”.
 
 This is the full explanation of our birth from God.
@@ -7316,27 +7311,27 @@ Baptist’s statement itself, and we will concentrate our efforts in
 exegesis there. The rest of the verse is well translated and needs no
 tweaking.
 
-John’s statement begins with the definite article ***ho***, which is
+John’s statement begins with the definite article **ho**, which is
 attached to the participle erchomenos at the end of the verse. Together
 they are translated “the one coming”. The participle is in the present
 tense and so portrays its action at the same time as the main verb.
 
-The adverb ***opiso*** is translated “after”. It is a temporal adverb
+The adverb **opiso** is translated “after”. It is a temporal adverb
 showing Christ’s appearance as following that of John. John is
 identifying the Messiah, and those who followed John would have known
 that, since it was the force of his ministry.
 
-The second phrase is ***emprosthen mou gegonen***. We have translated
+The second phrase is **emprosthen mou gegonen**. We have translated
 this “has attained rank above me.”
 
-The preposition ***emprosthen*** here describes the status of rank.
+The preposition **emprosthen** here describes the status of rank.
 Although it is normally translated ‘before’ with reference to face to
 face presence, it takes up the idea of one being before another in a
 line. But we will not forsake the personal nature of this preposition.
 John and Jesus are second cousins according to the flesh. They at least
 knew one another as acquaintances growing up.
 
-The perfect tense of the verb ***gegonen*** shows that the attainment of
+The perfect tense of the verb **gegonen** shows that the attainment of
 rank happened in one moment of time, and that moment is portrayed as
 having an impact forever.
 
@@ -7346,7 +7341,7 @@ lower ranked one of the two.
 The explanation comes in the third phrase, which is translated, “because
 He was always first with reference to me”.
 
-The explanatory use of the conjunction ***hoti*** points to the last few
+The explanatory use of the conjunction **hoti** points to the last few
 words of the verse as the explanation of what has just been said.
 
 The imperfect tense of the verb to be describes the eternal existence of
@@ -7355,7 +7350,7 @@ the rank of Jesus Christ.
 The built in third person singular ‘he’ identifies Jesus Christ as the
 one who produces the action of the verb.
 
-The adverb ***protos*** indicates the highest rank of all: first.
+The adverb **protos** indicates the highest rank of all: first.
 
 The personal pronoun in the genitive case takes the adverbial genitive
 of reference, and so is translated, ‘with reference to me.’ This is not
@@ -7392,8 +7387,8 @@ in verse 14. It is the fullness with reference to grace and truth.
 That same fullness was received (aorist tense) by John and others, and
 of course is available to us.
 
-The ascensive use of the conjunction ***kai*** leads up to a literary
-climax, ***charin anti charitos***. It is translated, “even grace in
+The ascensive use of the conjunction **kai** leads up to a literary
+climax, **charin anti charitos**. It is translated, “even grace in
 exchange for grace”. Note that the ascensive use points to a further
 description of the same thing, and does not add a new thing to another.
 It is not “and grace…”
@@ -7433,19 +7428,19 @@ Belief in Moses’ Law led to a belief in Christ, John 5:4547.
 Verse 18 finishes the discourse, “No one has ever seen God; the only
 born God who is unto the bosom of the Father He explains.”
 
-The nominative case of the pronoun ***oudeis*** forms the subject of the
+The nominative case of the pronoun **oudeis** forms the subject of the
 first phrase of this verse. It is translated, “no one”.
 
-The verb ***heo.raken*** is in the perfect tense, describing a past
+The verb **heo.raken** is in the perfect tense, describing a past
 action that has lasting results into the present and even future. It is
 the verb which describes the faculty of sight, and so is translated,
 “has seen”
 
-Inserted between the subject and verb is the adverb ***po.pote***, which
+Inserted between the subject and verb is the adverb **po.pote**, which
 is translated “ever”.
 
 The object of the sentence is the proper noun theon, which is in the
-accusative case. It receives the action of ***heo.raken***, and is
+accusative case. It receives the action of **heo.raken**, and is
 translated “God”.
 
 No one has ever seen God. This is a complaint that so many unbelievers
@@ -7457,24 +7452,24 @@ of various kinds, but never a direct revelation of the person of God.
 
 But then the word became flesh and dwelt among us.
 
-The subject of the next phrase of the clause is ***monogene.s theos***.
+The subject of the next phrase of the clause is **monogene.s theos**.
 These two, the adjective and noun, are both in the nominative case, and
-produce the action of the sentence. ***monogene.s*** denotes a unique
+produce the action of the sentence. **monogene.s** denotes a unique
 birth. Only one man was ever born a virgin, as only one has received the
-resurrection. The proper noun ***theos*** concentrates on the hypostatic
+resurrection. The proper noun **theos** concentrates on the hypostatic
 union. This is translated, “the only born God”. Jesus Christ is the
 unique person of the universe, the God man.
 
-Next there is the definite article ***ho*** and participle ***o.n***.
+Next there is the definite article **ho** and participle **o.n**.
 These are translated together “the one who is” There is an eternal
 nature to these words conveyed by the combination of the present tense
 of the participle and the nature of its subject, God the Son.
-Furthermore, the prepositional phrase ***eis ton kolpn tou patros***
-follows. The preposition ***eis*** describes the Son as being in a
+Furthermore, the prepositional phrase **eis ton kolpn tou patros**
+follows. The preposition **eis** describes the Son as being in a
 constant state of motion. This motion is directed toward the bosom of
 the Father.
 
-***kolpon*** is the Greek word for bosom and it portrays fellowship of
+**kolpon** is the Greek word for bosom and it portrays fellowship of
 the closest nature. “like a child at rest on its mother’s breast”, or
 John resting on our Lord’s chest at the last supper. Complete trust is
 required.
@@ -7483,13 +7478,13 @@ The Son is always in the closest of fellowship with the Father. This
 describes their coequal and coeternal status, and the reliance of the
 Son on the Father throughout the incarnation.
 
-The verb of this final clause is ***exe.ge.sato***. This is the aorist
+The verb of this final clause is **exe.ge.sato**. This is the aorist
 tense, which portrays a past action and sums that action up into one
 moment of time. It means to draw out or explain something, and it is the
 Greek word on which is based our English exegesis. We will translate it
 “explained”
 
-The demonstrative pronoun ***ekeinos*** is inserted as a duplication of
+The demonstrative pronoun **ekeinos** is inserted as a duplication of
 the subject. There is no object.
 
 The Word became flesh and explained the Father. In just what way the Son
@@ -7506,14 +7501,14 @@ exegete each passage in turn in order to get the details.
 **Matthew 4:1**, “Then Jesus was led up into the wilderness by the
 Spirit to be tempted by the devil”
 
-The adverb of time ***pote*** is translated ‘then’. It reveals the
-sequence of events in Christ’s life. Mark uses the adverb ***euthus***
+The adverb of time **pote** is translated ‘then’. It reveals the
+sequence of events in Christ’s life. Mark uses the adverb **euthus**
 to communicate the immediate aspect of this transition.
 
-***ie.sous***is the proper noun used as the subject of the sentence.
+**ie.sous**is the proper noun used as the subject of the sentence.
 This is ‘Jesus’.
 
-The verb is ***ane.chthe***. It is in the passive voice, which indicates
+The verb is **ane.chthe**. It is in the passive voice, which indicates
 that our Lord did not produce the action of the verb but instead
 received it. The constantive aorist tense summarizes the past action
 into one moment of time. The verb itself means to lead from a lower to a
@@ -7529,22 +7524,22 @@ Spirit did the leading and Christ did the following. Exactly how this
 occurred will be the subject of our study of the doctrine of divine
 guidance.
 
-The prepositional phrase ***eis te.n ere.mon*** describes the
+The prepositional phrase **eis te.n ere.mon** describes the
 geographical transition from the Jordan to the Wilderness. It is
 translated “into the desert”.
 
 A second prepositional phrase puts forth the leadership of the Spirit,
-who was the direct agent of the leading. It is ***hupo tou pneumatos***,
+who was the direct agent of the leading. It is **hupo tou pneumatos**,
 and translated "by the Spirit.
 
 The last clause of the verse is a purpose clause which is
-***peirasthe.nai hupo tou diabolou***. The verb is the aorist passive of
-***peirazo***, which means to put someone to the test. Depending on the
+**peirasthe.nai hupo tou diabolou**. The verb is the aorist passive of
+**peirazo**, which means to put someone to the test. Depending on the
 one doing the test, the purpose may be good or bad. This is translated,
 ’to be tempted by the devil"
 
-Notice that ***hupo tou diabolou*** is identical to ***hupo tou
-pneumatou***. In the battle to come, it will be the ministry of God the
+Notice that **hupo tou diabolou** is identical to **hupo tou
+pneumatou**. In the battle to come, it will be the ministry of God the
 Holy Spirit verses the temptation of the devil.
 
 This is the first evidence testing done under the conditions of the
@@ -7558,15 +7553,15 @@ plus days.
 The major difference here is in the verb that is used to describe the
 action of the Spirit in getting Christ to the desert.
 
-In this verse, ***to pneuma***, the Spirit, is the subject, and
-***auton*** the personal pronoun describing Christ is the object. This
+In this verse, **to pneuma**, the Spirit, is the subject, and
+**auton** the personal pronoun describing Christ is the object. This
 reveals that once under the leadership of the Spirit there was no doubt
 whatsoever as to what would happen.
 
-The verb ***ekballei*** is in the present tense, which reveals an action
+The verb **ekballei** is in the present tense, which reveals an action
 as it happens. It is the dramatic way to present the action typical of
 Mark’s gospel. The verb literally means to cast out. The Spirit ‘cast
-out’ Christ into the wilderness ***eis te.n ere.mon***. Again we do not
+out’ Christ into the wilderness **eis te.n ere.mon**. Again we do not
 yet know how this occurred, only that it did.
 
 **Luke 4:1**, “And Jesus, full of the Holy Spirit returned from the
@@ -7575,40 +7570,40 @@ change here is the revelation that Christ was led by the Spirit for the
 duration of His stay in the desert, and that it was from a state of
 being full from the Spirit that gave the leadership.
 
-The verse begins with the post positive conjunction ***de*** which
+The verse begins with the post positive conjunction **de** which
 serves as a transition from the genealogy in the last part of chapter 3.
 Its force is, "now let’s turn to another subject.
 
 Four words work together to form the foundational statement of the
-verse: ***Ie.sous ple.re.s pneumatos hagiou***. They are translated
+verse: **Ie.sous ple.re.s pneumatos hagiou**. They are translated
 “Jesus, full of the Holy Spirit.”
 
-The nominative case of ***ple.re.s*** forms the key part of the
+The nominative case of **ple.re.s** forms the key part of the
 description it denotes a state of complete fullness. It can denote
 thought or emotion, negative or positive, but the idea here refers to
 the control of the soul.
 
-The verse does not say how, but it does make it clear that ***Ie.sous***
-is under the control of ***pneumatos hagiou***.
+The verse does not say how, but it does make it clear that **Ie.sous**
+is under the control of **pneumatos hagiou**.
 
 The first thing that Jesus does under the control of the Spirit is
 return from the Jordan, where he had just been baptized. The word for
-returned is ***hupestrepsen***, which is in the aorist tense. This
+returned is **hupestrepsen**, which is in the aorist tense. This
 describes a past action occurring in one moment of time, and thus the
 translation “He returned”.
 
 The second thing is that “He was being led by means of the Spirit.”
 
-The verb ***e.geto*** is from ago, which is the simple verb for the act
+The verb **e.geto** is from ago, which is the simple verb for the act
 of leading. It is in the passive voice and so reveals that the subject
 receives the action of leadership. The imperfect tense indicates that
 the action took place over a duration of time in the past, and not just
 at one moment. It is translated, “He was being led.”
 
-The preposition ***en*** plus the instrumental case of means shows that
+The preposition **en** plus the instrumental case of means shows that
 the Spirit was the means of the leading.
 
-***en te. eremo***. portrays both location in the desert and the amount
+**en te. eremo**. portrays both location in the desert and the amount
 of time spent there. It is translated, “in the desert” This tells us
 that the Spirit not only led Christ to the desert, but also the entire
 time that He was there.
@@ -7883,11 +7878,11 @@ of God, command that these stones become bread.’ But He answered and
 said, ‘It is written, ’Man shall not live on bread alone, but on every
 word that proceeds out of the mouth of God’’”
 
-***ne.steusas*** is the verb that is translated fasting. It describes
+**ne.steusas** is the verb that is translated fasting. It describes
 complete abstinence from food. The culminative aorist tense concentrates
 on the end of the fasting.
 
-***husteron*** is used as an adverb to emphasize that Christ was not
+**husteron** is used as an adverb to emphasize that Christ was not
 ordinary man. It is translated ‘finally’.
 
 Luke 4:2-4, “And He ate absolutely nothing during those days; and at the
@@ -7896,23 +7891,23 @@ the Son of God, speak to this stone that it might become bread.’ And
 Jesus answered him, ‘It is written, ’Man shall not live on bread
 alone.’”
 
-The combination of ***ouk*** and ***ouden*** places an absolute negation
-on the verb ***ephagen***.
+The combination of **ouk** and **ouden** places an absolute negation
+on the verb **ephagen**.
 
-The preposition ***en*** plus the phrase ***tais heme.rais ekeinais***
+The preposition **en** plus the phrase **tais heme.rais ekeinais**
 shows that the negation lasts for the entire forty days.
 
-The aorist participle ***suntelestheiso.n*** indicates that it was only
+The aorist participle **suntelestheiso.n** indicates that it was only
 at the very conclusion of the forty days that He became hungry. The verb
-***peinao*** describes an obsessive hunger, where all that is thought of
+**peinao** describes an obsessive hunger, where all that is thought of
 is food. It is not just the growling of the stomach. After forty days,
 even the healthiest human being is at the limits of his endurance. So
 was Christ.
 
-The imperative mood of the aorist verb ***eipe*** shows a command to the
+The imperative mood of the aorist verb **eipe** shows a command to the
 stone.
 
-The subjunctive mood of ***ginomai*** reveals that it all depends on
+The subjunctive mood of **ginomai** reveals that it all depends on
 Christ’s volition. The devil knows that the Divine Power is available,
 but that its use would invalidate the purpose of the incarnation.
 
@@ -8005,7 +8000,7 @@ give you, if falling down you might worship me.’ Then Jesus said to him,
 ‘Begone, Satan! For it is written, ’You shall worship the Lord your God,
 and serve Him only.’”
 
-***paralambano*** means to take alongside. This verb has a wide
+**paralambano** means to take alongside. This verb has a wide
 connotation which seems to harmonize well with the situation. It means
 to take someone into your home as a guest; to take someone aside for the
 purpose of private instruction or reproof; to take someone alongside for
@@ -8014,16 +8009,16 @@ custody. This is the perfect word for this situation, because you can
 see the enemy taking Christ alongside as a used car salesman does. The
 historical present is used to emphasize the drama of the moment.
 
-***lian*** emphasizes the great height of this mountain; perhaps it was
+**lian** emphasizes the great height of this mountain; perhaps it was
 even Mt. Everest or Mt. Ararat…
 
-***deiknumi*** means to show or demonstrate something to someone. This
+**deiknumi** means to show or demonstrate something to someone. This
 too is in the historical present.
 
-The aorist participle ***peso.n*** demonstrates that the falling down
+The aorist participle **peso.n** demonstrates that the falling down
 must precede the distribution of the kingdoms and their glory.
 
-The subjunctive mood of the verb ***proskune.se.s*** indicates that it
+The subjunctive mood of the verb **proskune.se.s** indicates that it
 is up to Christ; He must exercise His will freely in this matter. The
 verb depicts the kissing of another’s feet, and comes with the idea of
 sycophantic flourish before a deified king.
@@ -8035,15 +8030,15 @@ and I give it to whomever I wish. Therefore if You worship before me, it
 shall all be Yours.’ And Jesus answered and said to him, ‘It is written,
 ’You shall worship the Lord your God and serve Him only.’”
 
-Luke uses the word ***oikoumene.s*** for world. It bears closer to the
+Luke uses the word **oikoumene.s** for world. It bears closer to the
 meaning of ‘establishment’, or ‘corporation’. This contrasts with the
-straightforward ***kosmos*** of Matthew.
+straightforward **kosmos** of Matthew.
 
 Luke adds that the show occurred in one moment of time. Ahem, he did not
-want Christ to look too closely. This from ***stigme. chronou***, a
+want Christ to look too closely. This from **stigme. chronou**, a
 point of chronological time.
 
-***exousia*** denotes that Christ would be given delegated authority
+**exousia** denotes that Christ would be given delegated authority
 from Satan over all these kingdoms, along with the glory of them. Let me
 point out that the glory of the devil’s world is only a veneer.
 
@@ -8105,15 +8100,15 @@ will bear You up, lest You strike your foot against a stone.’ Jesus said
 to him, ‘On the other hand, it is written, ’You shall not put the Lord
 your God to the test.’’”
 
-***paralambano*** is used again by Matthew to describe the sleazy
+**paralambano** is used again by Matthew to describe the sleazy
 operation of the enemy. This polite word is used to outline an insidious
 temptation.
 
-***entello*** is the word used to indicate the giving of responsibility
+**entello** is the word used to indicate the giving of responsibility
 to the angels. It is in the future tense because it depends on a past
 condition in the context of Psalm 91.
 
-***palin*** is used by Christ to express His contradiction of the
+**palin** is used by Christ to express His contradiction of the
 assertion of Satan. palin means back; again; it is an adverb. Here it
 takes on the meaning of contradiction. It returns to Scripture, where
 Satan has just taken the conversation, and contradicts what has just
@@ -8491,7 +8486,7 @@ neighboring town.
 
 It is interesting to note that Christ says of Nathaniel, “a real
 Israelite”. The word ‘real’ is translated from the adverb
-***ale.thino.s***. This adverb is one of emphasis on true nature. But
+**ale.thino.s**. This adverb is one of emphasis on true nature. But
 Nathaniel Bartholomew is of Egyptian heritage he could not be a genetic
 Jew. But Christ talks about his spiritual heritage as Paul would… that
 the true Jew is the one who believes in Him regardless of his genetic
@@ -8603,26 +8598,26 @@ last time that Joseph appears on the radar screen.
 **John 2:2**. “Now indeed Jesus was called into the wedding, and His
 disciples.”
 
-The ascensive use of the conjunction ***kai*** is translated indeed.
+The ascensive use of the conjunction **kai** is translated indeed.
 This betrays some surprise on the part of the writer. Although Mary was
 already present at this feast, it was unusual for others to be invited
 while the festivities were in full swing.
 
-The passive voice of the verb ***ekle.the***. reveals that Christ was
+The passive voice of the verb **ekle.the**. reveals that Christ was
 polite. He did not barge in, but he was called. The passive voice shows
 us that Christ did not produce the action of the calling, someone else
 did.
 
-The use of the conjunction ***eis*** indicates that he was outside of
+The use of the conjunction **eis** indicates that he was outside of
 the wedding, an uninvited guest.
 
-The third person singular of the verb ***ekle.the***. shows us that only
+The third person singular of the verb **ekle.the**. shows us that only
 Christ at first is called in; His disciples are left outside. This
 further indicates that Christ was called in because Mary was His mother
 not because of His celebrityship. The fact that John mentions Mary’s
 presence supports this.
 
-The conjunction ***kai*** plus the phrase ***hoi mathetai*** autou
+The conjunction **kai** plus the phrase **hoi mathetai** autou
 reveals that the extension of the invitation to the disciples was more
 of an afterthought.
 
@@ -8648,7 +8643,7 @@ This moment is dramatized by the use of the dramatic or historical
 present tense of the verb legei to speak.
 
 The focus of the disaster is revealed by the position of the participle
-***husteresantos***.
+**husteresantos**.
 
 This participle is in the genitive absolute. This shows a grammatical
 disconnection with the rest of the statement in the verse. It shows that
@@ -8688,12 +8683,12 @@ the point badly.
 hour has not come."
 
 Again John uses the dramatic or historic present to make the scene
-vivid. Again this is done with the verb ***legei***, ‘to speak’.
+vivid. Again this is done with the verb **legei**, ‘to speak’.
 
 Our Lord uses a Hebrew idiom to make it clear to His mother that He now
 has His own realm of authority.
 
-The idiom is literally from the Greek phrase ***Ti emoi kai soi***.
+The idiom is literally from the Greek phrase **Ti emoi kai soi**.
 “What is to me and you?.”
 
 Christ very clearly says in this idiom, “Mind your own business.”
@@ -8706,7 +8701,7 @@ So Christ has to set the boundaries of His own authority with His
 mother. This is His affair, and not hers.
 
 Christ uses a formal term for woman in the vocative case to gain the
-attention of His mother. ***gune***. translates best as ‘ma’am’, or
+attention of His mother. **gune**. translates best as ‘ma’am’, or
 ‘lady’. It can be a term of affection, and is almost always a term of
 respect, but it is formal, and it shows the objective way that Christ is
 addressing His mother. He is reproving her, after all.
@@ -8830,7 +8825,7 @@ spiritual life. The feast itself celebrated the law giving at Mt. Sinai.
 they filled them to the top.”
 
 Now Christ gives a direct command it is the imperative mood of the verb
-***gemizo*** to fill.
+**gemizo** to fill.
 
 The verb itself always takes the negative connotation ‘Full of
 wickedness’; ‘Full of smoke’. It is even used of the seven plague and
@@ -8932,7 +8927,7 @@ d’hotels can express. Without delay he calls the bridegroom. He is so
 amazed with what he considers a blunder on the part of the bridegroom
 that he violates one of his own rules.
 
-The verb ***phoneo*** is used to denote that the chief steward uses a
+The verb **phoneo** is used to denote that the chief steward uses a
 loud call in order to summon. The verb is used of the trumpet blast, the
 rolling thunder, the voice of John the Baptist in the wilderness, the
 shout of the archangel at the second coming, and even the voice of God.
@@ -8961,14 +8956,14 @@ Of course, the poor man has no way of knowing that this wine has only
 become so minutes ago. He makes a fool of himself before his knowing
 servants.
 
-The Greek adjective ***elasso***. is translated inferior. It really
+The Greek adjective **elasso**. is translated inferior. It really
 means younger, which translates well as inferior when a wine frame of
 reference is in view.
 
 **John 2:11**. “This beginning of the signs Jesus did in Kana of Galilee
 and manifested His glory and His disciples believed in Him.”
 
-The word ***arche***. indicates that this is the very first miracle that
+The word **arche**. indicates that this is the very first miracle that
 Christ performed. It is translated beginning.
 
 It is for this reason that we know that Christ the child never did
@@ -8979,7 +8974,7 @@ This is what tells us that Mary had no frame of reference for the
 spiritual gift of miracles: the same gift that Christ used to perform
 this one.
 
-John appropriately calls this miracle a ***se.meio.n a***sign. The
+John appropriately calls this miracle a **se.meio.n a**sign. The
 miracles and healings that Christ performed were all designed as signs
 things which would point to His messiahship.
 
@@ -9416,7 +9411,7 @@ Father a house of merchandise.’”
 
 This is the final part of the cleansing phase.
 
-The verb ***airo*** [***arate***] is in the aorist imperative. The
+The verb **airo** [**arate**] is in the aorist imperative. The
 aorist tells us that Christ intended for the command to be carried out
 immediately.
 
@@ -9708,15 +9703,15 @@ concerning man; for He Himself knew what was in man.”
 
 This reveals the background for verse 24.
 
-The word for need is ***chreian***. It comes from the ‘grace’ word
+The word for need is **chreian**. It comes from the ‘grace’ word
 group.
 
-***charis*** is the approach to problem solving. This is grace.
+**charis** is the approach to problem solving. This is grace.
 
-***chrestos*** is the ability to solve problems within the parameters of
+**chrestos** is the ability to solve problems within the parameters of
 the grace approach. This is proficiency.
 
-***chreian*** is the absolute necessity of doing things according to
+**chreian** is the absolute necessity of doing things according to
 approach of grace and the ability of proficiency.
 
 But this verse says that Christ did not have a need for anyone to
@@ -10161,7 +10156,7 @@ in ourselves. Just Him, and more specifically the work done on the
 cross.
 
 This is a purpose clause; the Son of man was lifted up on the cross so
-that we might believe, and no other reason. ***hina***.
+that we might believe, and no other reason. **hina**.
 
 Notice that the adjective pas describes the universal condition for
 salvation, ‘everyone who believes.’ There is no exception, no amount or
@@ -10191,10 +10186,10 @@ always, always, the results will come to pass. Here, the condition is
 belief in Christ, and here, everyone who believes does not perish, but
 comes to have eternal life.
 
-The conjunction ***houto.s*** indicates a stronger degree of God’s love.
+The conjunction **houto.s** indicates a stronger degree of God’s love.
 He so loved…
 
-The verb ***e.gape.sen*** is from ***agapao***. Virtue love is in view
+The verb **e.gape.sen** is from **agapao**. Virtue love is in view
 here. The verb is in the aorist tense, and so reveals one moment of time
 in eternity past. That moment when God conceived His perfect idea on how
 to provide for the redemption of mankind.
@@ -10269,7 +10264,7 @@ The sacrifice included the utter separation of the cross. The physical
 pain, was something, but the spiritual was far more. Eloi, Eloi, lama
 sabachthani?
 
-The adjective ***monogenes*** reveals a couple of things about Christ.
+The adjective **monogenes** reveals a couple of things about Christ.
 
 Christ is the only born Son of God. Not the first born, with others to
 follow, but the only born.

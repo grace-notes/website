@@ -1,6 +1,7 @@
 ---
-title: Union With Christ
-description: Teaching related to all of the benefits and responsibilities of being "in Christ".
+title: "Union with Christ (Positional Truth)"
+pdf: "unionwithchrist.pdf"
+description: "Union with Christ (Positional Truth) - [PDF] Teaching related to all of the benefits and responsibilities of being \"in Christ\"."
 template: lesson.jade
 ---
 

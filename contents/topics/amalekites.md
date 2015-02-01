@@ -1,5 +1,7 @@
 ---
-title: Amalekites
+title: "Amalekites"
+pdf: "amalekites.pdf"
+description: "Amalek was the son of Eliphaz and grandson of Esau (Gen. 36:12, 16), and as a collective noun, the Amelekites, were his descendants."
 template: lesson.jade
 ---
 

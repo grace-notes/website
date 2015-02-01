@@ -1,5 +1,7 @@
 ---
-title: Nazarites
+title: "Nazarites"
+pdf: "nazarites.pdf"
+description: "The Nazarites were an ancient order of persons consecrated to God by means of a vow."
 template: lesson.jade
 ---
 

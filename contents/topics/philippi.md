@@ -1,5 +1,7 @@
 ---
-title: Philippi
+title: "Philippi"
+pdf: "philippi.pdf"
+description: "Roman provincial city; important trade center; location of the Philippian church."
 template: lesson.jade
 ---
 

@@ -1,5 +1,7 @@
 ---
-title: Paul In Ephesus
+title: "Paul in Ephesus"
+pdf: "paulinephesus.pdf"
+description: "Paul in Ephesus - [PDF] an account of the apostle Paul's ministry in Ephesus."
 template: lesson.jade
 ---
 

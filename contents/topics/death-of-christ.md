@@ -1,12 +1,9 @@
 ---
-title: Death Of Christ
+title: The Death of Christ
+description: "The death of Jesus Christ was an act of obedience to God the Father's plan of salvation."
+pdf: deathofchrist.pdf
 template: lesson.jade
 ---
-
-
-**Death 2**
-
-The Death of Christ
 
 The death of Jesus Christ was an act of obedience to God the Father’s
 plan of salvation.

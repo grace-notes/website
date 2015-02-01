@@ -1,5 +1,7 @@
 ---
-title: Galatia
+title: "Galatia"
+pdf: "galatia.pdf"
+description: "the location of much of Paul's travels; occupied by Gauls from Europe."
 template: lesson.jade
 ---
 

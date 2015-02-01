@@ -1,5 +1,7 @@
 ---
-title: Qualifications For Ministers
+title: "Qualifications for Ministers"
+pdf: "qualificationsforministers.pdf"
+description: "an exposition of Titus 1:5-9."
 template: lesson.jade
 ---
 

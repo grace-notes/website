@@ -1,5 +1,7 @@
 ---
-title: Judgement Seat
+title: "Judgment Seat of Christ"
+pdf: "judgementseat.pdf"
+description: "Judgment Seat of Christ - [PDF] A brief study of the thrones upon which Christ will sit, in heaven and on earth, after the Church Age."
 template: lesson.jade
 ---
 

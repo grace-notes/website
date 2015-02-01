@@ -1,5 +1,7 @@
 ---
-title: Gaul Christianity In Guizot 
+title: "Gaul, Christianity in"
+pdf: "gaul_christianity_in(guizot).pdf"
+description: "from Guizot's History of France."
 template: lesson.jade
 ---
 
