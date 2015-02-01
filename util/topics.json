@@ -1,2237 +1,2678 @@
 [
     {
         "description": "Index and brief description of topics in the Library. ",
-        "pdf": "_TopicsIndex.pdf",
-        "title": "INDEX TO TOPICS"
+        "pdf": "_topicsindex.pdf",
+        "title": "INDEX TO TOPICS",
+        "filename": "topics-index.md"
     },
     {
         "description": "Moses' older brother, the first high priest. According to the genealogical lists he was third in descent from Levi (Ex. 6:16-20; 1 Ch. 6:1-3). ",
-        "pdf": "Aaron.pdf",
-        "title": "Aaron"
+        "pdf": "aaron.pdf",
+        "title": "Aaron",
+        "filename": "aaron.md"
     },
     {
         "description": "In Matthew 24:15-20, our Lord Himself spoke of the \"abomination of desolation\". ",
-        "pdf": "Abomination.pdf",
-        "title": "Abomination of Desolation"
+        "pdf": "abomination.pdf",
+        "title": "Abomination of Desolation",
+        "filename": "abomination.md"
     },
     {
         "description": "\"I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you.\" This is the beginning of the covenant with Abram. ",
-        "pdf": "abrahamicCovenant.pdf",
-        "title": "Abrahamic Covenant"
+        "pdf": "abrahamiccovenant.pdf",
+        "title": "Abrahamic Covenant",
+        "filename": "abrahamic-covenant.md"
     },
     {
         "description": "David's third son by Maacah daughter of Talmai king of Geshur (a small country between Hermon and Bashan). ",
-        "pdf": "Absalom.pdf",
-        "title": "Absalom"
+        "pdf": "absalom.pdf",
+        "title": "Absalom",
+        "filename": "absalom.md"
     },
     {
         "description": "chronology, and some of the political background of the Acts of the Apostles. ",
-        "pdf": "actsHistoricalBackground.pdf",
-        "title": "Acts, Historical Background"
+        "pdf": "actshistoricalbackground.pdf",
+        "title": "Acts, Historical Background",
+        "filename": "acts-historical-background.md"
     },
     {
         "description": "an introduction to the study of the Acts of the Apostles. ",
-        "pdf": "aCTS_Intro.pdf",
-        "title": "Acts, Introduction"
+        "pdf": "acts_intro.pdf",
+        "title": "Acts, Introduction",
+        "filename": "acts-introduction.md"
     },
     {
         "description": "outline of the book of Acts. ",
-        "pdf": "actsOutline.pdf",
-        "title": "Acts, Outline"
+        "pdf": "actsoutline.pdf",
+        "title": "Acts, Outline",
+        "filename": "acts-outline.md"
     },
     {
         "description": "a survey of the Acts of the Apostles. ",
-        "pdf": "acts_Survey.pdf",
-        "title": "Acts, Survey"
+        "pdf": "acts_survey.pdf",
+        "title": "Acts, Survey",
+        "filename": "acts-survey.md"
     },
     {
         "description": "It is fitting that we start with Adam, because Adam was the first head of the human race. By looking at Adam's life we can discover the beginnings of our problems... and solutions. ",
         "pdf": "adam.pdf",
-        "title": "Adam"
+        "title": "Adam",
+        "filename": "adam.md"
     },
     {
         "description": "From Eph. 1:5, Gal. 4:5, etc., notes on the believer's spiritual adoption. ",
         "pdf": "adoption.pdf",
-        "title": "Adoption"
+        "title": "Adoption",
+        "filename": "adoption.md"
     },
     {
         "description": "Christ, the Son, and the Holy Spirit are our advocates with the Father, protecting us against the lies of Satan. ",
         "pdf": "advocacy.pdf",
-        "title": "Advocacy"
+        "title": "Advocacy",
+        "filename": "advocacy.md"
     },
     {
         "description": "The brotherly common meals of the early Church. ",
-        "pdf": "AgapeFeast.pdf",
-        "title": "The Agape Feast"
+        "pdf": "agapefeast.pdf",
+        "title": "The Agape Feast",
+        "filename": "agape-feast.md"
     },
     {
         "description": "Israelites learned farming during 400 years in Egypt. Description of farming practices and OT laws regulating them. ",
-        "pdf": "agriculturePalestine.pdf",
-        "title": "Agriculture in Palestine"
+        "pdf": "agriculturepalestine.pdf",
+        "title": "Agriculture in Palestine",
+        "filename": "agriculture-palestine.md"
     },
     {
         "description": "City in Egypt founded by Alexander the Great. Birthplace of Apollos. Work site for the Septuagint version of the Old Testament. ",
         "pdf": "alexandria.pdf",
-        "title": "Alexandria"
+        "title": "Alexandria",
+        "filename": "alexandria.md"
     },
     {
         "description": "Amalek was the son of Eliphaz and grandson of Esau (Gen. 36:12, 16), and as a collective noun, the Amelekites, were his descendants. ",
-        "pdf": "Amalekites.pdf",
-        "title": "Amalekites"
+        "pdf": "amalekites.pdf",
+        "title": "Amalekites",
+        "filename": "amalekites.md"
     },
     {
         "description": "Now then, we are ambassadors for Christ. ",
         "pdf": "ambassadorship.pdf",
-        "title": "Ambassadorship"
+        "title": "Ambassadorship",
+        "filename": "ambassadorship.md"
     },
     {
         "description": "The name Amorite is used in the OT to denote (1) the inhabitants of Palestine generally, (2) the population of the hills as opposed to the plain, and (3) a specific people under a king of their own. ",
-        "pdf": "Amorites.pdf",
-        "title": "Amorites"
+        "pdf": "amorites.pdf",
+        "title": "Amorites",
+        "filename": "amorites.md"
     },
     {
         "description": "A prophet of the 8th cent B.C., and the third book of the Minor Prophets. ",
-        "pdf": "Amos.pdf",
-        "title": "Amos"
+        "pdf": "amos.pdf",
+        "title": "Amos",
+        "filename": "amos.md"
     },
     {
         "description": "by Xenophon, The March of the Ten Thousand. The most famous work of the Greek professional soldier and writer Xenophon. The journey it narrates is his best known accomplishment and \"one of the great adventures in human history.\" ",
-        "pdf": "aNABASIS.pdf",
-        "title": "Anabasis"
+        "pdf": "anabasis.pdf",
+        "title": "Anabasis",
+        "filename": "anabasis.md"
     },
     {
         "description": "a categorial study of the Doctrine of Angels. ",
         "pdf": "angels.pdf",
-        "title": "Angels"
+        "title": "Angels",
+        "filename": "angels.md"
     },
     {
         "description": "What the Bible says about anger, ours and God's. How to deal with sinful anger. ",
         "pdf": "anger.pdf",
-        "title": "Anger"
+        "title": "Anger",
+        "filename": "anger.md"
     },
     {
         "description": "In the Church Age, antichrist refers to any believer who resides and functions in the world system of Satan. ",
         "pdf": "antichrist.pdf",
-        "title": "Antichrist"
+        "title": "Antichrist",
+        "filename": "antichrist.md"
     },
     {
         "description": "Antinomianism is the view that Christians are exempt from the demands of the moral law by reason of their reliance upon divine grace alone for salvation. ",
-        "pdf": "Antinomianism.pdf",
-        "title": "Antinomianism"
+        "pdf": "antinomianism.pdf",
+        "title": "Antinomianism",
+        "filename": "antinomianism.md"
     },
     {
         "description": "where followers of Christ were first called Christians, is located some three hundred miles north of Jerusalem, on the west bank of the Orontes River. ",
         "pdf": "antioch.pdf",
-        "title": "Antioch"
+        "title": "Antioch",
+        "filename": "antioch.md"
     },
     {
         "description": "The word Apocrypha means \"hidden\", or \"secret\". The term \"Apocrypha\" is usually applied to a collection of books, from eleven to sixteen in number, which appeared during the interim between the Old and New Testaments. These books have come down to us in more or less close connection with the canonical books of the Bible. ",
-        "pdf": "Apocrypha.pdf",
-        "title": "Apocrypha and non-Canonical WritingsApocrypha"
+        "pdf": "apocrypha.pdf",
+        "title": "Apocrypha and non-Canonical WritingsApocrypha",
+        "filename": "apocrypha.md"
     },
     {
         "description": "a short account of what the Bible has to say about this friend of the apostle Paul. ",
         "pdf": "apollos.pdf",
-        "title": "Apollos"
+        "title": "Apollos",
+        "filename": "apollos.md"
     },
     {
         "description": "Qualifications, credentials, and function of apostles. ",
         "pdf": "apostleship.pdf",
-        "title": "Apostleship"
+        "title": "Apostleship",
+        "filename": "apostleship.md"
     },
     {
         "description": "The apostolic period extends from the Day of Pentecost to the death of St. John, and covers about seventy years, from AD 30 to 100. ",
-        "pdf": "apostolicAge.pdf",
-        "title": "Apostolic Age, The"
+        "pdf": "apostolicage.pdf",
+        "title": "Apostolic Age, The",
+        "filename": "apostolic-age.md"
     },
     {
         "description": "The beginnings of the Church in the times of the Apostles. ",
-        "pdf": "apostolicChurch.pdf",
-        "title": "Apostolic Church, The"
+        "pdf": "apostolicchurch.pdf",
+        "title": "Apostolic Church, The",
+        "filename": "apostolic-church.md"
     },
     {
         "description": "at least a partial listing, including brief biographies of the successors to the Apostles. ",
-        "pdf": "ApostolicFathers.pdf",
-        "title": "Apostolic Fathers, The"
+        "pdf": "apostolicfathers.pdf",
+        "title": "Apostolic Fathers, The",
+        "filename": "apostolic-fathers.md"
     },
     {
         "description": "Two friends of Paul whom he met in Corinth, who traveled to Ephesus with him, and were instructors of Apollos. ",
         "pdf": "aquila.pdf",
-        "title": "Aquila and Priscilla"
+        "title": "Aquila and Priscilla",
+        "filename": "aquila.md"
     },
     {
         "description": "Aramaic is a language or group of languages of the Semitic family, closely related to Hebrew. Biblical Aramaic, formerly called Chaldee, is the name given to the Aramaic occasionally found in the Old Testament. ",
-        "pdf": "AramaicLanguage.pdf",
-        "title": "The Aramaic Language"
+        "pdf": "aramaiclanguage.pdf",
+        "title": "The Aramaic Language",
+        "filename": "aramaic-language.md"
     },
     {
         "description": "The Areopagus is a hill northwest of the Acropolis in Athens, Greece, where the apostle Paul preached to the intellectuals. ",
-        "pdf": "Areopagus.pdf",
-        "title": "Areopagus"
+        "pdf": "areopagus.pdf",
+        "title": "Areopagus",
+        "filename": "areopagus.md"
     },
     {
         "description": "The Ark of the Tabernacle, its history and typology. ",
-        "pdf": "arkOfTheCovenant.pdf",
-        "title": "Ark of the Covenant"
+        "pdf": "arkofthecovenant.pdf",
+        "title": "Ark of the Covenant",
+        "filename": "ark-of-the-covenant.md"
     },
     {
         "description": "a review of the final battle. ",
         "pdf": "armageddon.pdf",
-        "title": "Armageddon"
+        "title": "Armageddon",
+        "filename": "armageddon.md"
     },
     {
         "description": "An exposition of Eph. 6:10-17; a discussion of demon organization and tactics; history of Roman armor to explain vocabulary. ",
-        "pdf": "armorOfGod.pdf",
-        "title": "Armor of God"
+        "pdf": "armorofgod.pdf",
+        "title": "Armor of God",
+        "filename": "armor-of-god.md"
     },
     {
         "description": "\"If training in arms ceases, there is no difference between a soldier and a civilian! and No matter how many years he has served, an unexercised solder is a raw recruit!\" - Vegetius ",
-        "pdf": "ArmorOfGod_Using.pdf",
-        "title": "Armor of God, Using"
+        "pdf": "armorofgod_using.pdf",
+        "title": "Armor of God, Using",
+        "filename": "armor-of-god-using.md"
     },
     {
         "description": "Scripture passages related to the ascension of the Lord Jesus Christ. ",
         "pdf": "ascension.pdf",
-        "title": "Ascension of Christ"
+        "title": "Ascension of Christ",
+        "filename": "ascension.md"
     },
     {
         "description": "The land to which this name has been applied plays an important part in some periods of Bible history, and a central part in the history of the earliest Christian mission. ",
-        "pdf": "AsiaMinor.pdf",
-        "title": "Asia Minor"
+        "pdf": "asiaminor.pdf",
+        "title": "Asia Minor",
+        "filename": "asia-minor.md"
     },
     {
         "description": "Capsule history of the Assyrian Empire. ",
         "pdf": "assyria.pdf",
-        "title": "Assyria"
+        "title": "Assyria",
+        "filename": "assyria.md"
     },
     {
         "description": "a thoroughly researched study by George Rawlinson, from The Seven Great Monarchies of the Ancient Eastern World. ",
         "pdf": "assyria(rawlinson).pdf",
-        "title": "Assyria (Rawlinson)"
+        "title": "Assyria (Rawlinson)",
+        "filename": "assyria-rawlinson.md"
     },
     {
-        "description": "one of the greatest cultural centers of Paul\u2019s day, grew up around a 520-foot-high rocky plateau called the Acropolis. ",
+        "description": "one of the greatest cultural centers of Paul’s day, grew up around a 520-foot-high rocky plateau called the Acropolis. ",
         "pdf": "athens.pdf",
-        "title": "Athens"
+        "title": "Athens",
+        "filename": "athens.md"
     },
     {
         "description": "The Day of Atonement was the fourth of the five annual feasts of pre-exile Israel. ",
-        "pdf": "AtonementDayOf.pdf",
-        "title": "Atonement, The Day of"
+        "pdf": "atonementdayof.pdf",
+        "title": "Atonement, The Day of",
+        "filename": "atonement-day-of.md"
     },
     {
         "description": "a brief biography of the Roman Emperor who sent out the decree at the time of Jesus' birth that \"all the world\" should be taxed. ",
-        "pdf": "Augustus.pdf",
-        "title": "Augustus"
+        "pdf": "augustus.pdf",
+        "title": "Augustus",
+        "filename": "augustus.md"
     },
     {
         "description": "Authority of God as delegated to the apostles, and from the apostles to us via the Scriptures; proper responses to civil, ecclesiastical, and family authority. ",
         "pdf": "authority.pdf",
-        "title": "Authority, God's Chain of Command"
+        "title": "Authority, God's Chain of Command",
+        "filename": "authority.md"
     },
     {
         "description": "The supreme fertility-god of the Canaanites. ",
-        "pdf": "Baal.pdf",
-        "title": "Baal"
+        "pdf": "baal.pdf",
+        "title": "Baal",
+        "filename": "baal.md"
     },
     {
         "description": "The popular designation of the tower (Heb mig?d?l) described in Gen. 11, which people migrating from the East built in the midst of their city in the plain of Shinar. ",
-        "pdf": "Babel.pdf",
-        "title": "Babel, Tower of"
+        "pdf": "babel.pdf",
+        "title": "Babel, Tower of",
+        "filename": "babel.md"
     },
     {
         "description": "Babylon lay on the bank of the Euphrates in the land of Shinar (Gen. 10:10), in the northern area of Babylonia (now southern Iraq) called Accad (as opposed to the southern area called Sumer). ",
-        "pdf": "Babylon.pdf",
-        "title": "Babylon"
+        "pdf": "babylon.pdf",
+        "title": "Babylon",
+        "filename": "babylon.md"
     },
     {
         "description": "detailed ancient history of the Babylonian empire, by George Rawlinson, MA. ",
-        "pdf": "Babylonia(Rawlinson).pdf",
-        "title": "Babylonia"
+        "pdf": "babylonia(rawlinson).pdf",
+        "title": "Babylonia",
+        "filename": "babylonia-rawlinson.md"
     },
     {
         "description": "Short description of Balaam's career with reference to the Doctrine of Balaam ",
-        "pdf": "Balaam.pdf",
-        "title": "Balaam"
+        "pdf": "balaam.pdf",
+        "title": "Balaam",
+        "filename": "balaam.md"
     },
     {
         "description": "The seven types of baptism in the Bible; the baptism of the Holy Spirit; believer's baptism. ",
-        "pdf": "Baptism.pdf",
-        "title": "Baptism"
+        "pdf": "baptism.pdf",
+        "title": "Baptism",
+        "filename": "baptism.md"
     },
     {
         "description": "The Acts of the Apostles describes Barnabas as 'a good man, full of the Holy Spirit and of faith' (Acts 6:24). ",
-        "pdf": "Barnabas.pdf",
-        "title": "Barnabas"
+        "pdf": "barnabas.pdf",
+        "title": "Barnabas",
+        "filename": "barnabas.md"
     },
     {
         "description": "The doctrines of Reconciliation, Propitiation, and the removal of the barrier between God and man. ",
-        "pdf": "Barrier.pdf",
-        "title": "The Barrier, Reconciliation, Justification"
+        "pdf": "barrier.pdf",
+        "title": "The Barrier, Reconciliation, Justification",
+        "filename": "barrier.md"
     },
     {
         "description": "The eight blessings in the Beatitudes, related to the Christian life. ",
-        "pdf": "Beatitudes.pdf",
-        "title": "Beatitudes"
+        "pdf": "beatitudes.pdf",
+        "title": "Beatitudes",
+        "filename": "beatitudes.md"
     },
     {
         "description": "The name of this venerable town means literally \"the well of seven.\" {MAR 2013] ",
-        "pdf": "BeerSheba.pdf",
-        "title": "Beer-Sheba"
+        "pdf": "beersheba.pdf",
+        "title": "Beer-Sheba",
+        "filename": "beer-sheba.md"
     },
     {
         "description": "The youngest of Jacob's sons, the only one to be born in Palestine; and the tribe named for him. The tribe of the Apostle Paul. ",
-        "pdf": "Benjamin.pdf",
-        "title": "Benjamin"
+        "pdf": "benjamin.pdf",
+        "title": "Benjamin",
+        "filename": "benjamin.md"
     },
     {
         "description": "When they were driven out of Thessalonica, Paul and Silas came to Berea, where they preached in the synagogue of the Jews. ",
-        "pdf": "Berea.pdf",
-        "title": "Berea"
+        "pdf": "berea.pdf",
+        "title": "Berea",
+        "filename": "berea.md"
     },
     {
         "description": "the sister of Herod Agrippa II; features in trial of Paul in Acts 25. ",
-        "pdf": "Berenice.pdf",
-        "title": "Berenice"
+        "pdf": "berenice.pdf",
+        "title": "Berenice",
+        "filename": "berenice.md"
     },
     {
         "description": "The home of Ruth and Boaz, the city of David, the birthplace of Jesus Christ. ",
-        "pdf": "Bethlehem.pdf",
-        "title": "Bethlehem-Judah"
+        "pdf": "bethlehem.pdf",
+        "title": "Bethlehem-Judah",
+        "filename": "bethlehem.md"
     },
     {
         "description": "a Bible teacher's study notes must be converted into exposition which can be understood by his audience. ",
-        "pdf": "BibleExegesisAndExposition.pdf",
-        "title": "Bible Exegesis and Exposition"
+        "pdf": "bibleexegesisandexposition.pdf",
+        "title": "Bible Exegesis and Exposition",
+        "filename": "bible-exegesis-and-exposition.md"
     },
     {
         "description": "by Drue Freeman. How to study the Bible with understanding. ",
-        "pdf": "BibleStudy.pdf",
-        "title": "Bible Study"
+        "pdf": "biblestudy.pdf",
+        "title": "Bible Study",
+        "filename": "bible-study.md"
     },
     {
         "description": "Bithynia was a Roman province in the northwest corner of Asia Minor. 1 Peter 1:1. ",
-        "pdf": "Bithynia.pdf",
-        "title": "Bithynia"
+        "pdf": "bithynia.pdf",
+        "title": "Bithynia",
+        "filename": "bithynia.md"
     },
     {
         "description": "Bitterness is one of the most crushing mental problems in a person's life; the Bible has solutions. ",
-        "pdf": "Bitterness.pdf",
-        "title": "Bitterness"
+        "pdf": "bitterness.pdf",
+        "title": "Bitterness",
+        "filename": "bitterness.md"
     },
     {
         "description": "Bible origins of the New Testament word \"blessing\", applications. ",
-        "pdf": "Blessing.pdf",
-        "title": "Blessing"
+        "pdf": "blessing.pdf",
+        "title": "Blessing",
+        "filename": "blessing.md"
     },
     {
         "description": "Teaching on the representative analogy which the Blood of Christ forms with the death of the animal on the altar. ",
-        "pdf": "BloodOfChrist.pdf",
-        "title": "Blood of Christ"
+        "pdf": "bloodofchrist.pdf",
+        "title": "Blood of Christ",
+        "filename": "blood-of-christ.md"
     },
     {
         "description": "Every Christian is a member of the Body of Christ. ",
-        "pdf": "BodyOfChrist.pdf",
-        "title": "Body of Christ"
+        "pdf": "bodyofchrist.pdf",
+        "title": "Body of Christ",
+        "filename": "body-of-christ.md"
     },
     {
         "description": "the life of the great Christian author of Pilgrim's Progress. ",
-        "pdf": "BunyanJohnLife.pdf",
-        "title": "Bunyan, John"
+        "pdf": "bunyanjohnlife.pdf",
+        "title": "Bunyan, John",
+        "filename": "bunyan-john-life.md"
     },
     {
-        "description": "A busybody is a person who inserts himself uninvited into some else\u2019s life, who meddles or pries into the affairs of others. The Bible is very clear that this is wrong, totally inappropriate behavior, especially in a local church congregation. ",
-        "pdf": "Busybody.pdf",
-        "title": "Busybody"
+        "description": "A busybody is a person who inserts himself uninvited into some else’s life, who meddles or pries into the affairs of others. The Bible is very clear that this is wrong, totally inappropriate behavior, especially in a local church congregation. ",
+        "pdf": "busybody.pdf",
+        "title": "Busybody",
+        "filename": "busybody.md"
     },
     {
         "description": "Canaan is an ancient name for the area that includes all of the land west of the Jordan and Syria to the level of Lebweh. ",
-        "pdf": "Canaan.pdf",
-        "title": "Canaan"
+        "pdf": "canaan.pdf",
+        "title": "Canaan",
+        "filename": "canaan.md"
     },
     {
         "description": "The most important city on the northern shore of the Sea of Galilee. It was here that Jesus established His headquarters for the major part of His public ministry (Mt. 4:13). ",
-        "pdf": "Capernaum.pdf",
-        "title": "Capernaum"
+        "pdf": "capernaum.pdf",
+        "title": "Capernaum",
+        "filename": "capernaum.md"
     },
     {
         "description": "Caesarea, the Roman capital of Judea in the time of Christ and Paul, was located by the sea, thirty-two miles north of Joppa, and some sixty miles northwest of Jerusalem. ",
-        "pdf": "CaesareaPalestine.pdf",
-        "title": "Caesarea Palestine"
+        "pdf": "caesareapalestine.pdf",
+        "title": "Caesarea Palestine",
+        "filename": "caesarea-palestine.md"
     },
     {
         "description": "Caesarea Philippi was located at the foot of Mt. Hermon ... one of the most beautiful localities in all the Holy Land. ",
-        "pdf": "CaesareaPhilippi.pdf",
-        "title": "Caesarea Philippi"
+        "pdf": "caesareaphilippi.pdf",
+        "title": "Caesarea Philippi",
+        "filename": "caesarea-philippi.md"
     },
     {
         "description": "A description of the battle for this ancient capital of the Hittite empire, with Bible references ",
-        "pdf": "Carchemish.pdf",
-        "title": "Carchemish, Battle of"
+        "pdf": "carchemish.pdf",
+        "title": "Carchemish, Battle of",
+        "filename": "carchemish.md"
     },
     {
         "description": "the history of the ancient kingdom where Abraham was born and which later was the locale of the Babylonian empire. ",
-        "pdf": "Chaldea.pdf",
-        "title": "Chaldea"
+        "pdf": "chaldea.pdf",
+        "title": "Chaldea",
+        "filename": "chaldea.md"
     },
     {
         "description": "a thoroughly researched study by George Rawlinson, from The Seven Great Monarchies of the Ancient Eastern World. ",
         "pdf": "chaldea(rawlinson).pdf",
-        "title": "Chaldea - Rawlinson"
+        "title": "Chaldea - Rawlinson",
+        "filename": "chaldeai-rawlinson.md"
     },
     {
         "description": "a title for each chapter in the Bible. ",
-        "pdf": "ChapterTitles_Bible.pdf",
-        "title": "Chapter Titles"
+        "pdf": "chaptertitles_bible.pdf",
+        "title": "Chapter Titles",
+        "filename": "chapter-titles-bible.md"
     },
     {
         "description": "Whom the Lord loves, He chastens; the study of Divine Discipline ",
-        "pdf": "Chastisement.pdf",
-        "title": "Chastisement (Divine Discipline)"
+        "pdf": "chastisement.pdf",
+        "title": "Chastisement (Divine Discipline)",
+        "filename": "chastisement.md"
     },
     {
         "description": "Some ideas regarding setting Biblical goals for nurturing and training children in the plan of God. ",
-        "pdf": "ChildrenGoals.pdf",
-        "title": "Children, Goals for"
+        "pdf": "childrengoals.pdf",
+        "title": "Children, Goals for",
+        "filename": "children-goals.md"
     },
     {
-        "description": "mentioned on Paul\u2019s third missionary journey. Chios was especially noted in antiquity for its claim to be the birthplace of Homer, for its school of epic poets, and its sculptors. ",
-        "pdf": "Chios.pdf",
-        "title": "Chios -"
+        "description": "mentioned on Paul’s third missionary journey. Chios was especially noted in antiquity for its claim to be the birthplace of Homer, for its school of epic poets, and its sculptors. ",
+        "pdf": "chios.pdf",
+        "title": "Chios -",
+        "filename": "chios.md"
     },
     {
         "description": "This is the stone which was set at nought of you builders, which is become the head of the corner. ",
-        "pdf": "ChristTheRock.pdf",
-        "title": "Christ the Rock"
+        "pdf": "christtherock.pdf",
+        "title": "Christ the Rock",
+        "filename": "christ-the-rock.md"
     },
     {
         "description": "Suggestions for a believer's attitude and function on the job. ",
-        "pdf": "ChristianAtWork.pdf",
-        "title": "Christian at Work"
+        "pdf": "christianatwork.pdf",
+        "title": "Christian at Work",
+        "filename": "christian-at-work.md"
     },
     {
         "description": " Christian Worker Qualifications - [PDF] Biblical qualifications for Christians in the Lord's service. ",
-        "pdf": "WorkerQuals.pdf",
-        "title": "Christian Worker Qualifications"
+        "pdf": "workerquals.pdf",
+        "title": "Christian Worker Qualifications",
+        "filename": "worker-quals.md"
     },
     {
         "description": "A description of the life of Christians in the early church, as found in the Epistle to Diognetus, by an unknown author of the 2nd Century. ",
         "pdf": "christiansearlychurch.pdf",
-        "title": "Christians of the Early Church"
+        "title": "Christians of the Early Church",
+        "filename": "christians-early-church.md"
     },
     {
         "description": " Chronology of New Testament Times - [PDF] ",
-        "pdf": "ChronologyNewTestament.pdf",
-        "title": "Chronology of New Testament Times"
+        "pdf": "chronologynewtestament.pdf",
+        "title": "Chronology of New Testament Times",
+        "filename": "chronology-new-testament.md"
     },
     {
         "description": " Chronology of the World from the Christian perspective - [PDF] ",
         "pdf": "",
-        "title": "Chronology of the World from the Christian perspective"
+        "title": "Chronology of the World from the Christian perspective",
+        "filename": ""
     },
     {
         "description": "Many people think of church in terms of brick and mortar, program and form. But in these passages you will learn that the Church is a spiritual organism, dear to the heart of God the Father. ",
-        "pdf": "Church.pdf",
-        "title": "Church, the Body of Christ"
+        "pdf": "church.pdf",
+        "title": "Church, the Body of Christ",
+        "filename": "church.md"
     },
     {
         "description": "The importance of the doctrine of Circumcision in Church Age teaching. ",
-        "pdf": "Circumcision.pdf",
-        "title": "Circumcision"
+        "pdf": "circumcision.pdf",
+        "title": "Circumcision",
+        "filename": "circumcision.md"
     },
     {
         "description": "Verses describing the Christian's transfer of citizenship from the world to the heavenly kingdom through union with Christ. ",
-        "pdf": "Citizenship.pdf",
-        "title": "Citizenship of the Believer"
+        "pdf": "citizenship.pdf",
+        "title": "Citizenship of the Believer",
+        "filename": "citizenship.md"
     },
     {
         "description": "Tiberius Claudius Drusus Caesar, the fourth Roman Emperor (40 to 54 AD). ",
-        "pdf": "Claudius.pdf",
-        "title": "Claudius"
+        "pdf": "claudius.pdf",
+        "title": "Claudius",
+        "filename": "claudius.md"
     },
     {
         "description": "overview of the city of the Colossians. ",
         "pdf": "colossae.pdf",
-        "title": "Colossae"
+        "title": "Colossae",
+        "filename": "colossae.md"
     },
     {
         "description": "the Lord's Supper; derivation from the Passover ",
-        "pdf": "Communion.pdf",
-        "title": "Communion"
+        "pdf": "communion.pdf",
+        "title": "Communion",
+        "filename": "communion.md"
     },
     {
         "description": "The principles of biblical confession of sin; how the Lord's grace provision makes it possible for a Christian to stay in fellowship. ",
-        "pdf": "Confession.pdf",
-        "title": "Confession of Sin"
+        "pdf": "confession.pdf",
+        "title": "Confession of Sin",
+        "filename": "confession.md"
     },
     {
-        "description": "Coos is an island mentioned in connection with Paul\u2019s third missionary journey in Acts 21:1, and in its relations with the Jews in 1 Macc. 15:23; Josephus Ant. xiv.7.2; 10.15. ",
-        "pdf": "Coos(Cos).pdf",
-        "title": "Coos (Cos)"
+        "description": "Coos is an island mentioned in connection with Paul’s third missionary journey in Acts 21:1, and in its relations with the Jews in 1 Macc. 15:23; Josephus Ant. xiv.7.2; 10.15. ",
+        "pdf": "coos(cos).pdf",
+        "title": "Coos (Cos)",
+        "filename": "coos.md"
     },
     {
         "description": "A brief summary of the history of the Greek city where Paul stayed 18 months. ",
-        "pdf": "Corinth.pdf",
-        "title": "Corinth"
+        "pdf": "corinth.pdf",
+        "title": "Corinth",
+        "filename": "corinth.md"
     },
     {
-        "description": "A Roman centurion converted by Peter after both had seen divine visions (Acts 10:1\u201311:18), the first Gentile known to become a Christian. ",
+        "description": "A Roman centurion converted by Peter after both had seen divine visions (Acts 10:1–11:18), the first Gentile known to become a Christian. ",
         "pdf": "cornelius.pdf",
-        "title": "Cornelius"
+        "title": "Cornelius",
+        "filename": "cornelius.md"
     },
     {
         "description": "Satan's plan and process for controlling the world, and his attempt, using his organization of fallen angels, to counteract the plan of God in all respects. ",
-        "pdf": "CosmicSystem.pdf",
-        "title": "Cosmic System"
+        "pdf": "cosmicsystem.pdf",
+        "title": "Cosmic System",
+        "filename": "cosmic-system.md"
     },
     {
         "description": "An extensive study of God's Covenants with Adam, Noah, Abraham, Moses, David; and the New Covenant. ",
-        "pdf": "Covenants.pdf",
-        "title": "Covenants"
+        "pdf": "covenants.pdf",
+        "title": "Covenants",
+        "filename": "covenants.md"
     },
     {
         "description": "An outline history of Crete and historical comments on the character of the people; a historical supplement to the study of the Epistle to Titus ",
-        "pdf": "Crete.pdf",
-        "title": "Crete, Brief History"
+        "pdf": "crete.pdf",
+        "title": "Crete, Brief History",
+        "filename": "crete.md"
     },
     {
         "description": "An island situated near the northeast corner of the Mediterranean Sea, in angle formed by the coasts of Cilicia (modern Turkey) and Syria. ",
         "pdf": "cyprus.pdf",
-        "title": "Cyprus"
+        "title": "Cyprus",
+        "filename": "cyprus.md"
     },
     {
         "description": "Properly Cyrus II, the Great, founder of the Persian empire. He reigned from 559 to 530 B.C., and his empire flourished until its conquest by Alexander the Great (331 B.C.). ",
-        "pdf": "CyrusTheGreat.pdf",
-        "title": "Cyrus the Great"
+        "pdf": "cyrusthegreat.pdf",
+        "title": "Cyrus the Great",
+        "filename": "cyrus-the-great.md"
     },
     {
         "description": "This is a daily Bible reading listing for the year 2012. With this arrangement, you read the whole Bible in a year, but in the chronological order of events. So, for example, many of the Psalms are included with the readings for historical books, because they were written at the time of those events. Likewise, the writings of prophets are included with contemporary historical events. ",
-        "pdf": "DailyBibleReading.pdf",
-        "title": "Daily Bible Reading"
+        "pdf": "dailybiblereading.pdf",
+        "title": "Daily Bible Reading",
+        "filename": "daily-bible-reading.md"
     },
     {
         "description": "an outline study of this oldest city in the world; of central interest to Bible events. ",
         "pdf": "damascus.pdf",
-        "title": "Damascus"
+        "title": "Damascus",
+        "filename": "damascus.md"
     },
     {
         "description": "description of the various roads which Saul could have used to travel between Jerusalem and Damascus. ",
-        "pdf": "DamascusRoads.pdf",
-        "title": "Damascus, Roads to"
+        "pdf": "damascusroads.pdf",
+        "title": "Damascus, Roads to",
+        "filename": "damascus-roads.md"
     },
     {
         "description": "an exposition of Ephesians 4:17-24. ",
-        "pdf": "DarknessOfTheSoul.pdf",
-        "title": "Darkness in the Soul"
+        "pdf": "darknessofthesoul.pdf",
+        "title": "Darkness in the Soul",
+        "filename": "darkness-of-the-soul.md"
     },
     {
         "description": "an exposition of Leviticus 16; Keil and Delitzsch ",
-        "pdf": "DayOfAtonement.pdf",
-        "title": "Day of Atonement"
+        "pdf": "dayofatonement.pdf",
+        "title": "Day of Atonement",
+        "filename": "day-of-atonement.md"
     },
     {
         "description": "a Greek word study (Kittel) on diakonos ",
-        "pdf": "Deacons_WordStudy.pdf",
-        "title": "Deaconsdiakonos"
+        "pdf": "deacons_wordstudy.pdf",
+        "title": "Deaconsdiakonos",
+        "filename": "deacons-word-study.md"
     },
     {
         "description": "The name generally given to the manuscripts and fragments of manuscripts of the Bible discovered in caves near the northwestern end of the Dead Sea in the period between 1946 and 1956. ",
-        "pdf": "DeadSeaScrolls.pdf",
-        "title": "Dead Sea Scrolls"
+        "pdf": "deadseascrolls.pdf",
+        "title": "Dead Sea Scrolls",
+        "filename": "dead-sea-scrolls.md"
     },
     {
         "description": "Seven types of death in the Bible. ",
-        "pdf": "Death.pdf",
-        "title": "Death, Seven Types"
+        "pdf": "death.pdf",
+        "title": "Death, Seven Types",
+        "filename": "death.md"
     },
     {
         "description": "The death of Jesus Christ was an act of obedience to God the Father's plan of salvation. ",
         "pdf": "deathofchrist.pdf",
-        "title": "Death of Christ"
+        "title": "Death of Christ",
+        "filename": "deathofchrist.md"
     },
     {
         "description": "a fresh oppression of the Israelites, and the glorious victory which they obtained over Sisera, Jabin's general, through the judge Deborah and the heroic warrior Barak. ",
-        "pdf": "DeborahAndBarak.pdf",
-        "title": "Deborah and Barak"
+        "pdf": "deborahandbarak.pdf",
+        "title": "Deborah and Barak",
+        "filename": "deborah-and-barak.md"
     },
     {
         "description": "Scripture references to the deity of Christ in which divine essence is attributed to Christ. ",
         "pdf": "deityofchrist.pdf",
-        "title": "Deity of Christ"
+        "title": "Deity of Christ",
+        "filename": "deity-of-christ.md"
     },
     {
         "description": "Outline of Bible references to demons; descriptions of identity and functions ",
-        "pdf": "Demons.pdf",
-        "title": "Demons, Intro. to Study of"
+        "pdf": "demons.pdf",
+        "title": "Demons, Intro. to Study of",
+        "filename": "demons.md"
     },
     {
         "description": "A discussion of the problem of depression - Bible's advice. ",
-        "pdf": "Depression.pdf",
-        "title": "Depression - Bible Solutions"
+        "pdf": "depression.pdf",
+        "title": "Depression - Bible Solutions",
+        "filename": "depression.md"
     },
     {
         "description": "The book of Deuteronomy contains not so much \"a recapitulation of the things commanded and done, as related in Exodus, Leviticus, and Numbers\" (Theod.), as \"a compendium and summary of the whole law and wisdom of the people of Israel, wherein those things which related to the priests and Levites are omitted, and only such things included as the people generally required to know\" (Luther). ",
-        "pdf": "Deuteronomy_Introduction.pdf",
-        "title": "Deuteronomy - Introduction"
+        "pdf": "deuteronomy_introduction.pdf",
+        "title": "Deuteronomy - Introduction",
+        "filename": "deuteronomy-introduction.md"
     },
     {
         "description": "biographies of the twelve and other disciples. ",
-        "pdf": "Disciples.pdf",
-        "title": "Disciples, Christ's"
+        "pdf": "disciples.pdf",
+        "title": "Disciples, Christ's",
+        "filename": "disciples.md"
     },
     {
         "description": "A dispensation is a period of time which is identified by its relation to some particular purpose of God. ",
-        "pdf": "Dispensations.pdf",
-        "title": "Dispensations"
+        "pdf": "dispensations.pdf",
+        "title": "Dispensations",
+        "filename": "dispensations.md"
     },
     {
         "description": "The term used to designate the Jews living outside Palestine and maintaining their religious observances and customs among the Gentiles. ",
-        "pdf": "Dispersion.pdf",
-        "title": "Dispersion"
+        "pdf": "dispersion.pdf",
+        "title": "Dispersion",
+        "filename": "dispersion.md"
     },
     {
-        "description": "The classic definition comes from R.B. Thieme, Jr.: \u201cThe decree of God is His eternal (always existed), holy (perfect integrity), wise (the application of omniscience to creation), and sovereign purpose, comprehending simultaneously all things that ever were or will be in their causes, conditions (status), successions (interaction with others that leads to certain decisions), relations, and determining their certain futurition.\u201d ",
-        "pdf": "DivineDecree.pdf",
-        "title": "Divine Decrees"
+        "description": "The classic definition comes from R.B. Thieme, Jr.: “The decree of God is His eternal (always existed), holy (perfect integrity), wise (the application of omniscience to creation), and sovereign purpose, comprehending simultaneously all things that ever were or will be in their causes, conditions (status), successions (interaction with others that leads to certain decisions), relations, and determining their certain futurition.” ",
+        "pdf": "divinedecree.pdf",
+        "title": "Divine Decrees",
+        "filename": "divine-decree.md"
     },
     {
         "description": " Divine Discipline, Five Cycles - [PDF] Jehovah chastens nations which are out of fellowship. ",
-        "pdf": "FiveCycles.pdf",
-        "title": "Divine Discipline, Five Cycles -Divine Discipline, Five Cycles"
+        "pdf": "fivecycles.pdf",
+        "title": "Divine Discipline, Five Cycles -Divine Discipline, Five Cycles",
+        "filename": "five-cycles.md"
     },
     {
         "description": "The divine guidance of Christ; divine guidance for the Christian believer. ",
-        "pdf": "DivineGuidance.pdf",
-        "title": "Divine Guidance"
+        "pdf": "divineguidance.pdf",
+        "title": "Divine Guidance",
+        "filename": "divine-guidance.md"
     },
     {
         "description": "divisions and heresies in the Church in the time of the apostle Paul. ",
-        "pdf": "DivisionsintheEarlyChurch.pdf",
-        "title": "Divisions in the Early Church"
+        "pdf": "divisionsintheearlychurch.pdf",
+        "title": "Divisions in the Early Church",
+        "filename": "divisions-in-the-early-church.md"
     },
     {
         "description": "The believer must give the highest priority in life to learning Bible facts and principles, and applying them to every situation. ",
-        "pdf": "ImportanceOfDoctrine.pdf",
-        "title": "Doctrine, The Importance of"
+        "pdf": "importanceofdoctrine.pdf",
+        "title": "Doctrine, The Importance of",
+        "filename": "importance-of-doctrine.md"
     },
     {
         "description": "A test of basic doctrinal knowledge - test your own progress in Bible academics. ",
         "pdf": "doctrinetest.pdf",
-        "title": "Doctrine Test"
+        "title": "Doctrine Test",
+        "filename": "doctrine-test.md"
     },
     {
         "description": "The doctrine of Doubtful Things refers to those issues that are not directly dealt with in the Scriptures. It is primarily related to the believer's attitude toward the weaker Christian. ",
-        "pdf": "DoubtfulThings.pdf",
-        "title": "Doubtful Things"
+        "pdf": "doubtfulthings.pdf",
+        "title": "Doubtful Things",
+        "filename": "doubtful-things.md"
     },
     {
         "description": "Details of the organization and activities of the Church, from Pentecost to the beginning of Paul's ministry. ",
-        "pdf": "EarlyChurch.pdf",
-        "title": "Early Church"
+        "pdf": "earlychurch.pdf",
+        "title": "Early Church",
+        "filename": "early-church.md"
     },
     {
         "description": "A Jewish-Christian heretical sect flourishing in the 2nd, 3rd, and 4th cents A.D. ",
-        "pdf": "Ebionites.pdf",
-        "title": "Ebionites"
+        "pdf": "ebionites.pdf",
+        "title": "Ebionites",
+        "filename": "ebionites.md"
     },
     {
         "description": "the doctrine of growing in the knowledge of Jesus Christ, leading to productivity in the Christian way of life. ",
-        "pdf": "Edification.pdf",
-        "title": "Edification"
+        "pdf": "edification.pdf",
+        "title": "Edification",
+        "filename": "edification.md"
     },
     {
         "description": "Historical summary of the Edomites. ",
-        "pdf": "Edomites.pdf",
-        "title": "Edomites"
+        "pdf": "edomites.pdf",
+        "title": "Edomites",
+        "filename": "edomites.md"
     },
     {
         "description": "Among Herodotus' descriptions of countries the most fascinating to the modern reader, as it was to the ancient, is his account of the marvels of the land of Egypt. ",
-        "pdf": "Egypt.Herodotus.pdf",
-        "title": "Egypt - Herodotus"
+        "pdf": "egypt.herodotus.pdf",
+        "title": "Egypt - Herodotus",
+        "filename": "egypt-herodotus.md"
     },
     {
         "description": "a thoroughly researched study by George Rawlinson, from The Seven Great Monarchies of the Ancient Eastern World. ",
         "pdf": "egypt(rawlinson).pdf",
-        "title": "Egypt - Rawlinson"
+        "title": "Egypt - Rawlinson",
+        "filename": "egypt-rawlinson.md"
     },
     {
         "description": "A review of all the happenings and activities which accompany the end times. ",
-        "pdf": "EndTimeEvents.pdf",
-        "title": "End Time Events"
+        "pdf": "endtimeevents.pdf",
+        "title": "End Time Events",
+        "filename": "end-time-events.md"
     },
     {
         "description": "Every Christian has a duty to love his enemies and to witness to them. ",
-        "pdf": "Enemies.pdf",
-        "title": "Enemies, Witnessing to"
+        "pdf": "enemies.pdf",
+        "title": "Enemies, Witnessing to",
+        "filename": "enemies.md"
     },
     {
         "description": " English Language, Origins of the - [PDF] ",
-        "pdf": "English.pdf",
-        "title": "English Language, Origins of the"
+        "pdf": "english.pdf",
+        "title": "English Language, Origins of the",
+        "filename": "english.md"
     },
     {
         "description": "the man who \"was not, because God took him.\" ",
-        "pdf": "Enoch.pdf",
-        "title": "Enoch"
+        "pdf": "enoch.pdf",
+        "title": "Enoch",
+        "filename": "enoch.md"
     },
     {
         "description": "overview of the city of the Ephesians. ",
-        "pdf": "Ephesus.pdf",
-        "title": "Ephesus"
+        "pdf": "ephesus.pdf",
+        "title": "Ephesus",
+        "filename": "ephesus.md"
     },
     {
         "description": "Epicurus and his followers devoted themselves primarily to the pursuit of personal, individual happiness. ",
-        "pdf": "Epicureans.pdf",
-        "title": "Epicureans"
+        "pdf": "epicureans.pdf",
+        "title": "Epicureans",
+        "filename": "epicureans.md"
     },
     {
         "description": "many scripture verses describing all of the characteristics of the personality of God. ",
         "pdf": "essence.pdf",
-        "title": "Essence of God"
+        "title": "Essence of God",
+        "filename": "essence.md"
     },
     {
         "description": "A description of the ascetic religious sect of the Essenes, the forerunner of the monastic orders. ",
-        "pdf": "Essenes.pdf",
-        "title": "Essenes"
+        "pdf": "essenes.pdf",
+        "title": "Essenes",
+        "filename": "essenes.md"
     },
     {
         "description": "Three stages of everlasting life, \"now\" and \"forever\". ",
-        "pdf": "EternalLife.pdf",
-        "title": "Eternal Life"
+        "pdf": "eternallife.pdf",
+        "title": "Eternal Life",
+        "filename": "eternal-life.md"
     },
     {
         "description": "An understanding of these concepts is required before there can be stability in our Christian lives. ",
-        "pdf": "EternalSecurity.pdf",
-        "title": "Eternal Security"
+        "pdf": "eternalsecurity.pdf",
+        "title": "Eternal Security",
+        "filename": "eternal-security.md"
     },
     {
-        "description": "We don\u2019t know much in detail about eternity, what it\u2019s like, or what we will be doing there. However, the Bible does have some information from which we can draw some inferences. ",
-        "pdf": "Eternity.pdf",
-        "title": "Eternity"
+        "description": "We don’t know much in detail about eternity, what it’s like, or what we will be doing there. However, the Bible does have some information from which we can draw some inferences. ",
+        "pdf": "eternity.pdf",
+        "title": "Eternity",
+        "filename": "eternity.md"
     },
     {
         "description": "The history of the relationship between the Passover and the Lord's Supper. ",
-        "pdf": "Eucharist.pdf",
-        "title": "Eucharist"
+        "pdf": "eucharist.pdf",
+        "title": "Eucharist",
+        "filename": "eucharist.md"
     },
     {
         "description": "A thorough study of the doctrines related to Satan's strategy, his attempt to discredit the Lord Jesus Christ during the Church Age. ",
-        "pdf": "Evil.pdf",
-        "title": "Evil, Doctrine of"
+        "pdf": "evil.pdf",
+        "title": "Evil, Doctrine of",
+        "filename": "evil.md"
     },
     {
         "description": "Christians are commanded to \"exhort\" one another. Sometimes that calls for a comforting ministry, and sometimes it calls for straight talk. ",
-        "pdf": "Exhortation.pdf",
-        "title": "Exhortation"
+        "pdf": "exhortation.pdf",
+        "title": "Exhortation",
+        "filename": "exhortation.md"
     },
     {
         "description": "Exorcisms are acts of liberating afflicted persons from the influence of demons. ",
-        "pdf": "Exorcism.pdf",
-        "title": "Exorcism"
+        "pdf": "exorcism.pdf",
+        "title": "Exorcism",
+        "filename": "exorcism.md"
     },
     {
         "description": "Ezra returned to Jerusalem with a group of repatriates and others in the seventh year of Artaxerxes. ",
-        "pdf": "Ezra.pdf",
-        "title": "Ezra"
+        "pdf": "ezra.pdf",
+        "title": "Ezra",
+        "filename": "ezra.md"
     },
     {
         "description": "Faith as a means of learning compared to rationalism and empiricism; how Christian faith works; how to grow in faith. ",
-        "pdf": "Faith.pdf",
-        "title": "Faith"
+        "pdf": "faith.pdf",
+        "title": "Faith",
+        "filename": "faith.md"
     },
     {
         "description": " Faith-Rest - [PDF] The practice of enjoying the peace of God. How to claim promises; how to be stable and relaxed; how to enjoy happiness that doesn't depend on people, circumstances or things. ",
-        "pdf": "FaithRest.pdf",
-        "title": "Faith-Rest"
+        "pdf": "faithrest.pdf",
+        "title": "Faith-Rest",
+        "filename": "faith-rest.md"
     },
     {
         "description": "applying Faith-Rest. ",
-        "pdf": "Faith_Rest_and_Stability.pdf",
-        "title": "Faith-Rest and Stability"
+        "pdf": "faith_rest_and_stability.pdf",
+        "title": "Faith-Rest and Stability",
+        "filename": "faith-rest-and-stability.md"
     },
     {
         "description": " Faithfulness of God - [PDF] The faithfulness of God to the believer is expressed in many ways in the Bible. ",
-        "pdf": "FaithfulnessOfGod.pdf",
-        "title": "Faithfulness of God"
+        "pdf": "faithfulnessofgod.pdf",
+        "title": "Faithfulness of God",
+        "filename": "faithfulness-of-god.md"
     },
     {
         "description": " False Prophet, The- [PDF] The False Prophet of the end times. ",
-        "pdf": "FalseProphet.pdf",
-        "title": "False Prophet, The"
+        "pdf": "falseprophet.pdf",
+        "title": "False Prophet, The",
+        "filename": "false-prophet.md"
     },
     {
         "description": " Felix Antonius- [PDF] A Roman procurator of Judea, appointed by the emperor Claudius. Dealt with Paul in Caesarea. [AUG 2014] ",
         "pdf": "felix.pdf",
-        "title": "Felix Antonius"
+        "title": "Felix Antonius",
+        "filename": "felix.md"
     },
     {
         "description": " Fellowship, Christian - [PDF] Four areas of relationship [koinonia] for believers in a local church: doctrine, fellowship, breaking of bread, prayer. ",
-        "pdf": "Fellowship.pdf",
-        "title": "Fellowship, Christian"
+        "pdf": "fellowship.pdf",
+        "title": "Fellowship, Christian",
+        "filename": "fellowship.md"
     },
     {
         "description": " Festus- [PDF] The Roman governor or procurator who succeeded FELIX ANTONIUS in the province of Judea (Acts 24:27). [AUG 2014] ",
         "pdf": "festus.pdf",
-        "title": "Festus"
+        "title": "Festus",
+        "filename": "festus.md"
     },
     {
         "description": " Forgiveness - [PDF] The test of Grace living is a forgiving spirit. ",
-        "pdf": "Forgiveness.pdf",
-        "title": "Forgiveness"
+        "pdf": "forgiveness.pdf",
+        "title": "Forgiveness",
+        "filename": "forgiveness.md"
     },
     {
         "description": " Four Gospels, The - [PDF] An introduction to the gospels of Matthew, Mark, Luke and John. ",
-        "pdf": "FourGospels.pdf",
-        "title": "Four Gospels, The"
+        "pdf": "fourgospels.pdf",
+        "title": "Four Gospels, The",
+        "filename": "four-gospels.md"
     },
     {
         "description": " Freedom - [PDF] What it means to be set free from \"the law of sin and death.\" ",
-        "pdf": "Freedom.pdf",
-        "title": "Freedom"
+        "pdf": "freedom.pdf",
+        "title": "Freedom",
+        "filename": "freedom.md"
     },
     {
         "description": " Friendships - [PDF] Every meeting with another person is a divine encounter. ",
-        "pdf": "Friendships.pdf",
-        "title": "Friendships"
+        "pdf": "friendships.pdf",
+        "title": "Friendships",
+        "filename": "friendships.md"
     },
     {
         "description": "Gabriel is a celestial being or personage who is mentioned by name only four times in Scripture. ",
         "pdf": "gabriel.pdf",
-        "title": "Gabriel"
+        "title": "Gabriel",
+        "filename": "gabriel.md"
     },
     {
         "description": "the location of much of Paul's travels; occupied by Gauls from Europe. ",
-        "pdf": "Galatia.pdf",
-        "title": "Galatia"
+        "pdf": "galatia.pdf",
+        "title": "Galatia",
+        "filename": "galatia.md"
     },
     {
         "description": "The northern portion of Palestine, scene of most of the earthly ministry of Jesus. ",
         "pdf": "galilee.pdf",
-        "title": "Galilee"
+        "title": "Galilee",
+        "filename": "galilee.md"
     },
     {
-        "description": "The most common name in the Gospels for that lake where so much of Jesus\u2019 ministry took place, taken from the district in which it was located. ",
+        "description": "The most common name in the Gospels for that lake where so much of Jesus’ ministry took place, taken from the district in which it was located. ",
         "pdf": "galilee-sea.pdf",
-        "title": "Galilee, Sea of"
+        "title": "Galilee, Sea of",
+        "filename": "galilee-sea.md"
     },
     {
         "description": "The great Talmudic scholar of the 1st Century; and the teacher in Judaism of the Apostle Paul. ",
         "pdf": "gamaliel.pdf",
-        "title": "Gamaliel"
+        "title": "Gamaliel",
+        "filename": "gamaliel.md"
     },
     {
         "description": "from Guizot's History of France. ",
-        "pdf": "Gaul_Christianity_In(Guizot).pdf",
-        "title": "Gaul, Christianity in"
+        "pdf": "gaul_christianity_in(guizot).pdf",
+        "title": "Gaul, Christianity in",
+        "filename": "gaul-christianity-in-guizot.md"
     },
     {
         "description": "from Guizot's History of France; the Galatians were Gauls from Europe. ",
-        "pdf": "Gauls_of_Galatia(Guizot).pdf",
-        "title": "Gauls of Galatia"
+        "pdf": "gauls_of_galatia(guizot).pdf",
+        "title": "Gauls of Galatia",
+        "filename": "gauls-of-galatia-guizot.md"
     },
     {
         "description": " Genealogy of Jesus Christ - [PDF] the complete listing of all the forbears of Jesus, from Adam to Joseph and Mary. ",
-        "pdf": "Genealogy.pdf",
-        "title": "Genealogy of Jesus Christ"
+        "pdf": "genealogy.pdf",
+        "title": "Genealogy of Jesus Christ",
+        "filename": "genealogy.md"
     },
     {
         "description": " Gideon - [PDF] A brief history of the life of Gideon, the judge of Israel. ",
-        "pdf": "Gideon.pdf",
-        "title": "Gideon"
+        "pdf": "gideon.pdf",
+        "title": "Gideon",
+        "filename": "gideon.md"
     },
     {
         "description": " Giving - [PDF] A brief study of Christian giving - comments on 2 Corinthians 8 and 9. ",
-        "pdf": "Giving.pdf",
-        "title": "Giving"
+        "pdf": "giving.pdf",
+        "title": "Giving",
+        "filename": "giving.md"
     },
     {
         "description": " Glory of God - [PDF] Word study of the word \"glory\" as it refers to the nature of God.\\ ",
-        "pdf": "GloryOfGod.pdf",
-        "title": "Glory of God"
+        "pdf": "gloryofgod.pdf",
+        "title": "Glory of God",
+        "filename": "glory-of-god.md"
     },
     {
         "description": " Gnosticism and the Colossian Heresy> - [PDF] ",
-        "pdf": "Gnosticism(ColossianHeresy).pdf",
-        "title": "Gnosticism and the Colossian Heresy"
+        "pdf": "gnosticism(colossianheresy).pdf",
+        "title": "Gnosticism and the Colossian Heresy",
+        "filename": "gnosticism-colossian-heresy.md"
     },
     {
         "description": " Godliness - [PDF] The study of the Greek Word eusebeia, \"inner piety\", spiritual maturity in believers. ",
-        "pdf": "Godliness.pdf",
-        "title": "Godliness"
+        "pdf": "godliness.pdf",
+        "title": "Godliness",
+        "filename": "godliness.md"
     },
     {
         "description": " Golden Calf, The - [PDF] The golden calf represents the failure of the children of Israel at the Holy Mountain of God. ",
-        "pdf": "GoldenCalf.pdf",
-        "title": "Golden Calf, The"
+        "pdf": "goldencalf.pdf",
+        "title": "Golden Calf, The",
+        "filename": "golden-calf.md"
     },
     {
         "description": " Gospel, The - [PDF] The use of the term \"gospel\" in the New Testament - the \"good news\" of salvation. ",
-        "pdf": "Gospel.pdf",
-        "title": "Gospel, The"
+        "pdf": "gospel.pdf",
+        "title": "Gospel, The",
+        "filename": "gospel.md"
     },
     {
         "description": " Gossip - [PDF] In its biblical setting, \"gossip\" is used to designate the spreading of secrets or rumors, usually for the purpose of slander. [MAR 2013] ",
-        "pdf": "Gossip.pdf",
-        "title": "Gossip"
+        "pdf": "gossip.pdf",
+        "title": "Gossip",
+        "filename": "gossip.md"
     },
     {
         "description": " Grace - [PDF] A thorough treatment of the most important doctrine of the Christian life. The work of God and the Plan of God are completely based on Grace. ",
-        "pdf": "Grace.pdf",
-        "title": "Grace"
+        "pdf": "grace.pdf",
+        "title": "Grace",
+        "filename": "grace.md"
     },
     {
         "description": " Grace Provision - [PDF] God the Father provides logistical supply for believers. ",
-        "pdf": "GraceProvision.pdf",
-        "title": "Grace Provision"
+        "pdf": "graceprovision.pdf",
+        "title": "Grace Provision",
+        "filename": "grace-provision.md"
     },
     {
         "description": "a short history of ancient Greece (24 pages). ",
-        "pdf": "GreekHistory.pdf",
-        "title": "Greek History"
+        "pdf": "greekhistory.pdf",
+        "title": "Greek History",
+        "filename": "greek-history.md"
     },
     {
         "description": " Hannah's Song of Praise - [PDF] The prayer in which Hannah poured out the feelings of her heart, after the dedication of her son to the Lord, is a song of praise of a prophetic and Messianic character. [MAR 2013] ",
-        "pdf": "HannahsSongOfPraise.pdf",
-        "title": "Hannah's Song of Praise"
+        "pdf": "hannahssongofpraise.pdf",
+        "title": "Hannah's Song of Praise",
+        "filename": "hannahs-song-of-praise.md"
     },
     {
         "description": " Hannibal - [PDF] When Hannibal was twenty-eight years old he had received a soldier's training through nineteen years in camp. He had disciplined his body to hardship, his appetite to moderation, his tongue to silence, his thought to objectivity. [MAR 2013] ",
-        "pdf": "Hannibal.pdf",
-        "title": "Hannibal"
+        "pdf": "hannibal.pdf",
+        "title": "Hannibal",
+        "filename": "hannibal.md"
     },
     {
         "description": " Happiness - [PDF] The joy of God; a happiness that does not depend on people, things, or circumstances. ",
-        "pdf": "Happiness.pdf",
-        "title": "Happiness"
+        "pdf": "happiness.pdf",
+        "title": "Happiness",
+        "filename": "happiness.md"
     },
     {
         "description": "a stopping point on Abraham's journey to Canaan. ",
-        "pdf": "Haran.pdf",
-        "title": "Haran"
+        "pdf": "haran.pdf",
+        "title": "Haran",
+        "filename": "haran.md"
     },
     {
         "description": "this is a table showing the correlation between events in the four gospels. ",
-        "pdf": "HarmonyoftheGospels.pdf",
-        "title": "Harmony of the Gospels"
+        "pdf": "harmonyofthegospels.pdf",
+        "title": "Harmony of the Gospels",
+        "filename": "harmony-of-the-gospels.md"
     },
     {
         "description": " Heaven - [PDF] The word heaven, or the heavens, is used in the Scriptures in a number of different senses. [FEB 13] ",
-        "pdf": "Heaven.pdf",
-        "title": "Heaven"
+        "pdf": "heaven.pdf",
+        "title": "Heaven",
+        "filename": "heaven.md"
     },
     {
         "description": " Heavenlies, The - [PDF] Brief notes on the locations known as the heavenlies or heavenly places. ",
-        "pdf": "Heavenlies.pdf",
-        "title": "Heavenlies, The"
+        "pdf": "heavenlies.pdf",
+        "title": "Heavenlies, The",
+        "filename": "heavenlies.md"
     },
     {
         "description": "a short study of the Greek thinking that influenced the thinking and culture of those Jewish people who were educated in Greek philosophy and culture. ",
-        "pdf": "Hellenism.pdf",
-        "title": "Hellenism"
+        "pdf": "hellenism.pdf",
+        "title": "Hellenism",
+        "filename": "hellenism.md"
     },
     {
         "description": "the differences between traditional Judaism and the \"modern\" Greek culture of the 1st century, affected even the early Christian congregations (Acts 6:1 ff). ",
-        "pdf": "HellenistsArameans.pdf",
-        "title": "Hellenists and Arameans"
+        "pdf": "hellenistsarameans.pdf",
+        "title": "Hellenists and Arameans",
+        "filename": "hellenists-arameans.md"
     },
     {
         "description": " Heresy and Apostasy - [PDF] Definitions, and the Biblical solution to the problem of apostasy in the local church. ",
-        "pdf": "Heresy.pdf",
-        "title": "Heresy and Apostasy"
+        "pdf": "heresy.pdf",
+        "title": "Heresy and Apostasy",
+        "filename": "heresy.md"
     },
     {
         "description": " Hermeneutics - [PDF] The science and art of Biblical interpretation, by Pastor Drue Freeman. ",
-        "pdf": "Hermeneutics.pdf",
-        "title": "Hermeneutics"
+        "pdf": "hermeneutics.pdf",
+        "title": "Hermeneutics",
+        "filename": "hermeneutics.md"
     },
     {
         "description": "A classical study in Hermeneutics, by Rollin Thomas Chafer. Used in Pastor's Ministry Workshop of Austin Bible Church ",
-        "pdf": "Hermeneutics_Chafer.pdf",
-        "title": "Hermeneutics, Syllabus of Studies in"
+        "pdf": "hermeneutics_chafer.pdf",
+        "title": "Hermeneutics, Syllabus of Studies in",
+        "filename": "hermeneutics-chafer.md"
     },
     {
         "description": "The Herod mentioned in Matthew 2 and in Luke 1, is known to history as Herod the Great. His family was Jewish, by race, but the were actually Idumeans (Edomites). ",
         "pdf": "herod.pdf",
-        "title": "Herod, The Family of"
+        "title": "Herod, The Family of",
+        "filename": "herod.md"
     },
     {
         "description": "He was the son of the first and better-known Herod Agrippa, the brother of Berenice, Mariamne, and Drusilla (second wife of the Roman procurator Antonius Felix). Conducted trial of Paul in Caesarea. ",
         "pdf": "herodagrippa2.pdf",
-        "title": "Herod Agrippa II"
+        "title": "Herod Agrippa II",
+        "filename": "herod-agrippa-2.md"
     },
     {
-        "description": "\u201cThese are the researches of Herodotus of Halicarnassus, which he publishes, in the hope of thereby preserving from decay the remembrance of what men have done, and of preventing the great and wonderful actions of the Greeks and the Barbarians from losing their due share of glory.\u201d ",
-        "pdf": "Herodotus_History.pdf",
-        "title": "Herodotus - The History"
+        "description": "“These are the researches of Herodotus of Halicarnassus, which he publishes, in the hope of thereby preserving from decay the remembrance of what men have done, and of preventing the great and wonderful actions of the Greeks and the Barbarians from losing their due share of glory.” ",
+        "pdf": "herodotus_history.pdf",
+        "title": "Herodotus - The History",
+        "filename": "herodotus-history.md"
     },
     {
         "description": "An eminent Jewish scholar and rabbinic leader in Jerusalem in the early Herodian period. Contemporary with Gamilel. ",
-        "pdf": "Hillel.pdf",
-        "title": "Hillel"
+        "pdf": "hillel.pdf",
+        "title": "Hillel",
+        "filename": "hillel.md"
     },
     {
         "description": "The Hittites are a Hamitic people. They are the descendants of Heth, Gen 10:15. ",
         "pdf": "hittites.pdf",
-        "title": "Hittites"
+        "title": "Hittites",
+        "filename": "hittites.md"
     },
     {
         "description": " Holy Spirit - [PDF] The Person and work of God the Holy Spirit; the indwelling of the Spirit; the filling of the Spirit; the fruit of the Spirit. ",
-        "pdf": "HolySpirit.pdf",
-        "title": "Holy Spirit"
+        "pdf": "holyspirit.pdf",
+        "title": "Holy Spirit",
+        "filename": "holy-spirit.md"
     },
     {
-        "description": " Holy Spirit, Baptism of the - [PDF] The Holy Spirit\u2019s work by which he places each believer into Union with Christ. ",
-        "pdf": "HolySpirit_Baptism.pdf",
-        "title": "Holy Spirit, Baptism of the"
+        "description": " Holy Spirit, Baptism of the - [PDF] The Holy Spirit’s work by which he places each believer into Union with Christ. ",
+        "pdf": "holyspirit_baptism.pdf",
+        "title": "Holy Spirit, Baptism of the",
+        "filename": "holy-spirit-baptism.md"
     },
     {
         "description": " Holy Spirit, Indwelling of the - [PDF] The Holy Spirit indwells the body of the believer at the moment of salvation, 1 Cor 6:19-20, 3:16. ",
-        "pdf": "HolySpirit_Indwelling.pdf",
-        "title": "Holy Spirit, Indwelling of the"
+        "pdf": "holyspirit_indwelling.pdf",
+        "title": "Holy Spirit, Indwelling of the",
+        "filename": "holy-spirit-indwelling.md"
     },
     {
         "description": " Holy Spirit, Filling of the - [PDF] The empowering ministry brought about by the Holy Spirit's control of the believer's life. ",
-        "pdf": "HolySpirit_Filling.pdf",
-        "title": "Holy Spirit, Filling of the"
+        "pdf": "holyspirit_filling.pdf",
+        "title": "Holy Spirit, Filling of the",
+        "filename": "holy-spirit-filling.md"
     },
     {
         "description": " Holy Spirit - Salvation Ministry - [PDF] God the Holy Spirit did seven things for each Church Age believer at the time of salvation. ",
-        "pdf": "HolySpirit_SalvationMinistry.pdf",
-        "title": "Holy Spirit - Salvation Ministry"
+        "pdf": "holyspirit_salvationministry.pdf",
+        "title": "Holy Spirit - Salvation Ministry",
+        "filename": "holy-spirit-salvation-ministry.md"
     },
     {
         "description": " Holy Spirit - Sustaining Ministry - [PDF] The Holy Spirit sustained Christ during His time on earth, and the Holy Spirit sustains believers in the Christian life. ",
-        "pdf": "HolySpirit_SustainingMinistry.pdf",
-        "title": "Holy Spirit - Sustaining Ministry"
+        "pdf": "holyspirit_sustainingministry.pdf",
+        "title": "Holy Spirit - Sustaining Ministry",
+        "filename": "holy-spirit-sustaining-ministry.md"
     },
     {
         "description": "a thorough treatment of what the Bible says about this issue. ",
-        "pdf": "Homosexuality.pdf",
-        "title": "Homosexuality"
+        "pdf": "homosexuality.pdf",
+        "title": "Homosexuality",
+        "filename": "homosexuality.md"
     },
     {
         "description": " Hope - [PDF] The Christian's confidence is much more than just wishful thinking. ",
-        "pdf": "Hope.pdf",
-        "title": "Hope"
+        "pdf": "hope.pdf",
+        "title": "Hope",
+        "filename": "hope.md"
     },
     {
         "description": " Husbands - [PDF] How to be the husband of a happy wife. ",
-        "pdf": "Husbands.pdf",
-        "title": "Husbands"
+        "pdf": "husbands.pdf",
+        "title": "Husbands",
+        "filename": "husbands.md"
     },
     {
         "description": " Iconium - [PDF] Iconium was a city in the southwest part of central Asia Minor located about 95 miles (153 kilometers) from the Mediterranean coast. ",
-        "pdf": "Iconium.pdf",
-        "title": "Iconium"
+        "pdf": "iconium.pdf",
+        "title": "Iconium",
+        "filename": "iconium.md"
     },
     {
         "description": " Idolatry - [PDF] an outline discussion of the various forms of idolatry prevalent in Old Testament and New Testament times. [MAR 2013] ",
-        "pdf": "Idolatry.pdf",
-        "title": "Idolatry"
+        "pdf": "idolatry.pdf",
+        "title": "Idolatry",
+        "filename": "idolatry.md"
     },
     {
         "description": " Imputation - [PDF] How God the Father \"credits\" our sin to Christ and His righteousness to us. ",
-        "pdf": "Imputation.pdf",
-        "title": "Imputation"
+        "pdf": "imputation.pdf",
+        "title": "Imputation",
+        "filename": "imputation.md"
     },
     {
         "description": " Inerrancy - [PDF] A comparison of the views of both sides of the issue of inerrancy in the Bible. ",
-        "pdf": "Inerrancy.pdf",
-        "title": "Inerrancy"
+        "pdf": "inerrancy.pdf",
+        "title": "Inerrancy",
+        "filename": "inerrancy.md"
     },
     {
         "description": " Inheritance - [PDF] A study of the Christian's heritage in Christ. ",
-        "pdf": "Inheritance.pdf",
-        "title": "Inheritance"
+        "pdf": "inheritance.pdf",
+        "title": "Inheritance",
+        "filename": "inheritance.md"
     },
     {
         "description": " Inspiration - [PDF] The verbal, plenary inspiration of the Bible. ",
-        "pdf": "Inspiration.pdf",
-        "title": "Inspiration"
+        "pdf": "inspiration.pdf",
+        "title": "Inspiration",
+        "filename": "inspiration.md"
     },
     {
         "description": "denotes the history of Judaism from the time of the completion of the book of Malachi to the destruction of the temple of Jerusalem (A.D. 70). ",
         "pdf": "intertestamentalperiod.pdf",
-        "title": "Intertestamental Period"
+        "title": "Intertestamental Period",
+        "filename": "intertestamental-period.md"
     },
     {
         "description": "The Iron Age is the period generally occurring after the Bronze Age, marked by the prevalent use of iron, dates roughly 1300 BC to 700 AD. ",
         "pdf": "iron-age.pdf",
-        "title": "Iron Age"
+        "title": "Iron Age",
+        "filename": "iron-age.md"
     },
     {
         "description": "An OT patriarch, son of Abraham and father of Jacob and Esau. ",
-        "pdf": "Isaac.pdf",
-        "title": "Isaac"
+        "pdf": "isaac.pdf",
+        "title": "Isaac",
+        "filename": "isaac.md"
     },
     {
         "description": "Of all the prophets of Israel, Isaiah stands out as incomparably the greatest. ",
-        "pdf": "Isaiah.pdf",
-        "title": "Isaiah"
+        "pdf": "isaiah.pdf",
+        "title": "Isaiah",
+        "filename": "isaiah.md"
     },
     {
         "description": " Israel, The Pre-Eminence of - [PDF] Study of the place of the nation of Israel in the Biblical historical framework. ",
-        "pdf": "IsraelPreeminence.pdf",
-        "title": "Israel, The Pre-Eminence of"
+        "pdf": "israelpreeminence.pdf",
+        "title": "Israel, The Pre-Eminence of",
+        "filename": "israel-preeminence.md"
     },
     {
         "description": "Jacob was an OT patriarch, son of Isaac and father of the twelve named ancestors of the tribes of Israel (from International Standard Bible Encyclopedia). ",
-        "pdf": "Jacob.pdf",
-        "title": "Jacob"
+        "pdf": "jacob.pdf",
+        "title": "Jacob",
+        "filename": "jacob.md"
     },
     {
         "description": "from English history, a thorough treatment of Elizabeth I, James I, Edward VI, and Charles I. ",
-        "pdf": "James_EarlyStuarts.pdf",
-        "title": "James I, King of England, and the Early Stuarts"
+        "pdf": "james_earlystuarts.pdf",
+        "title": "James I, King of England, and the Early Stuarts",
+        "filename": "james-early-stuarts.md"
     },
     {
         "description": "After the death of James the brother of John, there is frequent mention in the Acts and the Pauline epistles of another James, the brother of the Lord Jesus. ",
-        "pdf": "JamesBrotherOfJesus.pdf",
-        "title": "James the brother of Jesus"
+        "pdf": "jamesbrotherofjesus.pdf",
+        "title": "James the brother of Jesus",
+        "filename": "james-brother-of-jesus.md"
     },
     {
         "description": "Jealousy is a mental attitude or emotional sin which is characterized by resentment of another person's accomplishments, recognition, attractiveness, or possessions, or by hostility towards someone else who is believed to be enjoying some advantage. ",
-        "pdf": "Jealousy.pdf",
-        "title": "Jealousy"
+        "pdf": "jealousy.pdf",
+        "title": "Jealousy",
+        "filename": "jealousy.md"
     },
     {
         "description": " Jerusalem - [PDF] A study of the chief city of Israel. ",
-        "pdf": "Jerusalem.pdf",
-        "title": "Jerusalem"
+        "pdf": "jerusalem.pdf",
+        "title": "Jerusalem",
+        "filename": "jerusalem.md"
     },
     {
         "description": " Jewish Civilization - [PDF] A holy religion the characteristic of the civilization of the Jews, and their religious feelings were directed to something in the future. All the circumstances of their national life tended to fix their thoughts on One that was to come. ",
         "pdf": "jewishcivilization.pdf",
-        "title": "Jewish Civilization"
+        "title": "Jewish Civilization",
+        "filename": "jewish-civilization.md"
     },
     {
         "description": "All jurisdiction was either civil, criminal, or ecclesiastical, according as questions of private right, public morality, or religious duty were to be decided. ",
-        "pdf": "JewishLaw.pdf",
-        "title": "Jewish Law in the 1st Century"
+        "pdf": "jewishlaw.pdf",
+        "title": "Jewish Law in the 1st Century",
+        "filename": "jewish-law.md"
     },
     {
         "description": "a brief outline of ancient Jewish theological literature (Alfred Edersheim). ",
-        "pdf": "Jewishliterature.pdf",
-        "title": "Jewish Literature"
+        "pdf": "jewishliterature.pdf",
+        "title": "Jewish Literature",
+        "filename": "jewish-literature.md"
     },
     {
         "description": " Jewish Religious System - [PDF] A description of each of the main Jewish organizations: the Scribes, the Pharisees, the Sadducees; and the Sanhedrin, and a brief description of the Jewish Talmud. ",
         "pdf": "jewishsystem.pdf",
-        "title": "Jewish Religious System"
+        "title": "Jewish Religious System",
+        "filename": "jewish-system.md"
     },
     {
         "description": "The thirty-nine categories of the Law making up the basis for Sabbath laws regarding work. ",
-        "pdf": "JewishTeaching_CategoriesOfWork.pdf",
-        "title": "Jewish Teaching, Categories of Work"
+        "pdf": "jewishteaching_categoriesofwork.pdf",
+        "title": "Jewish Teaching, Categories of Work",
+        "filename": "jewish-teaching-categories-of-work.md"
     },
     {
         "description": "Jewish teaching regarding the Messiah. ",
-        "pdf": "JewishTeaching_Messiah.pdf",
-        "title": "Jewish Teaching, Messiah"
+        "pdf": "jewishteaching_messiah.pdf",
+        "title": "Jewish Teaching, Messiah",
+        "filename": "jewish-teaching-messiah.md"
     },
     {
         "description": "This article is an outline introduction to the major lines of Jewish theological literature. ",
-        "pdf": "JewishTheologicalWritings.pdf",
-        "title": "Jewish Theological Writings"
+        "pdf": "jewishtheologicalwritings.pdf",
+        "title": "Jewish Theological Writings",
+        "filename": "jewish-theological-writings.md"
     },
     {
         "description": " Jews and Hellenism - [PDF] The Jews of the Dispersion interacting with Greek thought and culture. ",
         "pdf": "jewsandhellenism.pdf",
-        "title": "Jews and Hellenism"
+        "title": "Jews and Hellenism",
+        "filename": "jewsandhellenism.md"
     },
     {
         "description": " Jews Relationship to Gentiles - [PDF] A few examples from extensive Jewish writings of early times of their regulations concerning contact with Gentile people - from Edersheim. ",
         "pdf": "jewsgentiles.pdf",
-        "title": "Jews Relationship to Gentiles"
+        "title": "Jews Relationship to Gentiles",
+        "filename": "jews-gentiles.md"
     },
     {
         "description": "a description of the various Jewish parties in the time of Christ, including Pharisees, Sadducees, Hellenists, Arameans. ",
-        "pdf": "SectsParties.pdf",
-        "title": "Jews, Sects and Parties"
+        "pdf": "sectsparties.pdf",
+        "title": "Jews, Sects and Parties",
+        "filename": "sects-parties.md"
     },
     {
         "description": " John the Baptist - [PDF] -a complete exposition of all of the teaching in the Bible about the great prophet and his relationship to Jesus Christ. ",
-        "pdf": "JohnTheBaptist_Outline.pdf",
-        "title": "John the Baptist"
+        "pdf": "johnthebaptist_outline.pdf",
+        "title": "John the Baptist",
+        "filename": "john-the-baptist-outline.md"
     },
     {
         "description": "In all four Gospels the man who steps forth to bury Jesus' body is Joseph of Arimathea. ",
-        "pdf": "JosephOfArimathea.pdf",
-        "title": "Joseph of Arimathea"
+        "pdf": "josephofarimathea.pdf",
+        "title": "Joseph of Arimathea",
+        "filename": "joseph-of-arimathea.md"
     },
     {
         "description": "Jewish historian and general in the war of the Jews against the Romans in A.D. 66-70. ",
-        "pdf": "Josephus.pdf",
-        "title": "Josephus"
+        "pdf": "josephus.pdf",
+        "title": "Josephus",
+        "filename": "josephus.md"
     },
     {
         "description": "the fiftieth year was to be announced as a Jubilee Year. It possessed the function of an ordinary sabbatic year, thus allowing the land to lie fallow for two successive years. ",
-        "pdf": "Jubilee.pdf",
-        "title": "Jubilee, Year of"
+        "pdf": "jubilee.pdf",
+        "title": "Jubilee, Year of",
+        "filename": "jubilee.md"
     },
     {
         "description": "Judaism 101 is an online encyclopedia of Judaism, covering Jewish beliefs, people, places, things, language, scripture, holidays, practices and customs, by Tracey Rich, a Jewish scholar. ",
-        "pdf": "JUDAISM101.pdf",
-        "title": "Judaism 101"
+        "pdf": "judaism101.pdf",
+        "title": "Judaism 101",
+        "filename": "judaism101.md"
     },
     {
         "description": " Judea, History of - [PDF] An outline history of the land of Israel from the time of Alexander to Herod the Great; details of the activities of the Hasmonean family (Maccabees); profile of Herod the Great. ",
-        "pdf": "Judea.pdf",
-        "title": "Judea, History of"
+        "pdf": "judea.pdf",
+        "title": "Judea, History of",
+        "filename": "judea.md"
     },
     {
         "description": "from Commentary on the Old Testament - Leviticus, by C. F. Keil and F. Delitzsch. ",
-        "pdf": "Judges_Introduction.pdf",
-        "title": "Judges, Introduction"
+        "pdf": "judges_introduction.pdf",
+        "title": "Judges, Introduction",
+        "filename": "judges-introduction.md"
     },
     {
         "description": " Judgment, Justice, and Judging - [PDF] God's Judgment and Justice; a discussion of discernment vs. judgmentalism. ",
-        "pdf": "Judgment.pdf",
-        "title": "Judgment, Justice, and Judging"
+        "pdf": "judgment.pdf",
+        "title": "Judgment, Justice, and Judging",
+        "filename": "judgment.md"
     },
     {
         "description": " Judgment Seat of Christ - [PDF] A brief study of the thrones upon which Christ will sit, in heaven and on earth, after the Church Age. ",
-        "pdf": "JudgementSeat.pdf",
-        "title": "Judgment Seat of Christ"
+        "pdf": "judgementseat.pdf",
+        "title": "Judgment Seat of Christ",
+        "filename": "judgement-seat.md"
     },
     {
         "description": " Justification - [PDF] Outline of the doctrine of Justification. ",
-        "pdf": "Justification.pdf",
-        "title": "Justification"
+        "pdf": "justification.pdf",
+        "title": "Justification",
+        "filename": "justification.md"
     },
     {
         "description": "how the common Greek of the New Testament was formed. ",
-        "pdf": "KoineGreek.pdf",
-        "title": "Koine Greek, History of"
+        "pdf": "koinegreek.pdf",
+        "title": "Koine Greek, History of",
+        "filename": "koine-greek.md"
     },
     {
         "description": "A discussion of how the Law of Moses relates to Church Age doctrine. ",
-        "pdf": "LawOfMoses.pdf",
-        "title": "Law of Moses"
+        "pdf": "lawofmoses.pdf",
+        "title": "Law of Moses",
+        "filename": "law-of-moses.md"
     },
     {
         "description": " Leaven - [PDF] A study of the concept of leaven in the Bible ",
-        "pdf": "Leaven.pdf",
-        "title": "Leaven"
+        "pdf": "leaven.pdf",
+        "title": "Leaven",
+        "filename": "leaven.md"
     },
     {
         "description": " Legalism - [PDF] The greatest distortion to Grace is religious legalism. ",
-        "pdf": "Legalism.pdf",
-        "title": "Legalism"
+        "pdf": "legalism.pdf",
+        "title": "Legalism",
+        "filename": "legalism.md"
     },
     {
         "description": "A leper suffers from a specific form of mycobacterial infection that was dreaded in antiquity and that until A.D. 1960 was regarded as intractable and incurable. ",
-        "pdf": "Leper.pdf",
-        "title": "Leper"
+        "pdf": "leper.pdf",
+        "title": "Leper",
+        "filename": "leper.md"
     },
     {
         "description": "a study from the Old Testament on how leprosy was identified and treated. An exposition of Leviticus 13 and 14, Commentary on the Old Testament, by C. F. Keil and F. Delitzsch ",
-        "pdf": "Leprosy.pdf",
-        "title": "Leprosy"
+        "pdf": "leprosy.pdf",
+        "title": "Leprosy",
+        "filename": "leprosy.md"
     },
     {
         "description": " Levitical Priesthood - [PDF] A discussion of the institutions of the Jewish religion. ",
-        "pdf": "LeviticalPriesthood.pdf",
-        "title": "Levitical Priesthood"
+        "pdf": "leviticalpriesthood.pdf",
+        "title": "Levitical Priesthood",
+        "filename": "levitical-priesthood.md"
     },
     {
         "description": " Levitical Sacrifices and Offerings - [PDF] Descriptions and Christian typology of the Levitical sacrifices and offerings; isagogical support to study of New Testament epistles. ",
-        "pdf": "LeviticalSacrifices.pdf",
-        "title": "Levitical Sacrifices and Offerings"
+        "pdf": "leviticalsacrifices.pdf",
+        "title": "Levitical Sacrifices and Offerings",
+        "filename": "levitical-sacrifices.md"
     },
     {
         "description": "the Person and Work of Christ, from His presence in eternity past, through His ministry in the feeding of the 5000. ",
-        "pdf": "LifeOfChrist.pdf",
-        "title": "Life of Christ"
+        "pdf": "lifeofchrist.pdf",
+        "title": "Life of Christ",
+        "filename": "life-of-christ.md"
     },
     {
         "description": " Local Church - [PDF] a collection of Bible references dealing with the basic attitude and activities which are present in a local church. ",
-        "pdf": "LocalChurch.pdf",
-        "title": "Local Church"
+        "pdf": "localchurch.pdf",
+        "title": "Local Church",
+        "filename": "local-church.md"
     },
     {
         "description": " Locusts - [PDF] Four different types of locusts are mentioned in Joel 4:1. ",
-        "pdf": "Locusts.pdf",
-        "title": "Locusts"
+        "pdf": "locusts.pdf",
+        "title": "Locusts",
+        "filename": "locusts.md"
     },
     {
         "description": " Loyal Love - [PDF] Another look at the subject of AGAPE love. ",
-        "pdf": "LoyalLove.pdf",
-        "title": "Loyal Love"
+        "pdf": "loyallove.pdf",
+        "title": "Loyal Love",
+        "filename": "loyal-love.md"
     },
     {
         "description": "the city where Peter healed Aeneas. ",
-        "pdf": "Lydda.pdf",
-        "title": "Lydda"
+        "pdf": "lydda.pdf",
+        "title": "Lydda",
+        "filename": "lydda.md"
     },
     {
         "description": "Lydia, being convinced that Jesus was the Messiah, and having made a profession of her faith, was forthwith baptized. ",
-        "pdf": "Lydia.pdf",
-        "title": "Lydia"
+        "pdf": "lydia.pdf",
+        "title": "Lydia",
+        "filename": "lydia.md"
     },
     {
         "description": "the great Jewish warriors struggle against the Greek ruler Antiochus Epiphanes. ",
-        "pdf": "MaccabeanRevolt.pdf",
-        "title": "Maccabean Revolt"
+        "pdf": "maccabeanrevolt.pdf",
+        "title": "Maccabean Revolt",
+        "filename": "maccabean-revolt.md"
     },
     {
         "description": "The Jewish family that ruled Judea during most of the 400 silent years. ",
-        "pdf": "Maccabees.pdf",
-        "title": "Maccabees (Hasmoneans)"
+        "pdf": "maccabees.pdf",
+        "title": "Maccabees (Hasmoneans)",
+        "filename": "maccabees.md"
     },
     {
         "description": "the Greek province; home of Alexander the Great. ",
-        "pdf": "Macedonia.pdf",
-        "title": "Macedonia"
+        "pdf": "macedonia.pdf",
+        "title": "Macedonia",
+        "filename": "macedonia.md"
     },
     {
         "description": "The island where Paul was shipwrecked. ",
         "pdf": "malta.pdf",
-        "title": "Malta"
+        "title": "Malta",
+        "filename": "malta.md"
     },
     {
         "description": " Manna - [PDF] Manna means \"What is it?\" in the Hebrew. ",
-        "pdf": "Manna.pdf",
-        "title": "Manna"
+        "pdf": "manna.pdf",
+        "title": "Manna",
+        "filename": "manna.md"
     },
     {
         "description": " Marriage, Christian - [PDF] Thorough treatment on the subject of marriage in the Bible. ",
-        "pdf": "Marriage.pdf",
-        "title": "Marriage, Christian"
+        "pdf": "marriage.pdf",
+        "title": "Marriage, Christian",
+        "filename": "marriage.md"
     },
     {
         "description": "Luke's narrative now turns to the story of Mary, the mother of our Lord. ",
-        "pdf": "MarySong.pdf",
-        "title": "Mary's Song"
+        "pdf": "marysong.pdf",
+        "title": "Mary's Song",
+        "filename": "mary-song.md"
     },
     {
         "description": "Mastery of the details of life means that you look to the Lord for every detail, that you accept with calm fortitude either the gain or loss of details of life. ",
-        "pdf": "MasteryOfTheDetailsOfLife.pdf",
-        "title": "Mastery of the Details of Life"
+        "pdf": "masteryofthedetailsoflife.pdf",
+        "title": "Mastery of the Details of Life",
+        "filename": "mastery-of-the-details-of-life.md"
     },
     {
         "description": "An ancient people and land SW of the Caspian Sea, between the Zagros Mountains and the Salt Desert. ",
-        "pdf": "Media.pdf",
-        "title": "Media and the Medes"
+        "pdf": "media.pdf",
+        "title": "Media and the Medes",
+        "filename": "media.md"
     },
     {
         "description": "a thoroughly researched study by George Rawlinson, from The Seven Great Monarchies of the Ancient Eastern World. ",
         "pdf": "media(rawlinson).pdf",
-        "title": "Media - Rawlinson"
+        "title": "Media - Rawlinson",
+        "filename": "media-rawlinson.md"
     },
     {
         "description": " Mental Attitude - [PDF] A thorough article on the problems of mental attitude and how to grow into stability in the Christian Way of Life; how to have a relaxed mental attitude; how to avoid many kinds of neurosis. ",
-        "pdf": "MentalAttitude.pdf",
-        "title": "Mental Attitude"
+        "pdf": "mentalattitude.pdf",
+        "title": "Mental Attitude",
+        "filename": "mental-attitude.md"
     },
     {
         "description": "from The Life and Times of Jesus the Messiah by Alfred Edersheim, Appendix IX. ",
-        "pdf": "Messiah.pdf",
-        "title": "Messiah in the Old Testament"
+        "pdf": "messiah.pdf",
+        "title": "Messiah in the Old Testament",
+        "filename": "messiah.md"
     },
     {
         "description": " Methusaleh - [PDF] The oldest man is the world may also be the most famous. ",
-        "pdf": "Methusaleh.pdf",
-        "title": "Methusaleh"
+        "pdf": "methusaleh.pdf",
+        "title": "Methusaleh",
+        "filename": "methusaleh.md"
     },
     {
         "description": "Paul summoned the Ephesian elders to meet him at the major seaport city of Miletus in order to give them his final charge (Acts 20:15, 21:1). ",
-        "pdf": "Miletus.pdf",
-        "title": "Miletus"
+        "pdf": "miletus.pdf",
+        "title": "Miletus",
+        "filename": "miletus.md"
     },
     {
         "description": "exposition of Exodus 2 (Keil and Delitszch). ",
-        "pdf": "MosesEarlyLife.pdf",
-        "title": "Moses Early Life"
+        "pdf": "mosesearlylife.pdf",
+        "title": "Moses Early Life",
+        "filename": "moses-early-life.md"
     },
     {
         "description": "notes from history about Moses and the Pharoahs in Egypt. ",
-        "pdf": "MosesEgypt.pdf",
-        "title": "Moses in Egypt"
+        "pdf": "mosesegypt.pdf",
+        "title": "Moses in Egypt",
+        "filename": "moses-egypt.md"
     },
     {
         "description": " Moabites - [PDF] A description of the descendants of Lot, geography, history, religion, relationship to Judges and Ruth. The Moabite Stone. ",
-        "pdf": "Moabites.pdf",
-        "title": "Moabites"
+        "pdf": "moabites.pdf",
+        "title": "Moabites",
+        "filename": "moabites.md"
     },
     {
         "description": " The \"Much More\" Care of God - [PDF] The Lord Jesus did the most for us when He died on the Cross. In the Christian life He does much more than the most for us. ",
-        "pdf": "MuchMore.pdf",
-        "title": "The \"Much More\" Care of God"
+        "pdf": "muchmore.pdf",
+        "title": "The \"Much More\" Care of God",
+        "filename": "much-more.md"
     },
     {
         "description": " Music, Christian - [PDF] What the Bible says about Christian singing; psalms, hymns, spiritual songs; doctrinal content of a few well-known hymns. [AUG 2014] ",
         "pdf": "music.pdf",
-        "title": "Music, Christian"
+        "title": "Music, Christian",
+        "filename": "music.md"
     },
     {
         "description": "The word \"mystery\" in the New Testament refers to the doctrine which is specific for the Church Age. It is called \"the mystery\" because there things were never revealed in Old Testament times. ",
-        "pdf": "Mystery.pdf",
-        "title": "Mystery Doctrines"
+        "pdf": "mystery.pdf",
+        "title": "Mystery Doctrines",
+        "filename": "mystery.md"
     },
     {
         "description": "notes from the Scofield Reference Bible on the names of Jehovah. ",
-        "pdf": "NamesOfGod.pdf",
-        "title": "Names of God"
+        "pdf": "namesofgod.pdf",
+        "title": "Names of God",
+        "filename": "names-of-god.md"
     },
     {
         "description": "The Nazarites were an ancient order of persons consecrated to God by means of a vow. ",
-        "pdf": "Nazarites.pdf",
-        "title": "Nazarites"
+        "pdf": "nazarites.pdf",
+        "title": "Nazarites",
+        "filename": "nazarites.md"
     },
     {
         "description": "King of Babylon (605-562 BC) and conqueror of Jerusalem. ",
-        "pdf": "Nebuchadnezzar.pdf",
-        "title": "Nebuchadnezzar"
+        "pdf": "nebuchadnezzar.pdf",
+        "title": "Nebuchadnezzar",
+        "filename": "nebuchadnezzar.md"
     },
     {
         "description": " Negative Volition - [PDF] Stern warnings to believers \"not to walk as other Gentiles walk\". ",
-        "pdf": "NegativeVolition.pdf",
-        "title": "Negative Volition"
+        "pdf": "negativevolition.pdf",
+        "title": "Negative Volition",
+        "filename": "negative-volition.md"
     },
     {
         "description": "A postexile governor of Judah and writer of the memoirs in the book called by his name. All that is known from contemporary sources about this Jewish patriot is found in the book of Nehemiah. ",
-        "pdf": "Nehemiah.pdf",
-        "title": "Nehemiah"
+        "pdf": "nehemiah.pdf",
+        "title": "Nehemiah",
+        "filename": "nehemiah.md"
     },
     {
         "description": "by Sir William Beechy, a contemporary of the great British hero of the Battle of Trafalgar. ",
-        "pdf": "Nelson_Horatio_Biography.pdf",
-        "title": "Nelson, Horatio"
+        "pdf": "nelson_horatio_biography.pdf",
+        "title": "Nelson, Horatio",
+        "filename": "nelson-horatio-biography.md"
     },
     {
         "description": "Nicodemus is a Greek name meaning \"Victor of the People\". ",
-        "pdf": "Nicodemus.pdf",
-        "title": "Nicodemus"
+        "pdf": "nicodemus.pdf",
+        "title": "Nicodemus",
+        "filename": "nicodemus.md"
     },
     {
-        "description": "Any Christian believer is either winning or losing in the attempt to live as a Christian. A believer is either living according to the revealed plan of God, or is serving \u201cthe ruler of this world.\u201d There is no in-between or middle ground. ",
-        "pdf": "NoviceChristian.pdf",
-        "title": "Novice Christian"
+        "description": "Any Christian believer is either winning or losing in the attempt to live as a Christian. A believer is either living according to the revealed plan of God, or is serving “the ruler of this world.” There is no in-between or middle ground. ",
+        "pdf": "novicechristian.pdf",
+        "title": "Novice Christian",
+        "filename": "novice-christian.md"
     },
     {
         "description": " Occupation with Christ - [PDF] the primary focus of the Christian life is the Lord Jesus Christ, and we know Him from the Word of God. ",
-        "pdf": "OccupationWithChrist.pdf",
-        "title": "Occupation with Christ"
+        "pdf": "occupationwithchrist.pdf",
+        "title": "Occupation with Christ",
+        "filename": "occupation-with-christ.md"
     },
     {
         "description": " Old Age - [PDF] The doctrinal truth behind dying grace. How the last years of your life are the best years. Growing old and gracious at the same time. ",
-        "pdf": "OldAge.pdf",
-        "title": "Old Age"
+        "pdf": "oldage.pdf",
+        "title": "Old Age",
+        "filename": "old-age.md"
     },
     {
         "description": " Old Testament History - [PDF] A history of the period from Solomon to the return of the Jews from exile. ",
-        "pdf": "OldTestamentHistory.pdf",
-        "title": "Old Testament History"
+        "pdf": "oldtestamenthistory.pdf",
+        "title": "Old Testament History",
+        "filename": "old-testament-history.md"
     },
     {
         "description": "The geographical position of Palestine gave it a political importance greater than that to which its extent and population would otherwise have entitled it. ",
-        "pdf": "PalestineProvinces.pdf",
-        "title": "Palestine Provinces"
+        "pdf": "palestineprovinces.pdf",
+        "title": "Palestine Provinces",
+        "filename": "palestine-provinces.md"
     },
     {
         "description": "A plant and the writing material that was made from it. ",
-        "pdf": "Papyrus.pdf",
-        "title": "Papyrus"
+        "pdf": "papyrus.pdf",
+        "title": "Papyrus",
+        "filename": "papyrus.md"
     },
     {
         "description": "by Pastor Mark Perkins. A thorough study of the parables of Jesus, with expositional notes. ",
-        "pdf": "Parables.pdf",
-        "title": "Parables"
+        "pdf": "parables.pdf",
+        "title": "Parables",
+        "filename": "parables.md"
     },
     {
         "description": "a region of north-eastern Iran, best known for having been the political and cultural base of the rulers of the Parthian Empire. ",
-        "pdf": "Parthia.pdf",
-        "title": "Parthia"
+        "pdf": "parthia.pdf",
+        "title": "Parthia",
+        "filename": "parthia.md"
     },
     {
         "description": "a thoroughly researched study by George Rawlinson, from The Seven Great Monarchies of the Ancient Eastern World. ",
         "pdf": "parthia(rawlinson).pdf",
-        "title": "Parthia - Rawlinson"
+        "title": "Parthia - Rawlinson",
+        "filename": "parthia-rawlinson.md"
     },
     {
         "description": "Notes on the Jewish ritual that was the Lord's Supper. ",
-        "pdf": "Passover.pdf",
-        "title": "Passover"
+        "pdf": "passover.pdf",
+        "title": "Passover",
+        "filename": "passover.md"
     },
     {
         "description": " Pastor-Teachers - [PDF] the pastor-teacher has a spiritual gift that he does not deserve and cannot earn. ",
-        "pdf": "PastorTeachers.pdf",
-        "title": "Pastor-Teachers"
+        "pdf": "pastorteachers.pdf",
+        "title": "Pastor-Teachers",
+        "filename": "pastor-teachers.md"
     },
     {
         "description": " Paul and Silas in the Philippian Jail - [PDF] ",
-        "pdf": "Paul&Silas_Prison.pdf",
-        "title": "Paul and Silas in the Philippian Jail"
+        "pdf": "paul&silas_prison.pdf",
+        "title": "Paul and Silas in the Philippian Jail",
+        "filename": "paul&-silas-prison.md"
     },
     {
         "description": " Paul the Apostle - [PDF] Paul's education and career. [AUG 2014] ",
         "pdf": "paul.pdf",
-        "title": "Paul the Apostle"
+        "title": "Paul the Apostle",
+        "filename": "paul.md"
     },
     {
         "description": "an account from Conybeare and Howson, The Life and Epistles of St. Paul of Paul's ministry in Athens. ",
-        "pdf": "PaulInAthens.pdf",
-        "title": "Paul in Athens"
+        "pdf": "paulinathens.pdf",
+        "title": "Paul in Athens",
+        "filename": "paul-in-athens.md"
     },
     {
         "description": " Paul in Corinth - [PDF] an account of the apostle Paul's ministry in Corinth. ",
-        "pdf": "PaulInCorinth.pdf",
-        "title": "Paul in Corinth"
+        "pdf": "paulincorinth.pdf",
+        "title": "Paul in Corinth",
+        "filename": "paul-in-corinth.md"
     },
     {
         "description": " Paul in Ephesus - [PDF] an account of the apostle Paul's ministry in Ephesus. ",
-        "pdf": "PaulInEphesus.pdf",
-        "title": "Paul in Ephesus"
+        "pdf": "paulinephesus.pdf",
+        "title": "Paul in Ephesus",
+        "filename": "paul-in-ephesus.md"
     },
     {
         "description": " Paul - First Letter to Corinth - [PDF] narrative surrounding Paul's writing from Ephesus his first epistle to the Corinthians, by Conybeare and Howson, along with their translation of the letters. ",
-        "pdf": "Paul_FirstLetterToCorinth.pdf",
-        "title": "Paul - First Letter to Corinth"
+        "pdf": "paul_firstlettertocorinth.pdf",
+        "title": "Paul - First Letter to Corinth",
+        "filename": "paul-first-letter-to-corinth.md"
     },
     {
         "description": "The public life of Paul, from the third year after his conversion to his martyrdom, A.D. 40-64, embraces a quarter of a century, three great missionary campaigns with minor expeditions, five visits to Jerusalem, and at least four years of captivity in Caesarea and Rome. ",
-        "pdf": "PaulMissionaryLabors.pdf",
-        "title": "Paul - Missionary Labors"
+        "pdf": "paulmissionarylabors.pdf",
+        "title": "Paul - Missionary Labors",
+        "filename": "paul-missionary-labors.md"
     },
     {
         "description": "narrative surrounding Paul's writing from Macedonia his second epistle to the Corinthians, by Conybeare and Howson, along with their translation of the letter. ",
-        "pdf": "Paul_SecondLetterToCorinth.pdf",
-        "title": "Paul - Second Letter to Corinth"
+        "pdf": "paul_secondlettertocorinth.pdf",
+        "title": "Paul - Second Letter to Corinth",
+        "filename": "paul-second-letter-to-corinth.md"
     },
     {
         "description": "narrative surrounding Paul's writing from Macedonia his epistle to the Galatians; by Conybeare and Howson, along with their translation of the letter. ",
-        "pdf": "Paul_LetterToGalatians.pdf",
-        "title": "Paul - Letter to the Galatians"
+        "pdf": "paul_lettertogalatians.pdf",
+        "title": "Paul - Letter to the Galatians",
+        "filename": "paul-letter-to-galatians.md"
     },
     {
         "description": "narrative surrounding Paul's writing his epistle to the Romans, from Corinth, prior to his departure for Judea; by Conybeare and Howson, along with their translation of the letter. ",
-        "pdf": "Paul_LetterToRomans.pdf",
-        "title": "Paul - Letter to the Romans"
+        "pdf": "paul_lettertoromans.pdf",
+        "title": "Paul - Letter to the Romans",
+        "filename": "paul-letter-to-romans.md"
     },
     {
         "description": " Paul - to the Thessalonians - [PDF] an account of the events surrounding Paul's writing the two Thessalonian epistles, along with translations by Conybeare and Howson. ",
-        "pdf": "Paul_FirstLetterToCorinth.pdf",
-        "title": "Paul - to the Thessalonians"
+        "pdf": "paul_firstlettertocorinth.pdf",
+        "title": "Paul - to the Thessalonians",
+        "filename": "paul-first-letter-to-corinth.md"
     },
     {
-        "description": "His infancy; the Tribe of Benjamin; Social Position of Paul's Family; Paul\u2019s Boyhood. ",
-        "pdf": "Paul_totheThessalonians.pdf",
-        "title": "Paul's Childhood at Tarsus"
+        "description": "His infancy; the Tribe of Benjamin; Social Position of Paul's Family; Paul’s Boyhood. ",
+        "pdf": "paul_tothethessalonians.pdf",
+        "title": "Paul's Childhood at Tarsus",
+        "filename": "paul-to-the-thessalonians.md"
     },
     {
         "description": "His journey to Jerusalem; his education at the school of Gamaliel ",
         "pdf": "pauleducation.pdf",
-        "title": "Paul's Education"
+        "title": "Paul's Education",
+        "filename": "paul-education.md"
     },
     {
         "description": " Paul: Chronological Table - [PDF] A time table of Paul's life, with matching contemporary events. ",
-        "pdf": "PaulChronology.pdf",
-        "title": "Paul: Chronological Table"
+        "pdf": "paulchronology.pdf",
+        "title": "Paul: Chronological Table",
+        "filename": "paul-chronology.md"
     },
     {
         "description": " Peace of God, and Peace with God - [PDF] How to have peace with God and the peace of God. One of the important stability doctrines and Biblical treatments for depression. ",
-        "pdf": "Peace.pdf",
-        "title": "Peace of God, and Peace with God"
+        "pdf": "peace.pdf",
+        "title": "Peace of God, and Peace with God",
+        "filename": "peace.md"
     },
     {
         "description": "The ascension of Christ to heaven was followed ten days afterwards by the descent of the Holy Spirit upon earth and the birth of the Christian Church. ",
-        "pdf": "Pentecost.pdf",
-        "title": "Pentecost"
+        "pdf": "pentecost.pdf",
+        "title": "Pentecost",
+        "filename": "pentecost.md"
     },
     {
         "description": "Concluding Remarks on the Composition of the Pentateuch, from Commentary on the Old Testament, C. F. Keil and F. Delitzsch. ",
-        "pdf": "Pentateuch.pdf",
-        "title": "Pentateuch"
+        "pdf": "pentateuch.pdf",
+        "title": "Pentateuch",
+        "filename": "pentateuch.md"
     },
     {
         "description": "a description of the life of early believers under Jewish persecution. ",
-        "pdf": "PersecutionEarlyChurch.pdf",
-        "title": "Persecution in the Early Church"
+        "pdf": "persecutionearlychurch.pdf",
+        "title": "Persecution in the Early Church",
+        "filename": "persecution-early-church.md"
     },
     {
         "description": "by Philip Schaff, the treatment of Christian believers by Roman authority and citizens. ",
-        "pdf": "PersecutionRoman.pdf",
-        "title": "Persecution, Roman"
+        "pdf": "persecutionroman.pdf",
+        "title": "Persecution, Roman",
+        "filename": "persecution-roman.md"
     },
     {
         "description": "an ancient history of the Persian Empire, by George Rawlinson, MA. ",
         "pdf": "persia(rawlinson).pdf",
-        "title": "Persia"
+        "title": "Persia",
+        "filename": "persia-rawlinson-.md"
     },
     {
         "description": "A disciple of Jesus and apostle of the early Church. ",
-        "pdf": "Peter.pdf",
-        "title": "Peter, the Apostle"
+        "pdf": "peter.pdf",
+        "title": "Peter, the Apostle",
+        "filename": "peter.md"
     },
     {
-        "description": "The \u201cdeacon\u201d who brought the Gospel to the Samaritans and to the Ethiopian eunuch. ",
-        "pdf": "Philip.pdf",
-        "title": "Philip the Evangelist"
+        "description": "The “deacon” who brought the Gospel to the Samaritans and to the Ethiopian eunuch. ",
+        "pdf": "philip.pdf",
+        "title": "Philip the Evangelist",
+        "filename": "philip.md"
     },
     {
         "description": "Roman provincial city; important trade center; location of the Philippian church. ",
-        "pdf": "Philippi.pdf",
-        "title": "Philippi"
+        "pdf": "philippi.pdf",
+        "title": "Philippi",
+        "filename": "philippi.md"
     },
     {
         "description": "Phoenicia designates the Syrian coast, and Phoenicians the Northwest Semitic inhabitants of that region in the period from 1200 b.c. to about the end of the Roman era. ",
-        "pdf": "Phoenicia.pdf",
-        "title": "Phoenicia"
+        "pdf": "phoenicia.pdf",
+        "title": "Phoenicia",
+        "filename": "phoenicia.md"
     },
     {
         "description": "a thoroughly researched study by George Rawlinson, from The Seven Great Monarchies of the Ancient Eastern World. ",
         "pdf": "phoenicia(rawlinson).pdf",
-        "title": "Phoenicia - Rawlinson"
+        "title": "Phoenicia - Rawlinson",
+        "filename": "phoenicia-rawlinson.md"
     },
     {
-        "description": "\u201cFrom This World To That Which Is To Come, Delivered under the similitude of a dream\u201d, BY JOHN BUNYAN ",
-        "pdf": "PilgrimsProgress.pdf",
-        "title": "Pilgrim's Progress"
+        "description": "“From This World To That Which Is To Come, Delivered under the similitude of a dream”, BY JOHN BUNYAN ",
+        "pdf": "pilgrimsprogress.pdf",
+        "title": "Pilgrim's Progress",
+        "filename": "pilgrims-progress.md"
     },
     {
         "description": "A concise history of the Church compared with the principles taught in the New Testament. ",
-        "pdf": "PilgrimChurch(Broadbent).pdf",
-        "title": "Pilgrim Church, The"
+        "pdf": "pilgrimchurch(broadbent).pdf",
+        "title": "Pilgrim Church, The",
+        "filename": "pilgrim-church-broadbent.md"
     },
     {
         "description": "Pontius Pilate was the fifth governor of the Roman province of Judaea. His rule began in 26 AD and lasted until early in 37 AD. ",
         "pdf": "pilate.pdf",
-        "title": "Pilate"
+        "title": "Pilate",
+        "filename": "pilate.md"
     },
     {
         "description": "The Lord Jesus said \"The poor you will have with you always\" (Mark 14:17), and the Bible has extensive teaching on the subject of poverty and how a Christian's duties include responsibility and care for poor people. ",
         "pdf": "poor.pdf",
-        "title": "Poor, The"
+        "title": "Poor, The",
+        "filename": "poor.md"
     },
     {
         "description": " Prayer - [PDF] Practical teaching on how to pray to God and what to expect from Him. ",
-        "pdf": "Prayer.pdf",
-        "title": "Prayer"
+        "pdf": "prayer.pdf",
+        "title": "Prayer",
+        "filename": "prayer.md"
     },
     {
         "description": " Prayer, Principles of- [PDF] prayer is communication with God. ",
-        "pdf": "PrayerPrinciples.pdf",
-        "title": "Prayer, Principles of"
+        "pdf": "prayerprinciples.pdf",
+        "title": "Prayer, Principles of",
+        "filename": "prayer-principles.md"
     },
     {
         "description": " Preaching, Doctrine of - [PDF] Word study beginning in Titus 1:3 - KEIRUGMA; the true practice of Bible presentation. ",
-        "pdf": "Preaching.pdf",
-        "title": "Preaching, Doctrine of"
+        "pdf": "preaching.pdf",
+        "title": "Preaching, Doctrine of",
+        "filename": "preaching.md"
     },
     {
         "description": " Predestination - [PDF] How the word \"predestination\" is used in the Bible. ",
-        "pdf": "Predestination.pdf",
-        "title": "Predestination"
+        "pdf": "predestination.pdf",
+        "title": "Predestination",
+        "filename": "predestination.md"
     },
     {
         "description": " Pride (Arrogance) - [PDF] Whenever a Christian fails to execute the plan of God for his life, sinful pride is the primary reason and motivating cause. ",
-        "pdf": "Pride.pdf",
-        "title": "Pride (Arrogance)"
+        "pdf": "pride.pdf",
+        "title": "Pride (Arrogance)",
+        "filename": "pride.md"
     },
     {
         "description": "Among the most interesting glimpses of early life in the church is that afforded by a small piece of rapidly-drawn scenery which presents to our view 'a great company of the priests,' 'obedient to the faith' (Acts 6:7). ",
-        "pdf": "Priesthood.pdf",
-        "title": "Priesthood, The Officiating"
+        "pdf": "priesthood.pdf",
+        "title": "Priesthood, The Officiating",
+        "filename": "priesthood.md"
     },
     {
         "description": "Privacy is that principle of freedom whereby an individual has the right to retire from the company of others, remaining in seclusion from the knowledge or observation of others. ",
-        "pdf": "Privacy.pdf",
-        "title": "Privacy"
+        "pdf": "privacy.pdf",
+        "title": "Privacy",
+        "filename": "privacy.md"
     },
     {
         "description": " Promotion - [PDF] Personal advancement in the Bible; if God does not promote you, you're not promoted! ",
-        "pdf": "Promotion.pdf",
-        "title": "Promotion"
+        "pdf": "promotion.pdf",
+        "title": "Promotion",
+        "filename": "promotion.md"
     },
     {
         "description": " Prophets and Prophesying - [PDF] An outline study of the Old Testament Prophet and his ministry. ",
-        "pdf": "Prophets.pdf",
-        "title": "Prophets and Prophesying"
+        "pdf": "prophets.pdf",
+        "title": "Prophets and Prophesying",
+        "filename": "prophets.md"
     },
     {
         "description": "an outline description of the historical books of the Bible, Joshua, Judges, 1 and 2 Samuel, and 1 and 2 Kings. ",
-        "pdf": "PropheticalHistory.pdf",
-        "title": "Prophetical History of the Old Testament"
+        "pdf": "propheticalhistory.pdf",
+        "title": "Prophetical History of the Old Testament",
+        "filename": "prophetical-history.md"
     },
     {
         "description": " Propitiation - [PDF] Jesus Christ is our Mercy Seat, our place of propitiation! ",
-        "pdf": "Propitiation.pdf",
-        "title": "Propitiation"
+        "pdf": "propitiation.pdf",
+        "title": "Propitiation",
+        "filename": "propitiation.md"
     },
     {
         "description": " Psalms, Introduction to - [PDF] An introduction to the study of the Psalms, and an outline of the First Psalm. ",
-        "pdf": "PsalmsIntro.pdf",
-        "title": "Psalms, Introduction to"
+        "pdf": "psalmsintro.pdf",
+        "title": "Psalms, Introduction to",
+        "filename": "psalms-intro.md"
     },
     {
         "description": " Purity in the Christian Life - [PDF] The apostle Paul told Timothy, \"Keep yourself pure...\" Good advice for all of us. A study of KATHAROS. ",
-        "pdf": "Purity.pdf",
-        "title": "Purity in the Christian Life"
+        "pdf": "purity.pdf",
+        "title": "Purity in the Christian Life",
+        "filename": "purity.md"
     },
     {
         "description": " Puteoli - [PDF] A maritime city of Campania in Italy where Paul landed on his voyage to Rome; the modern name is Pozzuoli. [AUG 2014] ",
         "pdf": "puteoli.pdf",
-        "title": "Puteoli"
+        "title": "Puteoli",
+        "filename": "puteoli.md"
     },
     {
         "description": "brief biography of the Greek mathematician, Born: about 569 BC in Samos, Ionia. ",
-        "pdf": "Pythagoras.pdf",
-        "title": "Pythagoras"
+        "pdf": "pythagoras.pdf",
+        "title": "Pythagoras",
+        "filename": "pythagoras.md"
     },
     {
         "description": "an exposition of Titus 1:5-9. ",
-        "pdf": "QualificationsForMinisters.pdf",
-        "title": "Qualifications for Ministers"
+        "pdf": "qualificationsforministers.pdf",
+        "title": "Qualifications for Ministers",
+        "filename": "qualifications-for-ministers.md"
     },
     {
         "description": " Rabbinical Exegesis - [PDF] -from Talmud scholars, a brief description of the rules to be observed in deducing Halakhah (Jewish law) from the texts of Scripture. ",
-        "pdf": "RabbinicalExegesis.pdf",
-        "title": "Rabbinical Exegesis"
+        "pdf": "rabbinicalexegesis.pdf",
+        "title": "Rabbinical Exegesis",
+        "filename": "rabbinical-exegesis.md"
     },
     {
         "description": "Until the formation of the later Rabbinical colleges, which flourished after the Jews were driven from Jerusalem, the instruction in the divinity schools seems to have been chiefly oral. ",
         "pdf": "rabbinicalschools.pdf",
-        "title": "Rabbinical Schools"
+        "title": "Rabbinical Schools",
+        "filename": "rabbinicalschools.md"
     },
     {
         "description": " Rahab and the Grace of God - [PDF] Rahab, Salmon's wife, Ruth's mother-in-law, David's great-great-grandmother, a trophy to the Grace of God. ",
-        "pdf": "Rahab.pdf",
-        "title": "Rahab and the Grace of God"
+        "pdf": "rahab.pdf",
+        "title": "Rahab and the Grace of God",
+        "filename": "rahab.md"
     },
     {
         "description": " Rapture, The - [PDF] A description of the carrying away of believers at the end of the Church Age; a comparison between Rapture and Second Coming events. ",
-        "pdf": "Rapture.pdf",
-        "title": "Rapture, The"
+        "pdf": "rapture.pdf",
+        "title": "Rapture, The",
+        "filename": "rapture.md"
     },
     {
         "description": " Reconciliation - [PDF] How God the Father changes (reconciles) us to His own standards and righteousness. ",
-        "pdf": "Reconciliation.pdf",
-        "title": "Reconciliation"
+        "pdf": "reconciliation.pdf",
+        "title": "Reconciliation",
+        "filename": "reconciliation.md"
     },
     {
         "description": "When a person became ceremonially unclean by some contact with an unclean animal or person or by contact with a dead person, he was required to go through a ritual cleansing. comprehensive study of the doctrine showing how the Lord deals with recalcitrant and implacable Christians. ",
-        "pdf": "RedHeiferOffering.pdf",
-        "title": "Red Heifer Offering"
+        "pdf": "redheiferoffering.pdf",
+        "title": "Red Heifer Offering",
+        "filename": "red-heifer-offering.md"
     },
     {
         "description": " Redeeming the Time - [PDF] A Christian is obliged to make the most of time here on earth, living with eternity's values in view. ",
-        "pdf": "RedeemingTime.pdf",
-        "title": "Redeeming the Time"
+        "pdf": "redeemingtime.pdf",
+        "title": "Redeeming the Time",
+        "filename": "redeeming-time.md"
     },
     {
         "description": " Redemption - [PDF] A study of the doctrine of redemption, God's special intervention for the salvation of mankind. ",
-        "pdf": "Redemption.pdf",
-        "title": "Redemption"
+        "pdf": "redemption.pdf",
+        "title": "Redemption",
+        "filename": "redemption.md"
     },
     {
         "description": " Refreshment - [PDF] Romans 15:32 says, \"So that by God's will I may come to you with joy and together with you be refreshed.\" ",
-        "pdf": "Refreshment.pdf",
-        "title": "Refreshment"
+        "pdf": "refreshment.pdf",
+        "title": "Refreshment",
+        "filename": "refreshment.md"
     },
     {
         "description": " Regeneration - [PDF] What does it mean to be born again? A discussion of the words referring to a believer's new life in Christ. ",
-        "pdf": "Regeneration.pdf",
-        "title": "Regeneration"
+        "pdf": "regeneration.pdf",
+        "title": "Regeneration",
+        "filename": "regeneration.md"
     },
     {
         "description": " Religions of the World - [PDF] Brief descriptions of the major non-Christian religions of the world, including Hinduism, Islam, Buddhism, Jainism, Shinto, Zoroastrianism, Taoism, and Confucianism. ",
-        "pdf": "Religions.pdf",
-        "title": "Religions of the World"
+        "pdf": "religions.pdf",
+        "title": "Religions of the World",
+        "filename": "religions.md"
     },
     {
         "description": "\"Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and you shall receive the gift of the Holy Spirit.\" ",
         "pdf": "repentance.pdf",
-        "title": "Repentance"
+        "title": "Repentance",
+        "filename": "repentance.md"
     },
     {
         "description": "The present responsibilities of those who wait for the Kingdom of Christ. ",
-        "pdf": "Responsibility.pdf",
-        "title": "Responsibility"
+        "pdf": "responsibility.pdf",
+        "title": "Responsibility",
+        "filename": "responsibility.md"
     },
     {
         "description": "After the Second Advent of Christ, He will assemble and restore Israel. ",
-        "pdf": "Restoration.pdf",
-        "title": "Restoration of the Jews"
+        "pdf": "restoration.pdf",
+        "title": "Restoration of the Jews",
+        "filename": "restoration.md"
     },
     {
         "description": " Resurrection of Christ - [PDF] An outline study of the main features of the resurrection of Christ, including a description of the resurrection body of Christ and the events surrounding the resurrection. ",
-        "pdf": "Resurrection.pdf",
-        "title": "Resurrection of Christ"
+        "pdf": "resurrection.pdf",
+        "title": "Resurrection of Christ",
+        "filename": "resurrection.md"
     },
     {
         "description": "a comprehensive study of the doctrine showing how the Lord deals with recalcitrant and implacable Christians. ",
-        "pdf": "Reversionism.pdf",
-        "title": "Reversionism"
+        "pdf": "reversionism.pdf",
+        "title": "Reversionism",
+        "filename": "reversionism.md"
     },
     {
-        "description": "A city on the east side of the Sicilian Straits, the modern Reggio di Calabria, where Paul\u2019s ship stopped on the way to Rome. ",
+        "description": "A city on the east side of the Sicilian Straits, the modern Reggio di Calabria, where Paul’s ship stopped on the way to Rome. ",
         "pdf": "rhegium.pdf",
-        "title": "Rhegium"
+        "title": "Rhegium",
+        "filename": "rhegium.md"
     },
     {
         "description": "The capital city of Rhodes is mentioned in Acts 21:1 as one of Paul's stopping places on his final journey to Jerusalem. Though the port city had once been one of the most powerful commercial centers of the Mediterranean, by the time of Paul's visit it was little more than a beautiful city with a glorious past. ",
-        "pdf": "Rhodes.pdf",
-        "title": "Rhodes"
+        "pdf": "rhodes.pdf",
+        "title": "Rhodes",
+        "filename": "rhodes.md"
     },
     {
         "description": "a description of the roads Paul probably traveled from Jerusalem to Damascus. ",
-        "pdf": "Roads_JerusalemToDamascus.pdf",
-        "title": "Roads - Jerusalem to Damascus"
+        "pdf": "roads_jerusalemtodamascus.pdf",
+        "title": "Roads - Jerusalem to Damascus",
+        "filename": "roads-jerusalem-to-damascus.md"
     },
     {
         "description": "Scriptures referring to Jesus Christ as the Rock. ",
-        "pdf": "ChristTheRock.pdf",
-        "title": "Rock, Jesus Christ the Rock"
+        "pdf": "christtherock.pdf",
+        "title": "Rock, Jesus Christ the Rock",
+        "filename": "christ-the-rock.md"
     },
     {
         "description": "from Vegetius, Epitome of Military Science. ",
-        "pdf": "RomanArmy_SoldierTraining.pdf",
-        "title": "Roman Army, Soldier Training"
+        "pdf": "romanarmy_soldiertraining.pdf",
+        "title": "Roman Army, Soldier Training",
+        "filename": "roman-army-soldier-training.md"
     },
     {
         "description": "Great development had been given to commerce by the consolidation of the Roman Empire. ",
         "pdf": "roman-commerce.pdf",
-        "title": "Roman Commerce"
+        "title": "Roman Commerce",
+        "filename": "roman-commerce.md"
     },
     {
         "description": " Roman History - [PDF] An outline history of the period of time leading up to the birth of Christ; The Republic, the Punic Wars, the rise of the Caesars; the city of Rome in New Testament times; the Catacombs. ",
-        "pdf": "RomanHistory.pdf",
-        "title": "Roman History"
+        "pdf": "romanhistory.pdf",
+        "title": "Roman History",
+        "filename": "roman-history.md"
     },
     {
         "description": "a list of the men who ruled Rome from its founding in 754 BC until the beginning of the Roman Republic. ",
-        "pdf": "RomanKings.pdf",
-        "title": "Roman Kings"
+        "pdf": "romankings.pdf",
+        "title": "Roman Kings",
+        "filename": "roman-kings.md"
     },
     {
         "description": "The source of Roman law is the family or gens. The proprietary rights of the pater familias as head of this primitive unit of organization are fundamental in private law, and the scope of the criminal jurisdiction of the state was limited by the power of life and death exercised by the head of the family over those under his authority. ",
-        "pdf": "RomanLaw.pdf",
-        "title": "Roman Law"
+        "pdf": "romanlaw.pdf",
+        "title": "Roman Law",
+        "filename": "roman-law.md"
     },
     {
         "description": " Roman Names - The names of Roman citizens had four parts. Paul's Roman name was Saulus Benjaminus Tarsus Paulus. ",
         "pdf": "",
-        "title": "Roman Names"
+        "title": "Roman Names",
+        "filename": "roman-names.md"
     },
     {
         "description": "an extended account of the persecution of Christians by the Romans, and details of the siege and destruction of Jerusalem in 70 AD. ",
-        "pdf": "RomanPersecution.pdf",
-        "title": "Roman Persecution"
+        "pdf": "romanpersecution.pdf",
+        "title": "Roman Persecution",
+        "filename": "roman-persecution.md"
     },
     {
         "description": "from the time when Augustus united the world under his own power, the provinces were divided into two different classes. ",
-        "pdf": "RomanProvincialSystem.pdf",
-        "title": "Roman Provincial System"
+        "pdf": "romanprovincialsystem.pdf",
+        "title": "Roman Provincial System",
+        "filename": "roman-provincial-system.md"
     },
     {
         "description": "translation of Romans by C&H, extensive comments and footnotes. ",
-        "pdf": "Romans_Conybeare&Howson.pdf",
-        "title": "Romans - Conybeare and Howson"
+        "pdf": "romans_conybeare&howson.pdf",
+        "title": "Romans - Conybeare and Howson",
+        "filename": "romans-conybeare-and-howson.md"
     },
     {
         "description": " Rome in BibleTimes - [PDF] -what was the city of Rome like in the times of the early church? ",
-        "pdf": "RomeInBibleTimes.pdf",
-        "title": "Rome in BibleTimes"
+        "pdf": "romeinbibletimes.pdf",
+        "title": "Rome in BibleTimes",
+        "filename": "rome-in-bible-times.md"
     },
     {
         "description": "description of Paul's journey to Rome and his sojourn there, places and events.. ",
-        "pdf": "Rome_PaulsJourney.pdf",
-        "title": "Rome, Paul's Journey to"
+        "pdf": "rome_paulsjourney.pdf",
+        "title": "Rome, Paul's Journey to",
+        "filename": "rome-pauls-journey.md"
     },
     {
         "description": "The importance of the Sabbath in Jewish life is stressed from the story of Creation in Genesis, to the Ten Commandments, which state that people are to refrain from labor on the 7th day. ",
-        "pdf": "JewishTeaching_Sabbath.pdf",
-        "title": "Sabbath, Jewish Teaching"
+        "pdf": "jewishteaching_sabbath.pdf",
+        "title": "Sabbath, Jewish Teaching",
+        "filename": "jewish-teaching-sabbath.md"
     },
     {
         "description": "The first of the revelations of God to the people of Israel related to the sacrifices, in which the Israelites were to draw near to Him, that they might become partakers of His grace. ",
-        "pdf": "Sacrifices.pdf",
-        "title": "Sacrifices in the Old Testament"
+        "pdf": "sacrifices.pdf",
+        "title": "Sacrifices in the Old Testament",
+        "filename": "sacrifices.md"
     },
     {
         "description": "brief article describing this sect. ",
-        "pdf": "Sadducees.pdf",
-        "title": "Sadducees"
+        "pdf": "sadducees.pdf",
+        "title": "Sadducees",
+        "filename": "sadducees.md"
     },
     {
         "description": "the city on Cyprus, visited by Paul and Barnabus. Traditional place where Barnabas, a native of Cyprus, was martyred. ",
-        "pdf": "Salamis.pdf",
-        "title": "Salamis"
+        "pdf": "salamis.pdf",
+        "title": "Salamis",
+        "filename": "salamis.md"
     },
     {
         "description": " Salvation Doctrines - [PDF] Teaching about our union with Christ; and a listing, with verses, of more than 50 basic doctrines of the Bible which describe all that happens to a believer at the moment of salvation. ",
-        "pdf": "SalvationDoctrines.pdf",
-        "title": "Salvation Doctrines"
+        "pdf": "salvationdoctrines.pdf",
+        "title": "Salvation Doctrines",
+        "filename": "salvation-doctrines.md"
     },
     {
         "description": " Salvation in the Old Testament - [PDF] How people got saved before the death of Christ on the Cross. ",
-        "pdf": "SalvationOT.pdf",
-        "title": "Salvation in the Old Testament"
+        "pdf": "salvationot.pdf",
+        "title": "Salvation in the Old Testament",
+        "filename": "salvation-ot.md"
     },
     {
         "description": "a brief but thorough political history of Samaria. ",
-        "pdf": "Samaria.pdf",
-        "title": "Samaria"
+        "pdf": "samaria.pdf",
+        "title": "Samaria",
+        "filename": "samaria.md"
     },
     {
         "description": "exposition of John 4:1-42; Christ's dealings with a troubled woman. ",
-        "pdf": "SamaritanWoman.pdf",
-        "title": "Samaritan Woman"
+        "pdf": "samaritanwoman.pdf",
+        "title": "Samaritan Woman",
+        "filename": "samaritan-woman.md"
     },
     {
         "description": "When Paul \"touched\" here after passing Chios on returning from his third missionary journey (Acts 20:15), Samos was a \"free city\" in the province of Asia. ",
-        "pdf": "Samos.pdf",
-        "title": "Samos"
+        "pdf": "samos.pdf",
+        "title": "Samos",
+        "filename": "samos.md"
     },
     {
         "description": "From Commentary on the Old Testament, Leviticus 13 to 16, by C. F. Keil and F. Delitzsch. ",
-        "pdf": "Samson.pdf",
-        "title": "Samson"
+        "pdf": "samson.pdf",
+        "title": "Samson",
+        "filename": "samson.md"
     },
     {
         "description": "Introduction to the books of Samuel, from Commentary on the Old Testament, by C. F. Keil and F. Delitzsch ",
-        "pdf": "Samuel_Introduction.pdf",
-        "title": "Samuel, Introduction"
+        "pdf": "samuel_introduction.pdf",
+        "title": "Samuel, Introduction",
+        "filename": "samuel-introduction.md"
     },
     {
         "description": "a brief description and history of this ruling Jewish organization. ",
-        "pdf": "Sanhedrin.pdf",
-        "title": "Sanhedrin"
+        "pdf": "sanhedrin.pdf",
+        "title": "Sanhedrin",
+        "filename": "sanhedrin.md"
     },
     {
         "description": "The New Persians. A thoroughly researched study by George Rawlinson, from The Seven Great Monarchies of the Ancient Eastern World. ",
         "pdf": "sassanians(rawlinson).pdf",
-        "title": "Sassanians - Rawlinson"
+        "title": "Sassanians - Rawlinson",
+        "filename": "sassanians-rawlinson.md"
     },
     {
         "description": " Satan - [PDF] What the Bible says about Satan and his strategies. ",
-        "pdf": "Satan.pdf",
-        "title": "Satan"
+        "pdf": "satan.pdf",
+        "title": "Satan",
+        "filename": "satan.md"
     },
     {
         "description": " Saul - [PDF] The son of Kish of the tribe of Benjamin, the first king of Israel. [FEB 13] ",
-        "pdf": "Saul.pdf",
-        "title": "Saul"
+        "pdf": "saul.pdf",
+        "title": "Saul",
+        "filename": "saul.md"
     },
     {
         "description": " Second Advent of Christ - [PDF] ",
-        "pdf": "SecondAdvent.pdf",
-        "title": "Second Advent of Christ"
+        "pdf": "secondadvent.pdf",
+        "title": "Second Advent of Christ",
+        "filename": "second-advent.md"
     },
     {
         "description": "by Paton James Gloag, minister of the Parish of Dunning, Blantyre and Galashiels, early 20th century. \"The greatest care and caution are necessary in examining the evidences of our conversion. We ought to exercise a holy jealousy over ourselves, and to avoid arriving at any definite conclusion as to the safety of our condition, except on sure and scriptural grounds.\" ",
-        "pdf": "SelfDeception.pdf",
-        "title": "Self Deception"
+        "pdf": "selfdeception.pdf",
+        "title": "Self Deception",
+        "filename": "self-deception.md"
     },
     {
         "description": "King of Assyria and Babylonia (705-681 B.C.), son of Sargon II and father of Esarhaddon. He besieged Jerusalem in the days of Hezekiah. ",
-        "pdf": "Sennacherib.pdf",
-        "title": "Sennacherib"
+        "pdf": "sennacherib.pdf",
+        "title": "Sennacherib",
+        "filename": "sennacherib.md"
     },
     {
         "description": " Separation - [PDF] A Christian lives in the world, but is not \"of\" it. ",
-        "pdf": "Separation.pdf",
-        "title": "Separation"
+        "pdf": "separation.pdf",
+        "title": "Separation",
+        "filename": "separation.md"
     },
     {
         "description": "Septuagint (sometimes abbreviated LXX) is the name given to the Greek translation of the Jewish Scriptures. ",
-        "pdf": "Septuagint.pdf",
-        "title": "Septuagint"
+        "pdf": "septuagint.pdf",
+        "title": "Septuagint",
+        "filename": "septuagint.md"
     },
     {
         "description": "the Roman official whom Paul and Barnabas met in Cyprus on their first missionary journey. ",
-        "pdf": "SergiusPaulus.pdf",
-        "title": "Sergius Paulus"
+        "pdf": "sergiuspaulus.pdf",
+        "title": "Sergius Paulus",
+        "filename": "sergius-paulus.md"
     },
     {
         "description": " Servants and Slaves - [PDF] A description of the condition and treatment of servants and slaves in Bible times. ",
-        "pdf": "ServantsSlaves.pdf",
-        "title": "Servants and Slaves"
+        "pdf": "servantsslaves.pdf",
+        "title": "Servants and Slaves",
+        "filename": "servants-slaves.md"
     },
     {
         "description": " Servants of God - [PDF] God commands Christians to be faithful and obedient servants. ",
-        "pdf": "Servants.pdf",
-        "title": "Servants of God"
+        "pdf": "servants.pdf",
+        "title": "Servants of God",
+        "filename": "servants.md"
     },
     {
         "description": "history of the first twelve Emperors of the Roman Empire. ",
-        "pdf": "Seutonius_TwelveCaesars.pdf",
-        "title": "Seutonius - the Twelve Caesars"
+        "pdf": "seutonius_twelvecaesars.pdf",
+        "title": "Seutonius - the Twelve Caesars",
+        "filename": "seutonius-twelve-caesars.md"
     },
     {
         "description": " Sexual Health in the Bible - [PDF] Extensive study of what the Bible says about non-marital sexual activity. ",
-        "pdf": "SexualHealth.pdf",
-        "title": "Sexual Health in the Bible"
+        "pdf": "sexualhealth.pdf",
+        "title": "Sexual Health in the Bible",
+        "filename": "sexual-health.md"
     },
     {
         "description": " Shepherds of the Flock of God - [PDF] the qualifications and duties of spiritual shepherds; Jehovah as Shepherd; Jesus Christ as the Good Shepherd. ",
-        "pdf": "Shepherds.pdf",
-        "title": "Shepherds of the Flock of God"
+        "pdf": "shepherds.pdf",
+        "title": "Shepherds of the Flock of God",
+        "filename": "shepherds.md"
     },
     {
         "description": " Ships and Navigation - [PDF] the ships and navigation techniques of ancient times, especially relating to the voyages of Paul. [AUG 2014] ",
         "pdf": "ships-and-navigation.pdf",
-        "title": "Ships and Navigation"
+        "title": "Ships and Navigation",
+        "filename": "ships-and-navigation.md"
     },
     {
-        "description": " Sidon - [PDF] A city-state on the Mediterranean coast, 40 km (25 mi) N of Tyre, the modern city of \u1e62aida\u02be. [AUG 2014] ",
+        "description": " Sidon - [PDF] A city-state on the Mediterranean coast, 40 km (25 mi) N of Tyre, the modern city of Ṣaidaʾ. [AUG 2014] ",
         "pdf": "sidon.pdf",
-        "title": "Sidon"
+        "title": "Sidon",
+        "filename": "sidon.md"
     },
     {
         "description": " Sin, Doctrine of - [PDF] a comprehensive topic study of the Doctrine of Sin. ",
-        "pdf": "Sin.pdf",
-        "title": "Sin, Doctrine of"
+        "pdf": "sin.pdf",
+        "title": "Sin, Doctrine of",
+        "filename": "sin.md"
     },
     {
         "description": "the Greek words for all the sins mentioned in the New Testament. ",
-        "pdf": "SIN_GreekWords.pdf",
-        "title": "Sin, Greek Words"
+        "pdf": "sin_greekwords.pdf",
+        "title": "Sin, Greek Words",
+        "filename": "sin-greek-words.md"
     },
     {
         "description": "Sin Nature: part of the essence of the soul acquired at Adam's fall and passed on to every person at birth. ",
-        "pdf": "SinNature.pdf",
-        "title": "Sin Nature"
+        "pdf": "sinnature.pdf",
+        "title": "Sin Nature",
+        "filename": "sin-nature.md"
     },
     {
         "description": "The final stage of divine discipline - with examples. ",
-        "pdf": "SINUNTODEATH.pdf",
-        "title": "Sin Unto Death"
+        "pdf": "sinuntodeath.pdf",
+        "title": "Sin Unto Death",
+        "filename": "sin-unto-death.md"
     },
     {
         "description": "One of the worst sins; how to recognize it; how to have victory! ",
-        "pdf": "SinsOfTheTongue.pdf",
-        "title": "Sins of the Tongue"
+        "pdf": "sinsofthetongue.pdf",
+        "title": "Sins of the Tongue",
+        "filename": "sins-of-the-tongue.md"
     },
     {
         "description": "Son of David and third king of Israel. ",
-        "pdf": "Solomon.pdf",
-        "title": "Solomon"
+        "pdf": "solomon.pdf",
+        "title": "Solomon",
+        "filename": "solomon.md"
     },
     {
         "description": "Man is aware of his own existence and is able to relate to both animate and inanimate life on earth. ",
-        "pdf": "Soul.pdf",
-        "title": "Soul, The Human"
+        "pdf": "soul.pdf",
+        "title": "Soul, The Human",
+        "filename": "soul.md"
     },
     {
         "description": "an excellent study of the first martyr! ",
-        "pdf": "Stephen.pdf",
-        "title": "Stephen"
+        "pdf": "stephen.pdf",
+        "title": "Stephen",
+        "filename": "stephen.md"
     },
     {
         "description": "the divine power which is given to each Christian at the time of salvation. ",
-        "pdf": "HolySpirit_SpiritualGifts.pdf",
-        "title": "Spiritual Gifts"
+        "pdf": "holyspirit_spiritualgifts.pdf",
+        "title": "Spiritual Gifts",
+        "filename": "holy-spirit-spiritual-gifts.md"
     },
     {
         "description": "The advanced Christian, the person who has \"attained to the unity of the faith, and of the knowledge of the Son of God, to a mature man, to the measure of the stature which belongs to the fullness of Christ,\" has completed basic preparation, is standing firm, and is ready to be promoted into mature production in the Lord. ",
-        "pdf": "Standing.pdf",
-        "title": "Standing"
+        "pdf": "standing.pdf",
+        "title": "Standing",
+        "filename": "standing.md"
     },
     {
         "description": "the only direct reference to the Stoics in the Bible occurs in Acts 17:18, where Paul is reported to have addressed Epicurean and Stoic philosophers in Athens. ",
-        "pdf": "Stoicism.pdf",
-        "title": "Stoicism"
+        "pdf": "stoicism.pdf",
+        "title": "Stoicism",
+        "filename": "stoicism.md"
     },
     {
         "description": " Substitution - [PDF] The unlimited substitutionary atonement for sin. Christ bore our sins in His own body... ",
-        "pdf": "Substitution.pdf",
-        "title": "Substitution"
+        "pdf": "substitution.pdf",
+        "title": "Substitution",
+        "filename": "substitution.md"
     },
     {
         "description": " Suffering - [PDF] A discussion of the suffering experienced by believers and unbelievers; deserved and undeserved suffering; how to avoid some forms of suffering; suffering for blessing. ",
-        "pdf": "Suffering.pdf",
-        "title": "Suffering"
+        "pdf": "suffering.pdf",
+        "title": "Suffering",
+        "filename": "suffering.md"
     },
     {
         "description": "a discussion of the makeup and organization of synagogues in the times of the early church; from Sketches of Jewish Social Life, by Alfred Edersheim, Chapters 16 and 17; also from Conybeare and Howson, The Life and Epistles of St. Paul. ",
-        "pdf": "Synagogues.pdf",
-        "title": "Synagogues"
+        "pdf": "synagogues.pdf",
+        "title": "Synagogues",
+        "filename": "synagogues.md"
     },
     {
         "description": "A city on the east coast of Sicily, about midway between Catania and the southeastern extremity of the island; Paul stopped there three days on his voyage from Malta to Rome (Acts 28:12). ",
         "pdf": "syracuse.pdf",
-        "title": "Syracuse"
+        "title": "Syracuse",
+        "filename": "syracuse.md"
     },
     {
         "description": " Tabernacle Furniture - [PDF] A description of function and typology of the laver, candlesticks, table of bread, altar of incense, veil, and ark of the covenant. ",
-        "pdf": "TabernacleFurniture.pdf",
-        "title": "Tabernacle Furniture"
+        "pdf": "tabernaclefurniture.pdf",
+        "title": "Tabernacle Furniture",
+        "filename": "tabernacle-furniture.md"
     },
     {
         "description": "How can Israelites on the Sabbath move about from one private domain to another? By use of an eruv, symbolic food that legally commingles privately owned domains. ",
-        "pdf": "Talmud_Eruvin.pdf",
-        "title": "Talmud: Eruvin"
+        "pdf": "talmud_eruvin.pdf",
+        "title": "Talmud: Eruvin",
+        "filename": "talmud-eruvin.md"
     },
     {
         "description": "what the Talmud teaches about Jesus Christ, the founder of Christianity; and about his followers, the Christians. ",
-        "pdf": "Talmud_OnChrist.pdf",
-        "title": "Talmud: On Christ"
+        "pdf": "talmud_onchrist.pdf",
+        "title": "Talmud: On Christ",
+        "filename": "talmud-on-christ.md"
     },
     {
         "description": "The name \"Talmud\" means \"teaching\" or \"study\" and refers to the oral law which has been taught to the children of Israel since the time of Moses. ",
         "pdf": "talmudhistory.pdf",
-        "title": "Talmud, Origins"
+        "title": "Talmud, Origins",
+        "filename": "talmud-history.md"
     },
     {
         "description": " Talmud, Organization - [PDF] -The rabbis of the 2nd and 3rd centuries after Christ organized the Talmud in the form we find it today. ",
-        "pdf": "Talmud_Organization.pdf",
-        "title": "Talmud, Organization"
+        "pdf": "talmud_organization.pdf",
+        "title": "Talmud, Organization",
+        "filename": "talmud-organization.md"
     },
     {
         "description": "the portion of the Talmud dealing with Sabbath categories of work. (Order Moed, Tractate Shabbath, Chapter 7) ",
-        "pdf": "Talmud_TractateShabbath.pdf",
-        "title": "Talmud, Tractate Shabbath"
+        "pdf": "talmud_tractateshabbath.pdf",
+        "title": "Talmud, Tractate Shabbath",
+        "filename": "talmud-tractate-shabbath.md"
     },
     {
         "description": "The rabbis of the 2nd and 3rd centuries after Christ organized the Talmud in the form we find it today. ",
-        "pdf": "Talmud_Structure.pdf",
-        "title": "Talmud, Structure of"
+        "pdf": "talmud_structure.pdf",
+        "title": "Talmud, Structure of",
+        "filename": "talmud-structure.md"
     },
     {
         "description": "A study of the mission of the local church with respect to \"feeding the flock\". ",
-        "pdf": "TeachingInLocalChurch.pdf",
-        "title": "Teaching in the Local Church"
+        "pdf": "teachinginlocalchurch.pdf",
+        "title": "Teaching in the Local Church",
+        "filename": "teaching-in-local-church.md"
     },
     {
         "description": "from Edersheim, Alfred, \"Sketches of Jewish Social Life\", Appendix I. ",
-        "pdf": "TempleMeasurement.pdf",
-        "title": "Temple: Description and Measurements"
+        "pdf": "templemeasurement.pdf",
+        "title": "Temple: Description and Measurements",
+        "filename": "temple-measurement.md"
     },
     {
         "description": " Theology of Biblical Criticism - [PDF] [MAR 2013] ",
-        "pdf": "TheologyBiblicalCriticism.pdf",
-        "title": "Theology of Biblical Criticism"
+        "pdf": "theologybiblicalcriticism.pdf",
+        "title": "Theology of Biblical Criticism",
+        "filename": "theology-biblical-criticism.md"
     },
     {
         "description": "the second city in Europe to hear the preaching voice of St. Paul, and probably the first church to receive an epistle from him.. ",
         "pdf": "thessalonica.pdf",
-        "title": "Thessalonica"
+        "title": "Thessalonica",
+        "filename": "thessalonica.md"
     },
     {
         "description": "location of one of the seven local churches of Revelation; home of Lydia, the seller of purple. ",
-        "pdf": "Thyatira.pdf",
-        "title": "Thyatira"
+        "pdf": "thyatira.pdf",
+        "title": "Thyatira",
+        "filename": "thyatira.md"
     },
     {
         "description": "Thorns are associated with the curse of mankind and nature at the time of the Fall. Man has to contend with thorns in his work and in his spiritual life. ",
         "pdf": "thorns.pdf",
-        "title": "Thorns"
+        "title": "Thorns",
+        "filename": "thorns.md"
     },
     {
         "description": "a brief biography of Paul's companion. ",
-        "pdf": "Timothy.pdf",
-        "title": "Timothy"
+        "pdf": "timothy.pdf",
+        "title": "Timothy",
+        "filename": "timothy.md"
     },
     {
         "description": "this PDF file has the book of Titus in three parallel columns; this allows for comparing these three versions while you are studying. ",
-        "pdf": "TITUS_KJV-NAS-NIV.pdf",
-        "title": "Titus in Three Versions (KJV, NASB, and NIV)"
+        "pdf": "titus_kjv-nas-niv.pdf",
+        "title": "Titus in Three Versions (KJV, NASB, and NIV)",
+        "filename": "titus-kjv-nas-niv.md"
     },
     {
         "description": "In its most limited sense, \"Torah\" refers to the Five Books of Moses: Genesis, Exodus, Leviticus, Numbers and Deuteronomy. But the word \"torah\" can also be used to refer to the entire Jewish bible (the body of scripture known to non-Jews as the Old Testament and to Jews as the Tanakh or Written Torah), or in its broadest sense, to the whole body of Jewish law and teachings. ",
-        "pdf": "JewishTeaching_Torah.pdf",
-        "title": "Torah, Jewish Teachings on"
+        "pdf": "jewishteaching_torah.pdf",
+        "title": "Torah, Jewish Teachings on",
+        "filename": "jewish-teaching-torah.md"
     },
     {
         "description": "Its Origin, Character, and Literature, the Mishnah And Talmud - from Alfred Edersheim, \"The Life and Times of Jesus the Messiah\" ",
         "pdf": "traditionalism.pdf",
-        "title": "Traditionalism"
+        "title": "Traditionalism",
+        "filename": "traditionalism.md"
     },
     {
         "description": "The doctrine of the trinity recognizes God as being one in essence but three persons who possess equal, perfect, eternal and infinite identical essence. ",
-        "pdf": "Trinity.pdf",
-        "title": "Trinity"
+        "pdf": "trinity.pdf",
+        "title": "Trinity",
+        "filename": "trinity.md"
     },
     {
         "description": "On the second missionary journey, Paul and Silas came to Troas after being forbidden to preach the Word of God in Asia (Acts 16:6). ",
-        "pdf": "Troas.pdf",
-        "title": "Troas"
+        "pdf": "troas.pdf",
+        "title": "Troas",
+        "filename": "troas.md"
     },
     {
         "description": " Truth - [PDF] The Word of God is Truth; examples of eagerness for God's truth. ",
-        "pdf": "Truth.pdf",
-        "title": "Truth"
-    },
-    {
-        "description": "brief biographies of the first twelve emperors of the Roman Empire, by Seutonius. ",
-        "pdf": "TwelveCaesars(Seutonius).pdf",
-        "title": "Twelve Caesars"
+        "pdf": "truth.pdf",
+        "title": "Truth",
+        "filename": "truth.md"
     },
     {
         "description": "\"All these are the twelve tribes of Israel, and this is what their father said to them when he blessed them. He blessed them, every one with the blessing appropriate to him.\" (Gen. 49:28). ",
-        "pdf": "TwelveTribes.pdf",
-        "title": "Twelve Tribes of Israel"
+        "pdf": "twelvetribes.pdf",
+        "title": "Twelve Tribes of Israel",
+        "filename": "twelve-tribes.md"
     },
     {
         "description": "When Paul and Barnabas traveled from Antioch to Jerusalem, they went through Phoenicia to tell the believers how God had brought Gentiles to faith (Acts 15:3). ",
-        "pdf": "Tyre.pdf",
-        "title": "Tyre"
+        "pdf": "tyre.pdf",
+        "title": "Tyre",
+        "filename": "tyre.md"
     },
     {
         "description": " Uncleanness in the Levitical System - [PDF] Notes on the concept of ceremonial uncleanness in the Old Testament Jewish system. ",
-        "pdf": "Uncleanness.pdf",
-        "title": "Uncleanness in the Levitical System"
+        "pdf": "uncleanness.pdf",
+        "title": "Uncleanness in the Levitical System",
+        "filename": "uncleanness.md"
     },
     {
         "description": " Union (davaq) - [PDF] a study of the Hebrew word DAVAQ, \"union\". ",
-        "pdf": "UnionDAVAQ.pdf",
-        "title": "Union (davaq)"
+        "pdf": "uniondavaq.pdf",
+        "title": "Union (davaq)",
+        "filename": "union-davaq.md"
     },
     {
         "description": " Union with Christ (Positional Truth) - [PDF] Teaching related to all of the benefits and responsibilities of being \"in Christ\". ",
-        "pdf": "UnionWithChrist.pdf",
-        "title": "Union with Christ (Positional Truth)"
+        "pdf": "unionwithchrist.pdf",
+        "title": "Union with Christ (Positional Truth)",
+        "filename": "union-with-christ.md"
     },
     {
         "description": "a brief description of Abraham's birthplace ",
-        "pdf": "Ur.pdf",
-        "title": "Ur of the Chaldees"
+        "pdf": "ur.pdf",
+        "title": "Ur of the Chaldees",
+        "filename": "ur.md"
     },
     {
         "description": " Walk, The Christian - [PDF] The Christian Walk; obedience to the command to \"walk worthy of the calling wherewith you are called\". [AUG 2014] ",
         "pdf": "walking.pdf",
-        "title": "Walk, The Christian"
+        "title": "Walk, The Christian",
+        "filename": "walking.md"
     },
     {
         "description": "an essay on Christian giving and support of Christian work, based on the Bible narrative of this story. ",
-        "pdf": "WidowsMite.pdf",
-        "title": "Widow's Mite"
+        "pdf": "widowsmite.pdf",
+        "title": "Widow's Mite",
+        "filename": "widows-mite.md"
     },
     {
         "description": "In the New Testament, a widow is a woman who has lost her husband by death or is divorced from her husband. ",
-        "pdf": "Widows.pdf",
-        "title": "Widows"
+        "pdf": "widows.pdf",
+        "title": "Widows",
+        "filename": "widows.md"
     },
     {
         "description": "from a discussion of Ephesians 6:15, \"And your feet shod with the preparation of the gospel of peace.\" ",
-        "pdf": "Witnessing.pdf",
-        "title": "Witnessing"
+        "pdf": "witnessing.pdf",
+        "title": "Witnessing",
+        "filename": "witnessing.md"
     },
     {
         "description": "The mental attitude sin of worry, its cause and cure. ",
-        "pdf": "Worry.pdf",
-        "title": "Worry, the Sin of"
+        "pdf": "worry.pdf",
+        "title": "Worry, the Sin of",
+        "filename": "worry.md"
     },
     {
         "description": " Workers, Qualifications for Christian - [PDF] A list of qualifications for every type of Christian worker, from personal worker to missionary to pastors and teachers. ",
-        "pdf": "WorkerQuals.pdf",
-        "title": "Workers, Qualifications for Christian"
+        "pdf": "workerquals.pdf",
+        "title": "Workers, Qualifications for Christian",
+        "filename": "worker-quals.md"
     },
     {
         "description": " Zacharias Presenting Incense in the Temple - [PDF] A description of the duties of the priest who was chosen by lot each day to perform the burning of incense in the Holy Place, as Zacharias did in Luke 1:5-25. ",
-        "pdf": "Zacharias.pdf",
-        "title": "Zacharias Presenting Incense in the Temple"
+        "pdf": "zacharias.pdf",
+        "title": "Zacharias Presenting Incense in the Temple",
+        "filename": "zacharias.md"
     },
     {
         "description": "the praise and prayer of Zacharias when his son, John the Baptist, was born. ",
-        "pdf": "ZachariasProphecy.pdf",
-        "title": "Zacharias' Prophecy"
+        "pdf": "zachariasprophecy.pdf",
+        "title": "Zacharias' Prophecy",
+        "filename": "zacharias-prophecy.md"
     },
     {
         "description": " one page study giving the Bible references and definitions for Zion, a word that means \"grace.\" ",
-        "pdf": "Zion.pdf",
-        "title": "Zion"
+        "pdf": "zion.pdf",
+        "title": "Zion",
+        "filename": "zion.md"
     }
 ]
