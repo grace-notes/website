@@ -7,10 +7,19 @@ block prepend title
   | #{ page.title + " - "}
 
 block header
-  h1= page.title
   include partials/menu
+  h1= page.title
+
 
 block content
+  if page.html.match("{:toc}")
+    h2 Table of Contents
+    ul.table-of-contents
+      - var headings = [], matches, re = /<h2[^>]*id="([^"]+)"[^>]*>([^<]*)<\/h2>/g
+      - while ((matches = re.exec(page.html)) !== null) { headings.push({ id: matches[1], title: matches[2] }); }
+      each heading in headings
+        li: a(href="#"+heading.id)= heading.title
+    
   article.article
     section.content!= typogr(page.html).typogrify()
 

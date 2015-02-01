@@ -4,7 +4,8 @@
     "typogr": "0.5.x",
     "underscore": "1.4.x",
     "wintersmith-coffee": "^0.2.2",
-    "wintersmith-sass": "^0.3.0"
+    "wintersmith-sass": "^0.3.0",
+    "wintersmith-showdown": "file:../../../../../tmp/npm-31666-9902ddf1/1422765878652-0.024021443212404847/24cb3539b23d3749cfcad90012f1d98d544d9868"
   },
   "repository": "none"
 }

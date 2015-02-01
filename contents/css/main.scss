@@ -12,7 +12,7 @@ body {
 }
 
 .content-wrap {
-  width: 34em;
+  max-width: 40em;
   margin: 0 auto;
 }
 
@@ -45,27 +45,43 @@ h1 {
 }
 
 h2 {
-  font-size: 1.2em;
-  font-weight: 400;
+  font-size: 1.5em;
+  font-weight: 600;
   line-height: 1.43;
   margin-bottom: 1.35em;
 }
 
 h3 {
   font-style: italic;
-  text-align: center;
-  font-weight: 400;
-  font-size: 1.4em;
+  font-weight: 600;
+  font-size: 1.3em;
   margin-top: 1.8em;
   margin-bottom: 0.8em;
+}
+
+h4 {
+  font-weight: 500;
+  font-size: 1.2em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
 }
 
 ol, ul {
   margin: 0 1.4em 1.4em 4em;
 }
 
+ul.table-of-contents {
+  list-style-type: none;
+  padding: 0 0 0 1em;
+  margin: 0;
+  li {
+    margin: 0 0 0.1em;
+  }
+}
+
 li {
   margin-bottom: 0.5em;
+  p:last-child { margin-bottom: 0; }
 }
 
 blockquote {
