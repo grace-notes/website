@@ -1,7 +1,7 @@
 ---
 title: "Gossip"
 pdf: "gossip.pdf"
-description: "Gossip -  In its biblical setting, \"gossip\" is used to designate the spreading of secrets or rumors, usually for the purpose of slander. [MAR 2013]"
+description: "Gossip -  In its biblical setting, \"gossip\" is used to designate the spreading of secrets or rumors, usually for the purpose of slander."
 template: lesson.jade
 ---
 

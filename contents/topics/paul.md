@@ -1,7 +1,7 @@
 ---
 title: "Paul the Apostle"
 pdf: "paul.pdf"
-description: "Paul the Apostle -  Paul's education and career. [AUG 2014]"
+description: "Paul the Apostle -  Paul's education and career."
 template: lesson.jade
 ---
 

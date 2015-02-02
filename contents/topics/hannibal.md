@@ -1,7 +1,7 @@
 ---
 title: "Hannibal"
 pdf: "hannibal.pdf"
-description: "Hannibal -  When Hannibal was twenty-eight years old he had received a soldier's training through nineteen years in camp. He had disciplined his body to hardship, his appetite to moderation, his tongue to silence, his thought to objectivity. [MAR 2013]"
+description: "Hannibal -  When Hannibal was twenty-eight years old he had received a soldier's training through nineteen years in camp. He had disciplined his body to hardship, his appetite to moderation, his tongue to silence, his thought to objectivity."
 template: lesson.jade
 ---
 

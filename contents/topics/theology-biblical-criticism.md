@@ -1,7 +1,7 @@
 ---
 title: "Theology of Biblical Criticism"
 pdf: "theologybiblicalcriticism.pdf"
-description: "Theology of Biblical Criticism -  [MAR 2013]"
+description: "Theology of Biblical Criticism - "
 template: lesson.jade
 ---
 

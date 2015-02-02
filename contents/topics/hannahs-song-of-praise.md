@@ -1,7 +1,7 @@
 ---
 title: "Hannah's Song of Praise"
 pdf: "hannahssongofpraise.pdf"
-description: "Hannah's Song of Praise -  The prayer in which Hannah poured out the feelings of her heart, after the dedication of her son to the Lord, is a song of praise of a prophetic and Messianic character. [MAR 2013]"
+description: "Hannah's Song of Praise -  The prayer in which Hannah poured out the feelings of her heart, after the dedication of her son to the Lord, is a song of praise of a prophetic and Messianic character."
 template: lesson.jade
 ---
 

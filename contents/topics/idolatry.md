@@ -1,7 +1,7 @@
 ---
 title: "Idolatry"
 pdf: "idolatry.pdf"
-description: "Idolatry -  an outline discussion of the various forms of idolatry prevalent in Old Testament and New Testament times. [MAR 2013]"
+description: "Idolatry -  an outline discussion of the various forms of idolatry prevalent in Old Testament and New Testament times."
 template: lesson.jade
 ---
 
