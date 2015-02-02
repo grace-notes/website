@@ -7,12 +7,11 @@ block prepend title
   | #{ page.title + " - "}
 
 block header
-  include partials/menu
   h1= page.title
 
 
 block content
-  if page.html.match("{:toc}")
+  if page.metadata.toc
     h2 Table of Contents
     ul.table-of-contents
       - var headings = [], matches, re = /<h2[^>]*id="([^"]+)"[^>]*>([^<]*)<\/h2>/g
@@ -21,7 +20,7 @@ block content
         li: a(href="#"+heading.id)= heading.title
     
   article.article
-    section.content!= typogr(page.html).typogrify()
+    section.content!= typogr(page.html).chain().amp().widont().smartypants().caps().initQuotes().value()
 
 block prepend footer
   div.nav

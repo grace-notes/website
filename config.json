@@ -24,6 +24,8 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 3
+    "perPage": 3,
+    "first": "blog/index.html",
+    "filename": "blog/%d/index.html"
   }
 }

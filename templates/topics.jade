@@ -1,7 +1,6 @@
 extends layout
 
 block header
-  include partials/menu
   h1 Topics Library
 
 block content
@@ -23,15 +22,20 @@ block content
       - id = initial
       - attributes.id = id
     article.listing&attributes(attributes)
-      header
-        h2
-          a(href=article.url)= article.title
-          | &nbsp;
+      header.clearfix
+        h2.pull-left= article.title
+        ul.nav.nav-pills.pull-right
+          if article.html
+            li: a(
+              href=article.url,
+              title="html view of "+article.title
+            ).label.label-info view html &nbsp;
+              i.fa.fa-file-code-o
           if article.metadata && article.metadata.pdf
-            big: a(
+            li: a(
               href="http://www.gracenotes.info/documents/TOPICS_DOC/"+article.metadata.pdf,
               title="pdf download of "+article.title
-            ).text-info.pull-right
+            ).label.label-info view pdf &nbsp;
               i.fa.fa-file-pdf-o
       if article.metadata && article.metadata.description
         p.text-muted.description= article.metadata.description

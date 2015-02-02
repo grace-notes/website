@@ -27,20 +27,17 @@ html(lang='en')
       script(src='//cdnjs.cloudflare.com/ajax/libs/xregexp/2.0.0/unicode-blocks.js')
 
   body(class=bodyclass)
-    header.header
-      div.content-wrap
-        block header
-          div.logo
-            h1
-              a(href=locals.url)= locals.name
-            p.description= locals.description
-          include partials/menu
+    include partials/menu
+    div.header.container
+      block header
+        h1= locals.name
+        p.description= locals.description
     div#content
-      div.content-wrap
+      div.container
         block content
           h2 Welcome to Grace Notes!
     footer
-      div.content-wrap
+      div.container
         block footer
           section.about
             !=contents['about.md'].html
