@@ -17,7 +17,7 @@ systematically thru Grace Notes.
 Uganda** [See full video of Pastor Martin's
 testimony](https://www.youtube.com/watch?v=mn1oAOEqn14)
 
-  
+<!-- -->
 
 > Grace Notes has done a great work in Zimbabwe and Africa at
 large. It has empowered ministers and churches. This program
@@ -28,7 +28,7 @@ GN.
 
 > **Pastor Mesuli Nkomo, Harare Zimbabwe**
 
-  
+<!-- -->
 
 > The Christian who does not understand what God has done in
 > the past, and who does not have faith in what God will do

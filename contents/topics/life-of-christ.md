@@ -59,7 +59,7 @@ might receive the full rights of sons.”
 **Know from the beginning that God’s timing is always right, and that He
 sent His Son at just the right moment in human history.**
 
-READ Isaiah 52:13 - 53:12
+READ Isaiah 52:13-53:12
 
 **Know from the beginning that the life of the Son of God was predicted
 for many hundreds of years, and know that He had a destiny of sorrow and

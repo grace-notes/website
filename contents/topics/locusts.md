@@ -5,20 +5,12 @@ description: "Locusts -  Four different types of locusts are mentioned in Joel 4
 template: lesson.jade
 ---
 
-
-**Local Church 2**
-
-Locusts  
-
-By Dr. Randall E. Radic, Pastor  
+*By Dr. Randall E. Radic, Pastor*[^1]  
 First Congregational Church  
 100 N. Acacia Avenue  
 Ripon, California 95336
 
-The Locusts [1]
-
-Four different types of locusts are mentioned by Joel in verse 4,
-chapter 1:
+Four different types of locusts are mentioned by Joel 1:4:
 
 1. gazam, which means ‘to cut off,’ and refers to the locusts that eat
 the tops off the stalks of plants. This type of locust has been called
@@ -38,7 +30,7 @@ king Sennacherib.
 
 4. chasil, which means ‘to devour,’ and denotes the locust that eats the
 root of the plant. And eschatologically, the term refers to Esar-haddon.
-[2]
+[^2]
 
 Locusts belong to the order called Orthoptera, and include grasshoppers.
 True locusts, or jumping grasshoppers are migratory and belong to the
@@ -49,19 +41,25 @@ sprayed insecticides and truck-mounted poisonous mist blowers. When
 locusts swarm, the numbers are estimated to be in the hundreds of
 millions.
 
-A few Scripture references are: “They came up with their livestock and
+A few Scripture references are:
+
+> “They came up with their livestock and
 their tents like swarms of locusts. It was impossible to count the men
 and their camels; they invaded the land to ravage it.” Judges 6:5.
 
-“They will chop down her forest,’ declares the Lord, ‘dense though it
+<!-- -->
+
+> “They will chop down her forest,’ declares the Lord, ‘dense though it
 be. They are more numerous than locusts, they cannot be counted.’”
 Jeremiah 46:23
 
-"Locusts have no king, yet they advance together in ranks.: Proverbs
+<!-- -->
+
+> "Locusts have no king, yet they advance together in ranks." Proverbs
 30:27
 
 To demonstrate how destructive locust infestations can be, Gustaf Dalman
-wrote: [3] “In Jerusalem the locusts appeared at that time in flights
+wrote: [^3] “In Jerusalem the locusts appeared at that time in flights
 lasting for hours, like clouds from the northeast and south, from the
 22nd to the 27th of March…..At the end of May and the beginning of Jude
 the first hatching of eggs, deposited by them into the ground, appeared
@@ -75,13 +73,13 @@ invade other regions.”
 
 NOTES:
 
-[1] Thieme, Robert. Joel; from notes. The designation and definition of
+[^1]: Thieme, Robert. Joel; from notes. The designation and definition of
 these terms was originally posed by Robert Thieme.
 
-[2] Isaiah 7-11 speak specifically of Tiglath-pileser III; Isaiah 20:1
+[^2]: Isaiah 7-11 speak specifically of Tiglath-pileser III; Isaiah 20:1
 speaks of Sargon II; and Isaiah 36-39 and II Kings 18 speak of
 Sennacherib. Esar-haddon is mentioned in Ezra 4:2.
 
-[3] Dalman, Gustaf. Arbeit 1/2, 393f (based on Israel Aharoni’s
+[^3]: Dalman, Gustaf. Arbeit 1/2, 393f (based on Israel Aharoni’s
 description of the locust plague of 1915-16).
 
