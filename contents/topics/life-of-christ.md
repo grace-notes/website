@@ -52,7 +52,7 @@ history.**
 has changed mine, and it will change yours if you will listen and
 believe.**
 
-> **Gal 4:45**, “But when the fullness of time had come, God sent his Son,
+> **Gal 4:4-5**, “But when the fullness of time had come, God sent his Son,
 born of a woman, born under law, to redeem those under law, that we
 might receive the full rights of sons.”
 
