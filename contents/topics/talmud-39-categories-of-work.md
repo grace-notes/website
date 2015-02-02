@@ -1,10 +1,10 @@
 ---
-title: Talmud 39Categories Of Work
+title: Talmud - 39 Categories Of Work
 template: lesson.jade
+description: Outline of the Talmud's categories of ritual work.
+toc: true
 ---
 
-
-**Talmud –**
 
 **The 39 Categories of Work Forbidden on the Sabbath**
 

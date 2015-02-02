@@ -1,14 +1,11 @@
 ---
-title: "Walk, The Christian"
+title: "The Christian Walk"
 pdf: "walking.pdf"
 description: "Walk, The Christian -  The Christian Walk; obedience to the command to \"walk worthy of the calling wherewith you are called\". [AUG 2014]"
 template: lesson.jade
 ---
 
-
-**The Christian Walk 6**
-
-1.  ### Introduction
+## Introduction
 
 Besides the examples of physical walking in the Bible, there are many
 references to two types of spiritual walking:
@@ -27,7 +24,7 @@ reside in Satan’s cosmic system.
 Therefore, walking denotes many functions, both pro and con, in the
 spiritual life.
 
-1.  ### New Testament Words for Walking
+## New Testament Words for Walking
 
 The Greek word (**peripatew**) means to walk or to walk around. It is
 used for literal walking in Matt. 4:18. But **peripatew** is used
@@ -181,7 +178,7 @@ The Greek word (**orthopedew**) means to walk straight. It is used for
 legalistic modus operandi and resultant hypocrisy in Gal. 2:14; in other
 words, they were not walking straight.
 
-1.  ### Walking in the Light vs. Walking in Darkness
+## Walking in the Light vs. Walking in Darkness
 
 Walking in the light is a term used specifically for the believer’s
 execution of God’s will, plan and purpose for the church age. The
@@ -276,12 +273,12 @@ tolerate one another by means of love.”
 All of these commands to keep walking are commands to keep learning
 doctrine, to keep advancing spiritually in the Christian way of life.
 
-1.  ### Walking in Darkness is Related to Satan’s Strategy of Evil
+## Walking in Darkness is Related to Satan’s Strategy of Evil
 
 Walking is used as a warning against the cosmic system. John 8:12 is the
 prophecy of this.
 
-1.  ### Living in Satan’s system is called walking.
+## Living in Satan’s system is called walking.
 
 **Phil. 3:18, 19**, “For many keep walking, concerning whom I have often
 told you, even weeping, that they are enemies of the cross of Christ.
@@ -309,7 +306,7 @@ dissipation, but be filled with the Spirit, speaking to one another in
 psalms and hymns and spiritual songs, singing and making melody with
 your heart to the Lord;”
 
-1.  ### Walking is Related to Executing God’s Plan.
+## Walking is Related to Executing God’s Plan.
 
 **Eph. 2:10**, “For we are His workmanship, having been created in
 Christ Jesus for good works, which God has prepared in advance that we
@@ -338,7 +335,7 @@ the Lord Jesus, that, as you received from us instruction as to how you
 ought to walk and please God (just as you actually do walk), that you
 may excel still more.”
 
-1.  ### More References to Walking
+## More References to Walking
 
 Walking by means of the indwelling Holy Spirit:
 
@@ -386,7 +383,7 @@ should respond to each person.”
 walk in love, just as Christ also loved you, and gave Himself up for us,
 an offering and a sacrifice to God as a fragrant aroma.”
 
-1.  ### Testing as part of the Christian walk:
+## Testing as part of the Christian walk:
 
 Read Rom. 13:13, 14; Eph. 4:17; Phil. 3:17-19
 
