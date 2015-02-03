@@ -2,7 +2,7 @@
 title: "Christ's Disciples"
 pdf: "disciples.pdf"
 description: "Biographies of the twelve and other disciples"
-template: lesson.jade
+template: topic.jade
 ---
 
 The Official Calling of the Disciples

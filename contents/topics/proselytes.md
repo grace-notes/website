@@ -1,6 +1,6 @@
 ---
 title: Proselytes
-template: lesson.jade
+template: topic.jade
 ---
 
 

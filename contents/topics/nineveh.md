@@ -1,6 +1,6 @@
 ---
 title: Nineveh
-template: lesson.jade
+template: topic.jade
 ---
 
 

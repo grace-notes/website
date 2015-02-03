@@ -2,7 +2,7 @@
 title: "Gospel, The"
 pdf: "gospel.pdf"
 description: "Gospel, The -  The use of the term \"gospel\" in the New Testament - the \"good news\" of salvation."
-template: lesson.jade
+template: topic.jade
 ---
 
 The word gospel is translated from the Greek (**euaggelos**), which means good news. Bad news, therefore, such as doctrines pertaining to evil or to personal sins, do not properly belong under the category of the gospel.

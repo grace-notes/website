@@ -2,7 +2,7 @@
 title: "Herodotus - The History"
 pdf: "herodotus_history.pdf"
 description: "“These are the researches of Herodotus of Halicarnassus, which he publishes, in the hope of thereby preserving from decay the remembrance of what men have done, and of preventing the great and wonderful actions of the Greeks and the Barbarians from losing their due share of glory.”"
-template: lesson.jade
+template: topic.jade
 ---
 
 **By Herodotus**

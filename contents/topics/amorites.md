@@ -2,7 +2,7 @@
 title: "Amorites"
 pdf: "amorites.pdf"
 description: "The name Amorite is used in the OT to denote (1) the inhabitants of Palestine generally, (2) the population of the hills as opposed to the plain, and (3) a specific people under a king of their own."
-template: lesson.jade
+template: topic.jade
 ---
 
 

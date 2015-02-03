@@ -2,7 +2,7 @@
 title: "Solomon"
 pdf: "solomon.pdf"
 description: "Son of David and third king of Israel."
-template: lesson.jade
+template: topic.jade
 ---
 
 

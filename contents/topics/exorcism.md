@@ -2,7 +2,7 @@
 title: "Exorcism"
 pdf: "exorcism.pdf"
 description: "Exorcisms are acts of liberating afflicted persons from the influence of demons."
-template: lesson.jade
+template: topic.jade
 ---
 
 

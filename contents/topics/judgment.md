@@ -2,7 +2,7 @@
 title: "Judgment, Justice, and Judging"
 pdf: "judgment.pdf"
 description: "Judgment, Justice, and Judging -  God's Judgment and Justice; a discussion of discernment vs. judgmentalism."
-template: lesson.jade
+template: topic.jade
 ---
 
 

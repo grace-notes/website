@@ -2,7 +2,7 @@
 title: "Confession of Sin"
 pdf: "confession.pdf"
 description: "The principles of biblical confession of sin; how the Lord's grace provision makes it possible for a Christian to stay in fellowship."
-template: lesson.jade
+template: topic.jade
 ---
 
 The presence of the sin nature in the soul guarantees that the Christian believer will have a problem with active personal sin for the rest of his life on earth. This personal sin causes a deep disturbance in the believer’s personal relationship with the Lord. The Holy Spirit is said to be personally grieved, and His work quenched by a Christian’s sin, or by his attempt to live outside of the will of God.

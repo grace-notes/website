@@ -2,7 +2,7 @@
 title: "Beatitudes"
 pdf: "beatitudes.pdf"
 description: "The eight blessings in the Beatitudes, related to the Christian life."
-template: lesson.jade
+template: topic.jade
 ---
 
 

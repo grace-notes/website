@@ -2,7 +2,7 @@
 title: "Communion"
 pdf: "communion.pdf"
 description: "the Lord's Supper; derivation from the Passover"
-template: lesson.jade
+template: topic.jade
 ---
 
 

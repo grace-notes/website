@@ -2,7 +2,7 @@
 title: "Busybody"
 pdf: "busybody.pdf"
 description: "A busybody is a person who inserts himself uninvited into some else’s life, who meddles or pries into the affairs of others. The Bible is very clear that this is wrong, totally inappropriate behavior, especially in a local church congregation."
-template: lesson.jade
+template: topic.jade
 ---
 
 

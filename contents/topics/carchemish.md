@@ -2,7 +2,7 @@
 title: "Carchemish, Battle of"
 pdf: "carchemish.pdf"
 description: "A description of the battle for this ancient capital of the Hittite empire, with Bible references"
-template: lesson.jade
+template: topic.jade
 ---
 
 

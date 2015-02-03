@@ -2,7 +2,7 @@
 title: "Bible Exegesis and Exposition"
 pdf: "bibleexegesisandexposition.pdf"
 description: "a Bible teacher's study notes must be converted into exposition which can be understood by his audience."
-template: lesson.jade
+template: topic.jade
 ---
 
 

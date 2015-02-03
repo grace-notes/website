@@ -2,7 +2,7 @@
 title: "Advocacy"
 pdf: "advocacy.pdf"
 description: "Christ, the Son, and the Holy Spirit are our advocates with the Father, protecting us against the lies of Satan."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Acts, Historical Background"
 pdf: "actshistoricalbackground.pdf"
 description: "chronology, and some of the political background of the Acts of the Apostles."
-template: lesson.jade
+template: topic.jade
 ---
 
 *from “The Life and Epistles of St. Paul,” by W. J. Conybeare and J. S.

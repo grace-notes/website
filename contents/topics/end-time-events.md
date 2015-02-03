@@ -2,7 +2,7 @@
 title: "End Time Events"
 pdf: "endtimeevents.pdf"
 description: "A review of all the happenings and activities which accompany the end times."
-template: lesson.jade
+template: topic.jade
 ---
 
 **END-TIME EVENTS**

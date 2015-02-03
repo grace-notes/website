@@ -2,7 +2,7 @@
 title: "Apollos"
 pdf: "apollos.pdf"
 description: "a short account of what the Bible has to say about this friend of the apostle Paul."
-template: lesson.jade
+template: topic.jade
 ---
 
 The New Testament character Apollos was a well-educated man from the city of Alexandria in Egypt. He was well acquainted with the Old Testament scriptures and was familiar with John the Baptist’s teachings. About A.D. 56 he came to Ephesus where he began to teach in the synagogue the things of the Lord, knowing only the baptism of John.

@@ -2,7 +2,7 @@
 title: "Paul's Childhood at Tarsus"
 pdf: "paul_tothethessalonians.pdf"
 description: "His infancy; the Tribe of Benjamin; Social Position of Paul's Family; Paul’s Boyhood."
-template: lesson.jade
+template: topic.jade
 ---
 
 

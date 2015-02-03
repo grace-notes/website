@@ -1,6 +1,6 @@
 ---
 title: High Priests
-template: lesson.jade
+template: topic.jade
 ---
 
 

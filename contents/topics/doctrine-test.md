@@ -2,7 +2,7 @@
 title: "Doctrine Test"
 pdf: "doctrinetest.pdf"
 description: "A test of basic doctrinal knowledge - test your own progress in Bible academics."
-template: lesson.jade
+template: topic.jade
 ---
 
 

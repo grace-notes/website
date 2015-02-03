@@ -2,7 +2,7 @@
 title: "Ark of the Covenant"
 pdf: "arkofthecovenant.pdf"
 description: "The Ark of the Tabernacle, its history and typology."
-template: lesson.jade
+template: topic.jade
 ---
 
 

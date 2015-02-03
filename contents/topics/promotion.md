@@ -2,7 +2,7 @@
 title: "Promotion"
 pdf: "promotion.pdf"
 description: "Promotion -  Personal advancement in the Bible; if God does not promote you, you're not promoted!"
-template: lesson.jade
+template: topic.jade
 ---
 
 **Luke 14:11**, “_For everyone who exalts himself shall be humbled. And he who humbles himself shall be promoted._” Everyone who exalts himself refers to the believer involved in self promotion, degeneracy and the lust pattern of the sin nature, the believer with vacuum in the subconscious.

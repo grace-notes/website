@@ -2,7 +2,7 @@
 title: "Prayer"
 pdf: "prayer.pdf"
 description: "Prayer -  Practical teaching on how to pray to God and what to expect from Him."
-template: lesson.jade
+template: topic.jade
 ---
 
 

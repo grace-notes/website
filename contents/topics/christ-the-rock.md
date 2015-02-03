@@ -2,7 +2,7 @@
 title: "Rock, Jesus Christ the Rock"
 pdf: "christtherock.pdf"
 description: "Scriptures referring to Jesus Christ as the Rock."
-template: lesson.jade
+template: topic.jade
 ---
 
 Jesus Christ the Rock

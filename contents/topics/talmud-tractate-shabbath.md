@@ -2,7 +2,7 @@
 title: "Talmud, Tractate Shabbath"
 pdf: "talmud_tractateshabbath.pdf"
 description: "the portion of the Talmud dealing with Sabbath categories of work. (Order Moed, Tractate Shabbath, Chapter 7)"
-template: lesson.jade
+template: topic.jade
 ---
 
 

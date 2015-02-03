@@ -2,7 +2,7 @@
 title: "Damascus, Roads to"
 pdf: "damascusroads.pdf"
 description: "description of the various roads which Saul could have used to travel between Jerusalem and Damascus."
-template: lesson.jade
+template: topic.jade
 ---
 
 

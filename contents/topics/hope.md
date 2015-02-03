@@ -2,7 +2,7 @@
 title: "Hope"
 pdf: "hope.pdf"
 description: "Hope -  The Christian's confidence is much more than just wishful thinking."
-template: lesson.jade
+template: topic.jade
 ---
 
 **Hope** is the mental attitude of confidence that results from learning and applying Bible truth regarding the future.

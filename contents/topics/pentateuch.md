@@ -2,7 +2,7 @@
 title: "Pentateuch"
 pdf: "pentateuch.pdf"
 description: "Concluding Remarks on the Composition of the Pentateuch, from Commentary on the Old Testament, C. F. Keil and F. Delitzsch."
-template: lesson.jade
+template: topic.jade
 ---
 
 

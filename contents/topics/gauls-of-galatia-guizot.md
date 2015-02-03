@@ -2,7 +2,7 @@
 title: "Gauls of Galatia"
 pdf: "gauls_of_galatia(guizot).pdf"
 description: "from Guizot's History of France; the Galatians were Gauls from Europe."
-template: lesson.jade
+template: topic.jade
 ---
 
 

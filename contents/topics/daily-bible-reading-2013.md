@@ -1,6 +1,6 @@
 ---
 title: Daily Bible Reading 2013
-template: lesson.jade
+template: topic.jade
 ---
 
 

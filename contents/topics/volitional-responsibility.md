@@ -1,6 +1,6 @@
 ---
 title: Volitional Responsibility
-template: lesson.jade
+template: topic.jade
 ---
 
 

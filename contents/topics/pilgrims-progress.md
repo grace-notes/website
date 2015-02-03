@@ -2,7 +2,7 @@
 title: "Pilgrim's Progress"
 pdf: "pilgrimsprogress.pdf"
 description: "“From This World To That Which Is To Come, Delivered under the similitude of a dream”, BY JOHN BUNYAN"
-template: lesson.jade
+template: topic.jade
 ---
 
 It shows, too, who set out for life amain,

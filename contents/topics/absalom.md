@@ -2,7 +2,7 @@
 title: "Absalom"
 pdf: "absalom.pdf"
 description: "David's third son by Maacah daughter of Talmai king of Geshur (a small country between Hermon and Bashan)."
-template: lesson.jade
+template: topic.jade
 ---
 
 **1.** [Heb *’aḇšālôm*—‘father is (or ‘of’) peace’]; also **ABISHALOM**

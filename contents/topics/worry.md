@@ -2,7 +2,7 @@
 title: "Worry, the Sin of"
 pdf: "worry.pdf"
 description: "The mental attitude sin of worry, its cause and cure."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Baptism"
 pdf: "baptism.pdf"
 description: "The seven types of baptism in the Bible; the baptism of the Holy Spirit; believer's baptism."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Restoration of the Jews"
 pdf: "restoration.pdf"
 description: "After the Second Advent of Christ, He will assemble and restore Israel."
-template: lesson.jade
+template: topic.jade
 ---
 
 

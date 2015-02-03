@@ -2,7 +2,7 @@
 title: "Manna"
 pdf: "manna.pdf"
 description: "Manna -  Manna means \"What is it?\" in the Hebrew."
-template: lesson.jade
+template: topic.jade
 ---
 
 

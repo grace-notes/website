@@ -2,7 +2,7 @@
 title: "Fellowship, Christian"
 pdf: "fellowship.pdf"
 description: "Fellowship, Christian -  Four areas of relationship [koinonia] for believers in a local church: doctrine, fellowship, breaking of bread, prayer."
-template: lesson.jade
+template: topic.jade
 ---
 
 In Acts 2, the church is born having an initial membership of something more than 3000 men and women. The life of this group developed in four specific areas, described in Acts 2:42. These areas were doctrine, fellowship, breaking of bread and prayer.

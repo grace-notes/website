@@ -1,6 +1,6 @@
 ---
 title: Godliness 1col 
-template: lesson.jade
+template: topic.jade
 ---
 
 

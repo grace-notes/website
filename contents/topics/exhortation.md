@@ -2,7 +2,7 @@
 title: "Exhortation"
 pdf: "exhortation.pdf"
 description: "Christians are commanded to \"exhort\" one another. Sometimes that calls for a comforting ministry, and sometimes it calls for straight talk."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Bethlehem-Judah"
 pdf: "bethlehem.pdf"
 description: "The home of Ruth and Boaz, the city of David, the birthplace of Jesus Christ."
-template: lesson.jade
+template: topic.jade
 ---
 
 **Bethlehem-Judah**

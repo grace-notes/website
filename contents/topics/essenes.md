@@ -2,7 +2,7 @@
 title: "Essenes"
 pdf: "essenes.pdf"
 description: "A description of the ascetic religious sect of the Essenes, the forerunner of the monastic orders."
-template: lesson.jade
+template: topic.jade
 ---
 
 

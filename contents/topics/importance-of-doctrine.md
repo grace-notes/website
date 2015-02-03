@@ -2,7 +2,7 @@
 title: "Doctrine, The Importance of"
 pdf: "importanceofdoctrine.pdf"
 description: "The believer must give the highest priority in life to learning Bible facts and principles, and applying them to every situation."
-template: lesson.jade
+template: topic.jade
 ---
 
 A Christian’s desire for the Truth, the Word of God, must be avid. A believer must give the highest priority in his life to learning Bible facts and principles. There are many examples in the Bible of the great effort made by people of God to obtain truth.

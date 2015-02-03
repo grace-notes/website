@@ -2,7 +2,7 @@
 title: "Holy Spirit, Indwelling of the"
 pdf: "holyspirit_indwelling.pdf"
 description: "Holy Spirit, Indwelling of the -  The Holy Spirit indwells the body of the believer at the moment of salvation, 1 Cor 6:19-20, 3:16."
-template: lesson.jade
+template: topic.jade
 ---
 
 

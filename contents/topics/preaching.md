@@ -2,7 +2,7 @@
 title: "Preaching, Doctrine of"
 pdf: "preaching.pdf"
 description: "Preaching, Doctrine of -  Word study beginning in Titus 1:3 - KEIRUGMA; the true practice of Bible presentation."
-template: lesson.jade
+template: topic.jade
 ---
 
 

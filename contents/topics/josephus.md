@@ -2,7 +2,7 @@
 title: "Josephus"
 pdf: "josephus.pdf"
 description: "Jewish historian and general in the war of the Jews against the Romans in A.D. 66-70."
-template: lesson.jade
+template: topic.jade
 ---
 
 

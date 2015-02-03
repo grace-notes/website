@@ -2,7 +2,7 @@
 title: "Armor of God"
 pdf: "armorofgod.pdf"
 description: "An exposition of Eph. 6:10-17; a discussion of demon organization and tactics; history of Roman armor to explain vocabulary."
-template: lesson.jade
+template: topic.jade
 ---
 
 

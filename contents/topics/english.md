@@ -2,7 +2,7 @@
 title: "Origins of the English Language"
 pdf: "english.pdf"
 description: "from \"The Origins of the English Language: A Social and Linguistic History\", by Joseph M. Williams."
-template: lesson.jade
+template: topic.jade
 ---
 
 from “The Origins of the English Language: A Social and Linguistic

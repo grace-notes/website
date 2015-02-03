@@ -2,7 +2,7 @@
 title: "Holy Spirit, Baptism of the"
 pdf: "holyspirit_baptism.pdf"
 description: "Holy Spirit, Baptism of the -  The Holy Spirit’s work by which he places each believer into Union with Christ."
-template: lesson.jade
+template: topic.jade
 ---
 **Introduction.**
 

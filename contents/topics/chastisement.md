@@ -2,7 +2,7 @@
 title: "Chastisement (Divine Discipline)"
 pdf: "chastisement.pdf"
 description: "Whom the Lord loves, He chastens; the study of Divine Discipline"
-template: lesson.jade
+template: topic.jade
 ---
 
 

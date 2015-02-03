@@ -2,7 +2,7 @@
 title: "Paul: Chronological Table"
 pdf: "paulchronology.pdf"
 description: "Paul: Chronological Table -  A time table of Paul's life, with matching contemporary events."
-template: lesson.jade
+template: topic.jade
 ---
 
 

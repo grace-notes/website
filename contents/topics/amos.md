@@ -2,7 +2,7 @@
 title: "Amos"
 pdf: "amos.pdf"
 description: "A prophet of the 8th cent B.C., and the third book of the Minor Prophets."
-template: lesson.jade
+template: topic.jade
 ---
 
 

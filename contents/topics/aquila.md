@@ -2,7 +2,7 @@
 title: "Aquila and Priscilla"
 pdf: "aquila.pdf"
 description: "Two friends of Paul whom he met in Corinth, who traveled to Ephesus with him, and were instructors of Apollos."
-template: lesson.jade
+template: topic.jade
 ---
 
 Aquila and his wife Priscilla were Jews and natives of Pontus. Their occupation was tent making. They had fled from Rome to Corinth when the emperor Claudius had commanded all Jews to leave that city. When Paul came to Corinth, he found them and stayed with them for some time, working with them at the trade of tent making.

@@ -2,7 +2,7 @@
 title: "Adoption"
 pdf: "adoption.pdf"
 description: "From Eph. 1:5, Gal. 4:5, etc., notes on the believer's spiritual adoption."
-template: lesson.jade
+template: topic.jade
 ---
 
 See also: Children of God.

@@ -2,7 +2,7 @@
 title: "Levitical Priesthood"
 pdf: "leviticalpriesthood.pdf"
 description: "Levitical Priesthood -  A discussion of the institutions of the Jewish religion."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -1,4 +1,4 @@
 {
-  "template": "topics.jade",
+  "template": "topic-index.jade",
   "name" : "Topics Library"
 }

@@ -1,6 +1,6 @@
 ---
 title: Jewish Social Life
-template: lesson.jade
+template: topic.jade
 ---
 
 

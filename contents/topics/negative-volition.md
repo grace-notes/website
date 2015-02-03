@@ -2,7 +2,7 @@
 title: "Negative Volition"
 pdf: "negativevolition.pdf"
 description: "Negative Volition -  Stern warnings to believers \"not to walk as other Gentiles walk\"."
-template: lesson.jade
+template: topic.jade
 ---
 
 **The Hazards of Negative Volition (-V)**

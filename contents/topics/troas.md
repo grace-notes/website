@@ -2,7 +2,7 @@
 title: "Troas"
 pdf: "troas.pdf"
 description: "On the second missionary journey, Paul and Silas came to Troas after being forbidden to preach the Word of God in Asia (Acts 16:6)."
-template: lesson.jade
+template: topic.jade
 ---
 
 

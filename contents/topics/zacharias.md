@@ -2,7 +2,7 @@
 title: "Zacharias Presenting Incense in the Temple"
 pdf: "zacharias.pdf"
 description: "Zacharias Presenting Incense in the Temple -  A description of the duties of the priest who was chosen by lot each day to perform the burning of incense in the Holy Place, as Zacharias did in Luke 1:5-25."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Acts, Survey"
 pdf: "acts_survey.pdf"
 description: "a survey of the Acts of the Apostles."
-template: lesson.jade
+template: topic.jade
 ---
 
 **Survey of the Acts of the Apostles**

@@ -2,7 +2,7 @@
 title: "Leaven"
 pdf: "leaven.pdf"
 description: "Leaven -  A study of the concept of leaven in the Bible"
-template: lesson.jade
+template: topic.jade
 ---
 
 

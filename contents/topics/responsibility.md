@@ -2,7 +2,7 @@
 title: "Responsibility"
 pdf: "responsibility.pdf"
 description: "The present responsibilities of those who wait for the Kingdom of Christ."
-template: lesson.jade
+template: topic.jade
 ---
 
 

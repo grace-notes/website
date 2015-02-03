@@ -2,7 +2,7 @@
 title: "Life of Christ"
 pdf: "lifeofchrist.pdf"
 description: "the Person and Work of Christ, from His presence in eternity past, through His ministry in the feeding of the 5000."
-template: lesson.jade
+template: topic.jade
 toc: true
 ---
 

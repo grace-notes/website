@@ -2,7 +2,7 @@
 title: "Spiritual Gifts"
 pdf: "holyspirit_spiritualgifts.pdf"
 description: "the divine power which is given to each Christian at the time of salvation."
-template: lesson.jade
+template: topic.jade
 ---
 
 **Spiritual Gifts**

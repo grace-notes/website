@@ -2,7 +2,7 @@
 title: "Chaldea"
 pdf: "chaldea.pdf"
 description: "the history of the ancient kingdom where Abraham was born and which later was the locale of the Babylonian empire."
-template: lesson.jade
+template: topic.jade
 ---
 
 

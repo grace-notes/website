@@ -2,7 +2,7 @@
 title: "Athens"
 pdf: "athens.pdf"
 description: "one of the greatest cultural centers of Paul’s day, grew up around a 520-foot-high rocky plateau called the Acropolis."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Isaiah"
 pdf: "isaiah.pdf"
 description: "Of all the prophets of Israel, Isaiah stands out as incomparably the greatest."
-template: lesson.jade
+template: topic.jade
 ---
 
 

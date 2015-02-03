@@ -2,7 +2,7 @@
 title: "Paul - Letter to the Romans"
 pdf: "paul_lettertoromans.pdf"
 description: "narrative surrounding Paul's writing his epistle to the Romans, from Corinth, prior to his departure for Judea; by Conybeare and Howson, along with their translation of the letter."
-template: lesson.jade
+template: topic.jade
 ---
 
 

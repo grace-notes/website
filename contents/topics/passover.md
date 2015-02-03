@@ -2,7 +2,7 @@
 title: "Passover"
 pdf: "passover.pdf"
 description: "Notes on the Jewish ritual that was the Lord's Supper."
-template: lesson.jade
+template: topic.jade
 ---
 
 

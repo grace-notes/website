@@ -2,7 +2,7 @@
 title: "Giving"
 pdf: "giving.pdf"
 description: "Giving -  A brief study of Christian giving - comments on 2 Corinthians 8 and 9."
-template: lesson.jade
+template: topic.jade
 ---
 
 The Bible shows God’s viewpoint on the subject of money and Christian giving and provides teaching that will protect the believer from many common illusions and dangers.

@@ -2,7 +2,7 @@
 title: "Antichrist"
 pdf: "antichrist.pdf"
 description: "In the Church Age, antichrist refers to any believer who resides and functions in the world system of Satan."
-template: lesson.jade
+template: topic.jade
 ---
 
 

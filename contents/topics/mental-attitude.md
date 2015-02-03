@@ -2,7 +2,7 @@
 title: "Mental Attitude"
 pdf: "mentalattitude.pdf"
 description: "Mental Attitude -  A thorough article on the problems of mental attitude and how to grow into stability in the Christian Way of Life; how to have a relaxed mental attitude; how to avoid many kinds of neurosis."
-template: lesson.jade
+template: topic.jade
 ---
 
 **Introduction**

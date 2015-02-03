@@ -2,7 +2,7 @@
 title: "Repentance"
 pdf: "repentance.pdf"
 description: "\"Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and you shall receive the gift of the Holy Spirit.\""
-template: lesson.jade
+template: topic.jade
 ---
 
 

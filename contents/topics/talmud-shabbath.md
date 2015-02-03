@@ -1,6 +1,6 @@
 ---
 title: Talmud Shabbath
-template: lesson.jade
+template: topic.jade
 ---
 
 

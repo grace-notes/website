@@ -2,7 +2,7 @@
 title: "Sabbath, Jewish Teaching"
 pdf: "jewishteaching_sabbath.pdf"
 description: "The importance of the Sabbath in Jewish life is stressed from the story of Creation in Genesis, to the Ten Commandments, which state that people are to refrain from labor on the 7th day."
-template: lesson.jade
+template: topic.jade
 ---
 
 

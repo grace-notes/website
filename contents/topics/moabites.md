@@ -2,7 +2,7 @@
 title: "Moabites"
 pdf: "moabites.pdf"
 description: "Moabites -  A description of the descendants of Lot, geography, history, religion, relationship to Judges and Ruth. The Moabite Stone."
-template: lesson.jade
+template: topic.jade
 ---
 
 

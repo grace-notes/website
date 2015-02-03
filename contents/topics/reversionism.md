@@ -2,7 +2,7 @@
 title: "Reversionism"
 pdf: "reversionism.pdf"
 description: "a comprehensive study of the doctrine showing how the Lord deals with recalcitrant and implacable Christians."
-template: lesson.jade
+template: topic.jade
 ---
 
 Portions of this study are taken from the teachings of Pastor R. B. Thieme, Jr., Berachah Church, Houston, Texas

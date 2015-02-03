@@ -2,7 +2,7 @@
 title: "Friendships"
 pdf: "friendships.pdf"
 description: "Friendships -  Every meeting with another person is a divine encounter."
-template: lesson.jade
+template: topic.jade
 ---
 
 

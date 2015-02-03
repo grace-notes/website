@@ -2,7 +2,7 @@
 title: "Imputation"
 pdf: "imputation.pdf"
 description: "Imputation -  How God the Father \"credits\" our sin to Christ and His righteousness to us."
-template: lesson.jade
+template: topic.jade
 ---
 
 

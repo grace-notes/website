@@ -2,7 +2,7 @@
 title: "Paul's Education"
 pdf: "pauleducation.pdf"
 description: "His journey to Jerusalem; his education at the school of Gamaliel"
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Daily Bible Reading"
 pdf: "dailybiblereading.pdf"
 description: "This is a daily Bible reading listing for the year 2012. With this arrangement, you read the whole Bible in a year, but in the chronological order of events. So, for example, many of the Psalms are included with the readings for historical books, because they were written at the time of those events. Likewise, the writings of prophets are included with contemporary historical events."
-template: lesson.jade
+template: topic.jade
 ---
 
 

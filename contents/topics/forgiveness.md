@@ -2,7 +2,7 @@
 title: "Forgiveness"
 pdf: "forgiveness.pdf"
 description: "Forgiveness -  The test of Grace living is a forgiving spirit."
-template: lesson.jade
+template: topic.jade
 ---
 
 The word “forgive” is a Grace word, in the English as well as in the Greek (**ajfesi\~**). An early meaning in English was “to give or to grant”. Then, forgive came to mean “to remit a debt; to give up resentment or claim for requital; to pardon an offense.”

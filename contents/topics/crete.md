@@ -2,7 +2,7 @@
 title: "Crete, Brief History"
 pdf: "crete.pdf"
 description: "An outline history of Crete and historical comments on the character of the people; a historical supplement to the study of the Epistle to Titus"
-template: lesson.jade
+template: topic.jade
 ---
 
 

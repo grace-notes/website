@@ -2,7 +2,7 @@
 title: "Workers, Qualifications for Christian"
 pdf: "workerquals.pdf"
 description: "Workers, Qualifications for Christian -  A list of qualifications for every type of Christian worker, from personal worker to missionary to pastors and teachers."
-template: lesson.jade
+template: topic.jade
 ---
 
 

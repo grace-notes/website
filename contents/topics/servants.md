@@ -2,7 +2,7 @@
 title: "Servants of God"
 pdf: "servants.pdf"
 description: "Servants of God -  God commands Christians to be faithful and obedient servants."
-template: lesson.jade
+template: topic.jade
 ---
 
 

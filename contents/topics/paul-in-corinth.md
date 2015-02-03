@@ -2,7 +2,7 @@
 title: "Paul in Corinth"
 pdf: "paulincorinth.pdf"
 description: "Paul in Corinth -  an account of the apostle Paul's ministry in Corinth."
-template: lesson.jade
+template: topic.jade
 ---
 
 

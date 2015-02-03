@@ -2,7 +2,7 @@
 title: "Bunyan, John"
 pdf: "bunyanjohnlife.pdf"
 description: "the life of the great Christian author of Pilgrim's Progress."
-template: lesson.jade
+template: topic.jade
 ---
 
 

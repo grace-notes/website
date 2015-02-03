@@ -1,6 +1,6 @@
 ---
 title: Paul Childhood
-template: lesson.jade
+template: topic.jade
 ---
 
 

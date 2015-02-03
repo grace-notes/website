@@ -2,7 +2,7 @@
 title: "Roman Kings"
 pdf: "romankings.pdf"
 description: "a list of the men who ruled Rome from its founding in 754 BC until the beginning of the Roman Republic."
-template: lesson.jade
+template: topic.jade
 ---
 
 

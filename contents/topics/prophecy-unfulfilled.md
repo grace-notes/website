@@ -1,6 +1,6 @@
 ---
 title: Prophecy Unfulfilled
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Temple Development
-template: lesson.jade
+template: topic.jade
 ---
 
 

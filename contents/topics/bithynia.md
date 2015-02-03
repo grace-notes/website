@@ -2,7 +2,7 @@
 title: "Bithynia"
 pdf: "bithynia.pdf"
 description: "Bithynia was a Roman province in the northwest corner of Asia Minor. 1 Peter 1:1."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Second Advent of Christ"
 pdf: "secondadvent.pdf"
 description: "Second Advent of Christ"
-template: lesson.jade
+template: topic.jade
 ---
 
 by Dr. Randall E. Radic, Pastor

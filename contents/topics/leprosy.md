@@ -2,7 +2,7 @@
 title: "Leprosy"
 pdf: "leprosy.pdf"
 description: "a study from the Old Testament on how leprosy was identified and treated. An exposition of Leviticus 13 and 14, Commentary on the Old Testament, by C. F. Keil and F. Delitzsch"
-template: lesson.jade
+template: topic.jade
 ---
 
 

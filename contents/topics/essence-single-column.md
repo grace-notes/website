@@ -1,6 +1,6 @@
 ---
 title: Essence Single Column
-template: lesson.jade
+template: topic.jade
 ---
 
 

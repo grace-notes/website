@@ -2,7 +2,7 @@
 title: "Beer-Sheba"
 pdf: "beersheba.pdf"
 description: "The name of this venerable town means literally \"the well of seven.\" {MAR 2013]"
-template: lesson.jade
+template: topic.jade
 ---
 
 

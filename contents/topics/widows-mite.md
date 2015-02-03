@@ -2,7 +2,7 @@
 title: "Widow's Mite"
 pdf: "widowsmite.pdf"
 description: "an essay on Christian giving and support of Christian work, based on the Bible narrative of this story."
-template: lesson.jade
+template: topic.jade
 ---
 
 

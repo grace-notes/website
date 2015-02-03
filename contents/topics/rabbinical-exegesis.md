@@ -2,7 +2,7 @@
 title: "Rabbinical Exegesis"
 pdf: "rabbinicalexegesis.pdf"
 description: "Rabbinical Exegesis -  -from Talmud scholars, a brief description of the rules to be observed in deducing Halakhah (Jewish law) from the texts of Scripture."
-template: lesson.jade
+template: topic.jade
 ---
 
 **Edersheim, Alfred, *History of the Jewish Nation after the Destruction of Jerusalem under Titus*, Appendix VII.**

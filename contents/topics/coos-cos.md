@@ -2,7 +2,7 @@
 title: "Coos (Cos)"
 pdf: "coos(cos).pdf"
 description: "Coos is an island mentioned in connection with Paul’s third missionary journey in Acts 21:1, and in its relations with the Jews in 1 Macc. 15:23; Josephus Ant. xiv.7.2; 10.15."
-template: lesson.jade
+template: topic.jade
 ---
 
 Coos

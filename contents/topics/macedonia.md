@@ -2,7 +2,7 @@
 title: "Macedonia"
 pdf: "macedonia.pdf"
 description: "the Greek province; home of Alexander the Great."
-template: lesson.jade
+template: topic.jade
 ---
 
 

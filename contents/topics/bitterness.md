@@ -2,7 +2,7 @@
 title: "Bitterness"
 pdf: "bitterness.pdf"
 description: "Bitterness is one of the most crushing mental problems in a person's life; the Bible has solutions."
-template: lesson.jade
+template: topic.jade
 ---
 
 Bitterness is one of the most crushing mental problems in a person’s life. When a Christian is bitter, there is a loss of close fellowship with the Lord and a hindrance in one’s relationship with the Lord Jesus Christ. Bitterness causes a loss of many of the blessings of the normal Christian life, including emotional stability, peace and joy. Bitterness results in the loss of production of good works like gold, silver and precious stones which are a major source of blessing and reward in the

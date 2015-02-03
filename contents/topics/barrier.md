@@ -2,7 +2,7 @@
 title: "The Barrier, Reconciliation, Justification"
 pdf: "barrier.pdf"
 description: "The doctrines of Reconciliation, Propitiation, and the removal of the barrier between God and man."
-template: lesson.jade
+template: topic.jade
 ---
 
 

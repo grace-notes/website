@@ -2,7 +2,7 @@
 title: "Blood of Christ"
 pdf: "bloodofchrist.pdf"
 description: "Teaching on the representative analogy which the Blood of Christ forms with the death of the animal on the altar."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Lydia"
 pdf: "lydia.pdf"
 description: "Lydia, being convinced that Jesus was the Messiah, and having made a profession of her faith, was forthwith baptized."
-template: lesson.jade
+template: topic.jade
 ---
 
 

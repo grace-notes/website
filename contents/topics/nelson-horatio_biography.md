@@ -1,6 +1,6 @@
 ---
 title: Nelson Horatio Biography
-template: lesson.jade
+template: topic.jade
 ---
 
 

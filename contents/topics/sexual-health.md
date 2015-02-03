@@ -2,7 +2,7 @@
 title: "Sexual Health in the Bible"
 pdf: "sexualhealth.pdf"
 description: "Sexual Health in the Bible -  Extensive study of what the Bible says about non-marital sexual activity."
-template: lesson.jade
+template: topic.jade
 ---
 
 

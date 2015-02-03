@@ -1,6 +1,6 @@
 ---
 title: Speaking In Tongues
-template: lesson.jade
+template: topic.jade
 ---
 
 

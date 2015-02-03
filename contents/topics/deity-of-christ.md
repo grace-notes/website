@@ -2,7 +2,7 @@
 title: "Deity of Christ"
 pdf: "deityofchrist.pdf"
 description: "Scripture references to the deity of Christ in which divine essence is attributed to Christ."
-template: lesson.jade
+template: topic.jade
 ---
 
 Jesus Christ is eternal God. As a member of the trinity, He is coequal with God the Father and with God the Holy Spirit. That is, He has the same attributes as God the Father. See the Grace Notes topic: Essence of God) Jesus Christ has all of the divine attributes that God the Father has, including:

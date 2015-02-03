@@ -2,7 +2,7 @@
 title: "Pythagoras"
 pdf: "pythagoras.pdf"
 description: "brief biography of the Greek mathematician, Born: about 569 BC in Samos, Ionia."
-template: lesson.jade
+template: topic.jade
 ---
 
 

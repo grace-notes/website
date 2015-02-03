@@ -1,6 +1,6 @@
 ---
 title: Davidic Covenant
-template: lesson.jade
+template: topic.jade
 ---
 
 

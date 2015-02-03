@@ -1,6 +1,6 @@
 ---
 title: Talmud Origins
-template: lesson.jade
+template: topic.jade
 ---
 
 

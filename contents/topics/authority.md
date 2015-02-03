@@ -2,7 +2,7 @@
 title: "Authority, God's Chain of Command"
 pdf: "authority.pdf"
 description: "Authority of God as delegated to the apostles, and from the apostles to us via the Scriptures; proper responses to civil, ecclesiastical, and family authority."
-template: lesson.jade
+template: topic.jade
 ---
 
 **Introduction**

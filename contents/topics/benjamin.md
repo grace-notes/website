@@ -2,7 +2,7 @@
 title: "Benjamin"
 pdf: "benjamin.pdf"
 description: "The youngest of Jacob's sons, the only one to be born in Palestine; and the tribe named for him. The tribe of the Apostle Paul."
-template: lesson.jade
+template: topic.jade
 ---
 
 

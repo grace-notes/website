@@ -2,7 +2,7 @@
 title: "Grace"
 pdf: "grace.pdf"
 description: "Grace -  A thorough treatment of the most important doctrine of the Christian life. The work of God and the Plan of God are completely based on Grace."
-template: lesson.jade
+template: topic.jade
 ---
 
 **Introduction**

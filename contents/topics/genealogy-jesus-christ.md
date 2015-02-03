@@ -1,6 +1,6 @@
 ---
 title: Genealogy Jesus Christ
-template: lesson.jade
+template: topic.jade
 ---
 
 

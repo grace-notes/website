@@ -2,7 +2,7 @@
 title: "Ur of the Chaldees"
 pdf: "ur.pdf"
 description: "a brief description of Abraham's birthplace"
-template: lesson.jade
+template: topic.jade
 ---
 
 

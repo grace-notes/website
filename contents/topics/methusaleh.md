@@ -2,7 +2,7 @@
 title: "Methusaleh"
 pdf: "methusaleh.pdf"
 description: "Methusaleh -  The oldest man is the world may also be the most famous."
-template: lesson.jade
+template: topic.jade
 ---
 
 

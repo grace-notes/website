@@ -2,7 +2,7 @@
 title: "Angels"
 pdf: "angels.pdf"
 description: "a categorial study of the Doctrine of Angels."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Paul&Silas Prison
-template: lesson.jade
+template: topic.jade
 ---
 
 

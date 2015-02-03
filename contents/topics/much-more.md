@@ -2,7 +2,7 @@
 title: "The \"Much More\" Care of God"
 pdf: "muchmore.pdf"
 description: "The \"Much More\" Care of God -  The Lord Jesus did the most for us when He died on the Cross. In the Christian life He does much more than the most for us."
-template: lesson.jade
+template: topic.jade
 ---
 
 There is a great deal more to salvation than eternal life. There is a depth of experience here on earth that is unbelievable to anyone who does not live through it. It is the much more provision concept of personal happiness and prosperity during life on earth for the believer who is occupied with the Lord Jesus Christ.

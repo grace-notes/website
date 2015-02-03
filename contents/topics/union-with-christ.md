@@ -2,7 +2,7 @@
 title: "Union with Christ (Positional Truth)"
 pdf: "unionwithchrist.pdf"
 description: "Union with Christ (Positional Truth) -  Teaching related to all of the benefits and responsibilities of being \"in Christ\"."
-template: lesson.jade
+template: topic.jade
 ---
 
 At the time of his personal salvation, the Christian believer enters into a spiritual union with Jesus Christ and remains in that position forever. “Positional Truth” is the formal title for that wide class of Bible teaching on the subject of the Christian’s position in or union with Jesus Christ.

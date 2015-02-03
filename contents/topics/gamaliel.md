@@ -2,7 +2,7 @@
 title: "Gamaliel"
 pdf: "gamaliel.pdf"
 description: "The great Talmudic scholar of the 1st Century; and the teacher in Judaism of the Apostle Paul."
-template: lesson.jade
+template: topic.jade
 ---
 
 

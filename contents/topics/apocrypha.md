@@ -2,7 +2,7 @@
 title: "Apocrypha and non-Canonical Writings"
 pdf: "apocrypha.pdf"
 description: "The word Apocrypha means \"hidden\", or \"secret\". The term \"Apocrypha\" is usually applied to a collection of books, from eleven to sixteen in number, which appeared during the interim between the Old and New Testaments. These books have come down to us in more or less close connection with the canonical books of the Bible."
-template: lesson.jade
+template: topic.jade
 ---
 
 

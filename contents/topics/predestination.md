@@ -2,7 +2,7 @@
 title: "Predestination"
 pdf: "predestination.pdf"
 description: "Predestination -  How the word \"predestination\" is used in the Bible."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: John The Baptist
-template: lesson.jade
+template: topic.jade
 ---
 
 

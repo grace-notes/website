@@ -2,7 +2,7 @@
 title: "Abrahamic Covenant"
 pdf: "abrahamiccovenant.pdf"
 description: "\"I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you.\" This is the beginning of the covenant with Abram."
-template: lesson.jade
+template: topic.jade
 ---
 
 Genesis 12:1-3 reads, “The Lord had said to Abram, ’Leave your country,

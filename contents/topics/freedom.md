@@ -2,7 +2,7 @@
 title: "Freedom"
 pdf: "freedom.pdf"
 description: "Freedom -  What it means to be set free from \"the law of sin and death.\""
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Nero
-template: lesson.jade
+template: topic.jade
 ---
 
 

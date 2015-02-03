@@ -2,7 +2,7 @@
 title: "Death, Seven Types"
 pdf: "death.pdf"
 description: "Seven types of death in the Bible."
-template: lesson.jade
+template: topic.jade
 ---
 
 

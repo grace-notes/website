@@ -1,6 +1,6 @@
 ---
 title: Faith.doc
-template: lesson.jade
+template: topic.jade
 ---
 
 

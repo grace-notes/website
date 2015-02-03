@@ -2,7 +2,7 @@
 title: "Thorns"
 pdf: "thorns.pdf"
 description: "Thorns are associated with the curse of mankind and nature at the time of the Fall. Man has to contend with thorns in his work and in his spiritual life."
-template: lesson.jade
+template: topic.jade
 ---
 
 

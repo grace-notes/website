@@ -1,6 +1,6 @@
 ---
 title: Temple Destruction
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Armor of God, Using"
 pdf: "armorofgod_using.pdf"
 description: "\"If training in arms ceases, there is no difference between a soldier and a civilian! and No matter how many years he has served, an unexercised solder is a raw recruit!\" - Vegetius"
-template: lesson.jade
+template: topic.jade
 ---
 
 

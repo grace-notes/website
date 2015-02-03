@@ -2,7 +2,7 @@
 title: "Deaconsdiakonos"
 pdf: "deacons_wordstudy.pdf"
 description: "a Greek word study (Kittel) on diakonos"
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Pastor-Teachers"
 pdf: "pastorteachers.pdf"
 description: "Pastor-Teachers -  the pastor-teacher has a spiritual gift that he does not deserve and cannot earn."
-template: lesson.jade
+template: topic.jade
 ---
 
 

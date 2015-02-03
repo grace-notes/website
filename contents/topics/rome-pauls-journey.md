@@ -2,7 +2,7 @@
 title: "Rome, Paul's Journey to"
 pdf: "rome_paulsjourney.pdf"
 description: "description of Paul's journey to Rome and his sojourn there, places and events.."
-template: lesson.jade
+template: topic.jade
 ---
 
 

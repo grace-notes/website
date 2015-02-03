@@ -2,7 +2,7 @@
 title: "Aaron"
 pdf: "aaron.pdf"
 description: "Moses' older brother, the first high priest. According to the genealogical lists he was third in descent from Levi (Ex. 6:16-20; 1 Ch. 6:1-3)."
-template: lesson.jade
+template: topic.jade
 ---
 
 Aaron ârʹən [Heb ’aharôn—meaning uncertain; Gk Aarōn]. Moses’ older brother, the first high priest. According to the genealogical lists he was third in descent from Levi (Ex. 6:16–20; 1 Ch. 6:1–3). However, the genealogy may be incomplete, since in Ruth 4:18–20 the Judah list has six names. He was probably a descendant rather than the immediate son of Amram and Jochebed, since Amram and his three brothers had numerous descendants within a year of the Exodus (Nu. 3:27f). Aaron’s sister Miriam was several years older, since she was set to watch the bulrush boat of the infant Moses, at whose birth Aaron was three years old (Ex. 7:7).

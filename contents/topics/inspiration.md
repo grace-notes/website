@@ -2,7 +2,7 @@
 title: "Inspiration"
 pdf: "inspiration.pdf"
 description: "Inspiration -  The verbal, plenary inspiration of the Bible."
-template: lesson.jade
+template: topic.jade
 ---
 
 

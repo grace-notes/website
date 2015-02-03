@@ -1,6 +1,6 @@
 ---
 title: Jewish Religious System
-template: lesson.jade
+template: topic.jade
 ---
 
 

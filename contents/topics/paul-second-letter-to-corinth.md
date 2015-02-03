@@ -2,7 +2,7 @@
 title: "Paul - Second Letter to Corinth"
 pdf: "paul_secondlettertocorinth.pdf"
 description: "narrative surrounding Paul's writing from Macedonia his second epistle to the Corinthians, by Conybeare and Howson, along with their translation of the letter."
-template: lesson.jade
+template: topic.jade
 ---
 
 

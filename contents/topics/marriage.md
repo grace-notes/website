@@ -2,7 +2,7 @@
 title: "Marriage, Christian"
 pdf: "marriage.pdf"
 description: "Marriage, Christian -  Thorough treatment on the subject of marriage in the Bible."
-template: lesson.jade
+template: topic.jade
 ---
 
 

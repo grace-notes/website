@@ -2,7 +2,7 @@
 title: "Names of God"
 pdf: "namesofgod.pdf"
 description: "notes from the Scofield Reference Bible on the names of Jehovah."
-template: lesson.jade
+template: topic.jade
 ---
 
 

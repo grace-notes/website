@@ -2,7 +2,7 @@
 title: "Cyrus the Great"
 pdf: "cyrusthegreat.pdf"
 description: "Properly Cyrus II, the Great, founder of the Persian empire. He reigned from 559 to 530 B.C., and his empire flourished until its conquest by Alexander the Great (331 B.C.)."
-template: lesson.jade
+template: topic.jade
 ---
 
 

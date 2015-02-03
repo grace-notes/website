@@ -2,7 +2,7 @@
 title: "Acts, Outline"
 pdf: "actsoutline.pdf"
 description: "outline of the book of Acts."
-template: lesson.jade
+template: topic.jade
 ---
 
 **The Acts of the Apostles - Outline**

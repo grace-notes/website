@@ -1,6 +1,6 @@
 ---
 title: JW
-template: lesson.jade
+template: topic.jade
 ---
 
 

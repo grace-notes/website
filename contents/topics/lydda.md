@@ -2,7 +2,7 @@
 title: "Lydda"
 pdf: "lydda.pdf"
 description: "the city where Peter healed Aeneas."
-template: lesson.jade
+template: topic.jade
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Apostolic Church, The"
 pdf: "apostolicchurch.pdf"
 description: "The beginnings of the Church in the times of the Apostles."
-template: lesson.jade
+template: topic.jade
 ---
 
 
