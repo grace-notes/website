@@ -2,27 +2,14 @@
 title: "James I, King of England, and the Early Stuarts"
 pdf: "james_earlystuarts.pdf"
 description: "from English history, a thorough treatment of Elizabeth I, James I, Edward VI, and Charles I."
+author: Godfrey Davies
 template: topic.jade
 ---
 
-
-<table>
-<tbody>
-<tr class="odd">
-<td align="left"><p><strong>James I of England</strong></p></td>
-<td align="left"><p><strong>Page 23</strong></p></td>
-</tr>
-<tr class="even">
-<td align="left"><p><br /></p></td>
-<td align="left"><p><br /></p></td>
-</tr>
-</tbody>
-</table>
-
 I. Political and Constitutional History, 1603 to 1629
-=====================================================
+-----------------------------------------------------
 
-From *The Early Stuarts, 1603 to 1660,*by Godfrey Davies, Oxford
+From *The Early Stuarts, 1603 to 1660,* by Godfrey Davies, Oxford
 University History of England
 
 ELIZABETH I died early on 24 March 1603, but not before she had
@@ -127,7 +114,7 @@ for treason, felony, or breach of the peace. Shirley, a member, had been
 arrested for debt and held in the Fleet, and it was not until the warden
 of that prison had been committed to the Tower and acts of parliament
 asserting that members had always enjoyed this privilege had received
-the royal assent that Shirley was released to take his seat.1 The other
+the royal assent that Shirley was released to take his seat. The other
 was of greater importance, for it produced the first clash between king
 and parliament. In the Buckinghamshire election Goodwin, an outlaw, had
 defeated Fortescue, but the court of chancery had declared the election
@@ -153,7 +140,7 @@ had long survived the reasons for their original existence. In a
 petition the commons summed up at length the case against purveyance, of
 which Bacon said to James: ‘There is no grievance in your kingdom so
 general, so continual, so sensible, and so bitter unto the common
-subject.’ 4 They mentioned that, in spite of thirty-six or more laws
+subject.’ They mentioned that, in spite of thirty-six or more laws
 prohibiting the abuse of this privilege, there were still many
 grievances: that those responsible for requisitioning carts habitually
 demanded a number far beyond the requirement and exacted money before
@@ -164,7 +151,7 @@ hay, straw, and oats of which the carriage alone often cost the subject
 twice as much as he received for his produce. In seeking the support of
 the lords, the commons struck a snag, for they found that there the
 opinion was held that compensation to the amount of £50,000 per annum
-should be granted. 1 This raised a most important question of principle,
+should be granted. This raised a most important question of principle,
 for the commons felt that, if purveyance was abused, there was no reason
 why compensation should be granted for the surrender by the Crown of
 these abuses; while the lords, voicing the opinion of the Crown, assumed
@@ -187,15 +174,15 @@ flourished long after the feudal duties that had once justified it had
 vanished. The court of wards had already become an obnoxious anachronism
 and a source of annoyance and expense to landowners. Fathers, in making
 their wills, had to face the difficulty of providing for the purchase
-from the king, or his officers, of the wardships of their children;2 and
+from the king, or his officers, of the wardships of their children; and
 a faithful servant of the Crown, like Strafford, hoped that he might be
-rewarded with the wardship of his own son. 1 Moreover an odious traffic
+rewarded with the wardship of his own son. Moreover an odious traffic
 in the rights of wardship developed, often to the enrichment of greedy
 courtiers. In this case the commons, recognizing that the system was
 legal, offered to provide, in another way, a larger revenue than the
 king had ever obtained from the court of wards, but, instead of thanks,
 received one of the frequent scoldings that the king, ‘as a father to
-his children’, was wont to inflict upon them. 2
+his children’, was wont to inflict upon them.
 
 The result was the Apology of the House of Commons, which is a
 statement, couched in firm, dutiful language, of parliamentary
@@ -221,11 +208,11 @@ spirit to attempt the subversion of the ecclesiastical status quo, but,
 for the sake of peace and unity, ask that ‘some few ceremonies of small
 importance’ might be abandoned. After mentioning purveyance and
 wardship, they conclude by stating that ‘the voice of the people, in the
-things of their knowledge, is said to be as the voice of God’. 3
+things of their knowledge, is said to be as the voice of God’.
 Apparently the Apology was never presented to the king, but it stands on
 record as an undelivered ‘lecture to a foreign king on the
 constitutional customs of the realm which he had come to govern, but
-which he so imperfectly understood’. 1
+which he so imperfectly understood’.
 
 On the other hand there is little doubt that a copy of the petition
 reached the king’s hands, for, in his speech at the prorogation, he
@@ -245,7 +232,7 @@ seemed to emanate either from ‘idle heads’ or disloyal hearts. There was
 thus no sympathy between king and parliament because there was no
 understanding.
 
-Disagreement on religion was greater than on any other question. 2
+Disagreement on religion was greater than on any other question.
 Probably the sentiments of the majority in parliament were voiced in the
 puritan appeal, presented to the king on his first entrance into
 England, which has become known as the Millenary Petition. At the
@@ -256,7 +243,7 @@ a good understanding with parliament. In the Apology the commons had
 hoped that the relinquishment of a few ceremonies of slight importance
 would secure a perpetual uniformity, but James and Bancroft (who was
 nominated archbishop of Canterbury in October 1604) meant to achieve
-unity by the rigid enforcement of the law. 3
+unity by the rigid enforcement of the law.
 
 Another difficulty in the way of a good understanding between king and
 parliament was presented by the catholic question. James, hankering
@@ -265,15 +252,15 @@ subjects by a uniform enforcement of the penal code, and treated
 catholics according to dynastic or personal, rather than national or
 religious, considerations. By alternately permitting and relaxing
 persecution he created distrust among protestants and failed to win the
-confidence of catholics. The occasional martyrdom of priests 1 and the
-more frequent exaction of recusancy fines 2 made some of the bolder
+confidence of catholics. The occasional martyrdom of priests and the
+more frequent exaction of recusancy fines made some of the bolder
 catholics despair of any lasting alleviation of their cruel lot. The
 result was the Gunpowder Treason or Plot. A small band headed by Robert
 Catesby hired a cellar under the houses of parliament, had it well
 stored with barrels of gunpowder, and arranged for Guy Fawkes to apply
 the torch. They hoped that if king, lords, and commons were all blown
 up, they might profit by the inevitable confusion among protestants to
-seize the reins of government. 3 Their plot failed completely, but it
+seize the reins of government. Their plot failed completely, but it
 inevitably deepened the national hatred against them, and increased the
 severity of the penal code.
 
@@ -282,13 +269,13 @@ Plot, and was adjourned immediately after a speech from the throne, in
 which James tried to enlighten his hearers by enlarging upon the true
 nature of monarchy, declaring that kings were God’s ‘vice-gerents on
 earth, and so adorned and furnished with some sparkles of the
-Divinitie’, 4 and upon the function of parliament: ‘Neither is this a
+Divinitie’, and upon the function of parliament: ‘Neither is this a
 place . . . for every rash and harebrained fellow to propone new lawes
-of his owne invention.’ 5 Nevertheless, when parliament assembled again,
+of his owne invention.’ Nevertheless, when parliament assembled again,
 there was an unwonted harmony between king and estates: a generous
 financial grant was made, and an act, passed in the previous session, to
 appoint commissioners representing England and Scotland to treat of a
-union between the two kingdoms, was extended. 6
+union between the two kingdoms, was extended.
 
 The proposed union was the main topic of discussion in the third session
 ( 1606-7). In his opening speech James strongly urged the importance of
@@ -299,15 +286,15 @@ subjects born before his accession to the English Crown might be
 considered naturalized. When these preliminaries are completed the two
 nations ‘shall ever acknowledge one church and one king; and be joined,
 in a perpetual marriage, for the peace and prosperity of both nations,
-and for the honour of their king’. 1 The ideal that James set before
+and for the honour of their king’. The ideal that James set before
 parliament was not destined to be realized for another century. The old
 hatred between England and Scotland had become less vehement but was
-still strong. Englishmen knew little of Scotland and cared less. 2 Many
+still strong. Englishmen knew little of Scotland and cared less. Many
 of the English despised the Scots as a nation of beggarly peasants or
 pedlars, or simply as men living by robbery or treachery. James’s
 generosity to favourites whose sole merit was their nationality had made
 Scots more unpopular than ever, and it was easy to represent them as
-greedy adventurers who would devour the land like so many boars. 3
+greedy adventurers who would devour the land like so many boars.
 
 The debates naturally turned on the question of free trade and
 naturalization. The London merchants protested that they would be ruined
@@ -329,18 +316,18 @@ the common law the Post-nati (the name given to those born in Scotland
 after James’s accession) were ipso facto naturalized. They took up the
 position that they would have a ‘perfect union’ or nothing. By this they
 meant, as Sir Edwin Sandys stated, an incorporating union under which
-there would be one parliament and one law for both kingdoms. 1
+there would be one parliament and one law for both kingdoms.
 
 In view of the strength of the national prejudice, James had perforce to
 abandon his well-meant plan, and be content with the verdict at a
-collusive legal action, usually known as Calvin’s case, 2 by which it
+collusive legal action, usually known as Calvin’s case, by which it
 was declared that the Post-nati were naturalborn subjects of the king of
 England. Coke recognized that the action was ‘the weightiest for the
 consequent, both for the present and for all posterity’; and in fact, as
 the historian of English law states, it made ‘a uniform status for
 natural-born subjects, not only in England and Scotland, but also in the
 many lands which, in the succeeding centuries, were added to the king’s
-dominions’. 3
+dominions’.
 
 This use of the law-courts to declare as already existing law what
 parliament was unwilling to enact, was capable of dangerous extension.
@@ -383,7 +370,7 @@ and since all foreign affairs, including commerce, are controlled by the
 absolute power of the king, impositions are rightly levied by this
 extraordinary prerogative. So far as foreign commodities are concerned,
 no act of parliament or petition was ever made against an impost upon
-alien goods, but the tax had been paid. 1
+alien goods, but the tax had been paid.
 
 On the whole, although Fleming’s statement about the absolute or
 extraordinary prerogative of the Crown was capable of dangerous
@@ -400,7 +387,7 @@ to cover additional impositions that were levied merely in order to
 increase the royal revenue.
 
 To Salisbury, the treasurer, this decision seemed a godsend, and he
-proceeded to lay new impositions on merchandise, 1 though he was careful
+proceeded to lay new impositions on merchandise, though he was careful
 to make them as little onerous as possible and acted only after
 consulting the chief city merchants. Since the estimated yield of the
 new levies was £70,000, and the possibilities of raising further revenue
@@ -413,7 +400,7 @@ exertions by which £700,000 of debt had been paid off, there was still
 owing £300,000, and that the revenue fell short of the requirements by
 £50,000, without allowing for extraordinary expenses. Members, however,
 were not impressed and they evinced more zeal for checking the
-prodigality of the court than for voting additional taxes. Wentworth’s 2
+prodigality of the court than for voting additional taxes. Wentworth’s
 speech is probably typical of the general sentiments: that it was
 useless to grant any more supplies unless the king would resume the
 pensions he had given to courtiers and reduce his own expenses. ‘For his
@@ -434,12 +421,12 @@ dictionary, The Interpreter, compiled by John Cowell. In this book the
 royal authority is enhanced to the highest point, and its writer leaves
 the impression that in his opinion the king is absolute and above the
 laws, and only admits the concurrence in legislation of the three
-estates through his benignity or by reason of his coronation oath 1.
+estates through his benignity or by reason of his coronation oath.
 Before there was time to prepare an address, the king prudently sent a
 message to the two houses in which he disavowed the theory of the
 prerogative, as set forth by Cowell, and acknowledged that he had no
 power either to make laws or levy subsidies without parliamentary
-assent. He therefore ordered the suppression of the obnoxious volume. 2
+assent. He therefore ordered the suppression of the obnoxious volume.
 
 After this interruption, attention once again centred on the state of
 the royal income. The commons were now willing that compensation should
@@ -459,22 +446,22 @@ back, admitting that impositions were proper subjects for parliamentary
 inquiry. Accordingly a discussion of unusual length and gravity ensued,
 in the course of which the issue was fairly stated by a legal antiquary,
 William Hakewill: ’The question now in debate amongst us is, whether His
-Majesty may, by 6 prerogative royal, without assent of parliament, at
+Majesty may, by prerogative royal, without assent of parliament, at
 his own will and pleasure, lay a new charge or imposition upon
 merchandises, to be brought into, or out of this kingdome of England,,
-and enforce merchants to pay the same? 3 The same speaker, in an
+and enforce merchants to pay the same? The same speaker, in an
 exhaustive examination of precedents, made out a good case against the
 right of the Crown to levy new customs for revenue purposes, and the
 general feeling of the house was clearly with him. Therefore Salisbury
 once more tried to arrange a compromise and eventually succeeded in
-inducing the commons to offer £200,000.1 In a memorial the commons
+inducing the commons to offer £200,000. In a memorial the commons
 stated the concessions they expected from the king in return for the
 increased revenue he would receive. Purveyance, wardship, and other
 feudal relics were to be abolished (except aids, restricted in amount to
 £25,000), and possession of an estate for sixty years was to be a
 sufficient title against the king and his heirs. Four English counties
 now subject to the jurisdiction of the council of Wales were henceforth
-to be exempt therefrom. 2
+to be exempt therefrom.
 
 In his answer, delivered just before the prorogation, James took up
 other grievances as well as those mentioned above. He dealt at some
@@ -486,7 +473,7 @@ commons’ petitions, his feeling obviously was that ecclesiastical
 questions were no fit subjects for parliamentary interference, and that
 he meant jealously to safeguard his supremacy. Similarly, in touching
 upon the proposed restriction of the council of Wales, he would only
-promise to consider the matter. 3 In other words his attitude was that
+promise to consider the matter. In other words his attitude was that
 the commons after bringing grievances to his notice should thenceforth
 be content to leave their redress to him.
 
@@ -532,14 +519,14 @@ they became committees of the whole house. This change in procedure grew
 more and more important in the twenties and was admirably suited to
 training and developing leaders in the struggle against the court. Thus
 the tide was already advancing strongly in resistance to that system of
-monarchy which James loved so well. 1 His complete failure to appraise
+monarchy which James loved so well. His complete failure to appraise
 the new spirit that was animating members, and his entire lack of
 sympathy with popular opinion, were plainly revealed after the
 dissolution of his first parliament, in which criticism of his beloved
 Scots had been frequent. He now scattered £34,000 among his favourites
 stly fellow countrymen, and created Robert Carr Viscount Rochester,
 thereby for the first time enabling a Scot to sit in the house of lords.
-1
+
 
 Salisbury, who was mainly responsible for the royal policy, did not long
 survive the first parliament of the reign; and his death in 1612 removed
@@ -600,12 +587,12 @@ co-operation was denied in a close division in which the majority was
 largely composed of bishops, courtiers, and the two Scots who had been
 created English peers. To make matters worse, Neile, bishop of Lincoln
 and one of the worst of sycophants, who was possibly angered by a speech
-in the commons charging the clergy with leading scandalous lives, 1
+in the commons charging the clergy with leading scandalous lives,
 delivered a strong attack upon the commons. Let not the lords enter into
 a conference, he said, on a bill that struck at the very root of the
 prerogative. They would be sure to hear undutiful and seditious
 speeches, tending to distract both houses and alienate the king and his
-subjects.2. When the commons complained of this speech Neile apologized
+subjects. When the commons complained of this speech Neile apologized
 with tears, but the commons were stir unsatisfied. Not content with
 debating the bishop’s speech against them in the upper house, they
 strayed like lost sheep into all kinds of trifling accusations
@@ -619,7 +606,7 @@ opinions in a disorderly manner. At their meetings nothing is heard but
 cries, shouts and confusion. I am surprised that my ancestors should
 ever have permitted such an institution to come into existence. I am a
 stranger, and found it here when I arrived, so that I am obliged to put
-up with what I cannot get rid of. 1
+up with what I cannot get rid of.
 
 The need for money, which had been responsible for calling a parliament,
 survived its dissolution. To raise funds James issued a general appeal
@@ -630,7 +617,7 @@ would not be generally followed. Thereupon the privy council attempted
 to use the sheriffs and justices of the peace as its local agents. These
 latter were instructed to inform people of means, within their
 respective counties, that free gifts to His Majesty would be regarded as
-proofs of good affections and held in grateful remembrance.2 What
+proofs of good affections and held in grateful remembrance. What
 happened in Devonshire is typical of the whole country. There the
 justices informed the privy council of their anxiety that posterity
 would suffer if they established such a precedent. ‘Nothing but the fear
@@ -638,7 +625,7 @@ of the just blame of after ages’ impelled them to refuse what they would
 always be willing to give in accordance with the ancient and lawful
 customs of the kingdom. At this juncture they were summoned before the
 council, where it was proved that free gifts without coercion had often
-been made to the king’s progenitors.3 Nevertheless, in spite of these
+been made to the king’s progenitors. Nevertheless, in spite of these
 appeals, the amount raised from the whole country was only
 about,£40,000, plus £20,000from the City and courtiers.
 
@@ -673,7 +660,7 @@ me with your love and obedience for] it hath ever been my common answer
 to any, that would plead for favour to a puritan minister by reason of
 his rare gifts, that I had rather have a conformable man with but
 ordinary parts, than the rarest men in the world, that will not be
-obedient.’ 2
+obedient.’
 
 Rochester’s downfall, however, came about not from sullen rudeness to
 the king but from the discovery of a shocking crime. When Rochester
@@ -734,7 +721,7 @@ might be involved. Summoned before the council, the other judges
 retreated, but Coke stood his ground and was dismissed from his office.
 The lord chancellor told Coke’s successor that the dismissal was ‘a
 lesson to be learned of all, and to be remembered and feared of all that
-sit in judicial places’. 1
+sit in judicial places’.
 
 Although some further examples were necessary before all the judges were
 prepared to accept the subservient position assigned to them by Stuart
@@ -742,7 +729,7 @@ theories of government, Coke’s disgrace was a heavy blow to the
 independence of the judiciary. But his sacrifice of office rather than
 conform to royal dictation was not in vain. Henceforth men became less
 and less disposed to accept legal decisions as definitions of the
-constitution, until in time even thoughtful men like Hyde 2 felt that
+constitution, until in time even thoughtful men like Hyde felt that
 the decision in Hampden’s case was against the plain and obvious meaning
 of the law. By the dismissal of independent judges and the appointment
 of subservient successors, the early Stuarts obtained servile
@@ -751,7 +738,7 @@ deprived those decisions of all moral weight.
 
 During the years that intervened between the fall of Coke in 1616 and
 the meeting of parliament in 1621, domestic history contributes little
-worthy of remembrance, except the advance of Buckingham3 in royal favour
+worthy of remembrance, except the advance of Buckingham in royal favour
 and the fall of the Howards. This amily, which engrossed many of the
 offices of state, was headed by Nottingham, lord high admiral, and
 Suffolk, lord high treasurer. Buckingham, whose pride could not endure
@@ -785,7 +772,7 @@ the council essential.
 
 The first stage of the Thirty Years War was now over, for the battle of
 the White Mountain ( November 1620) ended Frederick’s brief reign in
-Bohemia. 1 It soon became evident, however, that his enemies would not
+Bohemia. It soon became evident, however, that his enemies would not
 be content until they had also expelled him from the Upper and Lower
 Palatinate. James, who had no direct responsibility for the rash
 adventure in Bohemia, felt that he could not sit idly by while his
@@ -799,21 +786,21 @@ English history had interest in public affairs, and particularly in
 foreign policy, been so intense. Sermons were often devoted to the
 danger to continental protestantism, and it is noteworthy that the
 earliest English newsbooks were printed in Holland ( 1620-1) and dealt
-with foreign intelligence. 1 James, however, regarded this popular
+with foreign intelligence. James, however, regarded this popular
 absorption in foreign news with strong disapproval. It is wholly
 characteristic that, when Bacon drafted a proclamation to explain to the
 electorate the situation of foreign affairs, which necessitated a
 parliament, James’s comment was that, as the people were incapable of
 understanding state affairs, it was not fit that the king should explain
-them. 2 He found it easy to punish ministers who talked politics in the
+them. He found it easy to punish ministers who talked politics in the
 pulpit, and to issue a proclamation against the excessive discussion of
-questions of state; 3 but the mass of Englishmen were too interested to
+questions of state; but the mass of Englishmen were too interested to
 be deterred. It is probable that, as Bacon suggested, the disappointing
 results of the elections were occasioned by recent events on the
-Continent and ‘the general licentious speaking of state matters’. 4
+Continent and ‘the general licentious speaking of state matters’.
 factor he overlooked was the depression lasting from about 1619 to 1624.
 Hard times are usually blamed on the government by electors and there is
-no reason to believe 1621 was an exception. 5
+no reason to believe 1621 was an exception.
 
 James’s contempt for the opinions of the man in the street and his
 determination to exclude members of parliament from all real influence
@@ -824,7 +811,7 @@ and approved the policy that required the expenditure. At present James
 was in a curious position because parliament accepted one half of his
 foreign policy, his anxiety to prevent the catholic powers from
 overrunning the Palatinate, but disliked the other half, the Spanish
-match. 1 It is just possible that, had the king given a strong lead in
+match. It is just possible that, had the king given a strong lead in
 his opening speech to parliament ( January 1621), domestic grievances
 would have been forgotten amid the excitement of a spirited attempt to
 preserve Frederick in his hereditary domains. Instead James disdained to
@@ -844,7 +831,7 @@ grievances.
 For some time there had been indications of the storm about to break,
 because a writer of newsletters had noted that everybody was groaning
 under the burden of monopolies, whose number had been multiplied by a
-score since James’s accession. 3 What made this burden the more
+score since James’s accession. What made this burden the more
 unbearable was that Elizabeth’s gracious surrender in 1601 had seemed to
 lighten it permanently, for she had agreed that the legality or
 otherwise of any or every patent might be tested in the law-courts. At
@@ -854,7 +841,7 @@ facie against both common and statute law, that it was burdensome to the
 kingdom because it raised the price of the commodity at the same time
 that it lowered the quality and threw artificers out of work, and that
 it was justifiable only when a new invention was made or introduced or
-when demanded in the interest of the state. 1 Nevertheless the law had
+when demanded in the interest of the state. Nevertheless the law had
 been ignored, evaded, or broken. In 1606, 1610, and 1614 parliament had
 protested against the abuse of patents, but the evil was more rampant
 than ever during the early years of Buckingham’s ascendancy. Then the
@@ -877,7 +864,7 @@ a fury. Mitchell was called to the bar and sentenced without a hearing.
 2 Then, rather late in the day, the question was raised whether the
 commons had any right to punish offences which did not concern their
 privileges. A search for precedents having failed, it was resolved to
-repair to the lords. 3 The king, hearing of these proceedings,
+repair to the lords. The king, hearing of these proceedings,
 unexpectedly addressed the lords in a curiously vacillating speech
 intended to exempt himself and Buckingham (and his relatives) from all
 blame. He told the lords that the commons would be the accusers and they
@@ -886,7 +873,7 @@ against Mompesson were proved by witnesses. The speech ended
 characteristically with the pronouncement that ‘I will give accoumpt to
 God and to my people declaratively, and he that will have all doon by
 parliament is an enemy to monarchie and a traitor to the king of
-England’. 1 Undeterred, the lords heard witnesses and passed sentence.
+England’. Undeterred, the lords heard witnesses and passed sentence.
 Now, having tasted blood, the commons flew at higher game. During their
 investigations of irregularities at the courts of law they unearthed
 evidence that Francis Bacon, Viscount St. Albans, lord high chancellor
@@ -894,14 +881,14 @@ of England, had accepted presents from suitors, a few while their suits
 were actually pending but usually after judgement had been delivered.
 Bacon at once realized the uselessness of attempting a defence to the
 articles of impeachment exhibited against him, and acknowledged the
-substantial accuracy of the charges. 2 The king remitted most of the
+substantial accuracy of the charges. The king remitted most of the
 penalties imposed, but excluded him from all public business. He did not
 long survive his disgrace, dying in 1626. The only possible line of
 defence is that which he himself suggested in a letter written to the
 king at an early stage of the proceedings. ‘I hope I shall not be
 found’, he said, ‘to have the troubled fountain of a corrupt heart in a
 depraved habit of taking rewards to pervert justice; howsoever I may be
-frail and partake of the abuse of the times.’ 3 The most lenient view
+frail and partake of the abuse of the times.’ The most lenient view
 that can be taken, therefore, is that the highest legal dignitary in the
 kingdom accepted presents from suitors, when he must have known full
 well that these presents were either given in the hope of influencing
@@ -914,7 +901,7 @@ These judicial proceedings, and the time they consumed, seem to have
 alarmed and irritated the court. When the houses met, after an
 adjournment, members were told to avoid long speeches and malicious
 diversions from what should be the sole business before them, the grant
-of supplies to sustain the army in the Palatinate. 4 Once again the
+of supplies to sustain the army in the Palatinate. Once again the
 commons were left without any clear indication of the nature of the
 policy they were asked to finance. They naturally demanded that, first,
 they should know against what enemy the army to be raised was going to
@@ -957,7 +944,7 @@ the subjects of England’. They replied to the king’s denial of their
 right to discuss foreign relations with the statement that what
 concerned the king, state, defence of the realm, and the church of
 England were proper subjects for counsel and debate in parliament and
-that they had every right to discuss and resolve them. 1
+that they had every right to discuss and resolve them.
 
 This was too much for James’s patience, and he first adjourned and then
 dissolved parliament. Coke and Sir Robert Phelips were imprisoned, and
@@ -967,8 +954,8 @@ journal of the commons, at a meeting of the privy council, and tore out
 the offending protestation. At the same time he made a speech condemning
 it because it was framed in ambiguous and general terms that might serve
 in the future as precedents for the invasion of most of the prerogatives
-of the Crown. 1 The criticism is just. The commons’ right to give advice
-on all subjects was substantially new, 2 and if conceded would give them
+of the Crown. The criticism is just. The commons’ right to give advice
+on all subjects was substantially new, and if conceded would give them
 simultaneously an indirect control over the administration, for they
 would naturally refuse supplies whenever their advice was not accepted.
 James realized the logical consequences of their claims more clearly
@@ -989,7 +976,7 @@ be given members. When they had heard about the negotiations, ‘I shall
 then entreat your good and sound advice. . . . Never a king gave more
 trust to his subjects than to desire their advice in matters of this
 weight.’ Later he said that no man dying of thirst longed for water more
-ardently than he desired a happy conclusion to his parliament. 3 On the
+ardently than he desired a happy conclusion to his parliament. On the
 whole his wish was gratified, and he parted on better terms with the
 houses, now, than on any previous occasion, for king and subjects were
 united against Spain–although the union was achieved only after the
@@ -997,7 +984,7 @@ complete failure of a policy pursued consistently for a decade.
 Moreover, judging by the course of events, the king’s statecraft had
 been wrong and popular prejudice right. It was perhaps fortunate for his
 peace of mind that he died at the outbreak of hostilities, for his reign
-ended, as it had begun, with England at war with Spain. 1
+ended, as it had begun, with England at war with Spain.
 
 Miserably as James had failed in his most cherished plan, he furnished
 proof before he died that he was wiser than his son and his favourite.
@@ -1009,7 +996,7 @@ Middlesex were more significant constitutionally than those against
 Mompesson or Bacon. Then the commons had been content to turn over the
 evidence to the lords for investigation and punishment; now they
 presented definite charges as ‘inquisitors general of the grievances of
-the kingdom’. 2
+the kingdom’.
 
 Constitutionally the reign is the first of six that occupied the
 transitional period during which the Tudor monarchy was transformed into
@@ -1045,7 +1032,7 @@ commencement the lords refused to join the commons in attempting to
 suppress the evils of purveyance, and in 1614 adopted the same attitude
 with regard to impositions. Yet during the last few years signs were not
 lacking that the two houses would present a united front. James’s lavish
-creation of English peerages 1 and bestowal of Scottish and Irish
+creation of English peerages and bestowal of Scottish and Irish
 peerages on Englishmen, the ascendancy of Buckingham in the royal
 counsels, and later the influence ecclesiastics exercised in politics,
 all combined to alienate the old nobility and to produce an opposition
@@ -1087,7 +1074,7 @@ it was already discussing questions of state in no way directly
 concerned with foreign affairs and had achieved sufficient importance to
 be referred to as the junta, or cabinet council. Charles I continued the
 practice of his father, and it was in the cabinet council that Strafford
-spoke the words that brought him to the block. 1 However, although by
+spoke the words that brought him to the block. However, although by
 1640 the cabinet council had become established in fact and was legally
 what it has always remained, a committee of the privy council, it bore
 little resemblance to the modern cabinet. Above all, its members were
@@ -1113,7 +1100,7 @@ possible to deduce his conception of the royal office with greater
 definition than for any other English king. By a free monarch he meant
 one free from all control. Even though ‘a free and absolute monarch’
 owed duties to his subjects and was ordained for their advantage, no
-degree of tyranny on his part justified them in resisting. 1 He could
+degree of tyranny on his part justified them in resisting. He could
 make laws without the co-operation of parliament or suspend laws passed
 by parliament, and, notwithstanding that ‘a good king will frame all his
 actions according to the law, yet he is not bound thereto but of his own
@@ -1137,7 +1124,7 @@ after one of the more hyperbolical of the king’s speeches, noted of it:
 and regal prerogative strained so high, and made so transcendent every
 way, that yf the practise should follow the positions, we are not likely
 to leave to our successors that freedome we received from our
-forefathers.’ 2 Thus the persistence with which James thrust down his
+forefathers.’ Thus the persistence with which James thrust down his
 subjects’ throats his theory of the constitution almost compelled them
 in their turn to formulate their views of the limitations of monarchy
 and the rights of parliament, which might otherwise have remained
@@ -1159,9 +1146,9 @@ postulate of the theory of the divine right of kings. ‘I must avow’, he
 said in June 1628, ‘that I owe the account of my actions to God alone.’
 While on trial for his life he was equally definite. ‘A king’, he told
 Bradshaw, the president of the court, ‘cannot be tried by any superior
-jurisdiction on earth.’ 1 But for Bradshaw’s interruption, he would have
-continued that the Scripture 2 saith, ‘Where the word of a king is,
-there is power, and who may say unto him “What doest thou?”’ 3 He cited
+jurisdiction on earth.’ But for Bradshaw’s interruption, he would have
+continued that the Scripture saith, ‘Where the word of a king is,
+there is power, and who may say unto him “What doest thou?”’ He cited
 the legal maxim that a king can do no wrong as proof that he could not
 be impeached. He was equally convinced that there was a divine law
 commanding subjects to obey their king, under penalty of God’s
@@ -1170,13 +1157,13 @@ judgement. At the time of the negotiations at Uxbridge, in February
 if, during his arguments with the parliamentary commissioners, ‘in your
 privat discourses, . . . you would put them in mynde that they were
 arrant rebelles & that their end must be damnation, ruine, and infamy,
-except they repented, . . . it might doe good’. 1 He remained consistent
+except they repented, . . . it might doe good’. He remained consistent
 to the last hour of his life. From the scaffold he declared that the
 people had no claim to any voice in the government. Their freedom
 consisted in the enjoyment of laws by which their life and liberty would
 be secure. It was not in having a share in the government: that did not
 pertain to them –‘a subject and a soveraign are clean different things’.
-2
+
 
 Both James and his son were thus devoted adherents of the theory of the
 divine right of kings, though they stressed different postulates. The
@@ -1187,11 +1174,11 @@ to survive. He was very slow in beginning to walk and to talk, but
 whereas he became a good horseman and walker, he suffered from an
 impediment in his speech all his life. This defect may account for the
 gravity and reserve which caused his elder brother, Henry (d. 1612), to
-tease him by calling him the archbishop of York. 3 Unlike his father’s,
+tease him by calling him the archbishop of York. Unlike his father’s,
 his disposition was inflexible. His intellect was rigid, yet he was
 capable of quibbling and giving evasive answers that might mislead. He
 himself said that he could never be a lawyer: ‘I cannot defend the bad
-nor yield in a good cause.’ 4
+nor yield in a good cause.’
 
 Charles’s character augured ill for the future, inasmuch as both the
 general trend of events–the spirit of the age–and the particular
@@ -1216,7 +1203,7 @@ the real cause of the war with Spain, not any parliamentary action; that
 it was well known that then articles that benefited Roman catholics had
 been sanctioned, and it might be that the recent marriage treaty with
 France included similar provisions; and that, after all, the best way to
-secure national safety was to suppress Roman catholicism at home. 1 In
+secure national safety was to suppress Roman catholicism at home. In
 vain Buckingham took upon himself the fence of the royal policy and
 urged prompt grant of supplies. The commons by this time had made up
 their mind that redress of grievances must have precedence. Voices were
@@ -1225,7 +1212,7 @@ Charles thereupon hurriedly dissolved his first parliament, and thus
 terminated the opening scene in the long tragedy that ended twenty-four
 years later upon the scaffold.
 
-His position continued to grow worse, for the expedition to Cadiz 2
+His position continued to grow worse, for the expedition to Cadiz
 returned in disgrace and the tension between the English and French
 courts was increasing so rapidly as to threaten war. The attempt to
 raise money by the issue of privy seals asking individuals to lend
@@ -1240,27 +1227,27 @@ that a royal command must be God’s glory, and obedience to it the
 subject’s honour. It was asserted that the king would never depart from
 God’s service, from the care of his people, or from the wise managing of
 his treasure. Laud’s biographer remarks that this was sound doctrine but
-was not acceptable to the auditors. 3 Soon they were listening to an
+was not acceptable to the auditors. Soon they were listening to an
 orator of very different type–Eliot–on the late disasters. He roundly
 declared: ‘Our honour is ruined, our ships are sunk, our men perished;
 not by the sword, not by the enemy, not by chance, but, as the strongest
 predictions had discerned and made it appear beforehand, by those we
-trust.’ 1 His speech really determined the history of this parliament,
+trust.’ His speech really determined the history of this parliament,
 for it convinced members that a strict accountability for the past must
 precede any provision for the future. The commons soon found that in
 their endeavour to establish the responsibility for Mansfeld’s
-disastrous expedition 2 they were hampered by the refusal of the council
+disastrous expedition they were hampered by the refusal of the council
 of war to testify as to the opinions of individual members. Charles
 upheld them in their refusal: ‘It is not you that they aim at, but it is
 me upon whom they make inquisition, and for subsidies, they will not
-hinder it. Gold may be bought too dear.’ 3 Undaunted, the commons now
+hinder it. Gold may be bought too dear.’ Undaunted, the commons now
 attacked Buckingham as the author of all the national ills, and, once
 fairly started after their prey, they could not be called off. On one
 occasion Charles warned them not to question the man whom he delighted
 to honour and whom he cherished so dearly. A second time he threatened
 them in unmistakable terms: ‘Remember that parliaments are altogether in
 my power for their calling, sitting, and dissolution; therefore, as I
-find the fruits good or evil, they are to continue, or not to be.’ 4
+find the fruits good or evil, they are to continue, or not to be.’
 
 Perhaps the commons were emboldened by the knowledge that they could
 count on the support of the peers, for the upper house had revealed an
@@ -1271,16 +1258,16 @@ successive petitions to the king for the release of Arundel, nominally
 confined for an offence personal to Charles but in reality for
 opposition to Buckingham. The king did not give way until there was a
 probability that they would refuse to transact any business in Arundel’s
-absence. 5 When Charles attempted, by having Bristol accused of high
+absence. When Charles attempted, by having Bristol accused of high
 treason, to prevent his revealing what had actually happened at Madrid
 during the visit there of the prince and Buckingham, the house
 simultaneously accepted Bristol’s charge of high treason against
-Buckingham. 1 They foiled all the king’s efforts to deprive Bristol of a
+Buckingham. They foiled all the king’s efforts to deprive Bristol of a
 fair trial and allowed the earl to put in an answer full of damaging
 revelations. It was therefore clear, when the commons in their turn drew
 up an impeachment of Buckingham, that nothing could save him but the
 dissolution of parliament. When the lords prayed the king that they
-might sit a little longer, his reply, ‘not a minute’, 2 showed that he
+might sit a little longer, his reply, ‘not a minute’, showed that he
 realized the peril in which his favourite stood.
 
 The need for money remained as pressing after the dissolution of
@@ -1291,7 +1278,7 @@ those obnoxious to the court. The response, however, was extremely
 meagre, for men refused to give except in a parliamentary way. A very
 rickety fleet was collected from the maritime towns and counties, and
 those who objected were sharply told that in times of danger ordinary
-precedents no longer applied. 3 There was still no money, however, to
+precedents no longer applied. There was still no money, however, to
 feed or pay mariners, although the probability of a war with France made
 the equipment of the fleet more imperative than ever. Therefore the king
 had recourse to a forced loan, to be raised by commissioners who were to
@@ -1301,9 +1288,9 @@ scheme more palatable, Charles called upon the clergy for help from
 their pulpits. In a letter to the archbishop–doubtless intended to serve
 as a text for many a sermon–the king urged that, having been led into
 war by the advice of parliament, he could not now be abandoned but with
-the sin and shame of all men. 4 The section of the clergy that good
+the sin and shame of all men. The section of the clergy that good
 protestants were beginning to label ‘Arminian’ willingly responded to
-the call. Sibthorpe5 and Roger Manwaring preached sermons magnifying the
+the call. Sibthorpe and Roger Manwaring preached sermons magnifying the
 prerogative above law and parliament. Charles was so pleased with the
 former’s effusion that he directed the archbishop to license it. The
 archbishop refused. Thereupon he was ordered to confine himself to his
@@ -1323,19 +1310,19 @@ During the year 1627 the situation went from bad to worse. The king of
 Denmark was expelled from Germany, and the protestant cause lay at the
 feet of the victorious Roman catholics; the French Huguenots were
 encouraged to rebel, but Buckingham suffered a decisive defeat on the
-Isle of Ré when he tried to relieve La Rochelle. 1 These disasters
+Isle of Ré when he tried to relieve La Rochelle. These disasters
 increased the need of money at the same time that they made borrowing
 more difficult. As one of Buckingham’s parasites acknowledged, ‘No man
 that is moneyed will lend upon any security, if they think it to go the
-way of the court, which now is made diverse from the state.’ 2 The
+way of the court, which now is made diverse from the state.’ The
 failure off La Rochelle was regarded as the greatest and most shameful
 defeat England had suffered since the loss of Normandy. Indeed,
 according to Denzil Holles, who was one of the five members whom Charles
 tried to arrest in 1642, England had never received so dishonourable a
-blow. 3 Exasperation at the manifest misgovernment naturally
+blow. Exasperation at the manifest misgovernment naturally
 strengthened resistance to the forced loans, and before the end of the
 year an attempt was made to test the legality of confinements for
-refusing to contribute. In a famous case 4 five prisoners applied for a
+refusing to contribute. In a famous case five prisoners applied for a
 writ of habeas corpus in order to bring their case before the king’s
 bench. The writ was not one of right but of grace, yet it was granted
 because of the great public interest in the issue at stake. Probably the
@@ -1358,7 +1345,7 @@ they and the general public assumed that a final verdict had been given
 and that the judges had lent their authority to the view that the loan
 and the imprisonments for refusing to contribute to it were legal, and
 that the king had the right to commit for indefinite periods without his
-victims’ having any redress at law. 1
+victims’ having any redress at law.
 
 The prison doors were opened at the beginning of 1628, but this clemency
 did not evoke any gratitude in the country at large. When Charles caused
@@ -1367,9 +1354,9 @@ forced loan and arbitrary punishment. Popular interest ran high and
 considerable pressure was brought to bear in favour of court candidates,
 but the royal influence was powerless against appeals on behalf of those
 who had suffered imprisonment rather than contribute to the exchequer in
-an unparliamentary way. 2 An observer summed up the results of the
+an unparliamentary way. An observer summed up the results of the
 election as follows: ‘It is feared . . . because such patriots are
-chosen every where, the parliament will not last above eight days.’ 3
+chosen every where, the parliament will not last above eight days.’
 When the houses met, the debates turned almost exclusively upon the
 question how to prevent extra-parliamentary taxation and imprisonment
 without cause shown. The commons began by passing resolutions against
@@ -1379,7 +1366,7 @@ the denial of the writ of habeas corpus, and against the refusal to
 release or bail a prisoner confined without cause shown. These
 resolutions occasioned a great debate in the house of lords, where it
 was thought by a contemporary that the majority stood ‘for the king’s
-prerogative against the subject’s liberties’. 1 Generally speaking, the
+prerogative against the subject’s liberties’. Generally speaking, the
 old nobility opposed the court, but the new creations and most of the
 bishops favoured it. The parties were so evenly divided that in the end
 a compromise was reached which attempted to prevent the king from
@@ -1388,7 +1375,7 @@ to override it in an emergency.
 
 The commons, however, were unwilling to acknowledge explicitly that the
 king possessed these extraordinary powers, especially as no satisfactory
-form of words could be devised to define them. 2 Abandoning their own
+form of words could be devised to define them. Abandoning their own
 resolutions, they now determined to proceed by a bill which should both
 reaffirm the validity of old statutes safeguarding the liberty of the
 subject and interpret them in the sense the commons thought right.
@@ -1398,7 +1385,7 @@ themselves within the laws of their forefathers, without enlarging them
 by new explanations or additions. The flat refusal of the king to suffer
 his prerogative to be curtailed by law prompted Sir Edward Coke to hit
 upon the happy idea that the two houses should join in a Petition of
-Right 3 to the king for the redress of their particular grievances. Such
+Right to the king for the redress of their particular grievances. Such
 petitions had been used by individuals in the past, when they felt that
 the sovereign or his servants had exercised his prerogative to override
 the law, and merely sought permission for the petitioners to enjoy the
@@ -1410,7 +1397,7 @@ the knowledge that the majority of the house of lords sided with his
 opponents. In vain he attempted ambiguous and evasive answers to the
 Petition, for both houses requested a clear and satisfactory answer, and
 in the end the king assented in the style, Soit droit fait come est
-desiré. 1 The Petition, ‘concerning divers rights and liberties of the
+desiré. The Petition, ‘concerning divers rights and liberties of the
 subjects’, begins with a recital of the statutes alleged to have been
 broken and of the grievances for which redress was now provided. It then
 proceeds to ask: (1) that no man hereafter should be compelled to make
@@ -1419,7 +1406,7 @@ consent by act of parliament; (2) that no free man should be imprisoned
 or detained without cause shown; (3) that soldiers and mariners should
 not be billeted upon private individuals against their will; and (4)
 that commissions for proceeding by martial law should not be issued in
-the future. 2
+the future.
 
 Previous to the royal assent to the Petition, the commons had been
 careful to consult the lords at every stage, and together the two houses
@@ -1438,7 +1425,7 @@ only by their intervention was he induced to accept the Petition. The
 necessity of conciliating the upper house proved irksome to Eliot’s
 democratic ardour. On one occasion he had said, ‘I am confident that,
 should the lords desert us, we should yet continue flourishing and
-green’; 3 and the commons proceeded, under his guidance, to test the
+green’; and the commons proceeded, under his guidance, to test the
 truth of this assertion. In particular they passed a remonstrance–a
 prototype of the more famous measure of 1641–detailing grievances in
 both church and state and naming their authors, Laud and Neile of the
@@ -1452,7 +1439,7 @@ profession of both houses, in time of hammering this Petition, was no
 ways to intrench upon my prerogative, saying, they had neither intention
 nor power to hurt it. Therefore it must needs be conceived that I have
 granted no new, but only confirmed the ancient liberties of my
-subjects.’ 1 This view prevailed at law during the years prior to the
+subjects.’ This view prevailed at law during the years prior to the
 meeting of the long parliament. When those members who were imprisoned
 after the dissolution in 1629 tried to take advantage of the Petition,
 they were met by the attorney-general with the following argument:
@@ -1463,7 +1450,7 @@ duty of the people not to stretch it, beyond the words and intention of
 the king. And no other construction can be made of the Petition, than to
 take it as a confirmation of the antient liberties and rights of the
 subject. So that now the case remains in the same quality and degree, as
-it was before the Petition. 2
+it was before the Petition.
 
 Thus its immediate effects were slight, and proof would be difficult to
 find that the king’s government during the years 1629 to 1640 was
@@ -1489,7 +1476,7 @@ who compared him to David slaying Goliath. Verses and ballads celebrated
 England’s delivery, and the duke’s body was conducted to Westminster
 Abbey with few mourners but with an escort of the train-bands lest the
 citizens of London should defile the corpse. ‘And this’, says a
-newsletter, ‘was the obscure catastrophe of that great man.’ 1
+newsletter, ‘was the obscure catastrophe of that great man.’
 
 The death of Buckingham had removed one obstacle to a good understanding
 between king and parliament, and there were other hopeful signs that the
@@ -1506,13 +1493,13 @@ goods were seized, and all attempts to recover them by legal action
 failed. One merchant, Richard Chambers, being summoned before the
 council, bitterly complained that ‘the merchants are in no part of the
 world so skrewed and wrung as in England; that in Turky they have more
-incouragement’. 2 After committal to prison he was released on bail,
+incouragement’. After committal to prison he was released on bail,
 whereupon he was cited before the Star Chamber, whose proceedings had
 been in no way interfered with by the Petition of Right. Another
 merchant, John Rolle, whose goods were confiscated, was a member of
 parliament. As regards religion, whereas the commons, in their
 remonstrances, had demanded the suppression of the Arminians, there were
-obvious signs, such as the promotions of Montague 1 and Manwaring, that
+obvious signs, such as the promotions of Montague and Manwaring, that
 this party was in full favour at court.
 
 When parliament reassembled it was soon evident that a stiff contest was
@@ -1547,7 +1534,7 @@ commons. Montague, at the close of his Appello Caesarem, had written:
 ‘Popery is for tyranny, puritanisme for anarchy: poperie is originall of
 superstition; puritanisme, the high-way unto prophanenesse; both alike
 enemies unto piety. . . . Domine Imperator, defende me gladio, et ego te
-defendam calamo.’ 2
+defendam calamo.’
 
 Eliot’s impetuosity had brought matters to a crisis, and the king felt
 he had no option but to defend the church. In his eyes, as in
@@ -1564,9 +1551,9 @@ should advise the levying of tonnage and poundage without parliamentary
 sanction should incur like denunciation; and that whoever should pay
 tonnage and poundage, under those conditions, should be held a betrayer
 of the liberty of the subject and a capital enemy of the king and
-kingdom. 1 A week later Charles formally dissolved the parliament, with
+kingdom. A week later Charles formally dissolved the parliament, with
 a speech in which he contrasted ‘the undutiful and seditious carriage in
-the lower house’ with the ‘dutiful demeanors’ of the lords. 2 In a sense
+the lower house’ with the ‘dutiful demeanors’ of the lords. In a sense
 the contrast is fair, and at least some of the blame for the eleven
 years’ prerogative government that followed must be laid at the door of
 Eliot, whose headlong course had provoked the inevitable; and, moreover,
@@ -1583,5 +1570,5 @@ persecution. Similarly he never realized that probably a majority of the
 people were deeply attached to parliamentary government and were anxious
 to see its extension rather than its curtailment.
 
-He could see Eliot, who embodied the new aspirations of the
+He could see Eliot, who embodied the new aspirations of the [END]
 
