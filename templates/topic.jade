@@ -8,11 +8,17 @@ block prepend title
 
 block header
   h1= page.title
+  if page.metadata.subtitle
+    div.subtitle= page.metadata.subtitle
+  if page.metadata.author
+    div.author= page.metadata.author
 
 
 block content
   article.article
-    section.content!= typogr(page.html).chain().widont().smartypants().value().replace(/(<div id="TOC">[\s\S]*<\/div>)([\s\S]+?)(<h2)/, "$2<h2>Table of Contents</h2>$1$3")
+    if page.metadata.tableOfContents
+      h2 Table of Contents
+    section.content!= typogr(page.html).chain().widont().smartypants().value()
 
 block prepend footer
   div.nav

@@ -4,45 +4,53 @@ block header
   h1 Topics Library
 
 block content
-  - var topics = Object.keys(contents.topics).sort();
+  - var topics = Object.keys(contents.topics).map( function(a) {
+  -   return contents.topics[a];
+  - }).filter( function(a) {
+  -   return a.title != undefined;
+  - }).sort( function(a,b) {
+  -   var titleA = a.metadata.indexTitle || a.title;
+  -   var titleB = b.metadata.indexTitle || b.title;
+  -   return titleA.trim().toLowerCase().localeCompare(titleB.trim().toLowerCase(), null, { sensitivity: "base" } );
+  - });
   ul.topic-index
-    - var alphabet = {};
-    each article in topics
-      - if (!contents.topics[article].html) continue
-      - alphabet[article.toLowerCase().substr(0,1)] = 1
+    - var alphabet = {}, title;
+    each topic in topics
+      - if (!topic.title) continue
+      - title = topic.metadata.indexTitle || topic.title
+      - alphabet[title.toLowerCase().substr(0,1)] = 1
     each val, letter in alphabet
       li
         a(href='#'+letter)= letter
     li
       a(href='#all') all
 
-  - var initial, id, attributes, article;
-  each filename in topics
-    - article = contents.topics[filename]
-    - if (!article.html) continue
-    - initial = article.filename.split('/').pop().toLowerCase().substr(0, 1);
+  - var initial, id, attributes, title;
+  each topic in topics
+    - title = topic.metadata.indexTitle || topic.title
+    - initial = title.toLowerCase().substr(0, 1);
     - attributes = { 'data-initial': initial }
     if initial != id
       - id = initial
       - attributes.id = id
     article.listing&attributes(attributes)
       header.clearfix
-        h2.pull-left= article.title
+        h2.pull-left= title
         ul.nav.nav-pills.pull-right
-          if article.html
+          if topic.html
             li: a(
-              href=article.url,
-              title="html view of "+article.title
+              href=topic.url,
+              title="html view of "+topic.title
             ).label.label-info view html &nbsp;
               i.fa.fa-file-code-o
-          if article.metadata && article.metadata.pdf
+          if topic.metadata && topic.metadata.pdf
             li: a(
-              href="http://www.gracenotes.info/documents/TOPICS_DOC/"+article.metadata.pdf,
-              title="pdf download of "+article.title
+              href="http://www.gracenotes.info/documents/TOPICS_DOC/"+topic.metadata.pdf,
+              title="pdf download of "+topic.title
             ).label.label-info view pdf &nbsp;
               i.fa.fa-file-pdf-o
-      if article.metadata && article.metadata.description
-        p.text-muted.description= article.metadata.description
+      if topic.metadata && topic.metadata.description
+        p.text-muted.description= topic.metadata.description
   script(src="/topics/toc.js")
 
 
