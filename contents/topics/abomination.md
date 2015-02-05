@@ -99,4 +99,4 @@ The title ‘Son of Man,’ of course, is the title of our Lord in His
 hypostatic union, which is the essence of true God and the essence of
 true man united in one Being.
 
-[^1] An extrapolation from the scholarship of Robert Thieme.
+[^1]: An extrapolation from the scholarship of Robert Thieme.

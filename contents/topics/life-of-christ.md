@@ -1,14 +1,12 @@
 ---
-title: "Life of Christ"
+indexTitle: "Life of Christ"
+title: "The Person and Work of Jesus Christ"
 pdf: "lifeofchrist.pdf"
 description: "the Person and Work of Christ, from His presence in eternity past, through His ministry in the feeding of the 5000."
 template: topic.jade
-toc: true
+author: Pastor Mark Perkins
+toc: yes
 ---
-
-**The Person and Work of Jesus Christ**
-
-*by Rev. Mark Perkins*
 
 Historical Introduction
 -----------------------
@@ -178,34 +176,34 @@ Solomon’s.
 He built monuments and buildings in the Holy Land, and even rebuilt
 their temple in magnificent fashion, topping it with a golden dome.
 
--   The rebuilding of the Temple was much like the building of the
+--   The rebuilding of the Temple was much like the building of the
     Winchester Mystery House in San Jose, California.
 
--   More was added every year. A higher roof here, an annex there all
+--   More was added every year. A higher roof here, an annex there all
     very magnificent.
 
--   When Herod died, his relatives took over the folly and the never
+--   When Herod died, his relatives took over the folly and the never
     ending program continued until it was finally finished in 66 AD,
     some 87 years after it was begun.
 
--   It is one of the great ironies of history that it was burned down
+--   It is one of the great ironies of history that it was burned down
     just four years later when Jerusalem was destroyed.
 
 Other buildings and monuments were undertaken.
 
--   A temple, a forum, and a theatre at Samaria.
+--   A temple, a forum, and a theatre at Samaria.
 
--   A great Greco-Roman capital, a temple, and port at Caesarea.
+--   A great Greco-Roman capital, a temple, and port at Caesarea.
 
--   The port was an engineering marvel that even today is remarked upon
+--   The port was an engineering marvel that even today is remarked upon
     by the archaeologists who work at the site.
 
--   Luxurious palaces and fortified retreats were built at Masada,
+--   Luxurious palaces and fortified retreats were built at Masada,
     Jerusalem, Jericho, and Herodium, which was near Bethlehem.
 
--   In Jerusalem he had baths, a theatre, and a Hippodrome constructed.
+--   In Jerusalem he had baths, a theatre, and a Hippodrome constructed.
 
--   He also promoted Greek and Roman games so that the people might be
+--   He also promoted Greek and Roman games so that the people might be
     entertained.
 
 All of these things struck a sour note as any bribe to a slave will. The
@@ -371,16 +369,16 @@ time indeed.
 
 Concluding principles:
 
--   Freedom without a relationship with God is in reality slavery.
+--   Freedom without a relationship with God is in reality slavery.
 
--   War without a relationship with God is a waste.
+--   War without a relationship with God is a waste.
 
--   Both slavery and freedom begin in the soul.
+--   Both slavery and freedom begin in the soul.
 
--   **John 8:32**, “Then you will know the truth, and the truth will set
+--   **John 8:32**, “Then you will know the truth, and the truth will set
     you free.”"
 
--   **Gal 5:1**, "It is for freedom that Christ has set us free. Stand
+--   **Gal 5:1**, "It is for freedom that Christ has set us free. Stand
     firm, then, and do not let yourselves be burdened again by a yoke of
     slavery.
 
@@ -706,22 +704,22 @@ God, Satan conceived a system designed to counteract the plan of God.
 
 Therefore, the purpose of the Satan’s cosmic system is as follows:
 
--   To keep unbelievers from believing in Jesus Christ.
+--   To keep unbelievers from believing in Jesus Christ.
 
--   To destroy the believer’s relationship with God.
+--   To destroy the believer’s relationship with God.
 
--   To bring in his own millennium through internationalism and a
+--   To bring in his own millennium through internationalism and a
     centralized world government.
 
--   To prevent God’s millennium from arriving.
+--   To prevent God’s millennium from arriving.
 
 There are three plans in Satan’s cosmic system.
 
--   The World Plan
+--   The World Plan
 
--   The Individual Plan
+--   The Individual Plan
 
--   The Propaganda Plan
+--   The Propaganda Plan
 
 ### The World Plan of Satan
 
@@ -782,29 +780,29 @@ years in world history. It is the tribulation of the book of revelation.
 
 The intent of the Satanic millennium.
 
--   To prove that the prehistoric sentence of God which condemned the
+--   To prove that the prehistoric sentence of God which condemned the
     fallen angels to eternity in the lake of fire was unfair.
 
--   To prove that Satan is God’s equal, Isa 14:14, “I will ascend above
+--   To prove that Satan is God’s equal, Isa 14:14, “I will ascend above
     the tops of the clouds; I will make myself like the Most High.”"
 
 The characteristics of the Satanic millennium.
 
--   Counterfeit righteousness and injustice under the veil of justice.
+--   Counterfeit righteousness and injustice under the veil of justice.
 
--   Constant change and lack of dependability
+--   Constant change and lack of dependability
 
--   Treacherous motives and cruel slavery behind the mask of mercy.
+--   Treacherous motives and cruel slavery behind the mask of mercy.
 
--   Wrong approaches to problem solving and false solutions which always
+--   Wrong approaches to problem solving and false solutions which always
     make the problem worse.
 
--   Chaos and confusion.
+--   Chaos and confusion.
 
--   Bad decisions from a position of weakness and a society saturated
+--   Bad decisions from a position of weakness and a society saturated
     with evil.
 
--   Dishonesty, obfuscation, evasiveness, and a lack of veracity. (All
+--   Dishonesty, obfuscation, evasiveness, and a lack of veracity. (All
     this sounds like U.S. politics today).
 
 ### The Fight Against the Divine Millennium.
@@ -827,21 +825,21 @@ His rulership will be fantastic.
 
 There was an attempt to destroy the mediatorship of Christ.
 
--   In Genesis 6 there is a record of an attempt to destroy the human
+--   In Genesis 6 there is a record of an attempt to destroy the human
     genetic purity of the line of Christ.
 
--   In order to be the perfect mediator between God and man, Christ had
+--   In order to be the perfect mediator between God and man, Christ had
     to be both fully God and fully man in the hypostatic union.
 
--   Satan attempted to destroy the human side of this equation.
+--   Satan attempted to destroy the human side of this equation.
 
--   Demons seduced human women and impregnated them. Their children were
+--   Demons seduced human women and impregnated them. Their children were
     angelic-human half breeds, and no longer genetically pure.
 
--   Only Noah and his family resisted this demonic conspiracy. This is
+--   Only Noah and his family resisted this demonic conspiracy. This is
     why the rest of the earth had to be destroyed.
 
--   God considered this attack so great, that he imprisoned the angels
+--   God considered this attack so great, that he imprisoned the angels
     who participated under the surface of the earth, where they still
     reside, waiting for their release in the tribulation.
 
@@ -851,7 +849,7 @@ of His life.
 Satan knew that if he could kill Christ before His time, the plan of God
 would be stymied. Therefore, there were several attempts on His life.
 
--   The attempt of Herod, Mat 2:13,16, “When they had gone, an angel of
+--   The attempt of Herod, Mat 2:13,16, “When they had gone, an angel of
     the Lord appeared to Joseph in a dream.”Get up," he said, “take the
     child and his mother and escape to Egypt. Stay there until I tell
     you, for Herod is going to search for the child to kill him.” “When
@@ -860,10 +858,10 @@ would be stymied. Therefore, there were several attempts on His life.
     its vicinity who were two years old and under, in accordance with
     the time he had learned from the Magi.”
 
--   The attempts of the Pharisees, **Mat 12:14**, “But the Pharisees
+--   The attempts of the Pharisees, **Mat 12:14**, “But the Pharisees
     went out and plotted how they might kill Jesus.”
 
--   The attempts of the chief priest and elders, **Mat 26:3,4**, “Then
+--   The attempts of the chief priest and elders, **Mat 26:3,4**, “Then
     the chief priests and the elders of the people assembled in the
     palace of the high priest, whose name was Caiaphas, and they plotted
     to arrest Jesus in some sly way and kill him.”
@@ -882,11 +880,11 @@ In every generation, there is an attempt through the Satanic world
 conspiracy to eliminate the Jews as a race. In the 20th century, there
 have been at least three attempts at genocide against the Jews.
 
--   In Soviet Russia, from 1917 to the present.
+--   In Soviet Russia, from 1917 to the present.
 
--   In Nazi Germany, from 19331945.
+--   In Nazi Germany, from 19331945.
 
--   By various Arab nations, today.
+--   By various Arab nations, today.
 
 During the tribulation, the genocidal attacks against the Jews will
 reach their crescendo.
@@ -926,17 +924,17 @@ These counterfeits and lies are designed to supplant the truth. The
 counterfeits and lies match up with every category of truth possible,
 including:
 
--   The Gospel.
+--   The Gospel.
 
--   The plan of God.
+--   The plan of God.
 
--   The power of God.
+--   The power of God.
 
--   The person and work of God the Father
+--   The person and work of God the Father
 
--   The person and work of Christ.
+--   The person and work of Christ.
 
--   The person and work of the Holy Spirit.
+--   The person and work of the Holy Spirit.
 
 These counterfeits and lies are promoted by every means possible. There
 is a great emphasis today on the media, and especially television. Those
@@ -1071,10 +1069,10 @@ Slaves became slaves because of the conquests of the Roman Empire.
 Whenever a new territory was conquered, much of the population was
 deported back to population centers elsewhere in the empire.
 
--   This served a twofold purpose: it provided cheap labor, and the
+--   This served a twofold purpose: it provided cheap labor, and the
     insurance against guerrilla warfare in the conquered territory.
 
--   The people who were deported received a low form of welfare: they
+--   The people who were deported received a low form of welfare: they
     would have the basic logistics provided in exchange for their labor.
     Slavery did much to provide for those who would otherwise be charity
     cases.
@@ -1087,22 +1085,22 @@ become household helpers and educators.
 Slaves were always dependent on their masters, and as long as the Empire
 stayed on the virtuous side.
 
--   Manumission was often granted to faithful slaves.
+--   Manumission was often granted to faithful slaves.
 
--   Emancipated slaves had great opportunities for upward mobility.
+--   Emancipated slaves had great opportunities for upward mobility.
 
--   There was not an extreme prejudice against slaves often they were
+--   There was not an extreme prejudice against slaves often they were
     respected for who they were.
 
 Although slaves were considered property, they were allowed to have
 their own lives, marrying and producing families. The New Testament is
 written from this frame of reference.
 
--   Masters are considered legitimate authority, as long as they stayed
+--   Masters are considered legitimate authority, as long as they stayed
     within the laws of Divine established. Therefore, slaves are called
     upon to obey their masters.
 
--   Masters are called upon to emancipate their slaves.
+--   Masters are called upon to emancipate their slaves.
 
 The Four Gospels
 ----------------
@@ -2923,22 +2921,22 @@ God provided the nation of Israel a fantastic portfolio of grace
 blessings in the form of covenants. A covenant is based on the
 attributes of God.
 
--   It finds its motive in the love of God. There is nothing treacherous
+--   It finds its motive in the love of God. There is nothing treacherous
     or deceitful about a covenant.
 
--   It finds its modus operandi in grace. God gives based on his
+--   It finds its modus operandi in grace. God gives based on his
     thinking, power, and merit.
 
--   It finds its dependability in faithfulness. The blessings always
+--   It finds its dependability in faithfulness. The blessings always
     wait for Israel to take them.
 
--   It finds its timing and organization in order. Everything is
+--   It finds its timing and organization in order. Everything is
     arranged by the capabilities of God in eternity past.
 
--   It finds its enactment in the sovereignty of God. God chooses to
+--   It finds its enactment in the sovereignty of God. God chooses to
     bless Israel.
 
--   It finds its revelation in the truth of God. God is forthright and
+--   It finds its revelation in the truth of God. God is forthright and
     clear and honest in His communication of the details of His
     covenants. He always keeps His Word.
 
@@ -4349,12 +4347,12 @@ He and his wife are too old, he thinks, for God to work a miracle.
 
 The angel Gabriel is mentioned in three other passages in the Bible.
 
--   When he appears to Mary, to announce her role in the Messiah’s
+--   When he appears to Mary, to announce her role in the Messiah’s
     birth.
 
--   And twice in Daniel, 8:16 and 9:21, to interpret the Word of God.
+--   And twice in Daniel, 8:16 and 9:21, to interpret the Word of God.
 
--   Not only does this angelic being have an awesome presence, but he is
+--   Not only does this angelic being have an awesome presence, but he is
     also one of the highest ranking of all angels, if not the highest.
 
 The angel refers to his duty, his rank, and his mission. His regular
@@ -4460,23 +4458,23 @@ Zacharias concentrates on the mercy of God, because Christ is the
 visible manifestation of mercy to all mankind. The Sunrise from on high
 is a term that is used to denote the resurrected status of Jesus Christ.
 
--   anatole means sunrise in the sense of the rising again of the sun in
+--   anatole means sunrise in the sense of the rising again of the sun in
     the east. ana is a preposition which means both up and again.
 
--   When you add the term from on high, it is obvious that this is God.
+--   When you add the term from on high, it is obvious that this is God.
 
--   So, Zacharias looks forward to the manifest mercy of God in the
+--   So, Zacharias looks forward to the manifest mercy of God in the
     person and work of Jesus Christ, especially concentrating on the
     resurrection.
 
--   The sunrise shines upon those who are in darkness and the shadow of
+--   The sunrise shines upon those who are in darkness and the shadow of
     death.
 
--   Darkness refers to the cosmic system of Satan his design to prevent
+--   Darkness refers to the cosmic system of Satan his design to prevent
     us from believing in Christ, and to destroy our relationship with
     God.
 
--   The shadow of death refers to physical death.
+--   The shadow of death refers to physical death.
 
 The light guides us into the way of peace (prosperity).
 
@@ -4921,39 +4919,39 @@ God, the Ancient of days (a reference to His eternal nature), gives
 Christ dominion, honor, and a kingdom. Dominion is authority to rule.
 This is specific authority to rule over planet earth.
 
--   The first Adam surrendered that authority with his sin of abrogation
+--   The first Adam surrendered that authority with his sin of abrogation
     of responsibility. He gave up the earth to be like the woman in sin.
 
--   The last Adam, Jesus Christ, came to earth to retake that authority.
+--   The last Adam, Jesus Christ, came to earth to retake that authority.
 
--   However, in order to exert His authority, Christ must have the
+--   However, in order to exert His authority, Christ must have the
     assent of the ruled. This He has yet to get.
 
--   The dominion is everlasting Christ will never relinquish it.
+--   The dominion is everlasting Christ will never relinquish it.
 
--   Honor is the respect that makes one fit to rule.
+--   Honor is the respect that makes one fit to rule.
 
--   Authority without respect is ineffective. Whereas authority is
+--   Authority without respect is ineffective. Whereas authority is
     nominative, honor must be earned.
 
--   There is a difference between authority and moral authority. Moral
+--   There is a difference between authority and moral authority. Moral
     authority is the true right to rule. The Greek word exousia
     describes moral authority.
 
--   This is given to Christ by God through the Word and the ministry of
+--   This is given to Christ by God through the Word and the ministry of
     God the Holy Spirit. On two occasions, God would express His
     pleasure with the moral authority of Christ: at His baptism, and at
     the transfiguration.
 
 Then there is the kingdom itself.
 
--   The purpose of the kingdom is for the unification of all peoples of
+--   The purpose of the kingdom is for the unification of all peoples of
     the earth in service to Him.
 
--   This is the millennial kingdom of Jesus Christ. It was given at this
+--   This is the millennial kingdom of Jesus Christ. It was given at this
     moment, and stands waiting for His people.
 
--   This kingdom is everlasting, and cannot be destroyed.
+--   This kingdom is everlasting, and cannot be destroyed.
 
 And in a moment’s time, Christ left.
 
@@ -5234,13 +5232,13 @@ measure.
 God reveals Himself in the first advent His grace and power are revealed
 in the birth of Christ.
 
--   Through the virgin pregnancy and birth.
+--   Through the virgin pregnancy and birth.
 
--   Through the birth of John the Baptist.
+--   Through the birth of John the Baptist.
 
--   Through the child in the manger.
+--   Through the child in the manger.
 
--   Through the minds and hearts of those who were prepared for the
+--   Through the minds and hearts of those who were prepared for the
     first advent of Jesus Christ.
 
 This advent had to do with the redemption of sins.
@@ -5525,16 +5523,16 @@ belief, then man is not responsible to God. But God’s intervention puts
 responsibility squarely in our laps. God therefore requires of us
 certain things:
 
--   He requires us to depend on His grace for salvation.
+--   He requires us to depend on His grace for salvation.
 
--   If He did not intervene in our lives, then we would have to produce
+--   If He did not intervene in our lives, then we would have to produce
     our own salvation.
 
--   He requires us to depend on Him for our post salvation glorification
+--   He requires us to depend on Him for our post salvation glorification
     of Him. It is His grace which accomplishes our achievements in the
     post salvation plan.
 
--   Grace, and not works is the general rule because of the
+--   Grace, and not works is the general rule because of the
     interventionist attitude of God.
 
 This is why the birth of the Messiah was so very meaningful to men like
@@ -5835,7 +5833,7 @@ continued until adulthood (which was the early teens at the time).
 
 The first two verbs describe the early life of Christ:
 
--   EUXANEN is from AUXANO, which means to grow. It is in the imperfect
+--   EUXANEN is from AUXANO, which means to grow. It is in the imperfect
     tense, which portrays a past action occurring over a duration of
     time. This is in the active voice, which portrays the child as the
     source of the action. It is a reference to the physical growth of
@@ -5843,7 +5841,7 @@ The first two verbs describe the early life of Christ:
     of plant life, you could loosely translate this “He grew like a
     weed.”
 
--   EKRATAIOUTO is from KRATAIOO., which means to strengthen, or
+--   EKRATAIOUTO is from KRATAIOO., which means to strengthen, or
     empower. It is in the passive voice showing that the child did not
     produce this action. This verb is in the imperfect tense, showing
     the past action over a duration of time. This is a reference to the
@@ -5852,16 +5850,16 @@ The first two verbs describe the early life of Christ:
 The idea of Christ’s spiritual growth is further strengthened by the
 modal participle PLE.ROUMENON.
 
--   A modal participle reveals the manner in which the action of the
+--   A modal participle reveals the manner in which the action of the
     main verb occurs.
 
--   This participle shows that the strengthening of Christ occurred
+--   This participle shows that the strengthening of Christ occurred
     through His filling with wisdom.
 
--   The participle is in the present tense, so its action occurs at the
+--   The participle is in the present tense, so its action occurs at the
     same time as the action of the strengthening.
 
--   The basic meaning of PLEROO is “to fill to the point of
+--   The basic meaning of PLEROO is “to fill to the point of
     overflowing”. It leaves no part of the vessel unfilled.
 
 The substance of the filling is SOPHIA, or wisdom. SOPHIA is applied
@@ -5872,11 +5870,11 @@ filled with wisdom.
 A final note is made about Christ’s childhood: “and the grace of God was
 upon Him.”
 
--   The preposition EPI plus the accusative of the personal pronoun AUTO
+--   The preposition EPI plus the accusative of the personal pronoun AUTO
     portrays a motion that reaches its goal completely. It shows that
     the grace of God completely reached its goal in Jesus Christ.
 
--   During the childhood of Christ, the grace of God fully attained its
+--   During the childhood of Christ, the grace of God fully attained its
     goal in Him. It reached its maximum potential through His
     appropriation of it. Even as a child, Christ was perfect.
 
@@ -5900,19 +5898,19 @@ training took place in the local synagogue under the tutelage of a
 Rabbi. The purpose of these schools was as follows (Edersheim, pp.
 231232):
 
--   to keep children from all contact with vice;
+--   to keep children from all contact with vice;
 
--   to train them in humility, even when the bitterest wrong had been
+--   to train them in humility, even when the bitterest wrong had been
     received;
 
--   to show sin in its repulsiveness, rather than to terrify by its
+--   to show sin in its repulsiveness, rather than to terrify by its
     consequences;
 
--   to train to strict truthfulness;
+--   to train to strict truthfulness;
 
--   to avoid all that might lead to disagreeable or indelicate thoughts;
+--   to avoid all that might lead to disagreeable or indelicate thoughts;
 
--   to do all this without showing partiality, without either undue
+--   to do all this without showing partiality, without either undue
     severity, or laxity of discipline, and with judicious increase of
     study and work with careful attention to thoroughness in acquiring
     knowledge.
@@ -5932,7 +5930,7 @@ spiritual and national life.
 
 The home was the seat of the ritual.
 
--   Many times each day the child was reminded of the importance of
+--   Many times each day the child was reminded of the importance of
     God’s Word through the mezuzah, which was attached to the door frame
     of every Jewish home. This device held a small parchment the outside
     of which was inscribed with the name of God. On the inside was
@@ -5940,7 +5938,7 @@ The home was the seat of the ritual.
     every time they passed the threshold, and then kiss the fingers that
     touched it as a reminder of the importance of application.
 
--   Every sabbath there were preparations made by the family to remind
+--   Every sabbath there were preparations made by the family to remind
     them of their responsibility in relationship with God.
 
 The yearly schedule of feasts was a great aide in teaching the character
@@ -5952,12 +5950,12 @@ better than any of His peers.
 
 Remember from our dispensational constants two things:
 
--   That spiritual growth is always through faith perception and testing
+--   That spiritual growth is always through faith perception and testing
     through adversity and prosperity. This is exactly how Christ grew
     strong. That he was being filled with wisdom meant that the
     perception and inculcation had to take place beforehand.
 
--   That the character and sufficiency of God are always the issue. And
+--   That the character and sufficiency of God are always the issue. And
     so they were for Christ during His childhood. Imitation of God’s
     character and reliance on Him are the very essence of SOPHIA.
 
@@ -6002,10 +6000,10 @@ aorist of GINOMAI shows that twelve years in the life of Christ had
 already past. He was actually twelve and a few months. This was to be
 the first passover of the child.
 
--   Remember, Herod is dead, and the events of the nativity are now
+--   Remember, Herod is dead, and the events of the nativity are now
     twelve years past.
 
--   The excitement of the nativity is long past, obscured by the present
+--   The excitement of the nativity is long past, obscured by the present
     sufferings of the nation.
 
 The next phrase tells us that this year was no different than the
@@ -6062,15 +6060,15 @@ as it went along. nomizo is a verb which reveals thinking that is still
 in the theory stage. Joseph and Mary’s theory is that Jesus is in the
 caravan, en to sunodia.
 
--   As many as two hundred thousand people would go up to Jerusalem for
+--   As many as two hundred thousand people would go up to Jerusalem for
     the feast. Great caravans with thousands of people would leave
     together for mutual protection since the roads were relatively
     unsafe.
 
--   With so many people, it would be easy for one to get lost or not be
+--   With so many people, it would be easy for one to get lost or not be
     seen for a while.
 
--   Joseph and Mary trusted their son implicitly. Besides, he had just
+--   Joseph and Mary trusted their son implicitly. Besides, he had just
     come of age by going to his first passover. He was now considered a
     man, wasn’t he?
 
@@ -6144,14 +6142,14 @@ not have come from any other source.
 
 The days lay out as follows:
 
--   Day one: Joseph and Mary stay in the caravan and search for Him as
+--   Day one: Joseph and Mary stay in the caravan and search for Him as
     they travel north.
 
--   Day two: travel back to Jerusalem.
+--   Day two: travel back to Jerusalem.
 
--   Day three: search in Jerusalem.
+--   Day three: search in Jerusalem.
 
--   Day four: find Christ in the temple.
+--   Day four: find Christ in the temple.
 
 The circumstantial participle KATHEZOMENON shows the circumstances in
 which they found their Son sitting EN MESO TO.N DIDASKALO.N ‘in the
@@ -6163,10 +6161,10 @@ on at the moment that his parents found him.
 Two other circumstantial participles spell out what Jesus was doing
 while he sat.
 
--   AKOUONTA AUTO.N listening to them. The genitive case of auto.n
+--   AKOUONTA AUTO.N listening to them. The genitive case of auto.n
     indicates that He listened with humility.
 
--   EPERO.TO.NTA AUTOUS questioning them. EPERO.TO.NTA portrays a very
+--   EPERO.TO.NTA AUTOUS questioning them. EPERO.TO.NTA portrays a very
     intense questioning. Here not in the sense of aggressiveness, but in
     the depth and detail of the questions themselves. That the student
     should interrogate the teachers is a remarkable thing in itself!
@@ -6192,12 +6190,12 @@ ability to perceive and apply the truth.
 
 First is the response of the hearers: they EXISTANTO “were astounded.”
 
--   Usually amazement is short-lived; a surprise hits, the amazement
+--   Usually amazement is short-lived; a surprise hits, the amazement
     comes, and then it is gone as quickly as it came. Not so here. The
     imperfect tense of EXISTE.ME shows that the boy’s listeners were in
     a constant state of amazement.
 
--   EXISTE.MI means to stand outside of oneself. It shows that you are
+--   EXISTE.MI means to stand outside of oneself. It shows that you are
     beside yourself with surprise, amazement, etc. It is even used to
     show a state of befuddlement or even psychosis. Luke makes a joke
     here: Christ’s listeners are stunned to the point of unthinking
@@ -6205,18 +6203,18 @@ First is the response of the hearers: they EXISTANTO “were astounded.”
 
 The object of the teachers’ amazement is twofold.
 
--   The SUNESIS of Christ. This summarizes His perceptive ability with
+--   The SUNESIS of Christ. This summarizes His perceptive ability with
     reference to spiritual matters. In essence it reveals the function
     of Jesus’ human spirit. It is definitely a function of the heart the
     kind of thinking that immediately precedes application. Naturally
     this includes belief. This understanding only comes from the grace
     of God, and not the power of man, Eph. 3:4 and 2 Tim 2:7.
 
--   His answers, described by the word APOKRISESIN. Interestingly
+--   His answers, described by the word APOKRISESIN. Interestingly
     enough, this word comes from a compound which literally means ‘from
     the source of judgment’.
 
--   Of course, the teachers cannot see our Lord’s thought processes, but
+--   Of course, the teachers cannot see our Lord’s thought processes, but
     they can listen to His answers. From his answers they deduce His
     fantastic thought processes.
 
@@ -6340,11 +6338,11 @@ Mary was maintaining these things in her heart. This is why we know that
 this is Mary’s narration to Luke. Only Mary could know her own heart.
 She would have had to tell someone about the thoughts of her heart.
 
--   The word for maintain is DIETEREI the imperfect tense of DIATEREO.
+--   The word for maintain is DIETEREI the imperfect tense of DIATEREO.
     The imperfect shows that she did this constantly, not just at one
     moment of time.
 
--   DIATERO here is contrasted with SUNTEREO of 2:19, when Mary heard
+--   DIATERO here is contrasted with SUNTEREO of 2:19, when Mary heard
     the words of the wise men from the east. This is not the same as
     treasure. It is closer to remember without reference to an emotional
     appreciation. It literally means to ‘keep through’. This
@@ -6352,7 +6350,7 @@ She would have had to tell someone about the thoughts of her heart.
     Mary’s understanding; this verse concentrates on her memory without
     reference to understanding.
 
--   PANTA TA RE.MATA is a phrase which indicates that not only this
+--   PANTA TA RE.MATA is a phrase which indicates that not only this
     event but many others remained in Mary’s memory.
 
 Jesus’ Young Adulthood
@@ -7736,7 +7734,7 @@ The grumbling of Israel is analogous to any time that we call into
 question the grace provision of God, whether in spiritual or physical
 form.
 
-10. This failure was memorialized by the placement of a pot of manna
+[10] This failure was memorialized by the placement of a pot of manna
 inside of the ark of the covenant. In spite of the failure, the covenant
 continued, covered by the ark of the covenant.
 
@@ -10557,11 +10555,11 @@ For you are all the sons of God by faith in Christ Jesus.”
 
 The purpose of the Law to the unbeliever is:
 
--   To reveal sin, but not to remove it.
+--   To reveal sin, but not to remove it.
 
--   To reveal sin, but not to prevent it.
+--   To reveal sin, but not to prevent it.
 
--   To prove all human beings as sinners, but it was not a standard by
+--   To prove all human beings as sinners, but it was not a standard by
     which one might prove himself holy.
 
 The Law was added because of transgressions.
@@ -11088,11 +11086,11 @@ The vocabulary and frame of reference of the sin nature can only come
 through the Law of God, whether through natural means or through the
 Pentateuch.
 
--   Natural means number one: the conscience.
+--   Natural means number one: the conscience.
 
--   Natural means number two: parents.
+--   Natural means number two: parents.
 
--   Natural means number three: other institutions of authority.
+--   Natural means number three: other institutions of authority.
 
 The amplification of the Pentateuch in the New Testament may also be a
 source of the Law for this purpose.
@@ -11562,25 +11560,25 @@ For a few weeks after Christ’s return from the wilderness, John has
 continued to point the way to Christ. Since Christ returned, here is
 what happened:
 
--   The priests and Levites came to John to inquire about Christ ( John
+--   The priests and Levites came to John to inquire about Christ ( John
     1:1928).
 
--   John identified Christ as the Son of God (John 1:2934).
+--   John identified Christ as the Son of God (John 1:2934).
 
--   Christ called His first disciples (John 1:3551).
+--   Christ called His first disciples (John 1:3551).
 
--   Christ performed His first miracle, at Cana, in Galilee (John
+--   Christ performed His first miracle, at Cana, in Galilee (John
     2:111).
 
--   Christ stayed a few days at Capernaum with His family and His
+--   Christ stayed a few days at Capernaum with His family and His
     disciples (John 2:12).
 
--   Christ cleansed the temple at the Passover (John 2:1322).
+--   Christ cleansed the temple at the Passover (John 2:1322).
 
--   The people in Jerusalem responded positively to Christ’s miracles at
+--   The people in Jerusalem responded positively to Christ’s miracles at
     the Passover (John 2:2325).
 
--   Nicodemus came to Christ at night and inquired about His person
+--   Nicodemus came to Christ at night and inquired about His person
     (John 3:121).
 
 This places the time at around late Spring to early Summer of 27 AD.
@@ -13336,23 +13334,23 @@ blurred by translation.
 
 Then Christ sets up parallel statements:
 
--   Release to the captives;
+--   Release to the captives;
 
--   Recovery of sight to the blind;
+--   Recovery of sight to the blind;
 
--   Set free those who are downtrodden;
+--   Set free those who are downtrodden;
 
--   Proclaim the favorable year of the Lord.
+--   Proclaim the favorable year of the Lord.
 
 Isaiah’s parallel of these things is:
 
--   Bind up the brokenhearted;
+--   Bind up the brokenhearted;
 
--   Proclaim liberty to the captives;
+--   Proclaim liberty to the captives;
 
--   Freedom to the prisoners;
+--   Freedom to the prisoners;
 
--   Proclaim the favorable year of the Lord.
+--   Proclaim the favorable year of the Lord.
 
 But note - Christ’s addition comes from another place in
 
@@ -13381,19 +13379,19 @@ Sabbaths of years. So every fiftieth year was a jubilee year.
 
 On this year, the following things would occur - Lev 25:8-17.
 
--   It was considered a normal sabbatical year, so the land would lie
+--   It was considered a normal sabbatical year, so the land would lie
     fallow for the second consecutive year. cf. Lev 25:2-7.
 
--   The trumpet would sound on the day of atonement.
+--   The trumpet would sound on the day of atonement.
 
--   They specifically remembered their time of slavery in Egypt, and
+--   They specifically remembered their time of slavery in Egypt, and
     their release from captivity.
 
--   All of the slaves in the land were released, although this was often
+--   All of the slaves in the land were released, although this was often
     applied only to those of Abrahamic descent (Leviticus does not say
     that).
 
--   All of the real property reverted to its hereditary owners. This
+--   All of the real property reverted to its hereditary owners. This
     signified that God was the owner of Israel’s land - v.23.
 
 Interestingly enough, this struck a course that was anti socialist, but
@@ -13535,21 +13533,21 @@ instead went to that synagogue only to satisfy their stimulation lust.
 
 Now, some principles.
 
--   The church is not about stimulation lust, but teaching, and
+--   The church is not about stimulation lust, but teaching, and
     inculcation in doctrine.
 
--   Stimulation lust is a sign of the cosmic system. It reveals a
+--   Stimulation lust is a sign of the cosmic system. It reveals a
     bitterness toward God, a deep seated rejection of the truth,
     spiritual blindness, and a frantic search for happiness.
 
--   As long as your soul is dominated by any form of lust, you cannot
+--   As long as your soul is dominated by any form of lust, you cannot
     please God. You may attempt, in your state of deception, to flatter
     God into giving Him what you want, but you will not receive it
 
--   First, you must repent, and leave behind your love for the cosmic
+--   First, you must repent, and leave behind your love for the cosmic
     system, and turn to God, and His grace plan.
 
--   Then He will guide your life, into a life of balance, and give you
+--   Then He will guide your life, into a life of balance, and give you
     what He thinks you will like. What God thinks you will like is best
     for you.
 
@@ -18653,11 +18651,11 @@ about a spiritual need. It is the need for Divine viewpoint thinking.
 Hungering and thirsting for righteousness leads to fulfillment. God is
 100% faithful to positive volition.
 
-10. The fulfilling that comes from knowing the word of God is a great
+[10] The fulfilling that comes from knowing the word of God is a great
 blessing in itself. To be filled to the point of overflowing is truly
 great.
 
-11. Being filled with the Word of God means:
+[11] Being filled with the Word of God means:
 
 Knowing God - the greatest person you will ever know.
 
@@ -18678,7 +18676,7 @@ Becoming the recipient of Divine personal love.
 
 Being able to solve life’s problems through doctrine, and not reaction.
 
-15. Therefore, this is a fantastic blessing indeed.
+[15] Therefore, this is a fantastic blessing indeed.
 
 The fifth blessing: “Blessed are the merciful, because they will be
 shown mercy.”
@@ -18799,13 +18797,13 @@ The peacemakers will be called the sons of God.
 And so it comes to this: that this is a special reward for those who
 lived or will live in any of the dispensations related to Israel.
 
-12. A person’s name held great significance in Biblical times - probably
+[12] A person’s name held great significance in Biblical times - probably
 more so than it does today.
 
-13. And to gain a new title, given by God Himself, would be significant
+[13] And to gain a new title, given by God Himself, would be significant
 indeed.
 
-14. To hold the same title as God the Son is truly a fantastic
+[14] To hold the same title as God the Son is truly a fantastic
 complement. Peacemakers having the same title as THE peacemaker has a
 certain poetic symmetry to it.
 
@@ -18994,7 +18992,7 @@ covenant.
 Salt therefore represents the faithfulness and integrity of God in
 standing behind His covenants with Israel.
 
-2. 2 Chronicles 13:5 confirms this very thing, “Do you not know that the
+[2] 2 Chronicles 13:5 confirms this very thing, “Do you not know that the
 Lord God of Israel gave the rule over Israel forever to David and his
 sons by a covenant of salt?”
 
@@ -19718,11 +19716,11 @@ attitude and verbal sins before the millennium is the inevitable
 distortion and abuse of jurisprudence that would come about due to the
 cosmic deceptions of the devil’s world.
 
-10. With a ruler who knows the thoughts and intents of the heart
+[10] With a ruler who knows the thoughts and intents of the heart
 perfectly, with a perfect judge, there is no distortion of
 jurisprudence.
 
-11. John the apostle understood this clearly (see 1 John 3:11-15
+[11] John the apostle understood this clearly (see 1 John 3:11-15
 addenda).
 
 At the human supreme court level, the one who says ‘Raka’ to his brother
@@ -20665,7 +20663,7 @@ else’s partner in life, even though that has not been revealed by God.
 
 Sex with a betrothed, or engaged person, Deuteronomy 22:23-24.
 
-3. Pre-marital sex with a priest’s daughter, Leviticus 21:9.
+[3] Pre-marital sex with a priest’s daughter, Leviticus 21:9.
 
 Rape, Deuteronomy 22:25.
 
@@ -20706,7 +20704,7 @@ Violating the sacrifices by eating the fat, Leviticus 7:25, or eating
 the blood, Leviticus 7:27; 17:14, eating when the eater is unclean,
 Leviticus 7:20, 22:3-6, eating a sacrifice late, Leviticus 19:5-8.
 
-10. General neglect of purification, Numbers 19:13,20 and other improper
+[10] General neglect of purification, Numbers 19:13,20 and other improper
 procedures, Leviticus 17:3f; 17:8f.
 
 Methods of capital punishment.
@@ -21349,7 +21347,7 @@ to you, they have received their reward.”
 This verse does not say ‘give alms.’ The church moneymongers must have
 translated this one. The phrase is POIES ELEEMOSUNEN.
 
-1. The verb POIES is the present subjunctive, and it shows a potential
+[1] The verb POIES is the present subjunctive, and it shows a potential
 action. “Perform,” “enact,” “practice,” or “do” is proper for this verb.
 Since it focuses on a single act, practice is out. Because of the verb
 with which it is coupled, perform is right.
@@ -21499,14 +21497,14 @@ and do not bring us into testing, but save us from the evil.’”
 
 Introduction:
 
-1. Dispensational constants are those elements of the portfolio of grace
+[1] Dispensational constants are those elements of the portfolio of grace
 assets which are available in every dispensation.
 
-2. Dispensational variables are those elements of the portfolio of grace
+[2] Dispensational variables are those elements of the portfolio of grace
 assets which are not available in all of the dispensations. They may
 exist in one or more, but not all of them.
 
-3.This prayer is for the disciples of Jesus Christ at that time.
+[3]This prayer is for the disciples of Jesus Christ at that time.
 Remember, He is revealing His millennial kingdom to them, and so this
 prayer is going to feature certain dispensational variables related to
 their situation. These will not apply to us directly.
@@ -21519,7 +21517,7 @@ Christ makes this prayer an emphatic command. He adds the personal
 pronoun HUMEIS to the present imperative PROSEUCHESTHE, and it comes
 out, “You pray…’
 
-1. The inclusion of the personal pronoun is a contrast on the preceding
+[1] The inclusion of the personal pronoun is a contrast on the preceding
 bad examples of prayer.
 
 The logical conjunction OUN also points to what has gone before. Christ
@@ -21546,7 +21544,7 @@ work.
 
 The first part of the agenda is the address.
 
-1. The person addressed is God the Father, and this is certainly a
+[1] The person addressed is God the Father, and this is certainly a
 dispensational constant. You should always pray to the first person of
 the godhead.
 
@@ -21559,7 +21557,7 @@ put the correct address on your prayers.
 
 The second part of the agenda is about spiritual growth.
 
-1. Jesus says, “let Your name be sanctified.’
+[1] Jesus says, “let Your name be sanctified.’
 
 The verb is HAGIASTHETO. It is in the aorist tense, and it is an
 imperative verb. So this is a command, and since it is in the third
@@ -21605,10 +21603,10 @@ yourself or anyone else. Spiritual growth is your number one priority.
 
 The third part of the model prayer is related to the kingdom of God.
 
-1. Again there is an aorist imperative of entreaty, this time from the
+[1] Again there is an aorist imperative of entreaty, this time from the
 verb ELTHETO.
 
-2. So there is a polite command regarding the kingdom of God and its
+[2] So there is a polite command regarding the kingdom of God and its
 arrival.
 
 This refers to the second advent of Christ - the millennial kingdom.
@@ -21634,14 +21632,14 @@ Now we play the waiting game during our lives in the same way. We do not
 know the time of the rapture, for the day and the hour are hidden from
 us.
 
-10. But we too can orient to the sovereign wisdom of God; we too can
+[10] But we too can orient to the sovereign wisdom of God; we too can
 humbly place ourselves at the mercy of His perfect timing. This one
 applies just as well to us as to the disciples.
 
 Next is a contingency: “Let Your will become as in heaven so upon
 earth.”
 
-1. The aorist imperative of GENETHETO comes out as “let your will
+[1] The aorist imperative of GENETHETO comes out as “let your will
 become…’
 
 This is the verb GINOMAI, which depicts the entry of something
@@ -21667,7 +21665,7 @@ there, angels and saved men, are completely submissive to His will.
 Now this also is a legitimate prayer for us in this dispensation. We
 desire for God’s will to be done in the lives of His creatures.
 
-7.This is the companion with the first part of the agenda: “Let Your
+[7]This is the companion with the first part of the agenda: “Let Your
 name be sanctified.”
 
 Those who sanctify God’s name do His will. This too may become a prayer
@@ -21676,7 +21674,7 @@ responsibility.
 
 The ensuing part of the agenda has to do with logistics.
 
-1. The aorist active imperative verb DOS is this time a direct command.
+[1] The aorist active imperative verb DOS is this time a direct command.
 There is no polite entreaty here.
 
 The adjective EPIOUSION gives further description to ARTON, bread. It
@@ -21706,7 +21704,7 @@ believers equally.
 Following the necessary logistics is the prayer for forgiveness: “and
 forgive us our debts, as we also forgave our debtors.”
 
-1. This is actually a tricky little portion of this model prayer. The
+[1] This is actually a tricky little portion of this model prayer. The
 tenses are real important, as are some of the lexical issues.
 
 There is a logical progression in this prayer that is not commonly a
@@ -21755,7 +21753,7 @@ fellowship again.
 The Final Element, “and do not bring us into testing, but save us from
 the evil.’”
 
-1. The aorist subjunctive of EISPHERO plus the negative adverb ME form a
+[1] The aorist subjunctive of EISPHERO plus the negative adverb ME form a
 strong prohibition directed toward God.
 
 Although there are several degrees of prohibition, and this is only one
@@ -21781,7 +21779,7 @@ Bring a sacrifice into the temple for offering.
 
 “Bring” something somewhere, in a very generic sense.
 
-4. PEIRASMON is the direct object of EISPHERO.
+[4] PEIRASMON is the direct object of EISPHERO.
 
 In the secular record, it means:
 
@@ -21957,7 +21955,7 @@ say much the same thing. Temptation leads to the cosmic system.
 
 There are two items to the conclusion:
 
-1. The general force of the prayer.
+[1] The general force of the prayer.
 
 This prayer contains imperatives of entreaty and imperatives of command.
 
@@ -21972,7 +21970,7 @@ We can pray like this because of two things:
 Therefore, get in the habit of praying forcefully when you are confident
 that the matter is within His will.
 
-2. The agenda given by Christ.
+[2] The agenda given by Christ.
 
 The address is to the Father.
 
@@ -22020,7 +22018,7 @@ Translation: “14 For if you forgive men their transgressions, your
 heavenly Father will also forgive you; 15 But if you do not forgive men,
 neither will your Father forgive your transgressions.”
 
-1. The Greek third class conditional sentence contains an if… then
+[1] The Greek third class conditional sentence contains an if… then
 clause that represents an uncertain fulfillment. Generally the
 fulfillment of the “if’ depends on the function of human volition.
 
@@ -22055,31 +22053,31 @@ Essentially (see doctrine of fellowship), when we sin, even as
 Christians we go out of fellowship with God; when we confess that sin,
 God restores that fellowship.
 
-10. However, when we hold a grudge, we perpetuate the sin, so that
+[10] However, when we hold a grudge, we perpetuate the sin, so that
 confession does no good; we go right back out of fellowship again.
 
-11. The perpetuation of other sins apply equally. In other words, you
+[11] The perpetuation of other sins apply equally. In other words, you
 continue to be out of fellowship when you perpetuate a state of sin.
 
-12. So that, if you perpetuate a state of immorality, you will not
+[12] So that, if you perpetuate a state of immorality, you will not
 receive an effective forgiveness.
 
-13. Failing to forgive someone is a state of sin against God; it is
+[13] Failing to forgive someone is a state of sin against God; it is
 holding a grudge. It perpetuates sin, and you cannot re-establish
 fellowship until that state of sin is eliminated.
 
-14. It is God’s character to forgive; sin is falling short of God’s holy
+[14] It is God’s character to forgive; sin is falling short of God’s holy
 character; if we fail to forgive, we fall short of God’s character.
 
-15. When someone sins against you, they go out of fellowship; but you
+[15] When someone sins against you, they go out of fellowship; but you
 also have the opportunity to do the same. When sin goes from one person
 to another, it can be contagious.
 
-16. You must understand that their sin was paid for at the cross, and
+[16] You must understand that their sin was paid for at the cross, and
 that enables you to completely forgive them. It is not you who is paying
 for that sin; Christ already did.
 
-17. It is impossible for anyone who holds a grudge to fulfill the plan
+[17] It is impossible for anyone who holds a grudge to fulfill the plan
 of God. You must be at least in fellowship to do so.
 
 Fasting – Christ’s Comment
@@ -22415,11 +22413,11 @@ your thoughts.
 But if you desire the things of heaven, then there will be a central
 focus of thought on heaven.
 
-10. So Christ has reversed His thesis to show a system of perpetuation;
+[10] So Christ has reversed His thesis to show a system of perpetuation;
 that is, the system has its own momentum. Listen: your desires focus
 your thoughts, and your thoughts form and reinforce your desires.
 
-11. 1 John 2:15-17 is a rehash of these very principles.
+[11] 1 John 2:15-17 is a rehash of these very principles.
 
 15 Do not love the cosmic system nor the things in the cosmic system. If
 anyone loves the cosmic system, the love of the Father is not in him.
@@ -22719,7 +22717,7 @@ apostle Paul: Ephesians 6:5-6; Colossians 3:22; 1 Timothy 6:1.
 (a) There were two sources of slavery in the ancient world: poverty in
 peacetime and captured prisoners in war.
 
-· Leviticus 25:39-41, “If a countryman of yours becomes so poor with
+&bull; Leviticus 25:39-41, “If a countryman of yours becomes so poor with
 regard to you that he sells himself to you, you shall not subject him to
 a slave’s service. He shall be with you as a hired man, as if he were a
 sojourner; he shall serve with you until the year of jubilee. He shall
@@ -22727,30 +22725,30 @@ then go out from you, he and his sons with him, and shall go back to his
 family, that he may return to the property of his forefathers.” This
 passage tells us a couple of things.
 
-- That slavery was a welfare system of Israel. That is, when people
+-- That slavery was a welfare system of Israel. That is, when people
 became impoverished, they could sell themselves to someone else as
 slaves.
 
-- But not all could be taken as slaves; a Jew could not accept another
+-- But not all could be taken as slaves; a Jew could not accept another
 of his own countrymen as a slave but instead only in the de facto sense.
 He could be hired as if he were a migrant worker, which is the best
 parallel to our modern times.
 
-- The analogy to this in our own time is the Christian; you could never
+-- The analogy to this in our own time is the Christian; you could never
 in good conscience keep another Christian as a slave. Listen to the
 explanation in verse 42, “For they are My servants whom I brought out
 from the land of Egypt; they are not to be sold in a slave sale.”
 
-- By working this way for a private citizen, the impoverished person
+-- By working this way for a private citizen, the impoverished person
 retained some measure of self-respect; there was then no slavery nor
 total poverty.
 
-- The year of jubilee occurred every fifty years; it could conceivably
+-- The year of jubilee occurred every fifty years; it could conceivably
 be a lifetime of slavery before a person thus obliged could be set free.
 
-- This also represents an irrevocable contract until the jubilee.
+-- This also represents an irrevocable contract until the jubilee.
 
-· As an effect of war many unfortunates were left in abject poverty. The
+&bull; As an effect of war many unfortunates were left in abject poverty. The
 conquering nation solved this situation by enslaving the people of the
 devastated land.
 
@@ -22784,7 +22782,7 @@ the master was responsible to take care of the slave for life.
 
 (f) Rights of the Master.
 
-· He had the right to hold slaves from foreign lands as personal
+&bull; He had the right to hold slaves from foreign lands as personal
 property. Leviticus 25:44-45: “As for your male and female slaves whom
 you may have - you may acquire male and female slaves from the pagan
 nations that are around you. Then, too, it is out of the sons of the
@@ -22792,42 +22790,42 @@ sojourners who live as aliens among you that you may gain acquisition,
 and out of their families who are with you, whom they will have produced
 in your land; they also may become your possession.”
 
-· He had the right to leave slaves as an inheritance to his children,
+&bull; He had the right to leave slaves as an inheritance to his children,
 Leviticus 25:46: “You may even bequeath them to your sons after you, to
 receive as a possession; you can use them as permanent slaves. But in
 respect to your countrymen, the sons of Israel, you shall not rule with
 severity over one another.”
 
-· He had the right to hold as property the wife and children of all
+&bull; He had the right to hold as property the wife and children of all
 slaves who were unmarried at the time they became slaves, Exodus 21:4:
 “If his master gives him a wife, and she bears him sons or daughters,
 the wife and her children shall belong to her master, and he shall go
 out alone.”
 
-· He had the right to punish or discipline slaves, but not to kill them,
+&bull; He had the right to punish or discipline slaves, but not to kill them,
 Exodus 21:20-21: “If a man strikes his male or female slave with a rod
 and he dies at his hand, he shall be punished. If, however, he survives
 a day or two, no vengeance shall be taken; for he is his property.”
 
 (g) The Rights of the Slave.
 
-· He had the right to freedom by the purchase of his redemption, or by
+&bull; He had the right to freedom by the purchase of his redemption, or by
 the elapse of time, or in the Year of Jubilee, or he could work his way
 into freedom. And because of the threefold mandates on the release of
 slaves, the slave always had the hope of freedom.
 
-· The Jewish slave had the right to good treatment, Leviticus 25:43, 46:
+&bull; The Jewish slave had the right to good treatment, Leviticus 25:43, 46:
 “You shall not rule over him with severity, but are to revere your God.”
 
-· He had the right to marry, have children and live a normal life,
+&bull; He had the right to marry, have children and live a normal life,
 Exodus 21:5.
 
-· He had the right to voluntary slavery where having been freed could
+&bull; He had the right to voluntary slavery where having been freed could
 choose to remain a slave, Exodus 21:5ff; Deuteronomy 15:16. His request
 had to be honored. This was done in front of two witnesses. The mark of
 this voluntary slavery was having his ear lobe nailed to a door.
 
-· He had the right to worship God without interference from the master,
+&bull; He had the right to worship God without interference from the master,
 Exodus 12:43-44, “This is the ordinance of the Passover, no foreigner is
 to eat of it, but every man’s slave purchased with money, after you have
 circumcised him, then he may eat of it.”
@@ -22835,11 +22833,11 @@ circumcised him, then he may eat of it.”
 (h) The responsibility of a master to a slave is taught in Ephesians 6:9
 and Colossians 4:1.
 
-· Ephesians 6:9, “And master, do the same things to them, and give up
+&bull; Ephesians 6:9, “And master, do the same things to them, and give up
 threatening, knowing that both their Master and yours is in heaven, and
 there is no partiality with Him.”
 
-· Colossians 4:1, “Masters, grant to your slaves justice and fairness,
+&bull; Colossians 4:1, “Masters, grant to your slaves justice and fairness,
 knowing that you too have a Master in heaven.”
 
 (i) Even the epistle to Philemon doesn’t advocate the abolition of
@@ -23003,19 +23001,19 @@ keystone principle; you cannot serve God and Mammon. You cannot fulfill
 the plan of God and at the same time please the dictates of the cosmic
 system.
 
-10. Now you see that Christ is telling us that the worldly view of
+[10] Now you see that Christ is telling us that the worldly view of
 logistics is all wrong as well. Logistics is not something to be worried
 over. Not even in the devil’s world.
 
-11. The bottom line: either it’s your time to go, in which case you can
+[11] The bottom line: either it’s your time to go, in which case you can
 do nothing at all about it, or it’s not. And if it is not your time to
 go, then God is going to provide you with the logistics you need.
 
-12. So Christ is saying here that you can waste a lot of time and energy
+[12] So Christ is saying here that you can waste a lot of time and energy
 in worrying about logistics, and that to do so is a great compromise of
 heavenly potential.
 
-13. And He is building up to something more. Right priorities in life
+[13] And He is building up to something more. Right priorities in life
 serve a dual purpose.
 
 The clothing application, vv.28-30.
@@ -23625,11 +23623,11 @@ of teaching doctrine that is not a part of the Bible.
 (d) They were paying attention to myths and endless genealogies that had
 nothing to do with the truth.
 
-· These teachers had probably adopted the Greek or Roman mythologies,
+&bull; These teachers had probably adopted the Greek or Roman mythologies,
 and were teaching it as truth. This of course would cause Paul no small
 amount of indigestion.
 
-· And they were on the subject of the genealogies, which the Jews
+&bull; And they were on the subject of the genealogies, which the Jews
 believed to be of great importance. They traced their genealogies for
 the purpose of validating their racial purity, a complete non-issue.
 
@@ -23644,18 +23642,18 @@ return of Jesus Christ.
 (g) This administration is furthered by PISTIS, which is doctrine; the
 teacher of truth must concentrate on just that; the truth.
 
-· Furthering the administration is summarized by Paul when he says,
+&bull; Furthering the administration is summarized by Paul when he says,
 “love from a pure heart and a good conscience and a sincere faith.
 
-· Love from a pure heart is love for God through the truth; love for
+&bull; Love from a pure heart is love for God through the truth; love for
 self in spiritual self-esteem; love for others in the function of
 virtue.
 
-· The good conscience is the ability to discern truth from a lie. This
+&bull; The good conscience is the ability to discern truth from a lie. This
 is a conscience that is full of divine standards and is especially
 cognizant of what constitutes divine character.
 
-· The sincere faith is literally ‘unhypocritical.’ It defines faith from
+&bull; The sincere faith is literally ‘unhypocritical.’ It defines faith from
 the viewpoint of motive. You must pursue the Christian faith because you
 love God, and for no other reason.
 
@@ -23724,14 +23722,14 @@ professional knowledge of Bible truth to the needs of the individuals.
 
 (h) And he is to do this, Paul reminds, in all endurance and teaching.
 
-· The word MAKROTHUMIA is governed by a preposition, EN; it therefore is
+&bull; The word MAKROTHUMIA is governed by a preposition, EN; it therefore is
 an adverb by nature.
 
-· Also governed by the same preposition is DIDACHE. These two work
+&bull; Also governed by the same preposition is DIDACHE. These two work
 together to show how all these things are to be accomplished. With
 endurance and teaching.
 
-· Endurance means that he is to be consistent in his plugging away at
+&bull; Endurance means that he is to be consistent in his plugging away at
 Bible doctrine; teaching means that it is to be done in the lecture
 mode.
 
@@ -23775,38 +23773,38 @@ that order is being made from chaos.
 
 (c) Here are some of the other New Testament uses of this verb:
 
-· Matthew 4:21, “…mending their nets” Also Mark 1:19.
+&bull; Matthew 4:21, “…mending their nets” Also Mark 1:19.
 
-· Matthew 21:16, “out of the mouths of infants and nursing babes you
+&bull; Matthew 21:16, “out of the mouths of infants and nursing babes you
 have straightened praise for yourself.” Here the speech of the infant is
 straightened out into something that can be understood.
 
-· 1 Corinthians 1:10, “Now I exhort you, brethren, by the name of our
+&bull; 1 Corinthians 1:10, “Now I exhort you, brethren, by the name of our
 Lord Jesus Christ, that you all agree, and there be no divisions among
 you, but you be made straight in the same mind and in the same
 judgment.”
 
-· 2 Corinthians 13:11, “Put yourselves in order…”
+&bull; 2 Corinthians 13:11, “Put yourselves in order…”
 
-· Galatians 6:1, “Brethren, even if a man is caught in any trespass, you
+&bull; Galatians 6:1, “Brethren, even if a man is caught in any trespass, you
 who are spiritual, restore such a one in a spirit of gentleness; each
 one looking to yourself, lest you too be tempted.”
 
-· Hebrews 13:21, “…(Jesus our Lord) equip you in every good thing to do
+&bull; Hebrews 13:21, “…(Jesus our Lord) equip you in every good thing to do
 His will, working in us that which is pleasing in His sight.”
 
-· 1 Peter 5:10, “And after you have suffered for a little while, the God
+&bull; 1 Peter 5:10, “And after you have suffered for a little while, the God
 of all grace, who called you to His eternal glory in Christ, will
 Himself perfect, confirm, strengthen and establish you.”
 
 (d) So this depicts the straightening out that must occur before there
 is proper emulation.
 
-· Everyone enters into the process of spiritual growth with a cosmic
+&bull; Everyone enters into the process of spiritual growth with a cosmic
 complex; that is, a complex of counterfeits and lies accumulated from
 the devil’s world.
 
-· Inculcation of the truth straightens this out; KATARTIZO is the ideal
+&bull; Inculcation of the truth straightens this out; KATARTIZO is the ideal
 word to depict this process.
 
 (e) And the perfect nature of this participle indicates that the process
@@ -23829,11 +23827,11 @@ Christ’s sake, not only to believe in Him, but also to suffer for His
 sake, (30) experiencing the same conflict which you saw in me, and now
 hear to be in me.”
 
-· This is the experiential encouragement element of the role model; to
+&bull; This is the experiential encouragement element of the role model; to
 tell those whom you lead that you experience the same kind of sufferings
 that they do.
 
-· Hebrews 4:15 reiterates the principle with reference to Christ. “For
+&bull; Hebrews 4:15 reiterates the principle with reference to Christ. “For
 we do not have a high priest who cannot sympathize with our weaknesses,
 but One who has been tempted in all things as we are, yet without sin.”
 
@@ -23841,21 +23839,21 @@ but One who has been tempted in all things as we are, yet without sin.”
 and seen in me, practice these things, and the God of peace will be with
 you.”
 
-· This is the emulation of application element of the true role model.
+&bull; This is the emulation of application element of the true role model.
 
-· There are four components to this:
+&bull; There are four components to this:
 
-- EMATHETE means to learn something from instruction, from a teacher in
+-- EMATHETE means to learn something from instruction, from a teacher in
 a classroom.
 
-- PARELABETE means to ‘take someone alongside,’ or ‘to hand down a
+-- PARELABETE means to ‘take someone alongside,’ or ‘to hand down a
 tradition.’ This is the informal classroom of example and life.
 
-- EKOUSATE is to hear; this lies parallel to EMATHETE.
+-- EKOUSATE is to hear; this lies parallel to EMATHETE.
 
-- EIDETE is to see, and is parallel to PARELABETE.
+-- EIDETE is to see, and is parallel to PARELABETE.
 
-· The Philippians are exhorted to practice those things, so that they
+&bull; The Philippians are exhorted to practice those things, so that they
 might have the God of peace with them.
 
 (7) But some care must be taken with regard to the role model.
@@ -23872,12 +23870,12 @@ malfunction toward authority.
 
 (e) Subjective pre-occupation with self has two parts:
 
-· The emotional complex of sin combined with denial. This person is
+&bull; The emotional complex of sin combined with denial. This person is
 filled with every kind of mental attitude sin, including worry,
 self-pity, generalized anger, and bitterness toward God. Denial means
 that they refuse to admit their sinful state.
 
-· This creates an unrealistic self-image, where the self becomes a hero
+&bull; This creates an unrealistic self-image, where the self becomes a hero
 or role model without justification. While holding to this false image,
 the arrogant person is going to distort his relationship with God, self,
 and others, to the accumulation of a tremendous amount of dissonance.
@@ -23887,36 +23885,36 @@ This is a miserable existence.
 the one who is to rescue this miserable person from their miserable
 existence.
 
-· The rescuing hero is immediately saddled with unrealistic
+&bull; The rescuing hero is immediately saddled with unrealistic
 expectations; since he is everything that the miserable person ever
 wanted to be, an expectation of perfection is created.
 
-· But the external hero is only a human being; he has flaws and sins
+&bull; But the external hero is only a human being; he has flaws and sins
 just like everyone else; unfortunately, since the miserable person has
 an expectation of perfection, there is grave disappointment when the
 feet of clay are discovered.
 
-· The disappointment exists because the miserable person has projected
+&bull; The disappointment exists because the miserable person has projected
 all of his imagined strengths onto the rescuing hero. Since the rescuing
 hero is the mirror image of the miserable person’s erroneous self-image,
 more dissonance comes about.
 
-· In order to accept the flaws and sins of the rescuing hero, the
+&bull; In order to accept the flaws and sins of the rescuing hero, the
 miserable person must also accept his own sinful state. This is not
 often the case, though it is possible, and may be used by God.
 
 (g) More often the miserable person will destroy his idol, and this is
 called iconoclasm.
 
-· Rather than accept his own sinful state, the miserable person will
+&bull; Rather than accept his own sinful state, the miserable person will
 destroy his idol in a frenzy of judgment, gossip, maligning, and all
 kinds of falsehood. Forgiveness of self must precede forgiveness of
 others.
 
-· This frenzy of sin is rationalized in some way by the miserable
+&bull; This frenzy of sin is rationalized in some way by the miserable
 person, so that the sin becomes acceptable in his mind.
 
-· These iconoclasts are the bane of all local churches; they are very
+&bull; These iconoclasts are the bane of all local churches; they are very
 damaging.
 
 (8) Ephesians 5:1 gives the proper perspective: “Therefore be imitators
@@ -24219,7 +24217,7 @@ Therefore, it is beneficial to give truth to those who are out of
 fellowship from God; but not to those among them who are spiritually
 blind.
 
-10. But wait a minute, how can we judge those people who are negative to
+[10] But wait a minute, how can we judge those people who are negative to
 the point of blindness?
 
 They will incriminate themselves by their negative reaction to the
@@ -24247,11 +24245,11 @@ I. The Outline of the passage.
 
 A. The completion of the discourse on volition, Matthew 7:7-11.
 
-1. The quest and its promised result, vv. 7-8.
+[1] The quest and its promised result, vv. 7-8.
 
-2. The metaphor of human giving; man compared to God, vv. 9-10.
+[2] The metaphor of human giving; man compared to God, vv. 9-10.
 
-3. The conclusion, v.11.
+[3] The conclusion, v.11.
 
 B. The statement of the golden rule, and final conclusion of the
 discourse on judging, v.12 (Luke 6:31).
@@ -24260,28 +24258,28 @@ C. The parable of the gates, related to salvation, vv. 13-14.
 
 D. Distinctions among prophets, vv. 15-20 (Luke 6:43-45).
 
-1. The false prophet compared to a wolf, v. 15.
+[1] The false prophet compared to a wolf, v. 15.
 
-2. The metaphor of the trees and fruit, vv.16-19 (Luke 6:43-44).
+[2] The metaphor of the trees and fruit, vv.16-19 (Luke 6:43-44).
 
-3. The correlation of the metaphor to reality, Luke 6:45.
+[3] The correlation of the metaphor to reality, Luke 6:45.
 
-4. The conclusion, v.20.
+[4] The conclusion, v.20.
 
 E. Distinctions for the Kingdom from the tribulational frame of
 reference, vv.21-27 (Luke 6:46-49).
 
-1. The present attitude, Luke 6:46.
+[1] The present attitude, Luke 6:46.
 
-2. The future judgment, v.21a.
+[2] The future judgment, v.21a.
 
-3. The standard for the judgment, v.21b.
+[3] The standard for the judgment, v.21b.
 
-4. The excuses of the damned at the baptism of fire, v.22.
+[4] The excuses of the damned at the baptism of fire, v.22.
 
-5. The response of Jesus Christ, v.23.
+[5] The response of Jesus Christ, v.23.
 
-6. The parable of the foundations, vv.24-27 (Luke 6:47-49).
+[6] The parable of the foundations, vv.24-27 (Luke 6:47-49).
 
 F. The response of the crowd, vv. 28-29.
 
@@ -24289,7 +24287,7 @@ II. Exposition.
 
 A. The completion of the discourse on volition, Matthew 7:7-11.
 
-1. The quest and its promised result, vv. 7-8, “(7) Ask and it will be
+[1] The quest and its promised result, vv. 7-8, “(7) Ask and it will be
 given to you, seek and you will find, knock and it will be opened to
 you; (8) For everyone who asks will receive and who seeks will find, and
 to whoever knocks it will be opened.”
@@ -24399,7 +24397,7 @@ passage on to Azotus and the cities of the Mediterranean seacoast.
 (4) Ask, and it shall be given; seek, and you will find; knock and it
 will be opened to you.
 
-2. The metaphor of human giving; man compared to God, vv. 9-10. “(9) Or
+[2] The metaphor of human giving; man compared to God, vv. 9-10. “(9) Or
 what man is there among you who when his son asks him for bread, will
 give to him a stone? (10) Or also, if he will ask for a fish, he will
 not give him a snake, will he?”
@@ -24415,7 +24413,7 @@ like chicken).”
 
 d. It is ludicrous. Now God is our Father, and He is perfect and good.
 
-3. The conclusion, v.11. “Therefore if you while evil know to give good
+[3] The conclusion, v.11. “Therefore if you while evil know to give good
 gifts to your children, how much more your Father Who is in heaven will
 give good things to those who ask Him.”
 
@@ -24440,16 +24438,16 @@ discourse on judging, v.12 (Luke 6:31), “Therefore however you want men
 to treat you, so also you treat them; For this is the Law and the
 Prophets.”
 
-1. The insertion of the golden rule right here is quite significant, as
+[1] The insertion of the golden rule right here is quite significant, as
 it brings to a close the discourse on judgment.
 
-2. The expression of virtue love summarizes all that was said in the Law
+[2] The expression of virtue love summarizes all that was said in the Law
 and the Prophets.
 
-3. The Scribes and Pharisees present at this sermon searched the
+[3] The Scribes and Pharisees present at this sermon searched the
 Scriptures all the time, but with illicit motives.
 
-4. On another occasion, the Pharisees would attempt to trick Jesus:
+[4] On another occasion, the Pharisees would attempt to trick Jesus:
 Matthew 22:34-40: “(34) But when the Pharisees heard that Jesus had
 silenced the Sadducees, they gathered themselves together. (35) One of
 them, a lawyer, asked Him a question, testing Him, (36) ‘Teacher, which
@@ -24467,12 +24465,12 @@ from outside the ten.
 b. Christ instead chooses another commandment from Deuteronomy that
 serves as a guide for all function in the Christian life.
 
-5. Love God; love others. That is it - because virtue love is the
+[5] Love God; love others. That is it - because virtue love is the
 opposite of judgment.
 
-6. 1 John 4:7-21 review.
+[6] 1 John 4:7-21 review.
 
-7. The law with regard to sinful frames of reference.
+[7] The law with regard to sinful frames of reference.
 
 a. This golden rule that Christ has issued us remains as the greatest
 common sense rule for human behavior that anyone has ever given us.
@@ -24508,12 +24506,12 @@ might be applied.
 
 (c) Specifically, Godly character should be applied in these ways:
 
-· ANECHOMENOI means to put up with someone. The idea is that you put up
+&bull; ANECHOMENOI means to put up with someone. The idea is that you put up
 with the non-sinful idiosyncrasies of others; their quirks and oddities.
 It means literally ‘to have again.’ I think it may have had something to
 do with in-laws.
 
-· CHARIZOMENOI concentrates on the sinful side of things. It means to
+&bull; CHARIZOMENOI concentrates on the sinful side of things. It means to
 give something free of charge and without expectation of return. Here it
 is a metaphor for forgiveness
 
@@ -24527,25 +24525,25 @@ which leads unto destruction and many are they who enter through it.
 (14) “The gate is narrow and the way has become constricted that leads
 unto life and few are they who find it.””
 
-1. The aorist imperative EISELTHATE gives a command that is to happen
+[1] The aorist imperative EISELTHATE gives a command that is to happen
 immediately; since it refers to salvation, the aspect of that verb is
 punctilear. Believe in one moment of time.
 
-2. The narrow gate is one that would allow one man at a time; it is the
+[2] The narrow gate is one that would allow one man at a time; it is the
 sally port of the ancient world.
 
-3. Two synonyms describe the way to destruction:
+[3] Two synonyms describe the way to destruction:
 
 a. PLATEIA - a broad thing or place; a big wide flat area.
 
 b. EURUCHOROS - roomy or spacious, even comfy; a real-estate agent’s
 word. (erratum for translation)
 
-4. The way to destruction is broad; many have traveled that path; and
+[4] The way to destruction is broad; many have traveled that path; and
 because of peer pressure and cosmic propaganda of every kind, it is by
 far easiest one to take.
 
-5. On the other hand the gate to salvation is narrow and constricted.
+[5] On the other hand the gate to salvation is narrow and constricted.
 
 a. Narrow is STENE, pretty much just like our own idea of it.
 
@@ -24570,7 +24568,7 @@ sin between the unbeliever and God.
 (2) The propaganda branch continues to disseminate falsehood so that the
 unbeliever cannot see the right way out of sin.
 
-6. Although the way unto salvation is narrow and constricted, and few
+[6] Although the way unto salvation is narrow and constricted, and few
 find it, remember what Christ has just said:
 
 a. Those who seek will find it.
@@ -24633,7 +24631,7 @@ Robert Frost (18751963)
 
 D. Distinctions among prophets, vv. 15-20 (Luke 6:43-45).
 
-1. The false prophet compared to a wolf, v. 15, “Beware of the false
+[1] The false prophet compared to a wolf, v. 15, “Beware of the false
 prophets, who come to you in the clothing of sheep, but inside are
 ravening wolves.”
 
@@ -24679,7 +24677,7 @@ mercy and no feeling - and a will to devour (Lost World passage).
 h. But Christ goes on to describe the distinction between false prophet
 and true.
 
-2. The metaphor of the trees and fruit, vv.16-19 (Luke 6:43-44), “(16)
+[2] The metaphor of the trees and fruit, vv.16-19 (Luke 6:43-44), “(16)
 You will clearly know them from their fruit. Grapes are not gathered
 from thorn bushes or figs from thistles, are they? (17) So also every
 good tree bears much fruit, but the rotten tree bears evil fruit. (18)
@@ -24800,7 +24798,7 @@ like him. Those in the cosmic system will not. The very nature of the
 matter is that positive people find communicators of the truth; negative
 people find communicators of the cosmic counterfeits and lies.
 
-3. The correlation of the metaphor to reality, Luke 6:45, “(45) The good
+[3] The correlation of the metaphor to reality, Luke 6:45, “(45) The good
 man brings forth what is good from the good treasure of his heart, and
 the evil man brings forth evil from evil; For his mouth speaks from the
 overflow of his heart.”
@@ -24829,7 +24827,7 @@ sheet, from Origin of Life).
 
 h. Illustration \#2, Wormtongue.
 
-4. The conclusion, v.20, “So in conclusion, you will clearly know them
+[4] The conclusion, v.20, “So in conclusion, you will clearly know them
 from their fruit.”
 
 a. This is a simple reiteration of the principle.
@@ -24842,7 +24840,7 @@ is the final part.
 E. Distinctions for the Kingdom from the tribulational frame of
 reference, vv.21-27 (Luke 6:46-49).
 
-1. The present attitude, Luke 6:46, “But why do you call Me ‘Lord, Lord’
+[1] The present attitude, Luke 6:46, “But why do you call Me ‘Lord, Lord’
 and do not do what I say?”
 
 a. Christ observes a present trend, and then asks a question. There were
@@ -24882,7 +24880,7 @@ good deed where the mental attitude is absent.
 k. Furthermore, Christ ties this to entrance into His kingdom, which
 comes in the next verse.
 
-2. The future judgment, v.21a, “Not everyone who says to Me, ‘Lord,
+[2] The future judgment, v.21a, “Not everyone who says to Me, ‘Lord,
 Lord’ will enter into the kingdom of heaven,”
 
 a. There is a present tense and a future tense here.
@@ -24937,7 +24935,7 @@ kingdom, although some who make the statement will on account of their
 inner attitude. It is the inner attitude which must match up with the
 outward statement.
 
-3. The standard for the judgment, v.21b, “but [only] the one who does
+[3] The standard for the judgment, v.21b, “but [only] the one who does
 the will of My Father Who is in heaven.”
 
 a. Now Christ sets the standard: that is, what constitutes ‘doing’ so
@@ -24981,7 +24979,7 @@ e. Conclusion: it is only those who remain alive at the second advent
 that enter into the millennial state. But unbelievers fit this filter
 just as effectively.
 
-4. The excuses of the damned at this judgment, v.22, “ Many will say to
+[4] The excuses of the damned at this judgment, v.22, “ Many will say to
 me in that day, ‘Lord, Lord, didn’t we prophesy in your name, and cast
 out demons in your name, and do many miracles in your name?’
 
@@ -25033,7 +25031,7 @@ grace, work completely apart from fellowship; therefore it is possible
 to be a Christian service superstar and spectacularly immature at the
 same time.
 
-5. The response of Jesus Christ, v.23, “And then I will say the same
+[5] The response of Jesus Christ, v.23, “And then I will say the same
 thing to them: ‘I never knew you; depart from me you who work
 lawlessness.’”
 
@@ -25191,7 +25189,7 @@ c. Christ is trying to motivate His audience by informing them about the
 coming judgment of the Baptism of Fire. He is motivating them to believe
 and initiate a relationship with God through Him.
 
-6. The parable of the foundations, vv.24-27 (Luke 6:47-49): “Therefore
+[6] The parable of the foundations, vv.24-27 (Luke 6:47-49): “Therefore
 whoever hears these words of mine and does them, he will be compared to
 a wise man, who dug and went deep and founded his house upon the rock;
 and the rain descended, and the torrent came and the winds blew and
@@ -25271,9 +25269,9 @@ the soul.
 (b) This is a legitimate question that is answered completely by the
 Bible, and there are two answers:
 
-· Because they choose to suffer.
+&bull; Because they choose to suffer.
 
-· Because suffering is designed for our own good.
+&bull; Because suffering is designed for our own good.
 
 (c) Because God is righteous, there exists the concept of absolute
 right, and a difference between right and wrong.
@@ -25334,7 +25332,7 @@ Bible truth to solve.
 (f) Doctrinal orientation means that the \#1 priority in your life is
 the intake, inculcation and application of Bible truth.
 
-7. The end of the Sermon… Matthew 7:28-29, “(28) And it came about when
+[7] The end of the Sermon… Matthew 7:28-29, “(28) And it came about when
 Jesus concluded these words, the crowds were lightning-struck at His
 teaching; (29) For He was teaching them as having authority and not like
 their scribes.”
@@ -25767,14 +25765,14 @@ through the gates of the town, and wham! This event happens.
 
 E. The particulars are real important.
 
-1. A young man has died.
+[1] A young man has died.
 
-2. He was the only-born son of a widow. MONOGENES is only-born.
+[2] He was the only-born son of a widow. MONOGENES is only-born.
 
-3. A fair-sized crowd was following - The Greek word is HIKANOS, or
+[3] A fair-sized crowd was following - The Greek word is HIKANOS, or
 ‘sufficient.’
 
-4. They are carrying him out for burial; he is dead indeed.
+[4] They are carrying him out for burial; he is dead indeed.
 
 F. Today’s Handbook of Bible Times and Customs says this about the
 funeral bier and procession on pages 245-246: “Funeral processions were
@@ -25792,23 +25790,23 @@ G. Christ had an emotional reaction to the situation - most likely
 because He was thinking of His own mother and the death that He would
 have to undergo.
 
-1. ESPLAGCHNISTHE describes an emotion that comes from the depths of
+[1] ESPLAGCHNISTHE describes an emotion that comes from the depths of
 being - at the very center of the soul.
 
-1. 2. This situation really hit Him hard, and so He says to the widow ME
+[1] 2. This situation really hit Him hard, and so He says to the widow ME
 KLAIE, ‘Do not cry.’
 
-3. In Christ’s mind looms His own death, and His own mother’s reaction.
+[3] In Christ’s mind looms His own death, and His own mother’s reaction.
 
-4. This implies that Christ’s mother was a widow at this time.
+[4] This implies that Christ’s mother was a widow at this time.
 
 H. And then Christ comes forward and touches the bier (SOROU) and the
 bearers stood still.
 
-1. What a moment of great drama. With the bearers you can feel the crowd
+[1] What a moment of great drama. With the bearers you can feel the crowd
 stand still - a hushed silence prevails.
 
-2. And these words are heard by all: “Young man, I say to you, be
+[2] And these words are heard by all: “Young man, I say to you, be
 risen.”
 
 a. But wait. The soul of this young man has departed. He is not there
@@ -25835,26 +25833,26 @@ even in Hades.
 I. And at the command the dead man sits up and begins to speak, and
 Christ presents him to his mother.
 
-1. So immediately the soul has permission to return to the body, and he
+[1] So immediately the soul has permission to return to the body, and he
 does.
 
-2. And this animates the body so that the young man sits up and begins
+[2] And this animates the body so that the young man sits up and begins
 to speak.
 
-3. But there must have been some rectification of the body as well,
+[3] But there must have been some rectification of the body as well,
 since by that time rigor mortis had certainly set in, and the body was
 swiftly decomposing. This was a healing as well as a resuscitation.
 
-4. And more than that, the body had been wrapped tightly with spices,
+[4] And more than that, the body had been wrapped tightly with spices,
 which is likely why the young man’s words are not recorded. He sat up
 and said: “Mmphlmph.”
 
-5. But very touching here is the presentation. It says literally that
+[5] But very touching here is the presentation. It says literally that
 Christ ‘gave’ the young man to his mother.
 
-6. Touching indeed - ‘Woman, here is your son.’ What a fantastic gift.
+[6] Touching indeed - ‘Woman, here is your son.’ What a fantastic gift.
 
-7. And here is something more: John 19:23-26, “(23) Then the soldiers,
+[7] And here is something more: John 19:23-26, “(23) Then the soldiers,
 when they had crucified Jesus, took His outer garments and made four
 parts, a part to every soldier and also the tunic; now the tunic was
 seamless, woven in one piece. (24) So they said to one another, ‘Let us
@@ -25876,20 +25874,20 @@ everyone and they glorified God saying ‘A great prophet is raised among
 us.’ and, ‘God cared for His people.’ (17) And this word about Him went
 out in the whole of Judea and the surrounding countryside.”
 
-1. This is no kidding around now. A healing is nice and certainly
+[1] This is no kidding around now. A healing is nice and certainly
 miracles are fun. But raising someone from the dead - some putrefied,
 rigor-mortised corpse from the dead - that is serious indeed.
 
-2. Now there is more than entertainment; there is respect. And finally
+[2] Now there is more than entertainment; there is respect. And finally
 with that respect is glorification of God. But is it? Listen closely to
 their worship…
 
-3. Christ is a great prophet; He is that, but he is indeed more than a
+[3] Christ is a great prophet; He is that, but he is indeed more than a
 prophet. Jesus Christ is the Son of God! And it seems that if one is
 going to worship God, there must be an accuracy of that worship for
 God’s good pleasure toward it.
 
-4. The statement ‘God cared for His people’ is one related to the
+[4] The statement ‘God cared for His people’ is one related to the
 consolation of Israel, and it concentrates on the verb EPESKEPSATO. This
 is in the same family as EPISKOPOS; it is the verbal form that same
 noun. So God is the overseer or shepherd of Israel.
@@ -25993,23 +25991,23 @@ inward condition: slavery.
 (c) It is no wonder, then, there was a great fascination in the nation
 of Israel with the prophecies about the Messiah.
 
-· The one who would come and re-establish the greatness of their kingdom
+&bull; The one who would come and re-establish the greatness of their kingdom
 and their people.
 
-· A man who would rise up and smite their enemies and make them a free
+&bull; A man who would rise up and smite their enemies and make them a free
 people once again.
 
-· From time to time a fairly great and famous man would rise up, and
+&bull; From time to time a fairly great and famous man would rise up, and
 there would be some excitement about the possibility of his being the
 Messiah.
 
-· Of course, things would quiet down when he turned out to be quite
+&bull; Of course, things would quiet down when he turned out to be quite
 human, and the slavery of Israel droned on and on.
 
-· After a time there was even a certain amount of cynicism about the
+&bull; After a time there was even a certain amount of cynicism about the
 whole deal.
 
-· The same phenomenon exists today with the fascination about the end
+&bull; The same phenomenon exists today with the fascination about the end
 times and the return of Christ.
 
 (8) Herod tried bribing the Jews, so that they would like him, and he
@@ -26025,46 +26023,46 @@ other.
 (c) The bribes came in the form of a building program that was the very
 rival of Solomon’s.
 
-· He built monuments and buildings in the Holy Land, and even rebuilt
+&bull; He built monuments and buildings in the Holy Land, and even rebuilt
 their temple in magnificent fashion, topping it with a golden dome.
 
-· The rebuilding of the Temple was much like the building of the
+&bull; The rebuilding of the Temple was much like the building of the
 Winchester Mystery House in San Jose, California.
 
-- More was added every year. A higher roof here, an annex there - all
+-- More was added every year. A higher roof here, an annex there - all
 very magnificent.
 
-- When Herod died, his relatives took over the folly and the
+-- When Herod died, his relatives took over the folly and the
 never-ending program continued until it was finally finished in 66 AD,
 some 87 years after it was begun.
 
-- It is one of the great ironies of history that it was burned down just
+-- It is one of the great ironies of history that it was burned down just
 four years later when Jerusalem was destroyed.
 
-· Other buildings and monuments were undertaken.
+&bull; Other buildings and monuments were undertaken.
 
-- A temple, a forum, and a theatre at Samaria.
+-- A temple, a forum, and a theatre at Samaria.
 
-- A great Greco-Roman capital, a temple, and port at Caesarea.
+-- A great Greco-Roman capital, a temple, and port at Caesarea.
 
-- The port was an engineering marvel that even today is remarked upon by
+-- The port was an engineering marvel that even today is remarked upon by
 the archaeologists who work at the site.
 
-- Luxurious palaces and fortified retreats were built at Masada,
+-- Luxurious palaces and fortified retreats were built at Masada,
 Jerusalem, Jericho, and Herodium, which was near Bethlehem.
 
-- In Jerusalem he had baths, a theatre, and a Hippodrome constructed.
+-- In Jerusalem he had baths, a theatre, and a Hippodrome constructed.
 
-· He also promoted Greek and Roman games so that the people might be
+&bull; He also promoted Greek and Roman games so that the people might be
 entertained.
 
 (d) All of these things struck a sour note - as any bribe to a slave
 will.
 
-· The people really did not want these things. They wanted to be
+&bull; The people really did not want these things. They wanted to be
 autonomous and free.
 
-· But in order to be truly free, any people must know God, and that was
+&bull; But in order to be truly free, any people must know God, and that was
 exactly the problem in Israel.
 
 Herod had ten wives and seven sons. Four of those seven would play a
@@ -26314,26 +26312,26 @@ with each other.”
 his enemy also. He may also have been outraged that Christ gave him no
 show.
 
-2. But John’s disciples kept him informed with all the happenings on the
+[2] But John’s disciples kept him informed with all the happenings on the
 outside, and especially the happenings in the life of Jesus.
 
 B. John’s response is cold: “And summoning some two of his disciples
 John sent to the Lord, saying, ‘Are you the coming one or do we expect
 another?’”
 
-1. It is cold because he hears all these great things about Christ, and
+[1] It is cold because he hears all these great things about Christ, and
 yet he does not see Christ as the Messiah.
 
-2. And why is that? How could you deny Christ as the Messiah when you
+[2] And why is that? How could you deny Christ as the Messiah when you
 hear all of these things about him?
 
-3. It had to do with personal circumstances. John was in prison, put
+[3] It had to do with personal circumstances. John was in prison, put
 there by his enemy and the enemy of Israel. That in John’s mind Christ
 had done nothing to free him (which was the law of volitional
 responsibility), nor to free his people from the Herodian tyranny was
 enough to deny Jesus as the Messiah.
 
-4. This is the classic cosmic rationale.
+[4] This is the classic cosmic rationale.
 
 a. John was suffering because of his own stubborn efforts in clinging
 too long to his ministry, and his shift of focus from the Pharisees to
@@ -26349,7 +26347,7 @@ d. Suddenly God was not God because John had not gotten his way. And
 because of his spiritual malfunction, John had become like his worst
 enemies, the Pharisees.
 
-5. John must indeed have been suffering from spiritual blindness.
+[5] John must indeed have been suffering from spiritual blindness.
 
 II. Christ’s Reply to John. “And after they appeared beside Him the men
 said, ‘John the Baptist sent us to you, saying, ‘Are you the coming one
@@ -26362,10 +26360,10 @@ evangelized. And blessed is anyone who does not stumble over Me.”
 
 A. Now John had heard of the miracles, but not seen them.
 
-1. Remember, John has never seen the miracles of Jesus Christ, other
+[1] Remember, John has never seen the miracles of Jesus Christ, other
 than the approving proclamation and the dove at Christ’s baptism.
 
-2. And that incident did not contain a miracle under Christ’s
+[2] And that incident did not contain a miracle under Christ’s
 initiative, but came direct from the Father.
 
 B. And Christ performed many of the miracles right before John’s
@@ -26373,10 +26371,10 @@ disciples, so that they could validate the occurrences back to John
 personally. They had witnessed the entire thing, and the eyewitness is
 by far the most effective witness of all.
 
-1. By seeing it with their own eyes, the disciples of John could move
+[1] By seeing it with their own eyes, the disciples of John could move
 away from the self-testimony of Christ to their testimony.
 
-2. This harkens back to the testimony of Andrew for Peter. John 1:35ff:
+[2] This harkens back to the testimony of Andrew for Peter. John 1:35ff:
 “Again the next day John was standing with two of his disciples, and he
 looked upon Jesus as He walked, and said, ‘Behold, the Lamb of God!" And
 the two disciples heard him speak, and they followed Jesus. And Jesus
@@ -26389,7 +26387,7 @@ speak, and followed Him, was Andrew, Simon Peter’s brother. He found
 first his own brother Simon, and said to him, ‘We have found the
 Messiah’ [which translated means Christ]. He brought him to Jesus.”
 
-3. But now this places a requirement on your own witnessing life within
+[3] But now this places a requirement on your own witnessing life within
 this principle. You have the requirement to be an eyewitness to the
 gospel from your own life.
 
@@ -26399,10 +26397,10 @@ experience with the source.
 b. Your communication of the plan of God will not hit home without your
 experience in its execution.
 
-4. As a result, Christ does John a great favor here; He gives to him the
+[4] As a result, Christ does John a great favor here; He gives to him the
 best possible chance of recovery through these acts.
 
-5. Christ gives an indication that this is a grace ministry with the
+[5] Christ gives an indication that this is a grace ministry with the
 phrase, “and to many blind He freely gave to see.” (Luke 7:21).
 
 a. The verb ECHARISATO is in the aorist indicative. It summarizes a
@@ -26413,13 +26411,13 @@ b. It describes giving within the grace framework.
 c. This verb extends over all the activities described herein. All of
 these things were freely given.
 
-6. The messengers are commanded by Christ to give proclamation to John.
+[6] The messengers are commanded by Christ to give proclamation to John.
 This is not simply passing along a message; it is APAGGEILATE. This is a
 command from Christ, to be carried out when these messengers arrive at
 John’s prison cell. A proclamation is stronger than a message, and
 concentrates with a stronger claim of integrity toward truth.
 
-7. The final phrase is intriguing. “And blessed is anyone who does not
+[7] The final phrase is intriguing. “And blessed is anyone who does not
 stumble over Me.”
 
 a. The aorist passive subjunctive of SKANDALIZO does the following:
@@ -26463,26 +26461,26 @@ demonic organization.
 (c) The counterfeits and lies match up with every category of truth
 possible.
 
-· The Gospel.
+&bull; The Gospel.
 
-· The plan of God.
+&bull; The plan of God.
 
-· The power of God.
+&bull; The power of God.
 
-· The person and work of God.
+&bull; The person and work of God.
 
-· The person and work of Christ.
+&bull; The person and work of Christ.
 
-· The person and work of the Holy Spirit.
+&bull; The person and work of the Holy Spirit.
 
-· And many more…
+&bull; And many more…
 
 (d) These counterfeits and lies are promoted by every means possible.
 
-· There is a great emphasis today on the media, and especially
+&bull; There is a great emphasis today on the media, and especially
 television.
 
-· Those who are heavily involved in the cosmic system inevitably become
+&bull; Those who are heavily involved in the cosmic system inevitably become
 cosmic propagandists.
 
 (3) The Attack against the Word.
@@ -26492,10 +26490,10 @@ fully effective, the cosmic system attacks the Word.
 
 (b) The attacks against the Word come in two basic categories.
 
-· Attacks to destroy the Word outright. There have been many attempts
+&bull; Attacks to destroy the Word outright. There have been many attempts
 throughout history to destroy the manuscripts of the Bible.
 
-· Attacks to undermine the credibility of the Word. These are usually
+&bull; Attacks to undermine the credibility of the Word. These are usually
 attacks on the supernatural nature of the Divine inspiration of the
 Word. Liberal theologians are mainly responsible for this branch of the
 attack on the Word.
@@ -26542,25 +26540,25 @@ judgment, knowing what they know about John.
 evidence and witnesses are gathered. This can occur in or out of the
 courtroom, and applies even if you are an eyewitness to the act.
 
-· Ultimately, the right to judge is reserved for our Lord Jesus Christ,
+&bull; Ultimately, the right to judge is reserved for our Lord Jesus Christ,
 who will judge all church age believers at the judgement seat of Christ.
 
-· Many times, people will judge because they fear they will not be
+&bull; Many times, people will judge because they fear they will not be
 vindicated. When you have confidence in the justice of God, then this
 fear will be removed.
 
-· Jesus Christ will be perfectly fair at the judgment seat. No detail
+&bull; Jesus Christ will be perfectly fair at the judgment seat. No detail
 will escape His attention.
 
-· Jesus Christ is the only person who is perfectly qualified to judge
+&bull; Jesus Christ is the only person who is perfectly qualified to judge
 the human race.
 
-- He died for those sins.
+-- He died for those sins.
 
-- He too lived a human life, and was tempted far beyond what we will
+-- He too lived a human life, and was tempted far beyond what we will
 ever encounter.
 
-· When we overstep the boundaries of our legitimate right to judge, then
+&bull; When we overstep the boundaries of our legitimate right to judge, then
 we presume to take the place of Jesus Christ. James 4:12, “There is only
 one Lawgiver and Judge, the one who is able to save and destroy. But
 you–who are you to judge your neighbor?”
@@ -26621,10 +26619,10 @@ translated ‘really.’
 
 (b) And the facetious question is: ‘a man dressed in white?’
 
-· Christ actually answers this one for the crowd. ‘Behold those in
+&bull; Christ actually answers this one for the crowd. ‘Behold those in
 glorious clothing and possessing luxury are in the palace.’
 
-· Because there is no chance in the world that someone would find
+&bull; Because there is no chance in the world that someone would find
 someone dressed in such a fine way out in the wilderness. The notion is
 utterly ridiculous. In fact, John was dressed in rough clothing, fit for
 his life there, as they all would remember - Matthew 3:4.
@@ -26811,18 +26809,18 @@ work - not in contrast to that of the Father’s, but in concert.
 
 (e) So two things here would get the attention of the Pharisees:
 
-· That Christ called God His Father.
+&bull; That Christ called God His Father.
 
-· That Christ considered His work equivalent with that of the Father’s.
+&bull; That Christ considered His work equivalent with that of the Father’s.
 
 (f) As a result, the Jews were seeking all the more to kill him.
 
-· The more bold Christ became, the more the Jews wanted to kill Him; the
+&bull; The more bold Christ became, the more the Jews wanted to kill Him; the
 more that Christ revealed about the plan of God in Him, the more the
 Jews wanted to kill Him; the more that Christ set Himself up as a
 substituted for them, the more the Jews wanted to kill Him.
 
-· So this was not only persecution, but deadly persecution.
+&bull; So this was not only persecution, but deadly persecution.
 
 (g) Even two years before the death of Christ, the conspiracy to kill
 Him gained great strength.
@@ -26830,17 +26828,17 @@ Him gained great strength.
 (h) Christ spoke the truth - He is a part of the trinity. God is three
 persons in one Godhead.
 
-· The first person of the Trinity is God the Father. The second person
+&bull; The first person of the Trinity is God the Father. The second person
 of the Trinity is God the Son. The third person of the Trinity is God
 the Holy Spirit.
 
-· The three persons of the trinity possess identical essence in one
+&bull; The three persons of the trinity possess identical essence in one
 being.
 
-· This divine being has three distinct persons which are autonomous from
+&bull; This divine being has three distinct persons which are autonomous from
 one another in soul function.
 
-· This distinction in persons is more than just one God showing
+&bull; This distinction in persons is more than just one God showing
 different facets or modes of His one person.
 
 And violent men try to capture this kingdom.
@@ -26866,23 +26864,23 @@ heaven, and these tend to transfer to every dispensation.
 
 (a) The attempt to destroy divine institutions by violence.
 
-· Jewish dispensation illustration: Esther (see doctrine).
+&bull; Jewish dispensation illustration: Esther (see doctrine).
 
-· Church dispensation illustration: the persecution of Nero (F.F.
+&bull; Church dispensation illustration: the persecution of Nero (F.F.
 Bruce).
 
-· Modern illustration: reader’s digest “The War on Christians.”
+&bull; Modern illustration: reader’s digest “The War on Christians.”
 
 (b) The attempt to capture divine institutions by force.
 
-· Jewish dispensation illustration: the Pharisees (see doctrine).
+&bull; Jewish dispensation illustration: the Pharisees (see doctrine).
 
-· Church dispensation illustration: the Judaizers.
+&bull; Church dispensation illustration: the Judaizers.
 
-· Modern illustration: the downfall of Christian colleges and seminaries
+&bull; Modern illustration: the downfall of Christian colleges and seminaries
 - captured by means of money.
 
-· Modern illustration \#2: the downfall of local churches. Compromised
+&bull; Modern illustration \#2: the downfall of local churches. Compromised
 by emphasis on numbers, or money.
 
 (7) Each of these attacks depend upon the individual and propaganda
@@ -26946,22 +26944,22 @@ they did not recognize him, but did to him whatever they wished. So also
 the Son of Man is going to suffer at their hands.’ (13) Then the
 disciples understood that He had spoken to them about John the Baptist.”
 
-· The three disciples of the inner circle, Peter, James, and John, have
+&bull; The three disciples of the inner circle, Peter, James, and John, have
 just witnessed the transfiguration of Christ and seen Moses and Elijah
 in their interim state.
 
-· There are two appearances of Elijah that come to bear on this
+&bull; There are two appearances of Elijah that come to bear on this
 incident.
 
-- The first is the coming of John the Baptist, a type of Elijah.
+-- The first is the coming of John the Baptist, a type of Elijah.
 
-- The second is the coming of Moses and Elijah in the tribulation, a
+-- The second is the coming of Moses and Elijah in the tribulation, a
 precursor to the second advent, as revealed in Revelation 11:1-12.
 
-· When Christ says Elijah is coming and will restore all things, it
+&bull; When Christ says Elijah is coming and will restore all things, it
 refers to the tribulational appearance of Elijah in his interim body.
 
-· Christ then compares His future sufferings with the past sufferings of
+&bull; Christ then compares His future sufferings with the past sufferings of
 John the Baptist; they are both persecutions.
 
 (b) John the Baptist was the one who was ‘about to arrive’ for a long
@@ -26970,13 +26968,13 @@ was a favorite verse of the scholarly class of Israel: “Behold I am
 going to send you Elijah the prophet before the coming of the great and
 terrible day of the Lord.”
 
-· The day of the Lord entails all of eschatology, and from the Old
+&bull; The day of the Lord entails all of eschatology, and from the Old
 Testament point of view, both advents.
 
-· The scholars loved to talk about the one who would prepare the way for
+&bull; The scholars loved to talk about the one who would prepare the way for
 the Messiah, because his arrival would mark the beginning of the end.
 
-· This is not unlike the fascination today with the rapture, and even
+&bull; This is not unlike the fascination today with the rapture, and even
 the tendency to place certain prophecies within the church age when they
 are not.
 
@@ -27452,13 +27450,13 @@ you, the rest who are in Thyatira, who do not hold this teaching, who
 have not known the deep things of Satan, as they call them - I place no
 other burden on you.”
 
-· The sin with Jezebel was not institutionalized within the church
+&bull; The sin with Jezebel was not institutionalized within the church
 there.
 
-· Rather, many members of this local body went out to visit her and
+&bull; Rather, many members of this local body went out to visit her and
 more.
 
-· So there is discipline only against those who go out, and not against
+&bull; So there is discipline only against those who go out, and not against
 the church itself.
 
 (d) Revelation 3:1-3 (to Sardis), “(1) To the angel of the church in
@@ -27652,7 +27650,7 @@ implementing evil.
 Crusades not only always fail, but they also always make the situation
 worse in their failure.
 
-10. The challenge that every Christian has in the devil’s world is this:
+[10] The challenge that every Christian has in the devil’s world is this:
 how to change the people, and even the organizations, without destroy
 yourself and the organizations. This is accomplished as follows:
 
@@ -28366,11 +28364,11 @@ It is therefore not through empirical or experimental perception that
 these things are understood. The greatest scientist in the world could
 not find doctrine with the finest telescope ever made.
 
-10. Nor is it through reason. The most amazing philosophical genius in
+[10] Nor is it through reason. The most amazing philosophical genius in
 the world could not find doctrine within the confines of his own mind,
 no matter how hard he concentrated.
 
-11. Rather, it is through faith that knowledge of the truth comes. Faith
+[11] Rather, it is through faith that knowledge of the truth comes. Faith
 is not dependent on the genius of the subject, but rather the trust of
 the subject plus the genius and integrity of the object. This is what
 Christ refers to.
@@ -29069,7 +29067,7 @@ But she is here at least in fellowship to give these acts of legitimate
 thanksgiving to Christ, so it is likely the latter. Luke gives the
 designation so that we can understand the response of the Pharisee.
 
-10. The woman began to wet His feet - with the tears of her crying.
+[10] The woman began to wet His feet - with the tears of her crying.
 
 TOIS DAKRUSIN more properly goes with the sentence which follows, so
 that it should be ‘she began to wet His feet with tears.’
@@ -29087,7 +29085,7 @@ Christ washes the feet of His disciples in John 13, He teaches them
 something very important about the doctrine of fellowship, and it is on
 account of the actions of this woman that He does so.
 
-11. Next there are three verbs in the imperfect tense; the imperfect
+[11] Next there are three verbs in the imperfect tense; the imperfect
 tense portrays continuous action in the past.
 
 EXEMASSEN means to wipe. She wiped His feet with the hair of her head.
@@ -29297,41 +29295,41 @@ The greatest commandment is to love God with everything that you have;
 and this woman fulfilled that ideal magnificently - adulteress,
 prostitute, or whatever.
 
-10. In Christ, it does not ever matter what you have been; it matters
+[10] In Christ, it does not ever matter what you have been; it matters
 what He is. Christianity is not subjective, but objective - it
 concentrates on God. It is worship with accuracy and even with detail.
 
-11. Now this woman had no great complex of doctrine in her soul, either.
+[11] Now this woman had no great complex of doctrine in her soul, either.
 She was doing this humble service for Christ because that is what she
 had, and she is giving her widow’s mite in a way.
 
-12. Her small offering is given in love and in understanding the
+[12] Her small offering is given in love and in understanding the
 doctrine of forgiveness; and this small act is also a legitimate
 offering of worship. This action, these tears - they are as worshipful
 as any great hymn or prayer of doctrine.
 
-13. Her capacity for worship was indeed limited, but at least she is
+[13] Her capacity for worship was indeed limited, but at least she is
 exhibiting a vitality based on her understanding of one thing. And that
 is good.
 
-14. This demonstrates the value and importance of having a vital
+[14] This demonstrates the value and importance of having a vital
 spiritual life before God, no matter what doctrinal resources you might
 have.
 
-15. This Pharisee, Simon by name, had failed to pay even the slightest
+[15] This Pharisee, Simon by name, had failed to pay even the slightest
 respect to Christ - he had failed to give him even the commonest
 courtesy of the day.
 
-16. It is as though Christ were in the same class as this woman, at
+[16] It is as though Christ were in the same class as this woman, at
 least to Simon. But even if a prostitute were in your house (for some
 legitimate reason), you would still show her some small form of
 courtesy.
 
-17. But Simon treats Christ with the respect that he would treat a
+[17] But Simon treats Christ with the respect that he would treat a
 salesman or a telemarketer or even a prostitute. Really, with no respect
 at all.
 
-18. And here this woman gives Christ courtesy and it is not even her
+[18] And here this woman gives Christ courtesy and it is not even her
 house! She walks in and realizes that a discourtesy has been done to her
 savior, and so she takes care of it without even a glance at the master
 of the house. She does Simon’s job in an utterly humble way, and now he
@@ -29494,18 +29492,18 @@ understood the doctrine of the Messiah well enough.
 But rather, it is that this man could not be the Messiah, and so He is a
 blasphemer.
 
-10. And so this is also a lesson that we can learn - to never impute our
+[10] And so this is also a lesson that we can learn - to never impute our
 preconceived ideas into what Scripture has to say - to let the words and
 the passages speak for themselves.
 
-11. These Pharisees were indeed practicing EISEGESIS, the imputation of
+[11] These Pharisees were indeed practicing EISEGESIS, the imputation of
 prejudice into interpretation.
 
-12. They interpreted the life of Christ according to their preconceived
+[12] They interpreted the life of Christ according to their preconceived
 notion of what the Messiah would be like. As a result, they missed Him
 and His benefits completely.
 
-13. We must always accept God as He is, not as we want Him to be; we
+[13] We must always accept God as He is, not as we want Him to be; we
 must always accept Scripture as it is, not as we want it to be.
 
 “(50) And He said to the woman, ‘Your faith has saved you, go in
@@ -29651,23 +29649,23 @@ footwashing is tantamount to partnership with Christ.
 
 Christ meant this ritual to prepare them for the events of the next day.
 
-10. And then again Peter errs. He goes overboard completely and wants a
+[10] And then again Peter errs. He goes overboard completely and wants a
 bath from head to toe from Christ. He was going to miss the significance
 of the ritual.
 
-11. This ritual was significant in its procedure; it was just the
+[11] This ritual was significant in its procedure; it was just the
 footwashing that was important as a representation of something that was
 about to occur.
 
-12. The bath would be a representation of salvation; the footwashing a
+[12] The bath would be a representation of salvation; the footwashing a
 ritual about forgiveness after salvation.
 
-13. Christ wants to highlight post-salvation forgiveness as a precursor
+[13] Christ wants to highlight post-salvation forgiveness as a precursor
 to the cross, so that His disciples will understand the necessity of
 forgiving one another, and that the possibility of that comes from the
 cross.
 
-14. Indeed, this foot-washing has become a new hand-washing with a
+[14] Indeed, this foot-washing has become a new hand-washing with a
 twist.
 
 The ritual of hand-washing had been around since the advent of the
@@ -29837,16 +29835,16 @@ A. The first sentence is noteworthy in the Greek, because it employs the
 adverb KATHEXES. It denotes a sequence of events in a logical and proper
 order.
 
-1. So whatever Luke is about to introduce here, it has a certain proper
+[1] So whatever Luke is about to introduce here, it has a certain proper
 order following from the incident with the sinful woman at the house of
 Simon the Pharisee.
 
-2. Since this passage has much to do with women, and the one preceding
+[2] Since this passage has much to do with women, and the one preceding
 does as well, we can conclude that the women’s auxiliary to the
 disciples sprang from the interaction with the unnamed woman of Luke
 seven.
 
-3. The verb EGENETO is the aorist indicative of GINOMAI. This verb is
+[3] The verb EGENETO is the aorist indicative of GINOMAI. This verb is
 unique in that it portrays something coming into being.
 
 a. It has the connotation of an appearance out of nowhere, or from no
@@ -29862,41 +29860,41 @@ d. But Luke wants us to know of its spontaneous uprising. One day there
 was no auxiliary, and the next there was. It came about of its own
 accord.
 
-4. Well actually it came about due to the initiative of some fantastic
+[4] Well actually it came about due to the initiative of some fantastic
 woman believers.
 
-5. But the point is that Christ did not organize this; He did not form a
+[5] But the point is that Christ did not organize this; He did not form a
 committee for the formation of a woman’s auxiliary.
 
-6. One or several women took note of some of the logistical needs that
+[6] One or several women took note of some of the logistical needs that
 existed for Christ and His disciples, and they began to fill them.
 
-7. This came about in the proper order of things because of Christ’s
+[7] This came about in the proper order of things because of Christ’s
 treatment of the sinful woman. He not only treated her well, but He also
 exalted her virtues in front of several Pharisees.
 
-8. The Pharisees were the kind of men who used to thank God they were
+[8] The Pharisees were the kind of men who used to thank God they were
 not born women. They held women in no particular esteem, and often
 mistreated them. In short, they were quite gender-prejudiced.
 
-9. Now the women of Galilee had a champion, and His name was Jesus
+[9] Now the women of Galilee had a champion, and His name was Jesus
 Christ.
 
-10. In particular note that the sinful women saw a logistical need for
+[10] In particular note that the sinful women saw a logistical need for
 Christ and deliberately went about taking care of that humble service of
 washing His feet.
 
 
 
 
-11. It must have been her example that inspired the other women to
+[11] It must have been her example that inspired the other women to
 participate.
 
-12. Christ kept on going around to the cities and villages. This comes
+[12] Christ kept on going around to the cities and villages. This comes
 from the imperfect indicative of DIODEUO. That imperfect tense describes
 continuous past action.
 
-13. Two participles put forth the nature of His travels:
+[13] Two participles put forth the nature of His travels:
 
 a. He was preaching, KERUSSON, and evangelizing, EUAGGELIZOMENOS.
 
@@ -29907,7 +29905,7 @@ minister through these towns. He was evangelizing, so that some might
 enter the kingdom of God; He was preaching, so that those who already
 resided there might gain and be built up.
 
-14. The twelve were with Him, ostensibly learning and helping with the
+[14] The twelve were with Him, ostensibly learning and helping with the
 work.
 
 B. In the next two verses, Luke names a few members of the women’s
@@ -29917,7 +29915,7 @@ called Magdelene, from who seven demons were cast out, (3) and Joanna
 wife of Chouza steward of Herod and Susanna and many others, who were
 continuously serving them from their own private means.”
 
-1. Verse two begins with a general category of women - those who had
+[1] Verse two begins with a general category of women - those who had
 been healed from evil spirits and weaknesses.
 
 a. The periphrastic construction reveals the radical healing work of
@@ -29933,7 +29931,7 @@ healings and exorcisms were done in a permanent fashion.
 b. Two categories of women received healing: those with demons, and
 those with weaknesses - probably physical weaknesses.
 
-2. The first woman is Maria, the one called Magdelene. Christ had cast
+[2] The first woman is Maria, the one called Magdelene. Christ had cast
 seven demons from her.
 
 a. This woman had endured much misery before she met Christ and
@@ -29976,7 +29974,7 @@ i. Then Christ commands her to go tell His disciples that He would
 ascend into heaven. She said to them, “I have seen the Lord.” John
 20:17.
 
-3. Joanna wife of Chouza steward of Herod is the second; she comes from
+[3] Joanna wife of Chouza steward of Herod is the second; she comes from
 a very distinguished family of servants - they were servants to Herod.
 
 a. Now Joanna must indeed have been an outcast among the Jewish women of
@@ -30005,7 +30003,7 @@ g. She was present when they laid the body of Christ in the tomb, Luke
 wrapping of the corpse, and told the disciples of the empty tomb, Luke
 23:56-24:10.
 
-4. The third mentioned by name is a certain Susanna.
+[4] The third mentioned by name is a certain Susanna.
 
 a. She is not found elsewhere in the gospels, even though she was well
 enough know at the time of Luke’s writing to simply mention her name and
@@ -30017,19 +30015,19 @@ the time of Christ’s life and into the church. Perhaps she was such a
 solid ecclesiastical citizen that she was well known even thirty years
 later.
 
-5. Many other women were there, although they are not mentioned by name.
+[5] Many other women were there, although they are not mentioned by name.
 
-6. These and the many others were continuously serving Christ and the
+[6] These and the many others were continuously serving Christ and the
 disciples. The verb is DIEKONOUN. This is the imperfect tense from
 DIAKONOO. It is from the noun form of this verb that we get our word for
 deacon.
 
-7. These women were serving as deacons - not in the church
+[7] These women were serving as deacons - not in the church
 ecclesiastical sense, but rather in the sense that this Joanna would be
 familiar with as a steward of the house of Herod. They were continuously
 taking care of the logistical details of Christ’s travelling band.
 
-8. This they accomplished EK TON HUPARCHONTON AUTAIS.
+[8] This they accomplished EK TON HUPARCHONTON AUTAIS.
 
 a. This is translated, ‘from their own means.’
 
@@ -30623,29 +30621,29 @@ Spirit.
 (c) This is a Greek first class conditional sentence. It prompts the
 reader or listener to assume the protasis for the sake of argument.
 
-· The protasis is the first half of a conditional sentence - that half
+&bull; The protasis is the first half of a conditional sentence - that half
 which contains the word ‘if…’
 
-· So Christ says “If by the Spirit of God I cast out the demons (and why
+&bull; So Christ says “If by the Spirit of God I cast out the demons (and why
 don’t you assume this is true for the sake of argument?).
 
 (d) The apodosis contains the warning: ‘then the kingdom of God has come
 upon you.’
 
-· The apodosis is the second half of the condition, or the ‘then’
+&bull; The apodosis is the second half of the condition, or the ‘then’
 clause.
 
-· Christ makes a logical conclusion - that exorcism by means of the
+&bull; Christ makes a logical conclusion - that exorcism by means of the
 spirit of God is a sign of the kingdom.
 
-· The exorcisms that Christ performed were for more than compassionate
+&bull; The exorcisms that Christ performed were for more than compassionate
 reasons; they were kingdom signs.
 
-- Christ is indeed demonstrating that He is the Son of David. There is
+-- Christ is indeed demonstrating that He is the Son of David. There is
 something that I failed to mention when we undertook the Messianic
 potential of Christ previously in this passage.
 
-- 1 Samuel 16:14-23 is the record of the only exorcism in the Old
+-- 1 Samuel 16:14-23 is the record of the only exorcism in the Old
 Testament: “(14) Now the Spirit of the Lord departed from Saul, and an
 evil spirit terrorized him. (15) Saul’s servants then said to him,
 ‘Behold now, and evil spirit from God is terrorizing you. (16) Let our
@@ -30667,10 +30665,10 @@ it came about whenever the evil spirit from God came to Saul, David
 would take the harp and play it with his hand; and Saul would be
 refreshed and be well, and the evil spirit would depart from him.”
 
-- So David is the only Old Testament believer who exorcised demons, and
+-- So David is the only Old Testament believer who exorcised demons, and
 he did it by means of music and the Spirit of God.
 
-- So Christ now reasons that if by the Spirit of God He is casting out
+-- So Christ now reasons that if by the Spirit of God He is casting out
 demons, then the kingdom must be upon them, and He Himself must be the
 Son of David, the Messiah.
 
@@ -30824,17 +30822,17 @@ arrogance.
 
 (i) People tests, including:
 
-· Hypersensitivity on your part and the part of others.
+&bull; Hypersensitivity on your part and the part of others.
 
-· Role model arrogance and iconoclastic arrogance.
+&bull; Role model arrogance and iconoclastic arrogance.
 
-· Rejection by others.
+&bull; Rejection by others.
 
-· Gossip.
+&bull; Gossip.
 
-· Unfair authority.
+&bull; Unfair authority.
 
-· Racism.
+&bull; Racism.
 
 (j) The emotional complex of sins: fear, worry, hatred, guilt,
 self-pity.
@@ -30968,18 +30966,18 @@ men of every language might serve Him. His dominion is an everlasting
 dominion which will not pass away; and His kingdom is one which will not
 be destroyed.”
 
-· The ’Ancient of Days is an Aramaic title that refers to God the Father
+&bull; The ’Ancient of Days is an Aramaic title that refers to God the Father
 as judge of Jesus Christ. Daniel 7:7-22 is the only instance of this
 title for God the Father. It concentrates on his eternal nature, and His
 authority over the other two members of the Godhead.
 
-· God would judge the sins of mankind in the Son of Adam on the cross.
+&bull; God would judge the sins of mankind in the Son of Adam on the cross.
 
-· God gave two evaluations of His Son during the incarnation - ‘This is
+&bull; God gave two evaluations of His Son during the incarnation - ‘This is
 my Son, whom I love, in whom I am well-pleased.’ Once at His baptism,
 and once at the transfiguration.
 
-· The picture presented in Daniel’s vision is the transfer of authority
+&bull; The picture presented in Daniel’s vision is the transfer of authority
 from God the Father to Jesus Christ the Son. This transfer of authority
 occurred in heaven most likely immediately before the incarnation. This
 is something of a Christmas story from Daniel. It is a revelation of the
@@ -30991,24 +30989,24 @@ restricted the independent use of His divine attributes, and the
 independent expression of His divine character. This moment was somewhat
 akin to taking a military oath.
 
-· The earthly transfer of authority took place at Christ’s baptism.
+&bull; The earthly transfer of authority took place at Christ’s baptism.
 
 (d) The term ‘the Son of Man’ describes here Christ’s’ relationship to
 the first man, Adam.
 
-· Adam was the ruler of this world, but gave over his authority to Satan
+&bull; Adam was the ruler of this world, but gave over his authority to Satan
 when he sinned.
 
-· So the millennial authority of Christ as King of kings and Lord of
+&bull; So the millennial authority of Christ as King of kings and Lord of
 Lords corresponds exactly to this.
 
-· This is Messianic authority that concentrates on the ruling but not
+&bull; This is Messianic authority that concentrates on the ruling but not
 atoning aspect of Jesus Christ.
 
-· Christ as the last Adam would certainly atone for the sins of the
+&bull; Christ as the last Adam would certainly atone for the sins of the
 world, begun with Adam, but the concentration is still on authority.
 
-· Although some would complain that the two are inseparable, Christ does
+&bull; Although some would complain that the two are inseparable, Christ does
 that very thing here.
 
 (5) Now Christ has separated His role as the King of kings and Lord of
@@ -31606,9 +31604,9 @@ foreshadow of Christ’s time in the grave.
 sea-monster three days and three nights, so also the Son of Man will be
 in the heart of the earth three days and three nights.”
 
-· So Jonah was in the belly of the KETOS, sea-monster for three days.
+&bull; So Jonah was in the belly of the KETOS, sea-monster for three days.
 
-· And Christ would be in the heart of the earth for three days.
+&bull; And Christ would be in the heart of the earth for three days.
 
 (b) Listen to Jonah’s prayer from the belly of the fish (2:2-9), “(2) I
 called out of my distress to the Lord, and He answered me. I cried for
@@ -31626,16 +31624,16 @@ faithfulness, (9) but I will sacrifice to you with the voice of
 thanksgiving. That which I have vowed I will pay. Salvation is from the
 Lord.”
 
-· Jonah uses the language of death. When he went into the water, he was
+&bull; Jonah uses the language of death. When he went into the water, he was
 cast into the abyss, the TEHOM or great deep of the sea.
 
-· The doors of the sea close over him, and Jonah is lost for dead - he
+&bull; The doors of the sea close over him, and Jonah is lost for dead - he
 has descended to the very roots of the mountains, in the pit.
 
-· His cry from the deep was a cry from Sheol itself, so deep was he in
+&bull; His cry from the deep was a cry from Sheol itself, so deep was he in
 the ocean.
 
-· Now Christ would actually die and go to Sheol while his body was in
+&bull; Now Christ would actually die and go to Sheol while his body was in
 the grave. There, He would preach to fallen angels about His victory on
 planet earth, 1 Peter 3:19.
 
@@ -31728,11 +31726,11 @@ others.
 (f) There before the Great White Throne will be arrayed all the people
 of the world.
 
-· Old Testament Gentile believers will be there.
+&bull; Old Testament Gentile believers will be there.
 
-· Unbelievers from the incarnation generation will be there.
+&bull; Unbelievers from the incarnation generation will be there.
 
-· And the Assyrian believers of Jonah’s time will stand again, looking
+&bull; And the Assyrian believers of Jonah’s time will stand again, looking
 proudly toward their savior Jesus Christ.
 
 (5) And think about what Jesus Christ gave them.
@@ -31995,7 +31993,7 @@ on a diet from the gluttony.
 (3) But regardless the body is in good shape once again, and therefore
 very well set-up for another round of desperate sensuality.
 
-10. The forty fifth verse concentrates on the degeneration of the
+[10] The forty fifth verse concentrates on the degeneration of the
 situation.
 
 Before entering the old house again, the unclean spirit goes to wherever
@@ -32057,7 +32055,7 @@ much more, I am sure.
 not. Do they obey one master? No. They all try to do it at once, so that
 the poor fool who has let them in is now considered quite insane.
 
-11. “So also will it be with this evil generation.”
+[11] “So also will it be with this evil generation.”
 
 The comparative adverb HOUTOS draws a line of comparison between the
 twice-possessed man and the current generation in Israel.
@@ -32321,18 +32319,18 @@ themselves by remaining under the authority of their own husbands - (6)
 like Sarah submitted to Abraham, calling Him Lord, whose children you
 become by doing good and not fearing a single fear.”
 
-· You can easily perceive that Peter is preaching attitude.
+&bull; You can easily perceive that Peter is preaching attitude.
 
-· This is especially emphasized by the exhortation of verse one, ‘they
+&bull; This is especially emphasized by the exhortation of verse one, ‘they
 might be won without a word.’ This is Peter’s objective for husbands
 through the Holy Spirit.
 
-· Winning someone without saying a word is a fantastic accomplishment
+&bull; Winning someone without saying a word is a fantastic accomplishment
 indeed. It is done through observation; the man observes the pure
 behavior of his wife, her inner beauty, and is convinced of the virtues
 of the Christian way of life.
 
-· So the woman’s inner beauty is that she has a humble and relaxing
+&bull; So the woman’s inner beauty is that she has a humble and relaxing
 spirit, that is, mental attitude. She is a great person for her husband
 to be around.
 
@@ -32341,15 +32339,15 @@ live together [with your wives] according to a fact: pay honor as with a
 female weaker vessel, so also with a fellow heir of the grace of life,
 so that your prayers might not be hindered.”
 
-· The husband’s winning attitude is described by Peter as paying honor.
+&bull; The husband’s winning attitude is described by Peter as paying honor.
 
-· You believing husbands are to honor your wives (believing or
+&bull; You believing husbands are to honor your wives (believing or
 unbelieving) as the gift from God that she is.
 
-· The woman is the first gift to man chronologically; she precedes even
+&bull; The woman is the first gift to man chronologically; she precedes even
 Christ according to a time-reckoning.
 
-· She is the second most important gift according to importance.
+&bull; She is the second most important gift according to importance.
 Therefore she is to be honored!
 
 (c) As children you must apply Ephesians 6:1-3: “(1) Children, obey your
@@ -32812,46 +32810,46 @@ wonderful result. So the perfect tense is important here.
 (c) Now it is just to the disciples that this has been given… Well to
 the disciples and anyone like them.
 
-· It is not that Christ chose them to be disciples and so God gave them
+&bull; It is not that Christ chose them to be disciples and so God gave them
 some special perceptive ability.
 
-· It is that because they chose to believe, God gave them certain
+&bull; It is that because they chose to believe, God gave them certain
 spiritual assets for the perception of the kingdom plan.
 
 (d) A further clue about this perceptive ability is in the phrase ‘but
 to those outside.’
 
-· This must be those outside of the direct will of God - those who are
+&bull; This must be those outside of the direct will of God - those who are
 not believers, or, who if they are believers are also out of fellowship
 from God.
 
-· The idea of fellowship was not foreign at all to the Jews. It was a
+&bull; The idea of fellowship was not foreign at all to the Jews. It was a
 part of their temple worship. If we could take a walk through the
 tabernacle today, its symbolism of the plan of God for mankind would be
 striking to those of us who understand it.
 
-- The tabernacle is entered through a wide gate, 30 ft. across.
+-- The tabernacle is entered through a wide gate, 30 ft. across.
 Immediately to the front as one enters is the copper altar, which,
 together with its sacrifices, makes a striking depiction of salvation.
 
-- Just 10 or 20 feet past this altar is the copper laver, which stands
+-- Just 10 or 20 feet past this altar is the copper laver, which stands
 at the entrance to a smaller tent. The copper altar is the portrayal of
 confession, and it is necessary to confess one’s sins before going any
 further in the plan of God.
 
-- The smaller tent contains all of the elements which represent the
+-- The smaller tent contains all of the elements which represent the
 post-salvation plan of God. Only the Levitical priests were allowed in
 this tent, and this in itself portrays an important observation on the
 plan of God: that though many are saved, not very many of those continue
 on in the plan of God.
 
-- We have seen the word of God represented in the table of showbread. We
+-- We have seen the word of God represented in the table of showbread. We
 have seen the work of the Spirit depicted in the golden lampstand. We
 have studied the portrayal of the works of righteousness in the incense
 altar. All of these are the elements in the Holy place, which represent
 the advance to spiritual maturity.
 
-- The most holy place, or holy of holies and the holy place are
+-- The most holy place, or holy of holies and the holy place are
 separated by a thick veil, which conceals the indwelling presence of the
 Shekinah Glory. The most holy place is smaller still than the holy
 place. In fact, only one man, the high priest, was allowed into the holy
@@ -32860,15 +32858,15 @@ place alone is reserved for Jesus Christ. The veil which separates the
 inner tent was split when Christ died on the cross, which was a sign to
 the Jews of the suspension of the dispensation of Israel.
 
-- The writer of Hebrews states that the body of Christ (His life and
+-- The writer of Hebrews states that the body of Christ (His life and
 death) forms a bridge into the most Holy Place, so that all might enter
 the plan of God, and advance to maturity, Heb 10:20-21.
 
-- The furniture in the Holy place is arranged so that it complements the
+-- The furniture in the Holy place is arranged so that it complements the
 most holy place. All believers are a reflection of what Christ Himself
 has accomplished. All believers depend on Him.
 
-- Through the tabernacle the Jews had a wonderful portrayal of God’s
+-- Through the tabernacle the Jews had a wonderful portrayal of God’s
 plan for their lives. This portrayal was a clear and accurate depiction
 of God’s will for their lives. They were to come to know Him, and enjoy
 a relation with Him through understanding the Symbology of the
@@ -32880,21 +32878,21 @@ understand and through it to know God and advance in His plan.
 
 (e) Just to make this concept clear:
 
-· People outside the plan of God have scar tissue on their souls.
+&bull; People outside the plan of God have scar tissue on their souls.
 
-· Because of this, they experience spiritual blindness; their repeated
+&bull; Because of this, they experience spiritual blindness; their repeated
 cycles in the cosmic system blind them to spiritual truths from the
 Bible.
 
-· The cycle goes like this: they reject the person of God, and then they
+&bull; The cycle goes like this: they reject the person of God, and then they
 reject His word; the rejection of God’s word demands a replacement, so
 they accept the cosmic counterfeits and lies provided by the devil.
 
-· People inside the plan of God have certain spiritual assets that help
+&bull; People inside the plan of God have certain spiritual assets that help
 them to perceive the spiritual information from God. The ministry of God
 the Holy Spirit is an example.
 
-· The parable is designed to penetrate the armor of the cosmic
+&bull; The parable is designed to penetrate the armor of the cosmic
 counterfeits and lies.
 
 (3) The reason for the parables is that some have at hand what they need
@@ -32968,61 +32966,61 @@ this information could have a great impact on their lives.
 
 (a) The translation of this passage is descriptive:
 
-· In the first line there is a double negative OU ME, which is very
+&bull; In the first line there is a double negative OU ME, which is very
 emphatic in the Greek. “Hearing you hear and definitely do not
 understand.”
 
-· The same applies in the second line. It is not like they are just not
+&bull; The same applies in the second line. It is not like they are just not
 paying attention; the malfunction goes much deeper than that. There is
 in fact no understanding whatsoever, either through the hearing or the
 seeing.
 
-· The aorist tense verb EPACHUNTHE shows the past action of the heart of
+&bull; The aorist tense verb EPACHUNTHE shows the past action of the heart of
 the people becoming dull. But it is not in the perfect tense. This
 indicates that the situation is not irreversible.
 
-· Their hearing has become BAREOS, which is weighty, burdensome, or
+&bull; Their hearing has become BAREOS, which is weighty, burdensome, or
 difficult. It is such a burden to listen!
 
-- These are the lazy thinkers - people who hate to listen to doctrine
+-- These are the lazy thinkers - people who hate to listen to doctrine
 because it requires work. And boy is the world ever full of these.
 
-- And this lets us know immediately that thinking about truth really
+-- And this lets us know immediately that thinking about truth really
 does take work, and that God requires from us this work of thinking.
 
-- This contains the aorist tense of AKOUO, ‘to hear.’ Again the aorist
+-- This contains the aorist tense of AKOUO, ‘to hear.’ Again the aorist
 tense simply notes a past fact, but does say that this is an
 irreversible state. The grace of God is adequate to reverse this
 laziness.
 
-· Their eyes closed, EKAMMUSAN. The aorist tense once again.
+&bull; Their eyes closed, EKAMMUSAN. The aorist tense once again.
 
-- You close your eyes when you do not want to see something. Closing
+-- You close your eyes when you do not want to see something. Closing
 your eyes is portrayed here as a voluntary action.
 
-- People who do not want the truth close their eyes to it. Perhaps it
+-- People who do not want the truth close their eyes to it. Perhaps it
 will hurt too much; perhaps they need the cover so that they can
 participate in their favorite category of sin.
 
-· And notice now the order of things in verse fifteen:
+&bull; And notice now the order of things in verse fifteen:
 
-- See with your eyes or hear with your ears;
+-- See with your eyes or hear with your ears;
 
-- Understand in your heart;
+-- Understand in your heart;
 
-- Turn;
+-- Turn;
 
-- God does the healing.
+-- God does the healing.
 
-· Now this is the true pattern of grace.
+&bull; Now this is the true pattern of grace.
 
-- Academic understanding of a concept;
+-- Academic understanding of a concept;
 
-- Application wisdom of the same concept;
+-- Application wisdom of the same concept;
 
-- Repentance, or changing of the mind;
+-- Repentance, or changing of the mind;
 
-- God responds in grace.
+-- God responds in grace.
 
 (b) The context of the quote comes from the commissioning of Isaiah.
 
@@ -33171,7 +33169,7 @@ evidence to conclude that they left right in the middle of it!
 righteous men of old would have given to be here now! Isaiah - Jeremiah
 - Hosea - David - Moses - what they would have given!
 
-· When Isaiah prophesies in his eleventh chapter, how he urgently wished
+&bull; When Isaiah prophesies in his eleventh chapter, how he urgently wished
 to see Him every day, functioning under wisdom… “Then a shoot will
 spring from the stem of Jesse, and a branch from his roots will bear
 fruit. The Spirit of the Lord will rest on Him, The spirit of wisdom and
@@ -33180,17 +33178,17 @@ knowledge and the fear of the Lord. And He will delight in the fear of
 the Lord, and He will not judge by what His eyes see, nor make a
 decision by what His ears hear…”
 
-· When Jeremiah in his thirty first chapter predicted a new covenant for
+&bull; When Jeremiah in his thirty first chapter predicted a new covenant for
 Israel, how he earnestly desired to be there on the day that Christ gave
 the details in His sermon on the mount. Jeremiah would have paid
 attention on that day!!!
 
-· When David wrote the twenty second Psalm - he longed to be where the
+&bull; When David wrote the twenty second Psalm - he longed to be where the
 disciples would not tread - at the cross. How he longed to hear his
 Savior say the all important words… “My God, My God, why have You
 forsaken Me?”
 
-· When Job in the nineteenth chapter utters his reply to Bildad’s
+&bull; When Job in the nineteenth chapter utters his reply to Bildad’s
 accusation, you can feel the heat of his inner fire to be at the tomb
 with Maria of Magdala on the morning of the third day… “I know that my
 redeemer lives, and at the last He will take his stand on the earth.”
@@ -33688,10 +33686,10 @@ Nehemiah 9:20.
 (c) It is most likely that the hidden manna depicts a category of truth
 that has remained hidden throughout human history.
 
-· It is a category not necessary to the spiritual function of any human
+&bull; It is a category not necessary to the spiritual function of any human
 being in any time in human history.
 
-· And yet, it is an astounding category of truth that is a unique
+&bull; And yet, it is an astounding category of truth that is a unique
 privilege to know.
 
 (d) This is fantastic indeed, since it is a part of the blessings for
@@ -33724,11 +33722,11 @@ broken to pieces, as I also have received authority from My Father.”
 (a) Revelation 2:7, “To him who overcomes, I will grant to eat of the
 tree of life, which is in the Paradise of God.”
 
-· The Paradise of God is the Garden of Eden, which still exists today.
+&bull; The Paradise of God is the Garden of Eden, which still exists today.
 It is the Garden in which Adam and Eve resided, and is now guarded by
 the cherubs with the flaming swords.
 
-· In this garden is the tree of life, which was forbidden to the man and
+&bull; In this garden is the tree of life, which was forbidden to the man and
 woman after the fall, because it causes eternal life, Genesis 3:22.
 Sinful man plus eternal physical life would equal an eternity of
 sinfulness. God prevented this from His mercy!
@@ -33739,20 +33737,20 @@ anymore; and I will write upon it the name of My God, and the name of
 the city of My God, the new Jerusalem, which comes down out of heaven
 from My God, and My new name.”
 
-· In the new temple of God, there will be pillars as monuments to those
+&bull; In the new temple of God, there will be pillars as monuments to those
 who are a part of the order of the morning star.
 
-· The pillars will be permanent - they will stand forever.
+&bull; The pillars will be permanent - they will stand forever.
 
-· On the pillar will be an inscription of God’s name, the name of the
+&bull; On the pillar will be an inscription of God’s name, the name of the
 New Jerusalem (which is not yet revealed), and the new name of Jesus
 Christ.
 
-· Since the Greek says I will make him a pillar, with a double
+&bull; Since the Greek says I will make him a pillar, with a double
 accusative, it indicates that the pillar will be a stature in the
 likeness of that believer.
 
-· So whenever people and angels come to worship in the eternal state at
+&bull; So whenever people and angels come to worship in the eternal state at
 the eternal temple, they will be reminded of the church age believers
 who made it all the way to maturity and gave a fantastic testimony to
 God.
@@ -34205,10 +34203,10 @@ the really stupid).
 
 (a) Various systems of good works.
 
-· Works of compassion, such as feeding the poor and helping the
+&bull; Works of compassion, such as feeding the poor and helping the
 helpless.
 
-· Works of religion, such as baptism, fervent prayer, feeling sorry for
+&bull; Works of religion, such as baptism, fervent prayer, feeling sorry for
 your sins, etc.
 
 (b) Psychological growth and self-improvement.
@@ -35028,75 +35026,75 @@ of them, He hungered. And the devil said to Him, ‘If You are the Son of
 God, speak to this stone that it might become bread.’ And Jesus answered
 him, ‘It is written, ’Man shall not live on bread alone.’”
 
-· At the end of forty days of eating absolutely nothing, our Lord was
+&bull; At the end of forty days of eating absolutely nothing, our Lord was
 very hungry. It was the kind of hunger where all you can think about is
 food. At forty days without food, even the healthiest of human beings is
 at the extreme limit of endurance.
 
-· The temptation itself is related to the principle of kenosis; Christ
+&bull; The temptation itself is related to the principle of kenosis; Christ
 does not have the authority to do this thing apart from the power and
 timing of the Spirit.
 
-· The devil knows that the Divine Power is available, but that its use
+&bull; The devil knows that the Divine Power is available, but that its use
 would invalidate the purpose of the incarnation. Again and again Satan
 says this about the stones; this temptation lasted longer than just a
 moment.
 
-· In the later temptation His Scriptural reply is abbreviated, as though
+&bull; In the later temptation His Scriptural reply is abbreviated, as though
 He is at the very end of His endurance, or because it is not necessary
 to repeat the whole thing.
 
-· This test relates to the logistical test of Israel:
+&bull; This test relates to the logistical test of Israel:
 
-- The Israelites had something to eat every day. Manna was the world’s
+-- The Israelites had something to eat every day. Manna was the world’s
 greatest health food. It was the same thing, but it was something.
 
-- Christ had nothing to eat for forty days and forty nights. Therefore,
+-- Christ had nothing to eat for forty days and forty nights. Therefore,
 His test was far greater than what they endured. He ate the same thing
 every day: Nothing.
 
-- Placing the manna inside the ark of the covenant foreshadowed this
+-- Placing the manna inside the ark of the covenant foreshadowed this
 test of our Lord. It commemorated Christ’s victory in the desert, and it
 looked forward to the redemption of this failure at the cross, as
 represented by the mercy seat.
 
-- The essence of the temptation had to do with the temptation to use His
+-- The essence of the temptation had to do with the temptation to use His
 divine attributes or rely on what God provided His humanity.
 
-- The very reason for the incarnation would have been undermined and
+-- The very reason for the incarnation would have been undermined and
 destroyed had Christ given in here. The cross and the Christian way of
 life would have instantly become meaningless.
 
-- Note that Christ quotes from Deuteronomy 8:3.
+-- Note that Christ quotes from Deuteronomy 8:3.
 
-- The context of this verse is Moses’ final exhortation to the children
+-- The context of this verse is Moses’ final exhortation to the children
 of Israel before their occupation of the promised land.
 
-- All three of Christ’s replies will come from this speech.
+-- All three of Christ’s replies will come from this speech.
 
-- These three things denote readiness for the blessings of the land of
+-- These three things denote readiness for the blessings of the land of
 milk and honey:
 
-- First, there is worship of the one true God and abstinence from
+-- First, there is worship of the one true God and abstinence from
 idolatry. This is personal love for God.
 
-- Second, there is humble acceptance of the circumstances of your life,
+-- Second, there is humble acceptance of the circumstances of your life,
 good or bad, and acceptance of delegated human authority, good or bad.
 
-- Third, there is a devotion to the word of Truth, and acceptance of
+-- Third, there is a devotion to the word of Truth, and acceptance of
 God’s logistical grace.
 
-- This scripture was originally learned and inculcated by Christ,
+-- This scripture was originally learned and inculcated by Christ,
 probably at a very young age.
 
-- At this appropriate time, the Spirit recalled this passage into
+-- At this appropriate time, the Spirit recalled this passage into
 Christ’s spiritual frame of reference, His human spirit. Christ
 instantly understood the issue.
 
-- Now the issue remained: Would He apply what had been recalled? The
+-- Now the issue remained: Would He apply what had been recalled? The
 answer is of course. He even quotes the passage directly to the devil.
 
-- Deuteronomy 8:1-10, “All the commandments that I am commanding you
+-- Deuteronomy 8:1-10, “All the commandments that I am commanding you
 today you shall be careful to do, that you may live and multiply, and go
 in and possess the land which the Lord sword to give to your
 forefathers. And you shall remember all the way which the Lord your God
@@ -35126,32 +35124,32 @@ and I give it to whomever I wish. Therefore if You worship before me, it
 shall all be Yours.’ And Jesus answered and said to him, ‘It is written,
 ’You shall worship the Lord your God and serve Him only.’”
 
-· There is only one instance of temptation here. The show occurred in
+&bull; There is only one instance of temptation here. The show occurred in
 one moment of time. Ahem, he did not want Christ to look too closely.
 Again the used car salesman analogy.
 
-· Christ would be given delegated authority from Satan over all these
+&bull; Christ would be given delegated authority from Satan over all these
 kingdoms, along with the glory of them. Let me point out that the glory
 of the devil’s world is only a veneer.
 
-· The enemy did not receive the kingdoms of the world because of
+&bull; The enemy did not receive the kingdoms of the world because of
 meritorious service. He deceived Adam, and received the authority
 because of Adam’s irresponsible sin.
 
-· All of the kingdoms of the world would belong to Christ at the right
+&bull; All of the kingdoms of the world would belong to Christ at the right
 time, and only when His chosen people would accept Him as the Messiah.
 
-· This particular condition was not yet fulfilled, and in fact the early
+&bull; This particular condition was not yet fulfilled, and in fact the early
 indicators were not looking good. In other words, this was attacking
 Christ at a potential weak spot. The greatness of the world made the
 temptation all the more agonizing.
 
-· That Christ would continue in poverty for the rest of his life is a
+&bull; That Christ would continue in poverty for the rest of his life is a
 testimony to his fantastic resolve. Part of this test had to do with
 timing, and part of with idolatry. It harkens back to the failure of the
 golden calf.
 
-· Christ’s solution to this problem comes from Deuteronomy 6:13. Let’s
+&bull; Christ’s solution to this problem comes from Deuteronomy 6:13. Let’s
 read that passage beginning in verse 10. “Then it shall come about when
 the Lord your God brings you into the land which He swore to your
 fathers, Abraham, Isaac, and Jacob, to give you great and splendid
@@ -35166,16 +35164,16 @@ for the Lord your God in the midst of you is a jealous God; otherwise
 the anger of the Lord your God will be kindled against you, and He will
 wipe you off the face of the earth.”
 
-- Note that the blessings of the Promised Land are neither earned nor
+-- Note that the blessings of the Promised Land are neither earned nor
 deserved. Yet they are given freely by God.
 
-- The offer from Satan is something similar, but infinitely less because
+-- The offer from Satan is something similar, but infinitely less because
 of the object of worship. The satisfaction that comes from a
 relationship with God is so great as to add to one’s appreciation and
 enjoyment of the attendant blessings. In the worship of idols, all the
 things turn to dust.
 
-- Christ applies the perfect passage for this specific temptation,
+-- Christ applies the perfect passage for this specific temptation,
 another great testimony to the work of the Spirit and the level of
 inculcation that Christ has reached.
 
@@ -35185,11 +35183,11 @@ throw Yourself down from here; for it is written, bear You up, Lest You
 strike Your foot against a stone.’ And Jesus answered and said to him,
 ‘It is said, You shall not put the Lord your God to the test.’”
 
-· Note that in this test the enemy is using Scripture against Christ. It
+&bull; Note that in this test the enemy is using Scripture against Christ. It
 is an oft-used ploy, and it seldom fails. This points out the necessity
 for a prepared pastor to prepare you.
 
-· The enemy quotes Psalm 91 in the temptation. Verses 11 and 12 are
+&bull; The enemy quotes Psalm 91 in the temptation. Verses 11 and 12 are
 quoted but taken out of context. The whole Psalm goes like this, “He who
 dwells in the shelter of the Most High will rest in the shadow of the
 Almighty. I will say of the Lord, ‘He is my refuge and my fortress, my
@@ -35212,39 +35210,39 @@ name. He will call upon me, and I will answer him; I will be with him in
 trouble, I will deliver him and honor him. With long life will I satisfy
 him and show him my salvation.’”
 
-- This Psalm is about trust in God, and how God responds to those who
+-- This Psalm is about trust in God, and how God responds to those who
 love Him.
 
-- Especially pertinent is the conditional clause of verse 9: “If you
+-- Especially pertinent is the conditional clause of verse 9: “If you
 make the most high your dwelling” This means that the following verses
 depend on the fulfillment of this condition.
 
-· Christ could not demand that God send his angels to cushion up his
+&bull; Christ could not demand that God send his angels to cushion up his
 fall… that would be putting God to the test, as what happened in the
 wilderness at the waters of Meribah.
 
-· This test appears to be about the establishment of Christ’s earthly
+&bull; This test appears to be about the establishment of Christ’s earthly
 authority. A good miracle in front of thousands of temple worshippers
 including the most important men in Israel would well establish Christ’s
 authority among the Jews.
 
-· How soon they forget. Christ was only forty days before the object of
+&bull; How soon they forget. Christ was only forty days before the object of
 the triple miracle of His baptism. The heavens split open; the voice of
 God spoke; the Spirit descended in the form of a dove. Yet this miracle,
 probably in front of those same leaders who were now below in the temple
 court, did not convince the people to follow Christ.
 
-· The spiritual gift of miracles would establish Christ’s authority at
+&bull; The spiritual gift of miracles would establish Christ’s authority at
 the proper time. This was not that time. The gift of miracles functions
 under the sovereignty of the Spirit so that He chooses the time the
 place and the miracle to be performed.
 
-· The devil is trying to promote Christ before God could promote Him.
+&bull; The devil is trying to promote Christ before God could promote Him.
 The devil is attempting to foist onto Christ an Aaron’s rod that budded
 scenario. He is attempting to do so by quoting Scripture that sounds
 right.
 
-· Christ rightfully sorts this one out, and quotes Deuteronomy 6:16. The
+&bull; Christ rightfully sorts this one out, and quotes Deuteronomy 6:16. The
 full passage through verse 19 goes like this: “Do not test the Lord your
 God as you did at Massah. Be sure to keep the commands of the Lord your
 God and the stipulations and decrees he has given you. Do what is right
@@ -35253,19 +35251,19 @@ may go in and take over the good land that the Lord promised on oath to
 your forefathers, thrusting out all your enemies before you as the Lord
 said.”
 
-- Again this is a quote from Moses final speech in preparation for the
+-- Again this is a quote from Moses final speech in preparation for the
 second generation to enter the promised land.
 
-- This time it was done right by Christ. He passed the tests that Israel
+-- This time it was done right by Christ. He passed the tests that Israel
 failed.
 
-- In a completely appropriate way, the three items in the ark of the
+-- In a completely appropriate way, the three items in the ark of the
 covenant represent both the failure of Israel and the triumph of Christ.
 
-- Christ not only paid for our sins, but He also produced the
+-- Christ not only paid for our sins, but He also produced the
 righteousness which would be imputed to us at salvation.
 
-- In producing that righteousness Christ established a way of solving
+-- In producing that righteousness Christ established a way of solving
 problems which He would leave as a heritage for all church age
 believers.
 
@@ -35415,23 +35413,23 @@ sometimes to the third generation.
 the person in spiritual maturity often lands in the national arena. God
 has a way of placing mature believers in some rather spectacular places.
 
-· Joseph, Moses, and Daniel are three very good examples of mature
+&bull; Joseph, Moses, and Daniel are three very good examples of mature
 believers having national impact.
 
-· In each case, God placed them where they had a direct effect on the
+&bull; In each case, God placed them where they had a direct effect on the
 Pharaoh or king.
 
 (h) International Impact of the Invisible Hero. While mature believers
 live in client nations, client nations in time of spiritual prosperity
 send out missionaries.
 
-· Missionaries evangelize foreigners in their native lands, and set up
+&bull; Missionaries evangelize foreigners in their native lands, and set up
 churches from those gospelizing efforts. Those churches grow and produce
 mature believers, so that there is now an effective basis for impact
 within that country. Because of the missionary, there has been
 international impact.
 
-· But statesmen and military men and businessmen may all also have
+&bull; But statesmen and military men and businessmen may all also have
 impact by interacting with foreigners. You may also have international
 impact by evangelizing a foreigner on your soil; when they return to
 their native land, they bring the gospel and the plan of God with them.
@@ -35440,11 +35438,11 @@ Philip on the Ethiopian Eunuch in Acts chapter eight.
 
 (i) Angelic Impact of the Invisible Hero.
 
-· By advancing to the witness stand in the angelic appeal trial, and
+&bull; By advancing to the witness stand in the angelic appeal trial, and
 giving an accurate testimony under demonic cross-examination, the mature
 believer has wonderful impact in the angelic realm.
 
-· Angelic impact is the greatest category of blessing by association,
+&bull; Angelic impact is the greatest category of blessing by association,
 and is fantastically rewarded in time and eternity.
 
 Blessings for eternity.
@@ -35673,31 +35671,31 @@ things and old things. He is getting rid of everything. Perhaps if you
 supplant the word ‘basement’ or perhaps ‘attic’ for the word treasury,
 you will have a better picture of the idea.
 
-10. The home owner just wants the attic or basement or storage area
+[10] The home owner just wants the attic or basement or storage area
 clean. This is human nature; suddenly it does not matter whether the
 thing in there is new or old; it MUST go! Even new things of value are
 tossed out for the sake of cleanliness.
 
-11. Well now this picture describes the repentant scribe just right, and
+[11] Well now this picture describes the repentant scribe just right, and
 indeed any repentant person coming from a legalistic background.
 
-12. In cleaning the attic of their soul, they are prone to discard the
+[12] In cleaning the attic of their soul, they are prone to discard the
 valuable things of old. Think of a moral scribe who casts out his
 morality as a part of the house cleaning of repentance; think of an
 expert in the Law of Moses who tosses out his knowledge of the
 Scriptures. Of course there are many valuable pieces of knowledge that
 the Scribe could safely retain as parts of his every day spiritual life.
 
-13. The Scribe would need to switch his motivation, and make a few
+[13] The Scribe would need to switch his motivation, and make a few
 rearrangements with regard to doctrine; he would need to revitalize his
 spiritual walk so that he communicated to God much more often. But throw
 everything out? Not necessary; even foolhardy.
 
-14. The Gentile, the one who is locked into the lascivious lawlessness
+[14] The Gentile, the one who is locked into the lascivious lawlessness
 side of the spiritual realm and who has little or no prior knowledge of
 God, this one must throw out much more.
 
-15. Now how is this parable the response to Christ’s disciples too quick
+[15] Now how is this parable the response to Christ’s disciples too quick
 reply to His question?
 
 They have responded too quickly, perhaps, for His taste, and He is
@@ -36092,75 +36090,75 @@ mean, ‘stop forever.’
 The second is Christ commanding a third person to silence the storm.
 Herein lies some theological trivia.
 
-· Storms can be the domain of God, if He chooses to intervene with
+&bull; Storms can be the domain of God, if He chooses to intervene with
 testing by means of a storm.
 
-- Listen to Psalm 148:8, “Fire and hail, snow and clouds; stormy wind,
+-- Listen to Psalm 148:8, “Fire and hail, snow and clouds; stormy wind,
 fulfilling His word.”
 
-- Also Isaiah 28:2 has something to say, “Behold, the Lord has a strong
+-- Also Isaiah 28:2 has something to say, “Behold, the Lord has a strong
 and mighty agent; as a storm of hail, a tempest of destruction, like a
 storm of might overflowing waters, He has cast it down to the earth with
 his hand.”
 
-- Revelation 7:1 reveals that angels are the agents of the storm, “After
+-- Revelation 7:1 reveals that angels are the agents of the storm, “After
 this I saw four angels standing at the four corners of the earth,
 holding back the four winds of the earth, so that no wind would blow on
 the earth or on the sea or on any tree.”
 
-· God also provides protection in the midst of the storm.
+&bull; God also provides protection in the midst of the storm.
 
-- Isaiah 4:6, There will be a shelter to give shade from the heat by
+-- Isaiah 4:6, There will be a shelter to give shade from the heat by
 day, and refuge and protection from the storm and the rain.”
 
-- Isaiah 25:4 also testifies, “For You have been a defense for the
+-- Isaiah 25:4 also testifies, “For You have been a defense for the
 helpless, a defense for the needy in his distress, a refuge from the
 storm, a shade from the heat; for the breath of the ruthless is like a
 rain storm against a wall.”
 
-· But take note: this planet is the devil’s world; the enemy of all that
+&bull; But take note: this planet is the devil’s world; the enemy of all that
 is good may cause harm through a storm. Listen to these passages:
 
-- Job 1:12, “Then the Lord said to Satan, ‘Behold, all that he has is in
+-- Job 1:12, “Then the Lord said to Satan, ‘Behold, all that he has is in
 your power, only do not put forth your hand on him.’ So Satan departed
 from the presence of the Lord.”
 
-- And now examine Job 1:18-19, “(18) While he was still speaking (the
+-- And now examine Job 1:18-19, “(18) While he was still speaking (the
 messenger to Job), another also came and said, ‘Your sons and your
 daughters were eating and drinking wine in their oldest brother’s house,
 (19) and behold, a great wind came from across the wilderness and struck
 the four corners of the house, and it fell on the young people and they
 died, and I alone have escaped to tell you.’”
 
-· So you can perceive that the weather on our planet is much more than
+&bull; So you can perceive that the weather on our planet is much more than
 just a system of random winds and precipitation; it is often bent to a
 purpose by angels, both fallen and elect. It is no wonder, then, that it
 is so difficult to be a weather man!
 
-· Our Lord was cognizant of these facts, because He was a supreme expert
+&bull; Our Lord was cognizant of these facts, because He was a supreme expert
 on Old Testament doctrines. Based on this knowledge, Jesus Christ could
 sleep through a storm.
 
-· The command was first for the benefit of the disciples - Christ was
+&bull; The command was first for the benefit of the disciples - Christ was
 talking to the storm as though it were a person.
 
-· And then the second command is directly to the elect angels in charge
+&bull; And then the second command is directly to the elect angels in charge
 of the storm.
 
-· This storm was certainly present for a spiritual reason, and the
+&bull; This storm was certainly present for a spiritual reason, and the
 disciples, being ignorant of Old Testament doctrine, failed to
 understand that.
 
 (d) This was a prayer; and commands in prayers are not all that
 uncommon.
 
-· Consider the Lord’s prayer, which has several commands.
+&bull; Consider the Lord’s prayer, which has several commands.
 
-· “Give us today our logistical bread…’ This contains the aorist
+&bull; “Give us today our logistical bread…’ This contains the aorist
 imperative of the verb DIDOMI. And this is how we are supposed to pray.
 In prayer you may command God.
 
-· “Forgive us our trespasses…” This also has an aorist imperative, this
+&bull; “Forgive us our trespasses…” This also has an aorist imperative, this
 time from APHIEMI.
 
 As a result, a great calm came over the waters. Mark describes the
@@ -36696,11 +36694,11 @@ at the judgment of Christ.
 it is not carried out until the great white throne at the end of human
 history.
 
-· Matthew 25:41, “Then he will also say to those on His left, ‘Depart
+&bull; Matthew 25:41, “Then he will also say to those on His left, ‘Depart
 from Me, accursed ones, into the eternal fire which has been prepared
 for the devil and his angels…”
 
-· Revelation 20:10, “And the devil who deceived them was thrown into the
+&bull; Revelation 20:10, “And the devil who deceived them was thrown into the
 lake of fire and brimstone, where the beast and the false prophet are
 also; and they will be tormented day and night forever and ever.”
 
@@ -36716,48 +36714,48 @@ history.
 the right with regard to this matter; they believe they have the freedom
 to do what they are doing with this man.
 
-· The verb HORKIZO has a legal connotation; it means to adjure or
+&bull; The verb HORKIZO has a legal connotation; it means to adjure or
 implore someone by invoking a legal precedent or a legal authority.
 
-· They have a long history of interaction with Christ, probably billions
+&bull; They have a long history of interaction with Christ, probably billions
 of years. And here they are arguing again. They think they are right,
 and they are seeking justice from a man who has the power to ruin their
 lives.
 
 (f) They ask Christ not to torment them.
 
-· The verb for torment is BASANIZO, and it also has a legal connotation;
+&bull; The verb for torment is BASANIZO, and it also has a legal connotation;
 it is the torture that one endures while being cross-examined.
 
-· There is also a physical torture associated with this word, rather
+&bull; There is also a physical torture associated with this word, rather
 like the inquisition, where physical pain was associated with a
 confession of Christ.
 
-· But what kind of torture would Christ bring down on these fallen
+&bull; But what kind of torture would Christ bring down on these fallen
 angels? Aren’t they already condemned to an eternity in the lake of
 fire?
 
-· Part of the answer lies in the next statement, which explains that
+&bull; Part of the answer lies in the next statement, which explains that
 Jesus was casting them out as the man approached.
 
-· Later in the narrative we will discover that there is a ‘legion’ of
+&bull; Later in the narrative we will discover that there is a ‘legion’ of
 demons in this man, maybe up to two thousand in all.
 
-· Picture in your mind’s eye that as the man approaches, Christ is
+&bull; Picture in your mind’s eye that as the man approaches, Christ is
 casting out the demons, one by one. Where these are to go after being
 cast out is the abyss, as we will discover.
 
-· But as some of the demons are cast out, the remaining ones are getting
+&bull; But as some of the demons are cast out, the remaining ones are getting
 nervous; they do not want to be cast out so that they will enter into
 torment.
 
-· The casting out causes torment in one of two ways.
+&bull; The casting out causes torment in one of two ways.
 
-- It simply causes the spirit to become disembodied, and so it is
+-- It simply causes the spirit to become disembodied, and so it is
 complete without sensual perception. The emptiness of a soul without a
 body is a terrible emptiness indeed.
 
-- There is also the more tangible torment of residence in the abyss.
+-- There is also the more tangible torment of residence in the abyss.
 
 
 
@@ -37321,14 +37319,14 @@ was the spiritual and practical head of the community.
 
 (b) There were three categories of rulers in every synagogue:
 
-· The head of the synagogue, who supervised services, maintained order,
+&bull; The head of the synagogue, who supervised services, maintained order,
 and was only a short step below the Scribes of Jerusalem.
 
-· The minister, who was in charge of the structure and contents of the
+&bull; The minister, who was in charge of the structure and contents of the
 synagogue. He also signaled the beginning and end of services, and ran
 the services.
 
-· The elders, who were the mainstays, the wise old men of the synagogue.
+&bull; The elders, who were the mainstays, the wise old men of the synagogue.
 It was from these that the synagogue minister and ruler were chosen. It
 is most likely that Jairus was one of the lesser elders of the local
 synagogue, at the disposal of the men with great authority and
@@ -37337,17 +37335,17 @@ experience.
 (c) Worship in the ancient Jewish synagogue consisted of prayer and
 teaching.
 
-· The leaders of worship would read prayers from the Psalms and any
+&bull; The leaders of worship would read prayers from the Psalms and any
 Scripture that suited the current theme.
 
-· But there was also a sermon employed to educate the people regarding
+&bull; But there was also a sermon employed to educate the people regarding
 religious matters.
 
-· The sermon could be given by anyone in the synagogue, but only by one
+&bull; The sermon could be given by anyone in the synagogue, but only by one
 who had already devoted some study and thought to the text or through a
 rabbi. There was no ordination requirement.
 
-· The passage would be interpreted verse by verse in the language of the
+&bull; The passage would be interpreted verse by verse in the language of the
 people.
 
 The plea of Jairus. “And seeing Him, he fell at His feet and exhorted
@@ -38643,29 +38641,29 @@ at this:
 
 (a) You make four decisions with regard to the truth:
 
-· To Hear it;
+&bull; To Hear it;
 
-· To Believe it;
+&bull; To Believe it;
 
-· To Inculcate it;
+&bull; To Inculcate it;
 
-· And to Use it.
+&bull; And to Use it.
 
 (b) God the Holy Spirit does two things.
 
-· He processes it after you believe in it;
+&bull; He processes it after you believe in it;
 
-· He recalls it when you need it, before you use it.
+&bull; He recalls it when you need it, before you use it.
 
 (c) God the Father does four things with regard to the truth.
 
-· He is the source of the all truth;
+&bull; He is the source of the all truth;
 
-· He caused it at various times to enter human history;
+&bull; He caused it at various times to enter human history;
 
-· He sustains it in human history.
+&bull; He sustains it in human history.
 
-· He brings us to it through guidance and discipline.
+&bull; He brings us to it through guidance and discipline.
 
 (3) Now you can summarize this by saying:
 
@@ -39146,7 +39144,7 @@ The workers will be so impressed with the need, that they will go to the
 harvest as though they were shot out of a catapult. God often leads in
 this manner.
 
-10. But there is one more principle at work here. When you want someone
+[10] But there is one more principle at work here. When you want someone
 to do something, have them pray for the fulfillment of that need.
 
 This is a fine principle of leadership. Christ told His disciples to
@@ -39371,9 +39369,9 @@ meanings, depending on the context.
 (c) The weakness or helplessness of the sinful state, divided into two
 categories:
 
-· The weakness of total depravity prior to salvation.
+&bull; The weakness of total depravity prior to salvation.
 
-· The weakness of being out of fellowship after salvation.
+&bull; The weakness of being out of fellowship after salvation.
 
 (3) Here ASTHENEIA focuses on total depravity, and so Christ had an
 evangelistic purpose for this mission to go alongside the kingdom
@@ -39587,33 +39585,33 @@ as the main verb of the sentence. No matter what else you understand
 from the two participles, understand that they are simply giving a full
 explanation of the way in which the instruction is to take place.
 
-· The first participle is BAPTIZONTES, which is from BAPTIZO ‘really
+&bull; The first participle is BAPTIZONTES, which is from BAPTIZO ‘really
 baptize’.
 
-- This is not the literal water baptism, but a ‘change by immersion,’
+-- This is not the literal water baptism, but a ‘change by immersion,’
 which is closer to the original meaning of the word. The change is
 inward, and it has to do with character.
 
-- The phrase ‘into the name of the Father and the Son and the Holy
+-- The phrase ‘into the name of the Father and the Son and the Holy
 Spirit’ describes the kind of change that is to take place.
 
-- The Greek word ONOMA is our English name. In the ancient way of
+-- The Greek word ONOMA is our English name. In the ancient way of
 thinking, a ‘name’ represented the true nature of its bearer. It was not
 just a label or designation without meaning, used to separate one from
 all others.
 
-- In the Hebrew way of thinking a person’s name revealed his character,
+-- In the Hebrew way of thinking a person’s name revealed his character,
 personality, and even destiny.
 
-- The preposition EIS denotes change. Usually it shows movement from one
+-- The preposition EIS denotes change. Usually it shows movement from one
 place to another, but here it reveals movement from human, worldly
 character to the divine.
 
-- The change in the believer is brought about by immersion into the
+-- The change in the believer is brought about by immersion into the
 divine character. This can only take place by faith perception - the
 MATHETEUO command already mentioned.
 
-· The second participle is DIDASKONTES, which means to teach with
+&bull; The second participle is DIDASKONTES, which means to teach with
 authority. This more properly describes both the MATHETEUO and the
 BAPTIZONTES. These two participles are not separate commands, but
 explanations of one command. They both depend on that command.
@@ -39746,52 +39744,52 @@ the temple occurred at the very beginning of Christ’s ministry.
 (a) Verse 13, “And the Passover of the Jews was near, and Jesus went up
 into Jerusalem”
 
-· The Passover had to be a rather poignant time for Christ. On His mind
+&bull; The Passover had to be a rather poignant time for Christ. On His mind
 would rest the burden of the sins of the world, for He knew that He
 would have to pay for them in the not too distant future.
 
-· He was expecting to go into the temple and worship God, and remember
+&bull; He was expecting to go into the temple and worship God, and remember
 His role in saving mankind.
 
 (b) Verse 14, “And He found in the temple the ones who were selling oxen
 and sheep and doves, and the ones who were seated, the money changers.”
 
-· The temple had become the very center of an extremely corrupt system.
+&bull; The temple had become the very center of an extremely corrupt system.
 It was the ultimate monopoly, and the evil priests manipulated that
 monopoly into a money-making machine.
 
-· The Law proscribed that only sacrifices without spot or blemish were
+&bull; The Law proscribed that only sacrifices without spot or blemish were
 worthy for sacrifice in the temple.
 
-· The chief priests manipulated this by making sure that no one had a
+&bull; The chief priests manipulated this by making sure that no one had a
 worthy animal. They sent their inspectors to school for months so that
 they could identify the defects of any given animal. Actually this just
 became an excuse for disqualifying the animals brought by the heads of
 households.
 
-· They also came to charge the people for the inspection of their
+&bull; They also came to charge the people for the inspection of their
 animals. This evil led many to just give up and buy the animals that the
 temple provided, without even trying to bring their own.
 
-· This was wrong, wrong, wrong. The whole point of the sacrifice was
+&bull; This was wrong, wrong, wrong. The whole point of the sacrifice was
 that it would come from the family; that the man would know the animal
 personally; that he would see the cost of sin, and greatness of God’s
 sacrifice in sending His own Son.
 
-· Of course the prices on these animals was greatly inflated, and the
+&bull; Of course the prices on these animals was greatly inflated, and the
 chiefs priests made a great profit from them.
 
-· Furthermore, the chief priests and officials made it so that the
+&bull; Furthermore, the chief priests and officials made it so that the
 animals could only be bought with the official temple currency, and the
 exchange rates were quite exorbitant. Thus, the moneychangers.
 
-· With the clinking of coins and the mutter of exchange and the
+&bull; With the clinking of coins and the mutter of exchange and the
 baa-ahing of sheep and the cooing of pigeons and the mooing of cattle
 you could hardly hear yourself think in the house of worship. There was
 record of more than three thousand head of sheep in the temple at one
 time. What cacophony! What corruption!
 
-· So, Christ walks into His Father’s house, the house designed for
+&bull; So, Christ walks into His Father’s house, the house designed for
 learning about His sacrifice, and He finds the worst kind of corruption.
 What follows is not an act of anger, but justice.
 
@@ -39799,27 +39797,27 @@ What follows is not an act of anger, but justice.
 out from the temple and the sheep and the oxen, and He poured out the
 coins of the money-changers and He overturned the tables.”
 
-· Physical wreckage is much preferred over spiritual corruption.
+&bull; Physical wreckage is much preferred over spiritual corruption.
 
-· There were a bunch of money-changers, and only one Christ, but they
+&bull; There were a bunch of money-changers, and only one Christ, but they
 did not attempt to stop Him.
 
-· Was Christ an imposing figure, or were they so shocked by this action
+&bull; Was Christ an imposing figure, or were they so shocked by this action
 that they did not respond?
 
-· The scourge of ropes could have been a fearful weapon, when wielded by
+&bull; The scourge of ropes could have been a fearful weapon, when wielded by
 one with skill. How did our peaceful Lord acquire such experience?
 
-· Christ had been a carpenter by trade. It is likely that He had great
+&bull; Christ had been a carpenter by trade. It is likely that He had great
 strength in His hands and arms, because the profession was even more
 rigorous then than it is now.
 
-· John rather humorously adds the driving out of the sheep and oxen; he
+&bull; John rather humorously adds the driving out of the sheep and oxen; he
 makes a funny because you already expected them to be driven out. Christ
 drives out the wimpy bankers and money-changers and inspectors, and even
 the oxen and sheep. He drives them like the stupid cattle they are.
 
-· By pouring out the coins and overturning the tables, Christ made it
+&bull; By pouring out the coins and overturning the tables, Christ made it
 impossible for them to determine whose money belonged to whom. He
 effectively destroyed their profits.
 
@@ -39881,11 +39879,11 @@ staff. On another occasion, He told them to take no staff at all.
 (c) Another possible solution comes through two figures of speech, the
 hyperbole and the epanorthosis.
 
-· With the hyperbole, Christ tells His disciples they are to take
+&bull; With the hyperbole, Christ tells His disciples they are to take
 nothing at all save the clothes on their back. He goes to an extreme by
 saying ‘not even a staff.’
 
-· Then for the sake of clarity He goes with the correction, or
+&bull; Then for the sake of clarity He goes with the correction, or
 epanorthosis. Mark’s gospel is the correction: a single staff.
 
 The general procedure in the villages. “And into whichever ever city or
@@ -39909,10 +39907,10 @@ Me is not worthy of Me, and the one who loves a son or daughter more
 than Me is not worthy of Me; (38) and who does not take his cross and
 follow after Me, he is not worthy of Me.”
 
-· So worthiness means that the person has Jesus Christ as his top
+&bull; So worthiness means that the person has Jesus Christ as his top
 priority - above family, above everything.
 
-· So we can define these as kingdom believers with momentum of spiritual
+&bull; So we can define these as kingdom believers with momentum of spiritual
 growth.
 
 (c) And you can see that this is quite wise. The kingdom believers can
@@ -39937,48 +39935,48 @@ sufficient.
 (d) In any event, there will be either a positive or a negative
 response.
 
-· With the positive response, the peace of the disciples is to come upon
+&bull; With the positive response, the peace of the disciples is to come upon
 the house.
 
-· In the negative case, the peace is to return to the disciples.
+&bull; In the negative case, the peace is to return to the disciples.
 
-· Whatever this peace may be, it is something that the disciples can
+&bull; Whatever this peace may be, it is something that the disciples can
 give or take back. It is genuinely up to them.
 
-- The imperative of entreaty has Christ giving them a polite command
+-- The imperative of entreaty has Christ giving them a polite command
 regarding the going and returning of peace. ELTHATO and EPISTRAPHETO are
 the two imperative mood verbs here.
 
-- Because of the imperative mood, you can see that the disciples have
+-- Because of the imperative mood, you can see that the disciples have
 the volitional power to bring this peace.
 
-· Luke 7:50 and 8:48 give clues as to the true nature of this peace. In
+&bull; Luke 7:50 and 8:48 give clues as to the true nature of this peace. In
 each case, Christ tells someone He has just healed to go into peace.
 They are to enter into the inner peace that comes with a good
 relationship with God.
 
-· The peace is going to be just like what the Greek word SUNANAPAUSOMAI
+&bull; The peace is going to be just like what the Greek word SUNANAPAUSOMAI
 portrays in these verses:
 
-- Romans 15:32, “…so that I may come to you in joy by the will of God
+-- Romans 15:32, “…so that I may come to you in joy by the will of God
 and find refreshing rest in your company.”
 
-- 1 Corinthians 16:18, “For they have refreshed my spirit and yours.
+-- 1 Corinthians 16:18, “For they have refreshed my spirit and yours.
 Therefore acknowledge such men.”
 
-- 2 Timothy 1:16, “The Lord grant mercy to the house of Onesiphorus, for
+-- 2 Timothy 1:16, “The Lord grant mercy to the house of Onesiphorus, for
 he often refreshed me and was not ashamed of my chains…”
 
-- Philemon 7, “…because the hearts of the saints have been refreshed
+-- Philemon 7, “…because the hearts of the saints have been refreshed
 through you, brother.”
 
-· The peace is the refreshment that the disciples can bring to the
+&bull; The peace is the refreshment that the disciples can bring to the
 hearts of those with whom they stay. They eat meals and talk about
 Christ and the Kingdom; they sit around at night before bedtime and do
 the same. They share their enthusiasm as they relate their memories of
 two years on the road with the Messiah.
 
-· And of course it is a peaceful refreshment to these kingdom believers.
+&bull; And of course it is a peaceful refreshment to these kingdom believers.
 It is as close as many of them will get to the Messiah.
 
 (3) Part three: testify against the unworthy.
@@ -40342,20 +40340,20 @@ blessed”.
 
 (k) Luke use four different ways to describe persecution:
 
-· HOTAN MISESOSIN ANTHROPOI is ‘whenever men hate you.’ The verb ‘hate’
+&bull; HOTAN MISESOSIN ANTHROPOI is ‘whenever men hate you.’ The verb ‘hate’
 is MISESOSIN, and is a fairly square translation of the concept.
 
-· HOTAN APHORISOSIN is literally ‘whenever they separate from you.’ The
+&bull; HOTAN APHORISOSIN is literally ‘whenever they separate from you.’ The
 idea is that others choose to separate themselves from you because of
 your faith. Your friends and family leave you - your boss fires you -
 your country banishes you.
 
-· ONEIDISOSIN is next. It translates as reproach or revile, but
+&bull; ONEIDISOSIN is next. It translates as reproach or revile, but
 ultimately it comes down to slander. When you reproach another for his
 legitimate and true faith, you slander his character and make a false
 accusation.
 
-· EKBALOSIN TO ONOMA HUMON HOS PONERON is the final persecution
+&bull; EKBALOSIN TO ONOMA HUMON HOS PONERON is the final persecution
 possibility. It translates as ‘they cast out your name as evil’ This is
 pretty much the same as the last one, with a little more emphasis on
 general slander, as opposed to taking shots at Christianity.
@@ -40398,16 +40396,16 @@ Become merciful just as also your Father is merciful.”
 (a) The statements of Matthew 5:43 have a background from the Old
 Testament.
 
-· The love command is issued in Leviticus 19:17-18, “You shall not hate
+&bull; The love command is issued in Leviticus 19:17-18, “You shall not hate
 your fellow countryman in your heart; you may surely reprove your
 neighbor, but shall not incur sin because of him. You shall not take
 vengeance, nor bear any grudge against the sons of your people, but you
 shall love your neighbor as yourself; I am the Lord.”
 
-· The hatred command is not directly from the Old Testament, but is a
+&bull; The hatred command is not directly from the Old Testament, but is a
 misinterpretation of the doctrine of self-defense.
 
-· The Old Testament authorized national self-defense and personal
+&bull; The Old Testament authorized national self-defense and personal
 self-defense. Sometimes in self-defense you must exercise lethal force,
 and the interpreters of the day misconstrued this into hatred. Thus
 ‘Love your neighbor and hate your enemy.’
@@ -40423,15 +40421,15 @@ of self-defense.
 (d) But nonetheless the command to love our enemies is valid in a very
 Christian way:
 
-· Because you have experienced the very best in your life through your
+&bull; Because you have experienced the very best in your life through your
 relationship with God, you are motivated to bring that to every human
 being.
 
-· You realize that your enemy is a slave of Satan, and is as redeemable
+&bull; You realize that your enemy is a slave of Satan, and is as redeemable
 as any other human being. He has as much potential as anyone thanks to
 grace.
 
-· The apostle Paul is the classic example of a persecutor turned to a
+&bull; The apostle Paul is the classic example of a persecutor turned to a
 man of God. Acts 7:54-8:3 records the death of Stephen at the command of
 Saul: “(54) Now when they heard this [the speech of Stephen] they were
 cut to the quick, and they began gnashing their teeth at him. (55) But
@@ -40452,9 +40450,9 @@ and made loud lamentation over him. (3) But Saul began ravaging the
 church, entering house after house, and dragging off men and women, he
 would put them in prison.”
 
-· And yet Paul went on to be the great apostle.
+&bull; And yet Paul went on to be the great apostle.
 
-· This is also the great example of the principle of persecution as
+&bull; This is also the great example of the principle of persecution as
 divine guidance. If persecutors make so much trouble for you that you
 must move on, then God has someone somewhere else that is positive to
 the gospel.
@@ -41771,185 +41769,185 @@ strategists have over time developed certain immutable principles
 related to the attainment of victory. These we may apply as though they
 are from God, because God is the best of all at war.
 
-· He understands the principle of objective.
+&bull; He understands the principle of objective.
 
-- The objective constitutes the guide for the interpretation of orders,
+-- The objective constitutes the guide for the interpretation of orders,
 for the formation of decisions, and for the employment of the means
 available.
 
-- God has a set objective for every human life. This is understood as
+-- God has a set objective for every human life. This is understood as
 predestination. The objective is completed love for Him, love for Him in
 any situation in life. This is spiritual maturity. Therefore, every part
 of grace is aimed at this objective.
 
-- This in turn fulfills His objective, which is vindication in the
+-- This in turn fulfills His objective, which is vindication in the
 angelic appeal trial.
 
-· He understands the principle of offensive.
+&bull; He understands the principle of offensive.
 
-- Offensive action is the only means by which a decision is gained in
+-- Offensive action is the only means by which a decision is gained in
 warfare. The offensive increases the effectiveness of the force that
 adopts it because it raises morale, permits concentration of effort, and
 allows freedom of action.
 
-- Our application of this principle is to gain and perpetuate spiritual
+-- Our application of this principle is to gain and perpetuate spiritual
 momentum inside His plan.
 
-- Spiritual momentum is defined as the demand of truth, the spiritual
+-- Spiritual momentum is defined as the demand of truth, the spiritual
 necessity of moving forward. One days’ spiritual growth demands, makes
 necessary the next.
 
-- You take the offensive whenever you learn and apply the truth. This is
+-- You take the offensive whenever you learn and apply the truth. This is
 the means by which you attain the objective.
 
-- Offensive means having right priorities and setting aside the
+-- Offensive means having right priorities and setting aside the
 distractions of life.
 
-· He understands the principle of mass.
+&bull; He understands the principle of mass.
 
-- Mass defines combat power. The concept includes the numbers, the
+-- Mass defines combat power. The concept includes the numbers, the
 weapons, the tactical skill, the fighting ability, the resolution, the
 discipline, the morale, and the leadership of the fighting force.
 
-- Successful employment of mass means putting maximum mass at the proper
+-- Successful employment of mass means putting maximum mass at the proper
 time and place to achieve the objective.
 
-- Mass for the Christian means the combination of divine power and human
+-- Mass for the Christian means the combination of divine power and human
 concentration toward the application of truth during undeserved
 suffering.
 
-- Mass means that all of the appropriate elements of grace come together
+-- Mass means that all of the appropriate elements of grace come together
 at the point of attack to produce maximum love for God.
 
-· He understands the principle of economy of force.
+&bull; He understands the principle of economy of force.
 
-- The economy of force is the efficient means by which military mass is
+-- The economy of force is the efficient means by which military mass is
 deployed in a main effort. Men and means are directed in such a way that
 there is no compromise to the main effort, and as little as possible
 elsewhere.
 
-- Economy for the Christian means focusing your life on the point of
+-- Economy for the Christian means focusing your life on the point of
 attack, which is spiritual growth.
 
-· He understands the principle of movement.
+&bull; He understands the principle of movement.
 
-- This refers to the maneuver of combat arms and their support. This
+-- This refers to the maneuver of combat arms and their support. This
 means to bring military mass into close contact with the enemy to secure
 a decisive result, and to put the mass where it can attack with maximum
 advantage. This always has the idea of being in the right geographical
 location for the achievement of the objective.
 
-- The movement of the Christian focuses on the geographical will of God.
+-- The movement of the Christian focuses on the geographical will of God.
 And the geographical will always has to do with the objective. You must
 always place yourself geographically at the point where you will have
 the maximum opportunity to fulfill God’s plan.
 
-· He understands the principle of unity of command.
+&bull; He understands the principle of unity of command.
 
-- Unity of command is more than cooperation (see principle \#10). It is
+-- Unity of command is more than cooperation (see principle \#10). It is
 the responsibility of each command toward fulfillment of the objective
 under a single commander.
 
-- Each command has a single commander who is responsible for the
+-- Each command has a single commander who is responsible for the
 direction of his command toward the objective. Each command is to remain
 unified under that commander.
 
-- In the spiritual realm, this is the church under the headship of Jesus
+-- In the spiritual realm, this is the church under the headship of Jesus
 Christ, and the local church under the headship of the pastor.
 
-- In the local church, the pastor is responsible for directing his flock
+-- In the local church, the pastor is responsible for directing his flock
 toward the objective of spiritual maturity, mature love for God. The
 responsibility of the flock is to remain unified under that command in
 humility.
 
-· He understands the principle of surprise.
+&bull; He understands the principle of surprise.
 
-- Surprise in some form is essential to obtain maximum effect in battle
+-- Surprise in some form is essential to obtain maximum effect in battle
 with minimum loss. Surprise occurs in many categories of military
 activity: time, place, direction, force, tactics, and weapons.
 
-- God has applied the principle of surprise with regard to progressive
+-- God has applied the principle of surprise with regard to progressive
 revelation, having portions of His truth concealed, even to the angels,
 and even to His Son.
 
-- Our application of surprise is in the content of our soul. We have the
+-- Our application of surprise is in the content of our soul. We have the
 right to privacy as Christians, and this privacy of the priesthood
 extends to the angelic realm; we think in our own souls apart from the
 intrusion of any creature save God Himself.
 
-- With privacy, we have the advantage of surprise during testing, so
+-- With privacy, we have the advantage of surprise during testing, so
 that there is a progressive revelation of our hearts through the course
 of our lives.
 
-· He understands the principle of Security.
+&bull; He understands the principle of Security.
 
-- Security is defined in military science and tactics as all measures
+-- Security is defined in military science and tactics as all measures
 which are taken to guard against observations, surprise,, and hostile
 interference with effective maneuver. Security is designed to gain and
 maintain the power of freedom of action.
 
-- Eternal security is what God does for us in order to make us free. At
+-- Eternal security is what God does for us in order to make us free. At
 the moment we believe, we may have the confidence that our salvation
 remains secure forever.
 
-- Dismantling the cosmic complex and keeping it at bay is what we must
+-- Dismantling the cosmic complex and keeping it at bay is what we must
 do to keep our offensive operation of spiritual momentum secure.
 
-- Because sin entangles us on the course to our destiny, we must keep
+-- Because sin entangles us on the course to our destiny, we must keep
 its power to a minimum in our lives. When sin is minimized, we maximize
 our freedom of action, especially related to our spiritual advance.
 
-· He understands the principle of Simplicity.
+&bull; He understands the principle of Simplicity.
 
-- Simplicity means that all military plans, at any level of command,
+-- Simplicity means that all military plans, at any level of command,
 must be simple and free from complicated maneuvers. Orders have to be
 direct and free from contingencies. Frequent changes of plan should be
 avoided, and the unity of command should be observed.
 
-- “But the greatest commandment is this: to love the Lord your God with
+-- “But the greatest commandment is this: to love the Lord your God with
 all your heart and soul and might.”
 
-- That is elegantly simple. Love God.
+-- That is elegantly simple. Love God.
 
-- We love God through our pursuit of the word.
+-- We love God through our pursuit of the word.
 
-- We love Him through our application of the word.
+-- We love Him through our application of the word.
 
-- We love Him through expressing praise and thanksgiving.
+-- We love Him through expressing praise and thanksgiving.
 
-- We love Him through spreading the word in ambassadorial function.
+-- We love Him through spreading the word in ambassadorial function.
 
-- We love Him through depending on Him when we are helpless.
+-- We love Him through depending on Him when we are helpless.
 
-- We love Him through our enduring love for Him in both the distractions
+-- We love Him through our enduring love for Him in both the distractions
 of prosperity and the darkness of adversity.
 
-- As long as you love God as He truly is, you will be within the bounds
+-- As long as you love God as He truly is, you will be within the bounds
 of the simplicity of His plan.
 
-· He understands the principle of cooperation.
+&bull; He understands the principle of cooperation.
 
-- By cooperation is meant that all elements of a mission work together
+-- By cooperation is meant that all elements of a mission work together
 for the achievement of the objective. This includes the principle of
 teamwork. Cooperation within a command is attained when everyone
 interprets his orders in an intelligent manner, and executes them in
 accordance with the spirit and the intent of the authority issuing them.
 
-- Between independent commanders, cooperation is attained by each
+-- Between independent commanders, cooperation is attained by each
 working for a common objective without reference to personal ambition.
 
-- This is the necessity of virtue love in the local church. The mission
+-- This is the necessity of virtue love in the local church. The mission
 of the local church is for each individual of that body to achieve the
 objective of mature love for God
 
-- Therefore, personal ambition must be set aside, along with every form
+-- Therefore, personal ambition must be set aside, along with every form
 of illicit judgment. Forgiveness must go out toward failure, and
 tolerance toward idiosyncratic behavior.
 
-- There must also be virtue in the great body of Christ when two people
+-- There must also be virtue in the great body of Christ when two people
 from different local churches are in contact with one another.
 
-- They must always approach the differences in the ministry with virtue,
+-- They must always approach the differences in the ministry with virtue,
 so that there is no undue bickering and inordinate competition.
 
 (c) Chaos always comes about as a result of sin and wrong priorities in
@@ -42081,7 +42079,7 @@ There had been quite a propaganda campaign just before the time of the
 first advent. False messiahs and failed leaders galore. Indeed the
 shadow of the messiah loomed over the Herod family as much as anyone.
 
-10. This blinded them to the hand of God in the life of Christ. Only a
+[10] This blinded them to the hand of God in the life of Christ. Only a
 few who looked for the true and the good could see Him as He truly was.
 
 The Beheading of John the Baptist
@@ -42140,15 +42138,15 @@ John is immensely popular, so that Herod Antipas and Herodias fear the
 people will turn against them if they listen to the strident sermons of
 this man.
 
-10. Therefore they must stop him, and he is seized and chained and
+[10] Therefore they must stop him, and he is seized and chained and
 thrown into prison. It is clear that John is imprisoned at the royal
 quarters.
 
-11. In the royal quarters there was a certain royal steward by the name
+[11] In the royal quarters there was a certain royal steward by the name
 of Chuza. His wife was named Joanna, and it turns out that she is a
 believer in Jesus Christ.
 
-12. A steward was an OIKONOMOS, a manager of the royal household. All
+[12] A steward was an OIKONOMOS, a manager of the royal household. All
 logistical matters were a part of his domain.
 
 When Herod ordered the seizure and imprisonment of John the Baptist, the
@@ -42156,7 +42154,7 @@ matter was delegated to Chuza.
 
 While John was in prison, his care was the responsibility of Chuza.
 
-13. If we were to construct a probable course of events it would be like
+[13] If we were to construct a probable course of events it would be like
 this:
 
 John is imprisoned. He is befuddled by his imprisonment and the end of
@@ -42172,7 +42170,7 @@ It is after this that John turns his contact with Chuza and his family
 into a gospel opportunity, and Chuza’s wife Joanna becomes one of the
 women’s auxiliary in support of Christ’s ministry.
 
-14. “For Herod continually feared the crowd, because they held him as a
+[14] “For Herod continually feared the crowd, because they held him as a
 prophet, and knowing him as a righteous and holy man, he kept him safe,
 and after hearing about him he was very perplexed, and he gladly heard
 him.”
@@ -42334,21 +42332,21 @@ to hold grudges against others.
 that his severed head be brought on a platter to be seen by all these
 birthday guests.
 
-· And so it is clear that her motivation not only includes revenge
+&bull; And so it is clear that her motivation not only includes revenge
 against John, but also against Herod Antipas, her husband.
 
-· She knew that this request would bring great shame upon him before all
+&bull; She knew that this request would bring great shame upon him before all
 of his honored guests. She knew that they would say nothing of the
 incident - nothing to his face, that is.
 
-· She knew how this would fester within Herod, and how he would eat away
+&bull; She knew how this would fester within Herod, and how he would eat away
 at himself over it.
 
-· She was motivated to destroy this man whom she had been so anxious to
+&bull; She was motivated to destroy this man whom she had been so anxious to
 marry not so long ago. Probably less than a year. This reveals a great
 hatred.
 
-· To Herodias, men are a way to gain power; men are weak before her
+&bull; To Herodias, men are a way to gain power; men are weak before her
 charms, easily manipulated; but never are men to be trusted, never to be
 loved. She is chained to their power in a male-dominated society, but
 she overcomes by means of their weakness.
@@ -42357,93 +42355,93 @@ she overcomes by means of their weakness.
 asked, saying, ‘I want right away in order for you to give to me upon a
 platter the head of John the Baptist.’”
 
-· Mark portrays the speed with which things happened after the agreement
+&bull; Mark portrays the speed with which things happened after the agreement
 between mother and daughter.
 
-· The girl enters the dining room META SPOUDES - with speed. In fact,
+&bull; The girl enters the dining room META SPOUDES - with speed. In fact,
 Mark’s gospel even says EUTHUS - ‘immediately.’ This adverb shows
 decisiveness and swiftness to conclusion.
 
-· And more than this - Salome makes her demand, and demands that it be
+&bull; And more than this - Salome makes her demand, and demands that it be
 done EXAUTES ‘right away.’ This is literally, ‘from this point in time.’
 
-· So included in the demand is the timing of the act. Salome wants that
+&bull; So included in the demand is the timing of the act. Salome wants that
 head immediately.
 
-· It snatches the breath away to realize the soul of this young girl.
+&bull; It snatches the breath away to realize the soul of this young girl.
 For she has added the speed and the demand for immediate action all by
 herself.
 
-· It tears out the heart to realize what utter degeneracy she has at her
+&bull; It tears out the heart to realize what utter degeneracy she has at her
 young age. How decisive she is toward this callused and heinous request!
 
 (6) Herod does not want to do this.
 
 (a) There are two reasons why he rationalizes the necessity of the act.
 
-· First, because of his oath. He feels he must have integrity toward his
+&bull; First, because of his oath. He feels he must have integrity toward his
 word.
 
-· Second, because of the dinner guests. He feels that to renege on the
+&bull; Second, because of the dinner guests. He feels that to renege on the
 oath would be to lose face before all of these dignitaries, both Roman
 and Jewish.
 
 (b) But of course this is an act of utter immorality, and entirely aside
 from the holy character of God.
 
-· There is a verse that is the perfect counterpoint to this whole
+&bull; There is a verse that is the perfect counterpoint to this whole
 incident. 1 John 5:14, “This is the confidence which we have before Him,
 that, if we ask anything according to His will, He hears us.”
 
-· Well Herod Antipas had no standards, and so you could ask anything of
+&bull; Well Herod Antipas had no standards, and so you could ask anything of
 him, and he would give it, even if it was evil.
 
-· There is no limit from the throne of grace. You may have it all if it
+&bull; There is no limit from the throne of grace. You may have it all if it
 is according to God’s will.
 
-· But God’s ability to answer your requests never extends to the realm
+&bull; But God’s ability to answer your requests never extends to the realm
 of evil. His integrity will not allow it.
 
 (c) Herod has an absence of self-esteem to do the right thing.
 
-· You must have a detachment of will in order to bring about what is
+&bull; You must have a detachment of will in order to bring about what is
 right in your life.
 
-· That is, your decision-making process must be apart from worldly
+&bull; That is, your decision-making process must be apart from worldly
 factors.
 
-· You cannot make decisions on the basis of what other people think, or
+&bull; You cannot make decisions on the basis of what other people think, or
 what the world demands.
 
-· Herod, the ruler of this region, the man of highest rank present, does
+&bull; Herod, the ruler of this region, the man of highest rank present, does
 not have the self-esteem to eat his pride and tell this little girl that
 she is wrong to request what is evil.
 
-· He is afraid of what these lesser-ranking persons are going to think
+&bull; He is afraid of what these lesser-ranking persons are going to think
 of him. He sees breaking this oath as a weakness, when in reality the
 girl has broken the oath before him.
 
-· She has broken the spirit of integrity within the oath, and therefore
+&bull; She has broken the spirit of integrity within the oath, and therefore
 abrogated Herod’s necessity toward veracity.
 
-· Self-esteem comes from a sense of what is right, and especially who is
+&bull; Self-esteem comes from a sense of what is right, and especially who is
 important.
 
-· If you see yourself as God sees you, then you will gain resolve in
+&bull; If you see yourself as God sees you, then you will gain resolve in
 staying on the side of right.
 
-· But Herod was more worried that his dinner guests would see him as a
+&bull; But Herod was more worried that his dinner guests would see him as a
 weak man, than whether he should do the right thing.
 
-· It would have been so easy to say to take the girl aside and tell her
+&bull; It would have been so easy to say to take the girl aside and tell her
 that this could not be so.
 
-· This would not be the end of Antipas weakness. In the Passover after
+&bull; This would not be the end of Antipas weakness. In the Passover after
 next, Antipas is in Jerusalem when the trial of Jesus takes place. As a
 courtesy, Pontius Pilate sends Christ to Antipas, deferring to his
 rulership of Galilee, Christ’s home province.
 
-- Luke 23:8-12, “(8) Now Herod was very glad when he saw Jesus; for he
+-- Luke 23:8-12, “(8) Now Herod was very glad when he saw Jesus; for he
 had wanted to see Him for a long time, because he had been hearing about
 Him and was hoping to see some sign performed by Him. (9) And he
 questioned Him at some length; but He answered him nothing. (10) And the
@@ -42454,27 +42452,27 @@ back to Pilate. (12) Now Herod and Pilate became friends with one
 another that very day; for before they had been enemies with each
 other.”
 
-- So Herod has a chance to set Jesus free and redeem himself of his
+-- So Herod has a chance to set Jesus free and redeem himself of his
 weakness against John the Baptist. He fails, and as a result, Jesus
 would die.
 
 (d) That this young girl could even make this request of her uncle
 indicates that she is a monster-child.
 
-· No one ever says no to Salome. She knows how to tantrum; she knows how
+&bull; No one ever says no to Salome. She knows how to tantrum; she knows how
 to manipulate; she knows how to pout.
 
-· If Herod says no to Salome here, he risks a nuclear tantrum. He would
+&bull; If Herod says no to Salome here, he risks a nuclear tantrum. He would
 rather have some prophet die than undergo that.
 
-· Even if he should insist on the wrongness of it, he knows that he will
+&bull; Even if he should insist on the wrongness of it, he knows that he will
 pay dearly for it.
 
-· Herod has made this magnanimous offer to his niece because of the
+&bull; Herod has made this magnanimous offer to his niece because of the
 dinner guests. He wants to impress them with the greatness of his
 generosity.
 
-· Now she asks of him something awful. But he cannot lose out on his
+&bull; Now she asks of him something awful. But he cannot lose out on his
 scheme to impress them, so he goes through with it.
 
 So Herod sends for the executioner to follow through with the request.
@@ -42595,16 +42593,16 @@ greatly.
 of something truly awful. And then Herod Antipas is called before the
 Great White Throne, and he finally gets his audience with Christ.
 
-· And yet Herod is completely humble before this King of kings and Lord
+&bull; And yet Herod is completely humble before this King of kings and Lord
 of lords. He cannot stand before this throne as king; he cannot demand
 from Christ an accounting of His ministry.
 
-· There before Herod Antipas is the evidence of his folly in the nail
+&bull; There before Herod Antipas is the evidence of his folly in the nail
 holes in the hands and feet of the Savior of the World.
 
-· Herod is no longer the one to be feared, the one in control.
+&bull; Herod is no longer the one to be feared, the one in control.
 
-· The sentence is passed, and he is cast into the Lake of Fire for an
+&bull; The sentence is passed, and he is cast into the Lake of Fire for an
 eternity of pain. So he will exit the scene of history.
 
 A Transitional Passage.
@@ -43163,7 +43161,7 @@ brought him to Jesus.”
 When Andrew finds the Messiah, the first thing he did was get his
 brother. And by doing so, Andrew had role in changing the world.
 
-10. Andrew has a basic obedience, but his rational mind at the same time
+[10] Andrew has a basic obedience, but his rational mind at the same time
 protests. ‘There is a boy here who has five barley loaves and two
 preserved fish; but what are these things for so many?’
 
@@ -43209,7 +43207,7 @@ healings. You would think that if they had seen God’s work through their
 own hands, they would begin to assume that it would go through the hands
 of Christ.
 
-11. “For there were about five thousand men outside of women and
+[11] “For there were about five thousand men outside of women and
 children.”
 
 Jesus’ orders concerning the food and the crowd: “And He said, ‘Bring
@@ -43466,20 +43464,20 @@ fair amount of information on the subject.
 historical evidence that would support the theorem that the millennium
 has already occurred.
 
-· A period of 1000 years of peace and prosperity would have surely been
+&bull; A period of 1000 years of peace and prosperity would have surely been
 documented.
 
-· Logically, the millennium can only be in the future. Christ could not
+&bull; Logically, the millennium can only be in the future. Christ could not
 have returned yet, nor could he have brought in the millennium before he
 was born.
 
 (d) The Bible unequivocally portrays the millennium as a real event in
 the future history of planet earth.
 
-· There is no credence to the argument that there will never be a
+&bull; There is no credence to the argument that there will never be a
 millennium and that world history simply goes into the eternal state.
 
-· Neither is there any indication that the millennium is only a
+&bull; Neither is there any indication that the millennium is only a
 metaphor.
 
 (2) It is impossible for mankind to bring in the millennium through his
@@ -43531,13 +43529,13 @@ Christ, and they shall reign with him a thousand years.”
 
 (b) Humanity is totally incapable of bringing in a millennium.
 
-· We do not have the mental capacity to do so - even with computers we
+&bull; We do not have the mental capacity to do so - even with computers we
 are no better off.
 
-· As long as the devil is in the world, he is well able to outsmart any
+&bull; As long as the devil is in the world, he is well able to outsmart any
 human group that relies on their own wits.
 
-· And think: the devil has been trying to bring in his own millennium
+&bull; And think: the devil has been trying to bring in his own millennium
 for more than ten thousand years, and he has miserably failed. If he
 cannot do this with his superior intellect, then how can we?
 
@@ -43552,13 +43550,13 @@ and His kingdom by the Jews during the first advent.
 (a) The millennium will provide a perfect environment, for three main
 reasons:
 
-· The whole earth is under the leadership of Jesus Christ.
+&bull; The whole earth is under the leadership of Jesus Christ.
 
-· All the fallen angels are placed into prison under the earth.
+&bull; All the fallen angels are placed into prison under the earth.
 
-· The earth is populated only by believers in Jesus Christ.
+&bull; The earth is populated only by believers in Jesus Christ.
 
-- The baptism of fire removes all unbelievers - this occurs at the
+-- The baptism of fire removes all unbelievers - this occurs at the
 second advent. Ezekiel 20:34-38, “(34) I will bring you out from the
 peoples and gather you out of the countries where you are scattered,
 with a mighty hand and an outstretched arm, and with wrath poured out;
@@ -43572,63 +43570,63 @@ me; I will bring them out of the land where they sojourn, but they shall
 not enter the land of Israel. Then you will know that I am the Lord.”
 See also Matthew 25:31-46
 
-- Only 144,000 Jewish believers remain - Revelation 14.
+-- Only 144,000 Jewish believers remain - Revelation 14.
 
 (b) The perfect environment means the following:
 
-· Ideal spiritual environment.
+&bull; Ideal spiritual environment.
 
-- The best environment possible for evangelism and spiritual growth -
+-- The best environment possible for evangelism and spiritual growth -
 visible and glorified Christ ruling in perfect environment.
 
-- This does not mean that there will be no unbelievers. Some may even
+-- This does not mean that there will be no unbelievers. Some may even
 grow up in this perfect environment and reject Him. Volition will
 continue to function in both positive and negative ways.
 
-- Added to this will be universal knowledge of God, Isaiah 11:9, “They
+-- Added to this will be universal knowledge of God, Isaiah 11:9, “They
 shall not hurt or destroy in all my holy mountain; for the earth shall
 be full of the knowledge of the LORD as the waters cover the sea.”
 
-- Incredible spirituality with an even greater outpouring of the
+-- Incredible spirituality with an even greater outpouring of the
 ministry of God the Holy Spirit - far greater than ever before. Joel
 2:28-29, “(28) And it will come about after this that I will pour out My
 Spirit on all mankind; and your sons and daughters will prophesy, your
 old men will dream dreams, your young men will see visions, and even on
 the male and female servants I will pour out My Spirit in those days.
 
-· Wonderful family life as the keystone to a one world government under
+&bull; Wonderful family life as the keystone to a one world government under
 the laws of Divine Establishment.
 
-· Perfect establishment justice through the great judge, Jesus Christ,
+&bull; Perfect establishment justice through the great judge, Jesus Christ,
 and His delegated authorities, church age believers.
 
-- Isaiah 2:4, “And he will judge between the nations, and will render
+-- Isaiah 2:4, “And he will judge between the nations, and will render
 decisions for many peoples; and they will hammer their swords into
 plowshares and their spears into pruning hooks. Nation will not lift up
 sword against nation, and never again will they learn war.”
 
-- Isaiah 11:1-2, “(1)Then a shoot will spring from the stem of Jesse,
+-- Isaiah 11:1-2, “(1)Then a shoot will spring from the stem of Jesse,
 and a branch from his roots will bear fruit. (2) And the Spirit of the
 Lord will rest on Him, the spirit of wisdom and understanding. The
 Spirit of counsel and strength, the spirit of knowledge and the fear of
 the Lord.”
 
-- 2 Timothy 2:12, “If we endure we will also reign with Him.”
+-- 2 Timothy 2:12, “If we endure we will also reign with Him.”
 
-- Revelation 2:25-27, “(25) nevertheless what you have, hold fast until
+-- Revelation 2:25-27, “(25) nevertheless what you have, hold fast until
 I come. (26) And he who overcomes, and he who keeps My deeds until the
 end, to him I will give authority over the nations; (27) and he shall
 rule them with a rod of iron, as the vessels of the potter are broken to
 pieces, as I also have received authority from My Father.”
 
-- Revelation 3:21, “He who overcomes, I will grant to him to sit down
+-- Revelation 3:21, “He who overcomes, I will grant to him to sit down
 with Me on My throne, as I also overcame and sat down with My Father on
 His throne.”
 
-- Revelation 5:10, “You have mad them to be a kingdom and priests to our
+-- Revelation 5:10, “You have mad them to be a kingdom and priests to our
 God; and they will reign upon the earth.”
 
-- Revelation 20:4,6: “(4) Then I saw thrones, and they sat on them, and
+-- Revelation 20:4,6: “(4) Then I saw thrones, and they sat on them, and
 judgment was given to them. And I saw the souls of those who had been
 beheaded because of their testimony of Jesus and because of the word of
 God, and those who had not worshiped the beast or his image, and had not
@@ -43638,47 +43636,47 @@ part in the first resurrection; over these the second death has no
 power, but they will be priests of God and of Christ and will reign with
 Him for a thousand years.”
 
-· Universal peace
+&bull; Universal peace
 
-- Psalm 46:9, “He makes wars to cease to the end of the earth; He breaks
+-- Psalm 46:9, “He makes wars to cease to the end of the earth; He breaks
 the bow and cuts the spear in two; He burns the chariots with fire.”
 
-- Isaiah 2:3, “And many peoples will come and say, ‘Come, let us go up
+-- Isaiah 2:3, “And many peoples will come and say, ‘Come, let us go up
 to the mountain of the Lord, to the house of the God of Jacob; that he
 may teach us concerning His ways and that we may walk in His paths.’ For
 the law will go forth from Zion and the word of the Lord from
 Jerusalem.”
 
-- Hosea 2:18, “In that day I will also make a covenant for them. With
+-- Hosea 2:18, “In that day I will also make a covenant for them. With
 the beasts of the field, the birds of the sky, and the creeping things
 of the ground. And I will abolish the bow, the sword and war from the
 land, and I will make them lie down in safety.”
 
-- Micah 4:3, “And He will judge between many peoples and render
+-- Micah 4:3, “And He will judge between many peoples and render
 decisions for mighty, distant nations. Then they will hammer their
 swords into plowshares and their spears into pruning hooks; nations will
 not lift up sword against nation, and never again will they train for
 war.”
 
-· Universal prosperity, Psalm72:7,16. “(7) In his days may the righteous
+&bull; Universal prosperity, Psalm 72:7,16. “(7) In his days may the righteous
 flourish, and abundance of peace till the moon is no more… (16) May
 there be abundance of grain in the earth on top of the mountains; its
 fruit will wave like the cedars of Lebanon; and may those from the city
 flourish like vegetation of the earth.”
 
-· Longevity will once again become common. Isaiah 65:20, “No longer will
+&bull; Longevity will once again become common. Isaiah 65:20, “No longer will
 there be in it an infant who lives but a few days, or an old man who
 does not live out his days; for the youth will die at the age of one
 hundred and the one who does not reach the age of one hundred shall be
 thought accursed.”
 
-· No handicaps, Isaiah 35:5-6, “(5) Then the eyes of the blind will be
+&bull; No handicaps, Isaiah 35:5-6, “(5) Then the eyes of the blind will be
 opened and the ears of the deaf will be unstopped. (6) Then the lame
 will leap like a deer, and the tongue of the mute will shout for joy.”
 
-· Nature will return to its pristine state.
+&bull; Nature will return to its pristine state.
 
-- Romans 8:19-22, “(19) For the anxious longing of the creation waits
+-- Romans 8:19-22, “(19) For the anxious longing of the creation waits
 eagerly for the revealing of the sons of God. (20) For the creation was
 subjected to futility, not of its own will, but because of Him who
 subjected it, in hope (21) that the creation itself also will be set
@@ -43686,7 +43684,7 @@ free from its slavery to corruption into the freedom of the glory of the
 children of God. (22) For we know that the whole creation groans and
 suffers the pains of childbirth together until now.”
 
-- Isaiah 11:6-8, “(6) And the wolf will dwell with the lamb, and the
+-- Isaiah 11:6-8, “(6) And the wolf will dwell with the lamb, and the
 leopard will lie down with the young goat, and the calf and the young
 lion and the fatling together; and a little boy will lead them. (7) Also
 the cow and the bear will graze, their young will lie down together, and
@@ -43694,7 +43692,7 @@ the lion will eat straw like the ox. (8) The nursing child will play by
 the hole of the cobra, and the weaned child will put his hand on the
 viper’s den.”
 
-- Isaiah 35:1-2,7: “(1) The wilderness and the desert will be glad, and
+-- Isaiah 35:1-2,7: “(1) The wilderness and the desert will be glad, and
 the Arabah will rejoice and blossom; like the crocus (2) it will blossom
 profusely and rejoice with rejoicing and shout of joy. The glory of
 Lebanon will be given to it, the majesty of Carmel and Sharon. They will
@@ -43702,20 +43700,20 @@ see the glory of the Lord, the majesty of our God… (7) The scorched land
 will become a pool and the thirsty ground springs of water; in the haunt
 of jackals, its resting place, grass becomes reeds and rushes.”
 
-- Isaiah 65:25, “‘The wolf and the lamb will graze together, and the
+-- Isaiah 65:25, “‘The wolf and the lamb will graze together, and the
 lion will eat straw like the ox; and dust will be the serpent’s food.
 They will do no evil or harm in all My holy mountain,’ says the Lord.”
 
-· And all this in spite of man being sinful - yes, still sinful. The
+&bull; And all this in spite of man being sinful - yes, still sinful. The
 human body will remain the same in that the sin nature is transmitted,
 and babies are still born spiritually dead.
 
 (c) The people of the millennium.
 
-· The millennium begins with the 144,000 surviving Jews who were the
+&bull; The millennium begins with the 144,000 surviving Jews who were the
 remnant of the tribulation,
 
-- Isaiah 10:20-22, “(20) Now in that day the remnant of Israel, and
+-- Isaiah 10:20-22, “(20) Now in that day the remnant of Israel, and
 those of the house of Jacob who have escaped, will never again rely on
 the one who struck them, but will truly rely on the Lord, the Holy One
 of Israel. (21) A remnant will return, the remnant of Jacob, to the
@@ -43723,7 +43721,7 @@ mighty God. (22) For though your people, O Israel, may be like the sand
 of the sea, only a remnant within them will return; a destruction is
 determined, overflowing with righteousness.”
 
-- Isaiah 11:11-12, “(11) Then it will happen on that day that the Lord
+-- Isaiah 11:11-12, “(11) Then it will happen on that day that the Lord
 will again recover the second time with His hand the remnant of His
 people, who will remain, from Assyria, Egypt, Pathros, Cush, Elam,
 Shinar, Hamath, and from the islands of the sea. (12) And He will lift
@@ -43731,12 +43729,12 @@ up a standard for the nations and assemble the banished ones of Israel,
 and will gather the dispersed of Judah from the four corners of the
 earth.”
 
-- This reestablishes Israel as God’s client nation and they function as
+-- This reestablishes Israel as God’s client nation and they function as
 originally intended.
 
-· The ruler of the millennium will be Jesus Christ.
+&bull; The ruler of the millennium will be Jesus Christ.
 
-· All of the fallen angels spend the millennium locked in the prison of
+&bull; All of the fallen angels spend the millennium locked in the prison of
 Tartarus, Rev 20:1-3, “(1) Then I saw an angel coming down from heaven,
 holding the key of the abyss and a great chain in his hand. (2) And he
 laid hold of the dragon, the serpent of old, who is the devil and Satan,
@@ -43747,21 +43745,21 @@ things he must be released for a short time.”
 
 (d) The purpose of the millennium.
 
-· The purpose of the millennium is to prove once and for all that when
+&bull; The purpose of the millennium is to prove once and for all that when
 God rules, perfect environment ensues.
 
-· The millennium is God’s final argument in the angelic conflict.
+&bull; The millennium is God’s final argument in the angelic conflict.
 
-· The millennium shows, once and for all, that God was just to the
+&bull; The millennium shows, once and for all, that God was just to the
 fallen angels in eternity past when He passed judgment on them.
 
-- They had no cause to rebel under the just and perfect prehistoric
+-- They had no cause to rebel under the just and perfect prehistoric
 rulership of God.
 
-- Even when they did rebel, God dealt with them justly and doubt offered
+-- Even when they did rebel, God dealt with them justly and doubt offered
 them grace in spite of their rebellion.
 
-- The millennium is the greatest display of all of God’s grace.
+-- The millennium is the greatest display of all of God’s grace.
 
 (e) The end of the millennium is marred by the Gog and Magog revolution,
 Revelation 20:7-10. This violent attempt at the overthrow of God’s
@@ -43973,14 +43971,14 @@ following reasons:
 (a) The high spiritual requirements our Lord laid down as essential for
 entrance into the kingdom.
 
-· The Sermon on the Mount established a spiritual code and an
+&bull; The Sermon on the Mount established a spiritual code and an
 establishment code.
 
-- Christ revealed the spiritual code in the beatitudes.
+-- Christ revealed the spiritual code in the beatitudes.
 
-- Much of what follows the spiritual code is the establishment code.
+-- Much of what follows the spiritual code is the establishment code.
 
-· The offer of Christ was this: that if they would live according to the
+&bull; The offer of Christ was this: that if they would live according to the
 spiritual and establishment code of the Kingdom, He would give to them
 millennial conditions.
 
@@ -44050,7 +44048,7 @@ that foreign country.
 (d) Church age believers are therefore ambassadors, but not yet rulers,
 2 Cor 5:20.
 
-10. Jesus’ response to this effort: “He immediately ordered the
+[10] Jesus’ response to this effort: “He immediately ordered the
 disciples to embark into the boat and to precede Him to the other side
 to Bethsaida, until what time He might release the crowds. And after
 releasing the crowds He went up onto the mountain by Himself to pray.
