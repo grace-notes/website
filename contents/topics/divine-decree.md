@@ -2163,7 +2163,7 @@ template: topic.jade
     a demonstration of His glory and will bring praise to Him.
 
 2.  This is certainly true. God allows evil, and evil in itself is a
-    demonstration of of the goodness of God by way of contrast.
+    demonstration of the goodness of God by way of contrast.
 
 3.  But God does not need evil to show His goodness, and He did not plan
     evil for that purpose.

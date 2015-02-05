@@ -12,7 +12,7 @@ Stephen **7**
 
 from Encyclopedia Britannica (excerpts)
 
-Stephen [Gk Stephanos] was one of of the seven men elected to attend to
+Stephen [Gk Stephanos] was one of the seven men elected to attend to
 the social welfare of the Hellenistic Jewish Christian widows (Acts
 6:5), who made his mark through his understanding of the newness of
 Christianity over against Judaism. Because of his convictions he became

@@ -1,5 +1,6 @@
 ---
-title: "Persecution, Roman"
+title: "Roman Persecution"
+indexTitle: "Persecution, Roman"
 pdf: "persecutionroman.pdf"
 description: "by Philip Schaff, the treatment of Christian believers by Roman authority and citizens."
 template: topic.jade

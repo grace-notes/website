@@ -1,5 +1,6 @@
 ---
-title: "Psalms, Introduction to"
+title: "Introduction to Psalms"
+indexTitle: "Psalms, Introduction to"
 pdf: "psalmsintro.pdf"
 description: "Psalms, Introduction to -  An introduction to the study of the Psalms, and an outline of the First Psalm."
 template: topic.jade

@@ -1,5 +1,6 @@
 ---
-title: "Acts, Outline"
+title: "Outline of Acts"
+indexTitle: "Acts, Outline"
 pdf: "actsoutline.pdf"
 description: "outline of the book of Acts."
 template: topic.jade

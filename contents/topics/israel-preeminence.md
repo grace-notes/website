@@ -1,5 +1,6 @@
 ---
-title: "Israel, The Pre-Eminence of"
+title: "The Pre-Eminence of Israel"
+indexTitle: "Israel, The Pre-Eminence of"
 pdf: "israelpreeminence.pdf"
 description: "Israel, The Pre-Eminence of -  Study of the place of the nation of Israel in the Biblical historical framework."
 template: topic.jade

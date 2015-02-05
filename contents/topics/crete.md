@@ -1,5 +1,6 @@
 ---
-title: "Crete, Brief History"
+title: "Brief History of Crete"
+indexTitle: "Crete, Brief History"
 pdf: "crete.pdf"
 description: "An outline history of Crete and historical comments on the character of the people; a historical supplement to the study of the Epistle to Titus"
 template: topic.jade

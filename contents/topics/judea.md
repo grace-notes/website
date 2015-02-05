@@ -1,5 +1,6 @@
 ---
-title: "Judea, History of"
+title: "History of Judea"
+indexTitle: "Judea, History of"
 pdf: "judea.pdf"
 description: "Judea, History of -  An outline history of the land of Israel from the time of Alexander to Herod the Great; details of the activities of the Hasmonean family (Maccabees); profile of Herod the Great."
 template: topic.jade

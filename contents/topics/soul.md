@@ -1,5 +1,6 @@
 ---
-title: "Soul, The Human"
+title: "The Human of Soul"
+indexTitle: "Soul, The Human"
 pdf: "soul.pdf"
 description: "Man is aware of his own existence and is able to relate to both animate and inanimate life on earth."
 template: topic.jade

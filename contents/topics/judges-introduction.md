@@ -1,5 +1,6 @@
 ---
-title: "Judges, Introduction"
+title: "Introduction to Judges"
+indexTitle: "Judges, Introduction"
 pdf: "judges_introduction.pdf"
 description: "from Commentary on the Old Testament - Leviticus, by C. F. Keil and F. Delitzsch."
 template: topic.jade

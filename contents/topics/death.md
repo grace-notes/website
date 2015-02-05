@@ -1,5 +1,6 @@
 ---
-title: "Death, Seven Types"
+title: "Seven Types of Death"
+indexTitle: "Death, Seven Types"
 pdf: "death.pdf"
 description: "Seven types of death in the Bible."
 template: topic.jade

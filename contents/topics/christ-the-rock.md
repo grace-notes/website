@@ -1,5 +1,6 @@
 ---
-title: "Rock, Jesus Christ the Rock"
+title: "Jesus Christ, the Rock"
+indexTitle: "Rock, Jesus Christ the Rock"
 pdf: "christtherock.pdf"
 description: "Scriptures referring to Jesus Christ as the Rock."
 template: topic.jade

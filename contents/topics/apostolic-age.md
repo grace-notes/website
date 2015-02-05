@@ -1,5 +1,6 @@
 ---
-title: "Apostolic Age, The"
+title: "The Apostolic Age"
+indexTitle: "Apostolic Age, The"
 pdf: "apostolicage.pdf"
 description: "The apostolic period extends from the Day of Pentecost to the death of St. John, and covers about seventy years, from AD 30 to 100."
 template: topic.jade

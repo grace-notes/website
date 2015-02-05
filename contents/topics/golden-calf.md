@@ -1,5 +1,6 @@
 ---
-title: "Golden Calf, The"
+title: "The Golden Calf"
+indexTitle: "Golden Calf, The"
 pdf: "goldencalf.pdf"
 description: "Golden Calf, The -  The golden calf represents the failure of the children of Israel at the Holy Mountain of God."
 template: topic.jade

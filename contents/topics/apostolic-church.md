@@ -1,5 +1,6 @@
 ---
-title: "Apostolic Church, The"
+title: "The Apostolic Church"
+indexTitle: "Apostolic Church, The"
 pdf: "apostolicchurch.pdf"
 description: "The beginnings of the Church in the times of the Apostles."
 template: topic.jade

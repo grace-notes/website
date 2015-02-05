@@ -1,5 +1,6 @@
 ---
-title: "Fellowship, Christian"
+title: "Christian Fellowship"
+indexTitle: "Fellowship, Christian"
 pdf: "fellowship.pdf"
 description: "Fellowship, Christian -  Four areas of relationship [koinonia] for believers in a local church: doctrine, fellowship, breaking of bread, prayer."
 template: topic.jade

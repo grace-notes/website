@@ -1,5 +1,6 @@
 ---
-title: "Four Gospels, The"
+title: "The Four Gospels"
+indexTitle: "Four Gospels, The"
 pdf: "fourgospels.pdf"
 description: "Four Gospels, The -  An introduction to the gospels of Matthew, Mark, Luke and John."
 template: topic.jade

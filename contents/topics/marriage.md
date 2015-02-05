@@ -1,5 +1,6 @@
 ---
-title: "Marriage, Christian"
+title: "Christian Marriage"
+indexTitle: "Marriage, Christian"
 pdf: "marriage.pdf"
 description: "Marriage, Christian -  Thorough treatment on the subject of marriage in the Bible."
 template: topic.jade

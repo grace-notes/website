@@ -1,5 +1,6 @@
 ---
-title: "Peace of God, and Peace with God"
+title: "and Peace with God of Peace of God"
+indexTitle: "Peace of God, and Peace with God"
 pdf: "peace.pdf"
 description: "Peace of God, and Peace with God -  How to have peace with God and the peace of God. One of the important stability doctrines and Biblical treatments for depression."
 template: topic.jade

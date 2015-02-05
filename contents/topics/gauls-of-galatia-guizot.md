@@ -1,6 +1,7 @@
 ---
 title: "Gauls of Galatia"
 pdf: "gauls_of_galatia(guizot).pdf"
+author: "François Pierre Guillaume Guizot"
 description: "from Guizot's History of France; the Galatians were Gauls from Europe."
 template: topic.jade
 ---

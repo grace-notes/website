@@ -1,5 +1,6 @@
 ---
-title: "Bunyan, John"
+title: "John Bunyan"
+indexTitle: "Bunyan, John"
 pdf: "bunyanjohnlife.pdf"
 description: "the life of the great Christian author of Pilgrim's Progress."
 template: topic.jade

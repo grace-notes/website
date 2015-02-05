@@ -1,5 +1,6 @@
 ---
-title: "Gospel, The"
+title: "The Gospel"
+indexTitle: "Gospel, The"
 pdf: "gospel.pdf"
 description: "Gospel, The -  The use of the term \"gospel\" in the New Testament - the \"good news\" of salvation."
 template: topic.jade

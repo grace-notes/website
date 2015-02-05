@@ -1,5 +1,6 @@
 ---
-title: "Music, Christian"
+title: "Christian Music"
+indexTitle: "Music, Christian"
 pdf: "music.pdf"
 description: "Music, Christian -  What the Bible says about Christian singing; psalms, hymns, spiritual songs; doctrinal content of a few well-known hymns."
 template: topic.jade

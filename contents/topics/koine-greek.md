@@ -1,5 +1,6 @@
 ---
-title: "Koine Greek, History of"
+title: "History of Koine Greek"
+indexTitle: "Koine Greek, History of"
 pdf: "koinegreek.pdf"
 description: "how the common Greek of the New Testament was formed."
 template: topic.jade

@@ -1,5 +1,6 @@
 ---
-title: "Acts, Historical Background"
+title: "Historical Background of Acts"
+indexTitle: "Acts, Historical Background"
 pdf: "actshistoricalbackground.pdf"
 description: "chronology, and some of the political background of the Acts of the Apostles."
 template: topic.jade
