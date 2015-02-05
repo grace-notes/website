@@ -1,9 +1,10 @@
 $ = jQuery
 
-$(document).load ->
-  filterTopics(document.location.hash.substr(1))
 $(document).ready ->
+  filterTopics(document.location.hash.substr(1))
+
   $('.topic-index a').attr('id', '')
+
   $('body').on 'click', '.topic-index a', (e)->
     e.preventDefault()
     filterTopics(e.target.href.split('#').pop())
