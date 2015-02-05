@@ -9,7 +9,7 @@
     "./plugins/paginator.coffee",
     "./node_modules/wintersmith-sass",
     "./node_modules/wintersmith-coffee",
-    "./node_modules/wintersmith-showdown/"
+    "./plugins/pandoc.coffee"
   ],
   "require": {
     "moment": "moment",

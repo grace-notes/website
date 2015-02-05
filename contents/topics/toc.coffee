@@ -1,10 +1,11 @@
 $ = jQuery
 
 $(document).ready ->
-  $('.topic-index a').click (e)->
+  $('body').on 'click', '.topic-index a', (e)->
     e.preventDefault()
-    if $(this).attr('href') is "#all"
+    link = e.target
+    if $(link).attr('href') is "#all"
       $('.listing').show()
     else
       $('.listing').hide()
-      $('.listing[data-initial='+$(this).attr('href').substr(1)+']').show()
+      $('.listing[data-initial='+$(link).attr('href').substr(1)+']').show()

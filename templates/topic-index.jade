@@ -4,18 +4,22 @@ block header
   h1 Topics Library
 
 block content
+  - var topics = Object.keys(contents.topics).sort();
   ul.topic-index
     - var alphabet = {};
-    each article in contents.topics
-      - alphabet[article.filename.split('/').pop().toLowerCase().substr(0,1)] = 1
+    each article in topics
+      - if (!contents.topics[article].html) continue
+      - alphabet[article.toLowerCase().substr(0,1)] = 1
     each val, letter in alphabet
       li
         a(href='#'+letter)= letter
     li
       a(href='#all') all
 
-  - var initial, id, attributes;
-  each article in contents.topics
+  - var initial, id, attributes, article;
+  each filename in topics
+    - article = contents.topics[filename]
+    - if (!article.html) continue
     - initial = article.filename.split('/').pop().toLowerCase().substr(0, 1);
     - attributes = { 'data-initial': initial }
     if initial != id

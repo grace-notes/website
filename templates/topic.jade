@@ -11,16 +11,8 @@ block header
 
 
 block content
-  if page.metadata.toc
-    h2 Table of Contents
-    ul.table-of-contents
-      - var headings = [], matches, re = /<h2[^>]*id="([^"]+)"[^>]*>([^<]*)<\/h2>/g
-      - while ((matches = re.exec(page.html)) !== null) { headings.push({ id: matches[1], title: matches[2] }); }
-      each heading in headings
-        li: a(href="#"+heading.id)= heading.title
-    
   article.article
-    section.content!= typogr(page.html).chain().amp().widont().smartypants().caps().initQuotes().value()
+    section.content!= typogr(page.html).chain().widont().smartypants().value().replace(/(<div id="TOC">[\s\S]*<\/div>)([\s\S]+?)(<h2)/, "$2<h2>Table of Contents</h2>$1$3")
 
 block prepend footer
   div.nav
