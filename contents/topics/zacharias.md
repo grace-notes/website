@@ -5,10 +5,6 @@ description: "Zacharias Presenting Incense in the Temple -  A description of the
 template: topic.jade
 ---
 
-
-**Zacharias 2**
-
-Zacharias Presenting Incense  
 **Luke 1:5-25**
 
 There were, each day, about 50 priests on duty in the Temple. In the
@@ -24,12 +20,12 @@ The coals of the previous day’s fire still glowed on the altar of burnt
 offering. A priest, chosen by lot, stirred the fire into fresh flame.
 Then another lot was taken to designate:
 
-• Those who were to take part in the sacrifice itself
+* Those who were to take part in the sacrifice itself
 
-• Those in the Holy Place who were to trim the wicks of the golden
+* Those in the Holy Place who were to trim the wicks of the golden
 candlestick (Menorah) and to add oil, and
 
-• Those who were to prepare the altar of incense
+* Those who were to prepare the altar of incense
 
 By now, morning had broken and, before the worshippers were admitted,
 the sacrificial lamb was brought out and inspected for its fitness for

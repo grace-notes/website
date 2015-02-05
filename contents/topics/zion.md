@@ -3,32 +3,26 @@ title: "Zion"
 pdf: "zion.pdf"
 description: "one page study giving the Bible references and definitions for Zion, a word that means \"grace.\""
 template: topic.jade
+author: "R. B. Thieme, Jr., Pastor, Berachah Church, Houston, Texas"
 ---
 
-
-**Zion 2**
-
-**Zion**
-
-**by R. B. Thieme, Jr., Pastor, Berachah Church, Houston, Texas**
-
-### Definition.
+## Definition
 
 Zion teaches that Jesus Christ controls history.
 
-The word “Zion” means grace,
-
-Psalm 2:4-6. Zion represents the whole system of grace theology.
+The word “Zion” means grace: Psalm 2:4-6. Zion represents the whole system of grace theology.
 
 Zion was the place where Abraham offered Isaac. It is the place near
 where Christ was crucified and will return. It is the location of the
 Temple. It is “God’s holy mountain.”
 
+## Zion in Scripture
+
 ### Zion commemorates grace deliverance.
 
 All mature believers can anticipate deliverance in time of adversity.
 
-Psalm 9: 9-14
+Psalm 9:9-14
 
 ### Zion personifies the restoration of Israel.
 
@@ -57,7 +51,7 @@ It represents the shining forth of divine essence.
 Israel will be gathered again as a nation. Zion represents the
 fulfillment of the unconditional covenants to Israel.
 
-Psalm 69: 35-36
+Psalm 69:35-36
 
 ### Zion is a reminder of military victory,
 
@@ -65,7 +59,7 @@ Psalm 76:1-3.
 
 ### Zion is associated with David’s promotion,
 
-Psalm 78:68, 70.
+Psalm 78:68,70.
 
 ### Zion is associated with prayer, and refers to the power and effectiveness of prayer,
 
@@ -98,5 +92,4 @@ Psalm 137:1.
 
 Psalm 126.
 
-====================
-
+---

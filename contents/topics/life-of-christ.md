@@ -5,7 +5,7 @@ pdf: "lifeofchrist.pdf"
 description: "the Person and Work of Christ, from His presence in eternity past, through His ministry in the feeding of the 5000."
 template: topic.jade
 author: Pastor Mark Perkins
-toc: yes
+tableOfContents: yes
 ---
 
 Historical Introduction
@@ -693,7 +693,7 @@ on the downward side of history for quite some time. It is important to
 take a look at the principles of the cosmic system related to history in
 order to fully understand the period in question.
 
-### General Principles of the Cosmic System.
+### General Principles of the Cosmic System
 
 Human history is the resolution of the prehistoric angelic conflict. In
 order to vindicate himself and His judgment of the fallen angels, God
@@ -805,7 +805,7 @@ The characteristics of the Satanic millennium.
 --   Dishonesty, obfuscation, evasiveness, and a lack of veracity. (All
     this sounds like U.S. politics today).
 
-### The Fight Against the Divine Millennium.
+### The Fight Against the Divine Millennium
 
 Satan is constantly fighting against the Divine plan for human history.
 Satan thinks that if he can destroy or delay the Divine millennium, he
@@ -818,7 +818,7 @@ attacks in history against the Divine Millennium: the attack against
 Christ, and the attack against the Jews. These attacks are tantamount to
 murdering the witnesses of a trial, so that they cannot testify.
 
-### The Attacks against Christ.
+### The Attacks against Christ
 
 Jesus Christ will be the world ruler during the Divine Millennium, and
 His rulership will be fantastic.
@@ -901,7 +901,7 @@ reservation of judgment.
 As a national entity, we are to provide a haven for the Jews, so that
 they might be free from racial prejudice.
 
-### Conclusion.
+### Conclusion
 
 Although these demonically inspired attacks are terrible in their
 intensity and genius, they have no chance of succeeding. God will
@@ -917,7 +917,7 @@ cosmic system. The propaganda branch is an expression of Satanic genius
 and the demonic organization. Human beings are an important element in
 the propaganda branch.
 
-### The Promotion of the Cosmic Counterfeits and Lies.
+### The Promotion of the Cosmic Counterfeits and Lies
 
 The cosmic system has an elaborate scheme of counterfeits and lies.
 These counterfeits and lies are designed to supplant the truth. The
@@ -958,7 +958,7 @@ attack on the Word.
 Rome at the Time of Christ
 --------------------------
 
-### The Roman Environment During the Life of Christ.
+### The Roman Environment During the Life of Christ
 
 The Pax Romanus.
 
@@ -997,7 +997,7 @@ of Christ.
 The Jews (and especially the Pharisees and Zealots) had absolutely
 nothing to complain about. The peace of Rome was very pro-establishment.
 
-### Koine’ Greek, the Language of the Roman Empire.
+### Koine’ Greek, the Language of the Roman Empire
 
 Koine’ Greek was the language of Alexander’s conquest. Attic Greek was a
 difficult language to master. When Alexander expanded the Greek empire
@@ -1105,7 +1105,7 @@ written from this frame of reference.
 The Four Gospels
 ----------------
 
-### General Introduction.
+### General Introduction
 
 In the middle of the 6th decade of the first century, Christianity had
 reached a crisis. Nero had begun his persecutions, and the Romans had
@@ -1459,7 +1459,7 @@ transition.
 
 ### The Gospel of Mark
 
-#### The Author(s) Mark and Peter.
+#### The Author(s) Mark and Peter
 
 There are really two persons behind the writing of this gospel. The one
 who gave dictation, Peter, and the one who received it, Mark.
@@ -1571,7 +1571,7 @@ It is not clear whether Mark actually composed this gospel before or
 after Peter’s death. It is not important. This was a really hard time
 for believers in Jesus Christ, and especially so in Rome.
 
-#### The Intended Readers of Mark’s Gospel.
+#### The Intended Readers of Mark’s Gospel
 
 It is most likely that Peter (and Mark) had a Gentile audience in mind.
 This is especially interesting since Peter began with a prejudice
@@ -1631,7 +1631,7 @@ give it. The contrast would be striking.
 Chronological Apparently, Mark’s gospel follows closely the actual
 chronological order of events in the life of Christ.
 
-### The Gospel of Luke.
+### The Gospel of Luke
 
 #### The Author Luke
 
@@ -1674,7 +1674,7 @@ would have been valuable in ministering to other Gentiles. Remember,
 most of the missionary teams were Jewish, and Paul’s ministry at first
 concentrated on teaching at synagogues.
 
-#### Circumstances and Target Readership.
+#### Circumstances and Target Readership
 
 Luke wrote in about 6667 AD He wrote his gospel, and later the Acts of
 the Apostles, to a man by the name of Theophilus. He probably wrote from
@@ -1809,7 +1809,7 @@ ideas.
 He was the key figure in the transition from the pre-canon period to the
 post canon period.
 
-#### Circumstances of Writing the Gospel.
+#### Circumstances of Writing the Gospel
 
 John wrote about 20 years after the completion of the synoptic gospels.
 
@@ -1869,7 +1869,7 @@ In order to do so, he attempts to establish Jesus as the Son of God and
 the Messiah (Christ), and reestablish the Word of God as the authority
 and the Truth.
 
-#### The Characteristics of the Gospel.
+#### The Characteristics of the Gospel
 
 The gospel is very simple in the use of the Greek language and writing
 style.
@@ -1968,7 +1968,7 @@ The reasons varied. It could be that the information was no longer
 available, or that the genealogist considered a certain generation
 unimportant. The reason does not matter. Just keep this fact in mind.
 
-### Luke’s Genealogy.
+### Luke’s Genealogy
 
 Luke’s genealogy is unique in that it traces its line in the opposite
 direction from the norm. However, we will start with Adam and go
@@ -2899,7 +2899,7 @@ This line covers the age of the patriarchs, from God’s covenant with
 Abraham to the next covenant with David. Its chronology runs from
 Abraham’s birth in 2160 B.C. to Israel under king Saul in 1004 B.C.
 
-#### Abraham.
+#### Abraham
 
 **Gen. 12:13** records Abram’s first call:
 
@@ -4505,7 +4505,7 @@ birth to Christ. She is no different as far as we are concerned than any
 other mature believer. Christ Himself warns against Mariolatry in Luke
 11:2728.
 
-### The Arrival of an Angel.
+### The Arrival of an Angel
 
 **Luke 1:26-28**, “Now in the sixth month the angel Gabriel was went
 from God to a city in Galilee, called Nazareth, to a virgin engaged to a
@@ -4704,7 +4704,7 @@ history of her nation and its heroes.
 The Birth of Christ
 -------------------
 
-### Joseph Has a Dream.
+### Joseph Has a Dream
 
 **Matt 1:18-25**, “Now the birth of Jesus Christ was as follows. When
 His mother Mary had been betrothed to Joseph, before their union, she
@@ -5573,7 +5573,7 @@ mistake in the arrangement of your priorities.
 The Visit of the Magi
 ---------------------
 
-#### Gold, Frankincense, and Myrrh.
+#### Gold, Frankincense, and Myrrh
 
 **Matt. 2:1-12**
 
@@ -5962,7 +5962,7 @@ Remember from our dispensational constants two things:
 The Event at the Temple
 -----------------------
 
-#### Luke 2:41-50.
+#### Luke 2:41-50
 
 [Translations the author’s from the Greek]
 
@@ -8309,7 +8309,7 @@ reference to the Passover feast.
 
 The Documentation. Ex 12:320; Lev 23:6; Deut 16:18; Num 28:1625.
 
-#### The Procedure.
+#### The Procedure
 
 A lamb without spot or blemish is slain by the head of each family.
 
@@ -8335,7 +8335,7 @@ The Sabbath was observed on the first and last days of the feast, but
 the entire week was treated as a Sabbath with reference to work. Only
 work for food preparation was allowed.
 
-#### The interpretation.
+#### The interpretation
 
 The wilderness journey.
 
@@ -14411,7 +14411,7 @@ Although they were politically correct (not in the modern sense), they
 were morally wrong, and in this they were most similar to the southern
 U.S. in the early 1800’s.
 
-### Judas Iscariot, the Traitor.
+### Judas Iscariot, the Traitor
 
 All four of the gospels reveal before the fact that Judas will betray
 Jesus Christ, Matt 10:4; Mk 8:19; Luk 6:15; John 6:71.
@@ -14483,7 +14483,7 @@ spiritual footing as men. As a result, Christ gained many women
 followers who were in many ways more valuable than even His closest
 disciples.
 
-### Salome. Mk 15:40; 16:1.
+### Salome. Mk 15:40; 16:1
 
 She is the mother of James and John, the husband of Zebedee; she is
 Mary, Jesus’ mother’s sister, and so the aunt of Jesus Christ.
@@ -16994,7 +16994,7 @@ Christ specifically points out that His willpower is involved. This
 works in conjunction with His spiritual gift. Our willpower works the
 same way with our gifts.
 
-### The Equality and Superiority of the Son, vv.22-30.
+### The Equality and Superiority of the Son, vv.22-30
 
 His authority to judge, “22 For not even the Father judges anyone, but
 He has given all judgment to the Son.”
@@ -24575,58 +24575,31 @@ a. Those who seek will find it.
 
 b. Did Frost have this in mind when he wrote:
 
-Two roads diverged in a yellow wood,
-
-And sorry I could not travel both
-
-And be one traveler, long I stood
-
-And looked down one as far as I could
-
-To where it bent in the undergrowth;
-
-
-
-
-Then took the other, as just as fair;
-
-And having perhaps the better claim,
-
-Because it was grassy and wanted wear;
-
-Though as for that the passing there
-
-Had worn them really about the same,
-
-
-
-
-And both that morning equally lay
-
-In leaves no step had trodden black.
-
-Oh, I kept the first for another day!
-
-Yet knowing how way leads on to way,
-
-I doubted if I should ever come back.
-
-
-
-
-I shall be telling this with a sigh
-
-Somewhere ages and ages hence:
-
-Two roads diverged in a wood, And I
-
-I took the one less traveled by,
-
-And that has made all the difference.
-
-Robert Frost (18751963)
-
-
+> Two roads diverged in a yellow wood,  
+> And sorry I could not travel both  
+> And be one traveler, long I stood  
+> And looked down one as far as I could  
+> To where it bent in the undergrowth;  
+>
+> Then took the other, as just as fair;  
+> And having perhaps the better claim,  
+> Because it was grassy and wanted wear;  
+> Though as for that the passing there  
+> Had worn them really about the same,  
+>
+> And both that morning equally lay  
+> In leaves no step had trodden black.  
+> Oh, I kept the first for another day!  
+> Yet knowing how way leads on to way,  
+> I doubted if I should ever come back.  
+>
+> I shall be telling this with a sigh  
+> Somewhere ages and ages hence:  
+> Two roads diverged in a wood, And I  
+> I took the one less traveled by,  
+> And that has made all the difference.  
+>
+> Robert Frost (1875-1963)  
 
 
 D. Distinctions among prophets, vv. 15-20 (Luke 6:43-45).
@@ -34708,35 +34681,24 @@ reason every scribe after becoming a disciple in the kingdom of the
 heavens is like a man who is the head of a household, who casts out from
 his treasury new things and old things.’
 
-An outline:
+### An outline
 
-The parable of leaven.
+- The parable of leaven.
+- Christ’s strategy for the parables.
+- As many as the people could hear.
+- A full explanation to His disciples in private.
+- The fulfillment of a prophecy.
+- The parable of the hidden treasure.
+- The parable of the pearl of great value.
+- The parable of the dragnet.
+- The parable.
+- The explanation of the parable of the dragnet.
+- Christ’s questioning of His disciples and their brief reply.
+- The last parable - the parable of the Scribe.
 
-Christ’s strategy for the parables.
+### The exposition
 
-As many as the people could hear.
-
-A full explanation to His disciples in private.
-
-The fulfillment of a prophecy.
-
-The parable of the hidden treasure.
-
-The parable of the pearl of great value.
-
-The parable of the dragnet.
-
-The parable.
-
-The explanation of the parable of the dragnet.
-
-Christ’s questioning of His disciples and their brief reply.
-
-The last parable - the parable of the Scribe.
-
-II. The exposition.
-
-The parable of the leaven.
+#### The parable of the leaven
 
 “He spoke to them another parable: the kingdom of the heavens is like
 leaven, which a woman after taking hid it into three pecks of meal,
@@ -34823,12 +34785,14 @@ But they must have influence from others in order to make the change.
 Someone must provide information so that the change is in fact
 available.
 
-Christ’s strategy for the parables. “And He was speaking the word to
-them with many such parables as they were able to hear, but He was
-explaining everything privately to His own disciples. So that what was
-spoken through the prophet might be fulfilled, saying, ‘I will open My
-mouth in parables; I will utter things which have been hidden since the
-foundation of the world.’”
+#### Christ’s strategy for the parables
+
+“And He was speaking the word to them with many such
+parables as they were able to hear, but He was explaining
+everything privately to His own disciples. So that what was
+spoken through the prophet might be fulfilled, saying, ‘I
+will open My mouth in parables; I will utter things which
+have been hidden since the foundation of the world.’”
 
 Mark employs the Greek phrase TOIAUTAIS PARABOLOAIS POLLAIS - many such
 parables.
@@ -34910,7 +34874,7 @@ Those policies were conceived by God the Father at the foundation of the
 world.
 
 (1) Matthew employs the phrase APO KATABOLES KOSMOU in order to do this
-- literally, ‘from the foundation of the world.’
+-- literally, ‘from the foundation of the world.’
 
 (2) KATABOLES is foundation, and it concentrates entirely upon the
 original creation of planet earth, some 4.5 billion years ago.
@@ -34972,10 +34936,11 @@ set forth to the world.
 dispensation; that He is the Messiah, and that He has brought His
 kingdom.
 
-The parable of the hidden treasure, Matthew 13:44, “The kingdom of the
-heavens is like a treasure which has been hidden in the field, which a
-man after finding hid, and from his joy goes and sells all which he has,
-and buys that field.”
+#### The parable of the hidden treasure
+
+Matthew 13:44, “The kingdom of the heavens is like a treasure which has
+been hidden in the field, which a man after finding hid, and from his
+joy goes and sells all which he has, and buys that field.”
 
 Some time ago, a treasure was hidden in a field. Someone comes and finds
 it, and before he can claim the treasure he must own the property. So he
@@ -34983,8 +34948,8 @@ goes and sells all his possessions so that he might buy the field. You
 have heard this story many times with many different variations.
 
 In Perry Eberhart’s classic book, Treasure Tales of the Rockies there
-are more 125 tales of lost mines and treasures centered in the state of
-Colorado alone.
+are more than 125 tales of lost mines and treasures centered in the
+state of Colorado alone.
 
 Some treasure tales are true, a very few are enough to produce hundreds
 and thousands of stories of lost treasure.
@@ -35468,10 +35433,12 @@ paradise of God and the tree of life.
 (b) And all of these things are eternal and never pass away. You have
 become a hero forever.
 
-The parable of the pearl of great price, Matthew 13:45-46, “ (45) Again,
-the kingdoms of the heavens is like a merchant man seeking fine pearls;
-(46) and after finding one pearl of great value, after going forth he
-has sold everything which he had, and he bought it.”
+#### The parable of the pearl of great price
+
+Matthew 13:45-46, “ (45) Again, the kingdoms of the heavens
+is like a merchant man seeking fine pearls; (46) and after
+finding one pearl of great value, after going forth he has
+sold everything which he had, and he bought it.”
 
 This one is remarkably like the last, but is included by Christ in the
 same speech for emphasis.
@@ -35553,7 +35520,9 @@ And in exchange for this we gain all of the rewards I have mentioned
 above. The relationship with God through Jesus Christ is a pearl of
 great price, but the price is much more than worth it.
 
-The Parable of the Dragnet, Matthew 13:47-50, “(47) Again the kingdom of
+#### The Parable of the Dragnet
+
+Matthew 13:47-50, “(47) Again the kingdom of
 the heavens is like a dragnet which after being cast into the sea and
 after gathering [fish] of every kind; (48) which after it has been
 filled, after being dragged up on the beach and after sitting down they
@@ -35628,7 +35597,9 @@ closest that we human beings will ever come to this responsibility.
 (5) This also connects the judgment of humanity with the angelic
 conflict, and points to the stark reality of that conflict.
 
-The Final Parable, Matthew 13:51-52, “(51) Do you understand all these
+#### The Final Parable
+
+Matthew 13:51-52, “(51) Do you understand all these
 things?’ They said to Him, ‘Yes.’ (52) But He said to them, ‘For this
 reason every scribe after becoming a disciple in the kingdom of the
 heavens is like a man who is the head of a household, who casts out from
@@ -35712,7 +35683,7 @@ knowledge out of the attic of their brains. Therefore if they say they
 have understood anything, it is a danger that they have understood
 nothing. Christ wants them to think again.
 
-III. A Summary of the Parables and Their Meaning.
+### A Summary of the Parables and Their Meaning
 
 The parable of the seeds. “An evangelist goes out to evangelize.
 Sometimes the gospel goes to those who are not interested, and refuse to
@@ -36974,9 +36945,6 @@ They have the great scoop about the end of the reign of terror, and so
 they go and announce it to the city, and to the people in the region
 that was dominated by this demon-possessed man.
 
-
-
-
 Their announcement especially concentrates on the demon-possessed man.
 In reality, they have missed the significance of this.
 
@@ -37179,9 +37147,9 @@ Mark 5:21-43
 
 Luke 8:40-56
 
-Exposition.
+## Exposition
 
-The Setting:
+### The Setting
 
 The circumstances. “And after Jesus crossed over in the boat again to
 the other side, a great crowd was gathered upon it, and He was by the
@@ -37227,7 +37195,7 @@ something, like we say in the English.
 Whatever the motive, they were still there, and anxious to see and hear
 Him.
 
-The Plight of Jairus.
+### The Plight of Jairus
 
 The arrival of Jairus. “And one of the rulers of the synagogue came,
 named Jairus, who was always at the disposal of the [other] rulers of
@@ -37348,7 +37316,9 @@ rabbi. There was no ordination requirement.
 &bull; The passage would be interpreted verse by verse in the language of the
 people.
 
-The plea of Jairus. “And seeing Him, he fell at His feet and exhorted
+### The plea of Jairus
+
+“And seeing Him, he fell at His feet and exhorted
 Him to come into his house with strong words, ‘My daughter has come to
 the last, I came in order that after coming You might lay hands upon her
 that she might be saved and might live.’”
@@ -37499,10 +37469,11 @@ Christ.
 only-born son. He knew that God would be faithful.
 
 (8) And Abraham received Isaac back from the dead in a figurative sense
-- and so would God in a literal sense.
+-- and so would God in a literal sense.
 
-Jesus’ decision. “And Jesus after rising followed him, and the disciples
-likewise.”
+### Jesus’ decision
+
+“And Jesus after rising followed him, and the disciples likewise.”
 
 Christ had the power in the Spirit to stop the girl from dying as He had
 done with the royal official’s daughter earlier.
@@ -37514,7 +37485,7 @@ perception of what He was and how He healed.
 And more than that, Christ was under the guidance of the Spirit to do
 this in representation of His own coming ordeal.
 
-The Incident on the Way.
+### The Incident on the Way
 
 The crowded conditions on the way. “And a great crowd followed and was
 pressing in on Him.”
@@ -37531,7 +37502,7 @@ But on this day He is going to have compassion on a man of faith, and at
 the same time He is going to make a healing into a nearly unmistakable
 symbol of salvation and healing from sin.
 
-The description of the afflicted woman.
+### The description of the afflicted woman
 
 Her condition. “And a woman who was continuously with a flow of blood
 for twelve years.”
@@ -37639,7 +37610,7 @@ the healing ministry of Jesus Christ.
 to heal or to do a miracle of any kind. He was given that power in His
 humanity thanks to God the Holy Spirit.
 
-Jesus’ response to her action.
+### Jesus’ response to her action
 
 His perception of the healing. “And immediately Jesus, after fully
 knowing in Himself the power had gone out from Him,”
@@ -37922,7 +37893,7 @@ and the confession of sin when failure is encountered.
 
 (i) This is remarkably similar to Romans 5:1: “Therefore having been
 justified from faith, let us have peace with God through our Lord Jesus
-Christ…”
+Christ...”
 
 (j) There is a pretty good chance that Paul had heard of this woman, and
 had this incident in mind when he wrote those important words.
@@ -37936,7 +37907,7 @@ the physical and the spiritual were joined in this woman.
 repulsive ailment, then there is no sin which causes Him to flinch or
 shy away.
 
-The Occurrence at Jairus’ House.
+### The Occurrence at Jairus’ House
 
 The arrival of the messenger, the terrible news, and the conclusion of
 the messengers. “While He was still speaking they arrived from the

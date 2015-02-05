@@ -2,7 +2,7 @@
 title: Talmud - 39 Categories Of Work
 template: topic.jade
 description: Outline of the Talmud's categories of ritual work.
-toc: true
+tableOfContents: true
 ---
 
 
