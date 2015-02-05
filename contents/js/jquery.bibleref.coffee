@@ -2,7 +2,7 @@ $ = jQuery
 
 patterns = {
   "Genesis": "Gen(esis)?"
-  "Exodus": "Ex(odus)?"
+  "Exodus": "Ex(od(us)?)?"
   "Leviticus": "Lev(iticus)?"
   "Numbers": "Num(bers)?"
   "Deuteronomy": "Deut?(eronomy)?"
@@ -84,7 +84,11 @@ replacement = (match, p1, p2, p3)->
 
 $(document).ready ->
 
-  $("p,li,dd,dt,td,q,blockquote").html (index, html)->
-    return html.replace(allBooksRegEx, replacement)
+  $("body").on "mouseover", "p,li,dd,dt,td,q,blockquote", (e)->
+    if $(this).data("bibleref") is "finished" then return
+
+    $(this).html (index, html)->
+      return html.replace(allBooksRegEx, replacement)
+    $(this).data("bibleref", "finished")
 
 
