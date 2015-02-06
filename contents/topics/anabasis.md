@@ -3,15 +3,11 @@ title: "Anabasis"
 pdf: "anabasis.pdf"
 description: "by Xenophon, The March of the Ten Thousand. The most famous work of the Greek professional soldier and writer Xenophon. The journey it narrates is his best known accomplishment and \"one of the great adventures in human history.\""
 template: topic.jade
+author: Xenophon
+tableOfContents: yes
 ---
 
-**Xenophon’s *Anabasis* 109**
-
-**ANABASIS**
-
-By Xenophon
-
-Translation by H. G. Dakyns
+*Translation by H. G. Dakyns*
 
 Xenophon the Athenian was born 431 B.C. He was a pupil of Socrates. He
 marched with the Spartans, and was exiled from Athens. Sparta gave him
@@ -23,8 +19,7 @@ enlisted Greek help to try and take the throne from Artaxerxes, and the
 ensuing return of the Greeks, in which Xenophon played a leading role.
 This occurred between 401 B.C. and March 399 B.C.
 
-BOOK I
-======
+## BOOK I
 
 Darius and Parysatis had two sons: the elder was named Artaxerxes, and
 the younger Cyrus. Now, as Darius lay sick and felt that the end of life
@@ -34,8 +29,7 @@ province over which he had made him satrap, having appointed him general
 moreover of all the forces that muster in the plain of the Castolus.
 Thus Cyrus went up, taking with him Tissaphernes as his friend, and
 accompanied also by a body of Hellenes, three hundred heavy armed men,
-under the command of Xenias the Parrhasian.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+under the command of Xenias the Parrhasian.[^1]
 
 Now when Darius was dead, and Artaxerxes was established in the kingdom,
 Tissaphernes brought slanderous accusations against Cyrus before his
@@ -81,37 +75,34 @@ belonged to Tissaphernes.
 A third army was being collected for him in the Chersonese, over against
 Abydos, the origin of which was as follows: There was a Lacedaemonian
 exile, named Clearchus, with whom Cyrus had become associated. Cyrus
-admired the man, and made him a present of ten thousand darics
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>. Clearchus took the gold,
-and with the money raised an army, and using the Chersonese as his base
-of operations, set to work to fight the Thracians north of the
-Hellespont, in the interests of the Hellenes, and with such happy result
-that the Hellespontine cities, of their own accord, were eager to
-contribute funds for the support of his troops. In this way, again, an
-armament was being secretly maintained for Cyrus.
+admired the man, and made him a present of ten thousand darics[^2].
+Clearchus took the gold, and with the money raised an army, and using
+the Chersonese as his base of operations, set to work to fight the
+Thracians north of the Hellespont, in the interests of the Hellenes, and
+with such happy result that the Hellespontine cities, of their own
+accord, were eager to contribute funds for the support of his troops. In
+this way, again, an armament was being secretly maintained for Cyrus.
 
-Then there was the Thessalian Aristippus, Cyrus’s friend
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>, who, under pressure of
-the rival political party at home, had come to Cyrus and asked him for
-pay for two thousand mercenaries, to be continued for three months,
-which would enable him, he said, to gain the upper hand of his
-antagonists. Cyrus replied by presenting him with six months’ pay for
-four thousand mercenaries–only stipulating that Aristippus should not
-come to terms with his antagonists without final consultation with
+Then there was the Thessalian Aristippus, Cyrus’s friend [^3], who,
+under pressure of the rival political party at home, had come to Cyrus
+and asked him for pay for two thousand mercenaries, to be continued for
+three months, which would enable him, he said, to gain the upper hand of
+his antagonists. Cyrus replied by presenting him with six months’ pay
+for four thousand mercenaries–only stipulating that Aristippus should
+not come to terms with his antagonists without final consultation with
 himself. In this way he secured to himself the secret maintenance of a
 fourth armament.
 
 Further, he bade Proxenus, a Boeotian, who was another friend, get
 together as many men as possible, and join him in an expedition which he
-meditated against the Pisidians
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup>, who were causing
-annoyance to his territory. Similarly two other friends, Sophaenetus the
-Stymphalian, and Socrates the Achaean, had orders to get together as
-many men as possible and come to him, since he was on the point of
-opening a campaign, along with Milesian exiles, against Tissaphernes.
-These orders were duly carried out by the officers in question.
+meditated against the Pisidians [^4], who were causing annoyance to his
+territory. Similarly two other friends, Sophaenetus the Stymphalian, and
+Socrates the Achaean, had orders to get together as many men as possible
+and come to him, since he was on the point of opening a campaign, along
+with Milesian exiles, against Tissaphernes.  These orders were duly
+carried out by the officers in question.
 
-II
+### II ###
 
 But when the right moment seemed to him to have come, at which he should
 begin his march into the interior, the pretext which he put forward was
@@ -134,10 +125,9 @@ cities, four thousand hoplites; Proxenus, also, with fifteen hundred
 hoplites and five hundred light-armed troops; Sophaenetus the
 Stymphalian, with one thousand hoplites; Socrates the Achaean, with five
 hundred hoplites; while the Megarion Pasion came with three hundred
-hoplites and three hundred peltasts
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup>. This latter officer, as
-well as Socrates, belonged to the force engaged against Miletus. These
-all joined him at Sardis.
+hoplites and three hundred peltasts [^5]. This latter officer, as well
+as Socrates, belonged to the force engaged against Miletus. These all
+joined him at Sardis.
 
 But Tissaphernes did not fail to note these proceedings. An equipment so
 large pointed to something more than an invasion of Pisidia: so he
@@ -148,25 +138,23 @@ counter-preparations.
 
 Thus Cyrus, with the troops which I have named, set out from Sardis, and
 marched on and on through Lydia three stages, making two-and-twenty
-parasangs <sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>, to the river
-Maeander. That river is two hundred feet broad
-<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup>, and was spanned by a
-bridge consisting of seven boats. Crossing it, he marched through
-Phrygia a single stage, of eight parasangs, to Colossae, an inhabited
-city <sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup>, prosperous and
-large. Here he remained seven days, and was joined by Menon the
-Thessalian, who arrived with one thousand hoplites and five hundred
-peltasts, Dolopes, Aenianes, and Olynthians. From this place he marched
-three stages, twenty parasangs in all, to Celaenae, a populous city of
-Phrygia, large and prosperous. Here Cyrus owned a palace and a large
-park <sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> full of wild beasts,
-which he used to hunt on horseback, whenever he wished to give himself
-or his horses exercise. Through the midst of the park flows the river
-Maeander, the sources of which are within the palace buildings, and it
-flows through the city of Celaenae. The great king also has a palace in
-Celaenae, a strong place, on the sources of another river, the Marsyas,
-at the foot of the acropolis. This river also flows through the city,
-discharging itself into the Maeander, and is five-and-twenty feet broad.
+parasangs [^6], to the river Maeander. That river is two hundred feet
+broad [^7], and was spanned by a bridge consisting of seven boats.
+Crossing it, he marched through Phrygia a single stage, of eight
+parasangs, to Colossae, an inhabited city [^8], prosperous and large.
+Here he remained seven days, and was joined by Menon the Thessalian, who
+arrived with one thousand hoplites and five hundred peltasts, Dolopes,
+Aenianes, and Olynthians. From this place he marched three stages,
+twenty parasangs in all, to Celaenae, a populous city of Phrygia, large
+and prosperous. Here Cyrus owned a palace and a large park [^9] full of
+wild beasts, which he used to hunt on horseback, whenever he wished to
+give himself or his horses exercise. Through the midst of the park flows
+the river Maeander, the sources of which are within the palace
+buildings, and it flows through the city of Celaenae. The great king
+also has a palace in Celaenae, a strong place, on the sources of another
+river, the Marsyas, at the foot of the acropolis. This river also flows
+through the city, discharging itself into the Maeander, and is
+five-and-twenty feet broad.
 
 Here is the place where Apollo is said to have flayed Marsyas, when he
 had conquered him in the contest of skill. He hung up the skin of the
@@ -185,24 +173,22 @@ peltasts.
 
 From this place he continued his march two stages–ten parasangs–to the
 populous city of Peltae, where he remained three days; while Xenias, the
-Arcadian, celebrated the Lycaea
-<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> with sacrifice, and
-instituted games. The prizes were headbands of gold; and Cyrus himself
-was a spectator of the contest. From this place the march was continued
-two stages–twelve parasangs–to Ceramon-agora, a populous city, the last
-on the confines of Mysia. Thence a march of three stages–thirty
-parasangs –brought him to Caystrupedion
-<sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup>, a populous city. Here
-Cyrus halted five days; and the soldiers, whose pay was now more than
-three months in arrear, came several times to the palace gates demanding
-their dues; while Cyrus put them off with fine words and expectations,
-but could not conceal his vexation, for it was not his fashion to stint
-payment, when he had the means. At this point Epyaxa, the wife of
-Syennesis, the king of the Cilicians, arrived on a visit to Cyrus; and
-it was said that Cyrus received a large gift of money from the queen. At
-this date, at any rate, Cyrus gave the army four months’ pay. The queen
-was accompanied by a bodyguard of Cilicians and Aspendians; and, if
-report speaks truly, Cyrus had intimate relations with the queen.
+Arcadian, celebrated the Lycaea [^0] with sacrifice, and instituted
+games. The prizes were headbands of gold; and Cyrus himself was a
+spectator of the contest. From this place the march was continued two
+stages–twelve parasangs–to Ceramon-agora, a populous city, the last on
+the confines of Mysia. Thence a march of three stages–thirty parasangs
+–brought him to Caystrupedion [^1], a populous city. Here Cyrus halted
+five days; and the soldiers, whose pay was now more than three months in
+arrear, came several times to the palace gates demanding their dues;
+while Cyrus put them off with fine words and expectations, but could not
+conceal his vexation, for it was not his fashion to stint payment, when
+he had the means. At this point Epyaxa, the wife of Syennesis, the king
+of the Cilicians, arrived on a visit to Cyrus; and it was said that
+Cyrus received a large gift of money from the queen. At this date, at
+any rate, Cyrus gave the army four months’ pay. The queen was
+accompanied by a bodyguard of Cilicians and Aspendians; and, if report
+speaks truly, Cyrus had intimate relations with the queen.
 
 From this place he marched two stages–ten parasangs–to Thymbrium, a
 populous city. Here, by the side of the road, is the spring of Midas,
@@ -302,7 +288,7 @@ dress, and lastly, the exemption of his territory from further pillage,
 with the privilege of taking back the slaves that had been seized,
 wherever they might chance to come upon them.
 
-III
+### III ###
 
 At Tarsus Cyrus and his army halted for twenty days; the soldiers
 refusing to advance further, since the suspicion ripened in their minds,
@@ -334,13 +320,12 @@ my friendship with Cyrus, or I must go with you at the cost of deceiving
 him. Whether I am about to do right or not, I cannot say, but I choose
 yourselves; and, whatever betide, I mean to share your fate. Never shall
 it be said of me by any one that, having led Greek troops against the
-barbarians <sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup>, I betrayed
-the Hellenes, and chose the friendship of the barbarian. No! since you
-do not choose to obey and follow me, I will follow after you. Whatever
-betide, I will share your fate. I look upon you as my country, my
-friends, my allies; with you I think I shall be honoured, wherever I be;
-without you I do not see how I can help a friend or hurt a foe. My
-decision is taken. Wherever you go, I go also."
+barbarians [^2], I betrayed the Hellenes, and chose the friendship of
+the barbarian. No! since you do not choose to obey and follow me, I will
+follow after you. Whatever betide, I will share your fate. I look upon
+you as my country, my friends, my allies; with you I think I shall be
+honoured, wherever I be; without you I do not see how I can help a
+friend or hurt a foe. My decision is taken. Wherever you go, I go also."
 
 Such were his words. But the soldiers, not only his own, but the rest
 also, when they heard what he said, and how he had scouted the idea of
@@ -442,7 +427,7 @@ each man, instead of a daric. Was he really leading them to attack the
 king? Not even at this moment was any one apprised of the fact, at any
 rate in any open and public manner.
 
-IV
+### IV ###
 
 From this point he marched two stages–ten parasangs–to the river Psarus,
 which is two hundred feet broad, and from the Psarus he marched a single
@@ -515,46 +500,46 @@ After this Cyrus marched onwards four stages–twenty parasangs–to the
 river Chalus. That river is a hundred feet broad, and is stocked with
 tame fish which the Syrians regard as gods, and will not suffer to be
 injured–and so too the pigeons of the place. The villages in which they
-encamped belonged to Parysatis, as part of her girdle money
-<sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup>. From this point he
-marched on five stages–thirty parasangs–to the sources of the river
-Dardas, which is a hundred feet broad. Here stood the palace of Belesys,
-the ruler of Syria, with its park–which was a very large and beautiful
-one, and full of the products of all the seasons in their course. But
-Cyrus cut down the park and burnt the palace. Thence he marched on three
-stages–fifteen parasangs–to the river Euphrates, which is nearly half a
-mile broad. A large and flourishing city, named Thapsacus, stands on its
-banks. Here they halted five days, and here Cyrus sent for the generals
-of the Hellenes, and told them that the advance was now to be upon
-Babylon, against the great king; he bade them communicate this
-information to the soldiers and persuade them to follow. The generals
-called an assembly, and announced the news to the soldiers. The latter
-were indignant and angry with the generals, accusing them of having kept
-secret what they had long known; and refused to go, unless such a bribe
-of money were given them as had been given to their predecessors, when
-they went up with Cyrus to the court of his father, not as now to fight
-a battle, but on a peaceful errand–the visit of a son to his father by
-invitation. The demand was reported to Cyrus by the generals, and he
-undertook to give each man five silver minae as soon as Babylon was
-reached, and their pay in full, until he had safely conveyed them back
-to Ionia again. In this manner the Hellenic force were persuaded–that is
-to say, the majority of them. Menon, indeed, before it was clear what
-the rest of the soldiers would do–whether, in fact they would follow
-Cyrus or not–collected his own troops apart and made them the following
-speech; “Men,” he said, "if you will listen to me, there is a method by
-which, without risk or toil, you may win the special favour of Cyrus
-beyond the rest of the soldiers. You ask what it is I would have you to
-do? I will tell you. Cyrus at this instant is begging the Hellenes to
-follow him to attack the king. I say then: Cross the Euphrates at once,
-before it is clear what answer the rest will make; if they vote in
-favour of following, you will get the credit of having set the example,
-and Cyrus will be grateful to you. He will look upon you as being the
-heartiest in his cause; he will repay, as of all others he best knows
-how; while, if the rest vote against crossing, we shall go back again;
-but as the sole adherents, whose fidelity he can altogether trust, it is
-you whom Cyrus will turn to account, as commandants of garrisons or
-captains of companies. You need only ask him for whatever you want, and
-you will get it from him, as being the friends of Cyrus.
+encamped belonged to Parysatis, as part of her girdle money [^3]. From
+this point he marched on five stages–thirty parasangs–to the sources of
+the river Dardas, which is a hundred feet broad. Here stood the palace
+of Belesys, the ruler of Syria, with its park–which was a very large and
+beautiful one, and full of the products of all the seasons in their
+course. But Cyrus cut down the park and burnt the palace. Thence he
+marched on three stages–fifteen parasangs–to the river Euphrates, which
+is nearly half a mile broad. A large and flourishing city, named
+Thapsacus, stands on its banks. Here they halted five days, and here
+Cyrus sent for the generals of the Hellenes, and told them that the
+advance was now to be upon Babylon, against the great king; he bade them
+communicate this information to the soldiers and persuade them to
+follow. The generals called an assembly, and announced the news to the
+soldiers. The latter were indignant and angry with the generals,
+accusing them of having kept secret what they had long known; and
+refused to go, unless such a bribe of money were given them as had been
+given to their predecessors, when they went up with Cyrus to the court
+of his father, not as now to fight a battle, but on a peaceful
+errand–the visit of a son to his father by invitation. The demand was
+reported to Cyrus by the generals, and he undertook to give each man
+five silver minae as soon as Babylon was reached, and their pay in full,
+until he had safely conveyed them back to Ionia again. In this manner
+the Hellenic force were persuaded–that is to say, the majority of them.
+Menon, indeed, before it was clear what the rest of the soldiers would
+do–whether, in fact they would follow Cyrus or not–collected his own
+troops apart and made them the following speech; “Men,” he said, "if you
+will listen to me, there is a method by which, without risk or toil, you
+may win the special favour of Cyrus beyond the rest of the soldiers. You
+ask what it is I would have you to do? I will tell you. Cyrus at this
+instant is begging the Hellenes to follow him to attack the king. I say
+then: Cross the Euphrates at once, before it is clear what answer the
+rest will make; if they vote in favour of following, you will get the
+credit of having set the example, and Cyrus will be grateful to you. He
+will look upon you as being the heartiest in his cause; he will repay,
+as of all others he best knows how; while, if the rest vote against
+crossing, we shall go back again; but as the sole adherents, whose
+fidelity he can altogether trust, it is you whom Cyrus will turn to
+account, as commandants of garrisons or captains of companies. You need
+only ask him for whatever you want, and you will get it from him, as
+being the friends of Cyrus.
 
 The men heard and obeyed, and before the rest had given their answer,
 they were already across. But when Cyrus perceived that Menon’s troops
@@ -576,7 +561,7 @@ nine stages–fifty parasangs–and they reached the river Araxes. Here were
 several villages full of corn and wine; in which they halted three days,
 and provisioned the army.
 
-V
+### V ###
 
 Thence he marched on through Arabia, keeping the Euphrates on the right,
 five desert stages–thirty-five parasangs. In this region the ground was
@@ -614,24 +599,24 @@ goods. Corn failed the army, and was not to be got for money, except in
 the Lydian market open in Cyrus’s Asiatic army; where a kapithe of wheat
 or barley cost four shekels; the shekel being equal to seven and a half
 Attic obols, whilst the kapithe is the equivalent of two Attic
-choeneces, <sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup> dry measure,
-so that the soldiers subsisted on meat alone for the whole period. Some
-of the stages were very long, whenever they had to push on to find water
-or fodder; and once they found themselves involved in a narrow way,
-where the deep clay presented an obstacle to the progress of the wagons.
-Cyrus, with the nobles about him, halted to superintend the operation,
-and ordered Glus and Pigres to take a body of barbarians and to help in
-extricating the wagons. As they seemed to be slow about the business, he
-turned round angrily to the Persian nobles and bade them lend a hand to
-force the wagons out. Then, if ever, what goes to constitute one branch
-of good discipline, was to be witnessed. Each of those addressed, just
-where he chanced to be standing, threw off his purple cloak, and flung
-himself into the work with as much eagerness as if it had been a charge
-for victory. Down a steep hill side they flew, with their costly tunics
-and embroidered trousers–some with the circlets round their necks, and
-bracelets on their arms–in an instant, they had sprung into the miry
-clay, and in less time than one could have conceived, they had landed
-the wagons safe on terra firma.
+choeneces, [^4] dry measure, so that the soldiers subsisted on meat
+alone for the whole period. Some of the stages were very long, whenever
+they had to push on to find water or fodder; and once they found
+themselves involved in a narrow way, where the deep clay presented an
+obstacle to the progress of the wagons.  Cyrus, with the nobles about
+him, halted to superintend the operation, and ordered Glus and Pigres to
+take a body of barbarians and to help in extricating the wagons. As they
+seemed to be slow about the business, he turned round angrily to the
+Persian nobles and bade them lend a hand to force the wagons out. Then,
+if ever, what goes to constitute one branch of good discipline, was to
+be witnessed. Each of those addressed, just where he chanced to be
+standing, threw off his purple cloak, and flung himself into the work
+with as much eagerness as if it had been a charge for victory. Down a
+steep hill side they flew, with their costly tunics and embroidered
+trousers–some with the circlets round their necks, and bracelets on
+their arms–in an instant, they had sprung into the miry clay, and in
+less time than one could have conceived, they had landed the wagons safe
+on terra firma.
 
 Altogether it was plain that Cyrus was bent on pressing on the march,
 and averse to stoppages, except where he halted for the sake of
@@ -691,7 +676,7 @@ around will be worse foes to us than those who are at present serving
 the king.” At these words Clearchus came to his senses. Both parties
 paused from battle, and retired to their quarters: order reigned.
 
-VI
+### VI ###
 
 As they advanced from this point (opposite Charmande), they came upon
 the hoof-prints and dung of horses at frequent intervals. It looked like
@@ -772,7 +757,7 @@ No one, of his own knowledge, could declare the manner of his death;
 though some conjectured one thing and some another. No tomb to mark his
 resting-place, either then or since, was ever seen.
 
-VII
+### VII ###
 
 From this place Cyrus marched through Babylonia three stages–twelve
 parasangs. Now, on the third stage, about midnight, Cyrus held a review
@@ -853,8 +838,7 @@ body of his troops, Hellenic and barbarian alike in order of battle. He
 expected the king to give battle the same day, for in the middle of this
 day’s march a deep sunk trench was reached, thirty feet broad, and
 eighteen feet deep. The trench was carried inland through the plain,
-twelve parasang’s distance, to the wall of Media
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup>. [Here are canals,
+twelve parasang’s distance, to the wall of Media [^5]. [Here are canals,
 flowing from the river Tigris; they are four in number, each a hundred
 feet broad, and very deep, with corn ships plying upon them; they empty
 themselves into the Euphrates, and are at intervals of one parasang
@@ -883,7 +867,7 @@ front of him. The mass of the army was moving on in no kind of order:
 the soldiers having consigned their heavy arms to be carried in the
 wagons or on the backs of beasts.
 
-VIII
+### VIII ###
 
 It was already about full market time and the halting-place at which the
 army was to take up quarters was nearly reached, when Pategyas, a
@@ -907,10 +891,9 @@ them stood the Hellenic peltasts. On the left was Ariaeus, Cyrus’s
 second in command, and the rest of the barbarian host. Cyrus was with
 his bodyguard of cavalry about six hundred strong, all armed with
 corselets like Cyrus, and cuirasses and helmets; but not so Cyrus: he
-went into battle with head unhelmeted
-<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup>. So too all the horses
-with Cyrus wore forehead-pieces and breast-pieces, and the troopers
-carried short Hellenic swords.
+went into battle with head unhelmeted [^6]. So too all the horses with
+Cyrus wore forehead-pieces and breast-pieces, and the troopers carried
+short Hellenic swords.
 
 It was now mid-day, and the enemy was not yet in sight; but with the
 approach of afternoon was seen dust like a white cloud, and after a
@@ -953,16 +936,16 @@ so as to take a complete survey of friends and foes; when Xenophon the
 Athenian, seeing him, rode up from the Hellenic quarter to meet him,
 asking him whether he had any orders to give. Cyrus, pulling up his
 horse, begged him to make the announcement generally known that the
-omens from the victims, internal and external alike, were good
-<sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup>. While he was still
-speaking, he heard a confused murmur passing through the ranks, and
-asked what it meant. The other replied that it was the watchword being
-passed down for the second time. Cyrus wondered who had given the order,
-and asked what the watchword was. On being told it was “Zeus our Saviour
-and Victory,” he replied, “I accept it; so let it be,” and with that
-remark rode away to his own position. And now the two battle lines were
-no more than three or four furlongs apart, when the Hellenes began
-chanting the paean, and at the same time advanced against the enemy.
+omens from the victims, internal and external alike, were good [^7].
+While he was still speaking, he heard a confused murmur passing through
+the ranks, and asked what it meant. The other replied that it was the
+watchword being passed down for the second time. Cyrus wondered who had
+given the order, and asked what the watchword was. On being told it was
+“Zeus our Saviour and Victory,” he replied, “I accept it; so let it be,”
+and with that remark rode away to his own position. And now the two
+battle lines were no more than three or four furlongs apart, when the
+Hellenes began chanting the paean, and at the same time advanced against
+the enemy.
 
 But with the forward movement a certain portion of the line curved
 onwards in advance, with wave-like sinuosity, and the portion left
@@ -1009,28 +992,27 @@ so-called. Left alone with these, he caught sight of the king, and the
 close throng about him. Unable longer to contain himself, with a cry, “I
 see the man,” he rushed at him and dealt a blow at his chest, wounding
 him through the corselet. This, according to the statement of Ctesias
-the surgeon <sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup>, who
-further states that he himself healed the wound. As Cyrus delivered the
-blow, some one struck him with a javelin under the eye severely; and in
-the struggle which then ensued between the king and Cyrus and those
-about them to protect one or other, we have the statement of Ctesias as
-to the number slain on the king’s side, for he was by his side. On the
-other, Cyrus himself fell, and eight of his bravest companions lay on
-the top of him. The story says that Artapes, the trustiest among his
-wand-wearers, when he saw that Cyrus had fallen to the ground, leapt
-from his horse and threw his arms about him. Then, as one account says,
-the king bade one slay him as a worthy victim to his brother: others say
-that Artapates drew his scimitar and slew himself by his own hand. A
-golden scimitar it is true, he had; he wore also a collar and bracelets
-and the other ornaments such as the noblest Persians wear; for his
-kindliness and fidelity had won him honours at the hands of Cyrus.
+the surgeon [^8], who further states that he himself healed the wound.
+As Cyrus delivered the blow, some one struck him with a javelin under
+the eye severely; and in the struggle which then ensued between the king
+and Cyrus and those about them to protect one or other, we have the
+statement of Ctesias as to the number slain on the king’s side, for he
+was by his side. On the other, Cyrus himself fell, and eight of his
+bravest companions lay on the top of him. The story says that Artapes,
+the trustiest among his wand-wearers, when he saw that Cyrus had fallen
+to the ground, leapt from his horse and threw his arms about him. Then,
+as one account says, the king bade one slay him as a worthy victim to
+his brother: others say that Artapates drew his scimitar and slew
+himself by his own hand. A golden scimitar it is true, he had; he wore
+also a collar and bracelets and the other ornaments such as the noblest
+Persians wear; for his kindliness and fidelity had won him honours at
+the hands of Cyrus.
 
-IX
+### IX ###
 
-So died Cyrus; a man the kingliest
-<sup>**[<sup>19</sup>](#sdfootnote19sym)**</sup> and most worthy to rule
-of all the Persians who have lived since the elder Cyrus: according to
-the concurrent testimony of all who are reputed to have known him
+So died Cyrus; a man the kingliest [^9] and most worthy to rule of all
+the Persians who have lived since the elder Cyrus: according to the
+concurrent testimony of all who are reputed to have known him
 intimately. To begin from the beginning, when still a boy, and whilst
 being brought up with his brother and the other lads, his unrivalled
 excellence was recognised. For the sons of the noblest Persians, it must
@@ -1051,12 +1033,11 @@ the bow and the javelin, was he held by men in general to be at once the
 aptest of learners and the most eager practiser. As soon as his age
 permitted, the same pre-eminence showed itself in his fondness for the
 chase, not without a certain appetite for perilous adventure in facing
-the wild beasts themselves. Once a bear made a furious rush at him
-<sup>**[<sup>20</sup>](#sdfootnote20sym)**</sup>, and without wincing he
-grappled with her, and was pulled from his horse, receiving wounds the
-scars of which were visible through life; but in the end he slew the
-creature, nor did he forget him who first came to his aid, but made him
-enviable in the eyes of many.
+the wild beasts themselves. Once a bear made a furious rush at him [^0],
+and without wincing he grappled with her, and was pulled from his horse,
+receiving wounds the scars of which were visible through life; but in
+the end he slew the creature, nor did he forget him who first came to
+his aid, but made him enviable in the eyes of many.
 
 After he had been sent down by his father to be satrap of Lydia and
 Great Phrygia and Cappadocia, and had been appointed general of the
@@ -1172,7 +1153,7 @@ of the cavalry on the left, and he no sooner perceived the fall of Cyrus
 than he betook himself to flight, with the whole body of troops under
 his lead.
 
-X
+### X ###
 
 Then the head of Cyrus and his right hand were severed from the body.
 But the king and those about him pursued and fell upon the Cyreian camp,
@@ -1267,8 +1248,7 @@ having already gone without their breakfasts, since the king had
 appeared before the usual halt for breakfast. Accordingly, in no better
 plight than this they passed the night.
 
-BOOK II
-=======
+## BOOK II
 
 [In the previous book will be found a full account of the method by
 which Cyrus collected a body of Greeks when meditating an expedition
@@ -1278,7 +1258,7 @@ description of the arrival of the Hellenes in camp after the battle, and
 as to how they betook themselves to rest, none suspecting but what they
 were altogether victorious and that Cyrus lived.]
 
-I
+### I ###
 
 With the break of day the generals met, and were surprised that Cyrus
 should not have appeared himself, or at any rate have sent some one to
@@ -1286,13 +1266,13 @@ tell them what to do. Accordingly, they resolved to put what they had
 together, to get under arms, and to push forward until they effected
 junction with Cyrus. Just as they were on the point of starting, with
 the rising sun came Procles the ruler of Teuthrania. He was a descendant
-of Damaratus <sup>**[<sup>21</sup>](#sdfootnote21sym)**</sup> the
-Laconian, and with him also came Glus the son of Tamos. These two told
-them, first, that Cyrus was dead; next, that Ariaeus had retreated with
-the rest of the barbarians to the halting-place whence they had started
-at dawn on the previous day; and wished to inform them that, if they
-were minded to come, he would wait for this one day, but on the morrow
-he should return home again to Ionia, whence he came.
+of Damaratus [^1] the Laconian, and with him also came Glus the son of
+Tamos. These two told them, first, that Cyrus was dead; next, that
+Ariaeus had retreated with the rest of the barbarians to the
+halting-place whence they had started at dawn on the previous day; and
+wished to inform them that, if they were minded to come, he would wait
+for this one day, but on the morrow he should return home again to
+Ionia, whence he came.
 
 When they heard these tidings, the generals were sorely distressed; so
 too were the rest of the Hellenes when they were informed of it. Then
@@ -1410,7 +1390,7 @@ shall I make?” Clearchus returned answer once again in the same words:
 “Truce if we stop, but if we move forwards or backwards war.” But what
 he was minded really to do, that he refused to make further manifest.
 
-II
+### II ###
 
 Phalinus and those that were with him turned and went. But the
 messengers from Ariaeus, Procles and Cheirisophus came back. As to
@@ -1442,7 +1422,7 @@ and officers retired, and did as they were bid; and for the future
 Clearchus led, and the rest followed in obedience to his orders, not
 that they had expressly chosen him, but they saw that he alone had the
 sense and wisdom requisite in a general, while the rest were
-inexperienced. <sup>**[<sup>22</sup>](#sdfootnote22sym)**</sup>
+inexperienced. [^2]
 
 Here, under cover of the darkness which descended, the Thracian
 Miltocythes, with forty horsemen and three hundred Thracian infantry,
@@ -1524,7 +1504,7 @@ baseless, and their generals safe and sound. At break of day Clearchus
 gave the order to the Hellenes to get under arms in line of battle, and
 take up exactly the same position as they held on the day of the battle.
 
-III
+### III ###
 
 And now comes the proof of what I stated above–that the king was utterly
 taken aback by the sudden apparition of the army; only the day before,
@@ -1665,7 +1645,7 @@ this Tissaphernes said: “And now I go back to the king; as soon as I
 have transacted what I have a mind to, I will come back, ready equipped,
 to lead you away to Hellas, and to return myself to my own dominion.”
 
-IV
+### IV ###
 
 After these things the Hellenes and Ariaeus waited for Tissaphernes,
 being encamped close to one another: for more than twenty days they
@@ -1754,19 +1734,17 @@ it down in the night, if he can, so that you may not cross, but be
 caught between the river and the canal.” On hearing this they took the
 man to Clearchus and acquainted him with his statement. Clearchus, on
 his side, was much disturbed, and indeed alarmed at the news. But a
-young fellow who was present
-<sup>**[<sup>23</sup>](#sdfootnote23sym)**</sup> , struck with an idea,
-suggested that the two statements were inconsistent; as to the
-contemplated attack and the proposed destruction of the bridge. Clearly,
-the attacking party must either conquer or be worsted: if they conquer,
-what need of their breaking down the bridge? “Why! if there were half a
-dozen bridges,” said he, “we should not be any the more able to save
-ourselves by flight–there would be no place to flee to; but, in the
-opposite case, suppose we win, with the bridge broken down, it is they
-who will not be able to save themselves by flight; and, what is worse
-for them, not a single soul will be able to bring them succour from the
-other side, for all their numbers, since the bridge will be broken
-down.”
+young fellow who was present [^3] , struck with an idea, suggested that
+the two statements were inconsistent; as to the contemplated attack and
+the proposed destruction of the bridge. Clearly, the attacking party
+must either conquer or be worsted: if they conquer, what need of their
+breaking down the bridge? “Why! if there were half a dozen bridges,”
+said he, “we should not be any the more able to save ourselves by
+flight–there would be no place to flee to; but, in the opposite case,
+suppose we win, with the bridge broken down, it is they who will not be
+able to save themselves by flight; and, what is worse for them, not a
+single soul will be able to bring them succour from the other side, for
+all their numbers, since the bridge will be broken down.”
 
 Clearchus listened to the reasoning, and then he asked the messenger,
 “How large the country between the Tigris and the canal might be?”
@@ -1816,10 +1794,9 @@ the river, lay a large city; it was a well-to-do place named Caenae,
 from which the natives used to carry across loaves and cheeses and wine
 on rafts made of skins.
 
-V
+### V ###
 
-After this they reached the river Zapatas
-<sup>**[<sup>24</sup>](#sdfootnote24sym)**</sup>, which is four hundred
+After this they reached the river Zapatas [^4], which is four hundred
 feet broad, and here they halted three days. During the interval
 suspicions were rife, though no act of treachery displayed itself.
 Clearchus accordingly resolved to bring to an end these feelings of
@@ -1875,11 +1852,10 @@ flatter myself that with my present force I could render them humbly
 obedient to you. This applies to the Pisidians also; and I am told there
 are many other such tribes besides. I think I can deal with them all;
 they shall cease from being a constant disturbance to your peace and
-prosperity. Then there are the Egyptians
-<sup>**[<sup>25</sup>](#sdfootnote25sym)**</sup>. I know your anger
-against them to-day is very great. Nor can I see what better force you
-will find to help you in chastising them than this which marches at my
-back to-day. Again, if you seek the friendship of any of your neighbours
+prosperity. Then there are the Egyptians [^5]. I know your anger against
+them to-day is very great. Nor can I see what better force you will find
+to help you in chastising them than this which marches at my back
+to-day. Again, if you seek the friendship of any of your neighbours
 round, there shall be no friend so great as you; if any one annoys you,
 with us as your faithful servitors you shall belord it over him; and
 such service we will render you, not as hirelings merely for pay’s sake,
@@ -2013,7 +1989,7 @@ the best advice for you and for us.”
 At this, the Asiatics stood discussing with one another for a long
 while, and then they went away without vouchsafing a word.
 
-VI
+### VI ###
 
 The generals who were thus seized were taken up to the king and there
 decapitated. The first of these, Clearchus, was a thorough soldier, and
@@ -2093,26 +2069,24 @@ obedience to this passionate desire it was, that he paid his fee to
 Gorgias of Leontini. After enojoying that teacher’s society, he
 flattered himself that he must be at once qualified to rule; and while
 he was on friendly terms with the leaders of the age, he was not to be
-outdone in reciprocity of service
-<sup>**[<sup>26</sup>](#sdfootnote26sym)**</sup> . In this mood hethrew
-himself into the projects of Cyrus, and in return expected to derive
-from this essay the reward of a great name, large power, and wide
-wealth. But for all that he pitched his hopes so high, it was none the
-less evident that he would refuse to gain any of the ends he set before
-him wrongfully. Righteously and honourably he would obtain them, if he
-might, or else forego them. As a commander he had the art of leading
-gentlemen, but he failed to inspire adequately either respect for
-himself or fear in the soldiers under him. Indeed, he showed a more
-delicate regard for his soldiers than his subordinates for him, and he
-was indisputably more apprehensive of incurring their hatred than they
-were of losing their fidelity. The one thing needful to real and
-recognised generalship was, he thought, to praise the virtuous and to
-withhold praise from the evildoer. It can be easily understood, then,
-that of those who were brought in contact with him, the good and noble
-indeed were his well-wishers; but he laid himself open to the
-machinations of the base, who looked upon him as a person to be dealt
-with as they liked. At the time of his death he was only thirty years of
-age.
+outdone in reciprocity of service [^6] . In this mood hethrew himself
+into the projects of Cyrus, and in return expected to derive from this
+essay the reward of a great name, large power, and wide wealth. But for
+all that he pitched his hopes so high, it was none the less evident that
+he would refuse to gain any of the ends he set before him wrongfully.
+Righteously and honourably he would obtain them, if he might, or else
+forego them. As a commander he had the art of leading gentlemen, but he
+failed to inspire adequately either respect for himself or fear in the
+soldiers under him. Indeed, he showed a more delicate regard for his
+soldiers than his subordinates for him, and he was indisputably more
+apprehensive of incurring their hatred than they were of losing their
+fidelity. The one thing needful to real and recognised generalship was,
+he thought, to praise the virtuous and to withhold praise from the
+evildoer. It can be easily understood, then, that of those who were
+brought in contact with him, the good and noble indeed were his
+well-wishers; but he laid himself open to the machinations of the base,
+who looked upon him as a person to be dealt with as they liked. At the
+time of his death he was only thirty years of age.
 
 As to Menon the Thessalian, the mainspring of his action was obvious;
 what he sought after insatiably was wealth. Rule he sought after only as
@@ -2166,8 +2140,7 @@ one ever derided either as cowardly in war: no one ever had a fault to
 find with either on the score of friendship. They were both about
 thirty-five years of age.
 
-BOOK III
-========
+## BOOK III
 
 [In the preceding pages of the narrative will be found a full account,
 not only of the doings of the Hellenes during the advance of Cyrus till
@@ -2175,7 +2148,7 @@ the date of the battle, but of the incidents which befell them after
 Cyrus’ death at the commencement of the retreat, while in company with
 Tissaphernes during the truce.]
 
-I
+### I ###
 
 After the generals had been seized, and the captains and soldiers who
 formed their escort had been killed, the Hellenes lay in deep
@@ -2199,10 +2172,9 @@ yearning after their fatherlands or their parents, the wife or child
 whom they never expected to look upon again. Such was the plight in
 which each and all tried to seek repose.
 
-Now there was in that host a certain man, an Athenian
-<sup>**[<sup>27</sup>](#sdfootnote27sym)**</sup>, Xenophon, who had
-accompanied Cyrus, neither as a general, nor as an officer, nor yet as a
-private soldier, but simply on the invitation of an old friend,
+Now there was in that host a certain man, an Athenian [^7], Xenophon,
+who had accompanied Cyrus, neither as a general, nor as an officer, nor
+yet as a private soldier, but simply on the invitation of an old friend,
 Proxenus. This old friend had sent to fetch him from home, promising, if
 he would come, to introduce him to Cyrus, “whom,” said Proxenus, “I
 consider to be worth my fatherland and more to me.”
@@ -2425,7 +2397,7 @@ of Socrates; Cleanor, an Arcadian, in place of Agias; Philesius, an
 Achaean, in place of Menon; and in place of Proxenus, Xenophon the
 Athenian.
 
-II
+### II ###
 
 By the time the new generals had been chosen, the first faint glimmer of
 dawn had hardly commenced, as they met in the centre of the camp, and
@@ -2462,43 +2434,41 @@ them; we will make the best fight we can, and having made it, whatever
 the gods think fit to send, we will accept.”
 
 After him Xenophon arose; he was arrayed for war in his bravest apparel
-<sup>**[<sup>28</sup>](#sdfootnote28sym)**</sup>: “For,” said he to
-himself, “if the gods grant victory, the finest attire will match with
-victory best; or if I must needs die, then for one who has aspired to
-the noblest, it is well there should be some outward correspondence
-between his expectation and his end.” He began his speech as follows:
-“Cleanor has spoken of the perjury and faithlessness of the barbarians,
-and you yourselves know them only too well, I fancy. If then we are
-minded to enter a second time into terms of friendship with them, with
-the experience of what our generals, who in all confidence entrusted
-themselves to their power, have suffered, reason would we should feel
-deep despondency. If, on the other hand, we purpose to take our good
-swords in our hands and to inflict punishment on them for what they have
-done, and from this time forward will be on terms of downright war with
-them, then, God helping, we have many a bright hope of safety.” The
-words were scarcely spoken when someone sneezed
-<sup>**[<sup>29</sup>](#sdfootnote29sym)**</sup>, and with one impulse
-the soldiers bowed in worship; and Xenophon proceeded: “I propose, sirs,
-since, even as we spoke of safety, an omen from Zeus the Saviour has
-appeared, we vow a vow to sacrifice to the Saviour thank-offerings for
-safe deliverance, wheresoever first we reach a friendly country; and let
-us couple with that vow another of individual assent, that we will offer
-to the rest of the gods ‘according to our ability.’ Let all those who
-are in favour of this proposal hold up their hands.” They all held up
-their hands, and there and then they vowed a vow and chanted the battle
-hymn. But as soon as these sacred matters were duly ended, he began once
-more thus: "I was saying that many and bright are the hopes we have of
-safety. First of all, we it is who confirm and ratify the oaths we take
-by heaven, but our enemies have taken false oaths and broken the truce,
-contrary to their solemn word. This being so, it is but natural that the
-gods should be opposed to our enemies, but with ourselves allied; the
-gods, who are able to make the great ones quickly small, and out of sore
-perplexity can save the little ones with ease, what time it pleases
-them. In the next place, let me recall to your minds the dangers of our
-own forefathers, that you may see andknow that bravery is your heirloom,
-and that by the aid of the gods brave men are rescued even out of the
-midst of sorest straits. So was it when the Persians came, and their
-attendant hosts <sup>**[<sup>30</sup>](#sdfootnote30sym)**</sup>, with a
+[^8]: “For,” said he to himself, “if the gods grant victory, the finest
+attire will match with victory best; or if I must needs die, then for
+one who has aspired to the noblest, it is well there should be some
+outward correspondence between his expectation and his end.” He began
+his speech as follows: “Cleanor has spoken of the perjury and
+faithlessness of the barbarians, and you yourselves know them only too
+well, I fancy. If then we are minded to enter a second time into terms
+of friendship with them, with the experience of what our generals, who
+in all confidence entrusted themselves to their power, have suffered,
+reason would we should feel deep despondency. If, on the other hand, we
+purpose to take our good swords in our hands and to inflict punishment
+on them for what they have done, and from this time forward will be on
+terms of downright war with them, then, God helping, we have many a
+bright hope of safety.” The words were scarcely spoken when someone
+sneezed [^9], and with one impulse the soldiers bowed in worship; and
+Xenophon proceeded: “I propose, sirs, since, even as we spoke of safety,
+an omen from Zeus the Saviour has appeared, we vow a vow to sacrifice to
+the Saviour thank-offerings for safe deliverance, wheresoever first we
+reach a friendly country; and let us couple with that vow another of
+individual assent, that we will offer to the rest of the gods ‘according
+to our ability.’ Let all those who are in favour of this proposal hold
+up their hands.” They all held up their hands, and there and then they
+vowed a vow and chanted the battle hymn. But as soon as these sacred
+matters were duly ended, he began once more thus: "I was saying that
+many and bright are the hopes we have of safety. First of all, we it is
+who confirm and ratify the oaths we take by heaven, but our enemies have
+taken false oaths and broken the truce, contrary to their solemn word.
+This being so, it is but natural that the gods should be opposed to our
+enemies, but with ourselves allied; the gods, who are able to make the
+great ones quickly small, and out of sore perplexity can save the little
+ones with ease, what time it pleases them. In the next place, let me
+recall to your minds the dangers of our own forefathers, that you may
+see andknow that bravery is your heirloom, and that by the aid of the
+gods brave men are rescued even out of the midst of sorest straits. So
+was it when the Persians came, and their attendant hosts [^0], with a
 very great armament, to wipe out Athens from the face of the earth–the
 men of Athens had the heart to withstand them and conquered them. Then
 they vowed to Artemis that for every man they slew of the enemy, they
@@ -2506,8 +2476,8 @@ would sacrifice to the goddess goats so many; and when they could not
 find sufficient for the slain, they resolved to offer yearly five
 hundred; and to this day they perform that sacrifice. And at a somewhat
 later date, when Xerxes assembled his countless hosts and marched upon
-Hellas, then <sup>**[<sup>31</sup>](#sdfootnote31sym)**</sup> too our
-fathers conquered the forefathers of our foes by land and by sea.
+Hellas, then [^1] too our fathers conquered the forefathers of our foes
+by land and by sea.
 
 "And proofs of these things are yet to be seen in trophies; but the
 greatest witness of all is the freedom of our cities–the liberty of that
@@ -2587,17 +2557,15 @@ saw us preparing to settle down here. But, perhaps, it is just as well
 that we did not stop; for I fear, if once we learn to live in idleness
 and to batten in luxury and dalliance with these tall and handsome
 Median and Persian women and maidens, we shall be like the Lotus-eaters
-<sup>**[<sup>32</sup>](#sdfootnote32sym)**</sup>, and forget the road
-home altogether.
+[^2], and forget the road home altogether.
 
 "It seems to me that it is only right, in the first instance, to make an
 effort to return to Hellas and to revisit our hearths and homes, if only
 to prove to other Hellenes that it is their own faults if they are poor
-and needy, <sup>**[<sup>33</sup>](#sdfootnote33sym)**</sup> seeing it is
-in their power to give to thosenow living a pauper life at home a free
-passage hither, and convert them into well-to-do burghers at once. Now,
-sirs, is it not clear that all these good things belong to whoever has
-strength to hold them?
+and needy, [^3] seeing it is in their power to give to thosenow living a
+pauper life at home a free passage hither, and convert them into
+well-to-do burghers at once. Now, sirs, is it not clear that all these
+good things belong to whoever has strength to hold them?
 
 "Let us look another matter in the face. How are we to march most
 safely? or where blows are needed, how are we to fight to the best
@@ -2674,7 +2642,7 @@ is your ambition, strive again for mastery; have not conquerors the
 double gain of keeping what is their own, whilst they seize the
 possessions of the vanquished?”
 
-III
+### III ###
 
 The speaking was ended; they got up and retired; then they burnt the
 wagons and the tents, and after sharing with one another what each
@@ -2774,7 +2742,7 @@ as duly qualified; buff jackets and cuirasses were provided for them,
 and a commandant of cavalry appointed to command–Lycius, the son of
 Polystratus, by name, an Athenian.
 
-IV
+### IV ###
 
 That day they remained inactive, but the next they rose earlier than
 usual, and set out betimes, for they had a ravine to cross, where they
@@ -2804,33 +2772,30 @@ impressing their enemy with as frightful an image as possible.
 So fared the foe and so fell back; but the Hellenes, continuing their
 march in safety for the rest of that day, reached the river Tigris. Here
 they came upon a large deserted city, the name of which was Larissa
-<sup>**[<sup>34</sup>](#sdfootnote34sym)**</sup>: a place inhabited by
-the Medes in days of old; the breadth of its walls was twenty-five feet,
-and the height of them a hundred, and the circuit of the whole two
-parasangs. It was built of clay-bricks, supported on a stone basis
-twenty feet high. This city the king of the Persians
-<sup>**[<sup>35</sup>](#sdfootnote35sym)**</sup> besieged, what time the
-Persians strove to snatch their empire from the Medes, but he could in
-no wise take it; then a cloud hid the face of the sun and blotted out
-the light thereof, until the inhabitants were gone out of the city, and
-so it was taken. By the side of this city there was a stone pyramid in
-breadth a hundred feet, and in height two hundred feet; in it were many
-of the barbarians who had fled for refuge from the neighbouring
-villages.
+[^4]: a place inhabited by the Medes in days of old; the breadth of its
+walls was twenty-five feet, and the height of them a hundred, and the
+circuit of the whole two parasangs. It was built of clay-bricks,
+supported on a stone basis twenty feet high. This city the king of the
+Persians [^5] besieged, what time the Persians strove to snatch their
+empire from the Medes, but he could in no wise take it; then a cloud hid
+the face of the sun and blotted out the light thereof, until the
+inhabitants were gone out of the city, and so it was taken. By the side
+of this city there was a stone pyramid in breadth a hundred feet, and in
+height two hundred feet; in it were many of the barbarians who had fled
+for refuge from the neighbouring villages.
 
 From this place they marched one stage of six parasangs to a great
 deserted fortress [which lay over against the city], and the name of
-that city was Mespila <sup>**[<sup>36</sup>](#sdfootnote36sym)**</sup>.
-The Medes once dwelt in it. The basement wasmade of polished stone full
-of shells; fifty feet was the breadth of it, and fifty feet the height;
-and on this basement was reared a wall of brick, the breadth whereof was
-fifty feet and the height thereof four hundred; and the circuit of the
-wall was six parasangs. Hither, as the story goes, Medea,
-<sup>**[<sup>37</sup>](#sdfootnote37sym)**</sup> the king’s wife, betook
-herself in flight what time the Medes lost their empire at the hands of
-the Persians. To this city also the king of the Pesians laid siege, but
-could not take it either by length of days or strength of hand. But Zeus
-sent amazement on the inhabitants thereof, and so it was taken.
+that city was Mespila [^6].  The Medes once dwelt in it. The basement
+wasmade of polished stone full of shells; fifty feet was the breadth of
+it, and fifty feet the height; and on this basement was reared a wall of
+brick, the breadth whereof was fifty feet and the height thereof four
+hundred; and the circuit of the wall was six parasangs. Hither, as the
+story goes, Medea, [^7] the king’s wife, betook herself in flight what
+time the Medes lost their empire at the hands of the Persians. To this
+city also the king of the Pesians laid siege, but could not take it
+either by length of days or strength of hand. But Zeus sent amazement on
+the inhabitants thereof, and so it was taken.
 
 From this place they marched one stage–four parasangs. But, while still
 on this stage, Tissaphernes made his appearance. He had with him his own
@@ -2843,23 +2808,22 @@ armament appeared to be very great. When they were close, he halted some
 of his regiments at the rear and wheeled others into position on either
 flank, but hesitated to attack, having no mind apparently to run any
 risks, and contenting himself with an order to his slingers to sling and
-his archers to shoot. But when the Rhodian slingers and the bowmen
-<sup>**[<sup>38</sup>](#sdfootnote38sym)**</sup>, posted at intervals,
-retaliated, and every shot told (for with the utmost pains to miss it
-would have been hard to do so under the circumstanecs), then
-Tissaphernes with all speed retired out of range, the other regiments
-following suit; and for the rest of the day the one party advanced and
-the other followed. But now the Asiatics had ceased to be dangerous with
-their sharpshooting. For the Rhodians could reach further than the
-Persianslingers, or, indeed, than most of the bowmen. The Persian bows
-are of great size, so that the Cretans found the arrows which were
-picked up serviceable, and persevered in using their enemies’ arrows,
-and practised shooting with them, letting them fly upwards to a great
-height. There were also plenty of bowstrings found in the villages–and
-lead, which they turned to account for their slings. As a result of this
-day, then, the Hellenes chancing upon some villages had no sooner
-encamped than the barbarians fell back, having had distinctly the worst
-of it in the skirmishing.
+his archers to shoot. But when the Rhodian slingers and the bowmen [^8],
+posted at intervals, retaliated, and every shot told (for with the
+utmost pains to miss it would have been hard to do so under the
+circumstanecs), then Tissaphernes with all speed retired out of range,
+the other regiments following suit; and for the rest of the day the one
+party advanced and the other followed. But now the Asiatics had ceased
+to be dangerous with their sharpshooting. For the Rhodians could reach
+further than the Persianslingers, or, indeed, than most of the bowmen.
+The Persian bows are of great size, so that the Cretans found the arrows
+which were picked up serviceable, and persevered in using their enemies’
+arrows, and practised shooting with them, letting them fly upwards to a
+great height. There were also plenty of bowstrings found in the
+villages–and lead, which they turned to account for their slings. As a
+result of this day, then, the Hellenes chancing upon some villages had
+no sooner encamped than the barbarians fell back, having had distinctly
+the worst of it in the skirmishing.
 
 The next day was a day of inaction: they halted and took in supplies, as
 there was much corn in the villages; but on the day following, the march
@@ -2891,7 +2855,7 @@ of quarter-companies, so that the space between was always filled up. If
 again it were necessary to effect a passage by bridge or otherwise,
 there was no confusion, the several companies crossing in turns; or, if
 the occasion arose to form in line of battle, these companies came up to
-the front and fell in. <sup>**[<sup>39</sup>](#sdfootnote39sym)**</sup>
+the front and fell in. [^9]
 
 In this way they advanced four stages, but ere the fifth was completed,
 they came in sight of a palace of some sort, with villages clustered
@@ -2903,12 +2867,10 @@ However, when they had issued from the plain and ascended the first
 crest, and were in the act of descending it so as to mount the next, at
 this juncture the barbarians came upon them. From the high ground down
 the sheer steep they poured a volley of darts, slingstones, and arrows,
-which they discharged "under the lash,
-<sup>**[<sup>40</sup>](#sdfootnote40sym)**</sup>" wounding many, until
-they got the better of the Hellenic light troops, and drove them for
-shelter behind the heavy infantry, so that this day that arm was
-altogether useless, huddling in the mob of sutlers, bothslingers and
-archers alike.
+which they discharged "under the lash, [^0]" wounding many, until they
+got the better of the Hellenic light troops, and drove them for shelter
+behind the heavy infantry, so that this day that arm was altogether
+useless, huddling in the mob of sutlers, bothslingers and archers alike.
 
 But when the Hellenes, being so pressed, made an attempt to pursue, they
 could barely scale to the summit, being heavy-armed troops, while the
@@ -2994,9 +2956,8 @@ detachment from the front to accompany him, since it was a long way to
 fetch up troops from the rear. Accordingly Cheirisophus furnished him
 with the light infantry from the front, reoccupying their place by those
 from the centre. He also gave him, to form part of the detachment, the
-three hundred of the picked corps
-<sup>**[<sup>41</sup>](#sdfootnote41sym)**</sup> under his own command
-at the head of the square.
+three hundred of the picked corps [^1] under his own command at the head
+of the square.
 
 They set out from the low ground with all the haste imaginable. But the
 enemy in position on the crest no sooner perceived their advance upon
@@ -3023,7 +2984,7 @@ remounting, led them on horseback as long as the footing held; but when
 the ground became too steep, he left his horse and pressed forward on
 foot, and so they found themselves on the summit before the enemy.
 
-V
+### V ###
 
 There and then the barbarians turned and fled as best they might, and
 the Hellenes held the summit, while the troops with Tissaphernes and
@@ -3096,15 +3057,14 @@ had come, belonged to the district towards Babylon and Media; the road
 east led to Susa and Ecbatana, where the king is said to spend summer
 and spring; crossing the river, the road west led to Lydia and Ionia;
 and the part through the mountains facing towards the Great Bear, led,
-they said, to the Carduchians
-<sup>**[<sup>42</sup>](#sdfootnote42sym)**</sup>. They were a people, so
-said the prisoners, dwelling up on the hills, addicted to war, and not
-subject to the king; so much so that once, when a royal army one hundred
-and twenty thousand strong had invaded them, not a man came back, owing
-to the intricacies of the country. Occasionally, however, they made
-truce or treaty with the satrap in the plain, and, for the nonce, there
-would be intercourse: “they will come in and out amongst us,” “and we
-will go in and out amongst them,” said the captives.
+they said, to the Carduchians [^2]. They were a people, so said the
+prisoners, dwelling up on the hills, addicted to war, and not subject to
+the king; so much so that once, when a royal army one hundred and twenty
+thousand strong had invaded them, not a man came back, owing to the
+intricacies of the country. Occasionally, however, they made truce or
+treaty with the satrap in the plain, and, for the nonce, there would be
+intercourse: “they will come in and out amongst us,” “and we will go in
+and out amongst them,” said the captives.
 
 After hearing these statements, the generals seated apart those
 whoclaimed to have any special knowledge of the country in any
@@ -3122,8 +3082,7 @@ advance: and a general order was issued, that after supper every one
 should get his kit together for starting, and repose, in readiness to
 follow as soon as the word of command was given.
 
-BOOK IV
-=======
+## BOOK IV
 
 [In the preceding portion of the narrative a full account is given of
 the incidents of the march up to the battle, and of the occurrences
@@ -3145,7 +3104,7 @@ actually the case. The advance into the country of the Carduchians was
 conducted with a view partly to secrecy, and partly to speed, so as to
 effect their entry before the enemy could occupy the passes.]
 
-I
+### I ###
 
 It was now about the last watch, and enough of the night remained to
 allow them to cross the valley under cover of darkness; when, at the
@@ -3263,7 +3222,7 @@ infantry willing to accompany the expedition?” Aristeas, a Chian, who on
 several occasions proved his usefulness to the army on such service,
 volunteered.
 
-II
+### II ###
 
 It was already late afternoon, when they ordered the storming party to
 take a snatch of food and set off; then they bound the guide and handed
@@ -3404,7 +3363,7 @@ javelins, fitting them to their thongs. In these districts the Cretans
 were highly serviceable. They were under the command of Stratocles, a
 Cretan.
 
-III
+### III ###
 
 During this day they bivouacked in the villages which lie above the
 plain of the river Centrites, which is about two hundred feet broad. It
@@ -3449,10 +3408,9 @@ rear should they once again attempt to cross. Thus for this day and
 night they halted, sunk in perplexity. But Xenophon had a dream. In his
 sleep he thought that he was bound in fetters, but these, of their own
 accord, fell from off him, so that he was loosed, and could stretch his
-legs as freely as he wished.
-<sup>**[<sup>43</sup>](#sdfootnote43sym)**</sup> So at the first glimpse
-of daylight he came to Cheirisophus and told him that he had hopes that
-all things would go well, and related to him his dream.
+legs as freely as he wished.  [^3] So at the first glimpse of daylight
+he came to Cheirisophus and told him that he had hopes that all things
+would go well, and related to him his dream.
 
 The other was well pleased, and with the first faint gleam of dawn the
 generals all were present and did sacrifice; and the victims were
@@ -3518,12 +3476,11 @@ raced up hill towards their mountains. Then Lycius, who commanded the
 cavalry, and Aeschines, who was in command of the division of light
 infantry attached to Cheirisophus, no sooner saw them fleeing so lustily
 than they were after them, and the soldiers shouted not to fall behind,
-<sup>**[<sup>44</sup>](#sdfootnote44sym)**</sup> but to follow them
-right up to the mountains. Cheirisophus, on getting across, forbore to
-pursue the cavalry, but advanced by the bluffs which reached to the
-river to attack the enemy overhead. And these, seeing their own cavalry
-fleeing, seeing also the heavy infantry advancing upon them, abandoned
-the heights above the river.
+[^4] but to follow them right up to the mountains. Cheirisophus, on
+getting across, forbore to pursue the cavalry, but advanced by the
+bluffs which reached to the river to attack the enemy overhead. And
+these, seeing their own cavalry fleeing, seeing also the heavy infantry
+advancing upon them, abandoned the heights above the river.
 
 Xenophon, as soon as he saw that things were going well on the
 otherside, fell back with all speed to join the troops engaged in
@@ -3580,7 +3537,7 @@ valour, advanced further than they had need to, and had to cross back
 again in the rear of Xenophon’s men, and of these too a few were
 wounded.
 
-IV
+### IV ###
 
 The passage effected, they fell into line about mid-day, and marched
 through Armenian territory, one long plain with smooth rolling hillocks,
@@ -3629,14 +3586,14 @@ and the men themselves lying down. It cramped and crippled the baggage
 animals; and there was great unreadiness to get up, so gently fell the
 snow as they lay there warm and comfortable, and formed a blanket,
 except where it slipped off the sleepers’ shoulders; and it was not
-until Xenophon roused himself to get up, and, without his cloak on,
-<sup>**[<sup>45</sup>](#sdfootnote45sym)**</sup> began to split wood,
-that quickly first one and then another got up, and taking the log
-awayfrom him, fell to splitting. Thereat the rest followed suit, got up,
-and began kindling fire and oiling their bodies, for there was a scented
-unguent to be found there in abundance, which they used instead of oil.
-It was made from pig’s fat, sesame, bitter almonds, and turpentine.
-There was a sweet oil also to be found, made of the same ingredients.
+until Xenophon roused himself to get up, and, without his cloak on, [^5]
+began to split wood, that quickly first one and then another got up, and
+taking the log awayfrom him, fell to splitting. Thereat the rest
+followed suit, got up, and began kindling fire and oiling their bodies,
+for there was a scented unguent to be found there in abundance, which
+they used instead of oil.  It was made from pig’s fat, sesame, bitter
+almonds, and turpentine.  There was a sweet oil also to be found, made
+of the same ingredients.
 
 After this it was resolved that they must again separate their quarters
 and get under cover in the villages. At this news the soldiers, with
@@ -3677,7 +3634,7 @@ camp with all speed, for fear of an attack being made on the remnant
 left behind. The recall was sounded and the retreat commenced; the camp
 was reached the same day.
 
-V
+### V ###
 
 The next day it was resolved that they should set off with all possible
 speed, before the enemy had time to collect and occupy the defile.
@@ -3757,8 +3714,7 @@ prevent their falling upon the invalids. It was already dusk, and the
 pursuers were advancing with much noise and hubbub, wrangling and
 disputing over their spoils. Then all of a sudden the rearguard, in the
 plenitude of health and strength, sprang up out of their lair and run
-upon the enemy, whilst those weary wights
-<sup>**[<sup>46</sup>](#sdfootnote46sym)**</sup> bawled out as loud as
+upon the enemy, whilst those weary wights [^6] bawled out as loud as
 their sick throats could sound, and clashed their spears against their
 shields; and the enemy in terror hurled themselves through the snow into
 the dell, and not one of them ever uttered a sound again.
@@ -3858,7 +3814,7 @@ to them, how they should wrap small bags or sacks around the feet of the
 horses and other cattle when marching through the snow, for without such
 precautions the creatures sank up to their bellies.
 
-VI
+### VI ###
 
 When a week had passed, on the eighth day Xenophon delivered over the
 guide (that is to say, the village headman) to Cheirisophus. He left the
@@ -3978,7 +3934,7 @@ they had reached the summit of the pass, they sacrificed and set up a
 trophy, and descending into the plain, reached villages abounding in
 good things of every kind.
 
-VII
+### VII ###
 
 After this they marched into the country of the Taochians five
 stages–thirty parasangs–and provisions failed; for the Taochians lived
@@ -4051,28 +4007,26 @@ the crags, and were killed. Out of this place the merest handful of
 human beings were taken prisoners, but cattle and asses in abundance and
 flocks of sheep.
 
-From this place they marched through the Chalybes
-<sup>**[<sup>47</sup>](#sdfootnote47sym)**</sup> seven stages, fifty
-parasangs. These were the bravest men whom they encountered on the whole
-march, coming cheerily to close quarters with them. They wore linen
-cuirasses reaching to the groin, and instead of the ordinary “wings” or
-basques, a thickly-plaited fringe of cords. They were also provided with
-greaves and helmets, and at the girdle a short sabre, about as long as
-the Laconian dagger, with which they cut the throats of those they
-mastered, and after severing the head from the trunk they would march
-along carrying it, singing and dancing, when they drew within their
-enemy’s field of view. They carried also a spear fifteen cubits long,
-lanced at one end. <sup>**[<sup>48</sup>](#sdfootnote48sym)**</sup> This
-folk stayed in regular townships, and whenever the Hellenes passed by
-they invariably hung close on their heels fighting. They had
-dwelling-places in their fortresses, and into them they had carried up
-their supplies, sot hat the Hellenes could get nothing from this
-district, but supported themselves on the flocks and herds they had
-taken from the Taochians. After this the Hellenes reached the river
-Harpasus, which was four hundred feet broad. Hence they marched through
-the Scythenians four stages–twenty parasangs–through a long level
-country to more villages, among which they halted three days, and got in
-supplies.
+From this place they marched through the Chalybes [^7] seven stages,
+fifty parasangs. These were the bravest men whom they encountered on the
+whole march, coming cheerily to close quarters with them. They wore
+linen cuirasses reaching to the groin, and instead of the ordinary
+“wings” or basques, a thickly-plaited fringe of cords. They were also
+provided with greaves and helmets, and at the girdle a short sabre,
+about as long as the Laconian dagger, with which they cut the throats of
+those they mastered, and after severing the head from the trunk they
+would march along carrying it, singing and dancing, when they drew
+within their enemy’s field of view. They carried also a spear fifteen
+cubits long, lanced at one end. [^8] This folk stayed in regular
+townships, and whenever the Hellenes passed by they invariably hung
+close on their heels fighting. They had dwelling-places in their
+fortresses, and into them they had carried up their supplies, sot hat
+the Hellenes could get nothing from this district, but supported
+themselves on the flocks and herds they had taken from the Taochians.
+After this the Hellenes reached the river Harpasus, which was four
+hundred feet broad. Hence they marched through the Scythenians four
+stages–twenty parasangs–through a long level country to more villages,
+among which they halted three days, and got in supplies.
 
 Passing on from thence in four stages of twenty parasangs, theyreached a
 large and prosperous well-populated city, which went by the name of
@@ -4087,14 +4041,14 @@ were so earnest, it was plain that it was for this he had come, and not
 out of the good-will he bore the Hellenes.
 
 On the fifth day they reached the mountain, the name of which was
-Theches. <sup>**[<sup>49</sup>](#sdfootnote49sym)**</sup> No sooner had
-the men in front ascended it and caught sight of the sea than a great
-cry arose, and Xenophon, in the rearguard, catching the sound of it,
-conjectured that another set of enemies must surely be attacking in
-front; for they were followed by the inhabitants of the country, which
-was all aflame; indeed the rearguard had killed some and captured others
-alive by laying an ambuscade; they had taken also about twenty wicker
-shields, covered with the raw hides of shaggy oxen.
+Theches. [^9] No sooner had the men in front ascended it and caught
+sight of the sea than a great cry arose, and Xenophon, in the rearguard,
+catching the sound of it, conjectured that another set of enemies must
+surely be attacking in front; for they were followed by the inhabitants
+of the country, which was all aflame; indeed the rearguard had killed
+some and captured others alive by laying an ambuscade; they had taken
+also about twenty wicker shields, covered with the raw hides of shaggy
+oxen.
 
 But as the shout became louder and nearer, and those who from time to
 time came up, began racing at the top of their speed towards the
@@ -4121,7 +4075,7 @@ after pointing out to them a village where they would find quarters, and
 the road by which they would proceed towards the land of the Macrones,
 as evening fell, he turned his back upon them in the night and was gone.
 
-VIII
+### VIII ###
 
 From this point the Hellenes marched through the country of the Macrones
 three stages–ten parasangs, and on the first day they reached the river,
@@ -4198,15 +4152,14 @@ Then Xenophon, returning from the right wing to the left, addressed the
 soldiers. “Men,” he said, “these men whom you see in front of you are
 the sole obstacles still interposed between us and the haven of our
 hopes so long deferred. We will swallow them up whole, without cooking,
-if we can.” <sup>**[<sup>50</sup>](#sdfootnote50sym)**</sup>
+if we can.” [^0]
 
 The several divisions fell into position, the companies were formed into
 columns, and the result was a total of something like eighty companies
 of heavy infantry, each company consisting on an average of a hundred
 men. The light infantry and bowmen were arranged in three divisions–two
 outside to support the left and the right respectively, and the third in
-the centre–each division consisting of about six hundred men.
-<sup>**[<sup>51</sup>](#sdfootnote51sym)**</sup>
+the centre–each division consisting of about six hundred men.  [^1]
 
 Before starting, the generals passed the order to offer prayer; andwith
 the prayer and battle hymn rising from their lips they commenced their
@@ -4267,9 +4220,8 @@ merely waved his hand and pointed to where they were standing, and said,
 scrubby ground?” “Oh! worse knocks for those who are thrown,” the
 president replied. There was a mile race for boys, the majority being
 captive lads; and for the long race more than sixty Cretans competed;
-there was wrestling, boxing, and the pankration.
-<sup>**[<sup>52</sup>](#sdfootnote52sym)**</sup> Altogether it was a
-beautiful spectacle. There was a large number of entries, and the
+there was wrestling, boxing, and the pankration.  [^2] Altogether it was
+a beautiful spectacle. There was a large number of entries, and the
 emulation, with their companions, male and female,standing as
 spectators, was immense. There was horse-racing also; the riders had to
 gallop down a steep incline to the sea, and then turn and come up again
@@ -4277,8 +4229,7 @@ to the altar, and on the descent more than half rolled head over heels,
 and then back they came toiling up the tremendous steep, scarcely out of
 a walking pace. Loud were the shouts, the laughter, and the cheers.
 
-BOOK V
-======
+## BOOK V
 
 [In the preceding portion of the narrative a detailed account is given
 of all that the Hellenes did, and how they fared on the march up with
@@ -4288,7 +4239,7 @@ Hellenic city of Trapezus, where they duly offered the sacrifice for
 safe deliverance which they had vowed to offer as soon as they set foot
 on a friendly soil.]
 
-I
+### I ###
 
 After this they met and took counsel concerning the remainder of the
 march. The first speaker was Antileon of Thurii. He rose and said: “For
@@ -4367,8 +4318,7 @@ not put the question to the vote, but eventually persuaded the cities
 voluntarily to construct roads by the suggestion, “If you get your roads
 in good order, we shall all the sooner be gone.” They further got a
 fifty-oared galley from the Trapezuntines, and gave the command of it to
-Dexippus, a Laconian, one of the perioeci.
-<sup>**[<sup>53</sup>](#sdfootnote53sym)**</sup> This man altogether
+Dexippus, a Laconian, one of the perioeci.  [^3] This man altogether
 neglected to collect vessels on the offing, but slunk off himself, and
 vanished, ship and all, out of Pontus. Later on, however, he paid the
 penalty of his misdeeds. He became involved in some meddling and making
@@ -4384,7 +4334,7 @@ captured prey and sometimes they failed. On one occasion Cleanetus led
 his own and another company against a strong position, and was killed
 himself, with many others of his party.
 
-II
+### II ###
 
 The time came when it was no longer possible to capture provisions,
 going and returning to the camp in one day. In consequence of this,
@@ -4538,7 +4488,7 @@ face to the foe, exposed to a shower of missiles, to which some of the
 Cretan bowmen responded with their arrows. In this way they all reached
 the camp in safety.
 
-III
+### III ###
 
 Now when Cheirisophus did not arrive, and the supply of ships was
 insufficient, and to get provisions longer was impossible, they resolved
@@ -4566,19 +4516,17 @@ Athenians at Delphi. It was inscribed with his own name and that of
 Proxenus, his friend, who was killed with Clearchus. The gift for
 Artemis of the Ephesians was, in the first instance, left behind by him
 in Asia at the time when he left that part of the world himself with
-Agesilaus on the march into Boeotia.
-<sup>**[<sup>54</sup>](#sdfootnote54sym)**</sup> He left it behind in
-charge of Megabyzus, the sacristan of the goddess, thinking that the
-voyage on which he was starting was fraught with danger. In the event of
-his coming out of it alive, he charged Megabyzus to restore to him the
+Agesilaus on the march into Boeotia.  [^4] He left it behind in charge
+of Megabyzus, the sacristan of the goddess, thinking that the voyage on
+which he was starting was fraught with danger. In the event of his
+coming out of it alive, he charged Megabyzus to restore to him the
 deposit; but should any evil happen to him, then he was to cause to be
 made and to dedicate on his behalf to Artemis, whatsoever thing he
 thought would be pleasing to the goddess.
 
 In the days of his banishment, when Xenophon was now established by the
-Lacedaemonians as a colonist in Scillus,
-<sup>**[<sup>55</sup>](#sdfootnote55sym)**</sup> a place which lies on
-the main road to Olympia, Megabyzus arrived on his way to Olympia as a
+Lacedaemonians as a colonist in Scillus, [^5] a place which lies on the
+main road to Olympia, Megabyzus arrived on his way to Olympia as a
 spectator to attend the games, and restored to him the deposit. Xenophon
 took the money and bought for the goddess a plot of ground at a point
 indicated to him by the oracle. The plot, it so happened, had its own
@@ -4596,25 +4544,24 @@ victims sacrificed from the sacred pasture, as also of those which were
 slain in the chase; for Xenophon’s own lads, with the lads of the other
 citizens, always made a hunting excursion against the festival day, in
 which any grown men who liked might join. The game was captured partly
-from the sacred district itself, partly from Pholoe,
-<sup>**[<sup>56</sup>](#sdfootnote56sym)**</sup> pigs and gazelles and
-stags. The place lies on the direct road from Lacedaemon to Olympia,
-about twenty furlongs from the temple of Zeus in Olympia, and within the
-sacred enclosure there is meadow-land and wood-covered hills, suited to
-the breeding of pigs and goats and cattle and horses, so that even the
-sumpter animals of the pilgrims passing to the feast fare sumptuously.
-The shrine is girdled by a grove of cultivated trees, yielding dessert
-fruits in their season. The temple itself is a facsimile on a small
-scale of the great temple at Ephesus, and the image of the goddess is
-like the golden statue at Ephesus, save only that it is made, not of
-gold, but of cypress wood. Beside the temple stands a column bearing
-this inscription:– THE PLACE IS SACRED TO ARTEMIS. HE WHO HOLDS IT AND
-ENJOYS THE FRUITS OF IT IS BOUND TO SACRIFICE YEARLY A TITHE OF
-THEPRODUCE. AND FROM THE RESIDUE THEREOF TO KEEP IN REPAIR THE SHRINE.
-IF ANY MAN FAIL IN AUGHT OF THIS THE GODDESS HERSELF WILL LOOK TO IT
-THAT THE MATTER SHALL NOT SLEEP.
+from the sacred district itself, partly from Pholoe, [^6] pigs and
+gazelles and stags. The place lies on the direct road from Lacedaemon to
+Olympia, about twenty furlongs from the temple of Zeus in Olympia, and
+within the sacred enclosure there is meadow-land and wood-covered hills,
+suited to the breeding of pigs and goats and cattle and horses, so that
+even the sumpter animals of the pilgrims passing to the feast fare
+sumptuously.  The shrine is girdled by a grove of cultivated trees,
+yielding dessert fruits in their season. The temple itself is a
+facsimile on a small scale of the great temple at Ephesus, and the image
+of the goddess is like the golden statue at Ephesus, save only that it
+is made, not of gold, but of cypress wood. Beside the temple stands a
+column bearing this inscription:– THE PLACE IS SACRED TO ARTEMIS. HE WHO
+HOLDS IT AND ENJOYS THE FRUITS OF IT IS BOUND TO SACRIFICE YEARLY A
+TITHE OF THEPRODUCE. AND FROM THE RESIDUE THEREOF TO KEEP IN REPAIR THE
+SHRINE.  IF ANY MAN FAIL IN AUGHT OF THIS THE GODDESS HERSELF WILL LOOK
+TO IT THAT THE MATTER SHALL NOT SLEEP.
 
-IV
+### IV ###
 
 From Cerasus they continued the march, the same portion of the troops
 being conveyed by sea as before, and the rest marching by land. When
@@ -4770,7 +4717,7 @@ their own expense, standing still and then again capering about,
 wherever they might chance to be, without rhyme or reason, as if their
 sole business were to show off to the rest of the world.
 
-V
+### V ###
 
 Through this country, friendly or hostile as the chance might be, the
 Hellenes marched, eight stages in all, and reached the Chalybes. These
@@ -4788,7 +4735,7 @@ an opinion that the gods in no wise countenanced war. Then they accepted
 the gifts of hospitality, and marching through what was now recognised
 as a friendly country, in two days reached Cotyora, a Hellenic city, and
 a colony of Sinope, albeit situated in the territory of the Tibarenians.
-<sup>**[<sup>57</sup>](#sdfootnote57sym)**</sup>
+[^7]
 
 Here they halted forty-five days, during which they first of all
 sacrificed to the gods, and instituted processions, each set of the
@@ -4850,9 +4797,8 @@ force. But, to come to these Cotyorites, whom you claim to be your
 people, if we have taken aught from them, they have themselves to blame,
 for they did not deal with us as friends, but shut their gates in our
 faces. They would neither welcome us within nor furnish us with a market
-without. The only justification they alleged was that your governor
-<sup>**[<sup>58</sup>](#sdfootnote58sym)**</sup> had authorised this
-conduct.
+without. The only justification they alleged was that your governor [^8]
+had authorised this conduct.
 
 “As to your assertion,” he continued, turning to Hecatonymus, “that we
 have got in by force and have taken up quarters, this is what we did. We
@@ -4888,7 +4834,7 @@ topics of conversation; freely flowed the talk on things in general;
 and, in particular, both parties were able to make inquiries and satisfy
 their curiosity concerning the remaining portion of the march.
 
-VI
+### VI ###
 
 Such was the conclusion of that day. On the following day the generals
 summoned an assembly of the soldiers, when it was resolved to invite the
@@ -5027,15 +4973,14 @@ staying here; let Hellas, and Hellas only, be the object of your
 affection, for I am told that certain persons have been sacrificing on
 this very question, without saying a word to you. Now I can promise you,
 if you once leave these waters, to furnish you with regular monthly pay,
-dating from the first of the month, at the rate of one cyzicene
-<sup>**[<sup>59</sup>](#sdfootnote59sym)**</sup> a head per month. I
-will bring you to the Troad, from which part I am an exile, and my own
-state is at your service. They will receive me with open arms. I will be
-your guide personally, and I will take you to places where you will get
-plenty of money. I know every corner of the Aeolid, and Phrygia, and the
-Troad, and indeed the whole satrapy of Pharnabazus, partly because it is
-my birthplace, partly from campaigns in that region with Clearchus and
-Dercylidas."
+dating from the first of the month, at the rate of one cyzicene [^9] a
+head per month. I will bring you to the Troad, from which part I am an
+exile, and my own state is at your service. They will receive me with
+open arms. I will be your guide personally, and I will take you to
+places where you will get plenty of money. I know every corner of the
+Aeolid, and Phrygia, and the Troad, and indeed the whole satrapy of
+Pharnabazus, partly because it is my birthplace, partly from campaigns
+in that region with Clearchus and Dercylidas."
 
 No sooner had he ceased than up got Thorax the Boeotian. This was a man
 who had a standing battle with Xenophon about the generalship of the
@@ -5044,11 +4989,10 @@ there was the Chersonese, a beautiful and prosperous country, where they
 could settle or not, as they chose. Those who liked could stay; and
 those who liked could return to their homes; how ridiculousthen, when
 there was so much territory in Hellas and to spare, to be poking about
-<sup>**[<sup>60</sup>](#sdfootnote60sym)**</sup> in the land of the
-barbarian. “But until you find yourselves there,” he added, “I, no less
-than Timasion, can guarantee you regular pay.” This he said, knowing
-what promises had been made Timasion by the men of Heraclea and Sinope
-to induce them to set sail.
+[^0] in the land of the barbarian. “But until you find yourselves
+there,” he added, “I, no less than Timasion, can guarantee you regular
+pay.” This he said, knowing what promises had been made Timasion by the
+men of Heraclea and Sinope to induce them to set sail.
 
 Meanwhile Xenophon held his peace. Then up got Philesius and Lycon, two
 Achaeans: “It was monstrous,” they said, “that Xenophon should be
@@ -5108,8 +5052,7 @@ lieutenant-general, was acting for Cheirisophus during his continued
 absence). This done they came in a body to Xenophon and said thattheir
 views were changed. As they had now got the ships, they thought it best
 to sail to the Phasis, and seize the territory of the Phasians (whose
-present king was a descendant of Aeetes
-<sup>**[<sup>61</sup>](#sdfootnote61sym)**</sup> ). Xenophon’s reply was
+present king was a descendant of Aeetes [^1] ). Xenophon’s reply was
 curt:–Not one syllable would he have to say himself to the army in this
 matter, “But,” he added, “if you like, you can summon an assembly and
 have your say.” Thereupon Timasion the Dardanian set forth as his
@@ -5117,7 +5060,7 @@ opinion:–It were best to hold no parliament at present, but first to go
 and conciliate, each of them, his own officers. Thus they went away and
 proceeded to execute their plans.
 
-VII
+### VII ###
 
 Presently the soldiers came to learn what was in course of agitation,
 and Neon gave out that Xenophon had persuaded the other generals to
@@ -5148,8 +5091,7 @@ rises there? And doubtless you know this too, that it is Boreas, the
 north wind, who bears the mariner out of Pontus towards Hellas, and the
 south wind inwards towards the Phasis, whence the saying–
 
-"‘When the North wind doth blow Home to Hellas we will go.’
-<sup>**[<sup>62</sup>](#sdfootnote62sym)**</sup>
+"‘When the North wind doth blow Home to Hellas we will go.’ [^2]
 
 "He would be a clever fellow who could befool you into embarking with a
 south wind blowing. That sounds all very well, you think, only I may get
@@ -5299,11 +5241,11 @@ be prosecuted on the capital charge; the generals were to bring all
 offenders to the bar of justice; prosecutions for all other
 misdemeanours committed since the death of Cyrus were to be instituted;
 and they ended by constituting the officers into a board of dicasts;
-<sup>**[<sup>63</sup>](#sdfootnote63sym)**</sup> and upon the strong
-representation of Xenophon, with the concurrence of the soothsayers, it
-was resolved to purify the army, and this purification was made.
+[^3] and upon the strong representation of Xenophon, with the
+concurrence of the soothsayers, it was resolved to purify the army, and
+this purification was made.
 
-VIII
+### VIII ###
 
 It was further resolved that the generals themselves should undergo a
 judicial examination in reference to their conduct in past time. In
@@ -5314,32 +5256,32 @@ merchantmen. Sophaenetus was fined ten minae for inadequate performance
 of his duty as one of the chief officers selected. Against Xenophon a
 charge was brought by certain people, who asserted that they had been
 beaten by him, and framed the indictment as one of personal outrage with
-violence. <sup>**[<sup>64</sup>](#sdfootnote64sym)**</sup> Xenophon got
-up and demanded that the first speaker should state “where and when it
-was he had received these blows.” The other, so challenged, answered,
-“When we were perishing of cold and there was a great depth of snow.”
-Xenophon said: “Upon my word, with weather such as you describe, when
-our provisions had run out, when the wine could not even be smelt, when
-numbers were dropping down dead beat, so acute was the suffering, with
-the enemy close on our heels; certainly, if at such a season as that I
-was guilty of outrage, I plead guilty to being a more outrageous brute
-than the ass, which is too wanton, they say, to feel fatigue. Still, I
-wish you would tell us,” said he, “what led to my striking you. Did I
-ask you for something and, on your refusing it to me, did I proceed to
-beat you? Was it a debt, for which I demanded payment? or a quarrel
-about some boy or other? Was I the worse for liquor, and behaving like a
-drunkard?” When the man met each of these questions with a negative, he
-questioned him further: “Are you a heavy infantry soldier?” “No,” said
-he. “A peltast, then?” “No, nor yet a peltast”; but he had been ordered
-by his messmates to drive a mule, although he was a free man. Then at
-last he recognised him, and inquired: “Are you the fellow who carried
-home the sick man?” “Yes, I am,” said he, “thanks to your driving; and
-you made havoc of my messmates’ kit.” “Havoc!” said Xenophon: “Nay, I
-distributed it; some to one man, some to another to carry, and bade them
-bring the things safely to me; and when I got them back I delivered them
-all safely to you, and you, on your side, had rendered an account to me
-of the man. Let me tell you,” he continued, turning to the court, "what
-the circumstances were; it is worth hearing:–
+violence. [^4] Xenophon got up and demanded that the first speaker
+should state “where and when it was he had received these blows.” The
+other, so challenged, answered, “When we were perishing of cold and
+there was a great depth of snow.” Xenophon said: “Upon my word, with
+weather such as you describe, when our provisions had run out, when the
+wine could not even be smelt, when numbers were dropping down dead beat,
+so acute was the suffering, with the enemy close on our heels;
+certainly, if at such a season as that I was guilty of outrage, I plead
+guilty to being a more outrageous brute than the ass, which is too
+wanton, they say, to feel fatigue. Still, I wish you would tell us,”
+said he, “what led to my striking you. Did I ask you for something and,
+on your refusing it to me, did I proceed to beat you? Was it a debt, for
+which I demanded payment? or a quarrel about some boy or other? Was I
+the worse for liquor, and behaving like a drunkard?” When the man met
+each of these questions with a negative, he questioned him further: “Are
+you a heavy infantry soldier?” “No,” said he. “A peltast, then?” “No,
+nor yet a peltast”; but he had been ordered by his messmates to drive a
+mule, although he was a free man. Then at last he recognised him, and
+inquired: “Are you the fellow who carried home the sick man?” “Yes, I
+am,” said he, “thanks to your driving; and you made havoc of my
+messmates’ kit.” “Havoc!” said Xenophon: “Nay, I distributed it; some to
+one man, some to another to carry, and bade them bring the things safely
+to me; and when I got them back I delivered them all safely to you, and
+you, on your side, had rendered an account to me of the man. Let me tell
+you,” he continued, turning to the court, "what the circumstances were;
+it is worth hearing:–
 
 “A man was left behind from inability to proceed farther; I recognised
 the poor fellow sufficiently to see that he was one of ours, and I
@@ -5433,10 +5375,9 @@ He ended, and then one after another of the assembly got up and began
 recalling incidents of the kind suggested, and things ended not so
 unpleasantly after all.
 
-BOOK VI
-=======
+## BOOK VI
 
-I
+### I ###
 
 After this, whilst waiting, they lived partly on supplies from the
 market, partly on the fruit of raids into Paphlagonia. The
@@ -5464,23 +5405,20 @@ their swords, till at last one man struck his fellow, and every one
 thought he was really wounded, so skilfully and artistically did he
 fall, and the Paphlagonians screamed out. Then he that gave the blow
 stripped the other of his arms, and marched off chanting the “Sitalcas,”
-<sup>**[<sup>65</sup>](#sdfootnote65sym)**</sup> whilst others of the
-Thracians bore off the other, who lay as if dead, though he had not
-received even a scratch.
+[^5] whilst others of the Thracians bore off the other, who lay as if
+dead, though he had not received even a scratch.
 
-After this some Aenianians
-<sup>**[<sup>66</sup>](#sdfootnote66sym)**</sup> and Magnesians got up
-and fell to dancing the Carpaea, as it is called, under arms. This was
-the manner of the dance: one man lays aside his arms and proceeds to
-drive a yoke of oxen, and while he drives he sows, turning him about
-frequently, as though he were afraid of something; up comes a
-cattle-lifter, and no sooner does the ploughman catch sight of him afar,
-than he snatches up his arms and confronts him. They fight in front of
-his team, and all in rhythm to the sound of the pipe. At last the robber
-binds the countryman and drives off the team. Or sometimes the
-cattle-driver binds the robber, and then he puts him under the yoke
-beside the oxen, with his two hands tied behind his back, and off he
-drives.
+After this some Aenianians [^6] and Magnesians got up and fell to
+dancing the Carpaea, as it is called, under arms. This was the manner of
+the dance: one man lays aside his arms and proceeds to drive a yoke of
+oxen, and while he drives he sows, turning him about frequently, as
+though he were afraid of something; up comes a cattle-lifter, and no
+sooner does the ploughman catch sight of him afar, than he snatches up
+his arms and confronts him. They fight in front of his team, and all in
+rhythm to the sound of the pipe. At last the robber binds the countryman
+and drives off the team. Or sometimes the cattle-driver binds the
+robber, and then he puts him under the yoke beside the oxen, with his
+two hands tied behind his back, and off he drives.
 
 After this a Mysian came in with a light shield in either hand and
 danced, at one time going through a pantomime, as if he were dealing
@@ -5499,11 +5437,11 @@ looked upon it as something truly strange that all these dances should
 be under arms; and the Mysians, seeing their astonishment persuaded one
 of the Arcadians who had got a dancing girl to let him introduce her,
 which he did after dressing her up magnificently and giving her a light
-shield. When, lithe of limb, she danced the Pyrrhic,
-<sup>**[<sup>67</sup>](#sdfootnote67sym)**</sup> loud clapping followed;
-and the Paphlagonians asked, “If these women fought by their side in
-battle?” to which they answered, “To be sure, it was the women who
-routed the great King, and drove him out of camp.” So ended the night.
+shield. When, lithe of limb, she danced the Pyrrhic, [^7] loud clapping
+followed; and the Paphlagonians asked, “If these women fought by their
+side in battle?” to which they answered, “To be sure, it was the women
+who routed the great King, and drove him out of camp.” So ended the
+night.
 
 But next day the generals introduced the embassy to the army, and the
 soldiers passed a resolution in the sense proposed: between themselves
@@ -5512,17 +5450,16 @@ After this the ambassadors went on their way, and the Hellenes, as soon
 as it was thought that sufficient vessels had arrived, went on board
 ship, and voyaged a day and a night with a fair breeze, keeping
 Paphlagonia on their left. And on the following day, arriving at Sinope,
-they came to moorings in the harbour of Harmene, near Sinope.
-<sup>**[<sup>68</sup>](#sdfootnote68sym)**</sup> The Sinopeans, though
-inhabitants of Paphlagonia, are really colonists of the Milesians. They
-sent gifts of hospitality to the Hellenes, three thousand measures of
-barley with fifteen hundred jars of wine. At this place Cheirisophus
-rejoined them with a man-of-war. The soldiers certainly expected that,
-having come, he would have brought them something, but he brought them
-nothing, except complimentary phrases, on the part of Anaxibius, the
-high admiral, and the rest, who sent them their congratulations, coupled
-with a promise on the part of Anaxibius that, as soon as they were
-outside the Euxine, pay would be forthcoming.
+they came to moorings in the harbour of Harmene, near Sinope.  [^8] The
+Sinopeans, though inhabitants of Paphlagonia, are really colonists of
+the Milesians. They sent gifts of hospitality to the Hellenes, three
+thousand measures of barley with fifteen hundred jars of wine. At this
+place Cheirisophus rejoined them with a man-of-war. The soldiers
+certainly expected that, having come, he would have brought them
+something, but he brought them nothing, except complimentary phrases, on
+the part of Anaxibius, the high admiral, and the rest, who sent them
+their congratulations, coupled with a promise on the part of Anaxibius
+that, as soon as they were outside the Euxine, pay would be forthcoming.
 
 At Harmene the army halted five days; and now that they seemed to beso
 close to Hellas, the question how they were to reach home not
@@ -5558,14 +5495,13 @@ named by the oracle at Delphi, and his belief was that the vision which
 he had beheld when he first essayed to undertake the joint
 administration of the army was sent to him by that god. He also recalled
 to mind a circumstance which befell him still earlier, whensetting out
-from Ephesus to associate himself with Cyrus;
-<sup>**[<sup>69</sup>](#sdfootnote69sym)**</sup>–how an eagle screamed
+from Ephesus to associate himself with Cyrus; [^9]–how an eagle screamed
 on his right hand from the east, and still remained perched, and the
 soothsayer who was escorting him said that it was a great and royal
-omen; <sup>**[<sup>70</sup>](#sdfootnote70sym)**</sup> indicating glory
-and yet suffering; for the punier race of birds only attack the eagle
-when seated. “Yet,” added he, “it bodes not gain in money; for the eagle
-seizes his food, not when seated, but on the wing.”
+omen; [^0] indicating glory and yet suffering; for the punier race of
+birds only attack the eagle when seated. “Yet,” added he, “it bodes not
+gain in money; for the eagle seizes his food, not when seated, but on
+the wing.”
 
 Thus Xenophon sacrificed, and the god as plainly as might be gave him a
 sign, neither to demand the generalship, nor, if chosen, to accept the
@@ -5631,25 +5567,23 @@ will voyage to Heraclea; every one must endeavour, therefore, to put in
 at that port; and for the rest we will consult, when we are come
 thither.”
 
-II
+### II ###
 
 The next day they weighed anchor and set sail from Harmene with a fair
 breeze, two days’ voyage along the coast. [As they coasted along they
-came in sight of Jason’s beach,
-<sup>**[<sup>71</sup>](#sdfootnote71sym)**</sup> where, as the story
-says, the ship Argo came to moorings; and then the mouths of the rivers,
-first the Thermodon, then the Iris, then the Halys, and next to it the
-Parthenius.] Coasting past [the latter], they reached Heraclea,
-<sup>**[<sup>72</sup>](#sdfootnote72sym)**</sup> a Hellenic city and a
-colony of the Megarians, situated in the territory of the Mariandynians.
-So they came to anchorage off the Acherusian Chersonese, where Heracles
-is said to have descended to bring up the dog Cerberus, at a point where
-they still show the marks of his descent, a deep cleft more than two
-furlongs down. Here the Heracleots sent the Hellenes, as gifts of
-hospitality, three thousand measures of barley and two thousand jars of
-wine, twenty beeves and one hundred sheep. Through the flat country here
-flows the Lycus river, as it is called, about two hundred feet in
-breadth.
+came in sight of Jason’s beach, [^1] where, as the story says, the ship
+Argo came to moorings; and then the mouths of the rivers, first the
+Thermodon, then the Iris, then the Halys, and next to it the
+Parthenius.] Coasting past [the latter], they reached Heraclea, [^2] a
+Hellenic city and a colony of the Megarians, situated in the territory
+of the Mariandynians.  So they came to anchorage off the Acherusian
+Chersonese, where Heracles is said to have descended to bring up the dog
+Cerberus, at a point where they still show the marks of his descent, a
+deep cleft more than two furlongs down. Here the Heracleots sent the
+Hellenes, as gifts of hospitality, three thousand measures of barley and
+two thousand jars of wine, twenty beeves and one hundred sheep. Through
+the flat country here flows the Lycus river, as it is called, about two
+hundred feet in breadth.
 
 The soldiers held a meeting, and took counsel about the remainder of the
 journey: should they make their exit from the Pontus by sea or by land?
@@ -5719,28 +5653,26 @@ in charge of the soldiers who had remained faithful, or to take his
 departure, the god indicated to him by the victims that he should adopt
 the former course.
 
-In this way the army was now split up into three divisions.
-<sup>**[<sup>73</sup>](#sdfootnote73sym)**</sup> First, the Arcadians
-and Achaeans, over four thousand five hundred men, all heavy infantry.
-Secondly, Cheirisophus and his men, viz. one thousandfour hundred heavy
-infantry and the seven hundred peltasts, or Clearchus’s Thracians.
-Thirdly, Xenophon’s division of one thousand seven hundred heavy
-infantry, and three hundred peltasts; but then he alone had the
-cavalry–about forty troopers.
+In this way the army was now split up into three divisions.  [^3] First,
+the Arcadians and Achaeans, over four thousand five hundred men, all
+heavy infantry.  Secondly, Cheirisophus and his men, viz. one
+thousandfour hundred heavy infantry and the seven hundred peltasts, or
+Clearchus’s Thracians.  Thirdly, Xenophon’s division of one thousand
+seven hundred heavy infantry, and three hundred peltasts; but then he
+alone had the cavalry–about forty troopers.
 
 The Arcadians, who had bargained with the Heracleots and got some
 vessels from them, were the first to set sail; they hoped, by pouncing
 suddenly on the Bithynians, to make as large a haul as possible. With
-that object they disembarked at Calpe Haven,
-<sup>**[<sup>74</sup>](#sdfootnote74sym)**</sup> pretty nearly at the
+that object they disembarked at Calpe Haven, [^4] pretty nearly at the
 middle point in Thrace. Cheirisophus setting off straight from Heraclea,
 commenced a land march through the country; but having entered into
 Thrace, he preferred to cling to the seaboard, health and strength
 failing him. Xenophon, lastly, took vessels, and disembarking on the
 confines of Thrace and the Heracleotid, pushed forward through the heart
-of the country. <sup>**[<sup>75</sup>](#sdfootnote75sym)**</sup>
+of the country. [^5]
 
-III
+### III ###
 
 The Arcadians, disembarking under cover of night at Calpe Haven, marched
 against the nearest villages about thirty furlongs from the sea; and as
@@ -5866,7 +5798,7 @@ come, we concluded that you must have learnt what was happening to us,
 and in terror had made a bolt for it to the seaboard. We resolved not to
 be left behind by you; and that is how we also came to march hither.”
 
-IV
+### IV ###
 
 During this day they contented themselves with bivouacking there on the
 beach at the harbour. The place which goes by the name of Calpe Haven is
@@ -5922,8 +5854,7 @@ five days, they buried just where they had fallen, in groups; to remove
 their bodies now would have been impossible. Some few, who lay off the
 roads, they got together and buried with what splendour they could,
 considering the means in their power. Others they could not find, and
-for these they erected a great cenotaph,
-<sup>**[<sup>76</sup>](#sdfootnote76sym)**</sup> and covered it with
+for these they erected a great cenotaph, [^6] and covered it with
 wreaths. When it was all done, they returned home to camp. At that time
 they supped, and went to rest.
 
@@ -5934,8 +5865,7 @@ resolution that, for the future, whoever revived the idea of breaking up
 the army should be punished by death. And the army, it was decided,
 would now resume its old position under the command of its former
 generals. Though Cheirisophus, indeed, had already died under medical
-treatment for fever; <sup>**[<sup>77</sup>](#sdfootnote77sym)**</sup>
-and Neon the Asinaean had taken his place.
+treatment for fever; [^7] and Neon the Asinaean had taken his place.
 
 After these resolutions Xenophon got up and said: “Soldiers, the journey
 must now, I presume, be conducted on foot; indeed, this is clear, since
@@ -6017,7 +5947,7 @@ hardly safe, for the ground was thickly grown with bush; all they could
 do was to strengthen the outposts and keep watch under arms the livelong
 night.
 
-V
+### V ###
 
 And so they spent the night, but with day-dawn the generals led the way
 into the natural fastness, and the others picked up their arms and
@@ -6174,7 +6104,7 @@ point where the first encounter took place they erected a trophy, and
 went back to the sea about sunset. It was something like seven miles to
 camp.
 
-VI
+### VI ###
 
 After this the enemy confined themselves to their own concerns, and
 removed their households and property as far away as possible. The
@@ -6380,8 +6310,7 @@ this proceeding they captured many slaves and much small cattle; and on
 the sixth day reached Chrysopolis in Chalcedonia. Here they halted seven
 days while they disposed of their booty by sale.
 
-BOOK VII
-========
+## BOOK VII
 
 [In the earlier portion of the narrative will be found a detailed
 history of the fortunes of the Hellenes during their march up country
@@ -6391,7 +6320,7 @@ their efforts to escape from the Euxine, partly by land marches and
 partly under sail by sea, until they found themselves outside the mouth
 of the Black Sea (south of the Bosphorus) at Chrysopolis in Asia.]
 
-I
+### I ###
 
 At this point Pharnabazus, who was afraid that the army might undertake
 a campaign against his satrapy, sent to Anaxibius, the Spartan high
@@ -6453,8 +6382,7 @@ possibly one of the officers was the medium of communication; however it
 was, the news was handed on to the army. As to the generals, their
 immediate concern was to try and gain some information as to Seuthes:
 "Was he hostile or friendly? also, would they have to march through the
-Sacred mountain, <sup>**[<sup>78</sup>](#sdfootnote78sym)**</sup> or
-round about through the middle of Thrace?"
+Sacred mountain, [^8] or round about through the middle of Thrace?"
 
 While they were discussing these points, the soldiers snatched up their
 arms and made a rush full speed at the gates, with the intention of
@@ -6552,14 +6480,13 @@ not in exile, but with a taste for generalship, who made it his business
 to see if any city or nation were in need of his services. Thus, on the
 present occasion, he presented himself, and begged to state that he was
 ready to put himself at their head, and lead them into the Delta of
-Thrace, <sup>**[<sup>79</sup>](#sdfootnote79sym)**</sup> as it is
-called, where they would find themselves in a land of plenty; but until
-they got there, he would provide them with meat and drink enough and to
-spare. While they were still listening to this tale, the return message
-from Anaxibius came. His answer was: “The discipline, they had spoken
-of, was not a thing they would regret; indeed he would report their
-behaviour to the authorities at home; and for himself, he would take
-advice and do the best he could for them.”
+Thrace, [^9] as it is called, where they would find themselves in a land
+of plenty; but until they got there, he would provide them with meat and
+drink enough and to spare. While they were still listening to this tale,
+the return message from Anaxibius came. His answer was: “The discipline,
+they had spoken of, was not a thing they would regret; indeed he would
+report their behaviour to the authorities at home; and for himself, he
+would take advice and do the best he could for them.”
 
 Thereupon the soldiers accepted Coeratadas as their general, and retired
 without the walls. Their new general undertook to present himself to the
@@ -6600,7 +6527,7 @@ day’s provisions for each man, he picked up his paraphernalia of
 sacrifice and withdrew. As to being general, he would have nothing more
 to say to it.
 
-II
+### II ###
 
 Now these five were left–Neon the Asinaean, Phryniscus the Achaean,
 Philesius the Achaean, Xanthicles the Achaean, Timasion the Dardanian–at
@@ -6762,8 +6689,7 @@ arms outside, and you can leave your own sword outside before you enter
 with them on your return.”
 
 When Seuthes had heard so far, he interposed: "I should never mistrust
-an Athenian, for we are relatives already,
-<sup>**[<sup>80</sup>](#sdfootnote80sym)**</sup> I know; and the best of
+an Athenian, for we are relatives already, [^0] I know; and the best of
 friends, I believe, we shall be." After that, as soon as the right men
 entered, Xenophon first questioned Seuthes as to what use he intended to
 make of the army, and he replied as follows: “Maesades was my father;
@@ -6798,7 +6724,7 @@ daughter, I will buy her in Thracian fashion; and I will give you
 Bisanthe as a dwelling-place, which is the fairest of all my possessions
 on the seaboard.”
 
-III
+### III ###
 
 After listening to these proposals, they gave and accepted pledges of
 good faith; and so the deputation rode off. Before day they were back
@@ -6877,36 +6803,35 @@ After this the troops messed in their separate divisions, but the
 generals and officers were invited by Seuthes to dinner at a
 neighbouring village which was in his possession. When they were at the
 doors, and on the point of stepping in to dinner, they were met bya
-certain Heracleides, of Maronea.
-<sup>**[<sup>81</sup>](#sdfootnote81sym)**</sup> He came up to each
-guest, addressing himself particularly to those who, as he conjectured,
-ought to be able to make a present to Seuthes. He addressed himself
-first to some Parians who were there to arrange a friendship with
-Medocus, the king of the Odrysians, and were bearers of presents to the
-king and to his wife. Heracleides reminded them: “Medocus is up country
-twelve days’ journey from the sea; but Seuthes, now that he has got this
-army, will be lord on the sea-coast; as your neighbour, then, he is the
-man to do you good or do you ill. If you are wise, you will give him
-whatever he askes of you. On the whole, it will be laid out at better
-interest than if you have it to Medocus, who lives so far off.” That was
-his mode of persuasion in their case. Next he came to Timasion the
-Dardanian, who, some one had told him, was the happy possessor of
-certain goblets and oriental carpets. What he said to him was: “It is
-customary when people are invited to dinner by Seuthes for the guests to
-make him a present; now if he should become a great person in these
-parts, he will be able to restore you to your native land, or to make
-you a rich man here.” Such were the solicitations which he applied to
-each man in turn whom he accosted. Presently he came to Xenophon and
-said: “You are at once a citizen of no mean city, and with Seuthes also
-your own name is very great. Maybe you expect to obtain a fort or two in
-this country, just as others of your countrymen have done[2], and
-territory. It is only right and proper therefore that you should honour
-Seuthes in the most magnificent style. Be sure, I give this advice out
-of pure friendliness, for I know that the greater the gift that you are
-ready to bestow on him, the better the treatment you will receive at his
-hands.” Xenophon, on hearing this, was in a sad dilemma, for he had
-brought with him, when he crossed from Parium, nothing but one boy and
-just enough to pay his travelling expenses.
+certain Heracleides, of Maronea.  [^1] He came up to each guest,
+addressing himself particularly to those who, as he conjectured, ought
+to be able to make a present to Seuthes. He addressed himself first to
+some Parians who were there to arrange a friendship with Medocus, the
+king of the Odrysians, and were bearers of presents to the king and to
+his wife. Heracleides reminded them: “Medocus is up country twelve days’
+journey from the sea; but Seuthes, now that he has got this army, will
+be lord on the sea-coast; as your neighbour, then, he is the man to do
+you good or do you ill. If you are wise, you will give him whatever he
+askes of you. On the whole, it will be laid out at better interest than
+if you have it to Medocus, who lives so far off.” That was his mode of
+persuasion in their case. Next he came to Timasion the Dardanian, who,
+some one had told him, was the happy possessor of certain goblets and
+oriental carpets. What he said to him was: “It is customary when people
+are invited to dinner by Seuthes for the guests to make him a present;
+now if he should become a great person in these parts, he will be able
+to restore you to your native land, or to make you a rich man here.”
+Such were the solicitations which he applied to each man in turn whom he
+accosted. Presently he came to Xenophon and said: “You are at once a
+citizen of no mean city, and with Seuthes also your own name is very
+great. Maybe you expect to obtain a fort or two in this country, just as
+others of your countrymen have done[2], and territory. It is only right
+and proper therefore that you should honour Seuthes in the most
+magnificent style. Be sure, I give this advice out of pure friendliness,
+for I know that the greater the gift that you are ready to bestow on
+him, the better the treatment you will receive at his hands.” Xenophon,
+on hearing this, was in a sad dilemma, for he had brought with him, when
+he crossed from Parium, nothing but one boy and just enough to pay his
+travelling expenses.
 
 As soon as the company, consisting of the most powerful Thraciansthere
 present, with the generals and captains of the Hellenes, and any embassy
@@ -6967,11 +6892,11 @@ with him the cup, and with him sprinkled the last drops fraternally.
 
 At this stage entered musicians blowing upon horns such as they use for
 signal calls, and trumpeting on trumpets, made of raw oxhide, tunes and
-airs, like the music of the double-octave harp.
-<sup>**[<sup>82</sup>](#sdfootnote82sym)**</sup> Seuthes himself got up
-and shouted, trolling forth a war song; then he sprang from his place
-and leapt about as though he would guard himself against a missile, in
-right nimble style. Then came in a set of clowns and jesters.
+airs, like the music of the double-octave harp.  [^2] Seuthes himself
+got up and shouted, trolling forth a war song; then he sprang from his
+place and leapt about as though he would guard himself against a
+missile, in right nimble style. Then came in a set of clowns and
+jesters.
 
 But when the sun began to set, the Hellenes rose from their seats. Itwas
 time, they said, to place the night sentinels and to pass the watchword;
@@ -7051,7 +6976,7 @@ were enclosed–of captives for the slave market, one thousand; of cattle,
 two thousand; and of other small cattle, ten thousand. For the time
 being they took up quarters there.
 
-IV
+### IV ###
 
 But the next day Seuthes burnt the villages to the ground; he left not a
 single house, being minded to inspire terror in the rest of his enemies,
@@ -7175,7 +7100,7 @@ hostages those who are most capable of doing mischief, and to let the
 old men abide in peace at home.” So to a man they gave in their adhesion
 in that quarter of the country.
 
-V
+### V ###
 
 Crossing over in the direction of the Thracians above Byzantium, they
 reached the Delta, as it is called. Here they were no longer in the
@@ -7249,7 +7174,7 @@ whilst Seuthes, on his side, was no longer so friendlily disposed. If
 Xenophon ever wished to come face to face with him, want of leisure or
 some other difficulty always seemed to present itself.
 
-VI
+### VI ###
 
 At this date, when nearly two months had already passed, an embassy
 arrived. These were two agents from Thibron–Charminus, a Lacedaemonian,
@@ -7488,7 +7413,7 @@ King: “Whether it were better and happier to stay with Seuthes on the
 terms proposed, or depart with the army?” The answer he received was,
 “Depart.”
 
-VII
+### VII ###
 
 After this, Seuthes removed his camp to some considerable distance; and
 the Hellenes took up their quarters in some villages, selecting those in
@@ -7744,11 +7669,11 @@ Accordingly they took the property and appointed official vendors of the
 booty, and in the end incurred considerable blame. Xenophon held aloof.
 In fact it was no secret that he was making his preparations to return
 home, for as yet the vote of banishment had not been passed at Athens.
-<sup>**[<sup>83</sup>](#sdfootnote83sym)**</sup> But the authorities in
-the camp came to him and begged him not to go away until he had
-conducted the army to its destination, and handed it over to Thibron.
+[^3] But the authorities in the camp came to him and begged him not to
+go away until he had conducted the army to its destination, and handed
+it over to Thibron.
 
-VIII
+### VIII ###
 
 From this place they sailed across to Lampsacus, and here Xenophon was
 met by Eucleides the soothsayer, a Phliasian, the son of Cleagoras, who
@@ -7780,10 +7705,9 @@ remunerated.
 
 From that place they marched through the Troad, and, crossing Mount Ida,
 arrived at Antandrus, and then pushed along the seaboard of Mysia to the
-plain of Thebe. <sup>**[<sup>84</sup>](#sdfootnote84sym)**</sup> Thence
-they made their way through Adramytium and Certonus
-<sup>**[<sup>85</sup>](#sdfootnote85sym)**</sup> by Atarneus, coming
-into the plain of the Caicus, and so reached Pergamus in Mysia.
+plain of Thebe. [^4] Thence they made their way through Adramytium and
+Certonus [^5] by Atarneus, coming into the plain of the Caicus, and so
+reached Pergamus in Mysia.
 
 Here Xenophon was hospitably entertained at the house of Hellas, the
 wife of Gongylus the Eretrian, the mother of Gorgion and Gongylus. From
@@ -7816,10 +7740,9 @@ the hole, and the rest discharged their arrows so hotly that it was
 dangerous to come anywhere near the passage; and what with their
 shouting and kindling of beacon fires, a relief party at length arrived,
 consisting of Itabelius at the head of his force, and a body of Assyrian
-heavy infantry from Comania, and some Hyrcanian cavalry,
-<sup>**[<sup>86</sup>](#sdfootnote86sym)**</sup> the latter also being
-mercenaries of the king. There were eighty of them, and another
-detachment of light troops, about eight hundred, and more from
+heavy infantry from Comania, and some Hyrcanian cavalry, [^6] the latter
+also being mercenaries of the king. There were eighty of them, and
+another detachment of light troops, about eight hundred, and more from
 Parthenium, and more again from Apollonia and the neighbouring places,
 also cavalry.
 
@@ -7864,443 +7787,426 @@ Meanwhile Thibron arrived and received the troops which he incorporated
 with the rest of his Hellenic forces, and so proceeded to prosecute a
 war against Tissaphernes and Pharnabazus.
 
-[1](#sdfootnote1anc) Parrhasia, a district and town in the south-west of
-Arcadia.
+[^1]: Parrhasia, a district and town in the south-west of Arcadia.
 
-[2](#sdfootnote2anc) A Persian gold coin = 125.55 grains of gold.
+[^2]: A Persian gold coin = 125.55 grains of gold.
 
-[3](#sdfootnote3anc) Lit. “guest-friend.” Aristippus was, as we learn
-from the “Meno” of Plato, a native of Larisa, of the family of the
-Aleuadae, and a pupil of Gorgias. He was also a lover of Menon, whom he
-appears to have sent on this expedition instead of himself.
+[^3]: Lit. “guest-friend.” Aristippus was, as we learn from the “Meno”
+of Plato, a native of Larisa, of the family of the Aleuadae, and a pupil
+of Gorgias. He was also a lover of Menon, whom he appears to have sent
+on this expedition instead of himself.
 
-[4](#sdfootnote4anc) Lit. “into the country of the Pisidians.”
+[^4]: Lit. “into the country of the Pisidians.”
 
-[5](#sdfootnote5anc) “Targeteers” armed with a light shield instead of
-the larger one of the hoplite, or heavy infantry soldier. Iphicrates
-made great use of this arm at a later date.
+[^5]: “Targeteers” armed with a light shield instead of the larger one
+of the hoplite, or heavy infantry soldier. Iphicrates made great use of
+this arm at a later date.
 
-[6](#sdfootnote6anc) The Persian “farsang” = 30 stades, nearly 1 league,
-3 1/2 statute miles, though not of uniform value in all parts of Asia.
+[^6]: The Persian “farsang” = 30 stades, nearly 1 league, 3 1/2 statute
+miles, though not of uniform value in all parts of Asia.
 
-[7](#sdfootnote7anc) “Two plethra”: the plethron = about 101 English
-feet.
+[^7]: “Two plethra”: the plethron = about 101 English feet.
 
-[8](#sdfootnote8anc) Lit. “inhabited,” many of the cities of Asia being
-then as now deserted, but the suggestion is clearly at times “thickly
-inhabited,” “populous.”
+[^8]: Lit. “inhabited,” many of the cities of Asia being then as now
+deserted, but the suggestion is clearly at times “thickly inhabited,”
+“populous.”
 
-[9](#sdfootnote9anc) Lit. “paradise,” an oriental word = park or
-pleasure ground.
+[^9]: Lit. “paradise,” an oriental word = park or pleasure ground.
 
-[10](#sdfootnote10anc) The Lycaea, an Arcadian festival in honour of
-Zeus {Arcaios}, akin to the Roman Lupercalia, which was originally a
-shepherd festival, the introduction of which the Romans ascribe to the
-Arcadian Evander.
+[^10]: The Lycaea, an Arcadian festival in honour of Zeus {Arcaios},
+akin to the Roman Lupercalia, which was originally a shepherd festival,
+the introduction of which the Romans ascribe to the Arcadian Evander.
 
-[11](#sdfootnote11anc) Lit. “plain of the Cayster,” like Ceramon-agora,
-“the market of the Ceramians” above, the name of a town.
+[^11]: Lit. “plain of the Cayster,” like Ceramon-agora, “the market of
+the Ceramians” above, the name of a town.
 
-[12](#sdfootnote12anc) Literally, “into the country of the barbarians.”
+[^12]: Literally, “into the country of the barbarians.”
 
-[13](#sdfootnote13anc) Cf. Plat. “Alcib.” i. 123 B. “Why, I have been
-informed by a credible person, who went up to the king (at Susa), that
-he passed through a large tract of excellent land, extending for nearly
-a day’s journey, which the people of the country called the queen’s
-girdle, and another which they called her veil,” etc. Olympiodorus and
-the Scholiast both think that Plato here refers to Xenophon and this
-passage of the “Anabasis.” Grote thinks it very probable that Plato had
-in his mind Xenophon (either his “Anabasis” or personal communications
-with him).
+[^13]: Cf. Plat. “Alcib.” i. 123 B. “Why, I have been informed by a
+credible person, who went up to the king (at Susa), that he passed
+through a large tract of excellent land, extending for nearly a day’s
+journey, which the people of the country called the queen’s girdle, and
+another which they called her veil,” etc. Olympiodorus and the Scholiast
+both think that Plato here refers to Xenophon and this passage of the
+“Anabasis.” Grote thinks it very probable that Plato had in his mind
+Xenophon (either his “Anabasis” or personal communications with him).
 
-[14](#sdfootnote14anc) The choenix = about 1 quart (or, according to
-others, 1 1/2 pint). It was the minimum allowance of corn for a man, say
-a slave, per diem. The Spartan was allowed at the public table 2
-choenices a day.
+[^14]: The choenix = about 1 quart (or, according to others, 1 1/2
+pint). It was the minimum allowance of corn for a man, say a slave, per
+diem. The Spartan was allowed at the public table 2 choenices a day.
 
-[15](#sdfootnote15anc) For “the wall of Media” see Grote, “Hist. of
-Greece,” vol. ix. p. 87 and foll. note (1st ed.), and various
-authorities there quoted or referred to. The next passage enclosed in []
-may possibly be a commentator’s or editor’s note, but, on the whole, I
-have thought it best to keep the words in the text instead of relegating
-them, as heretofore, to a note. Perhaps some future traveller may clear
-up all difficulties.
+[^15]: For “the wall of Media” see Grote, “Hist. of Greece,” vol. ix. p.
+87 and foll. note (1st ed.), and various authorities there quoted or
+referred to. The next passage enclosed in [] may possibly be a
+commentator’s or editor’s note, but, on the whole, I have thought it
+best to keep the words in the text instead of relegating them, as
+heretofore, to a note. Perhaps some future traveller may clear up all
+difficulties.
 
-[16](#sdfootnote16anc) The MSS. add, “to expose oneself to the risks of
-war bareheaded is, it is said, a practice common to the Persians,” which
-I regard as a commentator’s note, if not an original marginal note of
-some early editor, possibly of the author himself. The “Cyropaedeia” is
-full of such comments, “pieces justificatives” inserted into the text.
+[^16]: The MSS. add, “to expose oneself to the risks of war bareheaded
+is, it is said, a practice common to the Persians,” which I regard as a
+commentator’s note, if not an original marginal note of some early
+editor, possibly of the author himself. The “Cyropaedeia” is full of
+such comments, “pieces justificatives” inserted into the text.
 
-[17](#sdfootnote17anc) the omens from inspecting the innards of the
-victims, and the omens from the acts and movements of the victims.
+[^17]: the omens from inspecting the innards of the victims, and the
+omens from the acts and movements of the victims.
 
-[18](#sdfootnote18anc) “Ctesias, the son of Ctesiochus, was a physician
-of Cnidos. Seventeen years of his life were passed at the court of
-Persia, fourteen in the service of Darios, three in that of Artaxerxes;
-he returned to Greece in 398 B.C.,” and “was employed by Artaxerxes in
-diplomatic services.” See Mure; also Ch. Muller, for his life and works.
-He wrote (1) a history on Persian affairs in three parts–Assyrian,
-Median, Persian–with a chapter “On Tributes;” (2) a history of Indian
-affairs (written in the vein of Sir John Maundeville, Kt.); (3) a
-Periplus; (4) a treatise on Mountains; (5) a treatise on Rivers.
+[^18]: “Ctesias, the son of Ctesiochus, was a physician of Cnidos.
+Seventeen years of his life were passed at the court of Persia, fourteen
+in the service of Darios, three in that of Artaxerxes; he returned to
+Greece in 398 B.C.,” and “was employed by Artaxerxes in diplomatic
+services.” See Mure; also Ch. Muller, for his life and works.  He wrote
+(1) a history on Persian affairs in three parts–Assyrian, Median,
+Persian–with a chapter “On Tributes;” (2) a history of Indian affairs
+(written in the vein of Sir John Maundeville, Kt.); (3) a Periplus; (4)
+a treatise on Mountains; (5) a treatise on Rivers.
 
-[19](#sdfootnote19anc) The character now to be drawn is afterwards
-elaborated into the Cyrus of the Cyropedeia.
+[^19]: The character now to be drawn is afterwards elaborated into the
+Cyrus of the Cyropedeia.
 
-[20](#sdfootnote20anc) The elder Cyrus, when a boy, kills not a bear but
-a boar.
+[^20]: The elder Cyrus, when a boy, kills not a bear but a boar.
 
-[21](#sdfootnote21anc) The Spartan king who was deposed in B.C. 491,
-whereupon he fled to King Darius, and settled in south-western Mysia.
-See Herod. vi. 50, 61-70. We shall hear more of his descendant, Procles,
-the ruler of Teuthrania, in the last chapter of this work.
+[^21]: The Spartan king who was deposed in B.C. 491, whereupon he fled
+to King Darius, and settled in south-western Mysia.  See Herod. vi. 50,
+61-70. We shall hear more of his descendant, Procles, the ruler of
+Teuthrania, in the last chapter of this work.
 
-[22](#sdfootnote22anc) The MSS. add the words, “The total distance of
-the route, taking Ephesus in Ionia as the starting point up to the field
-of battle, consisted of 93 stages, 535 parasangs, or 16,050 furlongs;
-from the battle-field to Babylon (reckoned a three days’ journey) would
-have been another 360 stades,” which may well be an editor’s or
-commentator’s marginal note.
+[^22]: The MSS. add the words, “The total distance of the route, taking
+Ephesus in Ionia as the starting point up to the field of battle,
+consisted of 93 stages, 535 parasangs, or 16,050 furlongs; from the
+battle-field to Babylon (reckoned a three days’ journey) would have been
+another 360 stades,” which may well be an editor’s or commentator’s
+marginal note.
 
-[23](#sdfootnote23anc) Possibly Xenophon himself.
+[^23]: Possibly Xenophon himself.
 
-[24](#sdfootnote24anc) The Greater Zab, which flows into the Tigris near
-a town now called Senn, with which most travellers identify Caenae.
+[^24]: The Greater Zab, which flows into the Tigris near a town now
+called Senn, with which most travellers identify Caenae.
 
-[25](#sdfootnote25anc) We learn from Diodorus Siculus, xiv. 35, that the
-Egyptians had revolted from the Persians towards the end of the reign of
-Darius.
+[^25]: We learn from Diodorus Siculus, xiv. 35, that the Egyptians had
+revolted from the Persians towards the end of the reign of Darius.
 
-[26](#sdfootnote26anc) Proxenus, like Cyrus, is to some extent a
-prototype of the Cyrus of the “Cyropaedia.” In other words, the author,
-in delineating the portrait of his ideal prince, drew from the
-recollection of many princely qualities observed by him in the
-characters of many friends. Apart from the intrinsic charm of the story,
-the “Anabasis” is interesting as containing the raw material of
-experience and reflection which “this young scholar or philosopher,” our
-friend, the author, will one day turn to literary account.
+[^26]: Proxenus, like Cyrus, is to some extent a prototype of the Cyrus
+of the “Cyropaedia.” In other words, the author, in delineating the
+portrait of his ideal prince, drew from the recollection of many
+princely qualities observed by him in the characters of many friends.
+Apart from the intrinsic charm of the story, the “Anabasis” is
+interesting as containing the raw material of experience and reflection
+which “this young scholar or philosopher,” our friend, the author, will
+one day turn to literary account.
 
-[27](#sdfootnote27anc) The reader should turn to Grote’s comments on the
-first appearance of Xenophon. He has been mentioned before, of course,
-more than once before; but he now steps, as the protagonist, upon the
-scene, and as Grote says: “It is in true Homeric vein, and in something
-like Homeric language, that Xenophon (to whom we owe the whole narrative
-of the expedition) describes his dream, or the intervention of Oneiros,
+[^27]: The reader should turn to Grote’s comments on the first
+appearance of Xenophon. He has been mentioned before, of course, more
+than once before; but he now steps, as the protagonist, upon the scene,
+and as Grote says: “It is in true Homeric vein, and in something like
+Homeric language, that Xenophon (to whom we owe the whole narrative of
+the expedition) describes his dream, or the intervention of Oneiros,
 sent by Zeus, from which this renovating impulse took its rise.”
 
-[28](#sdfootnote28anc) So it is said of the Russian General Skobelef,
-that he had a strange custom of going into battle in his cleanest
-uniform, perfumed, and wearing a diamond-hilted sword, “in order that,”
-as he said, “he might die in his best attire.”
+[^28]: So it is said of the Russian General Skobelef, that he had a
+strange custom of going into battle in his cleanest uniform, perfumed,
+and wearing a diamond-hilted sword, “in order that,” as he said, “he
+might die in his best attire.”
 
-[29](#sdfootnote29anc) For this ancient omen see “Odyssey,” xvii. 541:
-“Even as she spake, and Telemachus sneezed loudly, and around the roof
-rung wondrously. And Penelope laughed.” . . . “Dost thou not mark how my
-son has sneezed a blessing on all my words?”
+[^29]: For this ancient omen see “Odyssey,” xvii. 541: “Even as she
+spake, and Telemachus sneezed loudly, and around the roof rung
+wondrously. And Penelope laughed.” . . . “Dost thou not mark how my son
+has sneezed a blessing on all my words?”
 
-[30](#sdfootnote30anc) the allusion is to the invasion of Greeze by
-Datis and Artaphernes, and to their defeat at Marathon, B.C. 490.
-“Heredotus estimates the number of those who fell on the Persian side at
-6400 men: the number of Athenian dead is accurately known, since all
-were collected for the last solemn obsequies–they were 192.”–Grote,
-“Hist. of Greece,” vol. v. p. 475.
+[^30]: the allusion is to the invasion of Greeze by Datis and
+Artaphernes, and to their defeat at Marathon, B.C. 490.  “Heredotus
+estimates the number of those who fell on the Persian side at 6400 men:
+the number of Athenian dead is accurately known, since all were
+collected for the last solemn obsequies–they were 192.”–Grote, “Hist. of
+Greece,” vol. v. p. 475.
 
-[31](#sdfootnote31anc) Then = at Salamis, B.C. 480, and at Plataea and
-Mycale, B.C. 479, on the same day.
+[^31]: Then = at Salamis, B.C. 480, and at Plataea and Mycale, B.C. 479,
+on the same day.
 
-[32](#sdfootnote32anc) See “Odyssey,” ix. 94, “ever feeding on the Lotus
-and forgetful of returning.”
+[^32]: See “Odyssey,” ix. 94, “ever feeding on the Lotus and forgetful
+of returning.”
 
-[33](#sdfootnote33anc) Here seems to be the germ–unless, indeed, the
-thought had been conceived above–here at any rate the first conscious
-expression of the colonisation scheme, of which we shall hear more
-below, in reference to Cotyora; the Phasis; Calpe. It appears again
-fifty years later in the author’s pamphlet “On Revenues,” chapters i.
-and vi. For the special evils of the fourth century B.C., and the growth
-of pauperism between B.C. 401 and 338, see Jebb, “Attic Orators,” vol i.
-p. 17.
+[^33]: Here seems to be the germ–unless, indeed, the thought had been
+conceived above–here at any rate the first conscious expression of the
+colonisation scheme, of which we shall hear more below, in reference to
+Cotyora; the Phasis; Calpe. It appears again fifty years later in the
+author’s pamphlet “On Revenues,” chapters i.  and vi. For the special
+evils of the fourth century B.C., and the growth of pauperism between
+B.C. 401 and 338, see Jebb, “Attic Orators,” vol i.  p. 17.
 
-[34](#sdfootnote34anc) Larissa, on the side of the modern Nimrud (the
-south-west corner, as is commonly supposed, of Nineveh). The name is
-said to mean “citadel,” and is given to various Greek cities (of which
-several occur in Xenophon).
+[^34]: Larissa, on the side of the modern Nimrud (the south-west corner,
+as is commonly supposed, of Nineveh). The name is said to mean
+“citadel,” and is given to various Greek cities (of which several occur
+in Xenophon).
 
-[35](#sdfootnote35anc) Cyrus the Great
+[^35]: Cyrus the Great
 
-[36](#sdfootnote36anc) Opposite Mosul, the north-west portion of the
-ancient Nineveh, about eighteen miles above Larissa. The circuit of
-Nineveh is said to have been about fifty-six miles. It was overthrown by
-Cyrus in B.C. 558.
+[^36]: Opposite Mosul, the north-west portion of the ancient Nineveh,
+about eighteen miles above Larissa. The circuit of Nineveh is said to
+have been about fifty-six miles. It was overthrown by Cyrus in B.C. 558.
 
-[37](#sdfootnote37anc) The wife of Astyages, the last king of Media.
-Some think “the wall of Media” should be “Medea’s wall,” constructed in
-the period of Queen Nitocris, B.C. 560.
+[^37]: The wife of Astyages, the last king of Media.  Some think “the
+wall of Media” should be “Medea’s wall,” constructed in the period of
+Queen Nitocris, B.C. 560.
 
-[38](#sdfootnote38anc) The best MSS read {Skuthai}, Scythians; if this
-is correct, it is only the technical name for “archers.” Cf. Arrian,
-“Tact.” ii. 13. The police at Athens were technically so called, as
-being composed of Scythian slaves.
+[^38]: The best MSS read {Skuthai}, Scythians; if this is correct, it is
+only the technical name for “archers.” Cf. Arrian, “Tact.” ii. 13. The
+police at Athens were technically so called, as being composed of
+Scythian slaves.
 
-[39](#sdfootnote39anc) In the passage above I have translated {lokhoi}
-companies, and, as usual, {lokhagoi} captains. The half company is
-technically called a pentecostys, and a quarter company an enomoty, and
-the officers in charge of them respectively penteconter and enomotarch.
-These would be equivalent nearly to our subalterns and sergeants, and in
-the evolutions described would act as guides and markers in charge of
-their sections. Grote thinks there were six companies formed on each
-flank–twelve in all.
+[^39]: In the passage above I have translated {lokhoi} companies, and,
+as usual, {lokhagoi} captains. The half company is technically called a
+pentecostys, and a quarter company an enomoty, and the officers in
+charge of them respectively penteconter and enomotarch.  These would be
+equivalent nearly to our subalterns and sergeants, and in the evolutions
+described would act as guides and markers in charge of their sections.
+Grote thinks there were six companies formed on each flank–twelve in
+all.
 
-[40](#sdfootnote40anc) the Persian leaders were seen flogging their men
-to the attack. Cf. Herod. vii. 22. 3.
+[^40]: the Persian leaders were seen flogging their men to the attack.
+Cf. Herod. vii. 22. 3.
 
-[41](#sdfootnote41anc) Some think that these three hundred are three of
-the detached companies described above; others, that they were a picked
-corps in attendance on the commander-in-chief.
+[^41]: Some think that these three hundred are three of the detached
+companies described above; others, that they were a picked corps in
+attendance on the commander-in-chief.
 
-[42](#sdfootnote42anc) See Dr. Kiepert, "Man. Anc. Geog. (Mr. G. A.
-Macmillan) iv. 47. The Karduchians or Kurds belong by speech to the
-Iranian stock, forming in fact their farthest outpost to the west,
-little given to agriculture, but chiefly to the breeding of cattle.
-Their name, pronounced Kardu by the ancient Syrians and Assyrians, Kordu
-by the Armenians (plural Kordukh), first appears in its narrower sense
-in western literature in the pages of the eye-witness Xenophon as
-{Kardoukhoi}. Later writers knew of a small kingdom here at the time of
-the Roman occupation, ruled by native princes, who after Tigranes II
-(about 80 B.C.) recognised the overlordship of the Armenian king. Later
-it became a province of the Sassanid kingdom, and as such was in 297
-A.D. handed over among the regiones transtigritanae to the Roman empire,
-but in 364 was again ceded to Persia.
+[^42]: See Dr. Kiepert, "Man. Anc. Geog. (Mr. G. A.  Macmillan) iv. 47.
+The Karduchians or Kurds belong by speech to the Iranian stock, forming
+in fact their farthest outpost to the west, little given to agriculture,
+but chiefly to the breeding of cattle.  Their name, pronounced Kardu by
+the ancient Syrians and Assyrians, Kordu by the Armenians (plural
+Kordukh), first appears in its narrower sense in western literature in
+the pages of the eye-witness Xenophon as {Kardoukhoi}. Later writers
+knew of a small kingdom here at the time of the Roman occupation, ruled
+by native princes, who after Tigranes II (about 80 B.C.) recognised the
+overlordship of the Armenian king. Later it became a province of the
+Sassanid kingdom, and as such was in 297 A.D. handed over among the
+regiones transtigritanae to the Roman empire, but in 364 was again ceded
+to Persia.
 
-[43](#sdfootnote43anc) It is impossible to give the true sense and
-humour of the passage in English, depending, as it does, on the double
-meaning of {diabainein} (1) to cross (a river), (2) to stride or
-straddle (of the legs). The army is unable to cross the Centrites;
-Xenophon dreams that he is fettered, but the chains drop off his legs
-and he is able to stride as freely as ever; next morning the two young
-men come to him with the story how they have found themselves able to
-walk cross the river instead of having to swim it. It is obvious to
-Xenophon that the dream is sent from Heaven.
+[^43]: It is impossible to give the true sense and humour of the passage
+in English, depending, as it does, on the double meaning of {diabainein}
+(1) to cross (a river), (2) to stride or straddle (of the legs). The
+army is unable to cross the Centrites; Xenophon dreams that he is
+fettered, but the chains drop off his legs and he is able to stride as
+freely as ever; next morning the two young men come to him with the
+story how they have found themselves able to walk cross the river
+instead of having to swim it. It is obvious to Xenophon that the dream
+is sent from Heaven.
 
-[44](#sdfootnote44anc) Or, “to stick tight to them and not to be
-outdone”; or, as others understand, “the (infantry) soldiers clamoured
-not to be left behind, but to follow them up into the mountains.”
+[^44]: Or, “to stick tight to them and not to be outdone”; or, as others
+understand, “the (infantry) soldiers clamoured not to be left behind,
+but to follow them up into the mountains.”
 
-[45](#sdfootnote45anc) Or, as we should say, “in his shirt sleeves.”
-Doubtless he lay with his {imation} or cloak loosely wrapped round him;
-as he sprang to his feet he would throw it off, or it would fall off,
-and with the simple inner covering of the {khiton} to protect him, and
-arms free, he fell to chopping the wood, only half clad.
+[^45]: Or, as we should say, “in his shirt sleeves.” Doubtless he lay
+with his {imation} or cloak loosely wrapped round him; as he sprang to
+his feet he would throw it off, or it would fall off, and with the
+simple inner covering of the {khiton} to protect him, and arms free, he
+fell to chopping the wood, only half clad.
 
-[46](#sdfootnote46anc) the invalids.
+[^46]: the invalids.
 
-[47](#sdfootnote47anc) These are the Armeno-Chalybes, so called by Pliny
-in contradistinction to another mountain tribe in Pontus so named, who
-were famous for their forging, and from whom steel received its Greek
-name {khalups}. With these latter we shall make acquaintance later on.
+[^47]: These are the Armeno-Chalybes, so called by Pliny in
+contradistinction to another mountain tribe in Pontus so named, who were
+famous for their forging, and from whom steel received its Greek name
+{khalups}. With these latter we shall make acquaintance later on.
 
-[48](#sdfootnote48anc) I.e. with a single point or spike only, the
-Hellenic spear having a spike at the butt end also.
+[^48]: I.e. with a single point or spike only, the Hellenic spear having
+a spike at the butt end also.
 
-[49](#sdfootnote49anc) Some MSS. give “the sacred mountain.” The height
-in question has been identified with “the ridge called Tekieh-Dagh to
-the east of Gumisch-Kana, nearer to the sea than that place” (Grote, ib.
-p. 162), but the exact place from which they caught sight of the sea has
-not been identified as yet, and other mountain ranges have been
-suggested.
+[^49]: Some MSS. give “the sacred mountain.” The height in question has
+been identified with “the ridge called Tekieh-Dagh to the east of
+Gumisch-Kana, nearer to the sea than that place” (Grote, ib.  p. 162),
+but the exact place from which they caught sight of the sea has not been
+identified as yet, and other mountain ranges have been suggested.
 
-[50](#sdfootnote50anc) Or, “we will gobble them up raw.” He is thinking
-of the Homeric line (“Iliad”, iv. 35) “Perchance wert thou to enter
-within the gates and long walls and devour Priam raw, and Priam’s sons
-and all the Trojans, then mightest thou assuage thine anger.”–Leaf.
+[^50]: Or, “we will gobble them up raw.” He is thinking of the Homeric
+line (“Iliad”, iv. 35) “Perchance wert thou to enter within the gates
+and long walls and devour Priam raw, and Priam’s sons and all the
+Trojans, then mightest thou assuage thine anger.”–Leaf.
 
-[51](#sdfootnote51anc) This suggests 1800 as the total of the peltasts,
-8000 as the total of the hoplites, but the companies were probably not
-limited to 100, and under “peltasts” were probably included other light
-troops.
+[^51]: This suggests 1800 as the total of the peltasts, 8000 as the
+total of the hoplites, but the companies were probably not limited to
+100, and under “peltasts” were probably included other light troops.
 
-[52](#sdfootnote52anc) The pankration combined both wrestling and
-boxing.
+[^52]: The pankration combined both wrestling and boxing.
 
-[53](#sdfootnote53anc) A native of the country parts of Laconia.
+[^53]: A native of the country parts of Laconia.
 
-[54](#sdfootnote54anc) I.e. in the year B.C. 394. The circumstances
-under which Agesilaus was recalled from Asia, with the details of his
-march and the battle of Coronea, are described by Xenophon in the fourth
-book of the “Hellenica.”
+[^54]: I.e. in the year B.C. 394. The circumstances under which
+Agesilaus was recalled from Asia, with the details of his march and the
+battle of Coronea, are described by Xenophon in the fourth book of the
+“Hellenica.”
 
-[55](#sdfootnote55anc) Scillus, a town of Triphylia, a district of Elis.
-In B.C. 572 the Eleians had razed Pisa and Scillus to the ground. But
-between B.C. 392 and 387 the Lacedaemonians, having previously (B.C.
-400, “Hell.” III. ii. 30) compelled the Eleians to renounce their
-supremacy over their dependent cities, colonised Scillus and eventually
-gave it to Xenophon, then an exile from Athens. Xenophon resided here
-from fifteen to twenty years, but was, it is said, expelled from it by
-the Eleians soon after the battle of Leuctra, in B.C. 371.–“Dict. Geog.
-(s.v.)” The site of the place, and of Xenophon’s temple, is supposed to
-be in the neighbourhood of the modern village of Chrestena, or possibly
-nearer Mazi. To reach Olympia, about 1/2 miles distant, one must cross
-the Alpheus.
+[^55]: Scillus, a town of Triphylia, a district of Elis.  In B.C. 572
+the Eleians had razed Pisa and Scillus to the ground. But between B.C.
+392 and 387 the Lacedaemonians, having previously (B.C.  400, “Hell.”
+III. ii. 30) compelled the Eleians to renounce their supremacy over
+their dependent cities, colonised Scillus and eventually gave it to
+Xenophon, then an exile from Athens. Xenophon resided here from fifteen
+to twenty years, but was, it is said, expelled from it by the Eleians
+soon after the battle of Leuctra, in B.C. 371.–“Dict. Geog.  (s.v.)” The
+site of the place, and of Xenophon’s temple, is supposed to be in the
+neighbourhood of the modern village of Chrestena, or possibly nearer
+Mazi. To reach Olympia, about 1/2 miles distant, one must cross the
+Alpheus.
 
-[56](#sdfootnote56anc) Pholoe. This mountain (north of the Alpheus) is
-an offshoot of Erymanthus, crossing the Pisatis from east to west, and
-separating the waters of the Peneus and the Ladon from those of the
-Alpheus –“Dict. Geog.” (Elis).
+[^56]: is an offshoot of Erymanthus, crossing the Pisatis from east to
+west, and separating the waters of the Peneus and the Ladon from those
+of the Alpheus –“Dict. Geog.” (Elis).
 
-[57](#sdfootnote57anc) The MSS. here read, “Up to this point the
-expedition was conducted on land, and the distance traversed on foot
-from the battle-field near Babylon down to Cotyora amounted to one
-hundred and twenty-two stages–that is to say, six hundred and twenty
-parasangs, or eighteen thousand stades, or if measured in time, an eight
-months’ march.” The words are probably the note of some editor or
-commentator, though it is quite likely that the author himself may have
-gone through such calculations and even have inserted them as a note to
-his text.
+[^57]: The MSS. here read, “Up to this point the expedition was
+conducted on land, and the distance traversed on foot from the
+battle-field near Babylon down to Cotyora amounted to one hundred and
+twenty-two stages–that is to say, six hundred and twenty parasangs, or
+eighteen thousand stades, or if measured in time, an eight months’
+march.” The words are probably the note of some editor or commentator,
+though it is quite likely that the author himself may have gone through
+such calculations and even have inserted them as a note to his text.
 
-[58](#sdfootnote58anc) Lit. “harmost”. The term, denoting properly a
-governor of the islands and foreign cities sent out by the
-Lacedaemonians during their supremacy, came, it would seem, to be
-adopted by other Greek communities under somewhat similar circumstances.
-Cotyora receives a harmost from her mother-city, Sinope. For the Greek
-colonies here mentioned, see Kiepert’s “Man. Anct. Geog.” (Engl. tr.,
-Mr. G. A. Macmillan), p. 63.
+[^58]: Lit. “harmost”. The term, denoting properly a governor of the
+islands and foreign cities sent out by the Lacedaemonians during their
+supremacy, came, it would seem, to be adopted by other Greek communities
+under somewhat similar circumstances.  Cotyora receives a harmost from
+her mother-city, Sinope. For the Greek colonies here mentioned, see
+Kiepert’s “Man. Anct. Geog.” (Engl. tr., Mr. G. A. Macmillan), p. 63.
 
-[59](#sdfootnote59anc) A cyzicene stater = twenty-eight silver drachmae
-of Attic money B.C. 335, in the time of Demosthenes; but, like the
-daric, this gold coin would fluctuate in value relatively to silver. It
-contained more grains of gold than the daric.
+[^59]: A cyzicene stater = twenty-eight silver drachmae of Attic money
+B.C. 335, in the time of Demosthenes; but, like the daric, this gold
+coin would fluctuate in value relatively to silver. It contained more
+grains of gold than the daric.
 
-[60](#sdfootnote60anc) The word {masteuein} occurs above, and again
-below, and in other writings of our author. It is probably Ionic or old
-Attic, and occurs in poetry.
+[^60]: The word {masteuein} occurs above, and again below, and in other
+writings of our author. It is probably Ionic or old Attic, and occurs in
+poetry.
 
-[61](#sdfootnote61anc) Aeetes is the patronym of the kings of Colchis
-from mythical times onwards; e.g. Medea was the daughter of Aeetes.
+[^61]: Aeetes is the patronym of the kings of Colchis from mythical
+times onwards; e.g. Medea was the daughter of Aeetes.
 
-[62](#sdfootnote62anc) Whether this was a local saying or a proverb I
-cannot say. The words have a poetical ring about them: “When Borrhas
-blows, fair voyages to Hellas.”
+[^62]: Whether this was a local saying or a proverb I cannot say. The
+words have a poetical ring about them: “When Borrhas blows, fair voyages
+to Hellas.”
 
-[63](#sdfootnote63anc) I.e. a board of judges or jurors.
+[^63]: I.e. a board of judges or jurors.
 
-[64](#sdfootnote64anc) See the “Dict. of Antiq.” 622 a. HYBREOS GRAPHE.
-In the case of common assaults as opposed to indecent assault, the
-prosecution seems to have been allowable only when the object of a
-wanton attack was a free person. Cf. Arist. “Rhet.” ii. 24.
+[^64]: See the “Dict. of Antiq.” 622 a. HYBREOS GRAPHE.  In the case of
+common assaults as opposed to indecent assault, the prosecution seems to
+have been allowable only when the object of a wanton attack was a free
+person. Cf. Arist. “Rhet.” ii. 24.
 
-[65](#sdfootnote65anc) I.e. the national Thracian hymn; for Sitalcas the
-king, a national hero, see Thuc. ii. 29.
+[^65]: I.e. the national Thracian hymn; for Sitalcas the king, a
+national hero, see Thuc. ii. 29.
 
-[66](#sdfootnote66anc) The Aenianians, an Aeolian people inhabiting the
-upper valley of the Sperchius (the ancient Phthia); their capital was
-Hypata. These men belonged to the army collected by Menon, the
-Thessalian. So, doubtless, did the Magnesians, another Aeolian tribe
-occupying the mountainous coast district on the east of Thessaly.
+[^66]: The Aenianians, an Aeolian people inhabiting the upper valley of
+the Sperchius (the ancient Phthia); their capital was Hypata. These men
+belonged to the army collected by Menon, the Thessalian. So, doubtless,
+did the Magnesians, another Aeolian tribe occupying the mountainous
+coast district on the east of Thessaly.
 
-[67](#sdfootnote67anc) For this famous dance, supposed to be of Doric
-(Cretan or Spartan) origin, see Smith’s “Dict. of Antiquities,”
-“Saltatio”; also Guhl and Koner, “The Life of the Greeks and Romans,”
-Eng. tr.
+[^67]: For this famous dance, supposed to be of Doric (Cretan or
+Spartan) origin, see Smith’s “Dict. of Antiquities,” “Saltatio”; also
+Guhl and Koner, “The Life of the Greeks and Romans,” Eng. tr.
 
-[68](#sdfootnote68anc) Harmene, a port of Sinope, between four and five
-miles (fifty stades) west of that important city, itself a port town.
+[^68]: Harmene, a port of Sinope, between four and five miles (fifty
+stades) west of that important city, itself a port town.
 
-[69](#sdfootnote69anc) Cf. “Cyropedia” II. i. 1; an eagle appears to
-Cyrus on the frontiers of Persia, when about to join his uncle Cyaxares,
-king of Media, on his expedition against the Assyrian.
+[^69]: Cf. “Cyropedia” II. i. 1; an eagle appears to Cyrus on the
+frontiers of Persia, when about to join his uncle Cyaxares, king of
+Media, on his expedition against the Assyrian.
 
-[70](#sdfootnote70anc) It is important to note that the Greek word
-{oionos}, a solitary or lone-flying bird, also means an omen. “It was a
-mighty bird and a mighty omen.”
+[^70]: It is important to note that the Greek word {oionos}, a solitary
+or lone-flying bird, also means an omen. “It was a mighty bird and a
+mighty omen.”
 
-[71](#sdfootnote71anc) I have left this passage in the text, although it
-involves, at first sight, a topographical error on the part of whoever
-wrote it, and Hug and other commentators regard it as spurious. Jason’s
-beach (the modern Yasoun Bouroun) and the three first-named rivers lie
-between Cotyora and Sinope. Possibly the author, or one of his editors,
-somewhat loosely inserted a recapitulatory note concerning the scenery
-of this coasting voyage at this point. “By the way, I ought to have told
-you that as they coasted along,” etc.
+[^71]: I have left this passage in the text, although it involves, at
+first sight, a topographical error on the part of whoever wrote it, and
+Hug and other commentators regard it as spurious. Jason’s beach (the
+modern Yasoun Bouroun) and the three first-named rivers lie between
+Cotyora and Sinope. Possibly the author, or one of his editors, somewhat
+loosely inserted a recapitulatory note concerning the scenery of this
+coasting voyage at this point. “By the way, I ought to have told you
+that as they coasted along,” etc.
 
-[72](#sdfootnote72anc) One of the most powerful of commercial cities,
-distinguished as Pontica (whence, in the middle ages, Penteraklia), now
-Eregli. It was one of the older Greek settlements, and, like Kalchedon
-(to give that town its proper name), a Megaro-Doric colony.
+[^72]: One of the most powerful of commercial cities, distinguished as
+Pontica (whence, in the middle ages, Penteraklia), now Eregli. It was
+one of the older Greek settlements, and, like Kalchedon (to give that
+town its proper name), a Megaro-Doric colony.
 
-[73](#sdfootnote73anc) The total now amounted to 8640 and over.
+[^73]: The total now amounted to 8640 and over.
 
-[74](#sdfootnote74anc) The Haven of Calpe = Kirpe Liman or Karpe in the
-modern maps. The name is interesting as being also the ancient name of
-the rock fortress of Gibraltar.
+[^74]: The Haven of Calpe = Kirpe Liman or Karpe in the modern maps. The
+name is interesting as being also the ancient name of the rock fortress
+of Gibraltar.
 
-[75](#sdfootnote75anc) Some MSS. here read, “In the prior chapter will
-be found a description of the manner in which the absolute command of
-Cheirisophus was abruptly terminated and the army of the Hellenes broken
-up. The sequel will show how each of these divisions fared.” The passage
-is probably one of those commentators’ notes, with which we are now
+[^75]: Some MSS. here read, “In the prior chapter will be found a
+description of the manner in which the absolute command of Cheirisophus
+was abruptly terminated and the army of the Hellenes broken up. The
+sequel will show how each of these divisions fared.” The passage is
+probably one of those commentators’ notes, with which we are now
 familiar.
 
-[76](#sdfootnote76anc) “Cenotaph”, i.e. “an empty tomb.” The word is
-interesting as occurring only in Xenophon, until we come to the writers
-of the common dialect. Compare “hyuscyamus,” hogbean, our henbane, which
-we also owe to Xenophon.
+[^76]: “Cenotaph”, i.e. “an empty tomb.” The word is interesting as
+occurring only in Xenophon, until we come to the writers of the common
+dialect. Compare “hyuscyamus,” hogbean, our henbane, which we also owe
+to Xenophon.
 
-[77](#sdfootnote77anc) This I take to be the meaning of the words, which
-are necessarily ambiguous, since {pharmakon}, “a drug,” also means
-“poison.” Did Cheirisophus conceivably die of fever brought on by some
-poisonous draught? or did he take poison whilst suffering from fever? or
-did he die under treatment?
+[^77]: This I take to be the meaning of the words, which are necessarily
+ambiguous, since {pharmakon}, “a drug,” also means “poison.” Did
+Cheirisophus conceivably die of fever brought on by some poisonous
+draught? or did he take poison whilst suffering from fever? or did he
+die under treatment?
 
-[78](#sdfootnote78anc) So the mountain-range is named which runs
-parallel to the Propontis (Sea of Marmora) from lat. 41 degrees N. circa
-to lat. 40 degrees 30’; from Bisanthe (Rhodosto) to the neck of the
-Chersonese (Gallipoli).
+[^78]: So the mountain-range is named which runs parallel to the
+Propontis (Sea of Marmora) from lat. 41 degrees N. circa to lat. 40
+degrees 30’; from Bisanthe (Rhodosto) to the neck of the Chersonese
+(Gallipoli).
 
-[79](#sdfootnote79anc) The exact locality, so called, is not known;
-doubtless it lay somewhere between Byzantium and Salmydessus, possibly
-at Declus (mod. Derkos); or possibly the narrow portion of Thrace
-between the Euxine, Bosphorus, and Propontis went by this name.
+[^79]: The exact locality, so called, is not known; doubtless it lay
+somewhere between Byzantium and Salmydessus, possibly at Declus (mod.
+Derkos); or possibly the narrow portion of Thrace between the Euxine,
+Bosphorus, and Propontis went by this name.
 
-[80](#sdfootnote80anc) Tradition said that the Thracians and Athenians
-were connected, through the marriage of a former prince Tereus (or
-Teres) with Procne, the daughter of Pandion. This old story, discredited
-by Thucydides, ii. 29, is referred to in Arist. “Birds,” 368 foll. The
-Birds are about to charge the two Athenian intruders, when Epops, king
-of the Birds, formerly Tereus, king of Thrace, but long ago transformed
-into a hoopoe, intercedes in behalf of two men, {tes emes gunaikos onte
-suggene kai phuleta}, “who are of my lady’s tribe and kin.” As a matter
-of history, the Athenians had in the year B.C. 431 made alliance with
-Sitalces, king of the Odrysians (the son of Teres, the first founder of
-their empire), and made his son, Sadocus, an Athenian citizen.
+[^80]: Tradition said that the Thracians and Athenians were connected,
+through the marriage of a former prince Tereus (or Teres) with Procne,
+the daughter of Pandion. This old story, discredited by Thucydides, ii.
+29, is referred to in Arist. “Birds,” 368 foll. The Birds are about to
+charge the two Athenian intruders, when Epops, king of the Birds,
+formerly Tereus, king of Thrace, but long ago transformed into a hoopoe,
+intercedes in behalf of two men, {tes emes gunaikos onte suggene kai
+phuleta}, “who are of my lady’s tribe and kin.” As a matter of history,
+the Athenians had in the year B.C. 431 made alliance with Sitalces, king
+of the Odrysians (the son of Teres, the first founder of their empire),
+and made his son, Sadocus, an Athenian citizen.
 
-[81](#sdfootnote81anc) Greek colony in Thrace. Among Asiatico-Ionian
-colonies were Abdera, founded by Teos, and Maroneia, celebrated for its
-wine, founded by Chios about 540 B.C.
+[^81]: Greek colony in Thrace. Among Asiatico-Ionian colonies were
+Abdera, founded by Teos, and Maroneia, celebrated for its wine, founded
+by Chios about 540 B.C.
 
-[82](#sdfootnote82anc) Or, “magadis.” This is said to have been one of
-the most perfect instruments. It comprised two full octaves, the left
-hand playing the same notes as the right an octave lower.
+[^82]: Or, “magadis.” This is said to have been one of the most perfect
+instruments. It comprised two full octaves, the left hand playing the
+same notes as the right an octave lower.
 
-[83](#sdfootnote83anc) I.e. “at this moment the vote of banishment had
-not been passed which would prevent his return to Athens.” The natural
-inference from these words is, I think, that the vote of banishment was
-presently passed, at any rate considerably earlier than the battle of
-Coronea in B.C. 394, five years and a half afterwards.
+[^83]: I.e. “at this moment the vote of banishment had not been passed
+which would prevent his return to Athens.” The natural inference from
+these words is, I think, that the vote of banishment was presently
+passed, at any rate considerably earlier than the battle of Coronea in
+B.C. 394, five years and a half afterwards.
 
-[84](#sdfootnote84anc) hebe, a famous ancient town in Mysia, at the
-southern foot of Mt. Placius, which is often mentioned in Homer (“Il.”
-i. 366, vi. 397, xxii. 479, ii. 691). See “Dict. Geog.” s.v. The name
-{Thebes pedion} preserves the site. Cf. above {Kaustrou pedion}, and
-such modern names as “the Campagna” or “Piano di Sorrento.”
+[^84]: hebe, a famous ancient town in Mysia, at the southern foot of Mt.
+Placius, which is often mentioned in Homer (“Il.” i. 366, vi. 397, xxii.
+479, ii. 691). See “Dict. Geog.” s.v. The name {Thebes pedion} preserves
+the site. Cf. above {Kaustrou pedion}, and such modern names as “the
+Campagna” or “Piano di Sorrento.”
 
-[85](#sdfootnote85anc) The site of Certonus is not ascertained. Some
-critics have conjectured that the name should be Cytonium, a place
-between Mysia and Lydia; and Hug, who reads {Kutoniou}, omits
-{odeusantes par ’Atanea}, “they made their way by Atarneus,” as a gloss.
+[^85]: The site of Certonus is not ascertained. Some critics have
+conjectured that the name should be Cytonium, a place between Mysia and
+Lydia; and Hug, who reads {Kutoniou}, omits {odeusantes par ’Atanea},
+“they made their way by Atarneus,” as a gloss.
 
-[86](#sdfootnote86anc) The Hyrcanian cavalry play an important part in
-the “Cyropaedeia.” They are the Scirites of the Assyrian army who came
-over to Cyrus after the first battle. Their country is the fertile land
+[^86]: The Hyrcanian cavalry play an important part in the
+“Cyropaedeia.” They are the Scirites of the Assyrian army who came over
+to Cyrus after the first battle. Their country is the fertile land
 touching the south-eastern corner of the Caspian. Cf. “Cyrop.” IV. ii.
 8, where the author (or an editor) appends a note on the present status
 of the Hyrcanians.

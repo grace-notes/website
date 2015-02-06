@@ -5,9 +5,6 @@ description: "Israelites learned farming during 400 years in Egypt. Description 
 template: topic.jade
 ---
 
-
-**Agriculture in Palestine**
-
 The Israelites learned farming during their 400 years in Egypt. Abraham,
 Isaac, and Jacob had been herdsmen, but the people under Moses and
 Joshua were mainly agrarian. They were prepared to make cultivation of
@@ -32,7 +29,7 @@ times a harrow of sorts was used, usually in the form of a thick block
 of wood held down by the weight of a stone or a man. Seed was usually
 sown and harrowed in at the same time.
 
-Crops
+## Crops
 
 The principal crops of Palestine were wheat and barley. The Bible also
 mentions lentils, flax, cucumbers, melons, beans, etc. Hay was not used,
@@ -47,26 +44,33 @@ before wheat. The law stipulated that harvest was to begin on the 16th
 Nisan. The month of Nisan corresponds to the period of March 15 to April
 15 on our calendar.
 
-Events of the Month of Nisan
+## Events of the Month of Nisan
 
-day event
+Day 1
+:    Fast for Nadab and Abihu
 
-1 Fast for Nadab and Abihu
+Day 10
+:    Selection of paschal lamb (the lamb to be used in Passover; fast for
+     Miriam and in memory of the scarcity of water in the wilderness
 
-10 Selection of paschal lamb (the lamb to be used in Passover; fast for
-Miriam and in memory of the scarcity of water in the wilderness
+Day 14
+:    Paschal lamb is killed in the evening, Passover begins
 
-14 Paschal lamb is killed in the evening, Passover begins
+Day 15
+:    First day of unleavened bread. After sunset a sheaf of barley is
+     brought to the temple.
 
-15 First day of unleavened bread. After sunset a sheaf of barley is
-brought to the temple.
+Day 16
+:    First fruits sheaf offered; harvest begins; from this date it is
+     fifty days until the Feast of Pentecost.
 
-16 First fruits sheaf offered; harvest begins; from this date it is
-fifty days until the Feast of Pentecost.
+Day 22
+:    Close of Passover; end of unleavened bread
 
-22 Close of Passover; end of unleavened bread
+Day 26
+:    Fast for the death of Joshua
 
-26 Fast for the death of Joshua
+## Harvest
 
 Grain was harvested with a sickle, although it was known that grain was
 harvested by pulling up the roots to preserve all the straw. The cut
@@ -86,31 +90,33 @@ of chaff, straw, and grain was tossed into the air with shovels so that
 the chaff might be blown away. The chaff and stubble in the fields were
 burned. The grain was sifted and stored.
 
+## Caring for the Land
+
 Israel owed its possession of the land to God. It’s fertility was also
 in God’s hands. The Lord made a number of provisions in the Law to care
 for the land.
 
-• Sabbath rest was to be observed
+*   Sabbath rest was to be observed
 
-• Soil was to lie fallow on the seventh year and in the 50th year
+*   Soil was to lie fallow on the seventh year and in the 50th year
 
-• It was forbidden to yoke an ox and a donkey together, since an ox was
-a clean animal and the donkey was ceremonially unclean.
+*   It was forbidden to yoke an ox and a donkey together, since an ox
+    was a clean animal and the donkey was ceremonially unclean.
 
-• It was forbidden to sow with mingled seed or with seed on which the
-carcass of a forbidden animal had lain.
+*   It was forbidden to sow with mingled seed or with seed on which the
+    carcass of a forbidden animal had lain.
 
-Topic: Uncleanness in the Levitical System
+    Topic: Uncleanness in the Levitical System
 
-• The corners of the field were not to be reaped, and gleanings were to
-be left for the poor to gather
+*   The corners of the field were not to be reaped, and gleanings were
+    to be left for the poor to gather
 
-• The first fruits of all crops belonged to Jehovah in recognition of
-His being the giver of all good things.
+*   The first fruits of all crops belonged to Jehovah in recognition of
+    His being the giver of all good things.
 
-• The fruit of the orchard was not eaten for the first three years. On
-the fourth year, the produce was consecrated to God. The first eating by
-men was in the fifth year.
+*   The fruit of the orchard was not eaten for the first three years. On
+    the fourth year, the produce was consecrated to God. The first
+    eating by men was in the fifth year.
 
 Every facet of the everyday work of the Israelite was a teaching
 mechanism for divine viewpoint. The faithful Jew had the opportunity to

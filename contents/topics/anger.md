@@ -1,16 +1,10 @@
 ---
-title: "Anger"
+indexTitle: "Anger"
+title: "The Doctrine of Anger"
 pdf: "anger.pdf"
 description: "What the Bible says about anger, ours and God's. How to deal with sinful anger."
 template: topic.jade
 ---
-
-
-**Anger 3**
-
-**Anger**
-
-**The Doctrine of Anger**
 
 Everybody gets angry. We know that we all have sin natures that have
 areas of strength and weakness. You may be strong where I am weak, and
@@ -38,7 +32,7 @@ the following:
 
 • How can I have victory over the sin of anger?
 
-**Definition**
+## Definition ##
 
 The Bible describes many types of anger as sin like sins of mental
 attitude. As a sin, anger expresses antagonism, exasperation,
@@ -95,7 +89,7 @@ not depend on their character or behavior.
 It is righteous indignation that allows God to be angry about sin but to
 love us anyway. His love for us depends on His character, not on ours.
 
-Characteristics of Sinful Anger
+## Characteristics of Sinful Anger ##
 
 Anger is sin from the sin nature. Gal. 5:19-21, “Now the deeds of the
 flesh [sin nature] are evident, which are: immorality, impurity,
@@ -161,7 +155,7 @@ revoke its punishment, Because he pursued his brother with the sword,
 While he stifled his compassion; His anger also tore continually, And he
 maintained his fury forever.”
 
-Other Bible Teaching on Anger
+## Other Bible Teaching on Anger ##
 
 Eph. 4:26 says, “Be ye angry, and sin not . . .” or “Although you may
 have become angry, stop sinning.”
@@ -196,7 +190,7 @@ himself the position of judge is in a position of compounded divine
 discipline himself, worse off than the one who originally caused the
 trouble.
 
-The Anger of the Lord
+## The Anger of the Lord ##
 
 The Lord is said to have anger, or to be angry, in several places in the
 Bible. The word anger is used as an anthropopathism, a word or phrase
@@ -215,7 +209,7 @@ The phrase the wrath of God is used in the following:
 Psalm 78:31; John 3:36; Rom. 1:18; Eph. 5:6; Col. 3:6; Rev. 14:10, 19;
 15:1, 7; 16:1; 19:15.
 
-**Victory Over the Sin of Anger**
+## Victory Over the Sin of Anger ##
 
 Recognize the sin of anger and confess to the Lord when you become
 angry. “If we confess our sins, He is faithful and just to forgive us

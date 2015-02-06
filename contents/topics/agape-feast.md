@@ -1,16 +1,14 @@
 ---
+indexTitle: "Agape Feast, The"
 title: "The Agape Feast"
 pdf: "agapefeast.pdf"
 description: "The brotherly common meals of the early Church."
 template: topic.jade
 ---
 
-
-**Agape Feast**
-
 **From International Standard Bible Encyclopedia**
 
-**Agape**- The brotherly common meals of the early Church.
+**Agape**-- The brotherly common meals of the early Church.
 
 I. In the New Testament
 -----------------------

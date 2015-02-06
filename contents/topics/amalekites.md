@@ -6,9 +6,7 @@ template: topic.jade
 ---
 
 
-<sup>A</sup>malekites
-
-from International Standard Bible Encyclopedia
+**from International Standard Bible Encyclopedia**
 
 **Amalek** was the son of Eliphaz and grandson of Esau (Gen. 36:12, 16),
 and as a collective noun, the Amelekites, were his descendants (Ex.

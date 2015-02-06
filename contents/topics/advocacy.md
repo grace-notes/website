@@ -1,12 +1,12 @@
 ---
-title: "Advocacy"
+title: "The Advocacy of Jesus Christ"
+indexTitle: "Advocacy"
 pdf: "advocacy.pdf"
 description: "Christ, the Son, and the Holy Spirit are our advocates with the Father, protecting us against the lies of Satan."
 template: topic.jade
 ---
 
 
-**The Advocacy of Jesus Christ 2**
 
 **The Advocacy of the Son and the Holy Spirit**
 
@@ -72,6 +72,3 @@ Thus, there are three general uses of the word “advocate”:
 
 3.  A general helper, which Christ was while on earth and which the
     Spirit is throughout the Church Age.
-
-====================
-

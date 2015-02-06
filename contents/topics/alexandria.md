@@ -5,26 +5,20 @@ description: "City in Egypt founded by Alexander the Great. Birthplace of Apollo
 template: topic.jade
 ---
 
+**from an article in the Thompson Chain Reference Bible.**
 
-**Alexandria 3**
+> **Alexandria**, the birthplace of Apollos, was founded by Alexander
+> the Great in 331 BC. Its palaces of the Ptolemies, its wonderful
+> museum, its famed library, and it keenly intellectual populace of
+> Greeks, Jews, and Egyptians made it one of the greatest intellectual
+> and cultural centers of the Roman Empire.
+>
+> The Septuagint version of the Old Testament (280 to 170 BC) was
+> written at Alexandria, and here, during the first century, lived Philo
+> Judaeus, a brilliant and devout Jew, whose writings on the Logos were
+> in certain respects similar to those of John the Beloved.
 
-Alexandria
-==========
-
-from an article in the Thompson Chain Reference Bible.
-
-**Alexandria** the birthplace of Apollos, was founded by Alexander the
-Great in 331 BC. Its palaces of the Ptolemies, its wonderful museum, its
-famed library, and it keenly intellectual populace of Greeks, Jews, and
-Egyptians made it one of the greatest intellectual and cultural centers
-of the Roman Empire.
-
-The Septuagint version of the Old Testament (280 to 170 BC) was written
-at Alexandria, and here, during the first century, lived Philo Judaeus,
-a brilliant and devout Jew, whose writings on the Logos were in certain
-respects similar to those of John the Beloved.
-
-Alexandria – Encyclopedia Britannica
+**Alexandria** -- *Encyclopedia Britannica*
 
 Arabic AL-ISKANDARIYAH city and urban muhafazah (governorate), Lower
 Egypt. Once the greatest city of the ancient world and a centre of
@@ -59,7 +53,7 @@ Cavafy’s take on it in particular, was highlighted by the English writer
 Lawrence Durrell in his four-part novel, The Alexandria Quartet
 (1957-60).
 
-The city site
+## The city site
 
 The modern city extends 25 miles (40 km) east to west along a limestone
 ridge, 1-2 miles (1.6-3.2 km) wide, that separates the salt lake of
@@ -79,7 +73,7 @@ marked by a series of violent storms that can bring torrential rain and
 even hail. The mean daily temperature in January, which is the coldest
 month, is 64 ºF (18 ºC).
 
-The city plan
+## The city plan
 
 Designed by Alexander’s personal architect, Dinocrates, the city
 incorporated the best in Hellenic planning and architecture. Within a
@@ -123,6 +117,8 @@ survive on Al-Hurriyah Avenue, but the city contracted still further in
 Ottoman times to the stem of the promontory, now the Turkish Quarter. It
 is the oldest surviving section of the city, housing its finest mosques
 and worst slums.
+
+## Rome and the Church
 
 The decline of the Ptolemies in the 2nd and 1st centuries BC was matched
 by the rise of Rome. Alexandria played a major part in the intrigues
@@ -173,7 +169,7 @@ Disaffection with Byzantine rule created the conditions in which
 Alexandria fell first to the Persians, in 616, and then to the Arabs, in
 642.
 
-The Islamic period
+## The Islamic period
 
 The Arabs occupied Alexandria without resistance. Thenceforth, apart
 from an interlude in 645 when the city was briefly taken by the
@@ -200,9 +196,9 @@ the Nile was allowed to silt up, strangling the city’s commercial
 lifeline. Alexandria had been reduced to a small fishing village when
 Napoleon invaded Egypt in 1798.
 
-Alexandria, School of
+## Alexandria, School of
 
-the first Christian institution of higher learning, founded in the
+The first Christian institution of higher learning, founded in the
 mid-2nd century AD in Alexandria, Egypt. Under its earliest known
 leaders (Pantaenus, Clement, and Origen), it became a leading centre of
 the allegorical method of biblical interpretation, espoused a
