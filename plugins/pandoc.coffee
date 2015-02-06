@@ -3,11 +3,14 @@ pandoc = require 'pdc'
 fs = require 'fs'
 path = require 'path'
 url = require 'url'
+cheerio = require 'cheerio'
 
 q = async.queue((page, callback) ->
-  if page.metadata.toc
+  if page.metadata.tableOfContents
     pandoc page.markdown, 'markdown', 'html', ['--smart', '--table-of-contents', '--standalone'], (err, result) ->
-      page._htmlraw = result.replace(/[\s\S]*<body[^>]*>([\s\S]*)<\/body>[\s\S]*/, "$1")
+      $ = cheerio.load(result)
+      $("h2").first().before($("#TOC"))
+      page._htmlraw = $.html()
       callback err, page
   else
     pandoc page.markdown, 'markdown', 'html', ['--smart'], (err, result) ->

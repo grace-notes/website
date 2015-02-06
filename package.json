@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "async": "^0.9.0",
+    "cheerio": "^0.18.0",
     "moment": "2.3.x",
     "pdc": "^0.2.2",
     "showdown": "git://github.com/lhagan/showdown.git#showdown-extended",
