@@ -16,8 +16,12 @@ body {
   color: #232323;
 }
 
-a:link {
+a[data-bibleref] {
+  &:visited, &:link {
+    color: inherit !important;
+  }
 }
+
 a:hover {
   color: #ff8000;
   text-decoration: underline;
@@ -74,26 +78,46 @@ h4 {
 }
 
 
-#TOC > ul {
-  column-width: 100px;
-  list-style-type: none;
-  padding: 0;
-  margin: 30px 0;
-  font-size: 110%;
-  font-weight: 600;
-  a { color: #333; }
-  li {
-    margin: 0.1em 0 0.2em;
-  }
-  > li > ul {
-    margin-bottom: 0.2em;
-    margin-top: 0.1em;
-    list-style-type: circle;
-    font-size: 90%;
-    font-weight: 300;
-    a {
-      color: #555;
+#TOC {
+  > ul {
+    column-width: 100px;
+    list-style-type: none;
+    padding: 0;
+    margin: 30px 0;
+    font-size: 100%;
+    font-weight: 600;
+    a { color: #333; display: block; }
+    li {
+      margin: 0.1em 0 0.2em;
+      text-align: left;
     }
+    > li > ul {
+      margin-bottom: 0.2em;
+      margin-top: 0.1em;
+      list-style-type: circle;
+      font-size: 90%;
+      font-weight: 300;
+      a {
+        color: #555;
+      }
+    }
+  }
+}
+@media (min-width: 1200px) {
+  body.table-of-contents {
+    margin-left: 20%;
+    #content > .container { max-width: 100%; }
+  }
+  #TOC {
+    font-size: 90%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 20%;
+    overflow-y: auto;
+    background: #fdfdfd;
+    margin: 0;
   }
 }
 

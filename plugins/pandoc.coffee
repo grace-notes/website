@@ -7,10 +7,10 @@ cheerio = require 'cheerio'
 
 q = async.queue((page, callback) ->
   if page.metadata.tableOfContents
-    pandoc page.markdown, 'markdown', 'html', ['--smart', '--table-of-contents', '--standalone'], (err, result) ->
+    pandoc page.markdown, 'markdown+definition_lists+footnotes', 'html', ['--smart', '--table-of-contents', '--standalone'], (err, result) ->
       $ = cheerio.load(result)
-      $("h2").first().before($("#TOC"))
-      page._htmlraw = $.html()
+      $("h2").first().before($("#TOC").prepend("<h2>Table of Contents</h2>"))
+      page._htmlraw = $("body").html()
       callback err, page
   else
     pandoc page.markdown, 'markdown', 'html', ['--smart'], (err, result) ->

@@ -1,7 +1,10 @@
 extends layout
 
 block append vars
-  - bodyclass = 'article-detail'
+  if page.metadata.tableOfContents
+    - bodyclass = 'article-detail table-of-contents'
+  else
+    - bodyclass = 'article-detail'
 
 block prepend title
   | #{ page.title + " - "}
@@ -16,8 +19,6 @@ block header
 
 block content
   article.article
-    if page.metadata.tableOfContents
-      h2 Table of Contents
     section.content!= typogr(page.html).chain().widont().smartypants().value()
 
 block prepend footer
