@@ -5,11 +5,6 @@ description: "Leaven -  A study of the concept of leaven in the Bible"
 template: topic.jade
 ---
 
-
-**Leaven 2**
-
-Leaven
-
 In both the Old Testament and the New Testament leaven is a “type of
 evil teachings, evil doctrines and evil practices. It is always to be
 put away and cast out as an unclean thing. The gospel is never called
@@ -72,16 +67,7 @@ In contrast to the Corinthians, the leaven of the Galatians relates to
 the sin of legalism (gaining salvation through good works), and in this
 particular instance designates salvation by means of circumcision,
 Galatians 5:9, “A little yeast works through the whole batch of dough.”
+
 [Thieme, Robert. Ibid. First catalogued by Robert Thieme; altered and
 appended by R. E. Radic.]
-
-For an index of topics, or information about regular Bible studies,
-write to:
-
-Warren Doud  
-**Grace Notes**  
-1705 Aggie Lane  
-Austin, Texas 78757  
-E-Mail: wdoud@gracenotes.info  
-URL: http://www.gracenotes.info
 
