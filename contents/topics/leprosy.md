@@ -5,17 +5,11 @@ description: "a study from the Old Testament on how leprosy was identified and t
 template: topic.jade
 ---
 
-
-**Leprosy 10**
-
-Leprosy
-=======
-
 Commentary on Leviticus 13 and 14, from ***Commentary on the Old
 Testament***, C. F. Keil and F. Delitzsch
 
 Leviticus 13
-============
+------------
 
 **Leviticus 13 and 14.** Leprosy.—The law for leprosy, the observance of
 which is urged upon the people again in Deut. 24:8, 9, treats, in the
@@ -226,7 +220,7 @@ appearance of leprosy on the skin of the body. In that case the person
 was unclean, and to be pronounced so by the priest. “On his head is his
 plague of leprosy,” i.e., he has it in his head.
 
-**Leviticus 13:45 and 46.** With regard to *the treatment of lepers,*
+**Leviticus 13:45,46.** With regard to *the treatment of lepers,*
 the lawgiver prescribed that they should wear mourning costume, rend
 their clothes, leave the hair of their head in disorder (see at
 Leviticus 10:6), keep the beard covered (Ezek. 24:17, 22), and cry
@@ -298,7 +292,7 @@ mildew consists most strictly of “holes eaten in,” and is of a
 delicate cryptogami by which it has been formed.”
 
 Leviticus 14
-============
+------------
 
 **Leviticus 14:1–32.** *Purification of the leper,* after his recovery
 from his disease. As leprosy, regarded as a decomposition of the vital

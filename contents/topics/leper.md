@@ -5,9 +5,6 @@ description: "A leper suffers from a specific form of mycobacterial infection th
 template: topic.jade
 ---
 
-
-<sup>Leper</sup>
-
 From International Standard Bible Encyclopedia
 
 **Leper**lepʹər; **LEPROSY** lepʹrə-sē [Heb *ṣāra˒aṯ*; Gk *lépra*].
@@ -19,7 +16,7 @@ by sufferers, the condition has been renamed “Hansen’s disease,” after
 G. A. Hansen, who discovered the causative organism (see III below).
 
 I. Terminology
-==============
+--------------
 
 Both ancient and modern writings show considerable confusion about the
 terminology for leprosy. Heb *ṣāra˒aṯ* is of uncertain provenance and
@@ -64,7 +61,7 @@ affliction, was deemed malignant by the diagnostic procedure and merited
 the strictures of vv 45f.
 
 II. Antiquity of Leprosy
-========================
+------------------------
 
 This dreaded disease is supposed to have existed in India and China from
 ca 4000 b.c., but this dating is very difficult to establish factually.
@@ -107,7 +104,7 @@ more probable it is that the chronic form of *ṣāra˓aṯ* was Hansen’s
 disease, which was unquestionably in Palestine by the 4th cent b.c.
 
 III. Symptomatology and Diagnosis
-=================================
+---------------------------------
 
 The cause of leprosy is the minute rod-shaped organism *Mycobacterium
 leprae*, identified by the scientist G. A. Hansen in 1871–1873. (As his
@@ -290,7 +287,7 @@ and the malign condition of Lev. 13–14 have been unable to suggest any
 substitute ailment that would have inspired such abject dread.
 
 IV. Treatment
-=============
+-------------
 
 In contrast to modern practice, no herbal remedies or therapeutic
 measures were prescribed by the Hebrew priest-physicians. Instead, the
@@ -329,7 +326,7 @@ God’s grace, and thus the concept of spontaneous remission independent
 of divine activity had no place in biblical thought.
 
 V. In the Old Testament
-=======================
+-----------------------
 
 The affliction that God imposed upon Moses as a sign (Ex. 4:6) was
 evidently not chronic *ṣāra˓aṯ*, which, as has been noted, is never
@@ -361,7 +358,7 @@ chronic *ṣāra˓aṯ*.
 3:28f).
 
 VI. In the New Testament
-========================
+------------------------
 
 Although medical and other writers have doubted that OT references to
 *ṣāra˓aṯ* ever indicate Hansen’s disease, it is clear that in Palestine

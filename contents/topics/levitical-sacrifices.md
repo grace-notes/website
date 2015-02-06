@@ -3,14 +3,10 @@ title: "Levitical Sacrifices and Offerings"
 pdf: "leviticalsacrifices.pdf"
 description: "Levitical Sacrifices and Offerings -  Descriptions and Christian typology of the Levitical sacrifices and offerings; isagogical support to study of New Testament epistles."
 template: topic.jade
+tableOfContents: yes
 ---
 
-
-**Levitical Sacrifices 8**
-
-The Levitical Sacrifices
-
-Introduction
+## Introduction
 
 There are several terms used in the Bible to describe the act of
 sacrifice. The first has to do with something given or offered to God,
@@ -21,10 +17,10 @@ the use of the word “gift” in Gen. 33:13–21; 43:11, etc.; the word
 
 The other type is the bloody sacrifice, in which the shedding of blood
 is the main idea, as opposed to the whole burnt offering which is
-completely burned. The Greek word (**thusia**) is used for both the
+completely burned. The Greek word θυσια (**thusia**) is used for both the
 animal in the sacrifice and for the act of burning, whether literal or
 figurative. In the New Testament, a sacrifice (or offering) is
-‘ (**holokautoma**), which means "wholly consumed (Latin
+ὁλοκαυτομα (**holokautoma**), which means "wholly consumed (Latin
 *holocaustum*). See Acts 21:26; 24:17; Eph. 5:2; Heb. 10:5; Mark 12:33;
 Heb. 10:6,8.
 
@@ -75,7 +71,7 @@ sacrifices and offerings, including a study of the materials used in
 each offering, the ceremony employed in making the sacrifice, and a
 brief discussion of the spiritual meaning, the typology, of each.
 
-The Classes of Levitical Sacrifices
+## The Classes of Levitical Sacrifices
 
 There were two classes of sacrifice in Old Testament times.
 
@@ -93,7 +89,7 @@ occasion, the propitiatory offerings were offered first, followed by the
 burnt offerings, and then the peace offering. The meal and drink
 offerings were offered with the burnt offerings, or by themselves.
 
-Materials Used in the Sacrifices
+## Materials Used in the Sacrifices
 
 With respect to the materials used in the sacrifices, they were divided
 into two classes: the blood sacrifices, in which an animal was killed,
@@ -128,7 +124,7 @@ these offerings were the fruit of their life and work, and presenting
 them showed a consecration to God of their life with all its ability and
 energy.
 
-The Method of Presentation of the Sacrifices
+## Method of Presentation of the Sacrifices
 
 In animal sacrifices, the animal was brought to the door or the
 tabernacle, near the altar. The person bringing the animal placed his
@@ -165,7 +161,7 @@ offering (see below) to God, and was given to the priest who spilled the
 blood (Lev. 7:14), the remainder of the offering being eaten by those
 who presented it.
 
-The Sin Offering
+## The Sin Offering
 
 The sin offering was first directly commanded in Lev. 4. “If a soul
 shall sin through ignorance against any of the commandments of the Lord
@@ -192,7 +188,7 @@ the better part of man, that which is capable of cleansing and renewal,
 in order that it might be purified by the fire of God’s holiness and
 love.
 
-The Material of the Sin Offering
+### The Material of the Sin Offering
 
 The animal to be offered was determined by the nature of the offense and
 by the position, or rank, of the one making the offering.
@@ -219,7 +215,7 @@ A pigeon or turtledove was used for purifying a woman after childbirth
 dead body (Num. 6:10). A bird was also used as a substitute for a lamb
 in the case of poverty, for an ordinary offense (Lev. 5:7).
 
-Method of Presenting the Sin Offering
+### Method of Presenting the Sin Offering
 
 If the offering was a bullock offered on behalf of the high priest or of
 the whole congregation, its blood was taken into the Holy Place and
@@ -250,7 +246,7 @@ Any earthenware vessel from which the priests ate was broken; copper
 vessels were scoured. Garments on which blood had fallen were washed
 (Lev. 6:27,28).
 
-Typology of the Sin Offering
+### Typology of the Sin Offering
 
 The sin offering presents Christ atoning for the guilt of sin (Heb.
 13:11,12). It shows Christ as actually burdened with the believer’s sin,
@@ -258,7 +254,7 @@ standing in the sinner’s place as his substitute. This offering tells of
 the Lord’s death as presented in Isaiah 53, Psalm 22, and 1 Peter 2:24.
 It carefully guards the holiness of Him who “was made sin for us.”
 
-The Trespass Offering
+## The Trespass Offering
 
 The trespass offering was also a propitiatory offering, but it was made
 for a special offense, while the sin offering was made for the person of
@@ -293,7 +289,7 @@ In this offering, the skin of the animal and any meat offering went to
 the officiating priest, except that portions that were mixed with oil or
 were dry were divided among all the priests.
 
-Typology of the Trespass Offering
+### Typology of the Trespass Offering
 
 This ritual shows Christ’s atoning for the damage caused by sin and has
 in view the injury of the sin as opposed to the guilt of the sin. This
@@ -302,7 +298,7 @@ thee only have I sinned, and done this evil in thy sight; that thou
 mightest be justified when thou speakest and be clear when thou
 judgest.”
 
-The Burnt Offering
+## The Burnt Offering
 
 The name for the burnt offering comes from the Hebrew word **holah**,
 “ascending”, because, as the animal was wholly consumed in the fire
@@ -347,7 +343,7 @@ regarded as indicating that the Jews recognized him as their ruler. At
 the commencement of the Jewish war, the high priest Eleazar rejected
 this offering, which was seen as rebellion against Rome.
 
-Typology of the Burnt Offering
+### Typology of the Burnt Offering
 
 In this offering, the idea of sin is not conspicuous, and sets forth
 Christ offering Himself without spot to God to perform God’s will with
@@ -366,7 +362,7 @@ innocence and portrays poverty. It shows forth Him who became poor that
 we might become rich. (Isa. 38:14; Heb. 7:26; Lev. 5:7; 2 Cor. 8:9;
 Phil. 2:6–8).
 
-The Peace Offering
+## The Peace Offering
 
 The peace offering was another sacrifice offered by a believer in
 fellowship with God. It is divided into three kinds of offering: (1) the
@@ -433,7 +429,7 @@ privilege of dwelling in the house and family of the Lord, and so
 pictured the joy of His people before him (Deut. 12:12,18; Luke 14:15;
 22:30).
 
-Typology of the Peace Offering
+### Typology of the Peace Offering
 
 As a sweet savor offering, the peace offering shows Christ as our peace.
 Jesus Christ made peace, He proclaims peace, and He is our peace (Col.
@@ -441,7 +437,7 @@ Jesus Christ made peace, He proclaims peace, and He is our peace (Col.
 believer as reconciled - God and the sinner brought together in peace,
 both satisfied with the finished work of Christ.
 
-Meal and Drink Offerings
+## Meal and Drink Offerings
 
 The meal and drink (libation) offerings recognized the sovereignty of
 God and His goodness in providing earthly blessings; thus the best gifts
@@ -494,7 +490,7 @@ which could not be eaten but were entirely burned (Lev. 6:16ff;
 There is no regulation given as to how the wine was presented or how it
 was disposed of!
 
-Typology of the Meal Offering
+### Typology of the Meal Offering
 
 This offering typifies Christ in His human perfection tested by
 suffering. The fine flour represented His sinless humanity. The fire is
@@ -505,7 +501,7 @@ mingled with the offering speaks of his conception by the Holy Spirit
 (Matt. 1:18–23). Oil poured on the offering speaks of his enduement with
 the Spirit (John 1:32; 6:27).
 
-Heave and Wave Offerings
+## Heave and Wave Offerings
 
 Some of the offerings are called “heave” or “wave” offerings because of
 the special manner in which they were presented. Those portions of the
@@ -518,24 +514,18 @@ and the priest put his hands under those of the offeror. Then the priest
 moved the whole backward and forward in a horizontal movement. The
 following offerings were to be waved before the Lord:
 
-• The breast of a private thank offering (Lev. 7:30)
+- The breast of a private thank offering (Lev. 7:30)
+- The fat, breast, and shoulder of the thank offerings at the
+  consecration of the priests (Exo. 29:22–26; Lev. 8:25–29)
+- The first sheaf offered on the second day of Passover (Lev. 23:11)
+- The two lambs as a thank offering at the Feast of Pentecost (Lev.
+  23:20)
+- The lamb and oil as a trespass offering for the purification of the
+  leper (Lev. 14:12)
+- The thank offering of the Nazarite (Num. 6:20), and
+- The jealousy offering (Num. 5:25)
 
-• The fat, breast, and shoulder of the thank offerings at the
-consecration of the priests (Exo. 29:22–26; Lev. 8:25–29)
-
-• The first sheaf offered on the second day of Passover (Lev. 23:11)
-
-• The two lambs as a thank offering at the Feast of Pentecost (Lev.
-23:20)
-
-• The lamb and oil as a trespass offering for the purification of the
-leper (Lev. 14:12)
-
-• The thank offering of the Nazarite (Num. 6:20), and
-
-• The jealousy offering (Num. 5:25)
-
-The Red Heifer Offering
+## The Red Heifer Offering
 
 When a person became ceremonially unclean by some contact with an
 unclean animal or person or by contact with a dead person, he was
@@ -560,7 +550,7 @@ to a clean place, still outside the camp, where they were stored for use
 as needed. All persons who were involved with this ceremony were
 considered unclean until that evening.
 
-The Procedure
+### The Procedure
 
 When someone needed to have the purification rite performed on him, a
 man, who was himself free from defilement, took some of the ashes, put
@@ -573,11 +563,12 @@ contracted, and again seven days after.
 At the same time, the tent in which a corpse had lain and all the
 furniture were sprinkled with the same water.
 
-Typology of the Red Heifer Offering
+### Typology of the Red Heifer Offering
 
 The red heifer offering is called a sin offering (Num. 19:9,17), and it
 portrays the sacrifice of Christ as the medium of the believer’s
 cleansing from the pollution contracted by his contact with the world.
+
 The order of cleansing is:
 
 1. The slaying of the sacrifice
@@ -597,120 +588,102 @@ that the guilt of sin was to be borne by Christ in His sacrifice.
 Instead of losing hope, the convicted believer confesses the unworthy
 act and is forgiven and cleansed (John 13:3–10; 1 John 1:7–10).
 
-The Yearly Schedule of Sacrifices
+## The Yearly Schedule of Sacrifices
 
 References for the following are taken from Exo. 12, Lev. 16 and 23, and
 Num. 28 and 29
 
-Daily Offerings
+### Daily Offerings
 
 The daily sacrifice, offered morning and evening:
 
-• One yearling lamb, for a burnt offering
+- One yearling lamb, for a burnt offering
+- A portion of flour, for a meal offering
+- 1 1/4 pints of wine, for a drink offering
 
-• A portion of flour, for a meal offering
-
-• 1 1/4 pints of wine, for a drink offering
-
-Sabbath Day Offerings
+### Sabbath Day Offerings
 
 On the Sabbath, the daily offerings were made, plus the following:
 
-• Two yearling lambs
+- Two yearling lambs
+- Two portions of flour mingled with oil
+- 2 1/2 pints of wine
+- Twelve fresh loaves of showbread
 
-• Two portions of flour mingled with oil
-
-• 2 1/2 pints of wine
-
-• Twelve fresh loaves of showbread
-
-New Moon Offerings
+### New Moon Offerings
 
 On the occasion of the new moon, the regular daily offerings were made,
 plus:
 
-• Two young bullocks, one ram, and seven lambs, for burnt offerings
+- Two young bullocks, one ram, and seven lambs, for burnt offerings
+- Flour mingled with oil, three portions for each bullock, two portions
+  for the ram, and one portion for each lamb
+- A drink offering
 
-• Flour mingled with oil, three portions for each bullock, two portions
-for the ram, and one portion for each lamb
-
-• A drink offering
-
-Feast of Trumpets (or seventh New Moon)
+### Feast of Trumpets (or seventh New Moon)
 
 The daily and new moon offerings were made, plus:
 
-• One bullock, one ram, seven yearling lambs, for burnt offerings
+- One bullock, one ram, seven yearling lambs, for burnt offerings
+- Flour mingled with oil; three portions for the bullock, two portions
+  for the ram, one portion for each lamb
+- One kid of goats, for a sin offering
+- Drink offerings
 
-• Flour mingled with oil; three portions for the bullock, two portions
-for the ram, one portion for each lamb
-
-• One kid of goats, for a sin offering
-
-• Drink offerings
-
-Feast of Passover
+### Feast of Passover
 
 On Passover the daily offerings were made. In addition a kid (lamb or
 goat) was selected, on the 10th of the month Abib, and slain on the
 14th, its blood being sprinkled on the doorposts and lintels.
 
-Feast of Unleavened Bread
+### Feast of Unleavened Bread
 
 The daily offerings were made on each day of the feast, held from the
 15th to the 21st of Abib (following Passover), plus, daily:
 
-• One goat for a sin offering
-
-• Two young bullocks, one ram, and seven yearling lambs, for a burnt
-offering
-
-• Flour mingled with oil, distributed as in the new moon offering
+- One goat for a sin offering
+- Two young bullocks, one ram, and seven yearling lambs, for a burnt
+  offering
+- Flour mingled with oil, distributed as in the new moon offering
 
 In addition, on the 2nd day of the feast, the first sheaf of the new
 harvest (barley) was offered by waving, not burning. With this sheaf was
 offered a male yearling lamb, two measures of flour, and 2 1/2 pints of
 wine.
 
-Pentecost (Feast of Weeks)
+### Pentecost (Feast of Weeks)
 
 The daily offerings were made, plus the following on each day of
 Pentecost:
 
-• A kid of goats for a sin offering
-
-• Two young bullocks, one ram, seven yearling lambs, for burnt offerings
-
-• Flour and oil to accompany each burnt offering
-
-• A drink offering for the ram and for each lamb.
-
-• After the above was presented, the new meal offering, “two wave
+- A kid of goats for a sin offering
+- Two young bullocks, one ram, seven yearling lambs, for burnt offerings
+- Flour and oil to accompany each burnt offering
+- A drink offering for the ram and for each lamb.
+- After the above was presented, the new meal offering, “two wave
 loaves”, baked with leaven, were offered. With these were offered seven
 yearling lambs, one young bullock, and two rams (burnt offering); a
 he-goat (sin offering); and two yearling lambs (peace offering).
 
-The Day of Atonement
+### The Day of Atonement
 
 On the Day of Atonement the regular daily offerings were made, plus:
 
-• A bullock for a sin offering for the priesthood
-
-• A ram for a burnt offering for the priesthood
-
-• Two goats for a sin offering for the people
-
-• A ram for a burnt offering for the people
-
-• One young bullock, one ram, seven lambs, with accompanying meal and
+- A bullock for a sin offering for the priesthood
+- A ram for a burnt offering for the priesthood
+- Two goats for a sin offering for the people
+- A ram for a burnt offering for the people
+- One young bullock, one ram, seven lambs, with accompanying meal and
 drink offerings
 
-The Feast of Tabernacles
+### The Feast of Tabernacles
 
 The Feast of Tabernacles lasted eight days and there were different
 combinations of offerings made on each of those days. There were a total
 of 71 bullocks, 15 rams, 105 lambs, and 8 goats offered during the
 feast, with accompanying meal and drink offerings.
+
+---
 
 Sources for this study:
 

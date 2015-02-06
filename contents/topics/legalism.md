@@ -6,9 +6,7 @@ template: topic.jade
 ---
 
 
-**Legalism 6**
-
-**Introduction**
+## Introduction
 
 God’s plan is a grace plan. God the Father does the work, man receives
 the benefit. God receives the glory for His own works; man receives no
@@ -57,7 +55,7 @@ Some categorical studies which you can request from Grace Notes are: The
 Barrier; Circumcision; Confession of Sin; Grace; Judgment, Justice, and
 Judging; Satan; Spirituality.
 
-**Defining Legalism**
+## Defining Legalism
 
 The standard (Webster’s New Collegiate) definition for legalism is:
 *strict, literal, or excessive conformity to the law or to a religious
@@ -145,12 +143,12 @@ Read Romans 2:17-23, A Portrait of a Boaster
 
 Read Romans 4:1-6, “But Not Before God…”
 
-**Systems of Legalism**
+## Systems of Legalism
 
 There are four principal spiritual transactions in which works are not
 accepted by God: salvation, spirituality, maturity and reward.
 
-**Legalism in Salvation**
+## Legalism in Salvation
 
 There are many religious systems which teach salvation by works, or
 which try to mix works with faith, such as:
@@ -172,7 +170,7 @@ which try to mix works with faith, such as:
 
 The Gospel is believe in Jesus Christ plus nothing else!
 
-**Legalism in Christian Living**
+## Legalism in Christian Living
 
 Here are some types of religious legalism imposed on Christians:
 
@@ -226,7 +224,7 @@ But the legalist thinks that the good works he does for God will not
 only keep him in fellowship and walking with the Lord but will also make
 him more spiritual and a great Christian.
 
-**Characteristics of the Weaker Brother - Romans 14**
+## Characteristics of the Weaker Brother - Romans 14
 
 [Please read Romans chapter 14 before going through the discussion in
 this section.
@@ -280,7 +278,7 @@ can recover quickly by confessing sin, being controlled by the Holy
 Spirit and pursuing a program of intake of Bible truth which will make
 him spiritually strong.
 
-**Illustration from Galatians**
+## Illustration from Galatians
 
 It is important that you read the entire epistle to the Galatians prior
 to reading this outline review of legalism in the Galatian church. The
@@ -309,18 +307,14 @@ flesh.
 
 7. Along with this pseudo production went many other factors:
 
-- The glory-seeking concept of 5:26
-
-- The practice of straightening everyone else out, 6:1
-
-- The concept of weariness with actual doctrinal spiritual production,
-6:2-6
-
-- The program of impressing others, peers, subordinates or superiors,
-6:11-13
-
-- The idea that man gets the glory, God is left out, the antithesis of
-grace, 6:14,15
+    - The glory-seeking concept of 5:26
+    - The practice of straightening everyone else out, 6:1
+    - The concept of weariness with actual doctrinal spiritual
+      production, 6:2-6
+    - The program of impressing others, peers, subordinates or
+      superiors, 6:11-13
+    - The idea that man gets the glory, God is left out, the antithesis
+      of grace, 6:14,15
 
 The principles to be derived from the example of the Galatian church are
 listed below:
@@ -374,21 +368,21 @@ takes the doctrine of separation and makes it the doctrine of
 spirituality; it takes the doctrine of baptism and makes it the doctrine
 of church membership.
 
-The term bondage in Gal. 5:1 means the slavery to the principles and
-ways of regular human living. This is not the idea of degraded
-lasciviousness or debauchery. The Law was bona fide and circumcision was
-bona fide. But these were distorted by legalists to that they became the
-master of the person instead of his tools.
+    The term bondage in Gal. 5:1 means the slavery to the principles and
+    ways of regular human living. This is not the idea of degraded
+    lasciviousness or debauchery. The Law was bona fide and circumcision
+    was bona fide. But these were distorted by legalists to that they
+    became the master of the person instead of his tools.
 
 11. The legalistic person has been bewitched. This terms means to have
 evil brought upon you by vain praise. Legalism appeals to a person’s
 lust for approbation and tries to drag him into legalism to satisfy it.
 Gal. 3:1-3.
 
-The person in legalism is described as foolish, meaning not
-understanding. Legalism is one of the greatest robbers of Christian
-benefits; it robs people of their understanding of the word of God and
-all of the benefits of the grace life.
+    The person in legalism is described as foolish, meaning not
+    understanding. Legalism is one of the greatest robbers of Christian
+    benefits; it robs people of their understanding of the word of God
+    and all of the benefits of the grace life.
 
 12. The legalist does not learn from experience. He has great tenacity;
 and despite many failures and vain strivings, he still can not see his
@@ -404,5 +398,5 @@ embraces proves him to be deficient by always presenting a moving
 target. Grace is the only system which does not magnify the believer’s
 deficiencies.
 
-**Grace to you, and peace…**
+Grace to you, and peace…
 
