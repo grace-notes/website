@@ -2,10 +2,10 @@ $ = jQuery
 
 patterns = {
   "Genesis": "Gen(esis)?"
-  "Exodus": "Ex(od(us)?)?"
+  "Exodus": "Ex(od?(us)?)?"
   "Leviticus": "Lev(iticus)?"
   "Numbers": "Num(bers)?"
-  "Deuteronomy": "Deut?(eronomy)?"
+  "Deuteronomy": "(Dt|Deu?t?(eronomy)?)"
   "Joshua": "Jos?(hua)?"
   "Judges": "Jud(ges)?"
   "Ruth": "Ru(th?)?"
@@ -76,7 +76,7 @@ normalizeRef = (t)->
   return t
 
 allBooks = '(' + ("\\b"+pattern for book, pattern of patterns).join('|') + ')'
-allBooksRegEx = RegExp('('+allBooks+'\\.?(&nbsp;|\\s)*([\\d-]+(:?([0-9]+(, ?[0-9]+)*)+)(; ?)?)+);?(?![^<]*</a>)', 'gi')
+allBooksRegEx = RegExp('('+allBooks+'\\.?(&nbsp;|\\s)*([\\d-–]+(:?([0-9a-z]+(, ?[0-9]+)*)+)(; ?)?)+);?(?![^<]*</a>)', 'gi')
 
 replacement = (match, p1, p2, p3)->
   stdname = normalizeRef(match)
