@@ -2,15 +2,9 @@
 title: "Antichrist"
 pdf: "antichrist.pdf"
 description: "In the Church Age, antichrist refers to any believer who resides and functions in the world system of Satan."
+author: R. B. Thieme, Jr., Pastor, Berachah Church, Houston, Texas
 template: topic.jade
 ---
-
-
-**Antichrist 2**
-
-**Antichrist**
-
-**by R. B. Thieme, Jr., Pastor, Berachah Church, Houston, Texas**
 
 Definition
 ----------
@@ -42,7 +36,7 @@ Antichrist is synonymous with the
 
 These believers are called antichrist in:
 
-1 Jn 2:22, 4:3;
+1 Jn 2:22; 4:3;
 
 2 Jn 7;
 
@@ -62,49 +56,49 @@ Tribulation. He is the beast out of the sea (the sea of nations), the
 Gentile ruler of the revived Roman Empire. He is also the leader of
 ecumenical religion in the Tribulation. He is called by many titles.
 
-a. “The man of sin, the son of perdition,” 2 Thess 2:3.
+a.  “The man of sin, the son of perdition,” 2 Thess 2:3.
 
-b. “The beast from the sea,” Rev 13:1-10 (his political title); “the
-beast,”Rev 17:8-13 (his religious title); and “the beast on whom the
-scarlet woman rides.”
+b.  “The beast from the sea,” Rev 13:1-10 (his political title); “the
+    beast,” Rev 17:8-13 (his religious title); and “the beast on whom the
+    scarlet woman rides.”
 
-c. “The little horn,”
+c.  “The little horn,”
 
-Dan 7:8-9, 19-26.
+    Dan 7:8-9; 19-26.
 
-d. “The abomination of desolation,”
+d.  “The abomination of desolation,”
 
-Matt 24:15. A statue of him is put up in the temple at Jerusalem, a sign
-for all believers to flee to the mountains.
+    Matt 24:15. A statue of him is put up in the temple at Jerusalem, a
+    sign for all believers to flee to the mountains.
 
-e. “The prince that shall come,”
+e.  “The prince that shall come,”
 
-Dan 9:26-7.
+    Dan 9:26-7.
 
-f. “The prince of Tyre,”
+f.  “The prince of Tyre,”
 
-Ezekiel 28:1-10. He is given this title because of the Phoenician Satan
-worship.
+    Ezekiel 28:1-10. He is given this title because of the Phoenician
+    Satan worship.
 
-g. “The feet of the image,”
+g.  “The feet of the image,”
 
-Dan 2:31-45.
+    Dan 2:31-45.
 
 The Jewish dictator might also be called an antichrist because he passes
 himself off as Christ (using anti to mean “instead of Christ”). He is
 also has many titles.
 
-a. “Dan the serpent,”
+a.  “Dan the serpent,”
 
-Gen. 49:16-18.
+    Gen. 49:16-18.
 
-b. “The false prophet,”
+b.  “The false prophet,”
 
-Rev 16:13, 19:20, 20:10.
+    Rev.16:13; 19:20; 20:10.
 
-c. “The willful king”
-
-Dan: 11:36-40.
+c.  “The willful king”
+  
+    Dan. 11:36-40.
 
 ====================
 
