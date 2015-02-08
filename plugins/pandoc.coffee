@@ -7,16 +7,17 @@ cheerio = require 'cheerio'
 
 q = async.queue((page, callback) ->
   if page.metadata.tableOfContents
-    pandoc page.markdown, 'markdown+definition_lists+footnotes', 'html', ['--smart', '--table-of-contents', '--standalone'], (err, result) ->
+    pandoc page.markdown, 'markdown+definition_lists+footnotes', 'html5', ['--smart', '--section-divs', '--toc-depth=2', '--table-of-contents', '--standalone'], (err, result) ->
       $ = cheerio.load(result)
+      $('#TOC ul').addClass('nav')
       $("h2").first().before($("#TOC").prepend("<h2>Table of Contents</h2>"))
       page._htmlraw = $("body").html()
       callback err, page
   else
-    pandoc page.markdown, 'markdown', 'html', ['--smart'], (err, result) ->
+    pandoc page.markdown, 'markdown', 'html5', ['--smart', '--section-divs'], (err, result) ->
       page._htmlraw = result
       callback err, page
-, 2)
+, 6)
 
 pandocRender = (page, callback) ->
   q.push page, (err, page) ->

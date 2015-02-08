@@ -5,6 +5,7 @@ body {
   line-height: 1.52;
   background-color: #fff;
   text-rendering: optimizeLegibility;
+  position: relative;
 }
 
 .content-wrap {
@@ -86,7 +87,9 @@ h4 {
     margin: 30px 0;
     font-size: 100%;
     font-weight: 600;
-    a { color: #333; display: block; }
+    a {
+      color: #333; display: block;
+    }
     li {
       margin: 0.1em 0 0.2em;
       text-align: left;
@@ -118,6 +121,22 @@ h4 {
     overflow-y: auto;
     background: #fdfdfd;
     margin: 0;
+    h2 {
+      border: none;
+      margin: 0 10px;
+      line-height: 2;
+    }
+    > ul {
+      margin: 0;
+      li {
+        background: #eee;
+        margin: 1px 0;
+        padding: 0 10px;
+      }
+    }
+    .active, .active a {
+      background: #ddd;
+    }
   }
 }
 
