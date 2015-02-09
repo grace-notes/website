@@ -7,7 +7,7 @@ block content
   - var topics = Object.keys(contents.topics).map( function(a) {
   -   return contents.topics[a];
   - }).filter( function(a) {
-  -   return a.title != undefined;
+  -   return a.template == 'topic.jade';
   - }).sort( function(a,b) {
   -   var titleA = a.metadata.indexTitle || a.title;
   -   var titleB = b.metadata.indexTitle || b.title;
