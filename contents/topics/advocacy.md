@@ -44,7 +44,7 @@ matter for the imputation of divine discipline, Hebrews 12:6.
 An advocate is one who undertakes the cause of another. In its Biblical
 meaning, advocacy represents divine enablement and assistance.
 
-The New Testament word for advocate is PARAKLETOS, Johnn 14:16,26;
+The New Testament word for advocate is PARAKLETOS, John 14:16,26;
 15:26; 16:17.
 
 Two persons of the Trinity are recognized as advocates: the Son and the
