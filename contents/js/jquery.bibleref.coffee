@@ -22,7 +22,7 @@ patterns = {
   "Psalms": "Ps(alms?)?"
   "Proverbs": "Pro(v(erbs)?)?"
   "Ecclesiastes": "Ecc(lesiastes)?"
-  "Song of Solomon": "(Sg|Song of Songs|Song of Sol(omon)?)"
+  "Song of Solomon": "(Sg|Song( of Songs)?|Song of Sol(omon)?)"
   "Isaiah": "Is(a(iah)?)?"
   "Jeremiah": "Je(r(emiah)?)?"
   "Lamentations": "La(m(entations)?)?"
@@ -76,7 +76,7 @@ normalizeRef = (t)->
   return t
 
 allBooks = '(' + ("\\b"+pattern for book, pattern of patterns).join('|') + ')'
-allBooksRegEx = RegExp('('+allBooks+'\\.?(&nbsp;|\\s)*([\\d-–]+(:?([0-9][0-9a-f]*(, ?[0-9]+)*)+)(;(&nbsp;)? ?)?)+);?(?![^<]*</a>)', 'gi')
+allBooksRegEx = RegExp('('+allBooks+'\\b\\.?(&nbsp;|\\s)*([a-cf0-9:—–-]|,\\s?|&nbsp;)*(;((\\s|&nbsp;)?[0-9]*:([0-9—–-]|,\\s?)*))*)\\b(?![^<]*</a>)', 'gi')
 
 replacement = (match, p1, p2, p3)->
   stdname = normalizeRef(match)
