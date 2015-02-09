@@ -1,4 +1,4 @@
 
-# Blog
+# Grace Notes Website
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+Site generation with [wintersmith](https://github.com/jnordberg/wintersmith)
