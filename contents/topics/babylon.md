@@ -1,30 +1,50 @@
 ---
-title: "Babylon"
-pdf: "babylon.pdf"
-description: "Babylon lay on the bank of the Euphrates in the land of Shinar (Gen. 10:10), in the northern area of Babylonia (now southern Iraq) called Accad (as opposed to the southern area called Sumer)."
+title: Babylon
 template: topic.jade
+description: "Babylon lay on the bank of the Euphrates in the land of
+  Shinar (Gen. 10:10), in the northern area of Babylonia (now southern
+  Iraq) called Accad (as opposed to the southern area called Sumer)."
 ---
 
+*From International Standard Bible Encyclopedia*
 
-From International Standard Bible Encyclopedia
+**Babylon** baʹbə-lon; **BABEL** bāʹbəl (Gen. 10:10; 11:9) [Heb
+_bābel_—‘gate of god’; Akk _bāb–ili_, _bāb-ilāni_—‘gate of god(s)’; Gk
+_Babylōn_; Pers *Babirush*]. The capital city of Babylonia.
 
-**Babylon** baʹbə-lon; **BABEL** bāʹbəl (Gen. 10:10; 11:9) [Heb _bābel_—‘gate of god’; Akk _bāb–ili_, _bāb-ilāni_—‘gate of god(s)’; Gk _Babylōn_; Pers *Babirush*]. The capital city of Babylonia.
+## I. Location
 
-##I. Location
-
-Babylon lay on the bank of the Euphrates in the land of Shinar (Gen. 10:10), in the northern area of Babylonia (now southern Iraq) called Accad (as opposed to the southern area called Sumer). Its ruins, covering 2100 acres (890 hectares), lie about 50 mi (80 km) S of Baghdad and 5 mi 8 (km) N of Hillah. The ancient site is now marked by the mounds of Bâbil to the north, *Qaṣr* (“the Citadel”) in the center, and Merkes, *‘Amran Ibn ‘Alī Ṣaḥn*, and Homera to the south. The high water and long flooding of the whole area render the earlier and lower ruins
+Babylon lay on the bank of the Euphrates in the land of Shinar (Gen.
+10:10), in the northern area of Babylonia (now southern Iraq) called
+Accad (as opposed to the southern area called Sumer). Its ruins,
+covering 2100 acres (890 hectares), lie about 50 mi (80 km) S of Baghdad
+and 5 mi 8 (km) N of Hillah. The ancient site is now marked by the
+mounds of Bâbil to the north, *Qaṣr* (“the Citadel”) in the center, and
+Merkes, *‘Amran Ibn ‘Alī Ṣaḥn*, and Homera to the south. The high water
+and long flooding of the whole area render the earlier and lower ruins
 inaccessible.
 
-##II. Name
+## II. Name
 
-The oldest attested extrabiblical name is the Sumerian ká-dingir-ki (usually written ká-dingir-ra, “gate of god”). This may have been atranslation of the more commonly used later Babylonian *Bāb-ilī*, of which an etymology based on Heb *bālal*, “confused,” is given in Gen 11:9. Throughout the OT and NT, Babylon stands theologically for the community that is anti-God. Rarely from 2100 b.c. and frequently in the 7th cent Babylon is called TIN.TIR.KI, “wood (trees) of life,” and from the latter period also. E.KI, “canal zone (?).” Other names applied to at least part of the city were *ŠU.AN.NA*, “hand of heaven” or “high-walled (?),” and the Heb *šēšaḵ* (Jer. 25:26; 51:41), which is usually interpreted as a coded form (Athbash) by which *š* = *b*, etc. The proposed equation with *ŠEŠ.KU* in a late king list has been
+The oldest attested extrabiblical name is the Sumerian ká-dingir-ki
+(usually written ká-dingir-ra, “gate of god”). This may have been
+atranslation of the more commonly used later Babylonian *Bāb-ilī*, of
+which an etymology based on Heb *bālal*, “confused,” is given in Gen
+11:9. Throughout the OT and NT, Babylon stands theologically for the
+community that is anti-God. Rarely from 2100 b.c. and frequently in the
+7th cent Babylon is called TIN.TIR.KI, “wood (trees) of life,” and from
+the latter period also. E.KI, “canal zone (?).” Other names applied to
+at least part of the city were *ŠU.AN.NA*, “hand of heaven” or
+“high-walled (?),” and the Heb *šēšaḵ* (Jer. 25:26; 51:41), which is
+usually interpreted as a coded form (Athbash) by which *š* = *b*, etc.
+The proposed equation with *ŠEŠ.KU* in a late king list has been
 questioned, since this could be read equally well as (É).URU.KU.
 
-##III. Early History
+## III. Early History
 
-*__A. Foundation__* Genesis ascribes the foundation of the city to Nimrod
-prior to his building of Erech (ancient Uruk, modern Warka) and Accad
-(Agade), which can be dated to the 4th and 3rd millennia b.c.
+*__A. Foundation__* Genesis ascribes the foundation of the city to
+Nimrod prior to his building of Erech (ancient Uruk, modern Warka) and
+Accad (Agade), which can be dated to the 4th and 3rd millennia b.c.
 respectively. The earliest written reference extant is by
 *Šar-kali-šarri* of Agade ca 2250 b.c., who claimed to have (re)built
 the temple of *Anunītum* and carried out other restorations, thus
@@ -51,9 +71,9 @@ recovered the captive statues, but that of Marduk was again removed at
 the sack of the city by Tukulti-Ninurta I of Assyria (1250) and by the
 *Elamite Kudur-Naḫḫunte* II (1176).
 
-*__C. Middle Babylonian Period__* The recovery of Marduk’s statue was the
-crowning achievement of Nebuchadrezzar I (1124–1103), marking an end to
-foreign domination of the city. He restored it to Esagila amid much
+*__C. Middle Babylonian Period__* The recovery of Marduk’s statue was
+the crowning achievement of Nebuchadrezzar I (1124–1103), marking an end
+to foreign domination of the city. He restored it to Esagila amid much
 public rejoicing and refurbished the cult places. Although Babylon
 retained its independence despite the pressure of the western tribes,
 this required help from the Assyrians, one of whom, Adad-apal-iddina,
@@ -109,10 +129,25 @@ Assyria laid siege to the city, which fell after four years of great
 hardship. *Šamaš-šum-ukīn* died in the fire that destroyed his palace
 and the citadel.
 
-*__E. Chaldean Rulers__* Reconstruction work began under the Chaldean Nabopolassar (*Nabû-apla-uṣur*, 626–605 [5 highlights]b.c.), who was elected king following a popular revolt after the death of the Assyrian nominee Kandalanu. His energetic son Nebuchadrezzar (II) with his queen Nitocris restored not only the political prestige of Babylonia, which
-for a time dominated the whole of the former Assyrian empire, but also the capital city, to which he brought the spoils of war including the treasures of Jerusalem and Judah (2 K 25:13–17). Texts dated to this reign list Jehoiachin king of Judah (*Ya’ukin māt Yaḫudu*), his five sons, and Judean craftsmen among recipients of corn and oil from the king’s stores. It is to the city of this period, one of the glories of the ancient world, that the extant texts and archeological remains bear witness. Nabonidus (555–539 [5 highlights]b.c.) continued to care for the temples of the city, though he spent ten years in Arabia, leaving control of local affairs in the hands of his son and co-regent Belshazzar, who died when the city fell to the Persians in 539 (Dnl 5:30).
+*__E. Chaldean Rulers__* Reconstruction work began under the Chaldean
+Nabopolassar (*Nabû-apla-uṣur*, 626–605 [5 highlights] b.c.), who was
+elected king following a popular revolt after the death of the Assyrian
+nominee Kandalanu. His energetic son Nebuchadrezzar (II) with his queen
+Nitocris restored not only the political prestige of Babylonia, which
+for a time dominated the whole of the former Assyrian empire, but also
+the capital city, to which he brought the spoils of war including the
+treasures of Jerusalem and Judah (2 K 25:13–17). Texts dated to this
+reign list Jehoiachin king of Judah (*Ya’ukin māt Yaḫudu*), his five
+sons, and Judean craftsmen among recipients of corn and oil from the
+king’s stores. It is to the city of this period, one of the glories of
+the ancient world, that the extant texts and archeological remains bear
+witness. Nabonidus (555–539 [5 highlights]b.c.) continued to care for
+the temples of the city, though he spent ten years in Arabia, leaving
+control of local affairs in the hands of his son and co-regent
+Belshazzar, who died when the city fell to the Persians in 539 (Dnl
+5:30).
 
-##IV. Description
+## IV. Description
 
 *__A. Walls__* Babylon lay in a plain, encircled by double walls. The
 inner rampart (*dūru*), called “Imgur-Enlil,” was constructed of mud
@@ -229,13 +264,13 @@ Hittite basalt sculpture of a lion trampling a man (“the lion of
 Babylon”), and a stele showing the Hittite storm-god *Tešub* from
 seventh-century (b.c.) Sam’al.
 
-*__E. Palaces__* In the southern citadel, bounded by the Imgur-Enlil wall
-(N), the river (W), the Procession Way (E), and the *Libilḫegalla* canal
-(which was cleared by Nebuchadrezzar and linked the Euphrates and the
-Banitu canal E of the city with the canal network in the New City, thus
-providing the city with a system of internal waterways), was a massive
-complex of buildings covering more than 360 by 180 m (400 by 200 yds).
-Here lay the vast palace built by Nabopolassar and extended by his
+*__E. Palaces__* In the southern citadel, bounded by the Imgur-Enlil
+wall (N), the river (W), the Procession Way (E), and the *Libilḫegalla*
+canal (which was cleared by Nebuchadrezzar and linked the Euphrates and
+the Banitu canal E of the city with the canal network in the New City,
+thus providing the city with a system of internal waterways), was a
+massive complex of buildings covering more than 360 by 180 m (400 by 200
+yds). Here lay the vast palace built by Nabopolassar and extended by his
 successors. The entrance from the Procession Way led to a courtyard
 (66.5 by 42.5 m, 218 by 140 ft), flanked by quarters for the royal
 bodyguard, which in Nebuchadrezzar’s time largely consisted of foreign
@@ -288,23 +323,24 @@ far as Esagila. Here were to be found the temples of Ishtar and
 part of the Chaldean extension. Large areas within the city walls were
 given up to parks and squares.
 
-*__G. Temple Tower (Ziggurat)__* The ziggurat of Babylon, *É-temen-an-ki*
-(“building [of] the foundation of heaven and earth”), lay in the center
-of the city, S of the citadel, now marked by the ruin-area *Ṣaḥn* (“the
-Pan”), a deep depression near the mausoleum of *‘Amrān Ibn ‘Alī* founded
-a.d. 680. It lay in a square doublecasemate walled enclosure, forming a
-rectangular courtyard measuring about 420 by 375 m (460 by 410 yds).
-Entry was by two doors in the north and ten elaborate gateways. The
-enclosure was frequently repaired, and bricks marking this activity in
-the reign of Esarhaddon and Ashurbanipal of Assyria and of
-Nebuchadrezzar have survived. The area was subdivided into a long narrow
-western court, a northern court in which towered the ziggurat with its
-adjacent monumental buildings, wall shelters for the pilgrims, housing
-for the priests, and storerooms. The main approach from the Procession
-Way led between two long storerooms. One late Babylonian text, the
-Esagila tablet AO 6555, gives the dimensions of the courts and the names
-of the gates: “grand”; “the rising sun”; “the great gate”; “gate of the
-guardian colossi”; “canal-gate”; and “gate of the tower-view.”
+*__G. Temple Tower (Ziggurat)__* The ziggurat of Babylon,
+*É-temen-an-ki* (“building [of] the foundation of heaven and earth”),
+lay in the center of the city, S of the citadel, now marked by the
+ruin-area *Ṣaḥn* (“the Pan”), a deep depression near the mausoleum of
+*‘Amrān Ibn ‘Alī* founded a.d. 680. It lay in a square doublecasemate
+walled enclosure, forming a rectangular courtyard measuring about 420 by
+375 m (460 by 410 yds). Entry was by two doors in the north and ten
+elaborate gateways. The enclosure was frequently repaired, and bricks
+marking this activity in the reign of Esarhaddon and Ashurbanipal of
+Assyria and of Nebuchadrezzar have survived. The area was subdivided
+into a long narrow western court, a northern court in which towered the
+ziggurat with its adjacent monumental buildings, wall shelters for the
+pilgrims, housing for the priests, and storerooms. The main approach
+from the Procession Way led between two long storerooms. One late
+Babylonian text, the Esagila tablet AO 6555, gives the dimensions of the
+courts and the names of the gates: “grand”; “the rising sun”; “the great
+gate”; “gate of the guardian colossi”; “canal-gate”; and “gate of the
+tower-view.”
 
 Opposite the main gate lay the stepped tower on a platform with shrines
 grouped around. The stages are given as 91 m sq by 34 m high (300 ft sq
@@ -330,16 +366,16 @@ Ruins of Nebuchadrezzar’s “Summer Palace,” just inside the outer
 fortification line on the bank of the Euphrates (W. S. LaSor)
 
 Herodotus (i.181–183) described Etemenanki, which he called the
-“sanctuary” of Zeus Belos. It was, he wrote, 2 stadia (400 m or 1300 ft)
-sq and was entered through a bronze gate. The temple tower stood in the
-center of the sanctuary, its sides 1 stadium (200 m, 650 ft) long, with
-eight towers, one on top of the other. It also had slopes or steps
-rising on each level. (*See* Babel, Tower Of.) In the large topmost
-temple was a couch covered in beautiful rugs with a golden table. There
-was no image of the deity, and the Chaldean priests informed Herodotus
-that one unmarried native woman spent the night there to be visited by
-the deity. Though Herodotus did not believe the story, it conforms to
-the known Babylonian view of the sacred marriage.
+“sanctuary” of Zeus Belos. It was, he wrote, 2 stadia  sq and was
+entered through a bronze gate. The temple tower stood in the center of
+the sanctuary, its sides 1 stadium (200 m, 650 ft) long, with eight
+towers, one on top of the other. It also had slopes or steps rising on
+each level. (*See* Babel, Tower Of.) In the large topmost temple was a
+couch covered in beautiful rugs with a golden table. There was no image
+of the deity, and the Chaldean priests informed Herodotus that one
+unmarried native woman spent the night there to be visited by the deity.
+Though Herodotus did not believe the story, it conforms to the known
+Babylonian view of the sacred marriage.
 
 *__H. Esagila__* The principal temple of Babylon, Esagila (“house of the
 uplifted head”), was dedicated to the patron deity of the city Marduk.
@@ -384,8 +420,8 @@ to the south, and elsewhere Nusku and Sin. To the east of Esagila lay a
 further complex of buildings (89 by 116 m, 292 by 380 ft) the precise
 purpose of which is not known.
 
-*__I. Other Temples__* In addition to Ezida, Babylonian texts refer to at
-least fifty other temples by name, Nebuchadrezzar himself claiming to
+*__I. Other Temples__* In addition to Ezida, Babylonian texts refer to
+at least fifty other temples by name, Nebuchadrezzar himself claiming to
 have built fifteen of them within the city. Excavations have uncovered
 the temple of Ishtar of Agade (*Emašdari*) in the area of private houses
 (Merkes), E of the Procession Way. This faced toward the southwest and
@@ -461,7 +497,7 @@ copied long after Aramaic had become the official language written on
 more perishable materials, and they include astronomical observations,
 diaries, almanacs, and omens.
 
-##V. Later History
+## V. Later History
 
 *__A. Fall of Babylon, 539b.c.__* In 544 Nabonidus returned from *Teimā*
 to Babylon, with which he had been in contact throughout his ten-year
@@ -494,9 +530,9 @@ essential to the proper maintenance of the religious centers.
 “took the hands of *Bēl*,” but left the city under the control of a
 governor, who kept the peace until Cambyses’ death in 522 b.c. There
 followed the first of the recurrent revolts. *Nidintu-Bēl* seized power,
-taking the emotive throne-name Nebuchadrezzar III (Oct.–Dec. 522).
-Darius, the legitimate king (520–485), put down a further rebellion in
-the following year but spared the city, building there an arsenal, a
+taking the emotive throne-name Nebuchadrezzar III (Oct.–Dec.
+522).Darius, the legitimate king (520–485), put down a further rebellion
+in the following year but spared the city, building there an arsenal, a
 Persian-style columned hall (*appa danna*), as an addition to the palace
 he used during his stay in the city.
 
@@ -545,10 +581,28 @@ declined sharply, a process hastened by the foundation of a new capital
 at Seleucia (Tell \`Umar) on the Tigris by his successor Antiochus I, in
 274 b.c.
 
-*__E. Later City__* Babylon’s attraction as a “holy city” continued. The satrap Hyspaosines of Characene suppressed a revolt led by a certain Hymerus in 127 b.c. when the priests of Esagila were active. Hymerus issued coins as “king of Babylon” in 124/23, but by the following year Mithradates II had regained control. An independent ruler Gotarzes I was recognized as ruler in 91–80, and the city lay in Parthian hands (Mithradates III, 58–55) until taken over by a rebel Orodes. It remained
-a center of Hellenism, despite the opposition of a significant traditional Babylonian priestly party and of a minority of Jews, from among whom may have come Hillel. Babylon supported the Jews in Palestine who opposed Herod (Josephus Ant. xv.2.1–3). The close association between these Jews in Babylon, who enjoyed self-government there in the 1st cent, and their fellows in Jerusalem is suggested in Acts 2:9–11. Dated cuneiform texts up to a.d. 110 show that the site was still occupied. While Babylon may have been the site of an early Christian church (1 Pet. 5:13), there is no evidence (*see* Babylon in the NT). When Trajan entered the city in 115 he sacrificed to Alexander’s *manes* but made no reference to the continued existence of other religious practices or buildings. According to Septimius Severus the site was deserted by a.d. 200.
+*__E. Later City__* Babylon’s attraction as a “holy city” continued. The
+satrap Hyspaosines of Characene suppressed a revolt led by a certain
+Hymerus in 127 b.c. when the priests of Esagila were active. Hymerus
+issued coins as “king of Babylon” in 124/23, but by the following year
+Mithradates II had regained control. An independent ruler Gotarzes I was
+recognized as ruler in 91–80, and the city lay in Parthian hands
+(Mithradates III, 58–55) until taken over by a rebel Orodes. It remained
+a center of Hellenism, despite the opposition of a significant
+traditional Babylonian priestly party and of a minority of Jews, from
+among whom may have come Hillel. Babylon supported the Jews in Palestine
+who opposed Herod (Josephus Ant. xv.2.1–3). The close association
+between these Jews in Babylon, who enjoyed self-government there in the
+1st cent, and their fellows in Jerusalem is suggested in Acts 2:9–11.
+Dated cuneiform texts up to a.d. 110 show that the site was still
+occupied. While Babylon may have been the site of an early Christian
+church (1 Pet. 5:13), there is no evidence (*see* Babylon in the NT).
+When Trajan entered the city in 115 he sacrificed to Alexander’s *manes*
+but made no reference to the continued existence of other religious
+practices or buildings. According to Septimius Severus the site was
+deserted by a.d. 200.
 
-##VI. Exploration and Excavation
+## VI. Exploration and Excavation
 
 Since the ancient city of Babylon long lay deserted and unidentified,
 many early travelers, including Schiltberger (ca 1400), di Conti

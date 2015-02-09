@@ -1,15 +1,10 @@
 ---
-title: "Battle of Carchemish"
-indexTitle: "Carchemish, Battle of"
-pdf: "carchemish.pdf"
-description: "A description of the battle for this ancient capital of the Hittite empire, with Bible references"
+indexTitle: Carchemish
+title: Battle of Carchemish
+description: "A description of the battle for this ancient capital of the
+Hittite empire, with Bible references"
 template: topic.jade
 ---
-
-
-**Carchemish 0**
-
-Carchemish
 
 Carchemish was the eastern capital of the ancient Hittite empire. It was
 a highly strategic military and commercial center of Northern Syria for
@@ -29,10 +24,10 @@ Carchemish, about 35 miles east of Haran.
 Pharaoh Necho was allied with the Assyrians, and he was on his way to
 Carchemish to help them fight the Babylonians when King Josiah moved the
 Jewish forces into his path at Megiddo as a delaying action. Josiah was
-killed in the battle of Megiddo (2 Chron. 35:20).
+killed in the battle of Megiddo (**2 Chron. 35:20**).
 
-Necho’s army was delayed again at Riblah (2 Kings 23:31), and when he
-finally approached Carchemish, he was too late. Nebuchadnezzar had
+Necho’s army was delayed again at Riblah (**2 Kings 23:31**), and when
+he finally approached Carchemish, he was too late. Nebuchadnezzar had
 surprised the Assyrians and had captured Carchemish. He turned on the
 Egyptians and thoroughly defeated them. He pursued them to Hamath and
 killed almost all of the Egyptian combatants.

@@ -1,204 +1,90 @@
 ---
-title: "Bible Study"
-pdf: "biblestudy.pdf"
-description: "by Drue Freeman. How to study the Bible with understanding."
+title: Bible Study
+description: by Drue Freeman. How to study the Bible with understanding.
 template: topic.jade
 ---
 
+## INTRODUCTION
 
-**Principles of Bible Study 9**
+This study is designed to introduce the student to basic facts about the Bible and also to introduce some principles that should be employed in one’s search of the Holy Scriptures. We are told in 2 Timothy 2:15 to “handle accurately the word of truth.” There are indeed some basic guidelines found in the Scripture to equip the student of the Word so as to fulfill the exhortation to deal correctly with God’s Word.
 
-LESSON 1
-========
+### *PERSONAL* PREPARATION FOR BIBLE STUDY
 
-INTRODUCTION
+Personal preparation in the study of the Scripture cannot be overemphasized. First and foremost, we must have believed in Jesus Christ as our Savior because the “natural man” cannot accept or understand the things of the Spirit of God. They are spiritually appraised (1 Cor 2:14).
 
-This study is designed to introduce the student to basic facts about the
-Bible and also to introduce some principles that should be employed in
-one’s search of the Holy Scriptures. We are told in 2 Timothy 2:15 to
-“handle accurately the word of truth.” There are indeed some basic
-guidelines found in the Scripture to equip the student of the Word so as
-to fulfill the exhortation to deal correctly with God’s Word.
+God’s word claims that it is divinely inspired (2 Tim 3:16-17) so we must begin our study by accepting that statement as fact. This is not a leap of faith as some would have you believe, but is indeed just a step of faith which we will see as this study progresses.
 
-**PERSONAL**PREPARATION FOR BIBLE STUDY
+We also must pray for wisdom in understanding the Scriptures. God’s Word tells us if we lack wisdom to ask for it, because God will give it to us freely (James 1:5). Passionate prayer for correct knowledge and discernment will be answered because it is clearly within God’s will (1 John 5:14 cf Mat 7:7-8).
 
-Personal preparation in the study of the Scripture cannot be
-overemphasized. First and foremost, we must have believed in Jesus
-Christ as our Savior because the “natural man” cannot accept or
-understand the things of the Spirit of God. They are spiritually
-appraised (1 Cor 2:14).
+We also must be willing to be diligent and patient in our study ( 2 Tim 2:15), because many things of God’s Word are not readily discernible. When we realize that we are finite beings trying to comprehend the infinite mind of God in a small way, it is easy to see that it will take some time.
 
-God’s word claims that it is divinely inspired (2 Tim 3:16-17) so we
-must begin our study by accepting that statement as fact. This is not a
-leap of faith as some would have you believe, but is indeed just a step
-of faith which we will see as this study progresses.
+Your spiritual life is also of great importance in your desire to know. The Lord Jesus Christ said that “if anyone is willing to do His will, he  shall know of the teaching (John 7:17).” If what you desire is simply an intellectual quest and not a relationship with the living God, then the knowledge you gain will always be lacking and distorted. Sadly, many people study God’s word so that they can walk by sight, but the greatest theologian of the Church, the Apostle Paul, said that he “walked by faith and not by sight (2 Cor 5:7).” We enter into salvation by grace through faith (Eph 2:8-9), and as we have entered, so we are to walk (Col 2:6), therefore we are to learn God’s word in order to have a greater faith.
 
-We also must pray for wisdom in understanding the Scriptures. God’s Word
-tells us if we lack wisdom to ask for it, because God will give it to us
-freely (James 1:5). Passionate prayer for correct knowledge and
-discernment will be answered because it is clearly within God’s will (1
-John 5:14 cf Mat 7:7-8).
+It is also important that we consistently confess our sins and permit God to do the cleansing of our lives, so that greater fellowship may be attained with Him (1 John 1:6-10).
 
-We also must be willing to be diligent and patient in our study ( 2 Tim
-2:15), because many things of God’s Word are not readily discernible.
-When we realize that we are finite beings trying to comprehend the
-infinite mind of God in a small way, it is easy to see that it will take
-some time.
+### WHAT IS TO BE GAINED FROM GOD’S WORD
 
-Your spiritual life is also of great importance in your desire to know.
-The Lord Jesus Christ said that “if anyone is willing to do His will, he
-shall know of the teaching (John 7:17).” If what you desire is simply an
-intellectual quest and not a relationship with the living God, then the
-knowledge you gain will always be lacking and distorted. Sadly, many
-people study God’s word so that they can walk by sight, but the greatest
-theologian of the Church, the Apostle Paul, said that he “walked by
-faith and not by sight (2 Cor 5:7).” We enter into salvation by grace
-through faith (Eph 2:8-9), and as we have entered, so we are to walk
-(Col 2:6), therefore we are to learn God’s word in order to have a
-greater faith.
+There is a profound knowledge to be gained from God’s Word as we “grow in the grace and knowledge of our Lord Jesus Christ (2 Pet 3:14-18). Along with this is our growth in faith as we”hear" God’s Word through the Scriptures (Rom 10:17). God’s Word is necessary for the purification of our lives because it is His Word which is truth (John 17:17). As we prepare to serve Him, we must put on His armor, which is done by the Holy Spirit (Eph 6:17). With His Spirit at work in our lives we will also have power in ministry (Eph 2:10). With this knowledge of His Word, we can practice the truth in the name of the Lord Jesus (Col 3:16-17) and proclaim it to a lost and dying world (John 17:17-19; Heb 5:12).
 
-It is also important that we consistently confess our sins and permit
-God to do the cleansing of our lives, so that greater fellowship may be
-attained with Him (1 John 1:6-10).
+### WHAT IS THE BIBLE
 
-WHAT IS TO BE GAINED FROM GOD’S WORD
+The Bible is not simply another book. Jesus Christ called it “The Book (Heb 10:7).” Without it man cannot know the absolute standard of righteousness and the need for grace in his life.
 
-There is a profound knowledge to be gained from God’s Word as we “grow
-in the grace and knowledge of our Lord Jesus Christ (2 Pet 3:14-18).
-Along with this is our growth in faith as we”hear" God’s Word through
-the Scriptures (Rom 10:17). God’s Word is necessary for the purification
-of our lives because it is His Word which is truth (John 17:17). As we
-prepare to serve Him, we must put on His armor, which is done by the
-Holy Spirit (Eph 6:17). With His Spirit at work in our lives we will
-also have power in ministry (Eph 2:10). With this knowledge of His Word,
-we can practice the truth in the name of the Lord Jesus (Col 3:16-17)
-and proclaim it to a lost and dying world (John 17:17-19; Heb 5:12).
+The Bible is the written revelation of the Living Word of God, our Lord Jesus Christ (Heb 4:12 cf John 5:39-47). It is accepted by faith and proved by history.
 
-WHAT IS THE BIBLE
+Every single part of the Bible is inspired by God (2 Tim 3:16-17) and is thus profitable. Inspiration is more than human genius and illumination. Illumination is the influence of the Holy Spirit upon the student of the Word. Inspiration is more than revelation which means to take the veil off, it is divinely initiated. The veil may be removed from a bride, but the bride is yet to be fully understood. Inspiration is “God’s breath” expressing itself through a human personality.
 
-The Bible is not simply another book. Jesus Christ called it “The Book
-(Heb 10:7).” Without it man cannot know the absolute standard of
-righteousness and the need for grace in his life.
+The Old Testament was written for the most part in Hebrew, except for Daniel Chapters Two through Seven and Ezra Chapters Four through Seven which were written in a sister language to the Hebrew, which is Aramaic. All of the New Testament is written in Koine (common) Greek.
 
-The Bible is the written revelation of the Living Word of God, our Lord
-Jesus Christ (Heb 4:12 cf John 5:39-47). It is accepted by faith and
-proved by history.
+### THE DIVISIONS OF THE BIBLE
 
-Every single part of the Bible is inspired by God (2 Tim 3:16-17) and is
-thus profitable. Inspiration is more than human genius and illumination.
-Illumination is the influence of the Holy Spirit upon the student of the
-Word. Inspiration is more than revelation which means to take the veil
-off, it is divinely initiated. The veil may be removed from a bride, but
-the bride is yet to be fully understood. Inspiration is “God’s breath”
-expressing itself through a human personality.
+The Bible is divided into two Testaments, the old and the new. A “testament” is a covenant or contract. The “Old” Testament looks at the original covenants that God made with man concerning the coming Messiah. The New Testament looks at the arrival of the Messiah and the new contracts that were made.
 
-The Old Testament was written for the most part in Hebrew, except for
-Daniel Chapters Two through Seven and Ezra Chapters Four through Seven
-which were written in a sister language to the Hebrew, which is Aramaic.
-All of the New Testament is written in Koine (common) Greek.
-
-THE DIVISIONS OF THE BIBLE
-
-The Bible is divided into two Testaments, the old and the new. A
-“testament” is a covenant or contract. The “Old” Testament looks at the
-original covenants that God made with man concerning the coming Messiah.
-The New Testament looks at the arrival of the Messiah and the new
-contracts that were made.
-
-There are 39 books in the Old Testament and 27 books in the New
-Testament, for a total of 66 books that are in the Bible. There are
-1,189 chapters with 929 of them in the Old Testament and the other 260
-chapters located in the New Testament. The Old Testament contains 23,214
-verses and the New Testament contains 7,959 verses for a total of 31,
-173 verses of Scripture. The 39 books of the Old Testament were written
-by over 30 authors. The 27 books of the New Testament were written by 10
+There are 39 books in the Old Testament and 27 books in the New Testament, for a total of 66 books that are in the Bible. There are 1,189 chapters with 929 of them in the Old Testament and the other 260 chapters located in the New Testament. The Old Testament contains 23,214 verses and the New Testament contains 7,959 verses for a total of 31, 173 verses of Scripture. The 39 books of the Old Testament were written by over 30 authors. The 27 books of the New Testament were written by 10
 authors.
 
-In the Old Testament, the first five books, Genesis, Exodus, Leviticus,
-Numbers and Deuteronomy are called the “Torah (Law),” and also called
-the “Pentateuch.” The Pentateuch is followed by twelve Historical books:
-Joshua, Judges, Ruth, 1 & 2 Samuel, 1 & 2 Kings, 1 & 2 Chronicles, Ezra,
-Nehemiah and Esther. The next grouping contains five Poetical books:
-Job, Psalms, Proverbs, Ecclesiastes and the Song of Solomon. The
-poetical books are followed by the five Major Prophets: Isaiah,
-Jeremiah, Lamentations, Ezekial and Daniel. Twelve Minor Prophets then
-conclude the Old Testament: Hosea, Joel, Amos, Obadiah, Johan, Micah,
-Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi.
+In the Old Testament, the first five books, Genesis, Exodus, Leviticus, Numbers and Deuteronomy are called the “Torah (Law),” and also called the “Pentateuch.” The Pentateuch is followed by twelve Historical books: Joshua, Judges, Ruth, 1 & 2 Samuel, 1 & 2 Kings, 1 & 2 Chronicles, Ezra, Nehemiah and Esther. The next grouping contains five Poetical books: Job, Psalms, Proverbs, Ecclesiastes and the Song of Solomon. The poetical books are followed by the five Major Prophets: Isaiah, Jeremiah, Lamentations, Ezekial and Daniel. Twelve Minor Prophets then conclude the Old Testament: Hosea, Joel, Amos, Obadiah, Johan, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah and Malachi.
 
-The New Testament begins with five Historical books: Matthew, Mark,
-Luke, John and the Book of Acts. The Historical books are followed by 21
-Epistles and one book of Prophecy (Revelation).
+The New Testament begins with five Historical books: Matthew, Mark, Luke, John and the Book of Acts. The Historical books are followed by 21 Epistles and one book of Prophecy (Revelation).
 
-AN OVERVIEW OF THE BIBLE
+### AN OVERVIEW OF THE BIBLE
 
 A. Creation of the heavens and earth. Gen 1:1; 2 Pet 3:6
-
 B. Satan’s First Rebellion. Gen 1:2 cf Isa 45:18 cf Isa 14:12-14
-
 C. Earth prepared for Man. Gen 1:2-2:3
-
 D. The Headship of the First Man. Gen 2:4-25
-
 E. Man’s subjection to Satan. Gen 3
-
 F. Mankind dealt with as a whole. Gen 4-10
-
 G. Construction of Babylon. Gen 11
-
 H. Israel called and blessed. Gen 12
-
 I. Times of the Gentiles.
-
 J. First Advent of Jesus Christ.
-
 K. Ministry of Jesus Christ.
-
 L. Church called out.
-
 M. Church called up.
-
 N. Ministry of Antichrist.
-
 O. Second Advent of Christ.
-
 P. Times of Gentiles-close of Tribulation.
-
 Q. Israel recalled and blessed.
-
 R. Destruction of Babylonian systems.
-
 S. Mankind dealt with as a whole.
-
 T. God’s subjection of Satan.
-
 U. Headship of Second Adam.
-
 V. Earth perfected for man.
-
 W. Satan’s Final Rebellion.
-
 X. New Heavens and Earth.
 
-BEGINNING TO STUDY THE BIBLE
+### BEGINNING TO STUDY THE BIBLE
 
-As we seek to understand the Bible, we must constantly seeks answers to
-the questions, “who,” “what,” “when,” “where,” “why,” and how?" The
-answers to these questions must always be considered in view of two more
-questions, “how does this let us develop a relationship with our Lord
-Jesus Christ,” and “how then shall we live?”
+As we seek to understand the Bible, we must constantly seeks answers to the questions, “who,” “what,” “when,” “where,” “why,” and how?" The answers to these questions must always be considered in view of two more questions, “how does this let us develop a relationship with our Lord Jesus Christ,” and “how then shall we live?”
 
-We are going to take a simple look at principles that we must keep in
-mind while studying the Bible. These principles have been revealed by
-the Holy Spirit Himself through the written word. They are principles
-that we are to pass on from one generation to the next (2 Tim 2:2) so
-that we all might grow up in all respects in our Lord (Eph 4:11-16).
+We are going to take a simple look at principles that we must keep in mind while studying the Bible. These principles have been revealed by the Holy Spirit Himself through the written word. They are principles that we are to pass on from one generation to the next (2 Tim 2:2) so that we all might grow up in all respects in our Lord (Eph 4:11-16).
 
-LESSON 2
-========
+## LESSON 2
 
 15 BASIC PRINCIPLES OF INTERPRETATION
 
-PRINCIPLE \#1: INTERPRET BASED ON DIVINE ESSENCE.
+### PRINCIPLE 1: INTERPRET BASED ON DIVINE ESSENCE.
 
 This principle recognizes the Essence of God and that His Essence is not
 compromised. It is thus vitally important to know the basic
@@ -250,7 +136,7 @@ John 5:20 \>, [1 John 5:7,8; 4:6; John 14:17; 15:26; 16:13].
 God is IMMUTABLE meaning that His Essence never changes. (James 1:17;
 Heb 6:17; Mal 3:6), \< Heb 13:8 \>, [1 Cor 12:4; Eph 1:13].
 
-PRINCIPLE \# 2: INTERPRET CHRISTOLOGICALLY.
+### PRINCIPLE 2: INTERPRET CHRISTOLOGICALLY.
 
 This principle is based on the fact that all history, both angelic and
 human, is focused on Jesus Christ. It recognizes that Jesus Christ is
@@ -287,7 +173,7 @@ Esther: He is our Mordecai. (Ch. 10)
 
 Job: He is our Risen and Returning Redeemer. (19:25)
 
-Psalms:
+#### Psalms:
 
 He is the Blessed Man of 1.
 
@@ -397,7 +283,7 @@ Jude: He is the Believer’s Security. (V24,25)
 
 Revelation: He is the King of Kings and Lord of Lords. (19:11-16)
 
-PRINCIPLE \#3: INTERPRET DISCRIMINATELY.
+### PRINCIPLE 3: INTERPRET DISCRIMINATELY.
 
 This principle instructs us to make distinctions where God makes
 distinctions. In other words, we are to recognize Biblical differences
@@ -406,7 +292,7 @@ and rewards, the believer’s security and walk, Law and Grace, and a host
 of others. The Bible makes many distinctions and challenges us to find
 out the reasons why God chose to establish them as different.
 
-PRINCIPLE \#4: INTERPRET TO FIND OUT HOW TO LIVE. JOHN 7:17
+### PRINCIPLE 4: INTERPRET TO FIND OUT HOW TO LIVE. JOHN 7:17
 
 This principle comes from a direct statement of Jesus Christ. If one
 truly wants to “know” God’s Word, then one must be willing to “do” His
@@ -460,36 +346,24 @@ also hinder interpretation. The chief example being the Song of Solomon.
 To make the proper application:
 
 1. PRAY.
-
 2. Understand the PASSAGE.
-
 3. Determine the PRINCIPLE.
-
 4. Identify personal PROBLEMS.
-
 5. Develop a PLAN to deal with the problems.
-
 6. Check consistently for PROGRESS.
-
 7. PRAY.
 
 Why do I fail?
 
 1. Resistance to change.
-
 2. Disobedience.
-
 3. Pressure to conform to worldly standards.
-
 4. No interest in applicaton.
-
 5. Redefine sin.
-
 6. Substitution of emotion for volition.
-
 7. Fogged thinking by prejudice, bias or laziness.
 
-PRINCIPLE \#5: INTERPRET FROM PRIMARY PASSAGES.
+### PRINCIPLE 5: INTERPRET FROM PRIMARY PASSAGES.
 
 This principle recognizes that God has declared His primary attitude on
 any subject that is vital to our spiritual life. Many times in the Word,
@@ -499,26 +373,17 @@ particular truth and places them in a summary passage.
 Some examples:
 
 A. The Resurrection. 1 Cor 15
-
 B. The Tongue. James 3
-
 C. The Restoration of Israel. Rom 11
-
 D. Triumphs of the Faith. Heb 11
-
 E. God’s discipline of His children. Heb 12:1-11
-
 F. The Church. Eph 1-3
-
 G. Righteousness by faith. Rom 3:10-21
-
 H. Law. Ex 20
-
 I. Full Armor of God. Eph 6:10-17
-
 J. Spiritual Gifts. 1 Cor 12-14
 
-PRINCIPLE \# 6: INTERPRET BASED ON CONTEXT.
+### PRINCIPLE  6: INTERPRET BASED ON CONTEXT.
 
 This principle is based on the fact that every sentence or verse in the
 Bible has something the comes before and/or something that follows. God
@@ -580,7 +445,7 @@ accurately the Word of Truth (2 Tim 2:15).” When we make “doctrinal”
 statements, we must be able to prove them from Scripture that is
 interpreted in context, or else that “doctrine” is subject to question.
 
-PRINCIPLE \# 7: INTERPRET COMPARATIVELY.
+### PRINCIPLE  7: INTERPRET COMPARATIVELY.
 
 This principle also recognizes the interal consistency of the Word of
 God and points us to the importance of comparing Scripture with
@@ -631,7 +496,7 @@ restoring the earth and not the original creation of it. In any event,
 the position you hold must recognize and properly handle all the verses
 on a given subject.
 
-PRINCIPLE \#8: INTERPRET HARMONIOUSLY.
+### PRINCIPLE 8: INTERPRET HARMONIOUSLY.
 
 This principle recognizes the truthfulness and faithfulness of God and
 that He is not the author of confusion (1 Cor 14:33). In other words,
@@ -658,7 +523,7 @@ or place. Realize also that every small detail may not have been written
 down. Realize also that the problem may be in the translation. In any
 event, there are no true contradictions found in God’s Word.
 
-PRINCIPLE \#9: INTERPRET LITERALLY.
+### PRINCIPLE 9: INTERPRET LITERALLY.
 
 This is the principle under which God says what He means and means what
 He says. It is an extremely important principle because it guides us in
@@ -681,7 +546,7 @@ order to familiarize yourself with this principle are Romans 3:23,
 Romans 8:35-39, John 3:16,18,36, Ephesians 2:8-9, I John 2:1-2, and
 Titus 3:5.
 
-PRINCIPLE \#10: INTERPRET VOLITIONALLY.
+### PRINCIPLE 10: INTERPRET VOLITIONALLY.
 
 This principle looks at the freewill of mankind and the fact that God
 has made man responsible for his own decisions (John 3:18). This is
@@ -696,7 +561,7 @@ decisions of man but that just because it records them does not mean the
 decisions are condoned. We see this also in Genesis 2 and 3. God’s Word
 recorded but did not condone the decision to eat the fruit.
 
-PRINCIPLE \#11: INTERPRET PROGRESSIVELY.
+### PRINCIPLE 11: INTERPRET PROGRESSIVELY.
 
 This principle teaches us that God revealed information over a period of
 time. For example, the first prophecy of the Messiah is found in Genesis
@@ -711,7 +576,7 @@ is the direct adversary of God. Many times we will find that the
 universal truth about a given subject is taught in conjunction with the
 first place it is mentioned.
 
-PRINCIPLE \#12: INTERPRET DISPENSATIONALLY.
+### PRINCIPLE 12: INTERPRET DISPENSATIONALLY.
 
 This principle recognizes that there are particular periods of history
 in which God deals in a particular way with man in respect to man’s
@@ -748,7 +613,7 @@ Dispensations. For example, the forms and methods of the priesthood
 changed during the scope of the Bible, but the principles upon which
 they functioned remained the same.
 
-PRINCIPLE \#13: INTERPRET COVENANTALLY.
+### PRINCIPLE 13: INTERPRET COVENANTALLY.
 
 This principle recognizes the agreements or contracts made between God
 and men. The are conditional covenants that depend upon man’s compliance
@@ -781,7 +646,7 @@ found in Deuteronomy 30:1-10.
 The New Covenant made with the House of Israel in Jeremiah 31:31 and
 Hebrews 8:8-12, based on the blood of Christ.
 
-PRINCIPLE \#14: INTERPRET SPECIFICALLY.
+### PRINCIPLE 14: INTERPRET SPECIFICALLY.
 
 This principle recognizes that there are questions that must be answered
 in interpreting the Bible. For example, we must ask, “Who said this?”
@@ -790,7 +655,7 @@ does this concern?” This principle recognizes that God has dealt with
 three classes of people in history, the Jews, the Gentiles and the
 Church. Therefore, we must seek to determine who the recipients were.
 
-PRINCIPLE \#15: INTERPRET PROPHECY CAREFULLY.
+### PRINCIPLE 15: INTERPRET PROPHECY CAREFULLY.
 
 This principle recognizes that the Bible very clearly foretells future
 events. The Bible also tells us very clearly that true prophecies come
@@ -831,7 +696,7 @@ account for all the known facts and must take all pieces of evidence
 into consideration. It is not our privilege to discount facts that do
 not fit the picture we think we are going to see.
 
-SOME OTHER CONSIDERATIONS:
+## SOME OTHER CONSIDERATIONS
 
 We must recognize that God may leap over centuries of time without
 making a comment that is inscripturated. He may also leap over centuries

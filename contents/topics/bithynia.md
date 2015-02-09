@@ -1,14 +1,9 @@
 ---
-title: "Bithynia"
-pdf: "bithynia.pdf"
-description: "Bithynia was a Roman province in the northwest corner of Asia Minor. 1 Peter 1:1."
+title: Bithynia
+description: "Bithynia was a Roman province in the northwest corner of
+Asia Minor. 1 Peter 1:1."
 template: topic.jade
 ---
-
-
-**Bithynia 0**
-
-**Bithynia**
 
 Bithynia was a Roman province located in the northwest corner of Asia
 Minor. The apostle Paul and Silas wanted to preach the gospel in
@@ -42,9 +37,9 @@ and in its interior valleys. Besides producing fruit and grain, the
 province had fine marble quarries, good timber, and excellent pasturage.
 The principal river was the Sangarius (modern Sakarya), which flowed
 from south to north into the Black Sea. Transportation was largely along
-the river valleys.<sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
+the river valleys.[^1]
 
-[1](#sdfootnote1anc) Elwell, W. A., & Comfort, P. W. (2001). *Tyndale
-Bible dictionary*. Tyndale reference library (224–225). Wheaton, Ill.:
-Tyndale House Publishers.
+[^1]: Elwell, W. A., & Comfort, P. W. (2001). *Tyndale Bible
+dictionary*. Tyndale reference library (224–225). Wheaton, Ill.: Tyndale
+House Publishers.
 

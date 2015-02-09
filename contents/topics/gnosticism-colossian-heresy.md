@@ -1,17 +1,13 @@
 ---
-title: "Gnosticism and the Colossian Heresy"
-pdf: "gnosticism(colossianheresy).pdf"
-description: "Gnosticism and the Colossian Heresy"
+title: Gnosticism and the Colossian Heresy
+description: "The Colossian heresy, in its attack upon the person and
+work of the Lord Jesus Christ, made it imperative that it be met with
+such precise and complete doctrinal teaching as would successfully cope
+with the false teachings of these systems."
 template: topic.jade
 ---
 
-
-**Gnosticism – The Colossian Heresy 4**
-
-**Gnosticism – The Colossian Heresy**
-
-Introduction <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
------------------------------------------------------------
+## Introduction[^1]
 
 [Please read the Epistle to the Colossians before continuing with this
 study.]
@@ -42,8 +38,7 @@ evidence that he is addressing two different groups; but it is generally
 agreed that many Christians at Colosse were being taught false doctrine
 that was based on these two major heresies.
 
-Gnosticism
-----------
+## Gnosticism
 
 A Gnostic is a person who considers himself as having “knowledge” beyond
 that which the ordinary person has. He thinks of himself as a member of
@@ -56,13 +51,13 @@ concerned mainly with two questions.
 1.  First, how can the work of creation be explained?
 
 2.  Second, How are we to account for the existence of evil in the
-    universe.
+universe.
 
 So, the problem posed was, “How can one reconcile the creation of the
 world and the existence of evil with the conception of God as a being
-who is absolutely holy?
+who is absolutely holy?"
 
-The Gnostic argued as follows
+The Gnostic argued as follows:
 
 If God had created the universe out of nothing, and evolved it directly
 from Himself, that holy God could not have brought an evil universe into
@@ -148,13 +143,12 @@ these things.
 3.  Some men perfect through knowledge VS every man perfect in Christ.
 
 4.  Divine emanations and angels who were mediators in creation VS Jesus
-    Christ as Creator
+Christ as Creator
 
 5.  A distributed divine essence (Father, Son, Holy Spirit) VS the
-    divine essence is totally in Christ Jesus.
+divine essence is totally in Christ Jesus.
 
-The Essenes <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
-----------------------------------------------------------
+## The Essenes[^2]
 
 The Essenes were a Jewish religious community which was first mentioned
 in history in the writings of Josephus (Antiquities, XIII, 5, 9), who
@@ -236,33 +230,34 @@ required to maintain life.
 
 The following special customs were observed by the Essenes:
 
-• They had no slaves; all were free, mutually working for each other.
+* They had no slaves; all were free, mutually working for each other.
 
-• Swearing oaths was forbidden as worse than perjury; “for that which
-does not deserve belief without an appeal to God is already condemned.”
+* Swearing oaths was forbidden as worse than perjury; “for that which
+  does not deserve belief without an appeal to God is already
+  condemned.”
 
-• The forbade anointing the body with oil or perfumes, because they
-thought that having a rough exterior was praiseworthy.
+* The forbade anointing the body with oil or perfumes, because they
+  thought that having a rough exterior was praiseworthy.
 
-• It was compulsory to bathe in cold water before meals, after the
-functions of nature, and after coming into contact with lower Essene
-classes or strangers.
+* It was compulsory to bathe in cold water before meals, after the
+  functions of nature, and after coming into contact with lower Essene
+  classes or strangers.
 
-• They wore white clothing all the time.
+* They wore white clothing all the time.
 
-• They required great modesty. In performing natural functions they dug
-a foot-deep hole with their pickax, which they always carried, covered
-themselves with a mantle (so as not to offend God), and covered the hole
-when they were finished. While bathing, they tied the ever-present apron
-around their loins.
+* They required great modesty. In performing natural functions they dug
+  a foot-deep hole with their pickax, which they always carried, covered
+  themselves with a mantle (so as not to offend God), and covered the
+  hole when they were finished. While bathing, they tied the
+  ever-present apron around their loins.
 
-• They sent gifts of incense to the temple, but they did not offer
-animal sacrifices because they thought their own sacrifices were more
-valuable.
+* They sent gifts of incense to the temple, but they did not offer
+  animal sacrifices because they thought their own sacrifices were more
+  valuable.
 
-• Their common meals had many characteristics of sacrificial feasts. The
-food was prepared by priests with the observance of certain rites of
-purification; and an Essene could not eat any food but this.
+* Their common meals had many characteristics of sacrificial feasts. The
+  food was prepared by priests with the observance of certain rites of
+  purification; and an Essene could not eat any food but this.
 
 ### Essene Theology
 
@@ -297,20 +292,20 @@ however, influenced by foreign systems of theology and philosophy,
 including possibly Buddhism, Parseeism, Syrian heathenism, and
 Pythagoreanism.
 
-[1](#sdfootnote1anc) This article is taken largely from Bishop J. B.
-Lightfoot, *Epistle to the Colossians.*
+[^1]: This article is taken largely from Bishop J. B.
+      Lightfoot, *Epistle to the Colossians.*
 
-[2](#sdfootnote2anc) **Bibliography of the section on the Essenes.**
+[^2]: **Bibliography of the section on the Essenes.**
 
-Josephus, Antiquities, xviii,1,5; Wars, II,8,2
+      Josephus, Antiquities, xviii,1,5; Wars, II,8,2
 
-Schuerer, Jewish People, Vol. II
+      Schuerer, Jewish People, Vol. II
 
-Edersheim, Life and Times of the Jesus the Messiah,
+      Edersheim, Life and Times of the Jesus the Messiah,
 
-Brownlee, W.H., “A Comparison of the Covenanters of the Dead Sea Scrolls
-with Pre-Christian Jewish Sects”, in The Biblical Archaeologist, Vol.
-XIII, Sept. 1950, pp. 50-72.
+      Brownlee, W.H., “A Comparison of the Covenanters of the Dead Sea
+      Scrolls with Pre-Christian Jewish Sects”, in The Biblical
+      Archaeologist, Vol.  XIII, Sept. 1950, pp. 50-72.
 
-Unger, Merrill F., Unger’s Bible Handbook
+      Unger, Merrill F., Unger’s Bible Handbook
 

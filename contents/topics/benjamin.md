@@ -1,16 +1,13 @@
 ---
-title: "Benjamin"
-pdf: "benjamin.pdf"
-description: "The youngest of Jacob's sons, the only one to be born in Palestine; and the tribe named for him. The tribe of the Apostle Paul."
+title: Benjamin
+description: "The youngest of Jacob's sons, the only one to be born in
+Palestine; and the tribe named for him. The tribe of the Apostle Paul."
 template: topic.jade
 ---
 
+*From International Standard Bible Encyclopedia*
 
-**Benjamin**
-
-**From International Standard Bible Encyclopedia**
-
-**Benjamin**benʹ-jə-min [Heb *binyāmîn*—‘son of the right hand’].
+**Benjamin** benʹ-jə-min [Heb *binyāmîn*—‘son of the right hand’].
 
 The youngest of Jacob’s sons, the only one to be born in Palestine; and
 the tribe named for him. According to tradition, his mother Rachel died

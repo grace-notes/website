@@ -1,18 +1,13 @@
 ---
-title: "John Bunyan"
-indexTitle: "Bunyan, John"
-pdf: "bunyanjohnlife.pdf"
-description: "the life of the great Christian author of Pilgrim's Progress."
+indexTitle: Bunyan, John, The Life of
+title: The Life of John Bunyan
+description:  "the life of the great Christian author of Pilgrim's
+Progress."
+tableOfContents: yes
 template: topic.jade
 ---
 
-
-**Life of John Bunyan**Page 62 of 62
-
-The Life of John Bunyan
-=======================
-
-CHAPTER I.
+##  CHAPTER I
 
 John Bunyan, the author of the book which has probably passed through
 more editions, had a greater number of readers, and been translated into
@@ -107,9 +102,9 @@ road-side inn, at which their overcharges for their home-baked bread and
 home-brewed beer were continually bringing them into trouble with the
 petty local courts of the day. Thomas Bunyan, John Bunyan’s father, was
 born in the last days of Elizabeth, and was baptized February 24, 1603,
-exactly a month before the great queen passed away. The mother of the
-immortal Dreamer was one Margaret Bentley, who, like her husband, was a
-native of Elstow and only a few months his junior. The details of her
+exactly a month before the great queen passed away. The mother of
+theimmortal Dreamer was one Margaret Bentley, who, like her husband, was
+a native of Elstow and only a few months his junior. The details of her
 mother’s will, which is still extant, drawn up by the vicar of Elstow,
 prove that, like her husband, she did not, in the words of Bunyan’s
 latest and most complete biographer, the Rev. Dr. Brown, “come of the
@@ -427,7 +422,7 @@ writer, and died in the early part of 1676, just when John Bunyan was
 passing through his last brief period of durance, which was to give
 birth to the work which has made him immortal.
 
-CHAPTER II.
+##  CHAPTER II
 
 It cannot have been more than two or three years after Bunyan’s return
 home from his short experience of a soldier’s life, that he took the
@@ -1075,7 +1070,7 @@ person. These blessed considerations were made to spangle in mine eyes.
 Christ was my all; all my Wisdom, all my Righteousness, all my
 Sanctification, and all my Redemption.”
 
-CHAPTER III.
+##  CHAPTER III
 
 The Pilgrim, having now floundered through the Slough of Despond, passed
 through the Wicket Gate, climbed the Hill Difficulty, and got safe by
@@ -1584,7 +1579,7 @@ his head with his own sword as David served Goliath?” The whole treatise
 is somewhat wearisome, but the pious reader will find much in it for
 spiritual edification.
 
-CHAPTER IV.
+##  CHAPTER IV
 
 We cannot doubt that one in whom loyalty was so deep and fixed a
 principle as Bunyan, would welcome with sincere thankfulness the
@@ -1861,7 +1856,7 @@ which was to be Bunyan’s home for twelve long years, to which he went
 carrying, he says, the “peace of God along with me, and His comfort in
 my poor soul.”
 
-CHAPTER V.
+##  CHAPTER V
 
 A long-standing tradition has identified Bunyan’s place of imprisonment
 with a little corporation lock-up-house, some fourteen feet square,
@@ -2133,7 +2128,7 @@ county gaol of Bedford, he remained an inmate, with one, short interval
 in 1666, for the next twelve years, till his release by order of the
 Privy Council, May 17, 1672.
 
-CHAPTER VI.
+##  CHAPTER VI
 
 The exaggeration of the severity of Bunyan’s imprisonment long current,
 now that the facts are better known, has led, by a very intelligible
@@ -2419,7 +2414,7 @@ work of Mr. Frederick Thrupp. In the vestry are preserved Bunyan’s
 chair, and other relics of the man who has made the name of Bedford
 famous to the whole civilized world.
 
-CHAPTER VII.
+##  CHAPTER VII
 
 Mr. Green has observed that Bunyan “found compensation for the narrow
 bounds of his prison in the wonderful activity of his pen. Tracts,
@@ -2997,7 +2992,7 @@ done wrong in letting out of prison, and had better clap in gaol again
 as “an impudent and malicious Firebrand,” have long since been consigned
 to a merciful oblivion, where we may safely leave them.
 
-CHAPTER VIII.
+##  CHAPTER VIII
 
 Bunyan’s protracted imprisonment came to an end in 1672. The exact date
 of his actual liberation is uncertain. His pardon under the Great Seal
@@ -3741,7 +3736,7 @@ through his writings, especially through “The Pilgrim’s Progress,” the
 tinker of Elstow “has become the teacher not of any particular sect, but
 of the Universal Church.”
 
-CHAPTER IX.
+##  CHAPTER IX
 
 We have, in this concluding chapter, to take a review of Bunyan’s merits
 as a writer, with especial reference to the works on which his fame
@@ -4368,6 +4363,3 @@ Valley of the Shadow of Death. Pleasures are to be found among the
 primroses, such pleasures as a brute can be gratified by. Yet the reader
 feels that even if there was no bonfire, he would still prefer to be
 with Christian.”
-
-===========================
-

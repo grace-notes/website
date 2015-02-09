@@ -1,30 +1,26 @@
 ---
-title: "Blessing"
-pdf: "blessing.pdf"
+title: Blessing
 description: "Bible origins of the New Testament word \"blessing\", applications."
 template: topic.jade
 ---
 
-
-**Blessing**
-
-"**Blessed be the God and Father of our Lord Jesus Christ who has
-blessed us with all spiritual blessings:**" (Ephesians 1:3)
+> "Blessed be the God and Father of our Lord Jesus Christ who has
+> blessed us with all spiritual blessings:" (Ephesians 1:3)
 
 This is a study of the New Testament word “blessing”. We expect to
 answer the following questions:
 
-• What does the word “blessing” mean?
+* What does the word “blessing” mean?
 
-• How does God bless us? What does He bless us with?
+* How does God bless us? What does He bless us with?
 
-• What are the blessings that God gives?
+* What are the blessings that God gives?
 
-• How do we get these blessings, and how do we make use of them?
+* How do we get these blessings, and how do we make use of them?
 
-• How can we be a blessing to others?
+* How can we be a blessing to others?
 
-**THE CONCEPT OF BLESSING**
+## THE CONCEPT OF BLESSING
 
 There are three New Testament Greek words related directly to the
 English word “blessing”.
@@ -64,7 +60,7 @@ of fellowship.
 In the Christian life, the inheritance that we pass down to our children
 is spiritual and doctrinal.
 
-**DEFINITION**
+## DEFINITION
 
 The problem in the definition of the word “blessing” is that it is not a
 direct translation from the Greek. The word “blessing” is a borrowed
@@ -73,24 +69,24 @@ rather than by etymological accuracy.
 
 From the World Book Dictionary:
 
-1a. “to consecrate (a thing) by religious rite, formula, or prayer”
-e.g., “the bishop blessed the new church”
-
-1b. “to make holy or sacred.” e.g., “And God blessed the seventh day and
-sanctified it”, Gen. 2:3
-
-2. “to ask God’s favor for; to commend to God’s favor or protection”,
-e.g., “God bless mommy…daddy”
-
-3. “to wish good for; to feel grateful to”
-
-4. “to make happy or fortunate”
-
-5. “to praise, to glorify, to call holy”
-
-6. “to guard or protect from evil”, e.g. “God bless this house.”
-
-7. “to make the sign of the cross over; to ward off evil.”
+> 1a. “to consecrate (a thing) by religious rite, formula, or prayer”
+> e.g., “the bishop blessed the new church”
+>
+> 1b. “to make holy or sacred.” e.g., “And God blessed the seventh day
+> and sanctified it”, Gen. 2:3
+>
+> 2. “to ask God’s favor for; to commend to God’s favor or protection”,
+> e.g., “God bless mommy…daddy”
+>
+> 3. “to wish good for; to feel grateful to”
+>
+> 4. “to make happy or fortunate”
+>
+> 5. “to praise, to glorify, to call holy”
+>
+> 6. “to guard or protect from evil”, e.g. “God bless this house.”
+>
+> 7. “to make the sign of the cross over; to ward off evil.”
 
 Question: Why was the English word “blessing” chosen to represent
 (eulogeitos)?
@@ -98,21 +94,19 @@ Question: Why was the English word “blessing” chosen to represent
 The answer is found in the Oxford English Dictionary (OED) which is one
 of the world’s greatest detective books.
 
-**OED: to bless**
+## OED: to bless
 
-1. “to make sacred; to hallow (something).”
-
-“The word “bless” is from the Old Teutonic (German) bletsian, from
-heathen blood sacrifices. German: das Blut. English: blood.
-
-“The meaning, then, was ‘to mark (or affect in some way) with blood (or
-a sacrificial animal).”
-
-“The sense development of the word ‘bless’ was greatly influenced by its
-having been chosen (in the early English church ceremonies) to translate
-the Latin (benedicere) and the Greek (**eulogeitos**).”
-
-(End of OED comment)
+> "1. “to make sacred; to hallow (something).”
+>
+> “The word “bless” is from the Old Teutonic (German) bletsian, from
+> heathen blood sacrifices. German: das Blut. English: blood.
+>
+> “The meaning, then, was ‘to mark (or affect in some way) with blood
+> (or a sacrificial animal).”
+>
+> “The sense development of the word ‘bless’ was greatly influenced by
+> its having been chosen (in the early English church ceremonies) to
+> translate the Latin (benedicere) and the Greek (**eulogeitos**).”
 
 This concurs very well with the origin of the concept of “blessing” in
 the Bible In the Old Testament (OT), the Hebrew word (**baw-rahk’**),
@@ -160,7 +154,7 @@ Greek by way of Latin.
 So, (**eulogeitos**) =\> benedicere =\> *bendición* =\> benediction =\>
 “praise”
 
-**BLESSING IN THE BIBLE**
+## BLESSING IN THE BIBLE
 
 The word “blessing” recognizes the existence and deity of God. It tells
 us that we can be aware of His existence and have inner happiness
@@ -197,9 +191,9 @@ of reference built by knowledge of doctrine.
 With edification we build the ability to think about God, which enables
 us to receive and enjoy blessing and to be a blessing to others.
 
-Heb. 6:7, “For the earth which drinks in the rain that often comes upon
-it, and brings forth herbs for them by whom it is dressed, receives
-blessing from God.”
+> Heb. 6:7, “For the earth which drinks in the rain that often comes
+> upon it, and brings forth herbs for them by whom it is dressed,
+> receives blessing from God.”
 
 The most basic form of evangelism is to talk about God’s blessing which
 are available to everyone, saved or not.
@@ -222,7 +216,7 @@ showers of “benediction”, showers of “good speaking.”
 
 Study Eph. 4:29 ff on the concept of speech that ministers grace.
 
-See also, Eph. 5, “neither foolishness … but rather giving of thanks.”
+See also, Eph. 5, “_neither foolishness … but rather giving of thanks._”
 
 1 Pet. 3:9
 
@@ -234,10 +228,10 @@ James 3:10 and John 7:38
 We are to be fountains of blessing.
 
 Matt. 25:34; Daniel 4:33,34; (Blessing is not mentioned in Matt. 6:25-34
-and Josh. 1:7,8
+and Josh. 1:7,8)
 
-Ephesians 1:3 (expanded translation) **“Worthy of praise and
-glorification is the God and Father of our Lord Jesus Christ, the one
-who has provided us benefits and every spiritual blessing in the
-heavenlies in Christ:”**
+> Ephesians 1:3 (expanded translation) “Worthy of praise and
+> glorification is the God and Father of our Lord Jesus Christ, the one
+> who has provided us benefits and every spiritual blessing in the
+> heavenlies in Christ:”
 

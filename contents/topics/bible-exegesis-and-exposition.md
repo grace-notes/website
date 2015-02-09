@@ -1,27 +1,22 @@
 ---
-title: "Bible Exegesis and Exposition"
-pdf: "bibleexegesisandexposition.pdf"
-description: "a Bible teacher's study notes must be converted into exposition which can be understood by his audience."
+title: Bible Exegesis And Exposition
+description: "a Bible teacher's study notes must be converted into
+exposition which can be understood by his audience."
 template: topic.jade
 ---
 
+*Biblical Exegesis And Exposition[^1]*
 
-**Bible Exegesis and Exposition7**
+Chester McCalley [^2]
 
-Biblical Exegesis And Exposition [<sup>1</sup>](#sdfootnote1sym)
-================================================================
-
-Chester McCalley [<sup>2</sup>](#sdfootnote2sym)
-
-Introduction
-------------
+## Introduction
 
 What is the relationship between exegesis and exposition? What is Bible
 exposition or expository preaching? This article gives a method for
 moving from exegesis to expository preaching. Think of a tower with two
 spigots: high and low.
 
-Exegesis is the **top**spigot; exposition is at the **bottom**. The
+Exegesis is the **top** spigot; exposition is at the **bottom**. The
 pastor using exegesis deals with Greek and Hebrew syntax, hermeneutics,
 theological arguments, and so forth. Exegesis (the high spigot)
 discovers the text’s meaning.
@@ -55,8 +50,7 @@ The pastor is responsible both for teaching both children and his
 parents, both novice believers and advanced Christians? Yes, indeed, a
 shepherd cares for both adult sheep and lambs.
 
-Exegesis: Exposition’s Foundation
----------------------------------
+## Exegesis: Exposition’s Foundation
 
 The foundation of exposition is exegesis, but what is exegesis?
 
@@ -83,16 +77,16 @@ Usage of this word-group in Scripture is more useful than any definition
 that a dictionary may offer. Context is the key. What is the Biblical
 concept for the word ἐξηγέομαι (exēgeomai “to exegete”)?
 
-**Luke 24:35** “And they (began) to ***relate*** (**exēgeomai**) their
-experiences on the road and how He was recognized by them in the
-breaking of the bread.”
+> **Luke 24:35** “And they (began) to ***relate*** (**exēgeomai**) their
+> experiences on the road and how He was recognized by them in the
+> breaking of the bread.”
 
 Here, two disciples met Jesus on the road to Emmaus. After walking with
 them, He broke bread and they recognized Him. The disciples began to
 relate something to others. The word relate is exegete (exēgeomai).
 
-The New King James Version translates the word as “told”: “And they
-**told** about the things that had happened on the road… “
+The New King James Version translates the word as “told”: “_And they
+**told** about the things that had happened on the road… _“
 
 The disciples began to tell or relate their experiences on the road and
 how they recognized Jesus during a meal.
@@ -101,9 +95,9 @@ Exegesis deals with objective truth, because what they said was true.
 They began to exegete or tell about their objective experiences. It
 refers to explaining objective truth.
 
-**John 1:18** “No man has seen God at any time, the only begotten God
-who is in the bosom of the Father, He has ***explained***
-(**exēgeomai**) Him.”
+> **John 1:18** “No man has seen God at any time, the only begotten God
+> who is in the bosom of the Father, He has ***explained***
+> (**exēgeomai**) Him.”
 
 The New American Standard Bible translates the verb “explained” as “has
 explained.”
@@ -114,19 +108,19 @@ uses “declared” in John 1:18, … He has declared Him.
 Did Christ give a subjective or objective explanation of the Father?
 Again, this is objective truth!
 
-**Acts 10:8** … and after he had ***explained*** everything to them, he
-sent them to Joppa.
+> **Acts 10:8** … and after he had ***explained*** everything to them,
+> he sent them to Joppa.
 
 An angel explained to Cornelius that he should arrange for Peter to meet
 him. Cornelius gathered like-minded men together after the angel had
 explained [exegeted] everything to them….
 
-**Acts 15:12, 14** “And all the multitude kept silent, and they were
-listening to Barnabas and Paul as they were ***relating*** what signs
-and wonders God had done through them among the Gentiles…”
+> **Acts 15:12, 14** “And all the multitude kept silent, and they were
+> listening to Barnabas and Paul as they were ***relating*** what signs
+> and wonders God had done through them among the Gentiles…”
 
-“Simeon has related how God first concerned Himself about taking from
-among the Gentiles a people for His name.”
+> “Simeon has related how God first concerned Himself about taking from
+> among the Gentiles a people for His name.”
 
 The New King James Version uses **declaring** and **declared** for
 **relating** and **related**. Paul and Barnabas relate or declare
@@ -136,9 +130,9 @@ related objective signs and wonders? Simon Peter does likewise in verse
 
 Exegeting a text explains objective truth or fact.
 
-**Acts 21:19**, “And after he had greeted them, he (began) to
-***relate*** one by one the things which God had done among the Gentiles
-through his ministry.
+> **Acts 21:19**, “And after he had greeted them, he (began) to
+> ***relate*** one by one the things which God had done among the
+> Gentiles through his ministry.
 
 Again, the New King James Version uses a slightly different translation:
 “… he ***told in detail*** those things which God had done among the
@@ -153,10 +147,9 @@ relating of objective truth.
 Now, what elements of exegesis are necessary for an accurate textual
 meaning?
 
-Elements of Exegesis
---------------------
+**Elements of Exegesis**
 
-### Language
+## Language
 
 Why should a pastor examine the Hebrew Old Testament and the Greek New
 Testament? The strongest claim made by the Bible is this: Thus saith the
@@ -183,8 +176,8 @@ should challenge and equip them for the work of ministry.
 Expository preaching never implies sacrificing exegesis. For those who
 share our belief in the absolute authority of the Scripture, the
 accuracy of little things argues strongly for careful study. The gospel
-record sometimes focuses on little things. Consider Matthew 26:16: “So
-from that time he (Judas) sought opportunity to betray Him”. Matthew
+record sometimes focuses on little things. Consider Matthew 26:16: “_So
+from that time he (Judas) sought opportunity to betray Him_”. Matthew
 consistently uses παραδίδωμι (**paradidōmi**, “to betray”) to describe
 the act of Judas in betraying Jesus (cf. Matthew 10:4; 26:16, 21, 46;
 27:3). The one who betrays (in Matthew) is always singular.
@@ -202,7 +195,7 @@ uniquely belongs to Judas, but it is also the whole nation’s
 responsibility. A change to the plural reveals this. Pastors ought to
 respect the word of God, painstakingly interpreting its words.
 
-### Sound Hermeneutics
+**Sound Hermeneutics**
 
 Although sound hermeneutics is the foundation of accurate exegesis, some
 interpretive systems distort the literal meaning.
@@ -213,12 +206,12 @@ supposedly superior allegorical meaning. An example of this disastrous
 method is the Epistle of Barnabas, a veritable loose cannon of
 speculation. He merely uses Moses as a springboard.
 
-Now, in that Moses said, “Ye shall not eat swine, nor an eagle, nor a
-hawk, nor a crow, nor any fish which has no scales on itself,” he
+Now, in that Moses said, “_Ye shall not eat swine, nor an eagle, nor a
+hawk, nor a crow, nor any fish which has no scales on itself,_” he
 included three doctrines in his understanding.
 
-Moreover he says to them in Deuteronomy, “And I will make a covenant of
-my ordinances with this people (emphasis mine).”
+Moreover he says to them in Deuteronomy, “_And I will make a covenant of
+my ordinances with this people (emphasis mine)._”
 
 What are those doctrines to which the Epistle of Barnabas refers? He
 introduces them with the phrase “he means”.
@@ -266,8 +259,7 @@ of the saints being equipped to do the work of the ministry (Ephesians
 
 Again, sound hermeneutics are essential to proper exegesis.
 
-Expression or Exposition
-------------------------
+## Expression or Exposition
 
 A good definition of Bible exposition is: **The process of translating
 careful exegesis into food for sheep**. Scholarly work in exegesis is
@@ -301,8 +293,7 @@ that are readily grasped. This is an added workload for the pastor,
 perhaps adding as much as 50% to the time required to prepare lessons;
 but the pastor is ready to present the truth determined by exegesis.
 
-Clarity Is Essential to Presentation
-------------------------------------
+## Clarity Is Essential to Presentation
 
 Clarity is achieved by collecting the results of the scholarly exegesis
 then reducing that material to the simple declarations that communicate
@@ -340,8 +331,7 @@ Likewise, exposition must display the end result of careful exegesis in
 a way that the congregation can recognize as food. Otherwise, much less
 edification takes place.
 
-Compassion
-----------
+## Compassion
 
 Effective exposition may contrast truth with compassion against truth
 that lacks it. For example, in Acts chapter 9, did God answer Ananias’
@@ -363,18 +353,18 @@ rebelled against divine viewpoint by challenging divine wisdom.
 God says none of those things, but instead gives Ananias a little more
 truth to correct his ignorance.
 
-But the Lord said to him, “Go, for he is a chosen vessel of Mine to bear
-My name before the Gentiles, kings, and the children of Israel. “ For I
-will show him how many things he must suffer for My name’s sake” (Acts
-9:15–16).
+But the Lord said to him, “_Go, for he is a chosen vessel of Mine to
+bear My name before the Gentiles, kings, and the children of Israel._ “
+For I will show him how many things he must suffer for My name’s sake”
+(Acts 9:15–16).
 
 “Go… .” repeats truth. “Let Me give you reasons. Let Me support why you
 ought to do this. I am not going to rebuke your lack of wisdom, or your
 resisting My viewpoint. He is a chosen vessel, a chosen instrument to
 Me. He shall bear My name before the Gentiles.” Ananias went.
 
-God did not sternly give truth without compassion, saying “Ananias, you
-rebel, you are rejecting truth.” Neither did He express compassion
+God did not sternly give truth without compassion, saying “_Ananias, you
+rebel, you are rejecting truth._” Neither did He express compassion
 without truth, saying, “Ananias, I understand and would be scared
 spitless, too. Thank you for listening. Thank you for letting Me share
 this with you, but I will choose someone else.” The message was both
@@ -420,15 +410,14 @@ pastor, and a few well-educated advanced belivers, receive edification.
 Exposition translates exegesis into the language of the sheep and the
 lambs. Then and only then are the sheep fed.
 
-[1](#sdfootnote1anc)<sup>****</sup> Portions of this article are taken
-from “Biblical Exegesis and Exposition”, by Pastor Chester McCalley,
-published in the Journal of Chafer Theological Seminary in 2002. [I have
-done some re-wording and editing, but not so much, I think, as to have
-altered Chester’s point of view or intention. Warren Doud]
+[^1]: Portions of this article are taken from “Biblical Exegesis and
+Exposition”, by Pastor Chester McCalley, published in the Journal of
+Chafer Theological Seminary in 2002. [I have done some re-wording and
+editing, but not so much, I think, as to have altered Chester’s point of
+view or intention. Warren Doud]
 
-[2](#sdfootnote2anc)<sup>****</sup> The late Chester McCalley was the
-pastor of Beth Haven Church in Kansas City for 40 years. He was on the
-National Board of Advisors of Chafer Theological Seminary, a frequent
-Bible conference speaker, and author of many publications and tapes,
-which are still available.
+[^2]: The late Chester McCalley was the pastor of Beth Haven Church in
+Kansas City for 40 years. He was on the National Board of Advisors of
+Chafer Theological Seminary, a frequent Bible conference speaker, and
+author of many publications and tapes, which are still available.
 

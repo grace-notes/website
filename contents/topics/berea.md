@@ -1,14 +1,9 @@
 ---
-title: "Berea"
-pdf: "berea.pdf"
-description: "When they were driven out of Thessalonica, Paul and Silas came to Berea, where they preached in the synagogue of the Jews."
+title: Berea
+description: "When they were driven out of Thessalonica, Paul and Silas
+came to Berea, where they preached in the synagogue of the Jews."
 template: topic.jade
 ---
-
-
-**Colossae 2**
-
-**Berea**
 
 Berea was a city of southwestern Macedonia in the district of Emathia;
 modern Verria. Lying 40 mi (65 km) W of Thessalonica and 25 mi (40 km)
@@ -39,5 +34,5 @@ Onesimus was the first bishop of the church. After playing a prominent
 role in the struggles between the Greeks and the Bulgarians and Serbs,
 Berea was conquered by the Turks in 1373/74. A large number of
 inscriptions are the only known remains of the ancient
-city.<sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
+city.[^1]
 
