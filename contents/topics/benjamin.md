@@ -1,7 +1,8 @@
 ---
 title: Benjamin
 description: "The youngest of Jacob's sons, the only one to be born in
-Palestine; and the tribe named for him. The tribe of the Apostle Paul."
+              Palestine; and the tribe named for him. The tribe of the
+              Apostle Paul."
 template: topic.jade
 ---
 

@@ -1,8 +1,8 @@
 ---
 indexTitle: Bunyan, John, The Life of
 title: The Life of John Bunyan
-description:  "the life of the great Christian author of Pilgrim's
-Progress."
+description: "the life of the great Christian author of Pilgrim's
+              Progress."
 tableOfContents: yes
 template: topic.jade
 ---

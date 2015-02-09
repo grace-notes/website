@@ -1,7 +1,7 @@
 ---
 title: Bitterness
 description: "Bitterness is one of the most crushing mental problems in
-a person's life; the Bible has solutions."
+              a person's life; the Bible has solutions."
 template: topic.jade
 ---
 

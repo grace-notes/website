@@ -1,7 +1,7 @@
 ---
 title: Bible Exegesis And Exposition
 description: "a Bible teacher's study notes must be converted into
-exposition which can be understood by his audience."
+              exposition which can be understood by his audience."
 template: topic.jade
 ---
 

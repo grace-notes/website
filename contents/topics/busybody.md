@@ -1,15 +1,15 @@
 ---
 title: "Busybody"
 pdf: "busybody.pdf"
-description: "A busybody is a person who inserts himself uninvited into some else’s life, who meddles or pries into the affairs of others. The Bible is very clear that this is wrong, totally inappropriate behavior, especially in a local church congregation."
+description: "A busybody is a person who inserts himself uninvited into
+              some else’s life, who meddles or pries into the affairs of
+              others. The Bible is very clear that this is wrong,
+              totally inappropriate behavior, especially in a local
+              church congregation."
 template: topic.jade
 ---
 
-
-**Busybody**
-
-The Problem
------------
+## The Problem
 
 Plutarch, *On Being a Busybody*: “Just as a cook prays for a good crop
 of young animals, and fishermen for a good haul of fish, in the same way

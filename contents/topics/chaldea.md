@@ -1,14 +1,10 @@
 ---
 title: "Chaldea"
 pdf: "chaldea.pdf"
-description: "the history of the ancient kingdom where Abraham was born and which later was the locale of the Babylonian empire."
+description: "the history of the ancient kingdom where Abraham was born
+              and which later was the locale of the Babylonian empire."
 template: topic.jade
 ---
-
-
-**Chaldea 6**
-
-**Chaldea**
 
 **Chaldea** is the land bordering the Persian Gulf that gave its name to
 the ruling dynasty and thus became a synonym for Babylonia itself.
@@ -157,10 +153,9 @@ longest to survive in the popular imagination (as ca 450 B.C. Herodotus
 i.181–83).
 
 Ur of the Chaldees
-==================
+------------------
 
-I. Site
--------
+### I. Site
 
 Some 350 km (220 mi) SE of Baghdad, covering an oval area approximately
 910 by 730 m (1000 by 800 yds), are the ruins of ancient Ur, known in
@@ -205,8 +200,7 @@ the 3rd Dynasty, the palace of the Chaldean king Nabonidus, temples from
 various historic periods for Nanna, Ningal, and Enki, and many private
 houses from both the Old Babylonian and Neo-Babylonian periods.
 
-II. Prehistory and History
---------------------------
+### II. Prehistory and History
 
 Ur was one of the oldest and most important cities in the Sumerian era
 of Mesopotamian history. Its occupation goes back, however, to the
@@ -299,8 +293,7 @@ Cyrus. The latest dated tablet found there is from the twelfth year of
 Alexander the Great. Afterward, and possibly largely because the river
 shifted its course, the region disappeared from history.
 
-III. Ziggurat
--------------
+### III. Ziggurat
 
 The ziggurat of Ur is the best-preserved example in Mesopotamia. The
 various levels of the terrace indicate that it had antecedents during
@@ -324,8 +317,7 @@ neither a tomb nor an observatory. The separation between the temple at
 the top and that at the base might have represented the distance between
 the heavenly and earthly residences of the deity.
 
-IV. Royal Tombs
----------------
+### IV. Royal Tombs
 
 Perhaps the best-known discoveries at Ur are the treasures from the
 royal and private graves and tombs. Surely they are among the richest
@@ -362,8 +354,7 @@ and paintings are also common to the tombs of both Ur and Egypt. In
 fact, excavations at Saqqârah from the 1st Dynasty of Egypt have shown
 sacrificial customs similar to those at Ur.
 
-V. Relationship of Ur to Abraham
---------------------------------
+### V. Relationship of Ur to Abraham
 
 Since the discovery and excavation of Tell el-Muqayyar, particularly by
 Sir Leonard Woolley, it has popularly been identified with Ur of the
@@ -425,6 +416,3 @@ identification is certain would be going beyond the evidence.
 
 Geoffrey W. Bromiley, The International Standard Bible Encyclopedia,
 (electronic edition.; Grand Rapids: Wm. B. Eerdmans, 2001, c1979-1988).
-
-===============================
-

@@ -1,9 +1,10 @@
 ---
 title: Gnosticism and the Colossian Heresy
 description: "The Colossian heresy, in its attack upon the person and
-work of the Lord Jesus Christ, made it imperative that it be met with
-such precise and complete doctrinal teaching as would successfully cope
-with the false teachings of these systems."
+              work of the Lord Jesus Christ, made it imperative that it
+              be met with such precise and complete doctrinal teaching
+              as would successfully cope with the false teachings of
+              these systems."
 template: topic.jade
 ---
 

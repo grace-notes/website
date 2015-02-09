@@ -1,7 +1,9 @@
 ---
 title: Blood Of Christ
 display_title: The Blood of Christ
-description: Teaching on the representative analogy which the Blood of Christ forms with the death of the animal on the altar.
+description: "Teaching on the representative analogy which the Blood
+              of Christ forms with the death of the animal on the
+              altar."
 template: topic.jade
 ---
 
