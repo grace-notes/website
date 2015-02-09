@@ -5,16 +5,10 @@ description: "where followers of Christ were first called Christians, is located
 template: topic.jade
 ---
 
-
-**Antioch 3**
-
-Antioch
-=======
-
 **from “The Life and Epistles of St. Paul,” by W. J. Conybeare and J. S.
 Howson**
 
-**Description of Antioch**
+## Description of Antioch
 
 In narrating the journeys of St. Paul, it will now be our duty to speak
 of Antioch, not Jerusalem, as his point of departure and return. Let us
@@ -38,8 +32,7 @@ of the East.” And indeed the glory of the city of Ignatius was only
 gradually eclipsed by that of the city of Chrysostom. That great
 preacher and commentator himself, who knew them both by familiar
 residence, always speaks of Antioch with peculiar reverence, as the
-patriarchal city of the Christian name.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+patriarchal city of the Christian name.  [^1]
 
 There is something curiously prophetic in the stories which are told of
 the first founding of this city. Like Romulus on the Palatine, Seleucus
@@ -116,16 +109,16 @@ memorials of all the great Romans whose names have been mentioned as yet
 in this biography. When Pompey was defeated by Caesar, the conqueror’s
 name was perpetuated in this Eastern city by an aqueduct and by baths,
 and by a basilica called Caesarium. In the reign of Augustus, Agrippa
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> built in all cities of
-the Empire, and Herod of Judea followed the example to the utmost of his
-power. Both found employment for their munificence at Antioch. A gay
-suburb rose under the patronage of the one, and the other contributed a
-road and a portico. The reign of Tiberius was less remarkable for great
-architectural works, but the Syrians by the Orontes had to thank him for
-many improvements and restorations in their city. Even the four years of
-his successor left behind them the aqueduct and the baths of Caligula.
+[^2] built in all cities of the Empire, and Herod of Judea followed the
+example to the utmost of his power. Both found employment for their
+munificence at Antioch. A gay suburb rose under the patronage of the
+one, and the other contributed a road and a portico. The reign of
+Tiberius was less remarkable for great architectural works, but the
+Syrians by the Orontes had to thank him for many improvements and
+restorations in their city. Even the four years of his successor left
+behind them the aqueduct and the baths of Caligula.
 
-**Character of the Inhabitants of Antioch**
+## Character of the Inhabitants of Antioch
 
 The character of the inhabitants is easily inferred from the influences
 which presided over the city’s growth. Its successive enlargement by the
@@ -142,27 +135,25 @@ place of singular pleasure and enjoyment. Here and there, an elevating
 thought is associated with its name.
 
 Poets have spent their young days at Antioch, great generals have died
-there, <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> emperors have
-visited and admired it. But for the most part its population was a
-worthless rabble of Greeks and Orientals. The frivolous amusements of
-the theater were the occupation of their life. Their passion for races,
-and the ridiculous party quarrels connected with them, were the patterns
-of those which afterwards became the disgrace of Byzantium. The oriental
-element of superstition and imposture was not less active. The Chaldean
-astrologers found their most credulous disciples in Antioch.
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> Jewish impostors,
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> sufficiently common
-throughout the East, found their best opportunities here. It is probable
-that no populations have ever been more abandoned than those of oriental
-Greek cities under the Roman Empire, and of these cities Antioch was the
-greatest and the worst. <sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>
-If we wish to realize the appearance and reality of the complicated
-heathenism of the first Christian century, we must endeavor to imagine
-the scene of that suburb, the famous Daphne, with its fountains and
-groves of bay trees, its bright buildings, its crowds of licentious
-votaries, its statue of Apollo, where, under the climate of Syria and
-the wealthy patronage of Rome, all that was beautiful in nature and in
-art had created a sanctuary for a perpetual festival of vice.
+there, [^3] emperors have visited and admired it. But for the most part
+its population was a worthless rabble of Greeks and Orientals. The
+frivolous amusements of the theater were the occupation of their life.
+Their passion for races, and the ridiculous party quarrels connected
+with them, were the patterns of those which afterwards became the
+disgrace of Byzantium. The oriental element of superstition and
+imposture was not less active. The Chaldean astrologers found their most
+credulous disciples in Antioch.  [^4] Jewish impostors, [^5]
+sufficiently common throughout the East, found their best opportunities
+here. It is probable that no populations have ever been more abandoned
+than those of oriental Greek cities under the Roman Empire, and of these
+cities Antioch was the greatest and the worst. [^6] If we wish to
+realize the appearance and reality of the complicated heathenism of the
+first Christian century, we must endeavor to imagine the scene of that
+suburb, the famous Daphne, with its fountains and groves of bay trees,
+its bright buildings, its crowds of licentious votaries, its statue of
+Apollo, where, under the climate of Syria and the wealthy patronage of
+Rome, all that was beautiful in nature and in art had created a
+sanctuary for a perpetual festival of vice.
 
 Thus if any city in the first century was worthy to be called the
 Heathen Queen and Metropolis of the East, that city was Antioch. She was
@@ -185,7 +176,7 @@ dislocated crags which still rise above the Orontes are greatly altered
 in form from the fort-crowned heights of Seleucus or Tiberius, Justinian
 or Tancred.
 
-### from an article in the Thompson Chain Reference Bible.
+## from an article in the Thompson Chain Reference Bible.
 
 **Antioch**, where followers of Christ were first called Christians, is
 located some three hundred miles north of Jerusalem, on the west bank of
@@ -216,7 +207,7 @@ sixth century. Most scholars, however, favor a date of from the fourth
 or fifth century. The double cup is now in the Cloisters, New York City,
 and is famed as The Chalice of Antioch.
 
-### Antioch (from Encyclopedia Britannica)
+## Antioch (from Encyclopedia Britannica)
 
 Turkish ANTAKYA, populous city of ancient Syria, and now a major town of
 south-central Turkey. It lies near the mouth of the Orontes River, about
@@ -285,29 +276,28 @@ vegetables, and fruit. The town has soap and olive-oil factories and
 cotton ginning and other processing industries. Silk, shoes, and knives
 are also manufactured. Pop. (1990) 123,871; (1994 est.) 137,200.
 
-[1](#sdfootnote1anc) In his homilies on St. Matthew he tells the people
-of Antioch that though they boasted of their city’s preeminence in
-having first enjoyed the Christian name, they were willing enough to be
-surpassed in Christian virtue by more homely cities.
+[^1]: In his homilies on St. Matthew he tells the people of Antioch that
+though they boasted of their city’s preeminence in having first enjoyed
+the Christian name, they were willing enough to be surpassed in
+Christian virtue by more homely cities.
 
-[2](#sdfootnote2anc) This friend of Augustus and Maecenus must be
-carefully distinguished from that grandson of Herod who bore the same
-name and whose death is one of the subjects of this chapter. For the
-works of Herod the Great at Antioch, see Josephus, *Antiquities*, xvi.
-5,3; Wars i. 21,11.
+[^2]: This friend of Augustus and Maecenus must be carefully
+distinguished from that grandson of Herod who bore the same name and
+whose death is one of the subjects of this chapter. For the works of
+Herod the Great at Antioch, see Josephus, *Antiquities*, xvi.  5,3; Wars
+i. 21,11.
 
-[3](#sdfootnote3anc) All readers of Tacitus will recognize the allusion.
-It is not possible to write about Antioch without some allusion to
-Germanicus and his noble-minded wife. And yet they were the parents of
-Caligula.
+[^3]: All readers of Tacitus will recognize the allusion.  It is not
+possible to write about Antioch without some allusion to Germanicus and
+his noble-minded wife. And yet they were the parents of Caligula.
 
-[4](#sdfootnote4anc) Chrysostom complains that even Christians, in his
-day, were led away by this passion for horoscopes. Juvenal traces the
-superstitions of heathen Rome to Antioch.
+[^4]: Chrysostom complains that even Christians, in his day, were led
+away by this passion for horoscopes. Juvenal traces the superstitions of
+heathen Rome to Antioch.
 
-[5](#sdfootnote5anc) Compare the cases of Simon Magus (Acts 8), Elymas
-the Sorcerer (Acts 13), and the sons of Sceva (Acts 19).
+[^5]: Compare the cases of Simon Magus (Acts 8), Elymas the Sorcerer
+(Acts 13), and the sons of Sceva (Acts 19).
 
-[6](#sdfootnote6anc) Ausonius hesitates between Antioch and Alexandria
-as to the rank they occupied in eminence and vice.
+[^6]: Ausonius hesitates between Antioch and Alexandria as to the rank
+they occupied in eminence and vice.
 

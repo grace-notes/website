@@ -99,6 +99,3 @@ b.  “The false prophet,”
 c.  “The willful king”
   
     Dan. 11:36-40.
-
-====================
-

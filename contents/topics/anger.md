@@ -24,13 +24,13 @@ Christians can have victory over the sin of anger! This study is written
 to lay out what the Bible says about anger and to answer questions like
 the following:
 
-• What is the difference between sinful anger and righteous indignation?
+* What is the difference between sinful anger and righteous indignation?
 
-• Does God get angry?
+* Does God get angry?
 
-• What causes me to get angry and what can I do about it?
+* What causes me to get angry and what can I do about it?
 
-• How can I have victory over the sin of anger?
+* How can I have victory over the sin of anger?
 
 ## Definition ##
 

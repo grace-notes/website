@@ -8,11 +8,10 @@ tableOfContents: true
 
 ## Introduction
 
-Theologians have often viewed angels as a very difficult
-subject.[^1] Why? Because,
-while there is abundant mention of angels in the Bible, the nature of
-this revelation is without the same kind of explicit description we
-often find with other subjects developed in Scripture:
+Theologians have often viewed angels as a very difficult subject.[^1]
+Why? Because, while there is abundant mention of angels in the Bible,
+the nature of this revelation is without the same kind of explicit
+description we often find with other subjects developed in Scripture:
 
 Every reference to angels is incidental to some other topic. They are
 not treated in themselves. God’s revelation never aims at informing us
@@ -28,23 +27,23 @@ Gangel in “Kindred Spirit” on the widespread discussion and fascination
 with angels in our time by the secular
 world.[^3] Gangel writes,
 
-In his 1990 book, *Angels: An Endangered Species*, Malcolm Godwin
-estimates that over the last 30 years one in every ten pop songs
-mentions an angel. But that was just romantic fun.
-
-Now our culture takes angels seriously, if not accurately. In the last
-few years *Time, Newsweek, Ladies’ Home Journal, Redbook,* and a host of
-other popular magazines have carried articles about angels. In mid-1994,
-ABC aired a two-hour, prime time special titled “Angels: the Mysterious
-Messengers.” In *Newsweek’s*November 28, 1994 issue an article titled
-“In Search of the Sacred” observed that “20% of Americans have had a
-revelation from God in the last year, and 13% have seen or sensed the
-presence of an angel” (p. 54).
-
-*Newsweek* is right; modern society, so seemingly secular and hopelessly
-materialistic, desperately searches for some spiritual and supernatural
-meaning. If angels can provide it, then angels it will
-be.[^4]
+> In his 1990 book, *Angels: An Endangered Species*, Malcolm Godwin
+> estimates that over the last 30 years one in every ten pop songs
+> mentions an angel. But that was just romantic fun.
+> 
+> Now our culture takes angels seriously, if not accurately. In the last
+> few years *Time, Newsweek, Ladies’ Home Journal, Redbook,* and a host
+> of other popular magazines have carried articles about angels. In
+> mid-1994, ABC aired a two-hour, prime time special titled “Angels: the
+> Mysterious Messengers.” In *Newsweek’s*November 28, 1994 issue an
+> article titled “In Search of the Sacred” observed that “20% of
+> Americans have had a revelation from God in the last year, and 13%
+> have seen or sensed the presence of an angel” (p. 54).
+> 
+> *Newsweek* is right; modern society, so seemingly secular and
+> hopelessly materialistic, desperately searches for some spiritual and
+> supernatural meaning. If angels can provide it, then angels it will
+> be.[^4]
 
 The bookstores abound with books on this subject. These books not only
 claim encounters with angels, but instruct people on how to contact
@@ -67,11 +66,11 @@ reputable Christians.” [^5]
 A good illustration of the latter can be found in an article by Sue
 Bohlin entitled, “The Good, The Bad, and The Ugly.” She writes:
 
-I was about thirteen years old when I had my first encounter with an
-angel. I was going upstairs to my room, pulling my entire weight on the
-handrail, when it suddenly came off in my hand. I fell backwards, head
-first. Halfway into a terrible fall, I felt a strong hand on my back
-push me upright. There was nobody there—well, nobody *visible*!
+> I was about thirteen years old when I had my first encounter with an
+> angel. I was going upstairs to my room, pulling my entire weight on
+> the handrail, when it suddenly came off in my hand. I fell backwards,
+> head first. Halfway into a terrible fall, I felt a strong hand on my
+> back push me upright. There was nobody there—well, nobody *visible*!
 
 Angel stories are always fascinating, and in this essay I address
 angels: the good, the bad, and the ugly. The good angels are the holy
@@ -105,7 +104,7 @@ presented here will be developed. The Bible will be the authority for
 this study and not the speculations of men nor their experiences nor
 what people think sounds logical.
 
-A Simple Definition
+#### A Simple Definition
 
 Angels are spiritual beings created by God to serve Him, though created
 higher than man. Some, the good angels, have remained obedient to Him
@@ -145,47 +144,46 @@ Heb 12:22; Dan 7:10; Matt 26:53; Rev. 5:11; with Matt. 22:28-30; Luke
 ### Angels are spirit creatures
 
 (1) Angels are ***spirit beings***. Though at times they have been given
-the ability to reveal themselves in the form of human bodies as in
-Genesis 18:3, they are described as “spirits” in Hebrews 1:14. This
-suggests they do not have material bodies as we do. Hence, they do not
-function as human beings in terms of marriage and procreation (Mark
-12:25) nor are they subject to death (Luke 20:36).
+    the ability to reveal themselves in the form of human bodies as in
+    Genesis 18:3, they are described as “spirits” in Hebrews 1:14. This
+    suggests they do not have material bodies as we do. Hence, they do
+    not function as human beings in terms of marriage and procreation
+    (Mark 12:25) nor are they subject to death (Luke 20:36).
 
-Mankind, including our incarnate Lord, is “lower than the angels” (Heb.
-2:7). Angels are not subject to the limitations of man, especially since
-they are incapable of death (Luke 20:36). Angels have greater wisdom
-than man (2 Sam. 14:20), yet it is limited (Matt. 24:36). Angels have
-greater power than man (Matt. 28:2; Acts 5:19; 2 Pet. 2:11), yet they
-are limited in power (Dan. 10:13).
+    Mankind, including our incarnate Lord, is “lower than the angels”
+    (Heb.  2:7). Angels are not subject to the limitations of man,
+    especially since they are incapable of death (Luke 20:36). Angels
+    have greater wisdom than man (2 Sam. 14:20), yet it is limited
+    (Matt. 24:36). Angels have greater power than man (Matt. 28:2; Acts
+    5:19; 2 Pet. 2:11), yet they are limited in power (Dan. 10:13).
 
-Angels, however, have limitations compared to man, particularly in
-future relationships. Angels are not created in the image of God,
-therefore, they do not share man’s glorious destiny of redemption in
-Christ. At the consummation of the age, redeemed man will be exalted
-above angels (1 Cor. 6:3).[^8]
+    Angels, however, have limitations compared to man, particularly in
+    future relationships. Angels are not created in the image of God,
+    therefore, they do not share man’s glorious destiny of redemption in
+    Christ. At the consummation of the age, redeemed man will be exalted
+    above angels (1 Cor. 6:3).[^8]
 
-This also means they are not omnipresent. They cannot be everywhere at
-once.
+    This also means they are not omnipresent. They cannot be everywhere
+    at once.
 
 (2) All angels were created ***holy***, without sin, and in a state of
-perfect holiness.
+    perfect holiness.
 
-Originally all angelic creatures were created holy. God pronounced His
-creation good (Gen. 1:31), and, of course, He could not create sin. Even
-after sin entered the world, God’s good angels, who did not rebel
-against Him, are called holy (Mark 8:38). These are the elect angels (1
-Tim. 5:21) in contrast to the evil angels who followed Satan in his
-rebellion against God (Matt.
-25:41).[^9]
+    Originally all angelic creatures were created holy. God pronounced
+    His creation good (Gen. 1:31), and, of course, He could not create
+    sin. Even after sin entered the world, God’s good angels, who did
+    not rebel against Him, are called holy (Mark 8:38). These are the
+    elect angels (1 Tim. 5:21) in contrast to the evil angels who
+    followed Satan in his rebellion against God (Matt.  25:41).[^9]
 
 (3) As created beings, they are ***mere*** ***creatures***. They are not
-divine and are not to be worshipped (see Rev. 19:10; 22:9). As a
-separate order of creatures, they are both distinct from human beings
-and higher than humans with powers far beyond our abilities in this
-present age (1 Cor. 6:3; Heb. 1:14; 2:7). But as creatures they are
-limited in their powers, knowledge, and activities (1 Peter 1:11-12;
-Rev. 7:1). Like all of creation, angels are under God’s authority and
-subject to His judgment (1 Cor. 6:3; Matt. 25:41).
+    divine and are not to be worshipped (see Rev. 19:10; 22:9). As a
+    separate order of creatures, they are both distinct from human
+    beings and higher than humans with powers far beyond our abilities
+    in this present age (1 Cor. 6:3; Heb. 1:14; 2:7). But as creatures
+    they are limited in their powers, knowledge, and activities (1 Peter
+    1:11-12; Rev. 7:1). Like all of creation, angels are under God’s
+    authority and subject to His judgment (1 Cor. 6:3; Matt. 25:41).
 
 ## The Types of Angels (Good and Evil)
 
@@ -194,13 +192,11 @@ was a rebellion by Satan, who, being lifted up by his own beauty, sought
 to exalt himself above God and rebelled. In his rebellion, he took with
 him one-third of the angels (Rev. 12:4). This rebellion and fall is
 probably described for us in Isaiah 14:12-14 and Ezekiel 28:15 embodied
-in the kings of Babylon and
-Tyre.[^10] Prophesying of a
-future angelic conflict that will occur in the middle of the
-Tribulation, John wrote, “And there was war in heaven, Michael and his
-angels waging war with the dragon. And the dragon and his angels waged
-war” (Rev. 12:7). In other words, there are good angels and there are
-evil angels.
+in the kings of Babylon and Tyre.[^10] Prophesying of a future angelic
+conflict that will occur in the middle of the Tribulation, John wrote,
+“And there was war in heaven, Michael and his angels waging war with the
+dragon. And the dragon and his angels waged war” (Rev. 12:7). In other
+words, there are good angels and there are evil angels.
 
 As is clear from Revelation 12:7 and many other passages, the leader of
 these fallen angels (or demons as they are also called) is Satan (cf.
@@ -267,68 +263,68 @@ restricted to Bible times. Also, Scripture suggests that Michael, the
 archangel, is particularly involved in ministry to Israel. Concerning
 the reference to Michael in Daniel 10:13, Ryrie writes:
 
-Michael, which means “who is like God?” (v. 21; 12:1; Jude 9; Rev.
-12:7), is the special guardian of the affairs of Israel (12:1) and is
-designated the archangel (Jude 9). One of the chief princes shows a
-hierarchy among the angels (cf. Eph. 1:21). *I had been left there with
-the kings of Persia*. The good angel (cf. vv. 5-6), with Michael’s help,
-was left in a place of preeminence in influencing Persia. But the battle
-between good and evil angels over the control of nations continues (see
-v. 20 and Rev. 20:3).
+> Michael, which means “who is like God?” (v. 21; 12:1; Jude 9; Rev.
+> 12:7), is the special guardian of the affairs of Israel (12:1) and is
+> designated the archangel (Jude 9). One of the chief princes shows a
+> hierarchy among the angels (cf. Eph. 1:21). *I had been left there
+> with the kings of Persia*. The good angel (cf. vv. 5-6), with
+> Michael’s help, was left in a place of preeminence in influencing
+> Persia. But the battle between good and evil angels over the control
+> of nations continues (see v. 20 and Rev. 20:3).
 
 Regarding accounts of angelic protection, Dr. Kenneth Gangel gives the
 following account which is similar to others I have heard about,
 especially with missionaries:
 
-A veteran missionary friend of mine (now retired) tells the story about
-a woman missionary alone on a compound in northern Africa during a riot
-by one of the local tribes. She hid in a closet and prayed as warriors
-advanced along the dusty road toward the houses where the white
-intruders lived. Amazingly, she never heard them. No one ever entered
-her building, and there was no evidence of any turmoil. My friend
-learned later that the warriors, who intended to kill everyone at the
-missionary compound and burn it to the ground, instead retreated when
-they found the compound guarded by tall warriors dressed in white and
-carrying large swords. Angels?
+> A veteran missionary friend of mine (now retired) tells the story
+> about a woman missionary alone on a compound in northern Africa during
+> a riot by one of the local tribes. She hid in a closet and prayed as
+> warriors advanced along the dusty road toward the houses where the
+> white intruders lived. Amazingly, she never heard them. No one ever
+> entered her building, and there was no evidence of any turmoil. My
+> friend learned later that the warriors, who intended to kill everyone
+> at the missionary compound and burn it to the ground, instead
+> retreated when they found the compound guarded by tall warriors
+> dressed in white and carrying large swords. Angels?
 
 Another and similar account was also reported by a medical missionary at
 his home church in Michigan:
 
-While serving at a small field hospital in Africa, I traveled every two
-weeks by bicycle through the jungle to a nearby city for supplies. This
-required camping overnight half way. On one of these trips, I saw two
-men fighting in the city. One was seriously injured, so I treated him
-and witnessed to him of the Lord Jesus Christ. I then returned home
-without incident.
-
-Upon arriving in the city several weeks later, I was approached by the
-man I had treated earlier. He told me he had known that I carried money
-and medicine. He said, “some friends and I followed you into the jungle
-knowing you would camp overnight. We waited for you to go to sleep and
-planned to kill you and take your money and drugs. Just as we were about
-to move into your campsite, we saw that you were surrounded by 26 armed
-guards.”
-
-I laughed at this and said I was certainly all alone out in that jungle
-campsite. The young man pressed the point, “No, sir, I was not the only
-one to see the guards. My Jave friends also saw them and we all counted
-them. It was because of those guards that we were afraid and left you
-alone.”
-
-At this point in the church presentation in Michigan, one of the men in
-the church jumped up and interrupted the missionary, and asked, “Can you
-tell me the exact date when this happened?” The missionary thought for a
-while and recalled the date.
-
-The man in the congregation told this side of the story: “On that night
-in Africa it was morning here. I was preparing to play golf. As I put my
-bag in the car, I felt the Lord leading me to pray for you. In fact, the
-urging was so strong that I called the men of this church together to
-pray for you. Will all of those men who met with me that day please
-stand?”
-
-The men who had met that day to pray together stood—there were 26 of
-them!
+> While serving at a small field hospital in Africa, I traveled every
+> two weeks by bicycle through the jungle to a nearby city for supplies.
+> This required camping overnight half way. On one of these trips, I saw
+> two men fighting in the city. One was seriously injured, so I treated
+> him and witnessed to him of the Lord Jesus Christ. I then returned
+> home without incident.
+> 
+> Upon arriving in the city several weeks later, I was approached by the
+> man I had treated earlier. He told me he had known that I carried
+> money and medicine. He said, “some friends and I followed you into the
+> jungle knowing you would camp overnight. We waited for you to go to
+> sleep and planned to kill you and take your money and drugs. Just as
+> we were about to move into your campsite, we saw that you were
+> surrounded by 26 armed guards.”
+> 
+> I laughed at this and said I was certainly all alone out in that
+> jungle campsite. The young man pressed the point, “No, sir, I was not
+> the only one to see the guards. My Jave friends also saw them and we
+> all counted them. It was because of those guards that we were afraid
+> and left you alone.”
+> 
+> At this point in the church presentation in Michigan, one of the men
+> in the church jumped up and interrupted the missionary, and asked,
+> “Can you tell me the exact date when this happened?” The missionary
+> thought for a while and recalled the date.
+> 
+> The man in the congregation told this side of the story: “On that
+> night in Africa it was morning here. I was preparing to play golf. As
+> I put my bag in the car, I felt the Lord leading me to pray for you.
+> In fact, the urging was so strong that I called the men of this church
+> together to pray for you. Will all of those men who met with me that
+> day please stand?”
+> 
+> The men who had met that day to pray together stood—there were 26 of
+> them!
 
 Again we ask, were these angels? While I cannot verify this story, I
 have no doubt whatsoever that it could be true.
@@ -361,14 +357,13 @@ window to their building, the man never exited. He just disappeared
 
 My wife’s sister, Connie Griffith, had an experience about 15 years ago
 which is recorded in Jodie Berndt’s book*, Celebration of
-Miracles*.[^14] Connie, and
-her husband Geoff, were missionaries in Africa working with Hindu people
-and had an opportunity to visit missionaries in India. The trip involved
-a 38-hour train ride from New Delhi to an orphanage in the south. They
-had been warned not to eat the food on the train, but they had taken
-very little food with them and Connie was so famished she decided to
-take her chances. She ate some curried mutton, and was soon extremely
-ill.
+Miracles*.[^14] Connie, and her husband Geoff, were missionaries in
+Africa working with Hindu people and had an opportunity to visit
+missionaries in India. The trip involved a 38-hour train ride from New
+Delhi to an orphanage in the south. They had been warned not to eat the
+food on the train, but they had taken very little food with them and
+Connie was so famished she decided to take her chances. She ate some
+curried mutton, and was soon extremely ill.
 
 After arriving at the orphanage, Connie went to bed where she remained
 for three days. Geoff was traveling during that time and the
@@ -473,124 +468,126 @@ servant angels ,who also disguise themselves in one way or another, that
 are behind the current *Angelmania* in our society today. As Bohlin
 points out:
 
-. . . there are many books, publications, and seminars that are filled
-with demonic deception of the ugliest kind. Because when you start
-talking to angels, you end up dealing with
-demons.[^16]
+> . . . there are many books, publications, and seminars that are filled
+> with demonic deception of the ugliest kind. Because when you start
+> talking to angels, you end up dealing with demons.[^16]
 
 Sue Bohlin has an excellent discussion of what to look for to discern
 the activity of these demonic, evil angels. She writes:
 
-You know you’re around “ugly angels,” or demons masquerading as angels
-of light and holiness, when you see or hear these terms:
-
-1. Contacting or communing with angels.
-
-There are now books available with titles like *Ask Your Angels*
-(Daniel, Alma, Timothy Wyllie, and Andrew Ramer, *Ask your Angels*, New
-York: Ballantine, 1992) and *100 Ways to Attract Angels*(Sharp, Sally,
-*100 Ways to Attract Angels*, Minnesota: Trust Publications, 1994). But
-the Bible gives neither permission nor precedent for contacting angels.
-When people start calling on angels, it’s not the holy angels who
-answer. They’re demons, disguising themselves as good angels to people
-who don’t know how to tell the difference.
-
-2. Loving our angels, praying to our angels.
-
-Some self-styled “angel experts” instruct their followers to love their
-angels and call upon them for health, healing, prosperity, and guidance.
-But angels are God’s servants, and all this attention and emphasis and
-glory should go to God, not His servants. God says, “I will not share my
-glory with another” (Isaiah 42:8). Scripture makes no mention of loving
-angels—only God, His word, and people. And it never tells us to pray to
-angels, only to the Lord Himself.
-
-3. Instruction, knowledge, or insight from angels, particularly ones
-with names.
-
-Some angel teachers are proclaiming that angels are trying very hard to
-contact us, so they can give us deeper knowledge of the spiritual (Karyn
-Martin-Kuri, in an interview with *Body, Mind and Spirit* Journal,
-May/June 1993. Also, Albright, Naomi, *Angel Walk*, Tuscaloosa, Alabama:
-Portals Press, 1990). Invariably, this “angel knowledge” is a mixture of
-truth and lies, and never stands up to the absolute truth of Scripture.
-
-There are four angel names that keep popping up in the angel literature:
-Michael, Gabriel, Uriel, and Raphael. Michael and Gabriel are the only
-angels mentioned by name in the Bible. The other two show up in the
-apocryphal *First Book of Enoch*, which includes a fanciful account of
-the actions of these four beings. Those who report modern day angel
-teachings are actually channeling information from demons.
-
-4. Special knowledge or teachings from angels.
-
-Naomi Albright distributes teachings about the deep meanings of colors,
-and numbers and letters of the alphabet which she claims is “knowledge
-given from above and brought forth in more detail by the High Angelic
-Master Sheate, Lady Master Cassandra, and Angel Carpelpous, and the
-Master Angel, One on High.” (*Paths of Light* newsletter, Angel Walk
-F.O.L., Followers of Light, No. 24, July 1994, p. 6-10). These same
-beings told Mrs. Albright to stress two main teachings: first, that God
-accepts all religions, and second, Reincarnation.(Albright, *Angel
-Walk*, p. 77-78). These two teachings keep showing up in much of the New
-Age angel literature, which shouldn’t be surprising since they are
-heretical lies that come from the pit of hell, which is where the angel
-teachers are from.
-
-Other angel teachings are that all is a part of God (pantheism); the
-learner is set apart from others by the “deep” knowledge that the angels
-give (this is a basic draw to the occult); and that eventually, the one
-who pursues contact with these angels will be visited by an Ascended
-Master or a Shining Angel (which is a personal encounter with a demon).
-
-We need to remember that God’s angels are not teachers. God’s word says
-they are messengers—that’s what “angel” means—and they minister to us.
-God has revealed to us everything we need for life and godliness (2
-Peter 1:3), so any hidden knowledge that spirit beings try to impart is
-by nature occultic and demonic.
-
-5. Human divinity
-
-The message of the ugly angels is that we need to recognize that we are
-one with the divine, we are divine. . . we are God. In Karen Goldman’s
-*The Angel Book: A Handbook for Aspiring Angels*, she says things like,
-“Angels don’t fall out of the sky; they emerge from within.” (Goldman,
-Karen, *The Angel Book—A Handbook for Aspiring Angels*, New York: Simon
-& Shuster, 1988, p. 20). And, “The whole purpose in life is to know your
-Angel Self, accept it and be it. In this way we finally experience true
-oneness.” (Ibid., p. 95).
-
-The following bit of heretical garbage was channeled from a demon posing
-an angel named Daephrenocles: “The wondrous light of the Angels, from
-the Elohim to the Archangels to the Devas and Nature Spirits, are all
-bringing to you the realization that you are magnificent—you are divine
-**now** and divine first.” (*These Celestial Times* newsletter, Vol. 3,
-No. 1, Gaithersburg, Maryland, p. 4).
-
-Much of the angel literature refers to “the angel within.” But angels
-are a separate part of the creation. They were created before man as a
-different kind. They are not within us. The movie “It’s a Wonderful
-Life” notwithstanding, when we hear a bell ring it does not mean that an
-angel is getting his wings. Nor do good people, especially children,
-become angels when they die. We remain human beings—not angels, and
-certainly not God.
-
-What our culture needs in response to the angel craze is strong
-discernment built on the foundation of God’s word. We need to remember,
-and share with others, three truths about angels:
-
-1. The ministry of holy angels will never contradict the Bible.
-
-2. The actions of holy angels will always be consistent with the
-character of Christ.
-
-3. A genuine encounter with a holy angel will glorify God, not the
-angel. Holy angels never draw attention to themselves. They typically do
-their work and disappear.
-
-It’s very true that many have “entertained angels unaware” (Hebrews
-13:2). But we need to make sure we’re entertaining the right kind of
-angels![^17]
+> You know you’re around “ugly angels,” or demons masquerading as angels
+> of light and holiness, when you see or hear these terms:
+> 
+> 1. Contacting or communing with angels.
+> 
+> There are now books available with titles like *Ask Your Angels*
+> (Daniel, Alma, Timothy Wyllie, and Andrew Ramer, *Ask your Angels*,
+> New York: Ballantine, 1992) and *100 Ways to Attract Angels*(Sharp,
+> Sally, *100 Ways to Attract Angels*, Minnesota: Trust Publications,
+> 1994). But the Bible gives neither permission nor precedent for
+> contacting angels.  When people start calling on angels, it’s not the
+> holy angels who answer. They’re demons, disguising themselves as good
+> angels to people who don’t know how to tell the difference.
+> 
+> 2. Loving our angels, praying to our angels.
+> 
+> Some self-styled “angel experts” instruct their followers to love
+> their angels and call upon them for health, healing, prosperity, and
+> guidance.  But angels are God’s servants, and all this attention and
+> emphasis and glory should go to God, not His servants. God says, “I
+> will not share my glory with another” (Isaiah 42:8). Scripture makes
+> no mention of loving angels—only God, His word, and people. And it
+> never tells us to pray to angels, only to the Lord Himself.
+> 
+> 3. Instruction, knowledge, or insight from angels, particularly ones
+> with names.
+> 
+> Some angel teachers are proclaiming that angels are trying very hard
+> to contact us, so they can give us deeper knowledge of the spiritual
+> (Karyn Martin-Kuri, in an interview with *Body, Mind and Spirit*
+> Journal, May/June 1993. Also, Albright, Naomi, *Angel Walk*,
+> Tuscaloosa, Alabama: Portals Press, 1990). Invariably, this “angel
+> knowledge” is a mixture of truth and lies, and never stands up to the
+> absolute truth of Scripture.
+> 
+> There are four angel names that keep popping up in the angel
+> literature: Michael, Gabriel, Uriel, and Raphael. Michael and Gabriel
+> are the only angels mentioned by name in the Bible. The other two show
+> up in the apocryphal *First Book of Enoch*, which includes a fanciful
+> account of the actions of these four beings. Those who report modern
+> day angel teachings are actually channeling information from demons.
+> 
+> 4. Special knowledge or teachings from angels.
+> 
+> Naomi Albright distributes teachings about the deep meanings of
+> colors, and numbers and letters of the alphabet which she claims is
+> “knowledge given from above and brought forth in more detail by the
+> High Angelic Master Sheate, Lady Master Cassandra, and Angel
+> Carpelpous, and the Master Angel, One on High.” (*Paths of Light*
+> newsletter, Angel Walk F.O.L., Followers of Light, No. 24, July 1994,
+> p. 6-10). These same beings told Mrs. Albright to stress two main
+> teachings: first, that God accepts all religions, and second,
+> Reincarnation.(Albright, *Angel Walk*, p. 77-78). These two teachings
+> keep showing up in much of the New Age angel literature, which
+> shouldn’t be surprising since they are heretical lies that come from
+> the pit of hell, which is where the angel teachers are from.
+> 
+> Other angel teachings are that all is a part of God (pantheism); the
+> learner is set apart from others by the “deep” knowledge that the
+> angels give (this is a basic draw to the occult); and that eventually,
+> the one who pursues contact with these angels will be visited by an
+> Ascended Master or a Shining Angel (which is a personal encounter with
+> a demon).
+> 
+> We need to remember that God’s angels are not teachers. God’s word
+> says they are messengers—that’s what “angel” means—and they minister
+> to us.  God has revealed to us everything we need for life and
+> godliness (2 Peter 1:3), so any hidden knowledge that spirit beings
+> try to impart is by nature occultic and demonic.
+> 
+> 5. Human divinity
+> 
+> The message of the ugly angels is that we need to recognize that we
+> are one with the divine, we are divine. . . we are God. In Karen
+> Goldman’s *The Angel Book: A Handbook for Aspiring Angels*, she says
+> things like, “Angels don’t fall out of the sky; they emerge from
+> within.” (Goldman, Karen, *The Angel Book—A Handbook for Aspiring
+> Angels*, New York: Simon & Shuster, 1988, p. 20). And, “The whole
+> purpose in life is to know your Angel Self, accept it and be it. In
+> this way we finally experience true oneness.” (Ibid., p. 95).
+> 
+> The following bit of heretical garbage was channeled from a demon
+> posing an angel named Daephrenocles: “The wondrous light of the
+> Angels, from the Elohim to the Archangels to the Devas and Nature
+> Spirits, are all bringing to you the realization that you are
+> magnificent—you are divine **now** and divine first.” (*These
+> Celestial Times* newsletter, Vol. 3, No. 1, Gaithersburg, Maryland, p.
+> 4).
+> 
+> Much of the angel literature refers to “the angel within.” But angels
+> are a separate part of the creation. They were created before man as a
+> different kind. They are not within us. The movie “It’s a Wonderful
+> Life” notwithstanding, when we hear a bell ring it does not mean that
+> an angel is getting his wings. Nor do good people, especially
+> children, become angels when they die. We remain human beings—not
+> angels, and certainly not God.
+> 
+> What our culture needs in response to the angel craze is strong
+> discernment built on the foundation of God’s word. We need to
+> remember, and share with others, three truths about angels:
+> 
+> 1. The ministry of holy angels will never contradict the Bible.
+> 
+> 2. The actions of holy angels will always be consistent with the
+> character of Christ.
+> 
+> 3. A genuine encounter with a holy angel will glorify God, not the
+> angel. Holy angels never draw attention to themselves. They typically
+> do their work and disappear.
+> 
+> It’s very true that many have “entertained angels unaware” (Hebrews
+> 13:2). But we need to make sure we’re entertaining the right kind of
+> angels![^17]
 
 Some Warnings (Things to Do and Not to Do)
 ------------------------------------------
@@ -677,13 +674,12 @@ spiritual emptiness. Angels have become an easy substitute, a handy
 compromise to the reality of the Living God as He is revealed in
 Scripture.
 
-When asked “Do you believe in angels?” Jamal Mashburn, star forward of
-the Dallas Mavericks, responded, “Yes. For me it is like an inner voice
-that tells me what to do and what not to do, where to go and where not
-to go. It’s somebody like God that protects and cares for me” (*Dallas
-Morning News*, 18 December 1994). Why not? God seems so distant and
-austere. Angels seem so
-friendly.[^19]
+> When asked “Do you believe in angels?” Jamal Mashburn, star forward of
+> the Dallas Mavericks, responded, “Yes. For me it is like an inner
+> voice that tells me what to do and what not to do, where to go and
+> where not to go. It’s somebody like God that protects and cares for
+> me” (*Dallas Morning News*, 18 December 1994). Why not? God seems so
+> distant and austere. Angels seem so friendly.[^19]
 
 On the other hand, angels are the ministering spirits of God and He can
 send them to anyone whom he pleases. I have never seen an angel or had
@@ -731,13 +727,12 @@ of Colossians is an excellent commentary on this.
 
 Gangel closes his article on angels with the following fitting comment:
 
-So you’ve never seen or heard an angel? Be patient—I guarantee it will
-happen. Like John we’ll all someday see and hear “the voice of many
-angels, numbering thousands upon thousands, and ten thousand times ten
-thousand.” With them we will praise the Savior singing, “Worthy is the
-Lamb, who was slain, to receive power and wealth and wisdom and strength
-and honor and glory and praise!” (Rev.
-5:11-12).[^20]
+> So you’ve never seen or heard an angel? Be patient—I guarantee it will
+> happen. Like John we’ll all someday see and hear “the voice of many
+> angels, numbering thousands upon thousands, and ten thousand times ten
+> thousand.” With them we will praise the Savior singing, “Worthy is the
+> Lamb, who was slain, to receive power and wealth and wisdom and
+> strength and honor and glory and praise!” (Rev.  5:11-12).[^20]
 
 Angelology: The Doctrine of Angels
 ----------------------------------
@@ -766,12 +761,11 @@ The study of angels or the doctrine of *angelology* is one of the ten
 major categories of theology developed in many systematic theological
 works. The tendency, however, has been to neglect it. As Ryrie writes,
 
-One has only to peruse the amount of space devoted to angelology in
-standard theologies to demonstrate this. This disregard for the doctrine
-may simply be neglect or it may indicate a tacit rejection of this area
-of biblical teaching. Even Calvin was cautious in discussing this
-subject (*Institutes*, I, xiv,
-3).[^22]
+> One has only to peruse the amount of space devoted to angelology in
+> standard theologies to demonstrate this. This disregard for the
+> doctrine may simply be neglect or it may indicate a tacit rejection of
+> this area of biblical teaching. Even Calvin was cautious in discussing
+> this subject (*Institutes*, I, xiv, 3).[^22]
 
 Though the doctrine of angels holds an important place in the Word of
 God, it is often viewed as a difficult subject because, while there is
@@ -818,29 +812,27 @@ Though theologians have been cautious in their study of angels, in
 recent years we have been bombarded by what could easily be called
 *Angelmania*. In “Kindred Spirit” Dr. Kenneth Gangel has written an
 article on the widespread discussion and fascination with angels even by
-the secular world which he entitled,
-*Angelmania*.[^24] Gangel
-writes,
+the secular world which he entitled, *Angelmania*.[^24] Gangel writes,
 
-In his 1990 book *Angels: An Endangered Species*, Malcolm Godwin
-estimates that over the last 30 years one in every ten pop songs
-mentions an angel. But that was just romantic fun.
-
-Now our culture takes angels seriously, if not accurately. In the last
-two years *Time, Newsweek, Ladies’ Home Journal, Redbook,* and a host of
-other popular magazines have carried articles about angels. In mid-1994,
-ABC aired a two-hour, prime time special titled “Angels: the Mysterious
-Messengers.” In *Newsweek’s*November 28, 1994 issue an article titled
-“In Search of the Sacred” observed that “20% of Americans have had a
-revelation from God in the last year, and 13% have seen or sensed the
-presence of an angel” (p. 54).
-
-*Newsweek* is right; modern society, so seemingly secular and hopelessly
-materialistic, desperately searches for some spiritual and supernatural
-meaning. If angels can provide it, then angels it will be. Certainly
-they are more cheerful and brighter than our long-standing infatuation
-with movies about demons and evil spirits, along with endless Dracula
-revivals[^25]
+> In his 1990 book *Angels: An Endangered Species*, Malcolm Godwin
+> estimates that over the last 30 years one in every ten pop songs
+> mentions an angel. But that was just romantic fun.
+> 
+> Now our culture takes angels seriously, if not accurately. In the last
+> two years *Time, Newsweek, Ladies’ Home Journal, Redbook,* and a host
+> of other popular magazines have carried articles about angels. In
+> mid-1994, ABC aired a two-hour, prime time special titled “Angels: the
+> Mysterious Messengers.” In *Newsweek’s*November 28, 1994 issue an
+> article titled “In Search of the Sacred” observed that “20% of
+> Americans have had a revelation from God in the last year, and 13%
+> have seen or sensed the presence of an angel” (p. 54).
+> 
+> *Newsweek* is right; modern society, so seemingly secular and
+> hopelessly materialistic, desperately searches for some spiritual and
+> supernatural meaning. If angels can provide it, then angels it will
+> be. Certainly they are more cheerful and brighter than our
+> long-standing infatuation with movies about demons and evil spirits,
+> along with endless Dracula revivals[^25]
 
 The bookstores abound with books on angels and many claim encounters
 with angels. One of the major networks has a popular program entitled
@@ -972,13 +964,12 @@ further support in 2 Peter 2:4-6 and Jude
 6-7.[^27] Still others
 believe they refer to despots, powerful rulers. Ross writes:
 
-The incident is one of hubris, the proud overstepping of bounds. Here it
-applies to “the sons of God,” a lusty, powerful lot striving for fame
-and fertility. They were probably powerful rulers who were controlled
-(indwelt) by fallen angels. It may be that fallen angels left their
-habitation and inhabited bodies of human despots and warriors, the
-mighty ones of the
-earth.[^28]
+> The incident is one of hubris, the proud overstepping of bounds. Here
+> it applies to “the sons of God,” a lusty, powerful lot striving for
+> fame and fertility. They were probably powerful rulers who were
+> controlled (indwelt) by fallen angels. It may be that fallen angels
+> left their habitation and inhabited bodies of human despots and
+> warriors, the mighty ones of the earth.[^28]
 
 #### The Angel of the Lord
 
@@ -1084,20 +1075,19 @@ Revelation 21-22.[^31]
 The reference to “the Abyss” brings up another important element
 regarding the abode of the fallen angels. Ryrie writes:
 
-The Scriptures clearly indicate two groups of fallen angels, one
-consisting of those who have some freedom to carry out Satan’s plans,
-and the other who are confined. Of those who are confined, some are
-temporarily so, while others are permanently confined in Tartarus (2
-Peter 2:4 and Jude 6). The Greeks thought of Tartarus as a place of
-punishment lower than hades. *Those temporarily confined are in the
-abyss* (Luke 8:31; Rev. 9:1-3, 11), some apparently consigned there to
-await final judgment while others will be loosed to be active on the
-earth (vv. 1-3, 11, 14;
-16:14).[^32] (emphasis mine)
+> The Scriptures clearly indicate two groups of fallen angels, one
+> consisting of those who have some freedom to carry out Satan’s plans,
+> and the other who are confined. Of those who are confined, some are
+> temporarily so, while others are permanently confined in Tartarus (2
+> Peter 2:4 and Jude 6). The Greeks thought of Tartarus as a place of
+> punishment lower than hades. *Those temporarily confined are in the
+> abyss* (Luke 8:31; Rev. 9:1-3, 11), some apparently consigned there to
+> await final judgment while others will be loosed to be active on the
+> earth (vv. 1-3, 11, 14; 16:14).[^32] (emphasis mine)
 
 Jude also speaks of an abode for angels:
 
-Jude 1:6 And angels who did not keep their own domain, but abandoned
+> Jude 1:6 And angels who did not keep their own domain, but abandoned
 their proper abode, He has kept in eternal bonds under darkness for the
 judgment of the great day.
 
@@ -1146,23 +1136,23 @@ above angels (1 Cor.
 
 Millard Erickson writes:
 
-That angels are spirits may also be inferred from the following
-considerations:
-
-Demons (fallen angels) are described as spirits (Matt. 8:16; 12:45; Luke
-7:21; 8:2; 11:26; Acts 19:12; Rev. 16:14).
-
-We are told that our struggle is not against “flesh and blood, but
-against the principalities, against the powers, against the world rulers
-of this present darkness, against the spiritual hosts of wickedness in
-heavenly places” (Eph. 6:12).
-
-Paul, in Colossians 1:16, seems to identify the heavenly forces as
-invisible.
-
-That angels are spirits seems to follow (although not necessarily from
-Jesus’ assertions that angels do not marry (Matt. 22:30) and do not die
-(Luke 20:36).[^35]
+> That angels are spirits may also be inferred from the following
+> considerations:
+> 
+> Demons (fallen angels) are described as spirits (Matt. 8:16; 12:45;
+> Luke 7:21; 8:2; 11:26; Acts 19:12; Rev. 16:14).
+> 
+> We are told that our struggle is not against “flesh and blood, but
+> against the principalities, against the powers, against the world
+> rulers of this present darkness, against the spiritual hosts of
+> wickedness in heavenly places” (Eph. 6:12).
+> 
+> Paul, in Colossians 1:16, seems to identify the heavenly forces as
+> invisible.
+> 
+> That angels are spirits seems to follow (although not necessarily from
+> Jesus’ assertions that angels do not marry (Matt. 22:30) and do not
+> die (Luke 20:36).[^35]
 
 Angels, though spirit beings and very powerful, are not omnipotent,
 omniscient, nor omnipresent. They cannot be everywhere at once.
@@ -1197,18 +1187,17 @@ In the present fascination of our culture, previously referred to as
 *angelmania*, the common conception of angels is that of winged
 creatures and most times as female.
 
-Some of the commonly held conceptions are not supported by the
-scriptural witness. There are no indications of angels appearing in
-female form. Nor is there explicit reference to them as winged, although
-Daniel 9:21 and Revelation 14:6 speak of them as flying. The cherubim
-and seraphim are represented as winged (Exod. 25:20; Isa. 6:2), as are
-the symbolic creatures of Ezekiel 1:6 (cf. Rev. 4:8). However, we have
-no assurance that what is true of cherubim and seraphim is true of
-angels in general. Since there is no explicit reference indicating that
-angels as a whole are winged, we must regard this as at best an
-inference, but not a necessary inference, from the biblical passages
-which describe them as
-flying.[^36]
+> Some of the commonly held conceptions are not supported by the
+> scriptural witness. There are no indications of angels appearing in
+> female form. Nor is there explicit reference to them as winged,
+> although Daniel 9:21 and Revelation 14:6 speak of them as flying. The
+> cherubim and seraphim are represented as winged (Exod. 25:20; Isa.
+> 6:2), as are the symbolic creatures of Ezekiel 1:6 (cf. Rev. 4:8).
+> However, we have no assurance that what is true of cherubim and
+> seraphim is true of angels in general. Since there is no explicit
+> reference indicating that angels as a whole are winged, we must regard
+> this as at best an inference, but not a necessary inference, from the
+> biblical passages which describe them as flying.[^36]
 
 While angels generally appear as men in Scripture, Zechariah 5:9 may
 suggest this is not always the case. The two women mentioned in this
@@ -1220,13 +1209,12 @@ of God or forces of Satan, like angels, good or evil.
 All angels were created ***holy***, without sin, and in a state of
 perfect holiness.
 
-Originally all angelic creatures were created holy. God pronounced His
-creation good (Gen. 1:31), and, of course, He could not create sin. Even
-after sin entered the world, God’s good angels, who did not rebel
-against Him, are called holy (Mark 8:38). These are the elect angels (1
-Tim. 5:21) in contrast to the evil angels who followed Satan in his
-rebellion against God (Matt.
-25:41).[^37]
+> Originally all angelic creatures were created holy. God pronounced His
+> creation good (Gen. 1:31), and, of course, He could not create sin.
+> Even after sin entered the world, God’s good angels, who did not rebel
+> against Him, are called holy (Mark 8:38). These are the elect angels
+> (1 Tim. 5:21) in contrast to the evil angels who followed Satan in his
+> rebellion against God (Matt.  25:41).[^37]
 
 #### Their Creatureliness
 
@@ -1259,20 +1247,19 @@ In Acts 27:23-25, Luke recounted Paul’s experience with an angel who
 brought him a message from the Lord, but there was no worship of the
 angel. Instead, Paul’s faith was in the God he served.
 
-23 For this very night an angel of the God to whom I belong and whom I
-serve stood before me, 24 saying, ‘Do not be afraid, Paul; you must
-stand before Caesar; and behold, God has granted you all those who are
-sailing with you.’ 25 "Therefore, keep up your courage, men, for I
-believe God, that it will turn out exactly as I have been told.
+> 23 For this very night an angel of the God to whom I belong and whom I
+> serve stood before me, 24 saying, ‘Do not be afraid, Paul; you must
+> stand before Caesar; and behold, God has granted you all those who are
+> sailing with you.’ 25 "Therefore, keep up your courage, men, for I
+> believe God, that it will turn out exactly as I have been told.
 
 Though writing about their invisibility to mankind, Chafer has an
 interesting comment:
 
-One reason angels are rendered invisible to human sight may be that , if
-they were seen, they would be worhiped. Man, who is so prone to idolatry
-as to worship the works of his own hands, would hardly be able to resist
-the worship of angels were they before his
-eyes.[^38]
+> One reason angels are rendered invisible to human sight may be that,
+> if they were seen, they would be worshiped. Man, who is so prone to
+> idolatry as to worship the works of his own hands, would hardly be
+> able to resist the worship of angels were they before his eyes.[^38]
 
 The church at Colossae had been invaded by false teachers who were
 teaching a false humility and the worship of angels as a part of the
@@ -1280,16 +1267,16 @@ means to spirituality. It seems these teachers were claiming special
 mystic insights by way of visions in connection with their worship of
 angels. Concerning this, Paul wrote:
 
-Colossians 2:18 Do not let anyone who delights in false humility and the
-worship of angels disqualify you for the prize. Such a person goes into
-great detail about what he has seen, and his unspiritual mind puffs him
-up with idle notions (NIV).
-
-The person attempting to make such judgment is described as one “who
-delights in false humility and the worship of angels.” The context
-suggests that he seeks to impose these things on the Colossians and that
-this is the means by which he attempts to disqualify them for their
-prize.[^39]
+> Colossians 2:18 Do not let anyone who delights in false humility and
+> the worship of angels disqualify you for the prize. Such a person goes
+> into great detail about what he has seen, and his unspiritual mind
+> puffs him up with idle notions (NIV).
+> 
+> The person attempting to make such judgment is described as one “who
+> delights in false humility and the worship of angels.” The context
+> suggests that he seeks to impose these things on the Colossians and
+> that this is the means by which he attempts to disqualify them for
+> their prize.[^39]
 
 This was demonic because it was an attempt to usurp the preeminent place
 and sufficiency of Christ as Savior and Lord (cf. Col. 2:10). It is no
@@ -1309,15 +1296,15 @@ possess—personal existence, intellect, emotion, and will. As
 personalities we see them interacted with over and over again through
 the Bible. Ryrie writes:
 
-Angels then qualify as personalities because they have these aspects of
-intelligence, emotions, and will. This is true of both the good and evil
-angels. Good angels, Satan, and demons possess intelligence (Matt. 8:29;
-2 Cor. 11:3; 1 Peter 1:12). Good angels, Satan, and demons show emotions
-(Luke 2:13; James 2:19; Rev. 12:17). Good angels, Satan, and demons
-demonstrate that they have wills (Luke 8:28-31; 2 Tim. 2:26; Jude 6).
-Therefore, they can be said to be persons. The fact that they do not
-have human bodies does not affect their being personalities (any more
-than it does with God).[^40]
+> Angels then qualify as personalities because they have these aspects
+> of intelligence, emotions, and will. This is true of both the good and
+> evil angels. Good angels, Satan, and demons possess intelligence
+> (Matt. 8:29; 2 Cor. 11:3; 1 Peter 1:12). Good angels, Satan, and
+> demons show emotions (Luke 2:13; James 2:19; Rev. 12:17). Good angels,
+> Satan, and demons demonstrate that they have wills (Luke 8:28-31; 2
+> Tim. 2:26; Jude 6).  Therefore, they can be said to be persons. The
+> fact that they do not have human bodies does not affect their being
+> personalities (any more than it does with God).[^40]
 
 The fallen angels are even described by actions of personality like
 lying and sinning (John 8:44; 1 John 3:8-10). Some have considered
@@ -1339,16 +1326,16 @@ used of God to interpret visions as with Daniel and Zechariah.
 
 Ryrie suggests three reasons for their superior knowledge:
 
-(1) Angels were created as a higher order of creatures in the universe
-than humans are. Therefore, innately they possess greater knowledge. (2)
-Angels study the Bible more thoroughly than some humans do and gain
-knowledge from it (James 2:19; Rev. 12:12). (3) Angels gain knowledge
-through long observation of human activities. Unlike humans, angels do
-not have to study the past; they have experienced it. Therefore, they
-know how others have acted and reacted in situations and can predict
-with a greater degree of accuracy how we may act in similar
-circumstances. The experiences of longevity give them greater
-knowledge.[^41]
+> (1) Angels were created as a higher order of creatures in the universe
+> than humans are. Therefore, innately they possess greater knowledge.
+> (2) Angels study the Bible more thoroughly than some humans do and
+> gain knowledge from it (James 2:19; Rev. 12:12). (3) Angels gain
+> knowledge through long observation of human activities. Unlike humans,
+> angels do not have to study the past; they have experienced it.
+> Therefore, they know how others have acted and reacted in situations
+> and can predict with a greater degree of accuracy how we may act in
+> similar circumstances. The experiences of longevity give them greater
+> knowledge.[^41]
 
 **Their Strength:** Since man is created lower than the angels with
 limitations angels do not have, we would expect them to possess
@@ -1435,14 +1422,14 @@ with the dragon. And the dragon and his angels waged war” (Rev. 12:7).
 In other words, there are good angels and there are evil angels.
 Regarding their fall, Bushwell writes:
 
-We infer that the angels which sinned did so in full knowledge of all
-the issues involved. They chose self-corruption, knowing exactly what
-they were doing. They sinned without remedy, and there is no atonement
-for them (II Peter 2:4; Jude 6). On the other hand, it seems that the
-holy angels, being faced with the same ethical choice and possessing the
-same God-given ability to choose, remained and are confirmed in their
-state of holiness. They have never known the experience of
-sin.[^43]
+> We infer that the angels which sinned did so in full knowledge of all
+> the issues involved. They chose self-corruption, knowing exactly what
+> they were doing. They sinned without remedy, and there is no atonement
+> for them (II Peter 2:4; Jude 6). On the other hand, it seems that the
+> holy angels, being faced with the same ethical choice and possessing
+> the same God-given ability to choose, remained and are confirmed in
+> their state of holiness. They have never known the experience of
+> sin.[^43]
 
 As is clear from Revelation 12:7 and many other passages, the leader of
 these fallen angels, or demons as they are also called, is Satan (cf.
@@ -1473,127 +1460,126 @@ called one of the chief princes. Other ranks and orders are suggested by
 the terms used of angels in Ephesians 3:10; 6:12, and 1 Peter 3:22.
 Ryrie writes:
 
-The Scriptures speak of the “assembly” and “council” of the angels (Ps.
-89:5, 7), of their organization for battle (Rev. 12:7), and of a king
-over the demon-locusts (9:11). They are also given governmental
-classifications which indicate organization and ranking (Eph. 3:10, good
-angels; and 6:12, evil angels). Unquestionably God has organized the
-elect angels and Satan has organized the evil angels.
-
-A very important practical point emerges from this. Angels are
-organized; demons are organized; yet Christians, individually and in
-groups, often feel that it is unnecessary that they be organized. This
-is especially true when it comes to fighting evil. Believers sometimes
-feel that they can “go it alone” or expect victory without any prior,
-organized preparation and discipline. It is also true when it comes to
-promoting good. Believers sometimes miss the best because they do not
-plan and organize their good
-works.[^44]
+> The Scriptures speak of the “assembly” and “council” of the angels
+> (Ps.  89:5, 7), of their organization for battle (Rev. 12:7), and of a
+> king over the demon-locusts (9:11). They are also given governmental
+> classifications which indicate organization and ranking (Eph. 3:10,
+> good angels; and 6:12, evil angels). Unquestionably God has organized
+> the elect angels and Satan has organized the evil angels.
+> 
+> A very important practical point emerges from this. Angels are
+> organized; demons are organized; yet Christians, individually and in
+> groups, often feel that it is unnecessary that they be organized. This
+> is especially true when it comes to fighting evil. Believers sometimes
+> feel that they can “go it alone” or expect victory without any prior,
+> organized preparation and discipline. It is also true when it comes to
+> promoting good. Believers sometimes miss the best because they do not
+> plan and organize their good works.[^44]
 
 This is further supported by Jude’s statement regarding the angels who
 left their “domain” (NASB) or “positions of authority” (NIV) in Jude 6.
 “Domain” is the Greek arch, which can mean, “domain, rule, authority,”
-or “sphere of
-influence.”[^45]
+or “sphere of influence.”[^45]
 
 ### The Classifications of Angels
 
 Paul Enns provides us with an excellent overview of most of the various
 rankings or classifications of the organized angelic world.
 
-***Angels who are governmental rulers.***Ephesians 6:12 refers to
-“ranking of fallen angels”: *rulers* are “those who are first or high in
-rank”; *powers* are “those invested with authority”; *world-forces of
-this darkness*“expresses the power or authority which they exercise over
-the world”; *spiritual forces of wickedness*describes the wicked
-spirits, “expressing their character and nature.” Daniel 10:13 refers to
-the “prince of the kingdom of Persia” opposing Michael. This was not the
-king of Persia but rather a fallen angel under Satan’s control; he was a
-demon “of high rank, assigned by the chief of demons, Satan, to Persia
-as his special area of activity” (cf. Rev. 12:7).
-
-***Angels who are highest ranking.*** Michael is called the
-*archangel*in Jude 9 and the great prince in Daniel 12:1. Michael is the
-only angel designated archangel, and may possibly be the only one of
-this rank. The mission of the archangel is protector of Israel. (He is
-called “Michael your prince” in Dan. 10:21.) There were *chief
-princes*(Dan. 10:13), of whom Michael was one, as the highest ranking
-angels of God. *Ruling angels* (Eph. 3:10) are also mentioned, but no
-further details are given.
-
-***Angels who are prominent individuals.*** (1) Michael (Dan. 10:13;
-12:1; Jude 9). The name *Michael*means “who is like God?” and identifies
-the only one classified as an archangel in Scripture. Michael is the
-defender of Israel who will wage war on behalf of Israel against Satan
-and his hordes in the Tribulation (Rev. 12:7–9). Michael also disputed
-with Satan about the body of Moses, but Michael refrained from judgment,
-leaving that to God (Jude 9). Jehovah’s Witnesses and some Christians
-identify Michael as Christ; this view, however, would suggest Christ has
-less authority than Satan, which is untenable.
-
-(2) Gabriel (Dan. 9:21; Luke 1:26). His name means “man of God” or “God
-is strong.” “Gabriel seems to be God’s special messenger of His kingdom
-program in each of the four times he appears in the Bible record … He
-reveals and interprets God’s purpose and program concerning Messiah and
-His kingdom to the prophets and people of Israel.” In a highly
-significant passage, Gabriel explained the events of the seventy weeks
-for Israel (Dan. 9:21–27). In Luke 1:26–27 Gabriel told Mary that the
-One born to her would be great and rule on the throne of David. In
-Daniel 8:15–16 Gabriel explained to Daniel the succeeding kingdoms of
-Medo-Persia and Greece as well as the untimely death of Alexander the
-Great. Gabriel also announced the birth of John the Baptist to Zacharias
-(Luke 1:11–20).
-
-(3) Lucifer (Isa. 14:12) means “shining one” or “star of the morning.”
-He may have been the wisest and most beautiful of all God’s created
-beings who was originally placed in a position of authority over the
-cherubim surrounding the throne of God.
-
-***Angels who are divine attendants.*** (1) *Cherubim* are “of the
-highest order or class, created with indescribable powers and beauty …
-Their main purpose and activity might be summarized in this way: they
-are proclaimers and protectors of God’s glorious presence, His
-sovereignty, and His holiness.” They stood guard at the gate of the
-Garden of Eden, preventing sinful man from entering (Gen. 3:24); were
-the golden figures covering the mercy seat above the ark in the Holy of
-Holies (Exod. 25:17–22); and attended the glory of God in Ezekiel’s
-vision (Ezek. 1). Cherubim had an extraordinary appearance with four
-faces—that of a man, lion, ox, and eagle. They had four wings and feet
-like a calf, gleaming like burnished bronze. In Ezekiel 1 they attended
-the glory of God preparatory for judgment.
-
-(2) *Seraphim*, meaning “burning ones,” are pictured surrounding the
-throne of God in Isaiah 6:2. They are described as each having six
-wings. In their threefold proclamation, “holy, holy, holy” (Isa. 6:3),
-it means “to recognize God as extremely, perfectly holy. Therefore, they
-praise and proclaim the perfect holiness of God. The seraphim also
-express the holiness of God in that they proclaim that man must be
-cleansed of sin’s moral defilement before he can stand before God and
-serve Him.”[^46]
+> ***Angels who are governmental rulers.***Ephesians 6:12 refers to
+> “ranking of fallen angels”: *rulers* are “those who are first or high
+> in rank”; *powers* are “those invested with authority”; *world-forces
+> of this darkness*“expresses the power or authority which they exercise
+> over the world”; *spiritual forces of wickedness*describes the wicked
+> spirits, “expressing their character and nature.” Daniel 10:13 refers
+> to the “prince of the kingdom of Persia” opposing Michael. This was
+> not the king of Persia but rather a fallen angel under Satan’s
+> control; he was a demon “of high rank, assigned by the chief of
+> demons, Satan, to Persia as his special area of activity” (cf. Rev.
+> 12:7).
+> 
+> ***Angels who are highest ranking.*** Michael is called the
+> *archangel*in Jude 9 and the great prince in Daniel 12:1. Michael is
+> the only angel designated archangel, and may possibly be the only one
+> of this rank. The mission of the archangel is protector of Israel. (He
+> is called “Michael your prince” in Dan. 10:21.) There were *chief
+> princes*(Dan. 10:13), of whom Michael was one, as the highest ranking
+> angels of God. *Ruling angels* (Eph. 3:10) are also mentioned, but no
+> further details are given.
+> 
+> ***Angels who are prominent individuals.*** (1) Michael (Dan. 10:13;
+> 12:1; Jude 9). The name *Michael*means “who is like God?” and
+> identifies the only one classified as an archangel in Scripture.
+> Michael is the defender of Israel who will wage war on behalf of
+> Israel against Satan and his hordes in the Tribulation (Rev. 12:7–9).
+> Michael also disputed with Satan about the body of Moses, but Michael
+> refrained from judgment, leaving that to God (Jude 9). Jehovah’s
+> Witnesses and some Christians identify Michael as Christ; this view,
+> however, would suggest Christ has less authority than Satan, which is
+> untenable.
+> 
+> (2) Gabriel (Dan. 9:21; Luke 1:26). His name means “man of God” or
+> “God is strong.” “Gabriel seems to be God’s special messenger of His
+> kingdom program in each of the four times he appears in the Bible
+> record … He reveals and interprets God’s purpose and program
+> concerning Messiah and His kingdom to the prophets and people of
+> Israel.” In a highly significant passage, Gabriel explained the events
+> of the seventy weeks for Israel (Dan. 9:21–27). In Luke 1:26–27
+> Gabriel told Mary that the One born to her would be great and rule on
+> the throne of David. In Daniel 8:15–16 Gabriel explained to Daniel the
+> succeeding kingdoms of Medo-Persia and Greece as well as the untimely
+> death of Alexander the Great. Gabriel also announced the birth of John
+> the Baptist to Zacharias (Luke 1:11–20).
+> 
+> (3) Lucifer (Isa. 14:12) means “shining one” or “star of the morning.”
+> He may have been the wisest and most beautiful of all God’s created
+> beings who was originally placed in a position of authority over the
+> cherubim surrounding the throne of God.
+> 
+> ***Angels who are divine attendants.*** (1) *Cherubim* are “of the
+> highest order or class, created with indescribable powers and beauty …
+> Their main purpose and activity might be summarized in this way: they
+> are proclaimers and protectors of God’s glorious presence, His
+> sovereignty, and His holiness.” They stood guard at the gate of the
+> Garden of Eden, preventing sinful man from entering (Gen. 3:24); were
+> the golden figures covering the mercy seat above the ark in the Holy
+> of Holies (Exod. 25:17–22); and attended the glory of God in Ezekiel’s
+> vision (Ezek. 1). Cherubim had an extraordinary appearance with four
+> faces—that of a man, lion, ox, and eagle. They had four wings and feet
+> like a calf, gleaming like burnished bronze. In Ezekiel 1 they
+> attended the glory of God preparatory for judgment.
+> 
+> (2) *Seraphim*, meaning “burning ones,” are pictured surrounding the
+> throne of God in Isaiah 6:2. They are described as each having six
+> wings. In their threefold proclamation, “holy, holy, holy” (Isa. 6:3),
+> it means “to recognize God as extremely, perfectly holy. Therefore,
+> they praise and proclaim the perfect holiness of God. The seraphim
+> also express the holiness of God in that they proclaim that man must
+> be cleansed of sin’s moral defilement before he can stand before God
+> and serve Him.”[^46]
 
 Regarding the governmental rulers in the angelic world, Ryrie described
 this as follows:
 
-1. *Rulers or principalities.* These words, used seven times by Paul,
-indicate an order of angels both good and evil involved in governing the
-universe (Rom. 8:38; Eph. 1:21; 3:10; 6:12; Col. 1:16; 2:10, 15).
-
-2. *Authorities or powers.* This likely emphasizes the superhuman
-authority of angels and demons exercised in relation to the affairs of
-the world (Eph. 1:21; 2:2; 3:10; 6:12; Col. 1:16; 2:10, 15; 1 Peter
-3:22).
-
-3. *Powers.* This word underscores the fact that angels and demons have
-greater power than humans (2 Peter 2:11). See Ephesians 1:21 and 1 Peter
-3:22.
-
-4. *Place of rule.* In one place demons are designated as world rulers of
-this darkness (Eph. 6:12).
-
-5. *Thrones or dominions.* This designation emphasizes the dignity and
-authority of angelic rulers in God’s use of them in His government (Eph.
-1:21; Col. 1:16; 2 Peter 2:10; Jude
-8).[^47]
+> 1. *Rulers or principalities.* These words, used seven times by Paul,
+> indicate an order of angels both good and evil involved in governing
+> the universe (Rom. 8:38; Eph. 1:21; 3:10; 6:12; Col. 1:16; 2:10, 15).
+> 
+> 2. *Authorities or powers.* This likely emphasizes the superhuman
+> authority of angels and demons exercised in relation to the affairs of
+> the world (Eph. 1:21; 2:2; 3:10; 6:12; Col. 1:16; 2:10, 15; 1 Peter
+> 3:22).
+> 
+> 3. *Powers.* This word underscores the fact that angels and demons
+> have greater power than humans (2 Peter 2:11). See Ephesians 1:21 and
+> 1 Peter 3:22.
+> 
+> 4. *Place of rule.* In one place demons are designated as world rulers
+> of this darkness (Eph. 6:12).
+> 
+> 5. *Thrones or dominions.* This designation emphasizes the dignity and
+> authority of angelic rulers in God’s use of them in His government
+> (Eph.  1:21; Col. 1:16; 2 Peter 2:10; Jude 8).[^47]
 
 Some question whether the Seraphim and Cherubim are actually angels
 since they are never clearly identified as angels, but due to the nature
@@ -1601,25 +1587,25 @@ of angels and their service as superhuman servants of God, this is the
 most logical place to classify them. It would be helpful to also
 consider Ryrie’s explanation of these angelic beings:
 
-***Cherubim*****:**Cherubim constitute another order of angels,
-evidently of high rank since Satan was a cherub (Ezek. 28:14, 16). They
-seem to function as guardians of the holiness of God, having guarded the
-way to the tree of life in the Garden of Eden (Gen. 3:24). The use of
-cherubim in the decoration of the tabernacle and temple may also
-indicate their guarding function (Ex. 26:1ff.; 36:8ff.; 1 Kings
-6:23-29). They also bore the throne-chariot which Ezekiel saw (Ezek.
-1:4-5; 10:15-20). Some also identify the four living ones of Revelation
-4:6 as cherubim, though others feel these represent the attributes of
-God. Representations of the cherubim will also be a part of the
-millennial temple (Ezek. 41:18-20).
-
-***Seraphim*****:** All we know about this rank of angelic beings is
-found in Isaiah 6:2, 6. Apparently the seraphim were an order similar to
-the cherubim. They acted as attendants at the throne of God and agents
-of cleansing. Their duty also was to praise God. Their description
-suggests a six-winged humanlike creature. The word may be derived from a
-root meaning “to burn” or possibly from a root which means “to be
-noble.”[^48]
+> ***Cherubim*****:**Cherubim constitute another order of angels,
+> evidently of high rank since Satan was a cherub (Ezek. 28:14, 16).
+> They seem to function as guardians of the holiness of God, having
+> guarded the way to the tree of life in the Garden of Eden (Gen. 3:24).
+> The use of cherubim in the decoration of the tabernacle and temple may
+> also indicate their guarding function (Ex. 26:1ff.; 36:8ff.; 1 Kings
+> 6:23-29). They also bore the throne-chariot which Ezekiel saw (Ezek.
+> 1:4-5; 10:15-20). Some also identify the four living ones of
+> Revelation 4:6 as cherubim, though others feel these represent the
+> attributes of God. Representations of the cherubim will also be a part
+> of the millennial temple (Ezek. 41:18-20).
+> 
+> ***Seraphim*****:** All we know about this rank of angelic beings is
+> found in Isaiah 6:2, 6. Apparently the seraphim were an order similar
+> to the cherubim. They acted as attendants at the throne of God and
+> agents of cleansing. Their duty also was to praise God. Their
+> description suggests a six-winged humanlike creature. The word may be
+> derived from a root meaning “to burn” or possibly from a root which
+> means “to be noble.”[^48]
 
 Three other classification of angels remain:
 
@@ -1632,8 +1618,7 @@ Three other classification of angels remain:
     and are confirmed in their holy state in the service of the Lord. As
     Chafer writes, “The fall of some angels is no more unanticipated by
     God than the fall of man. It may be implied, also that angels have
-    passed a period of
-    probation.”[^49]
+    passed a period of probation.”[^49]
 
 2.  **The Living Creatures:** These are angelic creatures who seem to be
     involved with revealing the glory of the God of Israel in His
@@ -1786,23 +1771,22 @@ fascination with angels, is there biblical evidence these varied
 ministries of angels continue to function in the present age of the
 church?
 
-Whether angels continue to function in all these ways throughout the
-present age is uncertain. But they did perform these ministries and may
-well continue to do so even though we are not aware of them. Of course,
-God is not obliged to use angels; He can do all these things directly.
-But seemingly He chooses to employ the intermediate ministry of angels
-on many occasions. Nevertheless, the believer recognizes that it is the
-Lord who does these things whether directly through using angels (notice
-Peter’s testimony that the Lord delivered him from the prison though God
-actually used an angel to accomplish it, Acts 12:7-10 compared with vv.
-11 and 17).
-
-Perhaps an inscription I once saw in an old church in Scotland states
-the balance well.
-
-> “Though God’s Power Be Sufficient to Govern Us,  
-> Yet for Man’s Infirmity He appointed His Angels to Watch over
-> Us.”[^54]
+> Whether angels continue to function in all these ways throughout the
+> present age is uncertain. But they did perform these ministries and
+> may well continue to do so even though we are not aware of them. Of
+> course, God is not obliged to use angels; He can do all these things
+> directly.  But seemingly He chooses to employ the intermediate
+> ministry of angels on many occasions. Nevertheless, the believer
+> recognizes that it is the Lord who does these things whether directly
+> through using angels (notice Peter’s testimony that the Lord delivered
+> him from the prison though God actually used an angel to accomplish
+> it, Acts 12:7-10 compared with vv.  11 and 17).
+> 
+> Perhaps an inscription I once saw in an old church in Scotland states
+> the balance well.
+> 
+> “Though God’s Power Be Sufficient to Govern Us,  Yet for Man’s
+> Infirmity He appointed His Angels to Watch over Us.”[^54]
 
 Hebrews 13:2 reads, “Do not neglect to show hospitality to strangers,
 for by this some have entertained angels without knowing it” (NIV).
@@ -1821,14 +1805,14 @@ angel is only by implication from the statement that angels do guard or
 protect as Psalm 91:11 declares. But this passage is directed to those
 who make the Lord their refuge.
 
-The psalmist explained that **no harm** or **disaster** can **befall**
-those who have made **theLord** their **refuge** (mah£seh, “shelter from
-danger”;) because He has commissioned **angels** to care for them.
-Angels protect from physical harm and give believers strength to
-overcome difficulties, pictured here as wild lions and dangerous snakes.
-Satan, in tempting Christ, quoted 91:11-12 (Matt. 4:6), which shows that
-even God’s most marvelous promises can be foolishly
-applied.[^56]
+> The psalmist explained that **no harm** or **disaster** can **befall**
+> those who have made **theLord** their **refuge** (mah£seh, “shelter
+> from danger”;) because He has commissioned **angels** to care for
+> them.  Angels protect from physical harm and give believers strength
+> to overcome difficulties, pictured here as wild lions and dangerous
+> snakes.  Satan, in tempting Christ, quoted 91:11-12 (Matt. 4:6), which
+> shows that even God’s most marvelous promises can be foolishly
+> applied.[^56]
 
 Some would claim that this Old Testament passage should not be applied
 in modern times, but in Hebrews 1:14 the author of Hebrews does not seem
@@ -1951,10 +1935,10 @@ seventh trumpet in anticipation of what the seventh trumpet would
 accomplish.[^58] This surely
 includes the holy angels:
 
-Revelation 11:15 And the seventh angel sounded; and there arose loud
-voices in heaven, saying, “The kingdom of the world has become *the
-kingdom*of our Lord, and of His Christ; and He will reign forever and
-ever.”
+> **Revelation 11:15** And the seventh angel sounded; and there arose
+> loud voices in heaven, saying, “The kingdom of the world has become
+> *the kingdom*of our Lord, and of His Christ; and He will reign forever
+> and ever.”
 
 The issue of Satan’s rebellion to God’s authority may well explain
 Paul’s statement in 1 Corinthians 11:10 that a woman is to have a symbol
@@ -1968,13 +1952,12 @@ sought to usurp God’s sovereign rule (see Isa. 14:12-15). This was an
 offense to the glory of God. It appears from Revelation 12:3-4 that
 one-third of the angelic hosts chose to follow Satan. Because of Satan’s
 sin, he was thrust out of his exalted place and became the great
-adversary of God and God’s people (see Ezek.
-28:11-19).[^59] In addition,
-the Lord also explicitly tells us that the lake of fire was prepared for
-Satan and his angels (Matt. 25:41). Though a defeated foe (cf. Col.
-2:15), Satan is not confined there now, but he and his fallen angels
-will be and this is a great point of anticipation in the Bible (cf. Rom.
-16:20; Rev. 20:10).
+adversary of God and God’s people (see Ezek.  28:11-19).[^59] In
+addition, the Lord also explicitly tells us that the lake of fire was
+prepared for Satan and his angels (Matt. 25:41). Though a defeated foe
+(cf. Col.  2:15), Satan is not confined there now, but he and his fallen
+angels will be and this is a great point of anticipation in the Bible
+(cf. Rom.  16:20; Rev. 20:10).
 
 #### Satan’s Characterization as the Slanderer
 
@@ -2035,35 +2018,35 @@ the things announced to believers through those who preached the gospel
 by the Holy Spirit, Peter declared, “things into which angels long to
 look” (see 1 Pet. 1:11-12). Then, along a similar line Paul wrote,
 
-Ephesians 3:8-11 To me, the very least of all saints, this grace was
-given, to preach to the Gentiles the unfathomable riches of Christ, 9
-and to bring to light what is the administration of the mystery which
-for ages has been hidden in God, who created all things; 10 in order
-that the manifold wisdom of God might now be made known through the
-church to the rulers and the authorities in the heavenly places. 11 This
-was in accordance with the eternal purpose which He carried out in
-Christ Jesus our Lord.
+> Ephesians 3:8-11 To me, the very least of all saints, this grace was
+> given, to preach to the Gentiles the unfathomable riches of Christ, 9
+> and to bring to light what is the administration of the mystery which
+> for ages has been hidden in God, who created all things; 10 in order
+> that the manifold wisdom of God might now be made known through the
+> church to the rulers and the authorities in the heavenly places. 11
+> This was in accordance with the eternal purpose which He carried out
+> in Christ Jesus our Lord.
 
 Consequently, the church becomes a means of unveiling both the manifold
 wisdom and grace of God to angels, for in Ephesians 2:4-7 Paul wrote:
 
-But God, being rich in mercy, because of His great love with which He
-loved us, 5 even when we were dead in our transgressions, made us alive
-together with Christ (by grace you have been saved), 6 and raised us up
-with Him, and seated us with Him in the heavenly places, in Christ
-Jesus, 7 in order that in the ages to come He might show the surpassing
-riches of His grace in kindness toward us in Christ Jesus.
+> But God, being rich in mercy, because of His great love with which He
+> loved us, 5 even when we were dead in our transgressions, made us
+> alive together with Christ (by grace you have been saved), 6 and
+> raised us up with Him, and seated us with Him in the heavenly places,
+> in Christ Jesus, 7 in order that in the ages to come He might show the
+> surpassing riches of His grace in kindness toward us in Christ Jesus.
 
 Chafer quotes Otto Von Gerlach who pointed out:
 
-By the revelation of Himself in Christ, by the institution of the
-Christian Church on earth, God after a manner hitherto unknown glorifies
-Himself before the heavenly principalities. They who until now had,
-filled with awe, been praising Him for the wonder of creation, now see
-His wisdom glorified in a new form in the Christian communion through
-the manifold ways by which lost men are saved. Entirely new and
-inexhaustible wealth of divine wisdom was manifested in
-redemption.[^63]
+> By the revelation of Himself in Christ, by the institution of the
+> Christian Church on earth, God after a manner hitherto unknown
+> glorifies Himself before the heavenly principalities. They who until
+> now had, filled with awe, been praising Him for the wonder of
+> creation, now see His wisdom glorified in a new form in the Christian
+> communion through the manifold ways by which lost men are saved.
+> Entirely new and inexhaustible wealth of divine wisdom was manifested
+> in redemption.[^63]
 
 #### Victory Anticipated
 
@@ -2085,11 +2068,11 @@ entire life they witnessed (1 Tim. 3:16). To witness the submission and
 condescension of God incarnate, even to the death of the cross, was an
 awesome declaration of God’s character as holy and immutable.
 
-What amazing condescension! *Obeying his own law as if he were a mere
-creature, and in the attitude of a servant!* This was new. They had seen
-him as the governor of the universe; but never till now as a subject!
-*Encountering Satan in conflict and prolonged temptation!* This was
-new.[^64]
+> What amazing condescension! *Obeying his own law as if he were a mere
+> creature, and in the attitude of a servant!* This was new. They had
+> seen him as the governor of the universe; but never till now as a
+> subject!  *Encountering Satan in conflict and prolonged temptation!*
+> This was new.[^64]
 
 Think of this! They had seen Satan cast down from his exalted position
 and sentenced to the lake of fire because of his pride and rebellion,
@@ -2136,12 +2119,11 @@ through man’s temptation and fall into sin; and (4) man’s redemption and
 the recovery of that rule through the sinless God-man Savior who bore
 the penalty for our sin.
 
-In the study of this moral problem certain facts emerge. It is clear
-that God in creating angels and men created them as moral creatures with
-the power of choice. The sin problem is present when a moral creature
-chooses sin instead of righteousness. This is the explanation for the
-fall of angels and the fall of
-men.[^65]
+> In the study of this moral problem certain facts emerge. It is clear
+> that God in creating angels and men created them as moral creatures
+> with the power of choice. The sin problem is present when a moral
+> creature chooses sin instead of righteousness. This is the explanation
+> for the fall of angels and the fall of men.[^65]
 
 Scripture’s revelation of Satan’s fall, man’s fall, and the ensuing
 angelic conflict envelops us in things far beyond our comprehension.
@@ -2211,12 +2193,12 @@ critic of the Creator or of what He is doing as the Sovereign Lord of
 the universe. The next two chapters, then, develop this theme of God’s
 wisdom and power.
 
-Job 40:1-2 Then the LORD said to Job, “Will the faultfinder contend with
+> Job 40:1-2 Then the LORD said to Job, “Will the faultfinder contend with
 the Almighty? Let him who reproves God answer it.”
 
 Job then answered and said,
 
-Job 40:4-5 Behold, I am insignificant; what can I reply to You? I lay my
+> Job 40:4-5 Behold, I am insignificant; what can I reply to You? I lay my
 hand on my mouth. 5 Once I have spoken, and I will not answer; Even
 twice, and I will add no more.
 
@@ -2229,11 +2211,11 @@ of the world. In the next paragraph (vss. 6-14), one full of irony, God
 asks if Job can really perform those things that only God is able to do.
 Note verses 7-9:
 
-Job 40:7-9. Then the LORD answered Job out of the storm, and said, 7
-“Now gird up your loins like a man; I will ask you, and you instruct Me.
-8 Will you really annul My judgment? Will you condemn Me that you may be
-justified? 9 Or do you have an arm like God, And can you thunder with a
-voice like His?”
+> Job 40:7-9. Then the LORD answered Job out of the storm, and said, 7
+> “Now gird up your loins like a man; I will ask you, and you instruct
+> Me.  8 Will you really annul My judgment? Will you condemn Me that you
+> may be justified? 9 Or do you have an arm like God, And can you
+> thunder with a voice like His?”
 
 Though the problem of evil and Satan baffles the human mind, only God’s
 Word gives us a reasonable explanation as to the cause, course, and
@@ -2257,7 +2239,7 @@ not only recognize our thoughts and ways are far different from His, but
 that in faith we accept what He has revealed. Note the focus in the
 passage below.
 
-Isaiah 55:6-9 Seek the Lord while He may be found; Call upon Him while
+> Isaiah 55:6-9 Seek the Lord while He may be found; Call upon Him while
 He is near. 7 Let the wicked forsake his way, And the unrighteous man
 his thoughts; And let him return to the Lord, And He will have
 compassion on him; And to our God, For He will abundantly pardon. 8 “For
