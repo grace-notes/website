@@ -5,11 +5,6 @@ description: "from a discussion of Ephesians 6:15, \"And your feet shod with the
 template: topic.jade
 ---
 
-
-**Witnessing 2**
-
-Witnessing
-
 Ephesians 6:15, “And your feet shod with the preparation of the gospel
 of peace.”
 
@@ -50,43 +45,43 @@ Officers wore different footgear.
 preparedness, being able to march great distances in order, with others,
 and over a long period of time, to use weapons effectively.
 
-**the gospel of peace**…
+**the gospel of peace...**
 
-Notes on personal witnessing
+## Notes on personal witnessing
 
-• Witnessing for Christ is the responsibility of every believer. Acts
+* Witnessing for Christ is the responsibility of every believer. Acts
 1:8; 1 Pet. 3:15; Mk. 5:18,19.
 
-• The effectiveness and clarity of the believer’s witnessing depends, in
+* The effectiveness and clarity of the believer’s witnessing depends, in
 large measure, on his understanding of the Last Judgment. Sins will not
 be the issue! The only reason that a person will stand at the Last
 Judgment is that he rejected Christ during his lifetime. John 3:18;
 3:36. All sins have been judged at the Cross, and there is no double
 jeopardy.
 
-• The basis for the indictment of unbelievers is human good, not sins.
+* The basis for the indictment of unbelievers is human good, not sins.
 The witnessing Christian must make the issue clear.
 
-• Witnessing is impossible apart from the filling of the Holy Spirit.
+* Witnessing is impossible apart from the filling of the Holy Spirit.
 John 16:8-11. And the Holy Spirit must minister to the unbeliever to
 apply the doctrine of salvation.
 
-• The context for witnessing is that part of the Word of God called the
+* The context for witnessing is that part of the Word of God called the
 Gospel. 1 Cor. 1:18; Eph. 6:17; Heb. 4:12.
 
-• The dynamics of witnessing depends on the believer’s mental attitude.
+* The dynamics of witnessing depends on the believer’s mental attitude.
 One cannot be an effective witness if he is ashamed of the Gospel, if he
 does not have the capacity to be occupied with Christ, or if he is not
 oriented to Grace.
 
-• In Rom. 1:14-16, the apostle Paul says “I am debtor”, “I am ready”,
+* In Rom. 1:14-16, the apostle Paul says “I am debtor”, “I am ready”,
 and “I am not ashamed”. A fisherman has a desire to fish. One is not a
 “fisher of men” without a desire to win souls.
 
-• There are two sources for a Christian’s witness: (1) the testimony of
+* There are two sources for a Christian’s witness: (1) the testimony of
 his life, 2 Cor. 3:3, and (2) the testimony of his lips, 2 Cor. 5:14-21.
 
-• There is a reward for witnessing. 1 Cor. 3:11-16; 2 Cor. 5:10. Rewards
+* There is a reward for witnessing. 1 Cor. 3:11-16; 2 Cor. 5:10. Rewards
 in heaven are an extension of edification; the only things that are
 rewarded in heaven is what is done on the basis of Grace. Thus, every
 reward in heaven is an eternal memorial to the grace of God. Grace means

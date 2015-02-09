@@ -6,12 +6,6 @@ description: "The mental attitude sin of worry, its cause and cure."
 template: topic.jade
 ---
 
-
-**Worry 3**
-
-Worry
-=====
-
 Worry is a mental state in which there is soulish torment or anxiety
 regarding anything in life. It is a disquieting and painful state of
 mind involving great concern over something in life.
@@ -82,13 +76,15 @@ Worry can be a destroyer of the soul. If unchecked, it can result in
 mental illness. You get a warning first, often with a physical problem.
 Worry in the mind causes shock to the body.
 
+## Worry Related Passages
+
 Here are some Bible passages that speak to the subject of worry and
 faith-rest.
 
 **Proverbs 12:25**, “Anxiety in a man’s heart weighs it down, but a good
 word makes it glad.”
 
-Bad news causes worry.
+### Bad news causes worry
 
 **Jeremiah 49:23,24,** “Concerning Damascus. “Hamath and Arpad are put
 to shame, For they have heard bad news; They are disheartened. There is
@@ -96,7 +92,7 @@ anxiety by the sea, It cannot be calmed. “Damascus has become helpless;
 She has turned away to flee, and panic has gripped her; distress and
 pangs have taken hold of her, like a woman in childbirth.”
 
-Worry sometimes causes hysteria:
+### Worry sometimes causes hysteria
 
 **Luke 10:41, 42,** “Martha, Martha, you are worried and bothered about
 so many things; but *only* one thing is necessary, for Mary has chosen
@@ -113,7 +109,7 @@ found. Now behold, your father has ceased
 to be concerned about the donkeys and is anxious for you, saying, “What
 shall I do about my son?”
 
-Worry is sometimes accompanied by backsliding and the sin unto death.
+### Worry is sometimes accompanied by backsliding and the sin unto death.
 
 **Ezekiel 4:15-17**, “Then He said to me, “See, I will give you cow’s
 dung in place of human dung over which you will prepare your bread.”
@@ -142,12 +138,12 @@ Sin causes worry. People worry about sin which causes guilt.
 **Psalm 38:18**, “For I confess my iniquity; I am full of anxiety
 because of my sin.”
 
-Often worry is a sin.
+### Often worry is a sin.
 
 **Romans 14:23**, “But he who doubts is condemned if he eats, because
 *his eating is* not from faith; and whatever is not from faith is sin.”
 
-Christians are commanded to stop worrying. Worry is forbidden.
+### Christians are commanded to stop worrying. Worry is forbidden.
 
 **Luke 12:29**, “And He said to His disciples, “For this reason I say to
 you, do not worry about *your* life, *as to* what you will eat; nor for
@@ -161,7 +157,7 @@ will guard your hearts and your minds in Christ Jesus.”
 
 Worry does not solve problems. Read**Matthew 6:25-34**.
 
-Worry distracts from Bible teaching
+### Worry distracts from Bible teaching
 
 **Matthew 13:22**, “And the one on whom seed was sown among the thorns,
 this is the man who hears the word, and the worry of the world and the
@@ -184,7 +180,7 @@ water, That extends its roots by a stream And will not fear when the
 heat comes; But its leaves will be green, And it will not be anxious in
 a year of drought nor cease to yield fruit.”
 
-Additional scriptures:
+## Additional scriptures
 
 **1 Samuel 17:47**, “and that all this assembly may know that the Lord
 does not deliver by sword or by spear; for the battle is the Lord’s and

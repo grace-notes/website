@@ -237,12 +237,12 @@ we have been buried with Him through baptism, in order that as Christ
 has been raised from the dead through the glory of the Father, so that
 we too might walk in newness of life.”
 
-• Walking in newness of life means we walk in the light of the word of
+* Walking in newness of life means we walk in the light of the word of
 God.
 
-• We walk in newness of life because we are in union with Christ.
+* We walk in newness of life because we are in union with Christ.
 
-• Walking in newness of life means using all of the assets God has
+* Walking in newness of life means using all of the assets God has
 provided for us: the availability of divine power; the indwelling of the
 Trinity; our portfolio of spiritual blessings; our universal priesthood
 and ambassadorship, etc.
@@ -312,9 +312,9 @@ your heart to the Lord;”
 Christ Jesus for good works, which God has prepared in advance that we
 should be walking by means of them.”
 
-• At salvation we became His creation, a new spiritual species.
+* At salvation we became His creation, a new spiritual species.
 
-• We are to walk by means of the things prepared by God for us in
+* We are to walk by means of the things prepared by God for us in
 eternity past, such as the problem solving devices. The result is divine
 good: gold, silver, precious stones
 
@@ -385,5 +385,5 @@ an offering and a sacrifice to God as a fragrant aroma.”
 
 ## Testing as part of the Christian walk:
 
-Read Rom. 13:13, 14; Eph. 4:17; Phil. 3:17-19
+Read Rom. 13:13-14; Eph. 4:17; Phil. 3:17-19
 

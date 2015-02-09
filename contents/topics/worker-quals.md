@@ -2,39 +2,36 @@
 title: "Qualifications for Christian Workers"
 indexTitle: "Workers, Qualifications for Christian"
 pdf: "workerquals.pdf"
-description: "Workers, Qualifications for Christian -  A list of qualifications for every type of Christian worker, from personal worker to missionary to pastors and teachers."
+description: "A list of qualifications for every type of Christian
+              worker, from personal worker to missionary to pastors
+              and teachers."
 template: topic.jade
 ---
-
-
-**Worker Qualifications**
-
-Christian Worker Qualifications  
 
 The following qualifications apply to anyone who is going into Christian
 service in some capacity to minister to others. These criteria
 particularly apply to those who take up Christian work as a vocation,
 such as pastors, evangelists, teachers, or missionaries.
 
-• The Christian worker must be born again and he must understand the
+* The Christian worker must be born again and he must understand the
 Plan of God in all of its phases.
 
-• He must exercise his spiritual gift, such as that of pastor,
+* He must exercise his spiritual gift, such as that of pastor,
 evangelist, teacher, helps, governments, or other gift. The spiritual
 gift is a divine enabling for service given at the time of salvation and
 developed through intensive preparation.
 
-• He must be spiritually mature in the sense of being familiar with the
+* He must be spiritually mature in the sense of being familiar with the
 whole counsel of God’s Word both by academic understanding and by
 application in his own life.
 
-• He must have spiritual endurance.
+* He must have spiritual endurance.
 
 Maturity and the ability to do God’s work comes through years of study
 of God’s Word and practice in using doctrinal principles. Following is a
 review of the doctrinal ideas found in 2 Timothy 2:15.
 
-*Study* … from the Greek word  (**spoudzo**) meaning “to be
+*Study* -- from the Greek word σπουδαζω (**spoudzo**) meaning “to be
 industrious, eager, to be diligent, to exert oneself”. It has a stronger
 meaning than “study”. It is actually connotes a way of life which
 includes the proper mental attitude and motivation to learn Bible
@@ -46,7 +43,7 @@ means to make every effort to concentrate, to be objective to doctrine.
 to give priority to the Word of God. The reason that you are entering
 the Lord’s work is to live the life of Christ.
 
-*approve*" … “to pass an exam”.  (**dokimos**) The emphasis is on
+*approve*" -- “to pass an exam”. δοκιμος (**dokimos**) The emphasis is on
 success, not failure. To be a successful Christian worker, you must
 study (Test \#1), and you must use what you study (Test \#2).
 
@@ -59,7 +56,7 @@ you use Grace or legalism, whether you depend upon man or God.
 Can you fix a car, iron a shirt, type a letter to the glory of God? The
 test is on whether you know how to do this.
 
-*workman*" …  (**ergateis**), an agricultural worker, a laborer,
+*workman*" -- ἐργατης (**ergateis**), an agricultural worker, a laborer,
 a routine worker. This word indicates one who is involved in the
 mundane, routine, ordinary, distasteful, or dull things in life. In the
 ancient world it meant feeding the cattle, working in the fields,
@@ -73,14 +70,14 @@ task can be done as unto the Lord; the Christian life is fantastic. The
 emphasis here is on doing small, routine things as unto the Lord. Stay
 in fellowship and wait for God’s promotion.
 
-*needeth not to be ashamed* … literally, with the previous word, “a
+*needeth not to be ashamed* -- literally, with the previous word, “a
 not–ashamed workman”. You don’t have to be ashamed of your station in
 life if you have an honest vocation. Every believer is in full time
 service. A Christian worker must keep grace oriented and not despise the
 ordinary things, or those who live an “ordinary” life. And he must have
 these qualities before moving out.
 
-*rightly dividing with the word of truth*. - to cut straight, to line
+*rightly dividing with the word of truth*. -- to cut straight, to line
 out a straight path. Use Bible doctrine to keep from straying into the
 cults, into the movements, to stay with accurate interpretation and
 application of the Word of God. This enables a life with no detours, no

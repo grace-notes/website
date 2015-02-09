@@ -5,11 +5,6 @@ description: "In the New Testament, a widow is a woman who has lost her husband 
 template: topic.jade
 ---
 
-
-**Widows 2**
-
-Widows
-
 Definition
 ----------
 
@@ -69,6 +64,3 @@ Paul advises widows to remain unmarried, 1 Cor 7:8-9.
 Paul indicates that widows qualified for support in the local church,
 and warned against widows becoming troublemakers by their gossip, 1 Tim
 5:3-16.
-
-====================
-

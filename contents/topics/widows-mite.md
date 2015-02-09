@@ -2,27 +2,19 @@
 title: "Widow's Mite"
 pdf: "widowsmite.pdf"
 description: "an essay on Christian giving and support of Christian work, based on the Bible narrative of this story."
+subtitle: An Essay on Christian Giving
+author: James Matheny
 template: topic.jade
 ---
 
 
-**Widow’s Mite**
-
-The Widow’s Mite
-
-The Widow’s Mite
-
-An Essay on Christian Giving
-
 Mark 12:38-44; 13:1,2
-
-by James Matheny
 
 *©1996 Jay & Associates, Publishers, http://www.bible.org. Anyone is
 free to reproduce this material and distribute it, but it may not be
 sold under any circumstances whatsoever without the author’s consent.*
 
-They Devour Widow’s Houses
+## They Devour Widow’s Houses
 
 There are any number of ways to take the life savings and/or money for
 daily living from the old, the gullible, or those who are zealous
@@ -56,7 +48,7 @@ miracles: things seemingly dead in their body, their spirit, their mind,
 and their finances would come alive again. These tactics may be legal
 but they are far from Christian.
 
-A Look at the Passages
+## A Look at the Passages
 
 Some pastors, and even church or mission boards, are also guilty of
 intimidating their congregations. Knowingly or unknowingly, they too use
@@ -87,7 +79,7 @@ individual, but a great deal of interest in exploiting the giver for the
 system’s own gain. A brief exposition of Mark 12:38-44; 13:1-2 will
 demonstrate the point.
 
-The Context
+## The Context
 
 The context is critical to a correct interpretation of this passage.
 Jesus was in the Temple teaching. He had been discussing the character
@@ -124,7 +116,7 @@ God’s people should not follow the way of the scribes and their
 teachings. The authority of the scribes should be rejected. In addition,
 they were guilty of shameful conduct: “They devour widow’s houses.”
 
-The Illustration
+## The Illustration
 
 Jesus continued His condemnation of the scribes by the graphic
 illustration which follows in verses 41-44. Jesus was sitting opposite
@@ -184,7 +176,7 @@ most tragic of all–is that the scribes of Jesus’ day promoted such a
 heretical doctrine while this unfortunate person, as well as the rest of
 the nation of Israel, headed for destruction.
 
-Observations
+## Observations
 
 -   Jesus was teaching his disciples. (Luke 20:45).
 
@@ -218,7 +210,7 @@ Observations
 -   Do not give if it hurts; God does not want–or need–that kind of
     giving.
 
-Principles of Giving
+## Principles of Giving
 
 Some years ago I was much impressed with the manner in which the
 offering was taken at Grace Bible Church in Dallas. Dr. Dwight
@@ -257,7 +249,7 @@ of the response by the Corinthian believers, Paul encouraged them to
 give by noting the example set by the churches in Macedonia. That
 example consisted of three parts.
 
-Grace
+## Grace
 
 The whole activity of their giving is characterized by the repeated use
 of the word grace. It appears seven times in II Corinthians 8. The grace
@@ -303,7 +295,7 @@ practice of grace giving has other spiritual reasons for our
 involvement. If properly practiced there is blessing both for the giver
 and the receiver.
 
-Fellowship
+## Fellowship
 
 Fellowship means sharing, being a partaker with. This is the same word
 that is used in Acts 4:32 where it is said that the early church had all
@@ -343,7 +335,7 @@ Grudge giving is outlined in the story of Ananias and Sapphira in Acts
 5:1-9. Genuine, free, and cheerful giving is the only offering God
 really accepts and blesses, no matter the amount.
 
-Equality
+## Equality
 
 Paul also teaches equality in giving. The Apostle is careful to explain
 to the Corinthians that it is not God’s intention to relieve the
@@ -360,7 +352,7 @@ supply for your want: that there may be equality.”
 
 According to Lenski:
 
-“It is not at all a matter of giving as much as possible to others even
+> “It is not at all a matter of giving as much as possible to others even
 to the point of impoverishing ourselves - as though the virtue of giving
 lay in that. But this is entirely a matter of equality or equalization.
 In Christian giving the matter of the giver and those to whom he gives
@@ -374,7 +366,7 @@ fellowship and “a three-fold cord is not quickly broken” (Ecclesiastes
 Church Age: grace. We operate on faith that grace will work because
 God’s Word directs it.
 
-Method of Giving
+## Method of Giving
 
 Paul instructed the Galatians, too, in the proper method for Church Age
 giving:
@@ -398,7 +390,7 @@ churches tithers are promoted as the elite of the congregation.) Grace
 giving should be voluntary, given on a weekly basis as God prospers and
 not subject to man’s approval or disapproval.
 
-Conclusion
+## Conclusion
 
 Because New Testament giving is not practiced in many churches, the
 blessings of grace, fellowship, and equality are sadly lacking. The
@@ -412,9 +404,7 @@ lovingly, and generously. Let us give first of ourselves: (like Jesus)
 freely, graciously, bountifully, and there will be equality in the body
 of Christ. Before the Lord, dare we do less?
 
-JAY & ASSOCIATES, PUBLISHERS
-
-P.O. BOX 2222
-
+JAY & ASSOCIATES, PUBLISHERS  
+P.O. BOX 2222  
 BREVARD, NORTH CAROLINA 28712
 
