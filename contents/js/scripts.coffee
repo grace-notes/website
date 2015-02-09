@@ -2,6 +2,23 @@ $ = jQuery
 
 $(document).ready ->
 
+  # Track pdf links
+  
+  $("body").on 'click', 'a[href*=".pdf"]', (e)->
+    e.preventDefault()
+    url = $(this).attr('href')
+    ga 'send',
+      'hitType': 'pageview'
+      'page': url.replace(/http:\/\/[^\/]*\//, '/')
+      'title': $(this).text()
+    setTimeout ->
+      location.href = url
+    , 300
+    return false
+
+
+  # Greek Transliteration
+
   $("p,li,dd,dt,td").html (index, html)->
     return html
     .replace(XRegExp('([\\p{InGreek_and_Coptic}\\p{InGreek_Extended}]+)', 'g'), '<span class="greek">$1</span>')
@@ -27,6 +44,8 @@ $(document).ready ->
 
           else
             word.toggleClass('greek')
+
+  # Topics List Filtering
 
   letters = unique $(".topics-list li").map(-> $(this).data("letter"))
   key = $("<div class='topics-key'><a data-filter='*' href='#filter-all'>all</a></div>").prependTo(".topics-list")
