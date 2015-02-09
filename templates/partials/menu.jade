@@ -2,7 +2,7 @@ div.navbar.navbar-default
   div.container
     div.navbar-header
       span.brand
-        span.sitename: a(href="/")= locals.name
+        span.sitename: a(href="http://www.gracenotes.info/")= locals.name
         span.tag= locals.description
       button(type='button', data-toggle='collapse', data-target='.navbar-collapse').navbar-toggle.collapsed
         span.sr-only Toggle navigation
@@ -11,5 +11,21 @@ div.navbar.navbar-default
         span.icon-bar 
     div.collapse.navbar-collapse
       ul.nav.navbar-nav
-        li: a(href='/') Home
-        li: a(href='/topics') Topics
+        li: a.dropdown-toggle(
+          href='#',
+          role='button'
+          aria-expanded='false'
+          data-toggle='dropdown'
+          ) About
+          ul.dropdown-menu(role="menu")
+            li: a(href='http://www.gracenotes.info/VisionStrategy.shtml') Vision and Strategy
+            li: a(href='http://www.gracenotes.info/Authors.shtml') Authors
+            li: a(href='http://www.gracenotes.info/DoctrinalStatement.shtml') Doctrinal Statement
+            li: a(href='http://www.gracenotes.info/GraceNotesHistory.shtml') GN History
+            li: a(href='http://www.gracenotes.info/gracegiving.shtml') Donate
+            li: a(href='http://gracenotesblogdotinfo.wordpress.com/') Blog
+        li.dropdown: a(href='http://www.gracenotes.info/DiplomaCourses.shtml') Diploma Courses
+        li: a(href='/topics/') Topics
+        li: a(href='http://www.gracenotes.info/GN_BibleStudies.shtml') Bible Studies
+        li: a(href='http://www.gracenotes.info/register.php') Register
+        li: a(href='http://www.gracenotes.info/Translation.shtml') Translations
