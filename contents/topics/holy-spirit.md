@@ -1,12 +1,11 @@
 ---
 title: "Holy Spirit"
 pdf: "holyspirit.pdf"
-description: "Holy Spirit -  The Person and work of God the Holy Spirit; the indwelling of the Spirit; the filling of the Spirit; the fruit of the Spirit."
+description: "Holy Spirit -  The Person and work of God the Holy Spirit;
+              the indwelling of the Spirit; the filling of the Spirit;
+              the fruit of the Spirit."
 template: topic.jade
 ---
-
-
-**Holy Spirit5**
 
 The Bible teaches that God is one God and that there are no other gods.
 The Bible also clearly distinguishes between three parts or persons of
@@ -20,7 +19,7 @@ God, that is, that He shares all of God’s eternal attributes; and (3)
 that He has an objective, real ministry in the world during the church
 age, particularly in the lives of Christians.
 
-THE HOLY SPIRIT’S PERSONALITY
+## The Holy Spirit’s Personality
 
 The Holy Spirit has personality because He possesses the essential
 characteristics of personality, namely, intellect, emotion, and will.
@@ -38,7 +37,7 @@ whom you were sealed for the day of redemption.
 **His Will**, 1 Cor. 12:11, But one and the same Spirit works all these
 things, distributing to each one individually just as He wills.
 
-HIS RELATIONSHIP TO THE FATHER
+## His Relationship to The Father
 
 Matt. 3:16, And after being baptized, Jesus went up immediately from the
 water; and behold, the heavens were opened, and he saw the Spirit of God
@@ -54,7 +53,7 @@ anointed me to bring good news to the afflicted; He has sent met to bind
 up the brokenhearted, to proclaim liberty to captives, and freedom to
 prisoners.
 
-HIS RELATIONSHIP TO THE SON
+## His Relationship to the Son
 
 Rom. 8:9, However, you are not in the flesh but in the Spirit, if indeed
 the Spirit of God dwells in you. But if anyone does not have the Spirit
@@ -63,7 +62,7 @@ of Christ, he does not belong to Him.
 Phil. 1:19, For I know that this shall turn out for my deliverance
 through your prayers and the provision of the Spirit of Jesus Christ,
 
-THE HOLY SPIRIT SHARES THE ATTRIBUTES OF GOD
+## The Holy Spirit Shares the Attributes of God
 
 **Eternity**, Heb. 9:14, how much more will the blood of Christ, who
 through the eternal Spirit offered Himself without blemish to God,
@@ -99,7 +98,7 @@ sea,
 Even there Thy hand will lead me, And Thy right hand will lay hold of
 me.
 
-THE HOLY SPIRIT REVEALS DIVINE TRUTH
+## The Holy Spirit Reveals Divine Truth
 
 1 Cor. 2:9-11, but just as it is written, “Things which eye has not seen
 and ear has not heard, And which have not entered the heart of man, All
@@ -115,7 +114,7 @@ the Spirit of God.
 See also 2 Sam. 23:2; Micah 3:8; Acts 1:16; Heb. 9:6-8; 2 Pet. 1:15-21;
 John 16:12-14.
 
-THE HOLY SPIRIT GLORIFIES THE LORD JESUS CHRIST DURING THE CHURCH AGE
+## The Holy Spirit Glorifies the Lord Jesus Christ During the Church Age
 
 After the Lord Jesus had ascended to heaven, the Holy Spirit came to
 indwell all believers during the church age.
@@ -178,44 +177,44 @@ man;
 so that Christ may dwell in your hearts through faith; and that you,
 being rooted and grounded in love,
 
-GENERAL WORK OF THE HOLY SPIRIT
+## General Work of the Holy Spirit
 
 Zech. 4:6, “… not by might, nor by power, but by My Spirit, says the
 Lord of hosts.”
 
 The following is a list of activities carried out by the Holy Spirit:
 
-• Casting out demons: Matt. 12:28
+* Casting out demons: Matt. 12:28
 
-• Comforting of believers: John 15:26
+* Comforting of believers: John 15:26
 
-• Reproving the world of sin: John 16:8
+* Reproving the world of sin: John 16:8
 
-• Making believers spiritually alive: Rom. 8:11
+* Making believers spiritually alive: Rom. 8:11
 
-• Making intercession for believers: Rom. 8:26
+* Making intercession for believers: Rom. 8:26
 
-• Making able ministers of the new covenant: 2 Cor. 3:6
+* Making able ministers of the new covenant: 2 Cor. 3:6
 
-• Raising Christ from the dead: 1 Pet. 3:18
+* Raising Christ from the dead: 1 Pet. 3:18
 
-• Was executor of Bible inspiration: 2 Pet. 1:21
+* Was executor of Bible inspiration: 2 Pet. 1:21
 
-• Invites unbelievers to accept Christ: Rev. 22:17
+* Invites unbelievers to accept Christ: Rev. 22:17
 
-THE INDWELLING OF THE HOLY SPIRIT
+## The Indwelling of the Holy Spirit
 
-• The Holy Spirit lives permanently in every Christian. Rom. 8:9; Gal.
+* The Holy Spirit lives permanently in every Christian. Rom. 8:9; Gal.
 3:2; 4:6; 1 Cor. 6:19, 20.
 
-• The indwelling of the Holy Spirit is called the “unction” in 1 John
+* The indwelling of the Holy Spirit is called the “unction” in 1 John
 2:20, and “anointing” in 1 John 2:27. These are synonyms for
 “indwelling.”
 
-• The prophecy of the indwelling of the Holy Spirit is found in John
+* The prophecy of the indwelling of the Holy Spirit is found in John
 7:37-39; John 14:16, 17.
 
-• The indwelling of the Holy Spirit must be distinguished from the
+* The indwelling of the Holy Spirit must be distinguished from the
 indwelling of the Lord Jesus Christ.
 
 Christ indwells the believer for the purpose of fellowship, Rom. 8:10;
@@ -227,7 +226,7 @@ The Holy Spirit indwells the believer for the purpose of function, Gal.
 Maximum fellowship with Christ comes through the function of the Holy
 Spirit in edification and grace living.
 
-• The indwelling of the Holy Spirit must be distinguished from the
+* The indwelling of the Holy Spirit must be distinguished from the
 filling of the Holy Spirit.
 
 The indwelling is automatic at salvation.
@@ -237,14 +236,14 @@ be lost through carnality, Eph. 4:30. The filling is commanded, Eph.
 5:18. The filling is regained through confession of sin, 1 John 1:9;
 Prov. 1:23.
 
-• The Holy Spirit functions in the intake and application of Bible
+* The Holy Spirit functions in the intake and application of Bible
 truth, John 14:26; 16:12-15; 1 Cor. 2:9-16; 1 John 2:27. This is the
 “how to” of edification.
 
-• The indwelling of the Holy Spirit is necessary because of the
+* The indwelling of the Holy Spirit is necessary because of the
 spiritual conflict in “high places” (spiritual warfare), John 7:37-39.
 
-THE SEALING MINISTRY OF THE HOLY SPIRIT
+## The Sealing Ministry of the Holy Spirit
 
 The sealing work of the Holy Spirit is the basis for our eternal
 security. The three phases of salvation are given in Eph. 1:13.
@@ -256,30 +255,30 @@ Him with the Holy Spirit of promise,
 who is given as a pledge of our inheritance, with a view to the
 redemption of God’s own possession, to the praise of His glory.
 
-• First, you must hear the word of truth, the gospel.
+* First, you must hear the word of truth, the gospel.
 
-• Then, you must believe the gospel.
+* Then, you must believe the gospel.
 
-• At that point, you are sealed by the Holy Spirit
+* At that point, you are sealed by the Holy Spirit
 
 **You were sealed** is the aorist passive indicative form of the verb
- (**sphragidzw**), which means “stamped with a seal.”
+σφραγιζω (**sphragidzw**), which means “stamped with a seal.”
 
-• In the ancient world, the seal was a guarantee or a transaction, e.g.,
+* In the ancient world, the seal was a guarantee or a transaction, e.g.,
 a signet impression on a ring. Sealing was used to authenticate
 contracts, laws, invoices and military orders. The seal was also used in
 the ratification of treaties.
 
-• Seals were used to preserve tombs, libraries and treasuries. The seal
+* Seals were used to preserve tombs, libraries and treasuries. The seal
 was backed up by the force of the government in charge, e.g., the seal
 on the tomb of Christ was guaranteed by the Roman troops.
 
-• Seals indicate ownership; God owns the believer, having purchased him
+* Seals indicate ownership; God owns the believer, having purchased him
 from the slave market of sin (Eph. 1:7; 1 Cor. 6:20)
 
-• The believer is sealed as a guarantee of his eternal security.
+* The believer is sealed as a guarantee of his eternal security.
 
-THE FILLING OF THE HOLY SPIRIT
+## The Filling of the Holy Spirit
 
 When a person accepts Christ as Savior, the Holy Spirit comes into
 (indwells) his life permanently. The Holy Spirit indwells for the
@@ -322,24 +321,24 @@ being perfected by the flesh?
 
 Results of the Filling of the Holy Spirit
 
-• Imitation of Christ: John 16:14; 2 Cor. 3:3; Phil. 1:20
+* Imitation of Christ: John 16:14; 2 Cor. 3:3; Phil. 1:20
 
-• Perception of the Word: John 14:26; 16:12-14; 1 Cor. 2:9-16
+* Perception of the Word: John 14:26; 16:12-14; 1 Cor. 2:9-16
 
-• Witnessing: Acts 1:8; 2 Cor. 3:1-10
+* Witnessing: Acts 1:8; 2 Cor. 3:1-10
 
-• Guidance: Rom. 8:14; Eph. 5:16-18
+* Guidance: Rom. 8:14; Eph. 5:16-18
 
-• Assurance: Rom. 8:14-16; Gal. 4:5, 6
+* Assurance: Rom. 8:14-16; Gal. 4:5, 6
 
-• Worship: Phil. 3:3; John 4:24
+* Worship: Phil. 3:3; John 4:24
 
-• Prayer: Eph. 6:18 with Psalm 66:18
+* Prayer: Eph. 6:18 with Psalm 66:18
 
-• Leadership in Ministry: John 16:13; Acts 10:9, 10; Acts 13:2; Acts
+* Leadership in Ministry: John 16:13; Acts 10:9, 10; Acts 13:2; Acts
 16:6
 
-THE HOLY SPIRIT PROVIDES SPIRITUAL POWER
+## The Holy Spirit Provides Spiritual Power
 
 The book of Acts is the book of spiritual power about where it comes
 from, how it is obtained, and how it is used. The promise of Jesus
@@ -357,28 +356,28 @@ he shall baptize you with the Holy Spirit, and with fire:"
 
 Examples of believers receiving the Holy Spirit:
 
-• At Pentecost: Acts 2:3
+* At Pentecost: Acts 2:3
 
-• The Samaritan Christians: Acts 8:17
+* The Samaritan Christians: Acts 8:17
 
-• Cornelius and his company: Acts. 10:44
+* Cornelius and his company: Acts. 10:44
 
-• The Ephesian believers: Acts 19:6,7
+* The Ephesian believers: Acts 19:6,7
 
 The Benefits Derived from Spiritual Power
 
-• Men receive courage to rebuke sin: Matt. 3:8
+* Men receive courage to rebuke sin: Matt. 3:8
 
-• Men are enabled to speak with confidence: Acts 4:31-33
+* Men are enabled to speak with confidence: Acts 4:31-33
 
-• Gives spiritual and moral strength: 2 Sam. 22:40; Isa. 28:6; Isa.
+* Gives spiritual and moral strength: 2 Sam. 22:40; Isa. 28:6; Isa.
 40:31; 41:10; Dan. 11:32; Eph. 3:16
 
-• Provides strength in weakness: 1 Cor. 1:27; 2 Cor. 12:9; 13:4
+* Provides strength in weakness: 1 Cor. 1:27; 2 Cor. 12:9; 13:4
 
-• Provides spiritual gifts: Rom. 12:6; Eph. 4:11
+* Provides spiritual gifts: Rom. 12:6; Eph. 4:11
 
-THE FRUIT OF THE HOLY SPIRIT
+### The Fruit of the Holy Spirit
 
 The fruit of the Holy Spirit is the character of Christ being formed in
 the Christian who is filled with the Spirit. Gal. 5:22, 23 lists the
@@ -401,47 +400,47 @@ Humility, for example, is a grace attitude with regard to divine
 provision that gives glory to God for all support and blessing in life,
 rather than taking the attitude that one is self-made.
 
-**Conditions of Fruit-Bearing**
+### Conditions of Fruit-Bearing ###
 
 The following are required in order for a Christian to have spiritual
 fruit:
 
-• Contact with the living water: Ps. 1:3; Eze. 47:12
+* Contact with the living water: Ps. 1:3; Eze. 47:12
 
-• Spiritual receptivity: Matt. 13:23
+* Spiritual receptivity: Matt. 13:23
 
-• Death of the old life: John 12:24
+* Death of the old life: John 12:24
 
-• Chastening (pruning): John 15:2
+* Chastening (pruning): John 15:2
 
-• Abiding in Christ: John 15:4
+* Abiding in Christ: John 15:4
 
-SINS AGAINST THE HOLY SPIRIT
+## Sins Against the Holy Spirit
 
 The Bible speaks of five types of sin which can be committed against the
 Holy Spirit. Two are committed by unbelievers only and the other three
 are committed by Christians.
 
-**Sins By Unbelievers Only**
+### Sins By Unbelievers Only ###
 
-• Resistance of the Holy Spirit: Acts 7:51. This is rejection of the
+* Resistance of the Holy Spirit: Acts 7:51. This is rejection of the
 Lord Jesus Christ and a rejection of the pre-salvation ministry of the
 Holy Spirit (John 16:7-11) through the sin of unbelief
 
-• Blasphemy of the Holy Spirit: Matt. 12:31, 32. This refers to
+* Blasphemy of the Holy Spirit: Matt. 12:31, 32. This refers to
 rejection of Jesus Christ during His ministry on earth (during the
 previous dispensation, the Age of the Jews).
 
-**Sins by Believers**
+### Sins by Believers ###
 
-• Lying to the Holy Spirit: Acts 5:3. This refers to false motivation,
+* Lying to the Holy Spirit: Acts 5:3. This refers to false motivation,
 approval of the lust sin.
 
-• Grieving the Holy Spirit: Eph. 4:30. Refers to producing sins from the
+* Grieving the Holy Spirit: Eph. 4:30. Refers to producing sins from the
 area of weakness in the sin nature. Any sin in the life of the believer
 which involves a moral or ethical issue.
 
-• Quenching the Holy Spirit: 1 Thess. 5:19. Producing human good from
+* Quenching the Holy Spirit: 1 Thess. 5:19. Producing human good from
 the areas of strength in the sin nature. Examples: giving, prayer,
 witnessing for the purpose of gaining approval. Human good soothes the
 conscience and keeps the believer from confessing his sin.
