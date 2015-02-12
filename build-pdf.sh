@@ -3,5 +3,5 @@
 for topic in contents/topics/*.md
 do
   echo "Processing $topic..."
-  pandoc $topic -o ${topic%.md}.pdf
+  pandoc --data-dir=./pandoc $topic -o ./build/topics/$(basename $topic | sed 's/\.md$/.pdf/')
 done

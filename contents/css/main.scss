@@ -309,7 +309,23 @@ article.listing {
 
 .article .content img {
   display: block;
-  width: 100%;
+  max-width: 100%;
+}
+
+figure {
+  margin: 1em;
+  float: right;
+  padding: 1em;
+  border: 1px solid #ccc;
+  background: #eee;
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  figcaption {
+    font-size: 90%;
+    margin: 0.5em 1em;
+  }
 }
 
 .more, .date {
