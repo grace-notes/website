@@ -1,0 +1,22 @@
+extends layout
+
+block append vars
+  if page.metadata.tableOfContents
+    - bodyclass = 'article-detail table-of-contents'
+  else
+    - bodyclass = 'article-detail'
+
+block prepend title
+  | #{ page.title + " - "}
+
+block header
+  h1= page.title
+  if page.metadata.subtitle
+    div.subtitle= page.metadata.subtitle
+  if page.metadata.author
+    div.author= page.metadata.author
+
+
+block content
+  article.article
+    section.content!= typogr(page.html).chain().widont().smartypants().value()
