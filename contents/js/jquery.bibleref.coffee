@@ -76,7 +76,7 @@ normalizeRef = (t)->
   return t
 
 allBooks = '(' + ("\\b"+pattern for book, pattern of patterns).join('|') + ')'
-allBooksRegEx = RegExp('('+allBooks+'\\b\\.?(&nbsp;|\\s)*([a-cf0-9:—–-]|,\\s?|&nbsp;)*(;((\\s|&nbsp;)?[0-9]*:([0-9—–-]|,\\s?)*))*)\\b(?![^<]*</a>)', 'gi')
+allBooksRegEx = RegExp('('+allBooks+'\\b\\.?(&nbsp;|\\s)*[0-9.]([a-cf0-9:—–-]|,\\s?|&nbsp;)*(;((\\s|&nbsp;)?[0-9]*:([0-9—–-]|,\\s?)*))*)\\b(?![^<]*</a>)', 'gi')
 
 replacement = (match, p1, p2, p3)->
   stdname = normalizeRef(match)
