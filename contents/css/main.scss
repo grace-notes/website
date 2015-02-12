@@ -313,17 +313,19 @@ article.listing {
 }
 
 figure {
-  margin: 1em;
+  margin: 0.5em 1.5em;
   float: right;
   padding: 1em;
   border: 1px solid #ccc;
   background: #eee;
+  max-width: 50%;
   img {
     display: block;
     margin: 0 auto;
   }
   figcaption {
-    font-size: 90%;
+    font-size: 85%;
+    font-style: italic;
     margin: 0.5em 1em;
   }
 }
