@@ -30,7 +30,9 @@ a:hover {
 
 p, li, blockquote {
   margin-bottom: 1.52em;
-  text-align: justify;
+  @media (min-width: 600px) {
+    text-align: justify;
+  }
 }
 
 pre {
@@ -313,12 +315,16 @@ article.listing {
 }
 
 figure {
-  margin: 0.5em 1.5em;
-  float: right;
-  padding: 1em;
+  margin: 1.5em;
   border: 1px solid #ccc;
   background: #eee;
-  max-width: 50%;
+  box-shadow: 1px 1px 7px #999;
+  border-radius: 4px;
+  overflow: hidden;
+  @media (min-width: 600px) {
+    max-width: 50%;
+    float: right;
+  }
   img {
     display: block;
     margin: 0 auto;
@@ -326,7 +332,7 @@ figure {
   figcaption {
     font-size: 85%;
     font-style: italic;
-    margin: 0.5em 1em;
+    padding: 0.5em 1em;
   }
 }
 
