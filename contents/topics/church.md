@@ -1,14 +1,9 @@
 ---
-title: "Church, the Body of Christ"
+title: "The Church, the Body of Christ"
 pdf: "church.pdf"
 description: "Many people think of church in terms of brick and mortar, program and form. But in these passages you will learn that the Church is a spiritual organism, dear to the heart of God the Father."
 template: topic.jade
 ---
-
-
-**The Church 3**
-
-**The Church**
 
 This article is compiled from the teachings of Chester McCalley, late
 pastor of Beth Haven Church in North Kansas City, Missouri.
@@ -26,7 +21,7 @@ spiritual organism, dear to the heart of God the Father.
 Jesus’ Use of the Word “Church”
 -------------------------------
 
-**Matthew 16:16-18**<sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
+**Matthew 16:16-18** <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
 
 Simon Peter answered, “You are the Christ, the Son of the living God.”
 
