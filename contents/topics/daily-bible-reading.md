@@ -2,6 +2,7 @@
 title: "Daily Bible Reading (2012)"
 pdf: "dailybiblereading.pdf"
 description: "A daily Bible reading listing for the year 2012."
+singleColumnPdf: true
 ---
 
 This is a daily Bible reading listing for the year 2012. With this

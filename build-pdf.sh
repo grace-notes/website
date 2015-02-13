@@ -1,7 +1,11 @@
 #!/bin/bash
 
-for topic in contents/topics/*.md
+cd contents/topics
+for TOPIC in *.md
 do
-  echo "Processing $topic..."
-  pandoc --data-dir=./pandoc $topic -o ./build/topics/$(basename $topic | sed 's/\.md$/.pdf/')
+  PDF="../../build/topics/$(basename $TOPIC | sed 's/\.md$/.pdf/')"
+  if [ ! -f $PDF ]; then
+    echo "Created pdf from $TOPIC..."
+    pandoc -s $TOPIC --latex-engine=xelatex -o $PDF
+  fi
 done

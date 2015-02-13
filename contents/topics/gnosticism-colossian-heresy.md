@@ -296,17 +296,12 @@ Pythagoreanism.
 [^1]: This article is taken largely from Bishop J. B.
       Lightfoot, *Epistle to the Colossians.*
 
-[^2]: **Bibliography of the section on the Essenes.**
-
-      Josephus, Antiquities, xviii,1,5; Wars, II,8,2
-
-      Schuerer, Jewish People, Vol. II
-
-      Edersheim, Life and Times of the Jesus the Messiah,
-
-      Brownlee, W.H., “A Comparison of the Covenanters of the Dead Sea
+[^2]: **Bibliography of the section on the Essenes.**  
+      Josephus, Antiquities, xviii,1,5; Wars, II,8,2  
+      Schuerer, Jewish People, Vol. II  
+      Edersheim, Life and Times of the Jesus the Messiah   
+      Brownlee, W.H., “A Comparison of the Covenanters of the Dead Sea  
       Scrolls with Pre-Christian Jewish Sects”, in The Biblical
-      Archaeologist, Vol.  XIII, Sept. 1950, pp. 50-72.
-
-      Unger, Merrill F., Unger’s Bible Handbook
+      Archaeologist, Vol.  XIII, Sept. 1950, pp. 50-72.  
+      Unger, Merrill F., Unger’s Bible Handbook  
 

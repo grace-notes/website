@@ -3,12 +3,13 @@ title: "Origins of the English Language"
 pdf: "english.pdf"
 description: "from \"The Origins of the English Language: A Social and Linguistic History\", by Joseph M. Williams."
 template: topic.jade
+singleColumnPdf: true
 ---
 
 from “The Origins of the English Language: A Social and Linguistic
 History”, by Joseph M. Williams.
 
-The Indo-European Family of Languages
+## The Indo-European Family of Languages
 
 Our English vocabulary is not something to be studied in isolation but
 is related in one way or another to many of the other languages of the
@@ -24,34 +25,11 @@ additional examples. Perhaps we can see this similarity best if we place
 side by side in systematic form the words for *mother*, *father*, and
 *brother*, as they appear in various tongues.
 
-<table>
-<tbody>
-<tr class="odd">
-<td align="left"><p><strong>English</strong></p></td>
-<td align="left"><p><strong>German</strong></p></td>
-<td align="left"><p><strong>Dutch</strong></p></td>
-<td align="left"><p><strong>Danish</strong></p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>mother</p></td>
-<td align="left"><p>Mutter</p></td>
-<td align="left"><p>moeder</p></td>
-<td align="left"><p>moder</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>father</p></td>
-<td align="left"><p>Vater</p></td>
-<td align="left"><p>vader</p></td>
-<td align="left"><p>fader</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>brother</p></td>
-<td align="left"><p>Bruder</p></td>
-<td align="left"><p>broeder</p></td>
-<td align="left"><p>broder</p></td>
-</tr>
-</tbody>
-</table>
+English  German  Dutch    Danish
+-------  ------  ------   ------
+mother   Mutter  moeder   moder
+father   Vater   vader    fader
+brother  Bruder  broeder  broder
 
 While the spelling of these words makes their similarities obvious, we
 would be even more struck by the likeness if we heard them pronounced.
@@ -69,38 +47,16 @@ for languages to borrow such simple, fundamental words.
 If we extend the table to cover a wider area, we shall find the same
 similarity, though not to so great a degree.
 
-<table>
-<tbody>
-<tr class="odd">
-<td align="left"><p><strong>Spanish</strong></p></td>
-<td align="left"><p><strong>French</strong></p></td>
-<td align="left"><p><strong>Latin</strong></p></td>
-<td align="left"><p><strong>Greek</strong></p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>madre</p></td>
-<td align="left"><p>mère</p></td>
-<td align="left"><p>mater</p></td>
-<td align="left"><p>meter</p></td>
-</tr>
-<tr class="odd">
-<td align="left"><p>padre</p></td>
-<td align="left"><p>père</p></td>
-<td align="left"><p>pater</p></td>
-<td align="left"><p>pater</p></td>
-</tr>
-<tr class="even">
-<td align="left"><p>*</p></td>
-<td align="left"><p>frère</p></td>
-<td align="left"><p>frater</p></td>
-<td align="left"><p>*(phrater)</p></td>
-</tr>
-</tbody>
-</table>
+Spanish French Latin   Greek
+------- ------ -----   -----
+madre   mère   mater   meter
+padre   père   pater   pater
+*       frère  frater  *(phrater)
 
-\* There are some gaps and irregularities in this pattern; the Spanish
-for brother is *hermano*, related to English *germane*, while the Greek
-*phrater* means “member of a clan” (originally, “of a brotherhood”).
+ * There are some gaps and irregularities in this pattern; the
+Spanish for brother is *hermano*, related to English *germane*, while
+the Greek *phrater* means “member of a clan” (originally, “of a
+brotherhood”).
 
 We have said that the similarities between these languages was not to be
 explained in terms of borrowing. The cause of their resemblance lies
@@ -144,7 +100,7 @@ to the Eastern or *Satem* subfamily. (This classification is made on the
 basis of the word for “hundred” in the various languages, whether it
 more nearly approximates the Latin *centum* or the Zend *satem*.)
 
-Teutonic
+### Teutonic
 
 We should perhaps consider the Teutonic branch first, for to it belongs
 English. The primitive Teutonic, which antedates the earliest written
@@ -158,7 +114,7 @@ spoken today in the Scandinavian countries, Denmark, Norway, Sweden, and
 Iceland. West Teutonic is represented principally by modern German,
 Dutch, Flemish, and English.
 
-Italic
+### Italic
 
 When Rome was only a small village of rude huts on the banks of the
 Tiber, there were several Italic languages having equal status with
@@ -172,14 +128,14 @@ well as Italian, are classed as Romance languages. Far to the east,
 Romanian is likewise a descendant of the language of Roman colonists and
 soldiers.
 
-Hellenic
+### Hellenic
 
 The Hellenic branch of the Indo-European family is today represented by
 modern Greek, which is the descendant of the classical Greek of Plato
 and Aristotle and the common Greek dialect of the eastern Mediterranean
 area in which the New Testament was written.
 
-Celtic
+### Celtic
 
 More than two thousand years ago the Celtic languages were spoken
 throughout a wide area of western Europe, generally comprising Gaul
@@ -190,7 +146,7 @@ replaced the Celtic speech in Britain. In sections of the British Isles
 which were difficult for the invaders to reach, however, Celtic
 languages still exist, notably in Ireland and Wales.
 
-Balto-Slavic
+### Balto-Slavic
 
 The Slavic languages are spoken in Russia, on the Balkan Peninsula in
 Bulgaria and Yugoslavia, and in Poland and Czechoslovakia.
@@ -200,7 +156,7 @@ Lithuanian and Latvian (or Lettish), the languages of two of the Baltic
 States forcibly absorbed by the Soviet Union and 1940, subsequently
 becoming independent nations with the breakup of the USSR.
 
-Indo-Iranian
+### Indo-Iranian
 
 The oldest literary works in any Indo-European language are written in
 an Indian language, Sanskrit. As early as 1500 BC a number of very
@@ -224,13 +180,13 @@ many Arabic elements, but it is nevertheless considered Indo-European.
 Between India and Iran is the small nation of Afghanistan, where
 likewise an Iranian language is spoken.
 
-Armenian
+### Armenian
 
 Modern Armenian, the sole member of this group, is a language native to
 a small area east of the Black Sea, partly in Turkey and partly in
 Russia.
 
-Albanian
+### Albanian
 
 The only surviving representative of the Albanian branch is Modern
 Albanian, spoken in a small nation just north of Greece.
@@ -272,7 +228,7 @@ established. Thus, while English and Greek can be traced back to a
 common ancestor, and are cognate languages, this is not true of, say,
 English and Hebrew, or Chinese and Turkish.
 
-The Background of English Vocabulary
+## The Background of English Vocabulary
 
 Descent from a common ancestor is not the only type of relationship
 between languages. A relationship which is more obvious and which has
@@ -324,7 +280,7 @@ arrived in England, the Anglo-Saxons already had borrowed such words as
 in modern English. Likewise, for example, came the words *ciese*
 (cheese), *win* (wine), *cuppe*(cup), and *pund* (pound).
 
-Old English Period (450 to 1150)
+## Old English Period (450 to 1150)
 
 One the Anglo-Saxons were in Britain, contact with the earlier
 inhabitants brought some Celtic words, mostly place names like *Kent*
@@ -340,7 +296,7 @@ be dislodged, but continued to live side by side with the Anglo-Saxons.
 The Danes were eventually assimilated, and their language has likewise
 left its mark upon English.
 
-Middle English Period (1150 to 1500)
+## Middle English Period (1150 to 1500)
 
 The greatest event in the shaping of the English language, however, was
 the Norman Conquest. in 1066, William of Normandy defeated King Harold
@@ -388,7 +344,7 @@ development in the writings of Geoffrey Chaucer. Notable also during the
 14<sup>th</sup> century in England was the translation of the Bible into
 English by John Wycliffe.
 
-Modern English Period (1500 to present)
+## Modern English Period (1500 to present)
 
 By 1500, a new force had begun to exert itself on the English language,
 this time the result of an intellectual movement rather than of a

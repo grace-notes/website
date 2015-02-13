@@ -5,26 +5,22 @@ description: "the location of much of Paul's travels; occupied by Gauls from Eur
 template: topic.jade
 ---
 
-
-Galatia
-=======
-
-From [Galatia,](http://en.wikipedia.org/wiki/Galatia) an article in
-Wikipedia.
+*From [Galatia](http://en.wikipedia.org/wiki/Galatia), an article in
+Wikipedia.*
 
 Ancient Galatia was an area in the highlands of central Anatolia in
 modern Turkey. Galatia was named for the immigrant Gauls from Thrace
 (cf. Tylis), who settled here and became its ruling caste in the 3rd
 century BC, following the Gallic invasion of the Balkans in 279 BC. It
 has been called the “Gallia” of the East, Roman writers calling its
-inhabitants “Galli” (“Gauls”). [<sup>1</sup>](#sdfootnote1sym)
+inhabitants “Galli” (“Gauls”). [^1]
 
 Galatia was bounded on the north by Bithynia and Paphlagonia, on the
 east by Pontus and Cappadocia, on the south by Cilicia and Lycaonia, and
 on the west by Phrygia. Its capital was Ancyra (i.e. Ankara, today the
 capital of modern Turkey ).
 
-**From W. J. Conybeare and J. S. Howson,*****The Life and Epistles of
+**From W. J. Conybeare and J. S. Howson,** ***The Life and Epistles of
 St. Paul.***
 
 We now come to a political division of Asia Minor, which demands a more
@@ -55,7 +51,7 @@ For the” Galatia” of the New Testament was really the \`Gaul” of the
 East. The \`Epistle to the Galatians” would more literally and more
 correctly be called the \`Epistle to the Gauls.” When Livy, in his
 account of the Roman campaigns in Galatia, speaks of its inhabitants, he
-always calls them \`Gauls.” [<sup>2</sup>](#sdfootnote2sym) When the
+always calls them \`Gauls.” [^2] When the
 Greek historians speak of the inhabitants of ancient France, the word
 they use is \`Galatians. The two terms are merely the Greek and Latin
 forms of the same appellation.
@@ -96,7 +92,7 @@ the whole peninsula among their three tribes. They levied tribute on
 cities, and even on kings. The wars of the East found them various
 occupation. They hired themselves out as mercenary soldiers. They were
 the royal guards of the kings of Syria, and the mamelukes of the
-Ptolemies in Egypt. [<sup>3</sup>](#sdfootnote3sym)
+Ptolemies in Egypt. [^3]
 
 The surrounding monarchs gradually curtailed their power, and repressed
 them within narrower limits. First Antiochus Soter drove the Tectosages,
@@ -146,7 +142,7 @@ Minor. These circumstances are closely connected with the spread of the
 Gospel, and we shall return to them again when we describe St. Paul’s
 first reception in Galatia.
 
-### Churches of Galatia
+## Churches of Galatia
 
 The remarks which have been made on Phrygia, must be repeated, with some
 modification, concerning Galatia. It is true that Galatia was a province
@@ -231,7 +227,7 @@ with the spirit of St. Paul, than John Chrysostom and Henry Martyn, And
 when we read how these two saints suffered in their last hours from
 fatigue, pain, rudeness, and cruelty, among the mountains of Asia Minor
 which surround the place where they rest,
-[<sup>4</sup>](#sdfootnote4sym) we can well enter into the meaning of
+[^4] we can well enter into the meaning of
 St. Paul’s expressions of gratitude to those who received him kindly in
 the hour of his weakness.
 
@@ -244,11 +240,10 @@ Gospel had been received in the first place with the same affection
 which they extended to the Apostle himself. And the subject, the manner,
 and the results of his preaching are not obscurely indicated in the
 Epistle itself. The great topic there, as at Corinth and everywhere, was
-\`the cross of Christ” Christ crucified” set forth among them.
-[<sup>5</sup>](#sdfootnote5sym) The Divine evidence of the Spirit
-followed the word, spoken by the mouth of the Apostle, and received by
-\`the hearing of the ear.” Many were converted, both Greeks and Jews,
-men and women, free men and slaves.
+"the cross of Christ, Christ crucified” set forth among them.[^5] The
+Divine evidence of the Spirit followed the word, spoken by the mouth of
+the Apostle, and received by "the hearing of the ear.” Many were
+converted, both Greeks and Jews, men and women, free men and slaves.
 
 The worship of false divinities, whether connected with the old
 superstition at Pessinus, or the Roman idolatry at Ancyra, was forsaken
@@ -256,20 +251,16 @@ for that of the true and living God. And before St. Paul left the region
 of Galatia on his onward progress, various Christian communities were
 added to those of Cilicia, Lycaonia, and Phrygia.
 
-[1](#sdfootnote1anc)<sup>****</sup> from Wikipedia article *Galatia*.
+[^1]: from Wikipedia article *Galatia*.
 
-[2](#sdfootnote2anc)<sup>****</sup> The country of the Galatians was
-sometimes called Gallogrecia.
+[^2]: The country of the Galatians was sometimes called Gallogrecia.
 
-[3](#sdfootnote3anc)<sup>****</sup> Even in the time of Julius Caesar,
-we find four hundred Gauls (Galatians), who had previously been part of
-Cleopatra’s bodyguard, given for the same purpose to Herod. Josephus,
-*War,*xx.3.
+[^3]: Even in the time of Julius Caesar, we find four hundred Gauls
+(Galatians), who had previously been part of Cleopatra’s bodyguard,
+given for the same purpose to Herod. Josephus, *War,*xx.3.
 
-[4](#sdfootnote4anc)<sup>****</sup> It is remarkable that Chrysostom
-and Martyn are buried in the same place. They both died on a journey at
-Tocat or Comana in Pontus.
+[^4]: It is remarkable that Chrysostom and Martyn are buried in the same
+place. They both died on a journey at Tocat or Comana in Pontus.
 
-[5](#sdfootnote5anc)<sup>****</sup> Compare Gal. 3:1 with 1 Cor.
-1:13,17 and 2:2
+[^5]: Compare Gal. 3:1 with 1 Cor. 1:13,17 and 2:2
 

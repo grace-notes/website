@@ -111,7 +111,7 @@ Shaul the son of a Canaanite woman (Gen. 46:10).
 
 ## Levi ##
 
-![](img/twelve-trives/levi.png)
+![](img/twelve-tribes/levi.png)
 
 1. The third son of Jacob by his wife Leah (Gen 29:34).
 

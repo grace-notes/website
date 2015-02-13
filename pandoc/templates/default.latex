@@ -7,6 +7,9 @@ $endif$
 \usepackage{fancyhdr}
 \usepackage{multicol}
 \setlength{\columnsep}{0.4in}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
 $if(linestretch)$
 \usepackage{setspace}
 \setstretch{$linestretch$}

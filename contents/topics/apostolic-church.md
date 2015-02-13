@@ -6,15 +6,10 @@ description: "The beginnings of the Church in the times of the Apostles."
 template: topic.jade
 ---
 
-
-**The Apostolic Church 4**
-
-**The Apostolic Church**
-
 from *The Life and Epistles of St. Paul*  
 by W. J. Conybeare and J. S. Howson
 
-**First Aspect of the Church**
+## First Aspect of the Church
 
 Supposing him to be thus employed, we will describe in a few words the
 first beginnings of the Apostolic Church, and the appearance presented
@@ -60,9 +55,8 @@ might undermine the livelihood of some who depended on their trade for
 support, and this would make almsgiving necessary. But the Jews of
 Palestine were relatively poor compared with those of the dispersion. We
 see this exemplified on later occasions in the contributions which St.
-Paul more than once anxiously promoted.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> And in the very first
-days of the Church, we find its wealthier members placing their entire
+Paul more than once anxiously promoted.[^1] And in the very first days
+of the Church, we find its wealthier members placing their entire
 possessions at the disposal of the Apostles. Not that there was any
 abolition of the rights of property, as the words of St. Peter to
 Ananias very well show (Acts 5:4). But those who were rich gave up what
@@ -85,18 +79,17 @@ will wonder that it broke out again even among those who had become
 obedient to the doctrine of Christ.
 
 That the widows’ fund might be carefully distributed, seven almoners, or
-deacons, <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> were appointed,
-of whom the most eminent was St. Stephen, described as a man “full of
-faith, and of the Holy Spirit,” and as one who, “full of faith and power
-did great wonders and miracles among the people.” It will be observed
-that these seven men have Greek names, and that one was a proselyte from
-the Greco-Syrian city of Antioch. It was natural, from the peculiar
-character of the quarrel, that Hellenistic Jews should have been
-appointed to this office. And this circumstance must be looked on as
-divinely arranged. For the introduction of that party which was most
-free from local and national prejudices into the very ministry of the
-Church must have had an important influence in preparing the way for the
-admission of the Gentiles.
+deacons[^2], were appointed, of whom the most eminent was St. Stephen,
+described as a man “full of faith, and of the Holy Spirit,” and as one
+who, “full of faith and power did great wonders and miracles among the
+people.” It will be observed that these seven men have Greek names, and
+that one was a proselyte from the Greco-Syrian city of Antioch. It was
+natural, from the peculiar character of the quarrel, that Hellenistic
+Jews should have been appointed to this office. And this circumstance
+must be looked on as divinely arranged. For the introduction of that
+party which was most free from local and national prejudices into the
+very ministry of the Church must have had an important influence in
+preparing the way for the admission of the Gentiles.
 
 Looking back from our point of view upon the community at Jerusalem, we
 see in it the beginning of that great society, the Church, which has
@@ -111,18 +104,17 @@ now added the Nazarene Synagogue, or the Synagogue of the Galileans.
 
 Not that any separate building was erected for the devotions of the
 Christians, for they met from house to house for prayer and the breaking
-of bread. But they were by no means separated from the nation:
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> they attended the
-festivals; they worshipped in the Temple. They were a new and singular
-party in the nation, holding peculiar opinions and interpreting the
-Scriptures in a peculiar way. This is the aspect under which the Church
-would first present itself to the Jews, and among others to Saul
-himself. Many different opinions were expressed in the synagogues
-concerning the nature and office of the Messiah. These Galileans would
-be distinguished as holding the strange opinion that the true Messiah
-was that notorious “malefactor” who had been crucified at the last
-Passover. All parties in the nation united to oppose, and if possible to
-crush, the monstrous heresy.
+of bread. But they were by no means separated from the nation:[^3] they
+attended the festivals; they worshipped in the Temple. They were a new
+and singular party in the nation, holding peculiar opinions and
+interpreting the Scriptures in a peculiar way. This is the aspect under
+which the Church would first present itself to the Jews, and among
+others to Saul himself. Many different opinions were expressed in the
+synagogues concerning the nature and office of the Messiah. These
+Galileans would be distinguished as holding the strange opinion that the
+true Messiah was that notorious “malefactor” who had been crucified at
+the last Passover. All parties in the nation united to oppose, and if
+possible to crush, the monstrous heresy.
 
 The first attempts to put down the new faith came from the Sadducees.
 The high priest and his immediate adherents (Acts 4:1; 5:17) belonged to
@@ -194,7 +186,7 @@ the Temple only or in any one sacred spot, but everywhere throughout the
 earth, “in spirit and in truth,” and for this doctrine he was doomed to
 die.
 
-**Wider Diffusion of Christianity**
+## Wider Diffusion of Christianity
 
 Hitherto the history of the Christian church has been confined within
 Jewish families. We have followed its progress beyond the wall of
@@ -223,10 +215,9 @@ the remainder of the Acts of the Apostles our attention is at least
 divided between Jerusalem and Antioch, until at last, after following
 St. Paul’s many journeys, we come with him to Rome. For some time
 Constantinople must remain a city of the future, but we are more than
-once reminded of the greatness of Alexandria:
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> and thus even in the life
-of the Apostle we find prophetic intimations of four of the five great
-centers of the early Catholic Church.
+once reminded of the greatness of Alexandria[^4]: and thus even in the
+life of the Apostle we find prophetic intimations of four of the five
+great centers of the early Catholic Church.
 
 At present we are occupied with Antioch, and the point before us is that
 particular moment in the church’s history when it was first called
@@ -240,3 +231,19 @@ the general history of the period. A few such remarks, made once for
 all, may justify what has gone before, and prepare the way for
 subsequent chapters.
 
+[^1]: Acts 19:29,30; Rom. 15:25,26, cf. Acts 24:17; 1 Cor. 16:1-4; 2
+Cor. 8:1-4. 
+
+[^2]: The general question of the Diaconate in the primitive Church is
+considered in chapter 13.
+
+[^3]: “The worship of the Temple and the synagogue still went side by
+side with the prayers and the breaking of bread from house to house …
+The Jewish family life was the highest expression of Christian unity …
+The fulfillment of the ancient law was the aspect of Christianity to
+which the attention of the Church was most directed.” Prof. Stanley’s
+Sermon on St. Peter, p. 92; see James 2:2, where the word “synagogue” is
+applied to Christian assemblies. 
+
+[^^4]: See Acts 6:9 (with 2:10), 27:6; 28:11; and compare Acts 18:24;
+19:1, with 1 Cor. 1:12; 3:4-6; Tit. 3:13. 

@@ -5,11 +5,8 @@ description: "All jurisdiction was either civil, criminal, or ecclesiastical, ac
 template: topic.jade
 ---
 
-
-<sup>**Jewish\\ Law\\ in\\ the\\ 1st**</sup>**Century**
-
-Jewish Law [<sup>1</sup>](#sdfootnote1sym)
-------------------------------------------
+Jewish Law [^1]
+---------------
 
 Following the analogy of the law of Scotland, we may arrange the code of
 the Hebrews into Statutory or Written (meaning by this the law of Moses)
@@ -682,7 +679,7 @@ Noachic Commandments, the jubilee, the cities of refuge, the king, and
 the penalty of death. When Judea became a Roman province, the power of
 life and death was taken away from the Jewish courts.
 
-[1](#sdfootnote1anc)<sup>****</sup> extracted from Edersheim, Alfred,
-*History of the Jewish Nation after the Destruction of Jerusalem under
-Titu*s, Chapter 10, *Progress of Arts and Sciences among the Hebrews.*
+[^1]: extracted from Edersheim, Alfred, *History of the Jewish Nation
+after the Destruction of Jerusalem under Titu*s, Chapter 10, *Progress
+of Arts and Sciences among the Hebrews.*
 

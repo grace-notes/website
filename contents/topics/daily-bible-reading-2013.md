@@ -2,6 +2,7 @@
 title: "Daily Bible Reading (2013)"
 description: "A daily Bible reading listing for the year 2013."
 template: topic.jade
+singleColumnPdf: true
 ---
 
 This is a daily Bible reading listing for the year 2013. With this
