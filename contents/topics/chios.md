@@ -1,15 +1,9 @@
 ---
-title: "Chios -"
+title: "Chios"
 pdf: "chios.pdf"
 description: "mentioned on Paul’s third missionary journey. Chios was especially noted in antiquity for its claim to be the birthplace of Homer, for its school of epic poets, and its sculptors."
 template: topic.jade
 ---
-
-
-**Chios 2**
-
-Chios
-=====
 
 Chios is shaped like a bow aimed at the Asia minor coast and stretches
 32 mi (51 km) North and South and 8–18 mi (13–29 km) East and West.
