@@ -11,13 +11,13 @@ family, with all the blessings and privileges of that position. The
 following are some of the Bible’s statements regarding our former and
 present citizenship.
 
-(@) **We were aliens to the kingdom of God.**
+**We were aliens to the kingdom of God.**
 
 > **Eph. 2:12,** “remember that you were at that time separate from
 > Christ, excluded from the commonwealth of Israel, and strangers to the
 > covenants of promise, having no hope and without God in the world.”
 
-(@) **We were citizens of the domain of darkness also known as being in
+**We were citizens of the domain of darkness also known as being in
 Adam. We walked in darkness.**
 
 > **Col. 1:13,** “For He delivered us from the domain of darkness, and
@@ -53,7 +53,7 @@ Adam. We walked in darkness.**
 At salvation, we became citizens of God’s kingdom. Our behavior should
 be different from that of citizens of darkness.
 
-(@) **The mechanics of the transfer of citizenship is the baptism of the
+**The mechanics of the transfer of citizenship is the baptism of the
 Holy Spirit resulting in union with Christ.**
 
 > **Col. 3:1-3,** “If then you have been raised up with Christ, keep
@@ -96,13 +96,13 @@ a hostile foreign country!
 > 
 > "Sanctify them in the truth; Thy word is truth.**”**
 
-(@) **We are aliens in the domain of darkness, strangers just passing
+**We are aliens in the domain of darkness, strangers just passing
 through.**
 
 > **1 Pet. 2:11,** “Beloved, I urge you as aliens and strangers to abstain
 > from fleshly lusts, which wage war against the soul.”
 
-(@) **A Christian is not to love the things of this world. A believer can
+**A Christian is not to love the things of this world. A believer can
 enjoy the creation while not loving Satan’s domain.**
 
 > **1 John 2:15-17,** “Do not love the world, nor the things in the world.
