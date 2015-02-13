@@ -1,12 +1,8 @@
 ---
-title: Davidic Covenant
+title: The Covenant with David
+pdf: davidiccovenant.pdf
 template: topic.jade
 ---
-
-
-**Davidic Covenant 6**
-
-**The Covenant with David**<sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
 
 The Words of the Lord, conveyed through the prophet Nathan, to David as
 recorded in II Samuel 7:12ff., read, “When your days are over and you
@@ -332,8 +328,4 @@ finished!” The covenants are fulfilled, all of them. And what is left?
 Only the physical consummation. But the real Kingdom of God is now, for
 the Holy Spirit is now with us; Immanuel, “God with us,” is now with us
 through His Spirit.
-
-[1](#sdfootnote1anc) This dissertation on the Davidic Covenant is
-dependent upon the scholarship of Bishop Smith, R. B. Thieme, Jr., and
-I.M. Haldeman.
 
