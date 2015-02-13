@@ -5,11 +5,6 @@ description: "a review of the final battle."
 template: topic.jade
 ---
 
-
-**Armageddon 9**
-
-**Armageddon**
-
 The word armageddon is the Greek form of the Hebrew har megiddo, which
 means the hill or city of Megiddo, and is a hill which is at the
 southern end of the plain of Esdraelon also called Jezreel. This is the
@@ -41,7 +36,7 @@ each week refers to seven years which is a total of 490 years. The 490
 year time span began in 445 B.C. (Nehemiah 2:1, 5, 6). And 483 years
 later (sixty- nine of the seventy weeks are complete), our Lord rode
 into Jerusalem and was hailed as the promised Son of David (Matthew
-21:8, 9). This was Palm Sunday. [1]
+21:8, 9). This was Palm Sunday. [^1]
 
 Thus, it can be seen that after the cross one week (the seventieth week
 of Daniel), or seven years, still remains to the Jews. Between week
@@ -62,7 +57,7 @@ Exacerbating the problems are two other factors:
 I Thessalonians 4:13-18.
 
 2. The removal of the restraining ministry of God the Holy Spirit, II
-Thessalonians 2:6, 7. [2]
+Thessalonians 2:6, 7. [^2]
 
 The seven years of the tribulation will be divided in half. The first
 half is a period of political maneuvers by four power seats, called the
@@ -73,7 +68,7 @@ Satan’s attempt to destroy Palestine, Jerusalem and the Jews. To
 accomplish this, he causes the four power seats to converge on
 Jerusalem.
 
-The Four Power Seats
+## The Four Power Seats
 
 Joel 1:6 introduced the prophecy of the king of the north. Daniel 11:40
 also refers to the king of the north, and calls this king of the north
@@ -117,7 +112,7 @@ Israel: Egypt, Assyria, Babylon, Persia, Greece, Rome and the future
 king of the west, the revived Roman Empire. And as the seventh head he
 is the beast or little horn found in Daniel 7:8, 24, where he gains
 control over three horns or nations of the ten horns or nations and thus
-comes to rule all ten nations and form the revived Roman Empire. [3]
+comes to rule all ten nations and form the revived Roman Empire. [^3]
 
 And Revelation 13:7 says that the beast will be given permission to
 persecute the saints and to kill them. And he will, according to
@@ -137,9 +132,9 @@ false Messianic claims which are king and prophet. This second beast or
 false prophet is empowered by Satan and deceives by miracles and directs
 the Jews to worship the first beast, the king of the west, according to
 Revelation 13:12-18. Again, this is why he is called the false prophet;
-and his is the number 666. [4]
+and his is the number 666. [^4]
 
-The Abomination of Desolation
+## The Abomination of Desolation
 
 At the beginning of the tribulation, the false prophet, the ruler of the
 Jews in Israel makes a pact with the king of the west (the beast out of
@@ -165,7 +160,7 @@ into the wilderness, into her place, where she is safe for a time (one
 year), and times (two years), and half a time (one-half a year), from
 the face of the serpent.”
 
-World War and the Battle of Armageddon
+## World War and the Battle of Armageddon
 
 Daniel 11:40, reads, “And at the time of the end shall the king of the
 south push (make war) at him (false prophet, the ruler of the Jews): and
@@ -179,7 +174,7 @@ Palestine. Simultaneously, the king of the north is moving through the
 Middle East on his way to engulf Africa. The king of the north has both
 land armies and navies at his command. The phrase overflow and pass
 through seems to indicate that the king of the north moves quickly and
-decisively through the area. [5]
+decisively through the area. [^5]
 
 Daniel 11:41 reads, “He (the king of the north) shall invade also into
 the Beautiful Land (middle east), and many countries (including Israel)
@@ -260,7 +255,7 @@ forth into captivity (unbelieving Jews), but the residue of the people
 (the believing remnant) will not be cut off from the city (they will be
 safe).”
 
-Remember, Jesus Christ controls history. [6] He allows this to happen.
+Remember, Jesus Christ controls history. [^6] He allows this to happen.
 
 Zechariah 12:5 and 6 say, “And the governors of Judah will say in their
 heart, the inhabitants of Jerusalem will be my strength in the Lord of
@@ -349,7 +344,7 @@ could escape, so will the Mount of Olives part. The Mount of Olives is
 the first place that His feet will touch the earth and it will part and
 the believers in Jerusalem during the tribulation that are fighting
 against overwhelming odds will escape in the valley created by the
-rending asunder of the mountain. [7]
+rending asunder of the mountain. [^7]
 
 Here is the return of the King of Kings and the Lord of Lords, the
 Ancient of Days, the stone cut without hands, David’s greater son, the
@@ -450,7 +445,7 @@ miles).” The blood runs five to six feet high for a distance of 180
 miles.
 
 Many flounder at this picture of our Lord. “And ask, in amazement,
-whether the author really believes it? We answer, Yes!” [8] For at the
+whether the author really believes it? We answer, Yes!” [^8] For at the
 first advent He came in humiliation to provide salvation; then, at the
 tribulation, however, He will come in glory. This is stated in Psalm
 45:3-6: “Gird your sword upon your side, O mighty one; clothe yourself
@@ -471,7 +466,7 @@ it takes seven months to bury all the bodies. Ezekiel 39:12 says, “For
 seven months the house of Israel will be burying them in order to
 cleanse the land.”
 
-Summary of Armageddon
+## Summary of Armageddon
 
 The day of the Lord or the day of Jehovah or the great day of God, then,
 occurs in the final days of the tribulation, which is the final seven
@@ -511,26 +506,24 @@ Finally, for the church age believer God has a plan (Ephesians 3:20). As
 we have just seen, He is faithful and true. He is faithful to His
 promises and true to fulfill His warnings of judgment.
 
-NOTES:
-
-[1] This exposition of ‘Daniel’s Seventieth Week’ is based on the
+[^1]: This exposition of ‘Daniel’s Seventieth Week’ is based on the
 scholarship of Pastor Robert Thieme, Jr., Clarence Larkin and E.W.
 Bullinger.
 
-[2] E. W. Bullinger  Commentary on Revelation
+[^2]: E. W. Bullinger  Commentary on Revelation
 
-[3] Pastor Robert Thieme, Jr.  Revelation; from notes
+[^3]: Pastor Robert Thieme, Jr.  Revelation; from notes
 
-[4] This exposition is extracted from the scholarship of E.W. Bullinger,
+[^4]: This exposition is extracted from the scholarship of E.W. Bullinger,
 Clarence Larkin, and Pastor Robert Thieme, Jr.  From notes, handwritten,
 undated
 
-[5] Pastor Robert Thieme, Jr..  Revelation; from notes taken in 1970’s,
+[^5]: Pastor Robert Thieme, Jr..  Revelation; from notes taken in 1970’s,
 undated.
 
-[6] Pastor Robert Thieme, Jr..
+[^6]: Pastor Robert Thieme, Jr..
 
-[7] Pastor Robert Thieme, Jr.  Revelation; from undated notes.
+[^7]: Pastor Robert Thieme, Jr.  Revelation; from undated notes.
 
-[8] E.W. Bullinger, Commentary on Revelation; page 597.
+[^8]: E.W. Bullinger, Commentary on Revelation; page 597.
 

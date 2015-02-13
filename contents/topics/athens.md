@@ -5,11 +5,6 @@ description: "one of the greatest cultural centers of Paul’s day, grew up arou
 template: topic.jade
 ---
 
-
-**Athens 2**
-
-**Athens**
-
 Various resources were used to compile this article, including the
 International Standard Bible Encyclopedia.
 

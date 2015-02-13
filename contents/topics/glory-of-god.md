@@ -6,10 +6,6 @@ template: topic.jade
 ---
 
 
-**Glory of God 5**
-
-**The Glory of God**
-
 The following is a selection of comments on the word “glory”, 
 (**doksos**), as used in the Bible.
 

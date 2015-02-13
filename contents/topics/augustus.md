@@ -5,11 +5,8 @@ description: "a brief biography of the Roman Emperor who sent out the decree at 
 template: topic.jade
 ---
 
-
-**Augustus**
-
-“**Now it came to pass in those days that a decree went out from Caesar
-Augustus, that a census be taken of all the inhabited earth.” Luke 2:1**
+> Now it came to pass in those days that a decree went out from Caesar
+Augustus, that a census be taken of all the inhabited earth. Luke 2:1
 
 After the assassination of Julius Caesar in 44 B.C., Mark Antony
 (Caesar’s chief lieutenant), Octavian (Caesar’s 18 year old nephew), and

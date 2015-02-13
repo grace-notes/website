@@ -6,9 +6,6 @@ description: "The Day of Atonement was the fourth of the five annual feasts of p
 template: topic.jade
 ---
 
-
-**The Day of Atonement**
-
 **From International Standard Bible Encyclopedia**
 
 The **Day of Atonement** was the fourth of the five annual feasts of

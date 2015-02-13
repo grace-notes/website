@@ -5,11 +5,6 @@ description: "Capsule history of the Assyrian Empire."
 template: topic.jade
 ---
 
-
-**Assyria 3**
-
-**Assyria**
-
 Assyria was a country located east of the Tigris River; the capital was
 Ashur also spelled as Assur, Asshur or Ashshur, from which the entire
 country derived its name. The Assyrian Empire encompassed a large mass
@@ -56,7 +51,7 @@ to exist.
 **The followingby R. B. Thieme, Jr., Pastor Emeritus, Berachah Church,
 Houston, Texas**
 
-**Historical Panorama of Assyria, Ezekiel 31:3-14**
+## Historical Panorama of Assyria, Ezekiel 31:3-14 ##
 
 The Assyrians prospered because of positive volition to Bible doctrine.
 They became great because they responded to Jonah’s doctrinal teaching.
@@ -95,7 +90,7 @@ doctrine, then the nation begins to go down in disaster. The Assyrians’
 prosperity caught up with them and they forgot the source of their
 blessing.
 
-**Warnings of the Fall of Assyria**
+## Warnings of the Fall of Assyria ##
 
 The warning to Assyria was given in capsule prophecies, Isaiah 33:1.
 
@@ -112,9 +107,9 @@ Nahum 1:1-3, 9. Nahum was a Jewish prophet taken prisoner by Assyria.
 The plundering of the destroyed nation is taught in Nahum 2:8-10. No
 military means no protection.
 
-**The Historical Account of the Fall of Nineveh**
+## The Historical Account of the Fall of Nineveh ##
 
-Background
+### Background
 
 In B.C. 626, Ashurbanipal died after ruling Assyria from 669-626 B.C. He
 was succeeded by his son Sinsariskun, the last Assyrian king, 626-612
@@ -137,7 +132,7 @@ In 612 B.C., Cyaxares met with the Scythian princes and persuaded them
 to double cross the Assyrians. The Scythians betrayed their alliance and
 this sealed the Assyrian’s doom.
 
-The Fall of Assyria
+### The Fall of Assyria
 
 The armies of all three nations assembled at Nineveh in June of 612 B.C.
 From the south came the Chaldeans, from the east came the Medes, and
@@ -153,7 +148,7 @@ the north ran in fear, Nahum 2:8.
 Sinsariskun burned everything he owned. One hard core group fought their
 way out of the city and fled to Harran.
 
-The Remnant of Assyria
+### The Remnant of Assyria
 
 In 610 B.C., the combined armies marched on Harran. The Assyrians who
 fought were not defeated, but Harran was plundered.
@@ -166,7 +161,7 @@ In 605 B.C., Neco fought the Chaldeans at Carchemish. This battle was
 one of the greatest in history. Neco was defeated by Nebuchadnezzar.
 This is when Nebuchadnezzar first saw Jerusalem.
 
-The Assyrians disappear from history.
+### The Assyrians disappear from history.
 
 The Medes took most of the prisoners. The Scythians took most of the
 plunder. Most of the Persian art was Assyrian. A remnant of Assyrians
@@ -176,7 +171,7 @@ Egyptian army.
 The sons of Sennacherib went to Armenia and were the source of Armenian
 nobility. Some live in southern Russia, Turkey and Iran today.
 
-The wealth and treasures of Assyria
+### The wealth and treasures of Assyria
 
 Two thousand years of wealth was divided between three nations without
 any argument. No treasury was greater than this one.
@@ -187,7 +182,7 @@ In 437 A.D., the vandals plundered Rome and took the greatest treasury
 in history back to Carthage. A storm sunk the treasure fleet in the
 Mediterranean.
 
-**The Biblical Account of the Fall of Nineveh**
+## The Biblical Account of the Fall of Nineveh ##
 
 Nahum 2:13 The elite infantry forces were destroyed.
 

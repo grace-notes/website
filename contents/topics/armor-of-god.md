@@ -2,15 +2,9 @@
 title: "Armor of God"
 pdf: "armorofgod.pdf"
 description: "An exposition of Eph. 6:10-17; a discussion of demon organization and tactics; history of Roman armor to explain vocabulary."
+subtitle: An Exposition of Ephesians 6:10-17
 template: topic.jade
 ---
-
-
-**Armor of God 8**
-
-**The Armor of God**
-
-**An Exposition of Ephesians 6:10-17**
 
 The apostle Paul had life long contact with the Roman army. He was a
 Roman citizen and very patriotic; and his admiration of the fighting
@@ -21,19 +15,19 @@ era. It served as police and frontier guard over all of Europe, the
 borders with Asia and North Africa. Paul had many dealings with Roman
 legionnaires.
 
-• A Roman soldier delivered Paul from the mob in Ephesus.
+* A Roman soldier delivered Paul from the mob in Ephesus.
 
-• Roman soldiers saved his life when the mob in Jerusalem wanted to kill
+* Roman soldiers saved his life when the mob in Jerusalem wanted to kill
 him in the temple area.
 
-• The Roman soldiers were able to deliver Paul out of Jerusalem from the
+* The Roman soldiers were able to deliver Paul out of Jerusalem from the
 hands of the religious leaders who wanted him dead and they brought him
 safely to Caesarea.
 
-• It was Roman soldiers who escorted Paul on the trip from Caesarea to
+* It was Roman soldiers who escorted Paul on the trip from Caesarea to
 Rome which is the voyage on which Paul suffered shipwreck.
 
-• Roman soldiers delivered Paul to the Roman garrison of the Praetorian
+* Roman soldiers delivered Paul to the Roman garrison of the Praetorian
 Guard for his imprisonment.
 
 The Praetorian Guard represents everything that is famous in Roman
@@ -68,30 +62,30 @@ This passage of Ephesians has as its background a large number of Roman
 military metaphors, as you might suppose. Military terminology is seen
 in a great deal of Paul writings; for example:
 
-• In Gal. 6:17, Paul talks about bearing in his body the mark of the
+* In Gal. 6:17, Paul talks about bearing in his body the mark of the
 Lord Jesus. In history, this mark was a brand placed on the back of the
 left hand of a Roman soldier who had finished basic training. It was a
 high honor and the sign of a man’s man.
 
-• Note the military terms in 2 Tim. 2:3,4. Paul wrote 2 Timothy during
+* Note the military terms in 2 Tim. 2:3,4. Paul wrote 2 Timothy during
 his second imprisonment.
 
-• Roman military drill is the background of the terminology in Gal.
+* Roman military drill is the background of the terminology in Gal.
 5:25; 1 Thess. 5:14; Col. 2:5.
 
-• 1 Cor. 15:20-23 describes the doctrine of the resurrection of
+* 1 Cor. 15:20-23 describes the doctrine of the resurrection of
 believers in terms of a military parade. There are two battalions of
 believers passing in review, first those who were dead, then those who
 are alive and remain.
 
-• In 1 Cor. 14:8, Paul described the military commands given by a
+* In 1 Cor. 14:8, Paul described the military commands given by a
 trumpet. The idea here is that those who speak in tongues cause
 confusion in the ranks.
 
-• In Gal. 1:6, Paul speaks of legalists as having gone absent without
+* In Gal. 1:6, Paul speaks of legalists as having gone absent without
 leave (AWOL) from the Gospel of Jesus Christ.
 
-• In Phil. 4:6,7, Paul refers to the mounting of the guard.
+* In Phil. 4:6,7, Paul refers to the mounting of the guard.
 
 Eph. 6:10-12 provides, in military terms, an estimate of the situation.
 Such an estimate is based on facts gathered and analyzed by
@@ -109,7 +103,7 @@ What are his weaknesses?
 
 What is the terrain like where the battle will be fought?
 
-**Ephesians 6:10**
+## Ephesians 6:10 ##
 
 *“As to the remaining teaching, receive great inner strength from the
 Lord and in the inner power of His endowed power.”*
@@ -149,7 +143,7 @@ power” or self-discipline.
 is the Lord Himself. See Acts 1:8. This takes us back to Eph. 5:18 and
 reminds us of the necessity of the Holy Spirit’s control.
 
-**Ephesians 6:11**
+## Ephesians 6:11 ##
 
 *“Put on all of your spiritual military equipment so that you may have
 the ability to stand in the ranks, face to face with the strategies of
@@ -204,7 +198,7 @@ equipment, provided by Grace, to fight against the forces of Satan.
 **against the wiles of the devil**… **methodeia**, face to face with the
 strategies of Satan.
 
-**Ephesians 6:12**
+## Ephesians 6:12 ##
 
 *“Because our combat is not face to face with human beings but, by
 contrast, is in confrontation with demon rulers, military commanders of
@@ -274,7 +268,7 @@ advancing in the Christian way of life.
 the heavenlies. This refers to the rank and file of demons which perform
 numerous functions.
 
-**Ephesians 6:13**
+## Ephesians 6:13 ##
 
 *“Because of this, continually take up the whole armor of God, that you
 may be able to take your position in combat, and when all is finished
@@ -345,7 +339,7 @@ Ephesians 6:12.
 
 **and having done all, to stand.**
 
-**Ephesians 6:14**
+## Ephesians 6:14 ##
 
 *“Stand, therefore, having about your waist the equipment belt of truth,
 and having put on the breastplate of divine righteousness;”*
@@ -414,7 +408,7 @@ righteousness is the basis for the edification of the Christian.
 
 Eph. 4:12,16,29
 
-**Ephesians 6:15**
+## Ephesians 6:15 ##
 
 *“Having shod your feet by means of full preparedness in the good news
 of God’s peace.”*
@@ -458,39 +452,39 @@ not have your shoes on your feet without this preparation.
 
 Notes on personal witnessing
 
-• Witnessing for Christ is the responsibility of every believer. Acts
+* Witnessing for Christ is the responsibility of every believer. Acts
 1:8; 1 Pet. 3:15; Mk. 5:18,19.
 
-• The effectiveness and clarity of the believer’s witnessing depends, in
+* The effectiveness and clarity of the believer’s witnessing depends, in
 large measure, on his understanding of the last judgment. Sins will not
 be the issue! The only reason that a person will stand at the last
 judgment is that he rejected Christ during his lifetime. John 3:18;
 3:36. All sins have been judged at the cross, and there is no double
 jeopardy.
 
-• The basis for the indictment of unbelievers is human good and not
+* The basis for the indictment of unbelievers is human good and not
 sins. The witnessing Christian must make the issue clear.
 
-• Witnessing is impossible apart from the filling of the Holy Spirit.
+* Witnessing is impossible apart from the filling of the Holy Spirit.
 John 16:8-11. The Holy Spirit must minister to the unbeliever to apply
 the doctrine of salvation.
 
-• The context for witnessing is that part of the word of God called the
+* The context for witnessing is that part of the word of God called the
 gospel. 1 Cor. 1:18; Eph. 6:17; Heb. 4:12.
 
-• The dynamics of witnessing depends on the believer’s mental attitude.
+* The dynamics of witnessing depends on the believer’s mental attitude.
 One cannot be an effective witness if he is ashamed of the gospel, if he
 does not have the capacity to be occupied with Christ, or if he is not
 oriented to grace.
 
-• In Rom. 1:14-16, the apostle Paul says I am debtor, I am ready, and I
+* In Rom. 1:14-16, the apostle Paul says I am debtor, I am ready, and I
 am not ashamed. A fisherman has a desire to fish. One is not a fisher of
 men without a desire to win souls.
 
-• There are two sources for a Christian’s witness: (1) the testimony of
+* There are two sources for a Christian’s witness: (1) the testimony of
 his life, 2 Cor. 3:3, and (2) the testimony of his lips, 2 Cor. 5:14-21.
 
-• There is a reward for witnessing. 1 Cor. 3:11-16; 2 Cor. 5:10. Rewards
+* There is a reward for witnessing. 1 Cor. 3:11-16; 2 Cor. 5:10. Rewards
 in heaven are an extension of edification; the only things that are
 rewarded in heaven is what is done on the basis of grace. Thus, every
 reward in heaven is an eternal memorial to the grace of God. Grace means
@@ -498,7 +492,7 @@ that rewards do not reflect any personal glory or merit. It is the Lord
 who enables us to labor for Him and who provides the divine production
 leading to the life rewards defined as gold, silver and precious stones.
 
-**Ephesians 6:16**
+## Ephesians 6:16 ##
 
 *“In addition to all this, having taken up the shield of the believer’s
 faith, wherewith ye shall be able to extinguish or cut off the fire
@@ -584,7 +578,7 @@ soldier to drop his shield and expose himself.”
 **of the wicked**… The phrase is literally, of the wicked one or the
 source of the fiery darts.
 
-**Ephesians 6:17**
+## Ephesians 6:17 ##
 
 *“And receive the helmet of salvation, and the sword provided by the
 Holy Spirit, which is the Word of God.”*

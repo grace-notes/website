@@ -6,9 +6,6 @@ description: "\"If training in arms ceases, there is no difference between a sol
 template: topic.jade
 ---
 
-
-**Using the Armor of God**
-
 Vegetius: **If training in arms ceases, there is no difference between a
 soldier and a civilian!** and ***No matter how many years he has served,
 an unexercised solder is a raw recruit!***
