@@ -5,8 +5,7 @@ description: "The most important city on the northern shore of the Sea of Galile
 template: topic.jade
 ---
 
-
-*From International Standard Bible Encyclopedia*
+from International Standard Bible Encyclopedia
 
 **Capernaum**kə-pûr̀nə-um [Gk *Kapernaoum*]. The most important city on
 the northern shore of the Sea of Galilee. It was here that Jesus
