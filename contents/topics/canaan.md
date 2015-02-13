@@ -74,6 +74,7 @@ the use of the term for Phoenicia in Hellenistic texts was archaic, a
 nostalgic revival.
 
 ***A. Extrabiblical Sources***
+
 A very early reference to the land of
 Canaan is found in an inscription of Idrimi king of Alalakh (15th cent).
 He reports that during a period of exile, assuming the throne, he had
@@ -135,6 +136,7 @@ south, the Mediterranean coast to the borders of Amurru in the north,
 and the inland area from Lebweh to Bashan.
 
 ***B. Biblical Sources***
+
 The biblical descriptions of the land of Canaan
 correspond to the Late Bronze Age usage in a way that can be explained
 only by the existence of a list of the principal boundary points. The
@@ -288,6 +290,7 @@ should not prejudice the question of when the culture known from the
 latest phase of this period was formed.
 
 ***A. Early Bronze Age***
+
 Since only in the Late Bronze period can the
 political history be written with any confidence, observations about the
 earlier periods must be limited to general and largely hypothetical
@@ -353,6 +356,7 @@ factors must have been at work, and migrations were as much the result
 of these destructions as the cause of them.
 
 ***B. Middle Bronze Age***
+
 The first part of the Middle Bronze Age (MB I,
 ca 2200–1950) is largely a continuation of the last part of the EB
 period (EB IV). The characteristics of this period are regionalism of
@@ -427,6 +431,7 @@ from the north, the other from the south, largely established the
 character of the subsequent centuries in Canaan.
 
 ***C. Late Bronze Age***(*ca 1550–1200*)
+
 The resurgence of Egyptian power began with the campaigns of Ahmose (ca 1570–1546), who, as part of
 his effort to rid Egypt of the hated Hyksos, ventured into Canaan.
 Considerable violence accompanied the change of orders and many cities
