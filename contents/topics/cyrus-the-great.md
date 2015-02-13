@@ -5,10 +5,7 @@ description: "Properly Cyrus II, the Great, founder of the Persian empire. He re
 template: topic.jade
 ---
 
-
-**Cyrus the Great**
-
-From International Standard Bible Encyclopedia
+_From International Standard Bible Encyclopedia_
 
 **Cyrus**sīʹrəs [Heb *kōreš*; Old Pers *Kuruš*]. Properly Cyrus II, the
 Great, founder of the Persian empire. He reigned from 559 to 530 b.c.,
@@ -16,7 +13,6 @@ and his empire flourished until its conquest by Alexander the Great (331
 b.c.).
 
 I. Birth and Family
-===================
 
 Cyrus was the son of Cambyses I, ruler of Anshan, a region in the
 uplands of eastern Elam and part of the lands of the Persian tribes.
@@ -67,7 +63,6 @@ Within a century or two after his death Cyrus had become a legendary
 figure.
 
 II. Early Conquests
-===================
 
 By his conquest of the Median empire (550 b.c.) Cyrus had in the first
 place welded Medes and Persians into a unified nation. Because Cyrus
@@ -123,7 +118,6 @@ structures of provincial government that were to serve his empire so
 well for many generations.
 
 III. Conquest of Babylon
-========================
 
 Babylon, the next goal for Cyrus’ ambitions, was ripe for change.
 Nabonidus, the last of the Neo-Babylonian kings, had absented himself
@@ -200,7 +194,6 @@ Akkad, king of the four rims (of the earth) … whose rule Bel and Nebo
 hearts” (Cyrus Cylinder; ANET, p. 316).
 
 IV. Policy toward the Jews
-==========================
 
 Part of Cyrus’ conciliatory policy toward subject peoples was to
 resettle them in their homelands and to undertake the restoration of
@@ -295,7 +288,6 @@ confirmed and extended by Darius (522-486 b.c.) in the following verses
 (6:6–12).
 
 V. Cyrus in Isaiah
-==================
 
 Cyrus is alluded to or referred to a number of times in the prophecies
 of Isaiah 40–55. He is the one from the east whom Yahweh has “stirred
@@ -349,7 +341,6 @@ emperor’s attention to these prophecies, but without further supporting
 evidence this cannot be certain.
 
 VI. Final Conquests and Death
-=============================
 
 At the end of his accession year (539–38 b.c.) Cyrus had left Babylon
 for his capital Ecbatana, leaving his son Cambyses, who was resident in
