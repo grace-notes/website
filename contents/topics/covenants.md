@@ -5,13 +5,7 @@ description: "An extensive study of God's Covenants with Adam, Noah, Abraham, Mo
 template: topic.jade
 ---
 
-
-**Covenants 52**
-
-**The Covenants**
-
-Introduction
-============
+**Introduction**
 
 In an effort to enhance our understanding of Proverbs, the Old Testament
 in general and, for that matter, the entire Bible, the author is going
@@ -20,8 +14,8 @@ word Jehovah or YAHWEH, the tetragrammaton, which again appears in
 Proverbs 3:5.  And as will be seen, JHWH always speaks of the God of
 Covenant.
 
-Psalm 25:14 reads, “The Lord confides in those who fear him; he makes
-his covenant known to them.”  And have you noticed how no matter where
+Psalm 25:14 reads, _“The Lord confides in those who fear him; he makes
+his covenant known to them.”_  And have you noticed how no matter where
 one stops to do a study in the Bible, whether it be Moses or Joshua, or
 Samuel, or David, or Jeremiah, or Ezekiel, or Isaiah, or even our Lord
 in His Incarnation in the New Testament, that they know something?  It
@@ -199,7 +193,7 @@ God is faithful to His Son.  For covenant has been made.  And
 lovingkindness and remembrance are the foundation of His present actions
 toward mankind.  
 
-Psalm 63:3 reads, “Because your love is better than life.”  The word for
+Psalm 63:3 reads, _“Because your love is better than life.”_  The word for
 “love” here is a covenant word.  It is defined as “steadfast love.”  And
 remember, that in his song, Moses said, in Exodus 15:11, “Who among all
 the gods is like you, O Lord?  Who is like you – majestic in holiness,
@@ -263,14 +257,16 @@ for her child.  It is a love that “pursues.”  Lovingkindness is an
 “action word.”  It is something that is done, not something that is
 discoursed about, analyzed and dissected. 
 
-Exodus 33:18 reads, “Then Moses said, ‘Now show me your glory.’”  And in
-Exodus 34:6,7, Who and What God Is was revealed to Moses:  “And he
+Exodus 33:18 reads, _“Then Moses said, ‘Now show me your glory.’”_  And in
+Exodus 34:6,7, Who and What God Is was revealed to Moses:  _“And he
 passed in front of Moses, proclaiming, ’The Lord, the Lord, the
 compassionate and gracious God, slow to anger, abounding in love and
 faithfulness, maintaining love to thousands, and forgiving wickedness,
 rebellion and sin.  Yet he does not leave the guilty unpunished; he
 punishes the children and their children for the sin of the fathers to
-the third and fourth generation.”  Here, then, God states unreservedly
+the third and fourth generation.”_  
+
+Here, then, God states unreservedly
 that He is “lovingkindness,” and that He punishes only those who
 abrogate His covenant, i.e., those who commit the sin of their fathers,
 which sin is self-sufficiency, or cutting themselves off from the life
@@ -290,10 +286,9 @@ do to me?’”
 This, then, is “lovingkindness;” and this is the way God is.  And this
 is the reason that God entered into covenant with mankind.
 
-Covenant of Beginnings (The Edenic Covenant)
-============================================
+**Covenant of Beginnings (The Edenic Covenant)**
 
-Genesis 1:26ff, “Then God said, Let us make man in our image, in our
+Genesis 1:26ff, _“Then God said, Let us make man in our image, in our
 likeness, and let them rule over the fish of the sea and the birds of
 the air, over the livestock, over all the earth, and over all the
 creatures that move along the ground.  So God created man in his own
@@ -304,7 +299,7 @@ the birds of the air and over every living creature that moves on the
 ground.  Then God said, I give you every seed-bearing plant on the face
 of the whole earth and every tree that has fruit with seed in it.  They
 will be yours for food.  And to all the beasts of the earth and all the
-birds of the air and all the creatures that move on the ground.”
+birds of the air and all the creatures that move on the ground.”_
 
 The word covenant, BERITH, does not occur in this particular passage;
 however, the passage contains all the aspects of covenant, except one,
@@ -357,11 +352,11 @@ in this instance.
 
 The terms of this Covenant of Beginnings are: 
 
-· Reproduce, “be fruitful and increase in number.”
+* Reproduce, “be fruitful and increase in number.”
 
-· Administrate over the earth and its inhabitants.
+* Administrate over the earth and its inhabitants.
 
-· Maintain a relationship with God; and according to Bishop Smith this
+* Maintain a relationship with God; and according to Bishop Smith this
 is the Sabbath, or “rest.”  And the Sabbath is “satisfaction;” that is,
 God observes what He has done and said, “it was very good.”  (Genesis
 1:31)  And mankind was to “rest” in God; in other words, mankind was to
@@ -417,10 +412,10 @@ mankind creates through work.  Work, then, when viewed from this new
 perspective, actually glorifies God.  Adams work, of course, did not
 involve sweat originally, and the earth did not strive against him.
 
-Genesis 2:16 ff. reads, “And the Lord God commanded the man, You are
+Genesis 2:16 ff. reads, _“And the Lord God commanded the man, You are
 free to eat from any tree in the garden; but you must not eat from the
 tree of the knowledge of good and evil, for when you eat of it you will
-surely die.”  This is quite clear; this is not just a suggestion, it is
+surely die.”_  This is quite clear; this is not just a suggestion, it is
 a command.
 
 What was this “tree of the knowledge of good and evil?”  It was a
@@ -472,8 +467,7 @@ human beings, but robots.  Robots without free-will; and if there is no
 free-will, then there is no love.  For love is a choice made by
 free-will. 
 
-The Adamic Covenant
-===================
+**The Adamic Covenant**
 
 The next covenant is the Adamic or Redemptive Covenant.  Thus, all the
 covenants direct us toward what God willed for mankind all along, or
@@ -590,8 +584,7 @@ enough to eat, having and raising children, bearing pain, and facing
 death.  However, Gen. 3:15 gives mankind hope; there is, then, more than
 just this. [124]
 
-The Covenant with Noah
-======================
+**The Covenant with Noah**
 
 Genesis 3:21 reads, “The Lord God made garments of skin for Adam and his
 wife and clothed them.” 
@@ -837,8 +830,7 @@ The Messiah, then, comes through Shem; and Japheth, or the white races
 Thus, 5000 years ago, the entire human race entered into a blood
 covenant with God through Noah.
 
-The Abrahamic Covenant
-======================
+**The Abrahamic Covenant**
 
 Genesis 12:1ff. read, “The Lord had said to Abram, Leave your country,
 your people and your fathers household and go to the land I will show
@@ -992,7 +984,7 @@ ever having a child of their own, then God said, “Now you are ready.
 Now you have no one and nothing to trust in but Me.”  Gods power, then,
 must now fulfill the promise.
 
-### Circumcision and Name Change
+**Circumcision and Name Change**
 
 Now God changes Abrams name.  For remember, that in the ancient covenant
 ritual each nation would alter its name to include the others name. 
@@ -1062,7 +1054,7 @@ has it provenance in the words spoken by Moses wife, Zipporah, in Exodus
 4:25, when she called him “a bloody bridegroom,” and then abandoned
 him. 
 
-### The Covenant Meal
+**The Covenant Meal**
 
 Genesis 18 narrates the Covenant meal.  Three men arrived to Abraham’s
 tent, one of which was the Lord Himself.  As the meal took place, Sarah
@@ -1093,7 +1085,7 @@ Isaac, then, was born.  Isaac was the first son of Abraham, and Jesus
 Christ was the last.  And YAHWEH, God, has laughed at mankind’s
 helplessness. 
 
-### Provisions of the Abrahamic Covenant
+**Provisions of the Abrahamic Covenant**
 
 The Abrahamic Covenant constantly refers to “the land” and Abraham’s
 “descendants.”  And the term for “descendants” may also be translated
@@ -1242,8 +1234,7 @@ the “new earth” of Rev. 21:1, which reads, “Then I saw a new heaven and
 a new earth, for the first heaven and the first earth had passed away;
 and there was no longer any sea.” [141]
 
-The Covenant with Moses (Mosaic Covenant)
-=========================================
+**The Covenant with Moses (Mosaic Covenant)**
 
 The Mosaic Covenant, or Covenant at Sinai, is also called the ‘old
 covenant.’  And this phrase will be elucidated as this lesson unfolds.
@@ -1408,7 +1399,7 @@ Tragically, within six weeks of having entered into the covenant on Mt.
 Sinai, the Jews were dancing around a golden calf.  The covenant had
 been broken.
 
-### Why the Covenant of Law?
+**Why the Covenant of Law?**
 
 First, the Mosaic Covenant was given in order to demonstrate man’s guilt
 before God.  The Law proves mankind’s sinfulness before an Holy God, Who
@@ -1554,8 +1545,7 @@ them) we will – do.’  By that response they repudiated the grace of God,
 set aside the Abrahamic, unconditional covenant and placed themselves on
 the ground of Law.  It was a fatal act.’ [143]
 
-The Covenant with David
-=======================
+**The Covenant with David**
 
 The Words of the Lord, conveyed through the prophet Nathan, to David as
 recorded in II Samuel 7:12ff., read, “When your days are over and you
@@ -1896,8 +1886,7 @@ left?  Only the physical consummation.  But the real Kingdom of God is
 now, for the Holy Spirit is now with us; Immanuel, “God with us,” is now
 with us through His Spirit. [144]
 
-The New Covenant
-================
+**The New Covenant**
 
 Jeremiah 31:31ff., reads, “‘The time is coming,’ declares the Lord,
 ‘when I will make a new covenant with the house of Israel and with the
@@ -2114,7 +2103,7 @@ of the Kingdom of God, the one ruled by the son of David, would have “a
 new heart and a new spirit.”  Jesus said, “I tell you the truth, unless
 a man is born again, he cannot see the kingdom of God.”  (John 3:3) 
 
-### So the New Birth happened in Jesus.
+**So the New Birth happened in Jesus**
 
 Ezekiel 37 relates the story of the Valley of Dry Bones.  And in the
 valley are dead, dry bones of some vast nation.  And God asked Ezekiel,
@@ -2190,7 +2179,7 @@ transgression, to put an end to sin, to atone for iniquity, to bring in
 everlasting righteousness, to seal both vision and prophecy, to anoint a
 most holy place.
 
-### The Dual Fulfillment of Daniel 9:24ff.
+**The Dual Fulfillment of Daniel 9:24ff.**
 
 The “Anointing of the most holy,” refers to the cutting off of Christ,
 i.e., the crucifixion.  And this cutting off does cause sacrifices to
@@ -2205,7 +2194,7 @@ Israel – and they stoned him.  Thus, at this point they said a final
 “no” as a nation to the Gospel of Christ.  And in 70 AD, Jerusalem was
 razed to the ground. , [148] [149]
 
-### The New Covenant to the Church
+**The New Covenant to the Church**
 
 The Greek word for covenant is diatheke, and this covenant was made by
 God to the Church; it is effective at the point of salvation, at the
@@ -2256,7 +2245,7 @@ pleased.  Then I said, ’Here I am – it is written about me in the scroll
 The will of God, then, has always been and always will be the seeking of
 His lost sheep, them that He Loves with an infinite Love. [150]
 
-### Provisions of the New Covenant
+**Provisions of the New Covenant**
 
 Recall that the provisions of a covenant are those that each
 representative swore to one another.  And recall that the nature of a
@@ -2424,7 +2413,7 @@ now united with God.  God is your God; you are special to Him.  God, in
 effect, winks smilingly at you when He sees you.  And just like Abraham,
 we now rest and watch God work.  
 
-### Fulfillment of the New Covenant to the Church
+**Fulfillment of the New Covenant to the Church**
 
 Ezekiel was the prophet that reminded Israel of the covenants, and of
 God’s promises, while they were in captivity.  Ezekiel told Israel that
@@ -2582,7 +2571,7 @@ Israel!  Rejoice and exult with all your heart, O daughter of Jerusalem!
 exult over you with joy, He will be quiet in His love, He will rejoice
 over you with shouts of joy.” [154]
 
-### The Covenant Meal
+**The Covenant Meal**
 
 Luke 22:14ff., reads, “When the hour came, Jesus and his apostles
 reclined at the table.  And he said to them, ‘I have eagerly desired to
@@ -2920,128 +2909,4 @@ a glorified body, but a body nevertheless.
 As we eat and drink, the Holy Spirit makes it real to us, causes us to
 participate in, partake of, not only Him, but everything that comes with
 Him:  the terms of the new covenant.  He is no longer the coming One, He
-is now come! [155]
-
-NOTES:
-
-[122]  Based upon the scholarship of Bishop Smith, E.W. Bullinger,
-Robert Thieme, Merrill F. Unger, and M. Weinfeld.
-
-[123]  For a fascinating dissertation on the Virgin Birth, please refer
-to Robert Thieme, Romans.
-
-[124]  Based upon the scholarship of:  Bishop Smith, Robert Thieme, Leon
-Poliakov, H. A. Ironside, Merrill F. Unger, Allen Edwardes, and Bishop
-Lightfoot.
-
-[125]  Graves, Robert; and Patai, Raphael.  Hebrew Myths; page 117.
-
-[126]  Smith, Bishop M.  The Seven Covenants of God; from notes,
-handwritten.
-
-[127]  Ibid.
-
-[128]  Ibid.
-
-[129]  Graves and Patai.  Hebrew Myths; page 122.
-
-[130]  Ibid.
-
-[131]  Thieme, Robert; and Smith, Bishop M.  The works of both these
-great scholars should be studied for a full comprehension of this
-subject.  The author has attempted to integrate the implications of
-both, perhaps unsuccessfully; for integration many times results in
-flimsy harmonizing.  Thus, if any errors persist, blame must be laid at
-the author’s door, not with the fastidious scholarship of these
-magnificent exegetes.
-
-[132]  Thieme, Robert.  From handwritten notes, undated and without
-reference.
-
-[133]  Smith, Bishop M.  Ibid.
-
-[134]  Smith, Bishop.  Seven Covenants; from notes, undated.
-
-[135]  This portion of the Abrahamic Covenant is based upon, borrowed
-from, paraphrased from, without apology, the fastidious scholarship of: 
-Bishop Smith, Merrill F. Unger, E.W. Bullinger, Robert Thieme, Alfred
-Edersheim, Allen Edwardes, Helmer Ringgren, Adolf  Deissmann, and A.T.
-Robertson.  The author makes no claims of originality or scholarly
-innovation.
-
-[136]  Smith, Bishop.  Seven Covenants of God; from handwritten notes.
-
-[137]  Thieme, Robert.  Circumcision.
-
-[138]  Edwardes, Allen.  Erotica Judaica; page 22.
-
-[139]  Ibid.; page 23.
-
-[140]  Thieme, Robert.  Revelation; from handwritten notes, undated. 
-This terminology is borrowed from Robert Thieme.
-
-[141]   This dissertation on the Abrahamic Covenant is based primarily
-upon, and in many cases borrowed from, the scholarship of Bishop Smith;
-and the foundation of the author’s data on the covenants generally, is
-based upon the categorical expositions of, and the categorical genius
-of, Robert Thieme.  The author must also acknowledge the scholarship of
-E. W. Bullinger, Helmer Ringgren, and Clarence Larkin.  Bible Works,
-CD-ROM, by Hermeneutic, was graciously donated to the author by
-Hermeneutika.  And this CD-ROM was frequently consulted, especially the
-original Hebrew OT.
-
-[142]   The above dissertation on the Mosaic Law is based upon, and
-borrowed directly from, the works and scholarship of:  Bishop Smith,
-Robert Thieme, and I.M. Haldeman.
-
-[143]  Haldeman, I.M.  The Tabernacle Priesthood and Offerings; page
-10-11.
-
-[144]  The above dissertation on the Davidic Covenant is dependent upon
-the scholarship of Bishop Smith, Robert Thieme, and I.M. Haldeman.
-
-[145]  Ipse dixit:  ‘an unsupported assertion,’ i.e., this statement is
-authoritative only to the extent that the reputation of its composers
-merits trust.
-
-[146]  Indeed, with more study and with more knowledge, the author hopes
-to clarify the precise aspects of the ‘New Covenant.’ Time, though, is
-the necessary ingredient.  With all due respect to Archbishop Smith and
-Robert Thieme, the above presentation is provided only as a temporary,
-provisional and impermanent exposition.
-
-[147]  Subsequent to each of the six accomplishments the author has
-placed in parentheses:  1)  the fulfillment of the prophecy to the
-Church, 2)  the fulfillment of the prophecy to Israel.  The concept of
-dual fulfillment cannot be tossed aside.
-
-[148]  The above interpretation of Daniel 9:24ff., admittedly, goes
-against the scholarship of the dispensationalists and the
-non-dispensationalists.  However, the author deems both ‘schools’ as
-being correct, but incorrect, too, in that they have dis-carded the
-concept of dual fulfillment.  If wrong, all responsibility must be laid
-at the author’s door.
-
-[149]  The above dissertation on the New Covenant to Israel, again, is
-based upon the scholarship of Archbishop Smith, Robert Thieme, Merrill
-F. Unger, and I.M. Haldeman.
-
-[150]  Thieme, Robert.  New Covenant to the Church; from handwritten
-notes, undated.
-
-[151]  Pentecost or Feast of Weeks:  the thanksgiving for the harvest,
-during which two loaves made from the grain of the new harvest were
-offered to God in thanksgiving. 
-
-[152]  Note that scholars vary as to the continuation, or not, of the
-gift of tongues.
-
-[153]  Smith, Archbishop.  Kingdom Living Here and Now; page 126.
-
-[154] The above dissertation is based upon the scholarship of:  Robert
-Thieme, Archbishop Smith, Clarence Larkin, and I.M. Haldeman.
-
-[155]  The above dissertation on the Covenant Meal is based upon the
-scholarship of:  Archbishop Smith, Robert Thieme, I.M. Haldeman, and
-George Every’s The Mass.
-
+is now come!
