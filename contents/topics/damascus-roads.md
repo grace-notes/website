@@ -6,10 +6,7 @@ description: "description of the various roads which Saul could have used to tra
 template: topic.jade
 ---
 
-
-**Damascus 2**
-
-The Roads from Jerusalem to Damascus
+**The Roads from Jerusalem to Damascus**
 
 from “The Life and Epistles of St. Paul” by Conybeare and Howson.
 
