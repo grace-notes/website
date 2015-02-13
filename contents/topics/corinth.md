@@ -5,11 +5,6 @@ description: "A brief summary of the history of the Greek city where Paul stayed
 template: topic.jade
 ---
 
-
-**Corinth 0**
-
-Corinth
-
 **from the Thompson Chain Reference Bible**
 
 Corinth, the proud, wealthy, and wicked city of the ancient world, was
