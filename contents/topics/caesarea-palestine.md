@@ -44,6 +44,7 @@ harbor built by Herod the Great. Only the tops of the elaborate stone
 breakwater protruded here and there above the waters, but undersea
 explorations went far in confirming Josephus’ description of Caesarea’s
 massive and extensive harbor.
+
 ---
 
 From the [Encyclopedia Britannica] (http://www.britannica.com)
