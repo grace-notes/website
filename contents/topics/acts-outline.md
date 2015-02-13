@@ -1,12 +1,10 @@
 ---
-title: "Outline of Acts"
+title: "The Acts of the Apostles - Outline"
 indexTitle: "Acts, Outline"
 pdf: "actsoutline.pdf"
 description: "outline of the book of Acts."
 template: topic.jade
 ---
-
-**The Acts of the Apostles - Outline**
 
 ## The Period of Local Evangelism
 
