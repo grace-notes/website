@@ -5,11 +5,6 @@ description: "Caesarea Philippi was located at the foot of Mt. Hermon ... one of
 template: topic.jade
 ---
 
-
-**Caesarea - Judea**
-
-Caesarea Philippi
-
 from the Thompson Chain Reference Bible
 
 Caesarea Philippi was located at the foot of Mount Hermon, where, as a
