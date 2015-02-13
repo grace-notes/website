@@ -5,9 +5,6 @@ description: "a brief description of Abraham's birthplace"
 template: topic.jade
 ---
 
-
-**Ur of the Chaldees0**
-
 Ur was very ancient city in southern Babylon; identified with Tell
 Muqayyar, close to the right bank of the Euphrates, half-way between
 Baghdad and the Persian Gulf. Terah and his sons were born there (Gen.
