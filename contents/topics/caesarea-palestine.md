@@ -5,11 +5,6 @@ description: "Caesarea, the Roman capital of Judea in the time of Christ and Pau
 template: topic.jade
 ---
 
-
-**Caesarea - Judea**
-
-**Caesarea Palestine**
-
 from the Thompson Chain Reference Bible
 ---------------------------------------
 
@@ -51,10 +46,8 @@ breakwater protruded here and there above the waters, but undersea
 explorations went far in confirming Josephus’ description of Caesarea’s
 massive and extensive harbor.
 
-From the Encyclopedia Britannica
+From the [Encyclopedia Britannica] (http://www.britannica.com)
 --------------------------------
-
-\<http://www.britannica.com\>
 
 Caesarea
 --------
