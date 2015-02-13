@@ -5,14 +5,9 @@ description: "Tiberius Claudius Drusus Caesar, the fourth Roman Emperor (40 to 5
 template: topic.jade
 ---
 
-
-**Claudius 24**
-
-**Claudius**
-
 **Tiberius Claudius Drusus Caesar**
 
-**from Seutonius*****, The Twelve Caesars***
+>from Seutonius, The Twelve Caesars
 
 Livia, having married Augustus when she was pregnant, was within three
 months afterwards delivered of Drusus, the father of Claudius Caesar,
@@ -131,8 +126,7 @@ the games of Mars, if he will suffer himself to be governed by his
 kinsman, Silanus’s son, that he may do nothing to make the people stare
 and laugh at him. But I do not approve of his witnessing the Circensian
 games from the Pulvinar. He will be there exposed to view in the very
-front of the theatre. Nor do I like that he should go to the Alban Mount
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>, or be at Rome during the
+front of the theatre. Nor do I like that he should go to the Alban Mount, or be at Rome during the
 Latin festivals. For if he be capable of attending his brother to the
 mount, why is he not made prefect of the city? Thus, my dear Livia, you
 have my thoughts upon the matter. In my opinion, we ought to settle this
@@ -287,8 +281,7 @@ by a proclamation, “That he the more earnestly insisted upon the
 observation of his father Drusus’s birth-day, because it was likewise
 that of his grandfather Antony.” He completed the marble arch near
 Pompey’s theatre, which had formerly been decreed by the senate in
-honour of Tiberius, but which had been neglected
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>. And though he cancelled
+honour of Tiberius, but which had been neglected. And though he cancelled
 all the acts of Caius, yet he forbad the day of his assassination,
 notwithstanding it was that of his own accession to the empire, to be
 reckoned amongst the festivals.
@@ -301,8 +294,7 @@ had been banished, without a decree of the senate: and requested of them
 permission for the prefect of the military tribunes and praetorian
 guards to attend him in the senate-house; and also that they would be
 pleased to bestow upon his procurators judicial authority in the
-provinces <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>. He asked of
-the consuls likewise the privilege of holding fairs upon his private
+provinces. He asked of the consuls likewise the privilege of holding fairs upon his private
 estate. He frequently assisted the magistrates in the trial of causes,
 as one of their assessors. And when they gave public spectacles, he
 would rise up with the rest of the spectators, and salute them both by
@@ -433,8 +425,7 @@ affluent circumstances. One of the knights who was charged with stabbing
 himself, laid his bosom bare, to show that there was not the least mark
 of violence upon his body. The following incidents were remarkable in
 his censorship. He ordered a car, plated with silver, and of very
-sumptuous workmanship, which was exposed for sale in the Sigillaria
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup>, to be purchased, and
+sumptuous workmanship, which was exposed for sale in the Sigillaria, to be purchased, and
 broken in pieces before his eyes. He published twenty proclamations in
 one day, in one of which he advised the people, “Since the vintage was
 very plentiful, to have their casks well secured at the bung with
@@ -469,7 +460,7 @@ was the second time of his obtaining that honour.
 XVIII. He paid particular attention to the care of the city, and to have
 it well supplied with provisions. A dreadful fire happening in the
 Aemiliana, which lasted some time, he passed two nights in the
-Diribitorium <sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup>, and the
+Diribitorium, and the
 soldiers and gladiators not being in sufficient numbers to extinguish
 it, he caused the magistrates to summon the people out of all the
 streets in the city, to their assistance. Placing bags of money before
@@ -511,8 +502,7 @@ eleven years. He formed the harbor at Ostia, by carrying out circular
 piers on the right and on the left, with a mole protecting, in deep
 water, the entrance of the port. To secure the foundation of this mole,
 he sunk the vessel in which the great obelisk had been brought from
-Egypt <sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>; and built upon
-piles a very lofty tower, in imitation of the Pharos at Alexandria, on
+Egypt; and built upon piles a very lofty tower, in imitation of the Pharos at Alexandria, on
 which lights were burnt to direct mariners in the night.
 
 XXI. He often distributed largesses of corn and money among the people,
@@ -658,7 +648,7 @@ to their former condition of slavery; and declared to their advocates,
 that he would always give judgment against the freedmen, in any suit at
 law which the masters might happen to have with them. Some persons
 having exposed their sick slaves, in a languishing condition, on the
-island of Aesculapius <sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup>,
+island of Aesculapius,
 because of the tediousness of their cure; he declared all who were so
 exposed perfectly free, never more to return, if they should recover, to
 their former servitude; and that if any one chose to kill at once,
@@ -761,8 +751,7 @@ Posides, whom, in his British triumph, he presented with the pointless
 spear, classing him among the military men. Next to him, if not equal,
 in favor was Felix, whom he not only preferred to commands both of
 cohorts and troops, but to the government of the province of Judaea; and
-he became, in consequence of his elevation, the husband of three queens
-<sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup>. Another favorite was
+he became, in consequence of his elevation, the husband of three queens. Another favorite was
 Harpocras, to whom he granted the privilege of being carried in a litter
 within the city, and of holding public spectacles for the entertainment
 of the people. In this class was likewise Polybius, who assisted him in
@@ -1110,8 +1099,6 @@ open court, “That he was now arrived at the last stage of mortal
 existence;” whilst all who heard it shrunk at hearing these ominous
 words.
 
-\* \* \* \* \* \*
-
 The violent death of Caligula afforded the Romans a fresh opportunity to
 have asserted the liberty of their country; but the conspirators had
 concerted no plan, by which they should proceed upon the assassination
@@ -1175,9 +1162,7 @@ though he had hitherto lived apparently unambitious of public honors,
 accompanied with great ostentation, yet he was now seized with a desire
 to enjoy a triumph. As there existed no war, in which he might perform
 some military achievement, his vanity could only be gratified by
-invading
-
-a foreign country, where, contrary to the advice contained in the
+invading a foreign country, where, contrary to the advice contained in the
 testament of Augustus, he might attempt to extend still further the
 limits of the empire. Either Britain, therefore, or some nation on the
 continent, at a great distance from the capital, became the object of
@@ -1291,7 +1276,7 @@ sword into her body, she instantly expired. Thus perished a woman, the
 scandal of whose lewdness resounded throughout the empire, and of whom a
 great satirist, then living, has said, perhaps without a hyperbole,
 
-Et lassata viris, necdum satiata, recessit.–Juvenal, Sat. VI.
+*Et lassata viris, necdum satiata, recessit.*–Juvenal, Sat. VI.
 
 It has been already observed, that Claudius was entirely governed by his
 freedmen; a class of retainers which enjoyed a great share of favor and
@@ -1324,73 +1309,4 @@ the displeasure of that emperor, and died of famine, either voluntarily,
 or by order of the tyrant. He wrote a comparison between his father and
 Cicero, in which, with more filial partiality than justice, he gave the
 preference to the former.
-
-[1](#sdfootnote1anc) The Alban Mount is the most interesting feature of
-the scenery of the Campagna about Rome, Monti Cavo, the summit, rising
-above an amphitheatre of magnificent woods, to an elevation of 2965
-French feet. The view is very extensive: below is the lake of Albano,
-the finest of the volcanic lakes in Italy, and the modern town of the
-same name. Few traces remain of Alba Longa, the ancient capital of
-Latium.
-
-[2](#sdfootnote2anc) This arch was erected in memory of the standards
-(the eagles) lost by Varus, in Germany, having been recovered by
-Germanicus under the auspices of Tiberius. See his Life, c. xlvii.; and
-Tacit. Annals . ii. 41. It seems to have stood at the foot of the
-Capitol, on the side of the Forum, near the temple of Concord; but there
-are no remains of it.
-
-[3](#sdfootnote3anc) The procurators had the administration of some of
-the less important provinces, with rank and authority inferior to that
-of the pro-consuls and prefects. Frequent mention of these officers is
-made by Josephus; and Pontius Pilate, who sentenced our Lord to
-crucifixion, held that office in Judaea, under Tiberius.
-
-[4](#sdfootnote4anc) The Sigillaria was a street in Rome, where a fair
-was held after the Saturnalia, which lasted seven days; and toys,
-consisting of little images and dolls, which gave their name to the
-street and festival, were sold. It appears from the text, that other
-articles were exposed for sale in this street. Among these were included
-elegant vases of silver and bronze. There appears also to have been a
-bookseller’s shop, for an ancient writer tells us that a friend of his
-showed him a copy of the Second Book of the Aeneid, which he had
-purchased there.
-
-[5](#sdfootnote5anc) The Diribitorium was a house in the Flaminian
-Circus, begun by Agrippa, and finished by Augustus, in which soldiers
-were mustered and their pay distributed; from whence it derived its
-name. When the Romans went to give their votes at the election of
-magistrates, they were conducted by officers named Diribitores. It is
-possible that one and the same building may have been used for both
-purposes.
-
-[6](#sdfootnote6anc) Pliny relates some curious particulars of this
-ship: “A fir tree of prodigious size was used in the vessel which, by
-the command of Caligula, brought the obelisk from Egypt, which stands in
-the Vatican Circus, and four blocks of the same sort of stone to support
-it. Nothing certainly ever appeared on the sea more astonishing than
-this vessel; 120,000 bushels of lentiles served for its ballast; the
-length of it nearly equalled all the left side of the port of Ostia; for
-it was sent there by the emperor Claudius. The thickness of the tree was
-as much as four men could embrace with their arms.”
-
-[7](#sdfootnote7anc) This island in the Tiber, opposite the Campus
-Martius, is said to have been formed by the corn sown by Tarquin the
-Proud on that consecrated field, and cut down and thrown by order of the
-consuls into the river. The water being low, it lodged in the bed of the
-stream, and gradual deposits of mud raising it above the level of the
-water, it was in course of time covered with buildings. Among these was
-the temple of Aesculapius, erected A.U.C. 462, to receive the serpent,
-the emblem of that deity which was brought to Rome in the time of a
-plague. There is a coin of Antoninus Pius recording this event, and
-Lumisdus has preserved copies of some curious votive inscriptions in
-acknowledgment of cures which were found in its ruins, Antiquities of
-Rome, p. 379.
-
-[8](#sdfootnote8anc) It appears that two of these wives of Felix were
-named Drusilla. One, mentioned Acts xxiv. 24, and there called a Jewess,
-was the sister of king Agrippa, and had married before, Azizus, king of
-the Emessenes. The other Drusilla, though not a queen, was of royal
-birth, being the granddaughter of Cleopatra by Mark Antony. Who the
-third wife of Felix was, is unknown.
 
