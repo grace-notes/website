@@ -6,7 +6,6 @@ template: topic.jade
 ---
 
 from the Thompson Chain Reference Bible
----------------------------------------
 
 Caesarea, the Roman capital of Judea in the time of Christ and Paul, was
 located by the sea, thirty-two miles north of Joppa, and some sixty
