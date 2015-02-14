@@ -2,6 +2,7 @@
 title: "Aaron"
 pdf: "aaron.pdf"
 description: "Moses' older brother, the first high priest. According to the genealogical lists he was third in descent from Levi (Ex. 6:16-20; 1 Ch. 6:1-3)."
+tableofcontents: true
 template: topic.jade
 ---
 
