@@ -3,16 +3,12 @@ title: "The Apostolic Age"
 indexTitle: "Apostolic Age, The"
 pdf: "apostolicage.pdf"
 description: "The apostolic period extends from the Day of Pentecost to the death of St. John, and covers about seventy years, from AD 30 to 100."
+tableofcontents: true
 template: topic.jade
 ---
 
+##### Sources for this Study
 
-**The Apostolic Age 6**
-
-**The Apostolic Age**
-
-Sources for this Study
-----------------------
 
 Schaff, Philip, History of the Christian Church, Volume I, Chapter III
 
@@ -22,8 +18,8 @@ Josephus, Flavius, Wars of the Jews
 
 Books of the New Testament
 
-Introduction
-------------
+##### Introduction
+
 
 The acts of the apostles give us the external, the epistles the internal
 history of early Christianity. The book of Acts bear on the face all the
@@ -42,8 +38,8 @@ This is the second idyll of Christianity. The Lake of Tiberias and its
 fishing barks had furnished the first. Now, a more powerful breeze,
 aspirations toward more distant lands, draw us out into the open sea.
 
-General Character of the Apostolic Age
---------------------------------------
+##### General Character of the Apostolic Age
+
 
 The apostolic period extends from the day of Pentecost to the death of
 St. John, and covers about seventy years, from 30 A.D. to 100 A.D. The
@@ -83,8 +79,8 @@ Pharisees and Sadducees; with Stoics and Epicureans; with the temple and
 theater at Ephesus, with the court of the Areopagus at Athens and with
 Caesar’s palace in Rome.
 
-Sources of Information
-----------------------
+##### Sources of Information
+
 
 The author of Acts records the heroic march of Christianity from the
 capital of Judaism to the capital of heathenism with the same artless
@@ -114,8 +110,8 @@ discovery of any new authentic documents between the martyrdom of Peter
 and Paul and the death of John, and again between the death of John and
 the age of Justin Martyr and Irenaeus.
 
-Causes of Success
------------------
+##### Causes of Success
+
 
 As to the numerical strength of Christianity at the close of the first
 century, we have no information. Statistical reports were unknown in
@@ -175,8 +171,8 @@ But every one of these causes, properly understood, points to the
 superior excellency and to the divine origin of the Christian religion,
 and this is the chief cause, which the Deistic historian omits.
 
-Significance of the Apostolic Age
----------------------------------
+##### Significance of the Apostolic Age
+
 
 The life of Christ is the divine human fountainhead of the Christian
 religion; the apostolic age is the fountainhead of the Christian church,
@@ -229,8 +225,8 @@ three leading apostles represent not only the three stages of the
 apostolic church, but also as many ages and types of Christianity, and
 yet they are all present in every age and every type.
 
-The Representative Apostles.
-----------------------------
+##### The Representative Apostles.
+
 
 Peter, Paul and John stand out most prominently as the chosen three who
 accomplished the great work of the apostolic age, and exerted, by their
@@ -403,8 +399,8 @@ and death, as the giver of eternal life, as the divine harmony of
 conflicting creeds and schools, as the alpha and omega of the Christian
 faith.
 
-Chronology of the Apostolic Age
--------------------------------
+##### Chronology of the Apostolic Age
+
 
 The chronology of the apostolic age is partly certain, at least within a
 few years, partly conjectural: certain as to the principal events from
