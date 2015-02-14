@@ -5,9 +5,6 @@ description: "many scripture verses describing all of the characteristics of the
 template: topic.jade
 ---
 
-
-**The Essence of God**
-
 The phrase “Essence of God” is a theological term used to refer to God’s
 personal characteristics, or to the facets of His personality. Sometimes
 the term “Attributes of God” is used to refer to God’s essence. The
