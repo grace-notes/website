@@ -2,14 +2,13 @@
 title: Bible Exegesis And Exposition
 description: "a Bible teacher's study notes must be converted into
               exposition which can be understood by his audience."
+tableofcontents: true
 template: topic.jade
 ---
 
-*Biblical Exegesis And Exposition[^1]*
-
 Chester McCalley [^2]
 
-## Introduction
+##### Introduction
 
 What is the relationship between exegesis and exposition? What is Bible
 exposition or expository preaching? This article gives a method for
@@ -50,7 +49,7 @@ The pastor is responsible both for teaching both children and his
 parents, both novice believers and advanced Christians? Yes, indeed, a
 shepherd cares for both adult sheep and lambs.
 
-## Exegesis: Exposition’s Foundation
+##### Exegesis: Exposition’s Foundation
 
 The foundation of exposition is exegesis, but what is exegesis?
 
@@ -149,7 +148,7 @@ meaning?
 
 **Elements of Exegesis**
 
-## Language
+##### Language
 
 Why should a pastor examine the Hebrew Old Testament and the Greek New
 Testament? The strongest claim made by the Bible is this: Thus saith the
@@ -259,7 +258,7 @@ of the saints being equipped to do the work of the ministry (Ephesians
 
 Again, sound hermeneutics are essential to proper exegesis.
 
-## Expression or Exposition
+##### Expression or Exposition
 
 A good definition of Bible exposition is: **The process of translating
 careful exegesis into food for sheep**. Scholarly work in exegesis is
@@ -293,7 +292,7 @@ that are readily grasped. This is an added workload for the pastor,
 perhaps adding as much as 50% to the time required to prepare lessons;
 but the pastor is ready to present the truth determined by exegesis.
 
-## Clarity Is Essential to Presentation
+##### Clarity Is Essential to Presentation
 
 Clarity is achieved by collecting the results of the scholarly exegesis
 then reducing that material to the simple declarations that communicate
@@ -331,7 +330,7 @@ Likewise, exposition must display the end result of careful exegesis in
 a way that the congregation can recognize as food. Otherwise, much less
 edification takes place.
 
-## Compassion
+##### Compassion
 
 Effective exposition may contrast truth with compassion against truth
 that lacks it. For example, in Acts chapter 9, did God answer Ananias’
