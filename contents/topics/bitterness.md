@@ -2,6 +2,7 @@
 title: Bitterness
 description: "Bitterness is one of the most crushing mental problems in
               a person's life; the Bible has solutions."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -34,7 +35,7 @@ There are quite a few companion studies in the Grace Notes library which
 can help identify the mental attitude sin of bitterness and help deal
 with it from divine viewpoint.
 
-## Definition
+##### Definition
 
 In English, the concept of mental bitterness comes from the idea of
 something that has a sharp or unpleasant taste. We speak of something
@@ -70,7 +71,7 @@ and body, something that is difficult to bear, something that causes
 animosity and reaction, something that is brought about by hatred or
 antagonism*_.
 
-## Bible Examples of Bitterness
+##### Bible Examples of Bitterness
 
 * Women are bitter because they cannot have children, 1 Sam 1:10.
 
@@ -102,7 +103,7 @@ antagonism*_.
 * Husbands and wives are a source of bitterness toward each other, Col
   3:19.
 
-## The Results of Bitterness
+##### The Results of Bitterness
 
 * Bitterness is antisocial. A bitter person is selfish, inconsiderate of
   others, withdrawn from society, indifferent or adverse to conformity
@@ -136,7 +137,7 @@ antagonism*_.
   make a right. You cannot build your happiness on someone else’s
   unhappiness.
 
-## Recovery from Bitterness
+##### Recovery from Bitterness
 
 > Isa. 38:17, “Behold, bitterness became deliverance to me. In Your love
 > You have delivered my soul out of the pit of destruction; for You have
@@ -156,7 +157,7 @@ Grace Notes articles, but this outline will give you ideas on how you
 can make specific application of doctrine to help with real world
 problems.
 
-## Confession of Sin
+##### Confession of Sin
 
 Personal sin leads to bitterness. You must deal with sin on a daily
 basis by confessing and moving on. If you do not do this, sin becomes a
@@ -175,7 +176,7 @@ cleansing and your renewed fellowship with God. All the promises and
 provisions of God the Father are now available to you. Make it a
 spiritual habit to confess sins whenever they show up in your life.
 
-## The Filling of the Holy Spirit
+##### The Filling of the Holy Spirit
 
 When you have unconfessed sin in your life, the Holy Spirit is grieved
 or quenched. But the Holy Spirit fills you and controls your life when
@@ -198,7 +199,7 @@ loss of productivity. Consider these points:
 * righteousness, which is divine good. Divine good takes the place of
   bitterness.
 
-## Living in the Word
+##### Living in the Word
 
 By constant study and meditation in the Bible you are constantly
 reminded of God’s viewpoint, of His plan, of His provision, or His
@@ -211,7 +212,7 @@ Furthermore, there is a continuous cleansing taking placed. See
 especially Ephesians 5 for how the Lord Jesus uses the word to cleanse
 believers.
 
-## Orientation to Grace
+##### Orientation to Grace
 
 Bitterness is often caused by people, most of the time by people we
 cannot escape, or people we love, or people we cannot confront, or
@@ -223,7 +224,7 @@ judging them. It enables you to accept criticism without hurt or
 bitterness. It enables you to esteem others better than yourself, to do
 nothing through strife or vainglory.
 
-## Occupation with Christ
+##### Occupation with Christ
 
 The technique of occupation with Christ helps to cure bitterness because
 it gets your eyes off your spouse, your children, your neighbors, your
@@ -234,7 +235,7 @@ wisdom for each decision you must make. Occupation with Christ is a
 by-product of the Faith rest Life. Bitterness is a by product of
 occupation with self, with life, with problems.
 
-## The Faith-Rest Life or Trusting God and Enjoying the Peace which Results
+##### The Faith-Rest Life or Trusting God and Enjoying the Peace which Results
 
 Faith rest is believing the promises of God and then entering into the
 rest phase of Christian living by claiming and enjoying those promises.
@@ -246,7 +247,7 @@ essence of God. Know Him as He reveals Himself in the Bible. Believe Him
 when He tells you what He will do for you. Count on it. Let your faith
 rest on it. Cast your burden on the Lord.
 
-## Relaxed Mental Attitude
+##### Relaxed Mental Attitude
 
 A relaxed mental attitude is based on knowing God and on having the
 divine production in the soul that comes with the fruit of the Holy
