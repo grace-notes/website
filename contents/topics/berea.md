@@ -3,6 +3,7 @@ title: Berea
 description: "When they were driven out of Thessalonica, Paul and Silas
               came to Berea, where they preached in the synagogue of the
               Jews."
+tableofcontents: true
 template: topic.jade
 ---
 
