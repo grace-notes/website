@@ -6,13 +6,7 @@ description: "Every Christian has a duty to love his enemies and to witness to t
 template: topic.jade
 ---
 
-
-**Enemies 2**
-
-**Witnessing to Your Enemies**
-
-Jesus Christ has enemies.
--------------------------
+**Jesus Christ has enemies**
 
 There are those who are merely negative toward Christ but who are not
 otherwise pursuing an active hate campaign against Him.
@@ -25,8 +19,7 @@ Each Christian was at one time an enemy of Christ. Romans 5:6-11 points
 out that we were reconciled to God while we were still enemies of
 Christ.
 
-Every Christian has enemies.
-----------------------------
+**Every Christian has enemies.**
 
 These range from those who merely do not like us to those who actively
 try to harm us.
@@ -45,8 +38,7 @@ toward our enemies, the Word of God makes numerous comments on the
 subject. The following are some representative Bible statements and
 references.
 
-The Bible commands believers to love all people.
-------------------------------------------------
+**The Bible commands believers to love all people.**
 
 Prov. 17:9; Matt. 7:1-5; Rom. 15:1; Gal. 6:1; 1 Pet. 4:8.
 
@@ -62,8 +54,7 @@ Luke 9:54; John 18:10; Acts 23:12.
 
 Matt. 7:1-5; Rom. 2:1; 14:4,13
 
-A Christian has a duty to his enemies.
---------------------------------------
+**A Christian has a duty to his enemies.**
 
 Exod. 23:4,5; Prov. 24:17; 25:21,22; Matt. 5:44; Rom. 12:20
 
