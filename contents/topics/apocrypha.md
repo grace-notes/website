@@ -2,16 +2,12 @@
 title: "Apocrypha and non-Canonical Writings"
 pdf: "apocrypha.pdf"
 description: "The word Apocrypha means \"hidden\", or \"secret\". The term \"Apocrypha\" is usually applied to a collection of books, from eleven to sixteen in number, which appeared during the interim between the Old and New Testaments. These books have come down to us in more or less close connection with the canonical books of the Bible."
+tableofcontents: true
 template: topic.jade
 ---
 
+##### Introduction
 
-**The Apocrypha 6**
-
-**The Apocrypha and other Non-Canonical Writings**
-
-Introduction
-============
 
 This article is a description of the writings which evangelical
 Christians have ruled are *not canonical*, that is, they don’t belong in
@@ -45,8 +41,8 @@ at: <http://www.gracenotes.info/GN_TopicsLibrary.shtml>
 
 -   Jewish Literature
 
-Christian Canons
-================
+##### Christian Canons
+
 
 The early church used the Old Testament Canon which was adopted by the
 Septuagint translators.
@@ -85,8 +81,7 @@ See Wikipedia for a thorough review of biblical canonical literature.
 
 <http://en.wikipedia.org/wiki/Canon>
 
-“Our” Canon
------------
+##### “Our” Canon
 
 In evangelical Christianity, the term **canon of scripture** refers to
 those Christian writings which are judged to have been inspired by God.
@@ -111,8 +106,7 @@ Christian Bible teaching is based on the acceptance of the present
 organization of the Old Testament and New Testament canons, as found in
 the Protestant Bibles (King James, New American Standard, etc.).
 
-The Apocrypha
-=============
+##### The Apocrypha
 
 The word **Apocrypha** means “hidden,” or “secret.” The term “Apocrypha”
 is usually applied to a collection of books, from eleven to sixteen in
@@ -132,8 +126,8 @@ The Roman Catholic Church, in the Council of Trent, 1546 AD, declared
 eleven of the books to be canonical, and they appear in the modern
 Catholic editions of the Scriptures.
 
-The View of the Protestant Church
----------------------------------
+##### The View of the Protestant Church
+
 
 It is commonly agreed that some of these books contain material of
 literary merit and historical value. But the canonicity of all of the
@@ -152,11 +146,10 @@ following reasons:
     canonical books, stamps them as unworthy of a place in the sacred
     Scriptures.
 
-The Old Testament Apocrypha
-===========================
+##### The Old Testament Apocrypha
 
-Character of the Books
-----------------------
+###### Character of the Books
+
 
 Authorities differ as to the classification of these books. The Epistle
 of Jeremiah is often incorporated in the Book of Baruch, and III and IV
@@ -174,7 +167,7 @@ Children; Bel and the Dragon; Judith; Tobit
 **Instructive** – Ecclesiasticus; The Wisdom of Solomon (in style like
 the Proverbs)
 
-### Historical Apocrypha
+##### Historical Apocrypha
 
 -   1 and 2 Esdras
 
@@ -195,7 +188,7 @@ the Proverbs)
 
 -   The Prayer of Manasses
 
-### The Legendary Apocrypha
+##### The Legendary Apocrypha
 
 -   Book of Baruch
 
@@ -203,7 +196,7 @@ the Proverbs)
 
 -   Judith
 
-### Apocalyptic Apocrypha
+##### Apocalyptic Apocrypha
 
 -   4<sup>th</sup> Esdras as 2 Esdras
 
@@ -267,8 +260,8 @@ Bible was to be bound or sold which*did not* contain the Apocrypha.
 However, there was a growing demand for non-Apocrypha Bibles, and copies
 began showing up without it in the years from 1616 to 1633.
 
-Reasons for Rejecting the Old Testament Apocrypha
--------------------------------------------------
+##### Reasons for Rejecting the Old Testament Apocrypha
+
 
 1.  It is universally admitted that the Old Testament apocryphal books
     never had a place in the Hebrew canon.
@@ -310,11 +303,10 @@ Reasons for Rejecting the Old Testament Apocrypha
 13. While there are Targums for the Hebrew canon, there are no Targums
     for the Apocrypha.
 
-The New Testament Apocrypha
-===========================
+##### The New Testament Apocrypha
+
 
 Reasons for the Origin of the New Testament Apocrypha
------------------------------------------------------
 
 1.  A desire for more details and knowledge about Christ than were
     communicated by the apostles and evangelists.
@@ -329,8 +321,7 @@ Reasons for the Origin of the New Testament Apocrypha
 4.  Originated to fill up the supposed lacks and gaps in the canonical
     writings.
 
-Categories of the New Testament Apocrypha
------------------------------------------
+##### Categories of the New Testament Apocrypha
 
 -   The **apocryphal gospels** – non-canonical but not necessarily
     spurious.
@@ -340,8 +331,8 @@ Categories of the New Testament Apocrypha
 
 -   The **apocryphal apocalypses** – non-canonical and pseudepigraphical
 
-Listing of New Testament Apocryphal books
------------------------------------------
+##### Listing of New Testament Apocryphal books
+
 
 -   Teachings of the Twelve Apostles
 
@@ -387,8 +378,7 @@ Listing of New Testament Apocryphal books
 -   Letters of Paul to Seneca – in Latin, six letters of Paul and eight
     of Seneca.
 
-The Pseudepigraphical Writings
-==============================
+##### The Pseudepigraphical Writings
 
 **Pseudepigrapha** are falsely attributed works, texts whose claimed
 authorship is represented by a separate author; or a work, “whose real
@@ -405,7 +395,7 @@ New Testaments.
 The Old Testament Pseudepigrapha
 --------------------------------
 
-### Apocalyptic Books
+##### Apocalyptic Books
 
 -   Books of Enoch
 
@@ -429,7 +419,7 @@ The Old Testament Pseudepigrapha
 
 -   The Sibylline Oracles
 
-### Legendary Books
+##### Legendary Books
 
 -   The Testament of Adam
 
@@ -451,7 +441,7 @@ The Old Testament Pseudepigrapha
 
 -   Penitence of Jannes and Jambres
 
-### Poetical Books
+##### Poetical Books
 
 -   Psalms of Solomon
 
@@ -459,16 +449,15 @@ The Old Testament Pseudepigrapha
 
 -   Additions to the Psalter
 
-### Didactic (Teaching) Books
+##### Didactic (Teaching) Books
 
 -   Magical Books of Moses
 
 -   The Story of Achiacharus
 
-The New Testament Pseudepigrapha
---------------------------------
+##### The New Testament Pseudepigrapha
 
-### The pseudo-Gospels
+The pseudo-Gospels
 
 -   Gospel of Andrew
 
@@ -484,7 +473,7 @@ The New Testament Pseudepigrapha
 
 -   Gospel of Philip
 
-### The pseudo-Acts
+The pseudo-Acts
 
 -   The Acts of John
 
@@ -502,11 +491,11 @@ The New Testament Pseudepigrapha
 
 -   The Acts of Thaddaeus
 
-### The Epistle of paul to the laodiceans
+The Epistle of paul to the laodiceans
 
-This stands in a category by itself
+* This stands in a category by itself
 
-### The pseudo-Apocalyptic Books
+The pseudo-Apocalyptic Books
 
 -   The Apocalypse of Peter
 
