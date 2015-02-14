@@ -36,7 +36,7 @@ finally fully integrated into the kingdom under Philip V.
 See Wikipedia also on [The Battle of
 Philippi](http://en.wikipedia.org/wiki/Battle_of_Philippi)
 
-**From W. J. Conybeare and J. S. Howson,*****The Life and Epistles of
+**From W. J. Conybeare and J. S. Howson,** ***The Life and Epistles of
 St. Paul.***
 
 The plain between Haemus and Pangaeus is the plain of Philippi, where
@@ -45,7 +45,7 @@ around is eloquent of the history of this battle. Among the mountains on
 the right was the difficult path by which the republican army penetrated
 into Macedonia; on some part of the very ridge on which we stand were
 the camps of Brutus and Cassius; s the stream before us is the river
-which passed in front of them;” below us, ° upon the left hand of the
+which passed in front of them;" below us, ° upon the left hand of the
 even field,““ is the marsh by which Antony crossed as he approached his
 antagonist; directly opposite is the hill of Philippi, where Cassius
 died; behind us is the narrow strait of the sea, across which Brutus
@@ -53,17 +53,17 @@ sent his body to the island of Thasos, lest the army should be
 disheartened before the final struggle. The city of Philippi was itself
 a monument of the termination of that struggle. It had been founded by
 the father of Alexander, in a place called, from its numerous streams,
-\`The Place of Fountains,” to commemorate the addition of a new province
+"The Place of Fountains," to commemorate the addition of a new province
 to his kingdom, and to protect the frontier against the Thracian
 mountaineers. For similar reasons the city of Philip was gifted by
 Augustus with the privileges of a colonia.
-[<sup>1</sup>](#sdfootnote1sym) It thus became at once a border garrison
+[^1] It thus became at once a border garrison
 of the province of Macedonia, and a perpetual memorial of his victory
 over Brutus. And now a Jewish Apostle came to the same place, to win a
 greater victory than that of Philippi, and to found a more durable
 empire than that of Augustus. It is a fact of deep significance, that
-the \`first city” at which St. Paul arrived, on his entrance into
-Europe, should be that \`colony,” which was more fit than any other in
+the "first city" at which St. Paul arrived, on his entrance into
+Europe, should be that "colony," which was more fit than any other in
 the empire to be considered the representative of Imperial Rome.
 
 The characteristic of a colonia was, that it was a miniature resemblance
@@ -90,16 +90,16 @@ rules and exceptions.
 As regards individuals, the broad distinction we must notice is that
 between those who were citizens and those who were not citizens. When
 the Greeks spoke of the inhabitants of the world, they divided them into
-\`Greeks” and \`Barbarians," according as the language in which poets
+"Greeks" and "Barbarians," according as the language in which poets
 and philosophers had written was native to them or foreign. Among the
 Romans the phrase was different. The classes into which they divided
-mankind consisted of those who were politically” Romans,” and those who
+mankind consisted of those who were politically" Romans," and those who
 had no link (except that of subjection) with the city of Rome. The
-technical words were Cives and Peregrini \`citizens” and \` strangers.”
-The inhabitants of Italy were” citizens;” the inhabitants of all other
+technical words were Cives and Peregrini "citizens" and " strangers."
+The inhabitants of Italy were" citizens;" the inhabitants of all other
 parts of the Empire (until Caracalla extended to the provinces the same
 privileges which Julius Caesar had granted to the peninsula’) were
-naturally and essentially \`strangers.” Italy was the Holy Land of the
+naturally and essentially "strangers." Italy was the Holy Land of the
 kingdom of this world.
 
 We may carry the parallel further in order to illustrate the difference
@@ -107,26 +107,26 @@ which existed among the citizens themselves. Those true born Italians,
 who were diffused in vast numbers through the provinces, might be called
 Citizens of the Dispersion; while those strangers who, at various times,
 and for various reasons, had received the gift of citizenship, were in
-the condition of political Proselytes. Such were Paul and Silas,,” in
+the condition of political Proselytes. Such were Paul and Silas,," in
 their relation to the empire, among their fellow Romans in the colony of
 Philippi. Both these classes of citizens, however, were in full
 possession of the same privileges; the most important of which were
 exemption from scourging, and freedom from arrest, except in extreme
 cases; and in all cases the right of appeal from the magistrate to the
-Emperor. [<sup>2</sup>](#sdfootnote2sym)
+Emperor. [^2]
 
 The remarks which have been made concerning individuals may be extended,
 in some degree, to communities in the provinces. The City of Rome might
 be transplanted, as it were, into various parts of the empire, and
 reproduced as a colonies; or an alien city might be adopted, under the
-title of a municipium,” into a close political communion with Rome.
+title of a municipium," into a close political communion with Rome.
 Leaving out of view all cities of the latter kind (and indeed they were
-limited entirely to the western provinces), w e will confine ourselves
+limited entirely to the western provinces), we will confine ourselves
 to what was called a colonia. A Roman colony was very different from
 anything which we usually intend by the term. It was no mere mercantile
 factory, such as those which the Phoenicians established in Spain, or on
 those very shores of Macedonia with which we are now engaged : or such
-as modern nations have founded in the Hudson’s Bay territory or on the
+as modern nations have founded in the Hudson's Bay territory or on the
 coast of India.
 
 Still less was it like those incoherent aggregates of human beings which
@@ -145,7 +145,7 @@ distance.
 
 The colonists went out with all the pride of Roman citizens, to
 represent and reproduce the City in the midst of an alien population.
-They proceeded to their destination like an army with its standards ;
+They proceeded to their destination like an army with its standards;
 and the limits of the new city were marked out by the plough. Their
 names were still enrolled in one of the Roman tribes. Every traveler who
 passed through a colonia saw there the insignia of Rome. He heard the
@@ -155,14 +155,14 @@ Latin inscriptions.
 
 Cyprian tells us that in his own episcopal city, which once had been
 Rome’s greatest enemy, the Laws of the XII. Tables were inscribed on
-brazen tablets in the market place.,” Though the colonists, in addition
+brazen tablets in the market place.," Though the colonists, in addition
 to the poll tax, which they paid as citizens, were compelled to pay a
 ground tax (for the land on which their city stood was provincial land,
 and therefore tributary, unless it were assimilated to Italy by a
 special exemption); s yet they were entirely free from any intrusion by
 the governor of the province. Their affairs were regulated by their own
 magistrates. These officers were named Duumviri ; and they took a pride
-in calling themselves by the Roman title of Praetors.”
+in calling themselves by the Roman title of Praetors."
 
 The primary settlers in the colony were, as we have seen, real Italians;
 but a state of things seems to have taken place, in many instances, very
@@ -180,44 +180,43 @@ for, when we remember that it was a military, and not a mercantile,
 city. There was no synagogue in Philippi,. but only one of those
 buildings called Proseuchae, which were distinguished from the regular
 places of Jewish worship by being of a more alight and temporary
-structure, and frequently open to the sky.”
-[<sup>3</sup>](#sdfootnote3sym) For the sake of greater quietness, and
-freedom from interruption, this place of prayer was “ outside the gate;”
-and, in consequence of the ablutions, which were connected with the
-worship, it was” by the river side,” on the bank of the Gaggitas, the
-fountains of which gave the name to the city before the time of Philip
-of Macedon, and which, in the great battle of the Romans, had been
-polluted by the footsteps and blood of the contending armies.
+structure, and frequently open to the sky." [^3] For the sake of greater
+quietness, and freedom from interruption, this place of prayer was “
+outside the gate;" and, in consequence of the ablutions, which were
+connected with the worship, it was" by the river side," on the bank of
+the Gaggitas, the fountains of which gave the name to the city before
+the time of Philip of Macedon, and which, in the great battle of the
+Romans, had been polluted by the footsteps and blood of the contending
+armies.
 
-[1](#sdfootnote1anc)<sup>****</sup> The full and proper name was
-*Colonia Augusta Julia Philippensis.*
+[^1]: The full and proper name was *Colonia Augusta Julia Philippensis.*
 
-[2](#sdfootnote2anc)<sup>****</sup> Two of these privileges will come
-more particularly before us, when we reach the narrative of St. Paul’s
-arrest at Jerusalem. It appears that Paul and Silas were treated with a
-cruelty which was only justifiable in the case of a slave, and was not
-usually allowed in the case of any freeman. ‘It would seem, that an
-accused citizen could only be imprisoned before trial for a very heinous
-offence,’ or when evidently guilty. Bail was generally allowed, or
-retention in a magistrate’s house was held sufficient.
+[^2]: Two of these privileges will come more particularly before us,
+when we reach the narrative of St. Paul’s arrest at Jerusalem. It
+appears that Paul and Silas were treated with a cruelty which was only
+justifiable in the case of a slave, and was not usually allowed in the
+case of any freeman. ‘It would seem, that an accused citizen could only
+be imprisoned before trial for a very heinous offence,’ or when
+evidently guilty. Bail was generally allowed, or retention in a
+magistrate’s house was held sufficient.
 
-[3](#sdfootnote3anc)<sup>****</sup> Extracts to this effect might be
-quoted from Epiphanies. A Proseucha may be considered as a place of
-prayer, as opposed to a synagogue, or a house of prayer. It appears,
-however, that the words were more or less convertible, and some consider
-them nearly equivalent. Josephus (Life, 54) describes a Proseucha as •a
-urge building, capable of holding a considerable crowd:’ and Philo
-mentions, under the same denomination, buildings at Alexandria, which
-were so strong that it was difficult to destroy them. Probably, it was
-the usual name of the meeting place of Jewish congregations in Greek
-cities. Other passages in ancient writers, which bear upon the subject,
-are alluded to in the following extract from Biscoe: \`The seashore was
-esteemed by the Jews a place most pure, and therefore proper to offer up
-their prayers and thanksgiving to Almighty God. Philo tells us that the
-Jews of Alexandria, when Flaccus the governor of Egypt, who had been
-their great enemy, was arrested by order of the Emperor Gaius, not being
-able to assemble at their synagogues, which had been taken from them,
-crowded out at the gates of the city early in the morning, went to the
+[^3]: Extracts to this effect might be quoted from Epiphanies. A
+Proseucha may be considered as a place of prayer, as opposed to a
+synagogue, or a house of prayer. It appears, however, that the words
+were more or less convertible, and some consider them nearly equivalent.
+Josephus (Life, 54) describes a Proseucha as •a urge building, capable
+of holding a considerable crowd:’ and Philo mentions, under the same
+denomination, buildings at Alexandria, which were so strong that it was
+difficult to destroy them. Probably, it was the usual name of the
+meeting place of Jewish congregations in Greek cities. Other passages in
+ancient writers, which bear upon the subject, are alluded to in the
+following extract from Biscoe: "The seashore was esteemed by the Jews a
+place most pure, and therefore proper to offer up their prayers and
+thanksgiving to Almighty God. Philo tells us that the Jews of
+Alexandria, when Flaccus the governor of Egypt, who had been their great
+enemy, was arrested by order of the Emperor Gaius, not being able to
+assemble at their synagogues, which had been taken from them, crowded
+out at the gates of the city early in the morning, went to the
 neighboring shores, and standing in a most pure place with one accord
 lifted up their voices in praising God. Tertullian says, that the Jews
 in his time, when they kept their great fast, left their synagogues, and

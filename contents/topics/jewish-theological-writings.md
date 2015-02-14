@@ -5,21 +5,17 @@ description: "This article is an outline introduction to the major lines of Jewi
 template: topic.jade
 ---
 
-
-<sup>**Jewish\\ Theological\\ Writings**</sup>
-
 This article is an outline introduction to the major lines of Jewish
 theological literature. You should also study these other topics:
 
-### Topic: Jewish Literature [<sup>1</sup>](#sdfootnote1sym)
+Topic: Jewish Literature[^1]
 
-### Topic: The Apocrypha
+Topic: The Apocrypha
 
 Wikipedia has excellent articles on most of the concepts listed here and
-is an excellent resource for further study.
-[<sup>2</sup>](#sdfootnote2sym)
+is an excellent resource for further study.[^2]
 
-#### Basic listing of Jewish literature
+## Basic listing of Jewish literature
 
 1.  Torah
 
@@ -47,7 +43,7 @@ is an excellent resource for further study.
 
 13. Philo’s Canons
 
-#### The Torah
+## The Torah
 
 The **Torah** is the name given to the canon of Hebrew scriptures.
 Originally, the word “torah” referred to the first five books, the
@@ -58,7 +54,7 @@ The Jewish scholars also recognized an Oral Torah, which was made up of
 general applications of general principles. Both the written and oral
 Torahs were considered to have been given to Moses on Mt. Sinai.
 
-#### The Targums
+## The Targums
 
 The **Targums** were explanations of the Hebrew, translations and
 paraphrases of the Hebrew in the Chaldean language, for Jews who no
@@ -119,7 +115,7 @@ actual words of the text and the interpretation given in Aramaic.
 
 At first, it was forbidden to write the Targums.
 
-#### The Talmud
+## The Talmud
 
 The word “Talmud” means “teaching” or “doctrine”.
 
@@ -132,7 +128,7 @@ BC to 500 AD.
 The Talmud has two parts: (1) The Mishnah, or oral law, and (2) the
 Gemara, the commentaries and illustrations.
 
-### Topic: Origins of the Talmud
+Topic: Origins of the Talmud
 
 Mishnah
 -------
@@ -158,7 +154,7 @@ subject matter.
 
 6.  Purifications
 
-### Topics: Organization of the Talmud; Structure of the Talmud
+Topics: Organization of the Talmud; Structure of the Talmud
 
 The Gemara
 ----------
@@ -208,8 +204,8 @@ beliefs, customs. Much of the writing is fanciful, some of it is good.
 
 The Haggadah was used mostly between 100 BC and 300 AD
 
-Septuagint – What is it? [<sup>3</sup>](#sdfootnote3sym)
---------------------------------------------------------
+Septuagint – What is it?[^3]
+----------------------------
 
 Septuagint (sometimes abbreviated LXX) is the name given to the Greek
 translation of the Jewish Scriptures. The Septuagint has its origin in
@@ -316,11 +312,10 @@ attention.
 “The grass withers and the flowers fall, but the word of our God stands
 forever.” (Isaiah 40:8)
 
-[1](#sdfootnote1anc)<sup>****</sup> Topics cited are found in the Grace
-Notes Topical Library, http://www.gracenotes.info.
+[^1]: Topics cited are found in the Grace Notes Topical Library,
+http://gracenotes.info
 
-[2](#sdfootnote2anc)<sup>****</sup> http://en.wikipedia.org
+[^2]: http://en.wikipedia.org
 
-[3](#sdfootnote3anc)<sup>****</sup> [published on the Septuagint web
-site: http://www.septuagint.com]
+[^3]: published on the Septuagint web site: http://www.septuagint.com]
 
