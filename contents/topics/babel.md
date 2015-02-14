@@ -6,8 +6,8 @@ description: "The popular designation of the tower (Heb mig?d?l) described in Ge
 tableofcontents: true
 template: topic.jade
 ---
+
 From International Standard Bible Encyclopedia
-## Babel, Tower of
 
 The popular designation of the tower (Heb dōl) described in Gen. 11, which people migrating from the East built in the midst of their city in the plain of Shinar.
 
