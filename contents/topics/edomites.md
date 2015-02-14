@@ -5,11 +5,6 @@ description: "Historical summary of the Edomites."
 template: topic.jade
 ---
 
-
-**Edomites 0**
-
-Edomites
-
 The Edomites are the descendants of Edom, i.e., Esau, according to
 Genesis 36:1-19. And according to Numbers 20:14-21, the Israelites were
 refused permission to pass inviolate through Edom. This was an instance
