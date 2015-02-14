@@ -2,6 +2,7 @@
 title: "Apollos"
 pdf: "apollos.pdf"
 description: "a short account of what the Bible has to say about this friend of the apostle Paul."
+tableofcontents: true
 template: topic.jade
 ---
 
