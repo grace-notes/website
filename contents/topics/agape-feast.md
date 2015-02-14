@@ -2,6 +2,7 @@
 indexTitle: "Agape Feast, The"
 title: "The Agape Feast"
 pdf: "agapefeast.pdf"
+tableofcontents: true
 description: "The brotherly common meals of the early Church."
 template: topic.jade
 ---
