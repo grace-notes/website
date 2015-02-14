@@ -1,8 +1,9 @@
 ---
 title: "The Advocacy of Jesus Christ"
-indexTitle: "Advocacy"
+indexTitle: "Jesus Christ, Advocacy of"
 pdf: "advocacy.pdf"
 description: "Christ, the Son, and the Holy Spirit are our advocates with the Father, protecting us against the lies of Satan."
+tableofcontents: true
 template: topic.jade
 ---
 
