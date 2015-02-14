@@ -1,12 +1,8 @@
 ---
-title: Essence Single Column
+title: The Essence of God
+pdf: 
 template: topic.jade
 ---
-
-
-**Essence of God 28**
-
-The Essence of God
 
 The phrase “Essence of God” is a theological term used to refer to God’s
 personal characteristics, or to the facets of His personality. Sometimes
