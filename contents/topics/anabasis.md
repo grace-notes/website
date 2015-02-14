@@ -1,5 +1,5 @@
 ---
-title: "Anabasis"
+title: "Anabasis, the March of the Ten Thousand"
 pdf: "anabasis.pdf"
 description: "by Xenophon, The March of the Ten Thousand. The most famous work of the Greek professional soldier and writer Xenophon. The journey it narrates is his best known accomplishment and \"one of the great adventures in human history.\""
 template: topic.jade
