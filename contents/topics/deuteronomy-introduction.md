@@ -5,9 +5,6 @@ description: "The book of Deuteronomy contains not so much \"a recapitulation of
 template: topic.jade
 ---
 
-
-<sup>Introduction\\ to\\ the\\ Book\\ of\\ Deuteronomy</sup>
-
 The fifth book of Moses from the opening words of the book, is called
 מִשְׁנֵה הַתֹּורָה (*repetition legis*) or merely מִשְׁנֶה by the
 Hellenistic Jews and some of the Rabbins, with special reference to its
