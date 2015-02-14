@@ -2,10 +2,9 @@
 title: "Bethlehem-Judah"
 pdf: "bethlehem.pdf"
 description: "The home of Ruth and Boaz, the city of David, the birthplace of Jesus Christ."
+tableofcontents: true
 template: topic.jade
 ---
-
-**Bethlehem-Judah**
 
 Bethlehem-Judah is a town in Palestine, about five miles south of Jerusalem, at an elevation of about 2550 feet above mean sea level. The town overlooks the highway to Hebron and Egypt.
 
