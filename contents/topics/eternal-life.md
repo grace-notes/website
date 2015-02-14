@@ -5,12 +5,7 @@ description: "Three stages of everlasting life, \"now\" and \"forever\"."
 template: topic.jade
 ---
 
-
-**Eternal Life 2**
-
-**Eternal Life**
-
-Definition of Eternal Life
+**Definition of Eternal Life**
 
 **John 3:36, “He that believes on the Son has eternal life, but he who
 does not believe on the Son shall not see life, but the wrath of God
@@ -28,7 +23,7 @@ Christ as his personal Savior. This person is also called a believer.
 Eternal life is imputed to the human spirit, which is created for you by
 God the Holy Spirit at regeneration.
 
-Three Categories of Eternal Life
+**Three Categories of Eternal Life**
 
 For the believer in Jesus Christ who dies prior to the second coming of
 Jesus Christ also known as the resurrection of the believers in Christ,
