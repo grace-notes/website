@@ -1,6 +1,7 @@
 ---
 title: Blessing
 description: "Bible origins of the New Testament word \"blessing\", applications."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -20,7 +21,7 @@ answer the following questions:
 
 * How can we be a blessing to others?
 
-## THE CONCEPT OF BLESSING
+##### THE CONCEPT OF BLESSING
 
 There are three New Testament Greek words related directly to the
 English word “blessing”.
@@ -60,7 +61,7 @@ of fellowship.
 In the Christian life, the inheritance that we pass down to our children
 is spiritual and doctrinal.
 
-## DEFINITION
+##### DEFINITION
 
 The problem in the definition of the word “blessing” is that it is not a
 direct translation from the Greek. The word “blessing” is a borrowed
@@ -94,7 +95,7 @@ Question: Why was the English word “blessing” chosen to represent
 The answer is found in the Oxford English Dictionary (OED) which is one
 of the world’s greatest detective books.
 
-## OED: to bless
+##### OED: to bless
 
 > "1. “to make sacred; to hallow (something).”
 >
@@ -154,7 +155,7 @@ Greek by way of Latin.
 So, (**eulogeitos**) =\> benedicere =\> *bendición* =\> benediction =\>
 “praise”
 
-## BLESSING IN THE BIBLE
+##### BLESSING IN THE BIBLE
 
 The word “blessing” recognizes the existence and deity of God. It tells
 us that we can be aware of His existence and have inner happiness
