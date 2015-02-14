@@ -1,12 +1,11 @@
 ---
-title: "Ascension of Christ"
+title: "The Ascension of Christ"
+indextitle" "Ascension of Christ
 pdf: "ascension.pdf"
 description: "Scripture passages related to the ascension of the Lord Jesus Christ."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**The Ascension of Christ**
 
 The resurrection body of the Lord Jesus Christ went from a point just
 outside Jerusalem all the way to the third heaven. **Acts 1:1-11**
