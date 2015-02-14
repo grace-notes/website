@@ -5,7 +5,6 @@ pdf: "falseprophet.pdf"
 description: "False Prophet, The-  The False Prophet of the end times."
 template: topic.jade
 ---
-**THE FALSE PROPHET**
 
 Daniel 11:36ff. provides us with a picture of the False Prophet. “_The king_ (of the Jewish state, Israel, also called the Anti-Christ; called the beast in Rev. 13:11-18, and the false prophet in Rev. 16:13; 19:20; and 20:10) _will do as he pleases_ (this indicates his absolute power)_; and he will exalt and magnify himself above every god_ (religious system of the Tribulation) _and will say_ (eloquently) _unheard-of things_ (blasphemies) _against the God of gods_ (the Lord Jesus Christ). _He will be successful_ (in his own eyes) _until the time of wrath_ (the Tribulation) _is completed, for what has been determined must take place_ (this is the Permissive Will of Christ allowing certain things to take place - remember, Jesus Christ controls history!).”
 
