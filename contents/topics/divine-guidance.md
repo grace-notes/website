@@ -5,11 +5,6 @@ description: "The divine guidance of Christ; divine guidance for the Christian b
 template: topic.jade
 ---
 
-
-**Divine Guidance 3**
-
-**Divine Guidance**
-
 Written by  
 Pastor Mark Perkins
 
@@ -129,8 +124,7 @@ spent there. It is translated, “in the desert.” This tells us that the
 Holy Spirit not only led Christ to the desert, but also the entire time
 that He was there.
 
-Analysis of the three
----------------------
+**Analysis of the three**
 
 God the Holy Spirit exerted leadership in getting Christ to the desert
 to be tested.
@@ -171,8 +165,7 @@ And so Christ obeyed the leadership of the Holy Spirit and entered the
 desert. The entrance was not by hocus pocus but by the recall of
 Messianic prophecy and application.
 
-Divine Guidance and the Essence of God
---------------------------------------
+**Divine Guidance and the Essence of God**
 
 In order to remain in the direct will of God you must begin with
 humility based on the essence of God proper.
