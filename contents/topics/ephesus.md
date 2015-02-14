@@ -5,9 +5,6 @@ description: "overview of the city of the Ephesians."
 template: topic.jade
 ---
 
-
-**Ephesus 3**
-
 These materials on the history and geography of Ephesus were compiled
 from the following sources:
 
