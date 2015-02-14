@@ -2,11 +2,9 @@
 title: "Balaam"
 pdf: "balaam.pdf"
 description: "Short description of Balaam's career with reference to the Doctrine of Balaam"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Balaam**
 
 Balaam was a Gentile living in the city of Pethor in Mesopotamia. He was a poet and a prophet of sorts, but he belongs to the Midianites. See Numbers 22 and following for his story.
 
