@@ -2,6 +2,7 @@
 title: "Barnabas"
 pdf: "barnabas.pdf"
 description: "The Acts of the Apostles describes Barnabas as 'a good man, full of the Holy Spirit and of faith' (Acts 6:24)."
+tableofcontents: true
 template: topic.jade
 ---
 
