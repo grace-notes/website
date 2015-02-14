@@ -1,18 +1,13 @@
 ---
-title: "Divine Decrees"
+title: "The Divine Decrees"
 pdf: "divinedecree.pdf"
 description: "The classic definition comes from R.B. Thieme, Jr.: “The decree of God is His eternal (always existed), holy (perfect integrity), wise (the application of omniscience to creation), and sovereign purpose, comprehending simultaneously all things that ever were or will be in their causes, conditions (status), successions (interaction with others that leads to certain decisions), relations, and determining their certain futurition.”"
 template: topic.jade
 ---
 
-
-**Divine Decree 42**
-
-**Doctrine of the Divine Decree**
-
 **Glossary.**
 
-1.  Calling.
+Calling
 
 1.  A call is the extension of a divine grace offer to any individual.
     It is also divine guidance.
@@ -40,7 +35,7 @@ template: topic.jade
     grace, and the content of the call is truth (2 Thessalonians 2:14
     cf. 1 Thessalonians 1:4f.; Romans 10:14ff.).
 
-1.  The Divine Decree.
+The Divine Decree.
 
 1.  This is the sum total of the expression of divine sovereignty in
     human history.
@@ -53,27 +48,27 @@ template: topic.jade
     others that leads to certain decisions), relations, and determining
     their certain futurition.
 
-1.  This definition begins by expressing the source of the decrees.
+>This definition begins by expressing the source of the decrees.
     “Comprehending” refers to divine omniscience.
 
-2.  The definition also expresses the attributes of God in terms of
+>The definition also expresses the attributes of God in terms of
     divine will in human history.
 
-3.  The definition emphasizes that the omniscience of God knew
+>The definition emphasizes that the omniscience of God knew
     simultaneously in eternity past everything that would happen in
     human history (the thought, action, and decision of every person in
     his life), furthermore, everything in relation to all of the things
     pertaining to it.
 
-1.  But has God given all the events in human history certain
+>But has God given all the events in human history certain
     futurition? That is, did He decree everything beforehand? And if so,
     then how can man ever have free will? This is a very ancient
     question indeed, and one we will answer fully below.
 
-2.  Note this distinction: God has given the conditions of human history
+>Note this distinction: God has given the conditions of human history
     certain futurition. Not the events.
 
-1.  Election.
+Election.
 
 1.  Election is the choosing action of God toward certain individuals in
     the human race.
@@ -93,7 +88,7 @@ template: topic.jade
 
 6.  There is no special election of believers.
 
-1.  Foreknowledge.
+Foreknowledge.
 
 1.  God knows all things from eternity past; He knows all possibilities
     of human history before they exist.
@@ -107,7 +102,7 @@ template: topic.jade
 4.  In foreknowledge, the pre-set conditions of the decree are combined
     with the knowledge of human events.
 
-1.  Kenosis.
+Kenosis.
 
 1.  God is perfect and infinite; He is omnipotent, and has the power to
     perform any act.
@@ -122,7 +117,7 @@ template: topic.jade
 4.  Kenosis acts as the protection for all of God’s interaction with His
     creatures.
 
-1.  Lapsarianism.
+Lapsarianism.
 
 1.  Lapsarianism is an observation of the logical order of the
     conditions of human history, as set forth in the divine decree.
@@ -139,7 +134,7 @@ template: topic.jade
     thought in the mind of God, the principle of cause and effect is
     involved.
 
-1.  Law of Volitional Responsibility.
+Law of Volitional Responsibility.
 
 1.  This is one of the primary conditions of human history, as set forth
     by the divine decree.
@@ -150,7 +145,7 @@ template: topic.jade
 3.  God promised from eternity past that humanity would receive justice
     according to their decisions, all in good measure.
 
-1.  Predestination/Foreordination.
+Predestination/Foreordination.
 
 1.  This is synonomous with election. In eternity past, God set forth
     His desire of the highest and best for every human being.
@@ -171,7 +166,7 @@ template: topic.jade
 5.  Predestination always sets God’s highest and best for you from your
     current position, morally, spiritually, and physically.
 
-1.  Providence.
+Providence.
 
 1.  The is the anticipation of grace for all the possibilities of our
     lives.
@@ -186,7 +181,7 @@ template: topic.jade
 4.  Providence is infallible and all-powerful, surpassing all human
     limitations.
 
-1.  Sovereignty.
+Sovereignty.
 
 1.  This is the infinite and perfect divine volition.
 
@@ -208,7 +203,7 @@ template: topic.jade
 
 **The Integrity of God in Interaction with Mankind.**
 
-1.  The divine responsibility toward creatures and creation.
+The divine responsibility toward creatures and creation.
 
 1.  Sometime in the distant past, God created angels. As a part of His
     conflict with angels, he created man.
@@ -236,7 +231,7 @@ template: topic.jade
     find them, then we must prefer an alternative, due to the character
     of God approach.
 
-1.  Motive.
+Motive.
 
 1.  God’s motive is always love; He wants the best for all of His
     creatures, and that is to have a relationship with Him.
@@ -285,9 +280,9 @@ template: topic.jade
 
 **Important Passages Related to the Concept of Foreordination.**
 
-1.  Psalm 139:15-16.
+Psalm 139:15-16.
 
-1.  New New American Standard translation: “(15) My frame was not hidden
+New New American Standard translation: “(15) My frame was not hidden
     from You, when I was made in secret, and skillfully wrought in the
     depths of the earth; (16) Your eyes have seen my unformed substance;
     and in Your book were all written the days that were ordained for
@@ -306,42 +301,42 @@ template: topic.jade
 4.  Principle: behind every deceptive translation there is a marvelous
     principle. This is no exception.
 
-1.  Accurate translation from the original Hebrew, “(15) My frame was
+Accurate translation from the original Hebrew, “(15) My frame was
     not hidden from You when I was being made in secret; I was
     intricately woven in the depths of the earth. (16) Your eyes beheld
     my unformed substance, and inYour book every one of the days were
     written, but not one of those days were formed.”
 
-1.  Since this is such a serious departure from a usually decent English
+Since this is such a serious departure from a usually decent English
     translation, some explanation should follow. Verse fifteen is fine;
     verse sixteen must have some work done.
 
-1.  But one comment on verse fifteen; it is a parallelism on the matter
+But one comment on verse fifteen; it is a parallelism on the matter
     of the formation of the human body.
 
-1.  Line one describes the formation of the body in the womb - in
+Line one describes the formation of the body in the womb - in
     secret.
 
-2.  But line two is different - what is the depths of the earth? This
+But line two is different - what is the depths of the earth? This
     stands in parallel to the secret place of the first line, and so is
     a synonym for the womb. The inside of the womb may as well be the
     depths of the earth, it is so secret.
 
-1.  The first phrase of verse sixteen should stand without question.
+The first phrase of verse sixteen should stand without question.
     “Your eyes beheld my unformed substance.” It lays out rather nicely
     as subject-verb-object.
 
-1.  This describes again the making of the human body. The
+This describes again the making of the human body. The
     Brown-Driver-Briggs Hebrew Lexicon has the word NOLAM as embryo. It
     is actually ‘wrapping’ or ‘garment’ - what we would call the house
     for the soul, but the Jews called the clothing for the soul. It is
     obviously the human body.
 
-2.  So God looked into the womb and saw the embryonic form of David’s
+So God looked into the womb and saw the embryonic form of David’s
     body. The power of God was so great that He could look into the
     secret place - the depths of the earth.
 
-1.  But now there is departure with the rest of the verse.
+But now there is departure with the rest of the verse.
 
 1.  The pattern for the first phrase is this:
     conjunction-preposition-noun (with pronominal suffix) -adjective
@@ -353,31 +348,29 @@ template: topic.jade
 
 3.  “And in your book / all of them / were written / days”
 
-1.  Days is the subject. YAMIM is the masculine plural noun, and since
+4.  Days is the subject. YAMIM is the masculine plural noun, and since
     it is the only noun not otherwise qualified by a preposition, it is
     clear just what its function is.
 
-2.  In other words, there is no other noun in this phrase that may
+5.  In other words, there is no other noun in this phrase that may
     function as a subject; the only other true noun is in a
     prepositional phrase.
 
-3.  The niphal passive verb YIKKATHEBHU portrays an uncompleted past
+6.  The niphal passive verb YIKKATHEBHU portrays an uncompleted past
     action.
 
-4.  If this were to depict the action of foreordination, you would
+7.  If this were to depict the action of foreordination, you would
     certainly expect the Hebrew perfect tense.
 
-5.  So the portrayal here is that God did not finish this job of writing
+8.  So the portrayal here is that God did not finish this job of writing
     all of David’s days.
 
-6.  God has a book where He writes the story of our days on this earth;
+9.  God has a book where He writes the story of our days on this earth;
     that story is not complete.
 
-7.  David then goes on to the last phrase, where he explains.
+10.  David then goes on to the last phrase, where he explains.
 
-1.  YUTSARU WELO EHAR BAHEM.
-
-2.  “were formed / and not one / of them”
+YUTSARU WELO EHAR BAHEM  “were formed / and not one / of them”
 
 1.  Here we have a pretty basic sentence in the Hebrew.
 
@@ -398,17 +391,17 @@ template: topic.jade
 5.  Now we have the perfect verb, in fact the intensive passive pual
     perfect. YATSARU indicates several things.
 
-1.  That the action is intense.
+>That the action is intense.
 
-2.  That the subject ‘not one of those days’ receives the action of the
+>That the subject ‘not one of those days’ receives the action of the
     verb.
 
-3.  That the action is complete.
+>That the action is complete.
 
-4.  The verb itself describes the action of the potter in forming clay
+>The verb itself describes the action of the potter in forming clay
     into a pot.
 
-1.  Let’s summarize.
+Let’s summarize.
 
 1.  God wrote the days of David’s life in His book, but He did not
     complete the writing of it.
@@ -424,27 +417,27 @@ template: topic.jade
     reader into thinking that God has written all of his days into His
     book.
 
-1.  Part of this confusion comes from something misleading in the
+Part of this confusion comes from something misleading in the
     Masoretic Text - a pause immediately after the verb YATSARU, which
     would place it with the preceding words, and isolate the last two
     words. This is how the translator justified his translation.
 
-2.  But if you will notice. The system of pauses in the Hebrew text is
+But if you will notice. The system of pauses in the Hebrew text is
     non-canonical. They are the product of the Masoretes, who scribed
     the Hebrew manuscripts from about 500-1000 A.D.
 
-3.  This cantillation, or system of pauses was added so that the text
+This cantillation, or system of pauses was added so that the text
     could be chanted or sung by Rabbis. It was added more than 800 years
     after the last writer of the Old Testament was gone. It cannot be
     entirely trusted, because it is a commentary!!! It was a commentary
     and nothing more. Sometimes commentaries are good, and sometimes
     they are not. This time the latter is true.
 
-1.  This turns out to be a little more than misleading; it present a
+This turns out to be a little more than misleading; it present a
     completely opposite world-view than what occurs in the original
     Hebrew.
 
-2.  So David says:
+So David says:
 
 1.  Your eyes beheld my embryo;
 
@@ -452,7 +445,7 @@ template: topic.jade
 
 3.  but not one of those days were formed.
 
-1.  This is a song of worship to God, and thus David worships God for
+This is a song of worship to God, and thus David worships God for
     this principle of doctrine.
 
 1.  God writes our days in His book - He sets before us a destiny, a
@@ -471,6 +464,7 @@ template: topic.jade
     my path and my lying down, and are intimately acquainted with all my
     ways. (4) When not a word is on my tongue behold, Lord, You know it
     completely.”
+But ...
 
 1.  But wait a minute: that verse four sure sounds like God knows what
     we will say before we say it.
@@ -487,14 +481,14 @@ template: topic.jade
     make. But He did know all the possibilities, and His grace accounted
     for them.
 
-1.  The word order is confirmed by the Greek translation of the
+The word order is confirmed by the Greek translation of the
     Septuagint, which preserves the pre-cantillation word order and
     translation. The verse really and truly had been changed by the
     Masoretes!
 
-1.  Other ‘book’ passages of the Psalms:
+Other ‘book’ passages of the Psalms:
 
-1.  Psalm 40:6-8, “(6) Sacrifice and offering You have not desired; You
+Psalm 40:6-8, “(6) Sacrifice and offering You have not desired; You
     have dug ears for me; burnt offering and sin offering You have not
     required. (7) Then I said, ‘Behold, I come. In the roll of the book
     it is written for me. (8) To do Your will, my God, I delight and
@@ -506,7 +500,7 @@ template: topic.jade
 2.  Have you ever said of a particular verse - “that was written for
     me.” Well this is David’s intent here.
 
-1.  Psalm 56:8, “My wanderings You have kept count of; You put my tears
+Psalm 56:8, “My wanderings You have kept count of; You put my tears
     in Your bottle; are they not in Your book?”
 
 1.  This verse portrays God’s interaction with David; specifically, what
@@ -523,9 +517,9 @@ template: topic.jade
     His book is the perfect book of His memory. He remembers all of our
     travails and tears.
 
-1.  Romans 9:1-33 (see separate doctrine).
+Romans 9:1-33 (see separate doctrine).
 
-2.  Romans 8:28-30, “(28) But we know that all things work together unto
+Romans 8:28-30, “(28) But we know that all things work together unto
     good for the ones who love God, for those who are called according
     to His purpose. (29) Because whom He foreknew, He also predestined
     to become conformed to the image of His Son, in order that He would
@@ -533,7 +527,7 @@ template: topic.jade
     these also He called; and whom He called, these also He justified;
     and whom He justified, these also He glorified.”
 
-1.  Introduction.
+Introduction.
 
 1.  This little passage is unique to the Bible in that it includes the
     sequence of the logical thinking of God in eternity past.
