@@ -2,6 +2,7 @@
 title: Beatitudes
 description: "The eight blessings in the Beatitudes, related to the
              Christian life."
+tableofcontents: true
 template: topic.jade
 ---
 
