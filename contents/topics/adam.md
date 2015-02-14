@@ -2,6 +2,7 @@
 title: "Adam"
 pdf: "adam.pdf"
 description: "It is fitting that we start with Adam, because Adam was the first head of the human race. By looking at Adam's life we can discover the beginnings of our problems... and solutions."
+tableofcontents: true
 template: topic.jade
 ---
 
