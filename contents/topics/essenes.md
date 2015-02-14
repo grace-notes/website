@@ -5,11 +5,6 @@ description: "A description of the ascetic religious sect of the Essenes, the fo
 template: topic.jade
 ---
 
-
-**Essenes 3**
-
-The Essenes
-
 The Essenes were a Jewish religious community which was first mentioned
 in history in the writings of Josephus (Antiquities, XIII, 5, 9), who
 mentions them as flourishing in the time of Jonathan Maccabaeus, in
