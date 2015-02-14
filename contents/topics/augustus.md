@@ -2,6 +2,7 @@
 title: "Augustus"
 pdf: "augustus.pdf"
 description: "a brief biography of the Roman Emperor who sent out the decree at the time of Jesus' birth that \"all the world\" should be taxed."
+tableofcontents: true
 template: topic.jade
 ---
 
