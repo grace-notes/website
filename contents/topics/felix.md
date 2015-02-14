@@ -6,6 +6,7 @@ template: topic.jade
 ---
 
 From International Standard Bible Encyclopedia
+
 FELIX fēʹliks Antonius an-tōʹni-əs
 
 A Roman procurator of Judea, appointed by the emperor Claudius to succeed Cumanus.
