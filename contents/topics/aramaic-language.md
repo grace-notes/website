@@ -24,8 +24,8 @@ parts of the OT; and a number of Aramaic words, expressions, or names
 cumi* [Mk. 5:41], Tabitha [Acts 9:36, 40], Cephas [Jn. 1:42; 1 Cor.
 1:12; etc.]), are recorded in the NT.
 
-I. History of the Language
---------------------------
+##### I. History of the Language
+
 
 Aramaic takes its name from the Arameans, or the people of Aram. These
 strange people, whose origins are unknown, probably occupied the stage
@@ -154,8 +154,7 @@ recently published extensively on the Mandeans. Some liturgical use of
 Aramaic is found in the Jewish prayer book and also in Syriac Christian
 groups.
 
-II. Description
----------------
+##### II. Description
 
 Within the limits of this article we can give only the most salient
 features of the language. For further information, any of the recognized
@@ -296,8 +295,7 @@ with an anticipatory suffix followed by *dî*. The following examples
 illustrate all three methods: *millaṯ malkā’*, *mill*<sup>*e*</sup>*ṯā
 dî malkāˊ*, *mill*<sup>*e*</sup>*ṯēh dî malkā’*, “the word of the king.”
 
-III. Date of Biblical Aramaic
------------------------------
+##### III. Date of Biblical Aramaic
 
 The discussion of the date of Biblical Aramaic involves other issues
 over which there is deep disagreement among scholars. Thus, Montgomery
@@ -365,8 +363,7 @@ and similar matters, which they have generally ignored while insisting
 on a second-century date for Daniel. The critic must certainly be
 willing to subject his own theories to rigid critical methodology!
 
-IV. Aramaic and the NT
-----------------------
+##### IV. Aramaic and the NT
 
 It is commonly accepted that Jesus spoke Aramaic. As a matter of fact,
 one writer has made quite a reputation by his translation of the Bible
