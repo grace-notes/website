@@ -2,10 +2,11 @@
 title: "Authority, God's Chain of Command"
 pdf: "authority.pdf"
 description: "Authority of God as delegated to the apostles, and from the apostles to us via the Scriptures; proper responses to civil, ecclesiastical, and family authority."
+tableofcontents: true
 template: topic.jade
 ---
 
-## Introduction ##
+##### Introduction
 
 **Authority is defined as** the power to influence or command thought, opinion, or behavior. Persons in command.
 
@@ -26,7 +27,7 @@ This paper explores the subject of authority in several ways. First we examine t
 
 The next consideration in this discussion is the Biblical teaching on a variety of types of authority, including parental, governmental, and ecclesiastical authority. Finally, the paper will describe some ways in which children and young people can be trained in Biblical principles of authority and in the proper responses to and uses of leadership. There will be a few paragraphs in the final section about chain of command which is intended to show believers the mechanics of a proper relationship to both divine and human authority.
 
-## The Source of Authority in Christianity ##
+##### The Source of Authority in Christianity
 
 In all Christian activity some form of authority is exercised, either the authority of one individual over others, or the authority of an organization over individuals. The administration of leadership takes on so many varied forms that believers often become confused as to what constitutes legitimate Biblical authority. Some Christians in positions of leadership exercise Biblical principles of authority, others use human standards mixed with divine principles. Any Christian leader who
 is not well versed in the Biblical doctrines relating to authority is likely to use a combination of proper and improper authority.
@@ -37,7 +38,7 @@ Primary authority grows out of the relationship of those who have the right to c
 
 Delegated authority is a right to command and enforce obedience which can be given to another by the party holding primary authority.
 
-## God’s Primary Authority Was Delegated to the Lord Jesus Christ ##
+##### God’s Primary Authority Was Delegated to the Lord Jesus Christ ##
 
 The first delegation of authority in Christianity was from God the Father to God the Son. Hebrews 1:1-2a, “_God, who gave to our forefathers many different glimpses of the truth in the words of the prophets, has now, at the end of the present age, given us the truth in the Son._” Jesus said, “_The word which you hear is not mine, but the Father’s Who sent me._” (John 12:49) “_No man knows who the Father is, but the Son, and he to whom the Son will reveal Him._” (John 14:6) Jesus closes His
 ministry on earth, and leads off His great commission to the apostles with the statement, “_All power is given unto me in heaven and on earth._” (Matthew 28:18)
@@ -48,9 +49,9 @@ There are several important inferences to be drawn from the concept of the autho
 
 There is a difference between power and force. Force startles and frightens us. Power, when directed by intelligent love, is always pleasing to us. There is force in a lightning bolt. It shatters the sky, can kill living beings, cleaves a tree in half, or burns a building to the ground. There is power when an intelligent mind uses electricity to drive a train or light a city. Jesus Christ, who is God himself, is a manifestation of the power of God, not of the force of God.
 
-## Authority Passes to the Apostles ##
+##### Authority Passes to the Apostles ##
 
-### The Transfer of Authority to the Apostles ###
+###### The Transfer of Authority to the Apostles ###
 
 As long as Jesus was on earth, He talked with men face to face. Men were directly under His command, and could claim His promises directly. But He has passed away from earth and does not rule anymore by His own direct authority. Just as the Father delegated His authority to the Son, so Jesus delegated His authority to the apostles.
 
@@ -72,7 +73,7 @@ It became necessary, therefore, for some power or influence to be exerted on the
 
 1 Cor. 2:9-13, “_Eye has not seen nor ear heard, neither have entered into the heart of man the things which God hath prepared for them that love him. But God has revealed them unto us by his Spirit; for the Spirit searches all things, yes, the deep things of God. Now, we have received not the spirit of the world, but the Spirit which is of God; that we might know the things that are freely given to us of God. Which things also we speak not in the words which man’s wisdom teaches, but in words which the Holy Spirit teaches._”
 
-### The Apostles’ Use of Delegated Authority ###
+###### The Apostles’ Use of Delegated Authority ###
 
 The Spirit guided apostles are the representatives of God on earth for the purpose of making known His will to the sons of men. Their teaching is Christ’s teaching. Their authority is the authority of the Lord. “_As the Father has sent me, so send I you._” (John 20:21) So, when the apostles completed the revelation of the will of God in Jesus Christ, that revelation became the perfect law of liberty to which nothing could rightfully be added or taken away.
 
@@ -80,7 +81,7 @@ Anyone who teaches men to disobey the plain commandments of the apostles cannot 
 
 Any attempt to add to, or subtract from, the words of the apostles, or to substitute other teaching in the place of their teaching, is not of God. Satan had no opportunity to corrupt the truth as it proceeded from the Father to the Son, or from the Son to the apostles. But his opportunity arrived when the apostles began proclaiming the gospel to mankind as they preached. “_Those by the wayside are they that hear; then cometh the devil and takes away the word out of their hearts, lest they should believe and be saved._” (Luke 8:12)
 
-### The Apostles’ Exercise of Judgment ###
+###### The Apostles’ Exercise of Judgment ###
 
 The apostles are administering the authority of God even today, through the written word of God which they wrote under divine inspiration. They began administering that authority on the Day of Pentecost. Their first judgment was, “_These men are not drunk as you suppose, but this is that spoken of by the prophet Joel…_” (Acts 2:15-16) The world’s judgment, that “these men are full of new wine”, was wrong; the apostles’ judgment was correct.
 
@@ -88,7 +89,7 @@ The apostles’ second judgment was, “_This same Jesus whom ye have taken with
 
 Thus, in all their sermons and writings they delivered judgments for spiritual Israel which stand as authoritative today as when first delivered. There is nothing that is essential to the well being of Christian believers that has not been a subject for the apostles’ judgment. They are ambassadors of Christ. God acted through them and they represent Christ. “_As though God did beseech you by us, we pray in Christ’s place, be ye reconciled to God._” (2 Cor. 5:20)
 
-### Practical Considerations Related to Apostolic Authority ###
+###### Practical Considerations Related to Apostolic Authority ###
 
 In Dr. G. A. Jacob’s book, Ecclesiastical Polity of the New Testament, there are quotations worth repeating. This book is worth thoughtful reading, and it shows the trend among some modern Christian thinkers to get back to the principles of the apostles. From the book:
 
@@ -96,7 +97,7 @@ In Dr. G. A. Jacob’s book, Ecclesiastical Polity of the New Testament, there a
 
 “_I appeal, therefore, from the Nicene Fathers to the apostles of Christ; from patristic literature to the New Testament; from ecclesiastical authority and practice of post apostolic centuries to the primitive church of the apostolic age. To go back to that time, and to endeavor, as far as possible, to reproduce the church of the New Testament, is most needful for us now, if we would preserve a faithful and distinct knowledge of Christian truth among our people. By realizing, as far as we may, the ideal of that church in our own community, we shall best maintain its liberty and purity, and we shall best meet the peculiar dangers of the present time and prepare for the future._”
 
-## From the Apostles to Us - Lines of Authority ##
+##### From the Apostles to Us - Lines of Authority ##
 
 In the previous section, the transmission of divine authority to human beings is marked out in three phases: (1) God delegated all authority on earth to the Son, Jesus Christ; (2) the Son delegated teaching authority to the apostles; and (3) the apostles wrote authoritatively concerning the uses of and submission to authority on the part of believers of the church age.
 
@@ -104,11 +105,11 @@ Thus, every standard for the administration of authority over human beings by ot
 
 Three types of delegated authority are described in this section: (1) authority in human society; (2) ecclesiastical (local church) authority; and (3) parental authority. By careful study of the scripture passages related to these topics, a believer should be able to gain a great deal of discernment into the problems of proper response to authority.
 
-### Authority in Human Society ###
+###### Authority in Human Society ###
 
 The teachings of the Bible indicate that established civil authority is to be obeyed explicitly except where such obedience would cause the believer to deviate from direct Bible teaching. That is to say, God does not delegate any authority that would allow someone to overrule His expressed commands or to compromise a divine principle. The statement of Christ, “Render unto Caesar the things that are Caesar’s, and unto God the things that are God’s” (Matthew 22:21) bears out this principle.
 
-### Bible References to Specific Types of Authority ###
+###### Bible References to Specific Types of Authority ###
 
 * The authority of the rulers of federal, state, and local government: Rom. 12; 1 Tim. 2.
 
@@ -136,7 +137,7 @@ Deut. 17:12, 13
 
 Rom. 13:1-7.
 
-### Christian Life Principles Related to Authority ###
+###### Christian Life Principles Related to Authority ###
 
 Submission to authority means doing the unpleasant thing as well as the pleasant. Therefore, there is a need for self discipline. Gal. 5:23 and 2 Thess. 3:8-15 point out that self control is a result of Christian growth. The entire book of Proverbs deals extensively with this issue. The believer can expect that as he grows in Christ his desire to be submissive to the Lord will grow, as will his ability to be a faithful servant.
 
@@ -146,7 +147,7 @@ The correct use of Biblical principles of authority also develops in the believe
 
 Respect for the rights of others to function in their own place under God’s plan is a basic principle of authority. Other people have the right to make decisions without interference. Mature believers do not judge others, to not bully others into conforming, do not attempt to exercise authority which has not been delegated to them. “_…to his own master he stands or falls…_” (Romans 14:4)
 
-## Ecclesiastical Authority ##
+##### Ecclesiastical Authority ##
 
 Scripture references to local church authority are found in Titus 1:5-16; 2:15–3:2; 1 Tim. 3:1-7; Matt. 16:16-19; 18:18, 19.
 
@@ -161,9 +162,9 @@ In becoming part of a local church, a Christian tacitly approves of the leadersh
 To submit means to recognize the chain of command and to refrain from undermining that authority. This is a command to all believers; and nearly all trouble in local churches comes from the violation of this principle. The troublemakers in a church are those who undermine authority by criticism, by conspiracies or by other methods. It is the duty of the pastor teacher to guard against this and to nip it in the bud. The early Christians willingly placed themselves under the leadership of the pastor and deacons because they were known to be ordained of God and that one could profit from their guidance and
 leadership.
 
-## Parental Authority - Chain of Command ##
+##### Parental Authority - Chain of Command ##
 
-### Case Study No. 1 ###
+###### Case Study No. 1 ###
 
 A twenty-one year old girl returned home with an engagement ring and her boy friend in tow. After meeting and conversing with the young man, the parents told their daughter in private that they did not approve of her marrying this person at this time and that she should wait for a year or two. They stated their belief the marriage will not work and this fellow is not for you. The daughter argued that she felt that the Lord had brought they two of them together and that since they were both
 Christians it would be all right to marry right away.
@@ -174,7 +175,7 @@ What would be the correct answer in counseling with this young woman? Should she
 
 2. Follow her parents’ wishes and wait until they give approval?
 
-### Case Study No. 2 ###
+###### Case Study No. 2 ###
 
 An eighteen year old Christian young man announced to his unsaved father that the Lord had called him into the ministry and that he was thinking of going to Bible school to prepare for the pastorate. The father was strictly against such a move, and he advised his son to enter university instead, to prepare for a vocation. He told his son that he should have a profession to fall back on in case he should fail in the ministry. He wanted his son to get his college degree first; then, if he still wanted to be a pastor, he could pursue that career.
 
@@ -184,7 +185,7 @@ What advice should be given to the son in this case? Should he:
 
 2. Follow his own desires and go to bible school?
 
-### Case Study No. 3 ###
+###### Case Study No. 3 ###
 
 A teenage girl wanted to attend a certain Bible teaching church, but her mother refused to allow this. So the girl began to attend secretly as often as she could. Her mother found out and was very angry. She told her daughter that she should be at home attending to her chores around the house instead of spending so much time with those kids.
 
@@ -197,7 +198,7 @@ teaching, or
 
 The answer in all three cases above is: respect the parent’s wishes! The following section describes the reasons for this answer.
 
-### The Biblical Basis for a Child’s Absolute Submission ###
+###### The Biblical Basis for a Child’s Absolute Submission ###
 
 The following commands from scripture indicate the extent to which God has committed Himself to working with children through their parents. Notice the spiritual condition and personality of the parent are not listed as conditions to obedience of these commands.
 
