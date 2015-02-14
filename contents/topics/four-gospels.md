@@ -7,14 +7,10 @@ template: topic.jade
 ---
 
 
-**Four Gospels 10**
+*by Rev. Mark Perkins, Pastor, Front Range Bible Church, Denver,
+Colorado USA*
 
-The Four Gospels
-
-**by Rev. Mark Perkins, Pastor, Front Range Bible Church, Denver,
-Colorado USA**
-
-General Introduction.
+**General Introduction**
 
 In the middle of the 6th decade of the first century, Christianity had
 reached a crisis. Nero had begun his persecutions, and the Romans had
@@ -229,7 +225,7 @@ problems with reference to inspiration. The accounts do harmonize well,
 and the problems that go with a harmony are easily and rationally
 accounted for.
 
-The Gospel of Matthew.
+**The Gospel of Matthew**
 
 For each gospel, we will follow this order:
 
@@ -369,7 +365,7 @@ numbers and accounts lead naturally to literary order. There is great
 continuity in the order of the subjects, and excellent literary
 transition.
 
-The Gospel of Mark.
+**The Gospel of Mark**
 
 **The Author(s) - Mark and Peter.**
 
@@ -544,7 +540,7 @@ give it. The contrast would be striking.
 Chronological - Apparently, Mark’s gospel follows closely the actual
 chronological order of events in the life of Christ.
 
-The Gospel of Luke.
+**The Gospel of Luke**
 
 **The Author - Luke**
 
@@ -671,7 +667,7 @@ diagnosis he developed as a doctor come into play in this regard.
 Luke concentrates on the death of Christ. From chapter 9 forward he
 keeps the thread of Christ’s death in the fabric of his narrative.
 
-The Gospel of John
+**The Gospel of John**
 
 **The Author - John**
 
