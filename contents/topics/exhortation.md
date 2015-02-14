@@ -5,8 +5,7 @@ description: "Christians are commanded to \"exhort\" one another. Sometimes that
 template: topic.jade
 ---
 
-
-<sup>**Preach**</sup>**, Exhort, Rebuke**
+**Preach, Exhort, Rebuke**
 
 This article is an examination of several New Testament ideas related to
 various types of teaching. In particular, we are looking at several
@@ -47,11 +46,10 @@ sometimes necessary.
 correcting some fault, and it is linked with the ideas of discipline and
 instruction.
 
-Exposition of Titus 2:15
-========================
+**Exposition of Titus 2:15**
 
-**These things speak, and exhort, and rebuke with all authority. Let no
-man despise thee.**
+*These things speak, and exhort, and rebuke with all authority. Let no
+man despise thee.*
 
 “These things” refers to the sound doctrine which Titus was commanded to
 speak. And the rest of chapter 2 provides illustrations of the type of
@@ -146,8 +144,7 @@ so that the teacher can “exhort and convince the gainsayers”. It is the
 Word of God that is convincing, not the opinions, ideas, or sermonizing
 of someone who just wants to hold an audience.
 
-Preaching (keirugma)
-====================
+**Preaching (keirugma)**
 
 The word “preach” is found in many places in the New Testament (KJV);
 however, it has been translated from several different Greek words. For
@@ -220,8 +217,7 @@ is no finger-pointing or arm waving in **keirugma**.
     listeners with personality dynamics or bullying techniques. The
     listener can accept or reject the message in private.
 
-Exhortation (parakleisis)
-=========================
+**Exhortation (parakleisis)**
 
 from International Standard Bible Encyclopedia
 
@@ -262,7 +258,7 @@ of an “exhortation” are seen in the rejoicing of the congregation of
 Antioch when they received the letter from the Jerusalem Council (Acts
 15:31) and in the words of wisdom of Prov. 3:11f quoted in He. 12:5f.
 
-#### Bible references to exhortation (King James Version)
+**Bible references to exhortation (King James Version)**
 
 **Acts 2:40**. And with many other words did he testify and **exhort**
 saying, Save yourselves from this untoward generation.
@@ -308,8 +304,7 @@ the gainsayers.
 **Titus 2:9**. **Exhort** servants to be obedient unto their own
 masters, and to please them well in all things, not answering again.
 
-Rebuke (elegko)
-===============
+**Rebuke (elegko)**
 
 Rebuke is the task of convincing people to repent (to re-think a
 viewpoint) and to decide in favor of God’s will in a matter.
@@ -323,8 +318,7 @@ evidence.
 
 (3) to examine, to question, to prove or attest.
 
-Examples of Rebuking
---------------------
+**Examples of Rebuking**
 
 Here is a case of one believer rebuking another believer. Note the steps
 that must occur before a matter is made public.
@@ -431,8 +425,7 @@ Bible doctrine will not be received by someone who is defensive, angry,
 embarrassed. **Elegko** is not a chewing out; it is a presentation of
 doctrine.
 
-Severe Rebuke (epitimao)
-------------------------
+**Severe Rebuke (epitimao)**
 
 The New Testament maintains very heavy restrictions on rebuke,
 forbidding rebuke except as brotherly correction, and teaching effective
