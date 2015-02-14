@@ -5,12 +5,7 @@ description: "Friendships -  Every meeting with another person is a divine encou
 template: topic.jade
 ---
 
-
-**Friendships 3**
-
-**Friendships**
-
-Witnessing to Acquaintances and Friends
+**Witnessing to Acquaintances and Friends**
 
 Many people are nervous and self conscious when meeting new people.
 Everyone knows that first impressions are important, and some people
@@ -43,7 +38,7 @@ different from the usual response. The wrong response is “I wonder what
 he things of me?” The correct response is “What is God doing in his
 life; and what can I do to help?”
 
-Degrees of Friendship
+**Degrees of Friendship**
 
 The type of relationship you can have with an individual depends upon
 the degree of friendship which has been established between you. Bill
