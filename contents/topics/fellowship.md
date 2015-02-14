@@ -13,7 +13,7 @@ These four areas of fellowship are described in two couplets, that is, doctrine 
 The Greek term for fellowship is κοινονια (**koinonia**). The following is a brief word study on the meaning of **koinonia** as it relates to man. Fellowship with God, as described in 1 John 1 is not included in
 this study.
 
-**Ddefinition**
+**Definition**
 
 The word **koinonia** carries the basic idea of having something in common. The word is related to κοινη (**koine**), meaning common, which we use to refer to **koine** Greek, the original language of the New Testament, which was common to many people at a certain time in history. Jude 3 speaks of our common (**koine**) salvation, referring to a salvation known and shared by all believers. The best way to bring the meaning of **koinonia** into English is to speak of joint participation
 in something.
