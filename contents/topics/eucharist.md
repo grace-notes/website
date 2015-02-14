@@ -1,14 +1,9 @@
 ---
-title: "Eucharist"
+title: "The Eucharist (the Lord's Table)"
 pdf: "eucharist.pdf"
 description: "The history of the relationship between the Passover and the Lord's Supper."
 template: topic.jade
 ---
-
-
-**Eucharist 3**
-
-**The Eucharist (Lord’s Table)**
 
 **Read Luke 22:14-20**
 
@@ -187,6 +182,3 @@ real to us just as he was a real human being.
 And when we partake of the Eucharist we participate in our spirit and in
 our flesh – in all our senses – in the Life that was His Life – the Life
 that is His Life now.
-
-===============================
-
