@@ -6,11 +6,6 @@ description: "Divine Discipline, Five Cycles -  Jehovah chastens nations which a
 template: topic.jade
 ---
 
-
-**Five Cycles of Discipline 4**
-
-The Five Cycles of Divine Discipline
-
 by Rev. Mark Perkins
 
 Whom the Lord loves, He chastens, whether it is an individual, a city or
