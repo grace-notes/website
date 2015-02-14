@@ -1,6 +1,6 @@
 ---
 title: The Essence of God
-pdf: 
+pdf: essence_singlecolumn.pdf
 template: topic.jade
 ---
 
