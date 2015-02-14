@@ -1,12 +1,10 @@
 ---
-title: "Jesus Christ, the Rock"
+title: "Jesus Christ the Rock"
 indexTitle: "Rock, Jesus Christ the Rock"
 pdf: "christtherock.pdf"
-description: "Scriptures referring to Jesus Christ as the Rock."
+description: "Scriptures refer to Jesus Christ as the Rock."
 template: topic.jade
 ---
-
-Jesus Christ the Rock
 
 **Acts 4:11**
 
@@ -20,17 +18,15 @@ Jesus Christ the Rock
 
 2.  Christ is the Rock of Judgment: Isa. 8:14; 1 Pet. 2:8
 
-2.  Christ is the Rock of Provision: Isa. 26:3,4
+3.  Christ is the Rock of Provision: Isa. 26:3,4
 
-2.  Christ is the Foundation Rock: Isa. 28:16; Psalm 118:22
+4.  Christ is the Foundation Rock: Isa. 28:16; Psalm 118:22
 
-2.  Christ is the Rock of the Church: Matt. 16:16; 1 Cor. 3:11; Eph. 2:20-22.
+5.  Christ is the Rock of the Church: Matt. 16:16; 1 Cor. 3:11; Eph. 2:20-22.
 
-2.  Christ is the Destroying Rock at the 2<sup>nd</sup> Advent: Dan. 2:35, He’s the Rock cut out without hands that crushes the image.
+6.  Christ is the Destroying Rock at the 2<sup>nd</sup> Advent: Dan. 2:35, He’s the Rock cut out without hands that crushes the image.
 
 The Jews understood these references; and Peter is telling them that they have “set at nought” the Lord, having rejected Him and totally disregarded Him.
 
 Christ “became” the “head of the corner,” referring to His joining the two spiritual kingdoms, the Church and born-again Israel. After the 2nd Advent, there will also be political unity, but of course made up only of believers in Christ.
-
-ade up only of believers in Christ.
 

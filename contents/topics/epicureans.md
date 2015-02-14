@@ -5,11 +5,6 @@ description: "Epicurus and his followers devoted themselves primarily to the pur
 template: topic.jade
 ---
 
-
-**Epicureans 4**
-
-**Epicureans**
-
 Epicureans were members of a philosophical movement initiated by
 Epicurus (341–270 b.c.) on Lesbos off the western coast of Asia Minor
 (311 b.c.) and taken to Athens (306 b.c.). The movement, which

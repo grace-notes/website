@@ -5,11 +5,6 @@ description: "A dispensation is a period of time which is identified by its rela
 template: topic.jade
 ---
 
-
-**Dispensations 8**
-
-**Dispensations**
-
 Section 1: Article on Dispensations by Rev. Bob Bolender, Pastor, Austin
 Bible Church, Austin, Texas
 

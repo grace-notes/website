@@ -1,11 +1,9 @@
 ---
-title: "Edification"
+title: "Edification: Growing in Christ"
 pdf: "edification.pdf"
 description: "the doctrine of growing in the knowledge of Jesus Christ, leading to productivity in the Christian way of life."
 template: topic.jade
 ---
-
-**Edification: Growing in Christ**
 
 One of the words in the Bible used to describe Christian growth is edification. Edification is the process of spiritual growth in a Christian who is living according to the plan of God and who is fulfilling the command to grow in the grace and in knowledge of Jesus Christ.
 
@@ -154,8 +152,6 @@ The gift of tongues illustrated how not to do things decently and in order. For 
 You begin with a foundation of eternal salvation and a body of teaching, the revealed scriptures, built upon the apostles and prophets, Jesus Christ Himself being the chief cornerstone.
 
 The moment you personally believed in Jesus Christ, a foundation was constructed, comprised of the many things from God. The foundation is Jesus Christ.
-
-TOPIC: Salvation Doctrines
 
 The foundation is constructed on the saving work of Jesus Christ on the cross, Please see Grace Notes topics: redemption, propitiation, reconciliation, imputation and justification.
 

@@ -5,33 +5,30 @@ description: "The importance of the doctrine of Circumcision in Church Age teach
 template: topic.jade
 ---
 
-
-**Circumcision 2**
-
-Circumcision
-
 One of the first acts of circumcision in the human race involved
 Abraham.
 
-*Genesis 17:6-11 And I will make thee exceedingly fruitful, and I will
-make nations of thee, and kings shall come out of thee.*
+*Genesis 17:6-11*
 
-*And I will establish my covenant between me and thee and thy seed after
+>And I will make thee exceedingly fruitful, and I will
+make nations of thee, and kings shall come out of thee.
+
+>And I will establish my covenant between me and thee and thy seed after
 thee in their generations for an everlasting covenant, to be a God unto
-thee, and to thy seed after thee.*
+thee, and to thy seed after thee.
 
-*And I will give unto thee, and to thy seed after thee, the land wherein
+>And I will give unto thee, and to thy seed after thee, the land wherein
 thou art a stranger, all the land of Canaan, for an everlasting
-possession; and I will be their God.*
+possession; and I will be their God.
 
-*And God said unto Abraham, Thou shalt keep my covenant therefore, thou,
-and thy seed after thee in their generations.*
+>And God said unto Abraham, Thou shalt keep my covenant therefore, thou,
+and thy seed after thee in their generations.
 
-*This is my covenant, which ye shall keep, between me and you and thy
-seed after thee; Every man child among you shall be circumcised.*
+>This is my covenant, which ye shall keep, between me and you and thy
+seed after thee; Every man child among you shall be circumcised.
 
-*And ye shall circumcise the flesh of your foreskin; and it shall be a
-token of the covenant betwixt me and you.*
+>And ye shall circumcise the flesh of your foreskin; and it shall be a
+token of the covenant betwixt me and you.
 
 This initial act of circumcision was the seal of Abraham’s faith in
 God’s promise of possessing the land. It was the indication that Abraham
@@ -48,16 +45,18 @@ children on the 8th day was an act of dedication by the parents. By this
 means they declared that they would teach salvation by faith to their
 children. They anticipated that their children would become believers.
 
-*Col. 2:11-13 In whom also ye are circumcised with the circumcision made
+*Col. 2:11-13*
+
+>In whom also ye are circumcised with the circumcision made
 without hands, in putting off the body of the sins of the flesh by the
-circumcision of Christ:*
+circumcision of Christ:
 
-*Buried with him in baptism, wherein also ye are risen with him through
-the faith of the operation of God, who hath raised him from the dead.*
+>Buried with him in baptism, wherein also ye are risen with him through
+the faith of the operation of God, who hath raised him from the dead.
 
-*And you, being dead in your sins and the uncircumcision of your flesh,
+>And you, being dead in your sins and the uncircumcision of your flesh,
 hath he quickened together with him, having forgiven you all
-trespasses.*
+trespasses.
 
 Circumcision is also a picture of positional truth, especially the
 identification with Jesus Christ in His death, burial, and resurrection.
@@ -77,25 +76,27 @@ about to enter. There can be no victory over Canaan until there is
 victory over carnality (Egypt). Circumcision denotes separation from the
 world and the flesh, self-judgment, yieldedness, dedication, commitment.
 
-*Romans 4:9-13 Cometh this blessedness then upon the circumcision only,
+**Romans 4:9-13**
+
+>Cometh this blessedness then upon the circumcision only,
 or upon the uncircumcision also? for we say that faith was reckoned to
-Abraham for righteousness.*
+Abraham for righteousness.
 
-*How was it then reckoned? when he was in circumcision, or in
-uncircumcision? Not in circumcision, but in uncircumcision.*
+>How was it then reckoned? when he was in circumcision, or in
+uncircumcision? Not in circumcision, but in uncircumcision.
 
-*And he received the sign of circumcision, a seal of the righteousness
+>And he received the sign of circumcision, a seal of the righteousness
 of the faith which he had yet being uncircumcised: that he might be the
 father of all them that believe, though they be not circumcised; that
-righteousness might be imputed unto them also.*
+righteousness might be imputed unto them also.
 
-*And the father of circumcision to them who are not of the circumcision
+>And the father of circumcision to them who are not of the circumcision
 only, but who also walk in the steps of that faith of our father
-Abraham, which he had being yet uncircumcised.*
+Abraham, which he had being yet uncircumcised.
 
-*For the promise, that he should be the heir of the world, was not to
+>For the promise, that he should be the heir of the world, was not to
 Abraham, or to his seed, through the law, but through the righteousness
-of faith.*
+of faith.
 
 Circumcision is a sign of imputed righteousness; it is the sign that one
 has believed and is cleansed by the blood of Christ and has God’s

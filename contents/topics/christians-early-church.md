@@ -5,11 +5,6 @@ description: "A description of the life of Christians in the early church, as fo
 template: topic.jade
 ---
 
-
-**Inspiration 2**
-
-**Christians of the Early Church**
-
 This is a description of the Christians of the early church, as found in
 a letter called the “Epistle to Diognetus”, by an unknown author of the
 2nd Century.
@@ -60,17 +55,4 @@ incorruption in heaven. The soul is the better for restriction in food
 and drink; and the Christians increase, though daily punished. This lot
 God has assigned to the Christians in the world; and it cannot be taken
 from them.
-
-For an index of topics, or information about regular Bible studies,
-write to:
-
-Warren Doud  
-**Grace Notes**  
-1705 Aggie Lane  
-Austin, Texas 78757  
-E-Mail: wdoud@gracenotes.info  
-URL: http://www.gracenotes.info
-
-There is no charge for Grace Notes materials. The work is supported by
-Christians who pray for the ministry and share in the expenses.
 

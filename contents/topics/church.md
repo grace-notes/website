@@ -1,14 +1,9 @@
 ---
-title: "Church, the Body of Christ"
+title: "The Church, the Body of Christ"
 pdf: "church.pdf"
 description: "Many people think of church in terms of brick and mortar, program and form. But in these passages you will learn that the Church is a spiritual organism, dear to the heart of God the Father."
 template: topic.jade
 ---
-
-
-**The Church 3**
-
-**The Church**
 
 This article is compiled from the teachings of Chester McCalley, late
 pastor of Beth Haven Church in North Kansas City, Missouri.
@@ -26,15 +21,15 @@ spiritual organism, dear to the heart of God the Father.
 Jesus’ Use of the Word “Church”
 -------------------------------
 
-**Matthew 16:16-18**<sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
+**Matthew 16:16-18**
 
-Simon Peter answered, “You are the Christ, the Son of the living God.”
+>Simon Peter answered, “You are the Christ, the Son of the living God.”
 
-And Jesus said to him, “Blessed are you, Simon Barjona, because flesh
+>And Jesus said to him, “Blessed are you, Simon Barjona, because flesh
 and blood did not reveal *this* to you, but My Father who is in heaven.
 
-I also say to you that you are Peter, and upon this rock I will build My
-church; and the gates of Hades will not overpower it.
+>I also say to you that you are Peter, and upon this rock I will build My
+church; and the gates of Hades will not overpower it.*
 
 This is the first time Jesus utters the word “church”, in fact it is the
 first occurrence in the Bible. Jesus used the word two other times in
@@ -68,10 +63,10 @@ What is the Church?
 
 **Ephesians 1:22, 23**
 
-And He put all things in subjection under His feet, and gave Him as head
+>And He put all things in subjection under His feet, and gave Him as head
 over all things to the church,
 
-which is His body, the fullness of Him who fills all in all.
+>which is His body, the fullness of Him who fills all in all.
 
 The church is clearly defined as “His body”; the church is the Body of
 Christ. Nothing is more important to understand than this concept.
@@ -86,7 +81,7 @@ The Bible relates Jesus Christ to the church in three ways:
 
 **Colossians 1:18**
 
-He is also head of the body, the church; and He is the beginning, the
+>He is also head of the body, the church; and He is the beginning, the
 firstborn from the dead, so that He Himself will come to have first
 place in everything.
 
@@ -95,7 +90,7 @@ How Do We Enter the Church?
 
 **1 Corinthians 12:13**
 
-For by one Spirit we were all baptized into one body, whether Jews or
+>For by one Spirit we were all baptized into one body, whether Jews or
 Greeks, whether slaves or free, and we were all made to drink of one
 Spirit.
 
@@ -119,11 +114,11 @@ When Was the Church Formed?
 
 **Acts 1:4,5**
 
-Gathering them together, He commanded them not to leave Jerusalem, but
+>Gathering them together, He commanded them not to leave Jerusalem, but
 to wait for what the Father had promised, “Which,” *He said*, “you heard
 of from Me;
 
-for John baptized with water, but you will be baptized with the Holy
+>for John baptized with water, but you will be baptized with the Holy
 Spirit not many days from now.”
 
 In Acts 1 we learn that Jesus had died, had risen from the dead, and was
@@ -135,15 +130,15 @@ several days in the future at this time, “not many days hence.”
 
 **Acts 2:1-4**
 
-When the day of Pentecost had come, they were all together in one place.
+>When the day of Pentecost had come, they were all together in one place.
 
-And suddenly there came from heaven a noise like a violent rushing wind,
+>And suddenly there came from heaven a noise like a violent rushing wind,
 and it filled the whole house where they were sitting.
 
-And there appeared to them tongues as of fire distributing themselves,
+>And there appeared to them tongues as of fire distributing themselves,
 and they rested on each one of them.
 
-And they were all filled with the Holy Spirit and began to speak with
+>And they were all filled with the Holy Spirit and began to speak with
 other tongues, as the Spirit was giving them utterance.
 
 This passages relates a fulfillment of prophecy. The key expression is
@@ -159,13 +154,13 @@ of what happened on the day of Pentecost..
 
 Acts 11:15-17
 
-And as I began to speak, the Holy Spirit fell upon them just as *He did*
+>And as I began to speak, the Holy Spirit fell upon them just as *He did*
 upon us at the beginning.
 
-And I remembered the word of the Lord, how He used to say, ‘John
+>And I remembered the word of the Lord, how He used to say, ‘John
 baptized with water, but you will be baptized with the Holy Spirit.’
 
-Therefore if God gave to them the same gift as *He gave* to us also
+>Therefore if God gave to them the same gift as *He gave* to us also
 after believing in the Lord Jesus Christ, who was I that I could stand
 in God’s way?”
 
@@ -174,7 +169,7 @@ The Church as a Reality
 
 **Acts 5:11**
 
-And great fear came over the whole church, and over all who heard of
+>And great fear came over the whole church, and over all who heard of
 these things.
 
 Therefore, the church became an existing, present reality on the Day of
@@ -204,7 +199,4 @@ was no earlier than the 2<sup>nd</sup> or 3<sup>rd</sup> century.
 The church is *never* a denomination
 
 The local church is the center of God’s operation today.
-
-[1](#sdfootnote1anc) Scripture quotations are taken from the New
-American Standard Bible.
 

@@ -5,8 +5,7 @@ description: "Biographies of the twelve and other disciples"
 template: topic.jade
 ---
 
-The Official Calling of the Disciples
-=====================================
+**The Official Calling of the Disciples**
 
 Matthew 4:18-22; Mark 1:16-20
 
@@ -107,11 +106,9 @@ likely the only ones with Him during this time. It would be only a short
 while until the call of Matthew, and a little more time until the twelve
 are officially appointed.
 
-The Disciples
-=============
+**The Disciples**
 
-Matthew
--------
+**Matthew**
 
 God used an outcast. His name is a transliteration of the Aramaic word
 which means gift of God.
@@ -157,8 +154,7 @@ Matthew is a rich man who defied the odds.
 
 Remember Matthew if you are an outcast.
 
-John Boanerges
---------------
+**John Boanerges**
 
 Cousin “according to the flesh” of Jesus Christ. Brother of James (not
 the epistle writer). A native of Galilee. John’s mother Salome was a
@@ -213,8 +209,7 @@ ideas.
 He was the key figure in the transition from the pre-canon period to the
 post canon period.
 
-Peter
------
+**Peter**
 
 Peter’s name was also Simon. The testimony of Peter always stands behind
 the writing of Mark in this epistle.
@@ -337,8 +332,7 @@ following through.
 But Peter recovers, and not long before his death he writes the most
 marvelous gospel and two Epistles.
 
-James Boanerges
----------------
+**James Boanerges**
 
 What we know about James is mostly related to his much more famous
 brother, John. Matt 4:21 communicates that they left the business and
@@ -371,8 +365,7 @@ This martyrdom may have been part of the impetus for John’s late
 ministry, because it is only after this that John begins to rev up his
 engines.
 
-Andrew, Simon’s brother
------------------------
+**Andrew, Simon’s brother**
 
 Andrew is properly the first disciple of Christ. This is perhaps the
 most significant fact of his life. His brother Simon and business
@@ -392,8 +385,7 @@ People ask him for advice at the feeding of the five thousand, John 6:8.
 He is included in the inner circle at the Mt. of Olives during the last
 week of Christ’s life.
 
-Philip
-------
+**Philip**
 
 Philip is from the hometown of Andrew and Peter, Bethsaida. He is
 another of those conservative, rebellious Galileans.
@@ -423,8 +415,7 @@ him again that He is the embodiment of the father, John 14:6-11.
 Philip is a good disciple to study for all the skeptics. He probably
 out-doubts Thomas.
 
-James Alphaeus
---------------
+**James Alphaeus**
 
 He is the cousin of Christ. His mother Mary is the sister in law of Mary
 the mother of Christ.
@@ -436,8 +427,7 @@ His father is Cleopas, one of the men on the road to Emmaus.
 Apart from this we know little, but it appears that he wielded much
 influence in his family, for they seemed to all follow Christ.
 
-Nathanael Bartholomew
----------------------
+**Nathanael Bartholomew**
 
 This man may be a celebrity, or at least from a famous family.
 
@@ -511,8 +501,7 @@ the prayers to God, and returning the answers to man. However, this is a
 literal vision, and so Nathanael will have the gift of seeing behind the
 scenes of prayer.
 
-Thomas
-------
+**Thomas**
 
 This is the second of the doubters (see Phillip) among the disciples,
 although all seem to fail, and doubt is the seed of all failure.
@@ -575,8 +564,7 @@ to Him, My Lord and my God!’ Jesus said to him, ‘Because you have seen
 Me, have you believed? Blessed are they who did not see, and yet
 believed.’”
 
-Judas the unknown, or Thaddeus, or Lebbaeus
--------------------------------------------
+**Judas the unknown, or Thaddeus, or Lebbaeus**
 
 **John 14:21-23** “He who has My commandments and keeps them, he it is
 who loves Me; and he who loves Me shall be loved by My Father, and I
@@ -595,8 +583,7 @@ he remains silent.
 Thaddeus or Lebbaeus means ‘breast’. This may be a clue to this man’s
 affectionate or endearing nature, but such is only speculation.
 
-Simon the Zealot
-----------------
+**Simon the Zealot**
 
 More often called the Canaanite, which means zealot. We know nothing
 more about him.
@@ -619,8 +606,7 @@ Although they were politically correct (not in the modern sense), they
 were morally wrong, and in this they were most similar to the southern
 U.S. in the early 1800’s.
 
-Judas Iscariot, the Traitor.
-----------------------------
+**Judas Iscariot, the Traitor**
 
 All four of the gospels reveal before the fact that Judas will betray
 Jesus Christ, Matt 10:4; Mk 8:19; Luke 6:15; John 6:71.
@@ -691,8 +677,7 @@ spiritual footing as men. As a result, Christ gained many women
 followers who were in many ways more valuable than even His closest
 disciples.
 
-Salome. Mk 15:40; 16:1.
------------------------
+**Salome. Mk 15:40; 16:1.**
 
 She is the mother of James and John, the husband of Zebedee; she is
 Mary, Jesus’ mother’s sister, and so the aunt of Jesus Christ.
@@ -724,8 +709,7 @@ The women reported to the eleven disciples and the other followers of
 Jesus, but they did not tell any outsiders. This is the explanation for
 the final verse.
 
-Mary from Magdala
------------------
+**Mary from Magdala**
 
 **Luke 8:1-3**, “And it came about soon afterwards, that He began going
 about from one city and village to another, proclaiming and preaching
@@ -769,8 +753,7 @@ She goes and finds one of the disciples, and they treat her like Christ
 never did. They do not believe her words, and so they decide that they
 better check things out for themselves.
 
-Mary, the sister of Martha and Lazarus
---------------------------------------
+**Mary, the sister of Martha and Lazarus**
 
 **Luke 10:38-42**tells us that Mary had her priorities straight: “now as
 they were traveling along, He entered a certain village; and a woman
@@ -833,7 +816,9 @@ than we do in the era of modern plumbing.
 The sweet fragrance of the sacrifice of the Lamb of God was literal, as
 well as spiritual, thanks to Mary.
 
-Mary, the mother of James Alphaeus. She does not say anything, but
+**Mary, the mother of James Alphaeus**
+
+She does not say anything, but
 Scripture records her as present at the cross and resurrection. Her
 husband is one of those who talked to the resurrected Christ one the
 road to Emmaus.

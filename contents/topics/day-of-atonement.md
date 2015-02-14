@@ -5,19 +5,12 @@ description: "an exposition of Leviticus 16; Keil and Delitzsch"
 template: topic.jade
 ---
 
-
-**The Day of Atonement 9**
-
-The Day of Atonement
-====================
-
-Commentary on Leviticus 16, from ***Commentary on the Old Testament***,
+Commentary on Leviticus 16, from *Commentary on the Old Testament*,
 C. F. Keil and F. Delitzsch
 
-Leviticus 16
-============
+**Leviticus 16**
 
-**Leviticus 16.** The sacrifices and purifications enjoined thus far did
+The sacrifices and purifications enjoined thus far did
 not suffice to complete the reconciliation between the congregation of
 Israel, which was called to be a holy nation, but in its very nature was
 still altogether involved in sin and uncleanness, and Jehovah the Holy

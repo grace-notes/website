@@ -1,10 +1,8 @@
 ---
-title: Faith.doc
+title: Faith
+pdf: faith.pdf
 template: topic.jade
 ---
-
-
-**Faith**
 
 **Belief and Believing**
 
@@ -76,7 +74,7 @@ belief, their faith, in the propositions he sets forth. A careful
 student of history will have faith only in historians who meet his
 standards for honesty.
 
-The Common Historical Bias
+**The Common Historical Bias**
 
 But there are many historians, and other people, of course, whose
 opinions about historical facts are colored by their religious and anti
@@ -127,7 +125,7 @@ plausibility, the believability, of history depends on the
 trustworthiness of the witnesses, not upon the erudition of the
 historian.
 
-History and Bible Study
+**History and Bible Study**
 
 Studying the Bible in the twentieth century involves a great deal of
 intense historical scholarship. One begins by placing some confidence,
@@ -263,28 +261,28 @@ believer’s ability to use faith. Several important factors in the
 development of Christian faith are listed here along with some
 representative Bible passages.
 
-• Faith requires the continuous intake of truth from the word of God.
+Faith requires the continuous intake of truth from the word of God.
 “…faith cometh by hearing and hearing by the word of God…”, Rom. 10:17.
 
-Faith is not a fruit of the Holy Spirit.
+**Faith is not a fruit of the Holy Spirit.**
 
-• Faith must be exercised daily by using faith rest principles in day to
+**Faith must be exercised daily by using faith rest principles in day to
 day living, “…we who have believed do enter into rest…”, Heb. 4:1–3; and
 by using faith and patience in all situations, “…the testing of your
 faith produces endurance.”, James 1:3.
 
-• Applied knowledge overflowing from the human spirit, which refers to
+* Applied knowledge overflowing from the human spirit, which refers to
 all witnessing, requires the exercise of faith. “…that Christ may dwell
 in your hearts by faith…”, Eph. 3:17-20.
 
-• Moving towards maturity includes the development of great faith.
+* Moving towards maturity includes the development of great faith.
 “…this is the victory that overcomes the world, our faith…”, 1 John 5:4,
 5; Heb. 11:6.
 
-• Daily occupation with the Lord Jesus Christ completes faith. “Looking
+* Daily occupation with the Lord Jesus Christ completes faith. “Looking
 unto Jesus, the author and perfecter of faith…”, Heb. 12:2.
 
-• Undeserved suffering both tests and strengthens faith. “…the proof of
+* Undeserved suffering both tests and strengthens faith. “…the proof of
 your faith…”, 1 Peter 1:7, 8.
 
 **The word faith in the Bible**
@@ -292,19 +290,19 @@ your faith…”, 1 Peter 1:7, 8.
 In the Greek language of the New Testament there are five words which
 are rendered faith in the King James Version. They are:
 
-**,**(pistis), noun, meaning faith; faithful; reliable; that which
+(pistis), noun, meaning faith; faithful; reliable; that which
 is believed, and, with the definite article, doctrine.
 
-**,** (pistos), adjective, meaning dependable; inspiring of trust;
+(pistos), adjective, meaning dependable; inspiring of trust;
 believing.
 
-**,** (pisteuo), verb, meaning to believe; to be convinced.
+(pisteuo), verb, meaning to believe; to be convinced.
 
-**,** (peitho), verb, meaning to obey in the present tense; to be
+(peitho), verb, meaning to obey in the present tense; to be
 persuaded in the aorist tense; to have confidence in the perfect tense;
 faith in all tenses.
 
-**,** (pistoo), verb, meaning to show oneself faithful; to feel
+(pistoo), verb, meaning to show oneself faithful; to feel
 confidence.
 
 In the Hebrew of the Old Testament there are ten words which are

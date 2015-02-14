@@ -5,11 +5,6 @@ description: "the man who \"was not, because God took him.\""
 template: topic.jade
 ---
 
-
-**Enoch 2**
-
-Enoch
-
 by Pastor Mark Perkins, Front Range Bible Church, Denver, Colorado
 
 Genesis 5:22-24 tells Enoch’s story:

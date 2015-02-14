@@ -5,9 +5,6 @@ description: "Canaan is an ancient name for the area that includes all of the la
 template: topic.jade
 ---
 
-
-**Canaan**
-
 From International Standard Bible Encyclopedia
 
 **Canaan**kāʹnən **CANAANITES** [Heb *k*<sup>*e*</sup>*na‘an,
@@ -18,7 +15,7 @@ in the period preceding the Israelite occupation, and their cultural
 successors; the word is also found as an appellation for merchants.
 
 I. Name
-=======
+-------
 
 The origin and meaning of the name Canaan has yet to be satisfactorily
 explained. The etymon closest at hand is the Semitic *knÔ* (“be humble,
@@ -67,7 +64,7 @@ became identified with the people who were the merchants par excellence
 of the ancient world.
 
 II. Land
-========
+--------
 
 The name Canaan as a designation of the land was current, according to
 established records, only in the Late Bronze Age (ca 1550–1200). By the
@@ -76,7 +73,9 @@ archaic and no longer corresponded to any political reality. Similarly,
 the use of the term for Phoenicia in Hellenistic texts was archaic, a
 nostalgic revival.
 
-***A. Extrabiblical Sources***A very early reference to the land of
+***A. Extrabiblical Sources***
+
+A very early reference to the land of
 Canaan is found in an inscription of Idrimi king of Alalakh (15th cent).
 He reports that during a period of exile, assuming the throne, he had
 gone to Ammia in the “land of Canaan” (*ma-at ki-in-a-nimki*). Ammia can
@@ -136,7 +135,9 @@ therefore, Canaan includes all of Cisjordan from *Wâdī el-‘Arîsh* in the
 south, the Mediterranean coast to the borders of Amurru in the north,
 and the inland area from Lebweh to Bashan.
 
-***B. Biblical Sources***The biblical descriptions of the land of Canaan
+***B. Biblical Sources***
+
+The biblical descriptions of the land of Canaan
 correspond to the Late Bronze Age usage in a way that can be explained
 only by the existence of a list of the principal boundary points. The
 persistence of this tradition is quite remarkable in view of the fact
@@ -187,7 +188,7 @@ land to the Euphrates (Dt. 1:7; contrast Gen. 15:18–20 [J] with Gen.
 17:8 [P]).
 
 III. People
-===========
+-----------
 
 The Canaanites may best be described as the inhabitants of the land of
 Canaan. They should not be thought of as a race in modern terms. People
@@ -276,7 +277,7 @@ Forms of NT Proper Names* [1912], p. 5), the designation of Simon in Mt.
 10:4 (TR *Kananitēs*, “citizen of Cana”) and Mk. 3:18.
 
 IV. History
-===========
+-----------
 
 When and how the dominant culture known as Canaanite first appeared is
 not directly answerable from the data now available. The most important
@@ -288,7 +289,9 @@ metals — copper, bronze, and iron. Customarily the Bronze Age (ca
 should not prejudice the question of when the culture known from the
 latest phase of this period was formed.
 
-***A. Early Bronze Age***Since only in the Late Bronze period can the
+***A. Early Bronze Age***
+
+Since only in the Late Bronze period can the
 political history be written with any confidence, observations about the
 earlier periods must be limited to general and largely hypothetical
 statements. The evidence is mostly archeological with occasional help
@@ -352,7 +355,9 @@ eventually enveloped every civilization of the ancient world. Many
 factors must have been at work, and migrations were as much the result
 of these destructions as the cause of them.
 
-***B. Middle Bronze Age***The first part of the Middle Bronze Age (MB I,
+***B. Middle Bronze Age***
+
+The first part of the Middle Bronze Age (MB I,
 ca 2200–1950) is largely a continuation of the last part of the EB
 period (EB IV). The characteristics of this period are regionalism of
 the material culture, lack of fortifications, abandonment of the EB
@@ -425,8 +430,9 @@ with rulers who possessed Indo-Aryan names. These two movements, one
 from the north, the other from the south, largely established the
 character of the subsequent centuries in Canaan.
 
-***C. Late Bronze Age***(*ca 1550–1200)* The resurgence of Egyptian
-power began with the campaigns of Ahmose (ca 1570–1546), who, as part of
+***C. Late Bronze Age***(*ca 1550–1200*)
+
+The resurgence of Egyptian power began with the campaigns of Ahmose (ca 1570–1546), who, as part of
 his effort to rid Egypt of the hated Hyksos, ventured into Canaan.
 Considerable violence accompanied the change of orders and many cities
 were destroyed. Of more lasting importance were the campaigns of
@@ -492,7 +498,7 @@ like Israel. It marked the effective end of the history of the
 Canaanites.
 
 V. Society
-==========
+----------
 
 Direct information about the social structure is scarce from Canaan
 itself. The texts of Ugarit and Alalakh are very informative, however,
@@ -534,7 +540,7 @@ officially stateless people who typically formed bands of freebooters
 and when sufficiently numerous became a danger to the state itself.
 
 VI. Language
-============
+------------
 
 The term Canaanite is used to describe the non-Aramaic group of
 first-millennium languages that are part of the Northwest Semitic
@@ -586,7 +592,7 @@ this alphabet is its use of three signs for the glottal stop, one for
 each of three principal Semitic vowels (*’a, ’i, ’u*).
 
 VII. Influences on Israel
-=========================
+-------------------------
 
 The people of Israel clearly thought of themselves as separate from
 their Canaanite neighbors. In fact, they were repeatedly enjoined to

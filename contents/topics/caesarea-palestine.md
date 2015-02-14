@@ -5,13 +5,7 @@ description: "Caesarea, the Roman capital of Judea in the time of Christ and Pau
 template: topic.jade
 ---
 
-
-**Caesarea - Judea**
-
-**Caesarea Palestine**
-
 from the Thompson Chain Reference Bible
----------------------------------------
 
 Caesarea, the Roman capital of Judea in the time of Christ and Paul, was
 located by the sea, thirty-two miles north of Joppa, and some sixty
@@ -51,10 +45,9 @@ breakwater protruded here and there above the waters, but undersea
 explorations went far in confirming Josephus’ description of Caesarea’s
 massive and extensive harbor.
 
-From the Encyclopedia Britannica
---------------------------------
+---
 
-\<http://www.britannica.com\>
+From the [Encyclopedia Britannica] (http://www.britannica.com)
 
 Caesarea
 --------

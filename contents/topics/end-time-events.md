@@ -5,8 +5,6 @@ description: "A review of all the happenings and activities which accompany the 
 template: topic.jade
 ---
 
-**END-TIME EVENTS**
-
 This is a listing of the events shown in the Bible which will occur during the “end times”. Even among those who hold a pre-millennial view of the end times, there are differences about the order of these events, but almost all think of these events as occurring during the end times.
 
 **EVENTS IMMEDIATELY BEFORE THE SEVEN-YEAR PERIOD**

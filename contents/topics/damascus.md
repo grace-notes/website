@@ -5,15 +5,7 @@ description: "an outline study of this oldest city in the world; of central inte
 template: topic.jade
 ---
 
-
-**Damascus 5**
-
-Damascus
-
-DAMASCUS
-========
-
-from “The Life and Epistles of St. Paul” by Conybeare and Howson.
+_from “The Life and Epistles of St. Paul” by Conybeare and Howson_
 
 Damascus is the oldest city in the world.
 <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> Its fame begins with the
@@ -104,7 +96,7 @@ Damascus
 
 by Dr. Glenn Carnagey
 
-1. The city’s name has been Damascus from about 1500 BC until the
+1 The city’s name has been Damascus from about 1500 BC until the
 present.
 
 Egyptian inscriptions speak of TI-MAS-KU and SA-RA-MAS-KI between the
@@ -114,7 +106,7 @@ The Arab name is DIMASHK ESH-SHAM or “DIMASHK of the Left”. The meaning
 of DIMASHK or Damascus is unknown, but the ESH-SHAM means “the Left” and
 is to be compared to YEMEN or “The Right”.
 
-2. The city is located in the NW corner of the Ghuta, a fertile plain
+2 The city is located in the NW corner of the Ghuta, a fertile plain
 about 2300 feet above sea level, East of Mt. Hermon.
 
 The Eastern part of the Ghuta, east of the city, is called the “Meadow
@@ -136,7 +128,7 @@ Its beauty can only be appreciated if seen from the desert point of
 view, and especially in the spring when its fruit trees bloom. (Apricot,
 pomegranates, walnuts and many others.
 
-3. The Structure of the City.
+3 The Structure of the City.
 
 The main part of the city runs east to west along the south bank of the
 river.
@@ -149,12 +141,12 @@ annual pilgrimage to Mecca.
 In the Greek and Roman period, a long colonnaded street ran through the
 city. (Acts 9:11) DERB EL-MUSTAKIM.
 
-- Archaeologists have uncovered parts of the Street Called Straight
+* Archaeologists have uncovered parts of the Street Called Straight
 
-- It runs from east to west with the Jewish Quarter on the South and the
+* It runs from east to west with the Jewish Quarter on the South and the
 Christian quarter on the North.
 
-- On the West end of town the street ends in the SUK EL- MIDHATIYEH, a
+* On the West end of town the street ends in the SUK EL- MIDHATIYEH, a
 bazaar built by MIDHAT PASHA, north of which is the Moslem quarter of
 the city, in which are the citadel and the Great Mosque.
 
@@ -163,12 +155,12 @@ Roman times, with Arab rebuilding above it.
 
 Biblical sites pointed out to the tourist are spurious.
 
-- Traditional site of Paul’s escape over the wall in a basket. II Cor
+* Traditional site of Paul’s escape over the wall in a basket. II Cor
 11:33; Acts 9:25
 
-- NAAMAN’s House. II Kings 5:1ff
+* NAAMAN’s House. II Kings 5:1ff
 
-4. Industry associated with Damascus.
+4 Industry associated with Damascus.
 
 It always was famous for its textile industry, from which the English
 word “Damask” is taken.
@@ -180,7 +172,7 @@ Timur (Tamerlane), the son of Genghis Khan, took the city and ended its
 armament production by carrying its armorers off to Samerkand, but the
 city went right on after 1399 AD.
 
-5. Early History of the City of Damascus.
+5 Early History of the City of Damascus.
 
 The earliest reference to it in Scripture is Genesis 15:2, in which
 Abraham complains that this “Son of possession”, BEN MESHEQ, ELIEZER,
@@ -197,7 +189,7 @@ Genesis 14:15, where Abraham is said to have pursued the four kings of
 Mesopotamia “as far as Hobah, which is on the left hand (North) of
 DAMASCUS.”
 
-6. Damascus during the time of David.
+6 Damascus during the time of David.
 
 Damascus allied itself with neighboring Aramaean cities against David.
 II Sam 8:5ff
@@ -211,7 +203,7 @@ where he ruled as king and built a powerful kingdom. I Kings 11:23ff
 
 Rezon continued to be a thorn in the side of Solomon. I K 11:25.
 
-7. The Aramaean Kingdom. (950-732 BC).
+7 The Aramaean Kingdom. (950-732 BC).
 
 Rezon may or may not be identical with Biblical Hezion, who fathered
 Tab-rimmon, Who in turn fathered Ben-hadad. I K 15:18
@@ -221,43 +213,43 @@ first-hand knowledge, when he became the nemesis of Ahab.
 
 He played Israel against Judah beautifully to the detriment of both.
 
-- ASA hired him with a bribe to attack Israel to relieve him. I K
+* ASA hired him with a bribe to attack Israel to relieve him. I K
 15:18ff
 
-- Either the above Ben-Hadad I or his successor, Ben-Hadad II, defeated
+* Either the above Ben-Hadad I or his successor, Ben-Hadad II, defeated
 Omri of Israel, annexed several Israelite cities, and secured the right
 to have Aramaic “streets” or Bazaars in Samaria, in about 880 BC.
 
 Ben-Hadad II, then, campaigned incessantly against Israel.
 
-(1) Scripture account of his campaigns against the Jews is found in I
+1.  Scripture account of his campaigns against the Jews is found in I
 Kings 20:22.
 
-(2) He won the first encounter, but later lost twice to Ahab.
+2. He won the first encounter, but later lost twice to Ahab.
 
-(3) He became a prisoner of Ahab after the Battle of Aphek, but was
+3. He became a prisoner of Ahab after the Battle of Aphek, but was
 treated with great consideration by Ahab.
 
-(4) Ahab demanded only the return of his cities and the reciprocal right
+4. Ahab demanded only the return of his cities and the reciprocal right
 of setting up “Streets” in Damascus as penalty.
 
-(5) Primary enemy was Assyria, who under Shalmaneser III, attacked a
+5. Primary enemy was Assyria, who under Shalmaneser III, attacked a
 coalition of 10 states including Israel & Damascus at the Battle of
 Qarqar in 854 BC, though the battle was a draw, neither side winning a
 decisive victory.
 
-(6) The Assyrians attacked Ben-Hadad twice more, in 842 and 846, with no
+6. The Assyrians attacked Ben-Hadad twice more, in 842 and 846, with no
 more decisive results than at Qarqar.
 
-(7) With the death of Ahab at Ramoth-Gilead the only threat to Damascus
+7. With the death of Ahab at Ramoth-Gilead the only threat to Damascus
 other than Assyria was ended.
 
 In about 844 BC Hazael murdered Ben-Hadad and usurped the throne.
 
-(1) He was attacked by the Assyrians in 842 and 839, again without any
+1. He was attacked by the Assyrians in 842 and 839, again without any
 decisive outcome.
 
-(2) From then until about 810 BC, the Assyrians stayed home, allowing
+2. From then until about 810 BC, the Assyrians stayed home, allowing
 the Aramaeans a free hand against the Jews.
 
 In 803 BC, Mari’ (Ben-Hadad III, Son of Hazael) was forced to become a
@@ -276,48 +268,48 @@ coalition. II K 15:37; 16:5; Isaiah 7.
 In 734 BC the Assyrians advanced and placed Damascus under siege, taking
 the city in 732 BC. Rezin was executed and the city was destroyed.
 
-**8. Subsequent to its destruction by the Assyrians, the city lost most
+8 Subsequent to its destruction by the Assyrians, the city lost most
 of its prominence and is only incidentally mentioned during the
-remainder of the OT. Jer. 49:23ff; Ezek 27:18; 47:16.**
+remainder of the OT. Jer. 49:23ff; Ezek 27:18; 47:16.
 
-9. After the Persians took over, the city regained its prosperity,
+9 After the Persians took over, the city regained its prosperity,
 though not its command position.
 
-10. When the Seleucid kingdom of Syria was established in 301BC, its
+10 When the Seleucid kingdom of Syria was established in 301BC, its
 capitol city was Antioch on the coast, and the center of power shifted
 west to the seacoast from the interior.
 
-11. In 111 BC the Syrian kingdom was divided, and Antiochus Cyzicenus
+11 In 111 BC the Syrian kingdom was divided, and Antiochus Cyzicenus
 became king of Coele-Syria (Transjordan), and made Damascus his capitol.
 
-- His successors, Demetrius Eucaerus and Antiochus Dionysus, had
+* His successors, Demetrius Eucaerus and Antiochus Dionysus, had
 problems including wars with the Parthians and with Alexander Jannaeus
 of the Judahite Hasmonean line as well as with Aretas, the Nabatean, who
 took Damascus in 85 BC.
 
-- Tigranes, the Armenian, ruled thereafter until the Romans took the
+* Tigranes, the Armenian, ruled thereafter until the Romans took the
 city under Pompey in 64BC.
 
-12. Under Roman Rule its history is obscure, but the Nabateans seem to
+12 Under Roman Rule its history is obscure, but the Nabateans seem to
 have gained control of Damascus for long periods of time.
 
-- Roman coins indicate that the Romans held it from 31 BC to 33 AD.
+* Roman coins indicate that the Romans held it from 31 BC to 33 AD.
 
-- Aretas IV, king of Nabatea held it and appointed an ETHNARCH to rule
+* Aretas IV, king of Nabatea held it and appointed an ETHNARCH to rule
 the city after this. II Cor 11:32
 
-- Under NERO it reverted back to Roman rule.
+* Under NERO it reverted back to Roman rule.
 
-13. During the Christian era it played a minor role in history, though
+13 During the Christian era it played a minor role in history, though
 it is obvious that Paul’s association with the city at his conversion
 drew some attention to the site. Acts 9:1-25
 
-- All the NT references to it are to be related to that conversion.
+* All the NT references to it are to be related to that conversion.
 
-- Under the Emperor of the early Byzantine period the city continued to
+* Under the Emperor of the early Byzantine period the city continued to
 be an unimportant city, second to Antioch.
 
-- Passed out of Christian control to the Arabs in 634 AD.
+* Passed out of Christian control to the Arabs in 634 AD.
 
-- Damascus has been a Moslem city ever since.
+* Damascus has been a Moslem city ever since.
 

@@ -5,9 +5,6 @@ description: "Ezra returned to Jerusalem with a group of repatriates and others 
 template: topic.jade
 ---
 
-
-**Ezra**
-
 From International Standard Bible Encyclopedia
 
 **Ezra**[Heb *˓ezrâ* (1 Ch. 4:17)].

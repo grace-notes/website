@@ -5,9 +5,6 @@ description: "the Lord's Supper; derivation from the Passover"
 template: topic.jade
 ---
 
-
-**Attributes of God 2**
-
 **Communion and The Passover**
 
 The Passover feast became the communion table on the evening that Jesus
@@ -17,12 +14,12 @@ Jesus and His disciples celebrated Passover.
 In God’s mind, the death of Jesus Christ was an accomplished fact long
 before it became a reality.
 
-1 Pet. 1:18-20, “Forasmuch as you know that you were not redeemed with
+1 Pet. 1:18-20, *“Forasmuch as you know that you were not redeemed with
 corruptible things, as silver and gold, from you vain conversation
 received by tradition from your fathers; but with the precious blood of
 Christ, as of a lamb without blemish and without spot: Who verily was
 foreordained before the foundation of the world, but was manifest in
-these last times for you.”
+these last times for you.”*
 
 Therefore, the Father recognized that the symbolic offering of the
 paschal lamb, the lamb of sacrifice at the Passover, was sufficient

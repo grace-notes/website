@@ -5,17 +5,11 @@ description: "We don’t know much in detail about eternity, what it’s like, o
 template: topic.jade
 ---
 
-
-**Eternity 3**
-
-Eternity <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
-=======================================================
-
 We don’t know much in detail about eternity, what it’s like, or what we
 will be doing there. However, the Bible does have some information from
 which we can draw some inferences.
 
-#### The Eternal State of Believers and Unbelievers
+**The Eternal State of Believers and Unbelievers**
 
 Man’s relationship to God is one of creature to Creator. God is
 sovereign over the whole human race by virtue of creation, whether this
@@ -30,7 +24,7 @@ believe.
 **Gal. 3:26.** For you are all sons of God through faith in Christ
 Jesus.
 
-Man is a living soul; and all souls belong to God.
+**Man is a living soul; and all souls belong to God.**
 
 **Gen. 2:7.**Then the Lord God formed man of dust from the ground, and
 breathed into his nostrils the breath of life; and man became a living
@@ -70,7 +64,7 @@ life, he was thrown into the lake of fire.
 
 **Luke 16:19-31**
 
-#### The saved soul anticipates …
+**The saved soul anticipates**
 
 **A resurrection to life.**
 
@@ -132,8 +126,7 @@ life, he was thrown into the lake of fire.
 
 **Rev. 21:8**
 
-Characteristics of the Eternal State
-------------------------------------
+**Characteristics of the Eternal State**
 
 -   Jesus Christ will be present and accessible to all
 
@@ -163,8 +156,7 @@ The Holy City of eternity illustrates something of the glory of
 eternity. The description of the New Jerusalem is in **Rev. 21:9 to
 22:5**.
 
-The Believer’s Hope in Eternity
--------------------------------
+**The Believer’s Hope in Eternity**
 
 The believer’s hope is based on the fact that we know facts concerning
 eternity. For example, we will be absent from the body and face-to-face
@@ -241,5 +233,4 @@ He has even to subject all things to Himself.
 
 **Phil. 1:21.** For to me, to live is Christ and to die is gain.
 
-[1](#sdfootnote1anc) This article is based on transcriptions of Bible
-lessons taught by R. B. Thieme and Chester McCalley.
+This article is based on transcriptions of Bible lessons taught by R. B. Thieme and Chester McCalley.

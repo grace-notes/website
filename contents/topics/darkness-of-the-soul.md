@@ -6,11 +6,9 @@ template: topic.jade
 ---
 
 
-_*Ephesians 4:17-22*_  
-**=================**
+**Ephesians 4:17-22** 
 
-_*Ephesians 4:17*_  
---------------
+_Ephesians 4:17_
 
 * _*This I say, therefore, and testify in the Lord, that you henceforth walk not as other Gentiles walk, in the vanity of their mind.*_
 
@@ -82,8 +80,7 @@ In another example, the Greeks had an expression for changing one’s thoughts, 
 
 Verse 17 reads, then, “_This is say, therefore, and make a solemn warning in the Lord that your manner of life is not to be as the Gentiles manner of life, in the emptiness of the mentality of the soul._”
 
-_*Ephesians 4:18*_  
---------------
+*Ephesians 4:18*
 
 * _*Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart;*_
 
@@ -114,17 +111,17 @@ are eight of them.
 
 2. Darkness brings about a failure to orient to the grace of God. The result is arrogance and legalism, lack of forgiveness, lack of graciousness.
 
-2. Darkness causes inner misery, unhappiness, lack of peace. These things cannot be compensated for by anything in life, but the negative Christian spends his life in a frantic but futile pursuit of happiness through the details of life.
+3. Darkness causes inner misery, unhappiness, lack of peace. These things cannot be compensated for by anything in life, but the negative Christian spends his life in a frantic but futile pursuit of happiness through the details of life.
 
-2. Darkness can bring about neuroses and psychoses: Phil. 4:6,7 _Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, shall guard [STABILIZE] your hearts and your minds in Christ Jesus._
+4. Darkness can bring about neuroses and psychoses: Phil. 4:6,7 _Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, shall guard [STABILIZE] your hearts and your minds in Christ Jesus._
 
-2. Darkness results in a frantic search for happiness through details of life, or through some form of sublimation.
+5. Darkness results in a frantic search for happiness through details of life, or through some form of sublimation.
 
-2. Darkness leads to slavery to the details of life. Sins may grow out of legitimate things in life (money, success, pleasure, sex, social life, family, loved ones, career, hobbies, health, status symbols).
+6. Darkness leads to slavery to the details of life. Sins may grow out of legitimate things in life (money, success, pleasure, sex, social life, family, loved ones, career, hobbies, health, status symbols).
 
-2. Darkness leads to apostasy, erroneous thinking, false doctrine in the soul.
+7. Darkness leads to apostasy, erroneous thinking, false doctrine in the soul.
 
-2. Darkness is accompanied by a lack of capacity to love, leading to pseudo-love towards God, family, the community.
+8. Darkness is accompanied by a lack of capacity to love, leading to pseudo-love towards God, family, the community.
 
 “_*being alienated from the life of God*_” - the perfect passive participle of APALLOTRIOW, “to alienate”.
 
@@ -160,10 +157,9 @@ So, in verses 17 and 18, all the ingredients for soul blackness have been presen
 
 2. Alienation from the life of God.
 
-_*Ephesians 4:19*_  
---------------
+*Ephesians 4:19*
 
-* *_“Who, being past feeling, have given themselves over unto lasciviousness, to work all uncleanness with greediness._*”
+*_“Who, being past feeling, have given themselves over unto lasciviousness, to work all uncleanness with greediness._*”
 
 Remember - Paul is warning Christians not to fall into this lifestyle. It is easy to associate a sinful manner of living with non-Christians. But Christians who live apart from the plan of God can easily be involved in “Gentile” lasciviousness or uncleanness.
 
@@ -183,10 +179,9 @@ The antidote is first, Confession of Sin; then, Occupation with Christ and Livin
 
 Greediness is the willingness to do something immoral, illegal, or harmful to other people in order to obtain something one desires. The Christian life removes greediness because a believer trusts God to supply all needs and has the patience to wait for God’s timing in everything.
 
-_*Ephesians 4:20,21*_  
------------------
+*Ephesians 4:20,21*
 
-* *_But you have not so learned Christ; If so be that you have heard him, and have been taught by him, as the truth is in Jesus:_*
+*_But you have not so learned Christ; If so be that you have heard him, and have been taught by him, as the truth is in Jesus:_*
 
 Francis Foulkes in “Ephesians”, “‘But you’ the apostle says to his readers, emphasizing the personal pronoun, ‘can no longer walk in that way. You have not so learned Christ. The truth of God and of His purpose has come to dominate your minds, and this truth has ethical implications. Your lives are no longer dark, your minds no longer vain. You are no longer alienated but walking step by step in the full light of the Lord, and in fellowship with Him. So you must finish with all immorality, and the passion for what is impure, and for what outrages the souls and bodies of others.’”
 
@@ -202,15 +197,12 @@ The Christian life is NOT a process by which you turn over multiple new leaves a
 
 The Christian life IS a process by which you submit to His plan of grace, learn and apply the doctrines of the Word of God, and enjoy His work of reconciliation, restoration, and edification in your life, whereby you grow into a place of spiritual productivity.
 
-Topic: SEPARATION
-
 To put it another way: while separation is definitely a part of God’s plan, you do not become more spiritual or more advanced in the Christian life by separating yourself from various evils. Rather, your advancement in the Christian life depends on the Word of God in your soul and your being filled with the Holy Spirit. As the Lord builds our lives, line
 upon line, precept upon precept, the fruit of the Spirit grows in our lives and our behavior changes, as shown in the verses that follow in chapter 4.
 
-_*Ephesians 4:22*_  
---------------
+*Ephesians 4:22*
 
-* *_That you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;_*
+*_That you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;_*
 
 Notice in verses 22 to 24 that the Christian life is one of moving from a former state to a future state, from the “old man” to the “new man”. And the mechanism is described in verse 23 as being renewal that takes place in the mind. It is like a breathing process in which bad air goes out and good air comes in.
 
@@ -222,10 +214,9 @@ The word “_*former*_” refers to us when we were unbelievers. An unbeliever m
 
 “_*according to deceitful lusts*_” Lusts are the activators of the Sin Nature and the motivators of a person who not controlled by the Holy Spirit. There are all sorts of lust patterns, and any person will have one or more of them: power lust; the desire for approbation; sexual lust; lust for worldly possessions; etc. The result of lust, among other things, is slavery to the details of life - seeking happiness and satisfaction in what the world offers, rather than through God’s plan.
 
-*_Ephesians 4:23_*  
---------------
+_Ephesians 4:23_
 
-* *_And be renewed in the spirit of your mind;_*
+*_And be renewed in the spirit of your mind;_*
 
 This is one of the greatest concepts in the Christian life! This verse describes how the Christian life works - the very process!
 
@@ -239,10 +230,9 @@ The only way to “put Christ first” in the life is to have maximum intake of 
 
 Here is the same process discussed in Romans.
 
-* Romans 12:1,2, _I urge you therefore, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, {which is} your spiritual service of worship. And do not be conformed to this world, but be TRANSFORMED BY THE RENEWING OF YOUR MIND, that you may prove what the will of God is, that which is good and acceptable and perfect._
+Romans 12:1,2, _I urge you therefore, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, {which is} your spiritual service of worship. And do not be conformed to this world, but be TRANSFORMED BY THE RENEWING OF YOUR MIND, that you may prove what the will of God is, that which is good and acceptable and perfect._
 
-*_Ephesians 4:24_*  
---------------
+_Ephesians 4:24_
 
 * _And that you put on the new man, which after God is created in righteousness and true holiness._
 

@@ -5,14 +5,7 @@ description: "Among Herodotus' descriptions of countries the most fascinating to
 template: topic.jade
 ---
 
-
-**Egypt – Herodotus42**
-
-An Account of Egypt, by Herodotus
-
-Translated By G. C. Macaulay
-
-NOTE
+_Translated By G. C. Macaulay_
 
 HERODOTUS was born at Halicarnassus, on the southwest coast of Asia
 Minor, in the early part of the fifth century, B. C. Of his life we know
@@ -75,13 +68,7 @@ subsequent work has surpassed, than which later generations, after using
 the pen for centuries, have produced no prose more easy or more
 readable, this was the first of histories and of literary prose.”
 
-AN ACCOUNT OF EGYPT
-
-BY HERODOTUS
-
-BEING THE SECOND BOOK OF HIS HISTORIES
-
-CALLED EUTERPE
+**AN ACCOUNT OF EGYPT - BY HERODOTUS**
 
 When Cyrus had brought his life to an end, Cambyses received the royal
 power in succession, being the son of Cyrus and of Cassandane the

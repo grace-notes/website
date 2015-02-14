@@ -1,15 +1,10 @@
 ---
-title: "Goals for of Children"
+title: "Goals in Training Children"
 indexTitle: "Children, Goals for"
 pdf: "childrengoals.pdf"
 description: "Some ideas regarding setting Biblical goals for nurturing and training children in the plan of God."
 template: topic.jade
 ---
-
-
-**Children, Goals 3**
-
-Goals in Training Children
 
 This paper gives some general ideas about the goals parents can set in
 child training. You will probably have your child in the home for about
@@ -54,7 +49,7 @@ parents, bear heavy consequences as the result of divine discipline.
 Deut. 21:20; 27:16; Prov. 15:20; 30:11; Micah 7:6; 2 Tim. 3:2; Matt.
 15:4; Isa. 45:10.
 
-A Set of Biblical Goals
+### A Set of Biblical Goals
 
 The following goals are derived from Scripture context, and they relate
 to the spiritual development of a Christian of any age. You would like
@@ -90,7 +85,7 @@ response to authority. Eph. 5:22; Col. 3:18
 money, job, health, status, friends, social life, possessions,
 enter­tainments, etc.
 
-Mastery of the details of life means:
+### Mastery of the details of life means:
 
 (1) having the ability to enjoy the details of life without being a
 slave to them, and
@@ -135,7 +130,7 @@ marriage, the ability to distinguish true love, and the knowledge of how
 to set the pattern for a successful marriage, even during the dating
 years and engagement period.
 
-Help in the Project of Training Children
+### Help in the Project of Training Children
 
 There is no question that parents have the responsibility for training
 children, but there is a lot of help available, especially in the local
@@ -163,7 +158,7 @@ must consider educating the child at home. Again, there are usually many
 resource people in a local church who can help with curriculum,
 tutoring, and management of the academics.
 
-Results of Failure to Follow Biblical Practices in Raising Children
+### Results of Failure to Follow Biblical Practices in Raising Children
 
 When parents fail to stay in God’s plan for the Christian Way of Life,
 they will not be in a position to lead their children in obtaining the
@@ -175,7 +170,7 @@ study and Christian growth, accompanied by the consistent control of the
 Holy Spirit, a condition will occur described in the Bible as “darkness
 in the soul” or “blindness in the soul”, Eph. 4:17,18. When this
 happens, the fol­lowing progressive negative results are observed, all
-of which have an enor­mous negative impact on children, as you can see.
+of which have an enormous negative impact on children, as you can see.
 
 • Soul darkness leads to a breakdown in the faith system of acquiring
 wisdom, a lessening of the understanding of God’s point of view, and a

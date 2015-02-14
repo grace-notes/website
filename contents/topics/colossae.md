@@ -5,18 +5,7 @@ description: "overview of the city of the Colossians."
 template: topic.jade
 ---
 
-
-**Colossae 0**
-
-Colossae
-
-COLOSSAE
-
-By Dr. Randall E. Radic, Pastor
-
-First Congregational Church  
-100 N. Acacia Avenue  
-Ripon, California 95336
+By Dr. Randall E. Radic
 
 In the Greek the word is KOLOSSAI, and is defined as “punishment.” The
 city was situated on the Lycus River in Phrygia. From its inception, the

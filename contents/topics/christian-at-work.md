@@ -1,13 +1,9 @@
 ---
-title: "Christian at Work"
+title: "The Christian at Work"
 pdf: "christianatwork.pdf"
 description: "Suggestions for a believer's attitude and function on the job."
 template: topic.jade
 ---
-
-
-The Christian at Work
-=====================
 
 *Titus 2:9, 10, “Exhort servants to be obedient to their own masters,
 and to please them well in all things; not answering again; not

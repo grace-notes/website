@@ -1,14 +1,9 @@
 ---
-title: "Freedom"
+title: "Freedom in the Christian Life"
 pdf: "freedom.pdf"
 description: "Freedom -  What it means to be set free from \"the law of sin and death.\""
 template: topic.jade
 ---
-
-
-**Freedom 3**
-
-Freedom in the Christian Life
 
 **Romans 8:2**
 

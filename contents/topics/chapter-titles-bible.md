@@ -8,24 +8,13 @@ template: topic.jade
 
 Bible Chapter Titles
 ====================
-
-Genesis
--------
-
 1. Creation & Recreation
-
 2. Creation & Recreation Recap
-
 3. The Fall of Man
-
 4. Cain Murders Abel
-
 5. Genealogies
-
 6. The Flood
-
 7. The Flood
-
 8. The Flood
 
 9. The Rainbow & Capital Punishment

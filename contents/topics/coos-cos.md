@@ -5,9 +5,6 @@ description: "Coos is an island mentioned in connection with Paul’s third miss
 template: topic.jade
 ---
 
-Coos
-====
-
 Coos is an island off the coast of Caria, Asia Minor, one of the
 Sporades, under Greek control since 1948.
 

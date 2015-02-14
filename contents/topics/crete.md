@@ -6,13 +6,8 @@ description: "An outline history of Crete and historical comments on the charact
 template: topic.jade
 ---
 
-
-**Crete 6**
-
-Crete
-
-Basic Features of Cretan History and Reports on the Character of the
-People, in Support of the Study of the Epistle to Titus
+**Basic Features of Cretan History and Reports on the Character of the
+People, in Support of the Study of the Epistle to Titus**
 
 **Crete** is an island which forms a southern boundary to the Aegean
 Sea, and lies southeast of Greece. Crete is 156 miles long, seven to
