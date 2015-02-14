@@ -2,6 +2,7 @@
 title: "Assyria"
 pdf: "assyria.pdf"
 description: "Capsule history of the Assyrian Empire."
+tableofcontents: true
 template: topic.jade
 ---
 
