@@ -5,9 +5,10 @@ description: "Tiberius Claudius Drusus Caesar, the fourth Roman Emperor (40 to 5
 template: topic.jade
 ---
 
-**Tiberius Claudius Drusus Caesar**
+**Tiberius Claudius Drusus Caesar**  
+from Seutonius, *The Twelve Caesars*
 
->from Seutonius, The Twelve Caesars
+## I
 
 Livia, having married Augustus when she was pregnant, was within three
 months afterwards delivered of Drusus, the father of Claudius Caesar,
@@ -68,9 +69,11 @@ composed by himself, he wrote likewise the history of his life in prose.
 He had by the younger Antonia several children, but left behind him only
 three, namely, Germanicus, Livilla, and Claudius.
 
-II. Claudius was born at Lyons, in the consulship of Julius Antonius,
-and Fabius Africanus, upon the first of August, the very day upon which
-an altar was first dedicated there to Augustus. He was named Tiberius
+## II ##
+
+Claudius was born at Lyons, in the consulship of Julius Antonius, and
+Fabius Africanus, upon the first of August, the very day upon which an
+altar was first dedicated there to Augustus. He was named Tiberius
 Claudius Drusus, but soon afterwards, upon the adoption of his elder
 brother into the Julian family, he assumed the cognomen of Germanicus.
 He was left an infant by his father, and during almost the whole of his
@@ -90,32 +93,36 @@ up in a pallium–a new fashion. When he assumed the manly habit, he was
 carried in a litter, at midnight, to the Capitol, without the usual
 ceremony.
 
-III. He applied himself, however, from an early age, with great
-assiduity to the study of the liberal sciences, and frequently published
-specimens of his skill in each of them. But never, with all his
-endeavors, could he attain to any public post in the government, or
-afford any hope of arriving at distinction thereafter. His mother,
-Antonia, frequently called him “an abortion of a man, that had been only
-begun, but never finished, by nature.” And when she would upbraid any
-one with dullness, she said, “He was a greater fool than her son,
-Claudius.” His grandmother, Augusta, always treated him with the utmost
-contempt, very rarely spoke to him, and when she did admonish him upon
-any occasion, it was in writing, very briefly and severely, or by
-messengers. His sister, Livilla, upon hearing that he was about to be
-created emperor, openly and loudly expressed her indignation that the
-Roman people should experience a fate so severe and so much below their
-grandeur. To exhibit the opinion, both favorable and otherwise,
-entertained concerning him by Augustus, his great-uncle, I have here
-subjoined some extracts from the letters of that emperor.
+## III ##
 
-IV. "I have had some conversation with Tiberius, according to your
-desire, my dear Livia, as to what must be done with your grandson,
-Tiberius, at the games of Mars. We are both agreed in this, that, once
-for all, we ought to determine what course to take with him. For if he
-be really sound and, so to speak, quite right in his intellects, why
-should we hesitate to promote him by the same steps and degrees we did
-his brother? But if we find him below par, and deficient both in body
-and mind, we must beware of giving occasion for him and ourselves to be
+He applied himself, however, from an early age, with great assiduity to
+the study of the liberal sciences, and frequently published specimens of
+his skill in each of them. But never, with all his endeavors, could he
+attain to any public post in the government, or afford any hope of
+arriving at distinction thereafter. His mother, Antonia, frequently
+called him “an abortion of a man, that had been only begun, but never
+finished, by nature.” And when she would upbraid any one with dullness,
+she said, “He was a greater fool than her son, Claudius.” His
+grandmother, Augusta, always treated him with the utmost contempt, very
+rarely spoke to him, and when she did admonish him upon any occasion, it
+was in writing, very briefly and severely, or by messengers. His sister,
+Livilla, upon hearing that he was about to be created emperor, openly
+and loudly expressed her indignation that the Roman people should
+experience a fate so severe and so much below their grandeur. To exhibit
+the opinion, both favorable and otherwise, entertained concerning him by
+Augustus, his great-uncle, I have here subjoined some extracts from the
+letters of that emperor.
+
+## IV ##
+
+"I have had some conversation with Tiberius, according to your desire,
+my dear Livia, as to what must be done with your grandson, Tiberius, at
+the games of Mars. We are both agreed in this, that, once for all, we
+ought to determine what course to take with him. For if he be really
+sound and, so to speak, quite right in his intellects, why should we
+hesitate to promote him by the same steps and degrees we did his
+brother? But if we find him below par, and deficient both in body and
+mind, we must beware of giving occasion for him and ourselves to be
 laughed at by the world, which is ready enough to make such things the
 subject of mirth and derision. For we never shall be easy, if we are
 always to be debating upon every occasion of this kind, without
@@ -126,18 +133,18 @@ the games of Mars, if he will suffer himself to be governed by his
 kinsman, Silanus’s son, that he may do nothing to make the people stare
 and laugh at him. But I do not approve of his witnessing the Circensian
 games from the Pulvinar. He will be there exposed to view in the very
-front of the theatre. Nor do I like that he should go to the Alban Mount, or be at Rome during the
-Latin festivals. For if he be capable of attending his brother to the
-mount, why is he not made prefect of the city? Thus, my dear Livia, you
-have my thoughts upon the matter. In my opinion, we ought to settle this
-affair once for all, that we may not be always in suspense between hope
-and fear. You may, if you think proper, give your kinsman Antonia this
-part of my letter to read." In another letter, he writes as follows: "I
-shall invite: the youth, Tiberius, every day during your absence, to
-supper, that he may not sup alone with his friends Sulpicius and
-Athenodorus. I wish the poor creature was more cautious and attentive in
-the choice of some one, whose manners, air, and gait might be proper for
-his imitation:
+front of the theatre. Nor do I like that he should go to the Alban
+Mount, or be at Rome during the Latin festivals. For if he be capable of
+attending his brother to the mount, why is he not made prefect of the
+city? Thus, my dear Livia, you have my thoughts upon the matter. In my
+opinion, we ought to settle this affair once for all, that we may not be
+always in suspense between hope and fear. You may, if you think proper,
+give your kinsman Antonia this part of my letter to read." In another
+letter, he writes as follows: "I shall invite: the youth, Tiberius,
+every day during your absence, to supper, that he may not sup alone with
+his friends Sulpicius and Athenodorus. I wish the poor creature was more
+cautious and attentive in the choice of some one, whose manners, air,
+and gait might be proper for his imitation:
 
 “In things of consequence he sadly fails. Where his mind does not run
 astray, he discovers a noble disposition.”
@@ -152,8 +159,10 @@ priesthood; naming him amongst the heirs of the third degree, who were
 but distantly allied to his family, for a sixth part of his estate only,
 with a legacy of no more than eight hundred thousand sesterces.
 
-V. Upon his requesting some office in the state, Tiberius granted him
-the honorary appendages of the consulship, and when he pressed for a
+## V ##
+
+Upon his requesting some office in the state, Tiberius granted him the
+honorary appendages of the consulship, and when he pressed for a
 legitimate appointment, the emperor wrote word back, that “he sent him
 forty gold pieces for his expenses, during the festivals of the
 Saturnalia and Sigillaria.” Upon this, laying aside all hope of
@@ -163,8 +172,10 @@ the city; another while in Campania, where he passed his time in the
 lowest society; by which means, besides his former character of a dull,
 heavy fellow, he acquired that of a drunkard and gamester.
 
-VI. Notwithstanding this sort of life, much respect was shown him both
-in public and private. The equestrian order twice made choice of him to
+## VI ##
+
+Notwithstanding this sort of life, much respect was shown him both in
+public and private. The equestrian order twice made choice of him to
 intercede on their behalf; once to obtain from the consuls the favor of
 bearing on their shoulders the corpse of Augustus to Rome, and a second
 time to congratulate him upon the death of Sejanus. When he entered the
@@ -181,29 +192,35 @@ estate; leaving him besides a legacy of two millions of sesterces, and
 expressly recommending him to the armies, the senate and people of Rome,
 amongst his other relations.
 
-VII. At last, Caius, his brother’s son, upon his advancement to the
-empire, endeavoring to gain the affections of the public by all the arts
-of popularity, Claudius also was admitted to public offices, and held
-the consulship jointly with his nephew for two months. As he was
-entering the Forum for the first time with the fasces, an eagle which
-was flying that way; alighted upon his right shoulder. A second
-consulship was also allotted him, to commence at the expiration of the
-fourth year. He sometimes presided at the public spectacles, as the
-representative of Caius; being always, on those occasions, complimented
-with the acclamations of the people, wishing him all happiness,
-sometimes under the title of the emperor’s uncle, and sometimes under
-that of Germanicus’s brother.
+## VII ##
 
-VIII. Still he was subjected to many slights. If at any time he came in
-late to supper, he was obliged to walk round the room some time before
-he could get a place at table. When he indulged himself with sleep after
+At last, Caius, his brother’s son, upon his advancement to the empire,
+endeavoring to gain the affections of the public by all the arts of
+popularity, Claudius also was admitted to public offices, and held the
+consulship jointly with his nephew for two months. As he was entering
+the Forum for the first time with the fasces, an eagle which was flying
+that way; alighted upon his right shoulder. A second consulship was also
+allotted him, to commence at the expiration of the fourth year. He
+sometimes presided at the public spectacles, as the representative of
+Caius; being always, on those occasions, complimented with the
+acclamations of the people, wishing him all happiness, sometimes under
+the title of the emperor’s uncle, and sometimes under that of
+Germanicus’s brother.
+
+## VIII ##
+
+Still he was subjected to many slights. If at any time he came in late
+to supper, he was obliged to walk round the room some time before he
+could get a place at table. When he indulged himself with sleep after
 eating, which was a common practice with him, the company used to throw
 olive-stones and dates at him. And the buffoons who attended would wake
 him, as if it were only in jest, with a cane or a whip. Sometimes they
 would put slippers upon his hands; as he lay snoring, that he might,
 upon awaking, rub his face with them.
 
-IX. He was not only exposed to contempt, but sometimes likewise to
+## IX ##
+
+He was not only exposed to contempt, but sometimes likewise to
 considerable danger: first, in his consulship; for, having been too
 remiss in providing and erecting the statues of Caius’s brothers, Nero
 and Drusus, he was very near being deprived of his office; and
@@ -224,7 +241,9 @@ in his private affairs, that in order to discharge his bond to the
 treasury, he was under the necessity of exposing to sale his whole
 estate, by an order of the prefects.
 
-X. Having spent the greater part of his life under these and the like
+## X ##
+
+Having spent the greater part of his life under these and the like
 circumstances, he came at last to the empire in the fiftieth year of his
 age, by a very surprising turn of fortune. Being, as well as the rest,
 prevented from approaching Caius by the conspirators, who dispersed the
@@ -256,7 +275,9 @@ to swear allegiance to him, promising them fifteen thousand sesterces a
 man; he being the first of the Caesars who purchased the submission of
 the soldiers with money.
 
-XI. Having thus established himself in power, his first object was to
+## XI ##
+
+Having thus established himself in power, his first object was to
 abolish all remembrance of the two preceding days, in which a revolution
 in the state had been canvassed. Accordingly, he passed an act of
 perpetual oblivion and pardon for every thing said or done during that
@@ -281,38 +302,42 @@ by a proclamation, “That he the more earnestly insisted upon the
 observation of his father Drusus’s birth-day, because it was likewise
 that of his grandfather Antony.” He completed the marble arch near
 Pompey’s theatre, which had formerly been decreed by the senate in
-honour of Tiberius, but which had been neglected. And though he cancelled
-all the acts of Caius, yet he forbad the day of his assassination,
-notwithstanding it was that of his own accession to the empire, to be
-reckoned amongst the festivals.
+honour of Tiberius, but which had been neglected. And though he
+cancelled all the acts of Caius, yet he forbad the day of his
+assassination, notwithstanding it was that of his own accession to the
+empire, to be reckoned amongst the festivals.
 
-XII. But with regard to his own aggrandizement, he was sparing and
-modest, declining the title of emperor, and refusing all excessive
-honors. He celebrated the marriage of his daughter and the birth-day of
-a grandson with great privacy, at home. He recalled none of those who
-had been banished, without a decree of the senate: and requested of them
+## XII ##
+
+But with regard to his own aggrandizement, he was sparing and modest,
+declining the title of emperor, and refusing all excessive honors. He
+celebrated the marriage of his daughter and the birth-day of a grandson
+with great privacy, at home. He recalled none of those who had been
+banished, without a decree of the senate: and requested of them
 permission for the prefect of the military tribunes and praetorian
 guards to attend him in the senate-house; and also that they would be
 pleased to bestow upon his procurators judicial authority in the
-provinces. He asked of the consuls likewise the privilege of holding fairs upon his private
-estate. He frequently assisted the magistrates in the trial of causes,
-as one of their assessors. And when they gave public spectacles, he
-would rise up with the rest of the spectators, and salute them both by
-words and gestures. When the tribunes of the people came to him while he
-was on the tribunal, he excused himself, because, on account of the
-crowd, he could not hear them unless they stood. In a short time, by
-this conduct, he wrought himself so much into the favor and affection of
-the public, that when, upon his going to Ostia, a report was spread in
-the city that he had been way-laid and slain, the people never ceased
-cursing the soldiers for traitors, and the senate as parricides, until
-one or two persons, and presently after several others, were brought by
-the magistrates upon the rostra, who assured them that he was alive, and
-not far from the city, on his way home.
+provinces. He asked of the consuls likewise the privilege of holding
+fairs upon his private estate. He frequently assisted the magistrates in
+the trial of causes, as one of their assessors. And when they gave
+public spectacles, he would rise up with the rest of the spectators, and
+salute them both by words and gestures. When the tribunes of the people
+came to him while he was on the tribunal, he excused himself, because,
+on account of the crowd, he could not hear them unless they stood. In a
+short time, by this conduct, he wrought himself so much into the favor
+and affection of the public, that when, upon his going to Ostia, a
+report was spread in the city that he had been way-laid and slain, the
+people never ceased cursing the soldiers for traitors, and the senate as
+parricides, until one or two persons, and presently after several
+others, were brought by the magistrates upon the rostra, who assured
+them that he was alive, and not far from the city, on his way home.
 
-XIII. Conspiracies, however, were formed against him, not only by
-individuals separately, but by a faction; and at last his government was
-disturbed with a civil war. A low fellow was found with a poniard about
-him, near his chamber, at midnight. Two men of the equestrian order were
+## XIII ##
+
+Conspiracies, however, were formed against him, not only by individuals
+separately, but by a faction; and at last his government was disturbed
+with a civil war. A low fellow was found with a poniard about him, near
+his chamber, at midnight. Two men of the equestrian order were
 discovered waiting for him in the streets, armed with a tuck and a
 huntsman’s dagger; one of them intending to attack him as he came out of
 the theatre, and the other as he was sacrificing in the temple of Mars.
@@ -326,25 +351,29 @@ omens. For when orders were given them to march, to meet their new
 emperor, the eagles could not be decorated, nor the standards pulled out
 of the ground, whether it was by accident, or a divine interposition.
 
-XIV. Besides his former consulship, he held the office afterwards four
-times; the first two successively, but the following, after an interval
-of four years each; the last for six months, the others for two; and the
-third, upon his being chosen in the room of a consul who died; which had
-never been done by any of the emperors before him. Whether he was consul
-or out of office, he constantly attended the courts for the
-administration of justice, even upon such days as were solemnly observed
-as days of rejoicing in his family, or by his friends; and sometimes
-upon the public festivals of ancient institution. Nor did he always
-adhere strictly to the letter of the laws, but overruled the rigor or
-lenity of many of their enactments, according to his sentiments of
-justice and equity. For where persons lost their suits by insisting upon
-more than appeared to be their due, before the judges of private causes,
-he granted them the indulgence of a second trial. And with regard to
-such as were convicted of any great delinquency, he even exceeded the
+## XIV ##
+
+Besides his former consulship, he held the office afterwards four times;
+the first two successively, but the following, after an interval of four
+years each; the last for six months, the others for two; and the third,
+upon his being chosen in the room of a consul who died; which had never
+been done by any of the emperors before him. Whether he was consul or
+out of office, he constantly attended the courts for the administration
+of justice, even upon such days as were solemnly observed as days of
+rejoicing in his family, or by his friends; and sometimes upon the
+public festivals of ancient institution. Nor did he always adhere
+strictly to the letter of the laws, but overruled the rigor or lenity of
+many of their enactments, according to his sentiments of justice and
+equity. For where persons lost their suits by insisting upon more than
+appeared to be their due, before the judges of private causes, he
+granted them the indulgence of a second trial. And with regard to such
+as were convicted of any great delinquency, he even exceeded the
 punishment appointed by law, and condemned them to be exposed to wild
 beasts.
 
-XV. But in hearing and determining causes, he exhibited a strange
+## XV ##
+
+But in hearing and determining causes, he exhibited a strange
 inconsistency of temper, being at one time circumspect and sagacious, at
 another inconsiderate and rash, and sometimes frivolous, and like one
 out of his mind. In correcting the roll of judges, he struck off the
@@ -394,12 +423,14 @@ terms with his folly and cruelty, and threw his style, and some books
 which he had in his hands, in his face, with such violence as to wound
 him severely in the cheek.
 
-XVI. He likewise assumed the censorship, which had been discontinued
-since the time that Paulus and Plancus had jointly held it. But this
-also he administered very unequally, and with a strange variety of humor
-and conduct. In his review of the knights, he passed over, without any
-mark of disgrace, a profligate young man, only because his father spoke
-of him in the highest terms; “for,” said he, “his father is his proper
+## XVI ##
+
+He likewise assumed the censorship, which had been discontinued since
+the time that Paulus and Plancus had jointly held it. But this also he
+administered very unequally, and with a strange variety of humor and
+conduct. In his review of the knights, he passed over, without any mark
+of disgrace, a profligate young man, only because his father spoke of
+him in the highest terms; “for,” said he, “his father is his proper
 censor.” Another, who was infamous for debauching youths and for
 adultery, he only admonished “to indulge his youthful inclinations more
 sparingly, or at least more cautiously;” adding, “why must I know what
@@ -425,66 +456,72 @@ affluent circumstances. One of the knights who was charged with stabbing
 himself, laid his bosom bare, to show that there was not the least mark
 of violence upon his body. The following incidents were remarkable in
 his censorship. He ordered a car, plated with silver, and of very
-sumptuous workmanship, which was exposed for sale in the Sigillaria, to be purchased, and
-broken in pieces before his eyes. He published twenty proclamations in
-one day, in one of which he advised the people, “Since the vintage was
-very plentiful, to have their casks well secured at the bung with
-pitch:” and in another, he told them, “that nothing would sooner cure
-the bite of a viper, than the sap of the yew-tree.”
+sumptuous workmanship, which was exposed for sale in the Sigillaria, to
+be purchased, and broken in pieces before his eyes. He published twenty
+proclamations in one day, in one of which he advised the people, “Since
+the vintage was very plentiful, to have their casks well secured at the
+bung with pitch:” and in another, he told them, “that nothing would
+sooner cure the bite of a viper, than the sap of the yew-tree.”
 
-XVII. He undertook only one expedition, and that was of short duration.
-The triumphal ornaments decreed him by the senate, he considered as
-beneath the imperial dignity, and was therefore resolved to have the
-honour of a real triumph. For this purpose, he selected Britain, which
-had never been attempted by any one since Julius Caesar, and was then
-chafing with rage, because the Romans would not give up some deserters.
-Accordingly, he set sail from Ostia, but was twice very near being
-wrecked by the boisterous wind called Circius, upon the coast of
-Liguria, and near the islands called Stoechades. Having marched by land
-from Marseilles to Gessoriacum, he thence passed over to Britain, and
-part of the island submitting to him, within a few days after his
-arrival, without battle or bloodshed, he returned to Rome in less than
-six months from the time of his departure, and triumphed in the most
-solemn manner; to witness which, he not only gave leave to governors of
-provinces to come to Rome, but even to some of the exiles. Among the
-spoils taken from the enemy, he fixed upon the pediment of his house in
-the Palatium, a naval crown, in token of his having passed, and, as it
-were, conquered the Ocean, and had it suspended near the civic crown
-which was there before. Messalina, his wife, followed his chariot in a
-covered litter. Those who had attained the honour of triumphal ornaments
-in the same war, rode behind; the rest followed on foot, wearing the
-robe with the broad stripes. Crassus Frugi was mounted upon a horse
-richly caparisoned, in a robe embroidered with palm leaves, because this
-was the second time of his obtaining that honour.
+## XVII ##
 
-XVIII. He paid particular attention to the care of the city, and to have
-it well supplied with provisions. A dreadful fire happening in the
+He undertook only one expedition, and that was of short duration.  The
+triumphal ornaments decreed him by the senate, he considered as beneath
+the imperial dignity, and was therefore resolved to have the honour of a
+real triumph. For this purpose, he selected Britain, which had never
+been attempted by any one since Julius Caesar, and was then chafing with
+rage, because the Romans would not give up some deserters.  Accordingly,
+he set sail from Ostia, but was twice very near being wrecked by the
+boisterous wind called Circius, upon the coast of Liguria, and near the
+islands called Stoechades. Having marched by land from Marseilles to
+Gessoriacum, he thence passed over to Britain, and part of the island
+submitting to him, within a few days after his arrival, without battle
+or bloodshed, he returned to Rome in less than six months from the time
+of his departure, and triumphed in the most solemn manner; to witness
+which, he not only gave leave to governors of provinces to come to Rome,
+but even to some of the exiles. Among the spoils taken from the enemy,
+he fixed upon the pediment of his house in the Palatium, a naval crown,
+in token of his having passed, and, as it were, conquered the Ocean, and
+had it suspended near the civic crown which was there before. Messalina,
+his wife, followed his chariot in a covered litter. Those who had
+attained the honour of triumphal ornaments in the same war, rode behind;
+the rest followed on foot, wearing the robe with the broad stripes.
+Crassus Frugi was mounted upon a horse richly caparisoned, in a robe
+embroidered with palm leaves, because this was the second time of his
+obtaining that honour.
+
+## XVIII ##
+
+He paid particular attention to the care of the city, and to have it
+well supplied with provisions. A dreadful fire happening in the
 Aemiliana, which lasted some time, he passed two nights in the
-Diribitorium, and the
-soldiers and gladiators not being in sufficient numbers to extinguish
-it, he caused the magistrates to summon the people out of all the
-streets in the city, to their assistance. Placing bags of money before
-him, he encouraged them to do their utmost, declaring, that he would
-reward every one on the spot, according to their exertions.
+Diribitorium, and the soldiers and gladiators not being in sufficient
+numbers to extinguish it, he caused the magistrates to summon the people
+out of all the streets in the city, to their assistance. Placing bags of
+money before him, he encouraged them to do their utmost, declaring, that
+he would reward every one on the spot, according to their exertions.
 
-XIX. During a scarcity of provisions, occasioned by bad crops for
-several successive years, he was stopped in the middle of the Forum by
-the mob, who so abused him, at the same time pelting him with fragments
-of bread, that he had some difficulty in escaping into the palace by a
-back door. He therefore used all possible means to bring provisions to
-the city, even in the winter. He proposed to the merchants a sure
-profit, by indemnifying them against any loss that might befall them by
-storms at sea; and granted great privileges to those who built ships for
-that traffic. To a citizen of Rome he gave an exemption from the penalty
-of the Papia-Poppaean law; to one who had only the privilege of Latium,
-the freedom of the city; and to women the rights which by law belonged
-to those who had four children: which enactments are in force to this
-day.
+## XIX ##
 
-XX. He completed some important public works, which, though not
-numerous, were very useful. The principal were an aqueduct, which had
-been begun by Caius; an emissary for the discharge of the waters of the
-Fucine lake, and the harbor of Ostia; although he knew that Augustus had
+During a scarcity of provisions, occasioned by bad crops for several
+successive years, he was stopped in the middle of the Forum by the mob,
+who so abused him, at the same time pelting him with fragments of bread,
+that he had some difficulty in escaping into the palace by a back door.
+He therefore used all possible means to bring provisions to the city,
+even in the winter. He proposed to the merchants a sure profit, by
+indemnifying them against any loss that might befall them by storms at
+sea; and granted great privileges to those who built ships for that
+traffic. To a citizen of Rome he gave an exemption from the penalty of
+the Papia-Poppaean law; to one who had only the privilege of Latium, the
+freedom of the city; and to women the rights which by law belonged to
+those who had four children: which enactments are in force to this day.
+
+## XX ##
+
+He completed some important public works, which, though not numerous,
+were very useful. The principal were an aqueduct, which had been begun
+by Caius; an emissary for the discharge of the waters of the Fucine
+lake, and the harbor of Ostia; although he knew that Augustus had
 refused to comply with the repeated application of the Marsians for one
 of these; and that the other had been several times intended by Julius
 Caesar, but as often abandoned on account of the difficulty of its
@@ -502,40 +539,43 @@ eleven years. He formed the harbor at Ostia, by carrying out circular
 piers on the right and on the left, with a mole protecting, in deep
 water, the entrance of the port. To secure the foundation of this mole,
 he sunk the vessel in which the great obelisk had been brought from
-Egypt; and built upon piles a very lofty tower, in imitation of the Pharos at Alexandria, on
-which lights were burnt to direct mariners in the night.
+Egypt; and built upon piles a very lofty tower, in imitation of the
+Pharos at Alexandria, on which lights were burnt to direct mariners in
+the night.
 
-XXI. He often distributed largesses of corn and money among the people,
-and entertained them with a great variety of public magnificent
-spectacles, not only such as were usual, and in the accustomed places,
-but some of new invention, and others revived from ancient models, and
-exhibited in places where nothing of the kind had been ever before
-attempted. In the games which he presented at the dedication of Pompey’s
-theatre, which had been burnt down, and was rebuilt by him, he presided
-upon a tribunal erected for him in the orchestra; having first paid his
-devotions, in the temple above, and then coming down through the centre
-of the circle, while all the people kept their seats in profound
-silence. He likewise exhibited the secular games, giving out that
-Augustus had anticipated the regular period; though he himself says in
-his history, “That they had been omitted before the age of Augustus, who
-had calculated the years with great exactness, and again brought them to
-their regular period.” The crier was therefore ridiculed, when he
-invited people in the usual form, “to games which no person had ever
-before seen, nor ever would again;” when many were still living who had
-already seen them; and some of the performers who had formerly acted in
-them, were now again brought upon the stage. He likewise frequently
-celebrated the Circensian games in the Vatican, sometimes exhibiting a
-hunt of wild beasts, after every five courses. He embellished the Circus
-Maximus with marble barriers, and gilded goals, which before were of
-common stone and wood, and assigned proper places for the senators, who
-were used to sit promiscuously with the other spectators. Besides the
-chariot-races, he exhibited there the Trojan game, and wild beasts from
-Africa, which were encountered by a troop of praetorian knights, with
-their tribunes, and even the prefect at the head of them; besides
-Thessalian horse, who drive fierce bulls round the circus, leap upon
-their backs when they have exhausted their fury, and drag them by the
-horns to the ground. He gave exhibitions of gladiators in several
-places, and of various kinds; one yearly on the
+## XXI ##
+
+He often distributed largesses of corn and money among the people, and
+entertained them with a great variety of public magnificent spectacles,
+not only such as were usual, and in the accustomed places, but some of
+new invention, and others revived from ancient models, and exhibited in
+places where nothing of the kind had been ever before attempted. In the
+games which he presented at the dedication of Pompey’s theatre, which
+had been burnt down, and was rebuilt by him, he presided upon a tribunal
+erected for him in the orchestra; having first paid his devotions, in
+the temple above, and then coming down through the centre of the circle,
+while all the people kept their seats in profound silence. He likewise
+exhibited the secular games, giving out that Augustus had anticipated
+the regular period; though he himself says in his history, “That they
+had been omitted before the age of Augustus, who had calculated the
+years with great exactness, and again brought them to their regular
+period.” The crier was therefore ridiculed, when he invited people in
+the usual form, “to games which no person had ever before seen, nor ever
+would again;” when many were still living who had already seen them; and
+some of the performers who had formerly acted in them, were now again
+brought upon the stage. He likewise frequently celebrated the Circensian
+games in the Vatican, sometimes exhibiting a hunt of wild beasts, after
+every five courses. He embellished the Circus Maximus with marble
+barriers, and gilded goals, which before were of common stone and wood,
+and assigned proper places for the senators, who were used to sit
+promiscuously with the other spectators. Besides the chariot-races, he
+exhibited there the Trojan game, and wild beasts from Africa, which were
+encountered by a troop of praetorian knights, with their tribunes, and
+even the prefect at the head of them; besides Thessalian horse, who
+drive fierce bulls round the circus, leap upon their backs when they
+have exhausted their fury, and drag them by the horns to the ground. He
+gave exhibitions of gladiators in several places, and of various kinds;
+one yearly on the
 
 anniversary of his accession in the praetorian camp, but without any
 hunting, or the usual apparatus; another in the Septa as usual; and in
@@ -572,39 +612,45 @@ twelve ships of war, of three banks of oars. The signal for the
 encounter was given by a silver Triton, raised by machinery from the
 middle of the lake.
 
-XXII. With regard to religious ceremonies, the administration of affairs
-both civil and military, and the condition of all orders of the people
-at home and abroad, some practices he corrected, others which had been
-laid aside he revived; and some regulations he introduced which were
-entirely new. In appointing new priests for the several colleges, he
-made no appointments without being sworn. When an earthquake happened in
-the city, he never failed to summon the people together by the praetor,
-and appoint holidays for sacred rites. And upon the sight of any ominous
+## XXII ##
+
+With regard to religious ceremonies, the administration of affairs both
+civil and military, and the condition of all orders of the people at
+home and abroad, some practices he corrected, others which had been laid
+aside he revived; and some regulations he introduced which were entirely
+new. In appointing new priests for the several colleges, he made no
+appointments without being sworn. When an earthquake happened in the
+city, he never failed to summon the people together by the praetor, and
+appoint holidays for sacred rites. And upon the sight of any ominous
 bird in the City or Capitol, he issued an order for a supplication, the
 words of which, by virtue of his office of high priest, after an
 exhortation from the rostra, he recited in the presence of the people,
 who repeated them after him; all workmen and slaves being first ordered
 to withdraw.
 
-XXIII. The courts of judicature, whose sittings had been formerly
-divided between the summer and winter months, he ordered, for the
-dispatch of business, to sit the whole year round. The jurisdiction in
-matters of trust, which used to be granted annually by special
-commission to certain magistrates, and in the city only, he made
-permanent, and extended to the provincial judges likewise. He altered a
-clause added by Tiberius to the Papia-Poppaean law, which inferred that
-men of sixty years of age were incapable of begetting children. He
-ordered that, out of the ordinary course of proceeding, orphans might
-have guardians appointed them by the consuls; and that those who were
-banished from any province by the chief magistrate, should be debarred
-from coming into the City, or any part of Italy. He inflicted on certain
-persons a new sort of banishment, by forbidding them to depart further
-than three miles from Rome. When any affair of importance came before
-the senate, he used to sit between the two consuls upon the seats of the
-tribunes. He reserved to himself the power of granting license to travel
-out of Italy, which before had belonged to the senate.
+## XXIII ##
 
-XXIV. He likewise granted the consular ornaments to his Ducenarian
+The courts of judicature, whose sittings had been formerly divided
+between the summer and winter months, he ordered, for the dispatch of
+business, to sit the whole year round. The jurisdiction in matters of
+trust, which used to be granted annually by special commission to
+certain magistrates, and in the city only, he made permanent, and
+extended to the provincial judges likewise. He altered a clause added by
+Tiberius to the Papia-Poppaean law, which inferred that men of sixty
+years of age were incapable of begetting children. He ordered that, out
+of the ordinary course of proceeding, orphans might have guardians
+appointed them by the consuls; and that those who were banished from any
+province by the chief magistrate, should be debarred from coming into
+the City, or any part of Italy. He inflicted on certain persons a new
+sort of banishment, by forbidding them to depart further than three
+miles from Rome. When any affair of importance came before the senate,
+he used to sit between the two consuls upon the seats of the tribunes.
+He reserved to himself the power of granting license to travel out of
+Italy, which before had belonged to the senate.
+
+## XXIV ##
+
+He likewise granted the consular ornaments to his Ducenarian
 procurators. From those who declined the senatorial dignity, he took
 away the equestrian. Although he had in the beginning of his reign
 declared, that he would admit no man into the senate who was not the
@@ -634,13 +680,15 @@ left side, giving him the post of honour. He allowed Gabinius Secundus,
 upon his conquest of the Chauci, a German tribe, to assume the cognomen
 of Chaucius.
 
-XXV. His military organization of the equestrian order was this. After
-having the command of a cohort, they were promoted to a wing of
-auxiliary horse, and subsequently received the commission of tribune of
-a legion. He raised a body of militia, who were called Supernumeraries,
-who, though they were a sort of soldiers, and kept in reserve, yet
-received pay. He procured an act of the senate to prohibit all soldiers
-from attending senators at their houses, in the way of respect and
+## XXV ##
+
+His military organization of the equestrian order was this. After having
+the command of a cohort, they were promoted to a wing of auxiliary
+horse, and subsequently received the commission of tribune of a legion.
+He raised a body of militia, who were called Supernumeraries, who,
+though they were a sort of soldiers, and kept in reserve, yet received
+pay. He procured an act of the senate to prohibit all soldiers from
+attending senators at their houses, in the way of respect and
 compliment. He confiscated the estates of all freedmen who presumed to
 take upon themselves the equestrian rank. Such of them as were
 ungrateful to their patrons, and were complained of by them, he reduced
@@ -648,27 +696,26 @@ to their former condition of slavery; and declared to their advocates,
 that he would always give judgment against the freedmen, in any suit at
 law which the masters might happen to have with them. Some persons
 having exposed their sick slaves, in a languishing condition, on the
-island of Aesculapius,
-because of the tediousness of their cure; he declared all who were so
-exposed perfectly free, never more to return, if they should recover, to
-their former servitude; and that if any one chose to kill at once,
-rather than expose, a slave, he should be liable for murder. He
-published a proclamation, forbidding all travelers to pass through the
-towns of Italy any otherwise than on foot, or in a litter or chair. He
-quartered a cohort of soldiers at Puteoli, and another at Ostia, to be
-in readiness against any accidents from fire. He prohibited foreigners
-from adopting Roman names, especially those which belonged to families.
-Those who falsely pretended to the freedom of Rome, he beheaded on the
-Esquiline. He gave up to the senate the provinces of Achaia and
-Macedonia, which Tiberius had transferred to his own administration. He
-deprived the Lycians of their liberties, as a punishment for their fatal
-dissensions; but restored to the Rhodians their freedom, upon their
-repenting of their former misdemeanors. He exonerated for ever the
-people of Ilium from the payment of taxes, as being the founders of the
-Roman race; reciting upon the occasion a letter in Greek, from the
-senate and people of Rome to king Seleucus, on which they promised him
-their friendship and alliance, provided that he would grant their
-kinsmen the Iliensians immunity from all burdens.
+island of Aesculapius, because of the tediousness of their cure; he
+declared all who were so exposed perfectly free, never more to return,
+if they should recover, to their former servitude; and that if any one
+chose to kill at once, rather than expose, a slave, he should be liable
+for murder. He published a proclamation, forbidding all travelers to
+pass through the towns of Italy any otherwise than on foot, or in a
+litter or chair. He quartered a cohort of soldiers at Puteoli, and
+another at Ostia, to be in readiness against any accidents from fire. He
+prohibited foreigners from adopting Roman names, especially those which
+belonged to families.  Those who falsely pretended to the freedom of
+Rome, he beheaded on the Esquiline. He gave up to the senate the
+provinces of Achaia and Macedonia, which Tiberius had transferred to his
+own administration. He deprived the Lycians of their liberties, as a
+punishment for their fatal dissensions; but restored to the Rhodians
+their freedom, upon their repenting of their former misdemeanors. He
+exonerated for ever the people of Ilium from the payment of taxes, as
+being the founders of the Roman race; reciting upon the occasion a
+letter in Greek, from the senate and people of Rome to king Seleucus, on
+which they promised him their friendship and alliance, provided that he
+would grant their kinsmen the Iliensians immunity from all burdens.
 
 He banished from Rome all the Jews, who were continually making
 disturbances at the instigation of one Chrestus. He allowed the
@@ -692,9 +739,11 @@ of his administration, he was directed not so much by his own judgment,
 as by the influence of his wives and freedmen; for the most part acting
 in conformity to what their interests or fancies dictated.
 
-XXVI. He was twice married at a very early age, first to Aemilia Lepida,
-the grand-daughter of Augustus, and afterwards to Livia Medullina, who
-had the cognomen of Camilla, and was descended from the old dictator
+## XXVI ##
+
+He was twice married at a very early age, first to Aemilia Lepida, the
+grand-daughter of Augustus, and afterwards to Livia Medullina, who had
+the cognomen of Camilla, and was descended from the old dictator
 Camillus. The former he divorced while still a virgin, because her
 parents had incurred the displeasure of Augustus; and he lost the latter
 by sickness on the day fixed for their nuptials. He next married Plautia
@@ -725,7 +774,9 @@ married her. No person was found, however, to follow the example,
 excepting one freedman, and a centurion of the first rank, at the
 solemnization of whose nuptials both he and Agrippina attended.
 
-XXVII. He had children by three of his wives: by Urgulanilla, Drusus and
+## XXVII ##
+
+He had children by three of his wives: by Urgulanilla, Drusus and
 Claudia; by Paetina, Antonia; and by Messalina, Octavia, and also a son,
 whom at first he called Germanicus, but afterwards Britannicus. He lost
 Drusus at Pompeii, when he was very young; he being choked with a pear,
@@ -746,28 +797,32 @@ still very young; and was sure to receive their acclamations, and good
 wishes on his behalf. Of his sons-in-law, he adopted Nero. He not only
 dismissed from his favor both Pompey and Silanus, but put them to death.
 
-XXVIII. Amongst his freedmen, the greatest favorite was the eunuch
-Posides, whom, in his British triumph, he presented with the pointless
-spear, classing him among the military men. Next to him, if not equal,
-in favor was Felix, whom he not only preferred to commands both of
-cohorts and troops, but to the government of the province of Judaea; and
-he became, in consequence of his elevation, the husband of three queens. Another favorite was
-Harpocras, to whom he granted the privilege of being carried in a litter
-within the city, and of holding public spectacles for the entertainment
-of the people. In this class was likewise Polybius, who assisted him in
-his studies, and had often the honour of walking between the two
-consuls. But above all others, Narcissus, his secretary, and Pallas, the
-comptroller of his accounts, were in high favor with him. He not only
-allowed them to receive, by decree of the senate, immense presents, but
-also to be decorated with the quaestorian and praetorian ensigns of
-honour. So much did he indulge them in amassing wealth, and plundering
-the public, that, upon his complaining, once, of the lowness of his
-exchequer, some one said, with great reason, that “It would be full
-enough, if those two freedmen of his would but take him into partnership
-with them.”
+## XXVIII ##
 
-XXIX. Being entirely governed by these freedmen, and, as I have already
-said, by his wives, he was a tool to others, rather than a prince. He
+Amongst his freedmen, the greatest favorite was the eunuch Posides,
+whom, in his British triumph, he presented with the pointless spear,
+classing him among the military men. Next to him, if not equal, in favor
+was Felix, whom he not only preferred to commands both of cohorts and
+troops, but to the government of the province of Judaea; and he became,
+in consequence of his elevation, the husband of three queens. Another
+favorite was Harpocras, to whom he granted the privilege of being
+carried in a litter within the city, and of holding public spectacles
+for the entertainment of the people. In this class was likewise
+Polybius, who assisted him in his studies, and had often the honour of
+walking between the two consuls. But above all others, Narcissus, his
+secretary, and Pallas, the comptroller of his accounts, were in high
+favor with him. He not only allowed them to receive, by decree of the
+senate, immense presents, but also to be decorated with the quaestorian
+and praetorian ensigns of honour. So much did he indulge them in
+amassing wealth, and plundering the public, that, upon his complaining,
+once, of the lowness of his exchequer, some one said, with great reason,
+that “It would be full enough, if those two freedmen of his would but
+take him into partnership with them.”
+
+## XXIX ##
+
+Being entirely governed by these freedmen, and, as I have already said,
+by his wives, he was a tool to others, rather than a prince. He
 distributed offices, or the command of armies, pardoned or punished,
 according as it suited their interests, their passions, or their
 caprice; and for the most part, without knowing, or being sensible of
@@ -796,42 +851,48 @@ should actually sign the writings relative to her dowry; induced, as it
 is pretended, by the design of diverting from himself and transferring
 upon another the danger which some omens seemed to threaten him.
 
-XXX. Either standing or sitting, but especially when he lay asleep, he
-had a majestic and graceful appearance; for he was tall, but not
-slender. His grey looks became him well, and he had a full neck. But his
-knees were feeble, and failed him in walking, so that his gait was
-ungainly, both when he assumed state, and when he was taking diversion.
-He was outrageous in his laughter, and still more so in his wrath, for
-then he foamed at the mouth, and discharged from his nostrils. He also
-stammered in his speech, and had a tremulous motion of the head at all
-times, but particularly when he was engaged in any business, however
-trifling.
+## XXX ##
 
-XXXI. Though his health was very infirm during the former part of his
-life, yet, after he became emperor, he enjoyed a good state of health,
-except only that he was subject to a pain of the stomach. In a fit of
-this complaint, he said he had thoughts of killing himself.
+Either standing or sitting, but especially when he lay asleep, he had a
+majestic and graceful appearance; for he was tall, but not slender. His
+grey looks became him well, and he had a full neck. But his knees were
+feeble, and failed him in walking, so that his gait was ungainly, both
+when he assumed state, and when he was taking diversion.  He was
+outrageous in his laughter, and still more so in his wrath, for then he
+foamed at the mouth, and discharged from his nostrils. He also stammered
+in his speech, and had a tremulous motion of the head at all times, but
+particularly when he was engaged in any business, however trifling.
 
-XXXII. He gave entertainments as frequent as they were splendid, and
-generally when there was such ample room, that very often six hundred
-guests sat down together. At a feast he gave on the banks of the canal
-for draining the Fucine Lake, he narrowly escaped being drowned, the
-water at its discharge rushing out with such violence, that it
-overflowed the conduit. At supper he had always his own children, with
-those of several of the nobility, who, according to an ancient custom,
-sat at the feet of the couches. One of his guests having been suspected
-of purloining a golden cup, he invited him again the next day, but
-served him with a porcelain jug. It is said, too, that he intended to
-publish an edict, “allowing to all people the liberty of giving vent at
-table to any distension occasioned by flatulence,” upon hearing of a
-person whose modesty, when under restraint, had nearly cost him his
-life.
+## XXXI ##
 
-XXXIII. He was always ready to eat and drink at any time or in any
-place. One day, as he was hearing causes in the Forum of Augustus, he
-smelt the dinner which was preparing for the Salii, in the temple of
-Mars adjoining, whereupon he quitted the tribunal, and went to partake
-of the feast with the priests.
+Though his health was very infirm during the former part of his life,
+yet, after he became emperor, he enjoyed a good state of health, except
+only that he was subject to a pain of the stomach. In a fit of this
+complaint, he said he had thoughts of killing himself.
+
+## XXXII ##
+
+He gave entertainments as frequent as they were splendid, and generally
+when there was such ample room, that very often six hundred guests sat
+down together. At a feast he gave on the banks of the canal for draining
+the Fucine Lake, he narrowly escaped being drowned, the water at its
+discharge rushing out with such violence, that it overflowed the
+conduit. At supper he had always his own children, with those of several
+of the nobility, who, according to an ancient custom, sat at the feet of
+the couches. One of his guests having been suspected of purloining a
+golden cup, he invited him again the next day, but served him with a
+porcelain jug. It is said, too, that he intended to publish an edict,
+“allowing to all people the liberty of giving vent at table to any
+distension occasioned by flatulence,” upon hearing of a person whose
+modesty, when under restraint, had nearly cost him his life.
+
+## XXXIII ##
+
+He was always ready to eat and drink at any time or in any place. One
+day, as he was hearing causes in the Forum of Augustus, he smelt the
+dinner which was preparing for the Salii, in the temple of Mars
+adjoining, whereupon he quitted the tribunal, and went to partake of the
+feast with the priests.
 
 He scarcely ever left the table until he had thoroughly crammed himself
 and drank to intoxication; and then he would immediately fall asleep,
@@ -847,44 +908,47 @@ He was fond of gaming, and published a book upon the subject. He even
 used to play as he rode in his chariot, having the tables so fitted,
 that the game was not disturbed by the motion of the carriage.
 
-XXXIV. His cruel and sanguinary disposition was exhibited upon great as
-well as trifling occasions. When any person was to be put to the
-torture, or criminal punished for parricide, he was impatient for the
-execution, and would have it performed in his own presence. When he was
-at Tibur, being desirous of seeing an example of the old way of putting
-malefactors to death, some were immediately bound to a stake for the
-purpose; but there being no executioner to be had at the place, he sent
-for one from Rome, and waited for his coming until night. In any
-exhibition of gladiators, presented either by himself or others, if any
-of the combatants chanced to fall, he ordered them to be butchered,
-especially the Retiarii, that he might see their faces in the agonies of
-death. Two gladiators happening to kill each other, he immediately
-ordered some little knives to be made of their swords for his own use.
-He took great pleasure in seeing men engage with wild beasts, and the
-combatants who appeared on the stage at noon. He would therefore come to
-the theatre by break of day, and at noon, dismissing the people to
-dinner, continued sitting himself; and besides those who were devoted to
-that sanguinary fate, he would match others with the beasts, upon slight
-or sudden occasions; as, for instance, the carpenters and their
-assistants, and people of that sort, if a machine, or any piece of work
-in which they had been employed about the theatre did not answer the
-purpose for which it had been intended. To this desperate kind of
-encounter he forced one of his nomenclators, even encumbered as he was
-by wearing the toga.
+## XXXIV ##
 
-XXXV. But the characteristics most predominant in him were fear and
-distrust. In the beginning of his reign, though he much affected a
-modest and humble appearance, as has been already observed, yet he durst
-not venture himself at an entertainment without being attended by a
-guard of spearmen, and made soldiers wait upon him at table instead of
-servants. He never visited a sick person, until the chamber had been
-first searched, and the bed and bedding thoroughly examined. At other
-times, all persons who came to pay their court to him were strictly
-searched by officers appointed for that purpose; nor was it until after
-a long time, and with much difficulty, that he was prevailed upon to
-excuse women, boys, and girls from such rude handling, or suffer their
-attendants or writing-masters to retain their cases for pens and styles.
-When Camillus formed his plot against him, not doubting but his timidity
+His cruel and sanguinary disposition was exhibited upon great as well as
+trifling occasions. When any person was to be put to the torture, or
+criminal punished for parricide, he was impatient for the execution, and
+would have it performed in his own presence. When he was at Tibur, being
+desirous of seeing an example of the old way of putting malefactors to
+death, some were immediately bound to a stake for the purpose; but there
+being no executioner to be had at the place, he sent for one from Rome,
+and waited for his coming until night. In any exhibition of gladiators,
+presented either by himself or others, if any of the combatants chanced
+to fall, he ordered them to be butchered, especially the Retiarii, that
+he might see their faces in the agonies of death. Two gladiators
+happening to kill each other, he immediately ordered some little knives
+to be made of their swords for his own use.  He took great pleasure in
+seeing men engage with wild beasts, and the combatants who appeared on
+the stage at noon. He would therefore come to the theatre by break of
+day, and at noon, dismissing the people to dinner, continued sitting
+himself; and besides those who were devoted to that sanguinary fate, he
+would match others with the beasts, upon slight or sudden occasions; as,
+for instance, the carpenters and their assistants, and people of that
+sort, if a machine, or any piece of work in which they had been employed
+about the theatre did not answer the purpose for which it had been
+intended. To this desperate kind of encounter he forced one of his
+nomenclators, even encumbered as he was by wearing the toga.
+
+## XXXV ##
+
+But the characteristics most predominant in him were fear and distrust.
+In the beginning of his reign, though he much affected a modest and
+humble appearance, as has been already observed, yet he durst not
+venture himself at an entertainment without being attended by a guard of
+spearmen, and made soldiers wait upon him at table instead of servants.
+He never visited a sick person, until the chamber had been first
+searched, and the bed and bedding thoroughly examined. At other times,
+all persons who came to pay their court to him were strictly searched by
+officers appointed for that purpose; nor was it until after a long time,
+and with much difficulty, that he was prevailed upon to excuse women,
+boys, and girls from such rude handling, or suffer their attendants or
+writing-masters to retain their cases for pens and styles.  When
+Camillus formed his plot against him, not doubting but his timidity
 might be worked upon without a war, he wrote to him a scurrilous,
 petulant, and threatening letter, desiring him to resign the government,
 and betake himself to a life of privacy. Upon receiving this
@@ -892,9 +956,11 @@ requisition, he had some thoughts of complying with it, and summoned
 together the principal men of the city, to consult with them on the
 subject.
 
-XXXVI. Having heard some loose reports of conspiracies formed against
-him, he was so much alarmed, that he thought of immediately abdicating
-the government. And when, as I have before related, a man armed with a
+## XXXVI ##
+
+Having heard some loose reports of conspiracies formed against him, he
+was so much alarmed, that he thought of immediately abdicating the
+government. And when, as I have before related, a man armed with a
 dagger was discovered near him while he was sacrificing, he instantly
 ordered the heralds to convoke the senate, and with tears and dismal
 exclamations, lamented that such was his condition, that he was safe no
@@ -906,7 +972,9 @@ adultery, the imperial dignity. Upon this occasion he ran in a great
 fright, and a very shameful manner, to the camp, asking all the way he
 went, “if the empire were indeed safely his?”
 
-XXXVII. No suspicion was too trifling, no person on whom it rested too
+## XXXVII ##
+
+No suspicion was too trifling, no person on whom it rested too
 contemptible, to throw him into a panic, and induce him to take
 precautions for his safety, and meditate revenge. A man engaged in a
 litigation before his tribunal, having saluted him, drew him aside, and
@@ -930,26 +998,28 @@ following, Claudius related the whole affair to the senate, and
 acknowledged his great obligation to his freedmen for watching over him
 even in his sleep.
 
-XXXVIII. Sensible of his being subject to passion and resentment, he
-excused himself in both instances by a proclamation, assuring the public
-that “the former should be short and harmless, and the latter never
-without good cause.” After severely reprimanding the people of Ostia for
-not sending some boats to meet him upon his entering the mouth of the
-Tiber, in terms which might expose them to the public resentment, he
-wrote to Rome that he had been treated as a private person; yet
-immediately afterwards he pardoned them, and that in a way which had the
-appearance of making them satisfaction, or begging pardon for some
-injury he had done them. Some people who addressed him unseasonably in
-public, he pushed away with his own hand. He likewise banished a person
-who had been secretary to a quaestor, and even a senator who had filled
-the office of praetor, without a hearing, and although they were
-innocent; the former only because he had treated him with rudeness while
-he was in a private station, and the other, because in his aedileship he
-had fined some tenants of his, for selling cooked victuals contrary to
-law, and ordered his steward, who interfered, to be whipped. On this
-account, likewise, he took from the aediles the jurisdiction they had
-over cooks’-shops. He did not scruple to speak of his own absurdities,
-and declared in some short speeches which he published, that he had only
+## XXXVIII ##
+
+Sensible of his being subject to passion and resentment, he excused
+himself in both instances by a proclamation, assuring the public that
+“the former should be short and harmless, and the latter never without
+good cause.” After severely reprimanding the people of Ostia for not
+sending some boats to meet him upon his entering the mouth of the Tiber,
+in terms which might expose them to the public resentment, he wrote to
+Rome that he had been treated as a private person; yet immediately
+afterwards he pardoned them, and that in a way which had the appearance
+of making them satisfaction, or begging pardon for some injury he had
+done them. Some people who addressed him unseasonably in public, he
+pushed away with his own hand. He likewise banished a person who had
+been secretary to a quaestor, and even a senator who had filled the
+office of praetor, without a hearing, and although they were innocent;
+the former only because he had treated him with rudeness while he was in
+a private station, and the other, because in his aedileship he had fined
+some tenants of his, for selling cooked victuals contrary to law, and
+ordered his steward, who interfered, to be whipped. On this account,
+likewise, he took from the aediles the jurisdiction they had over
+cooks’-shops. He did not scruple to speak of his own absurdities, and
+declared in some short speeches which he published, that he had only
 feigned imbecility in the reign of Caius, because otherwise it would
 have been impossible for him to have escaped and arrived at the station
 he had then attained. He could not, however, gain credit for this
@@ -957,7 +1027,9 @@ assertion; for a short time afterwards, a book was published under the
 title of Moron anastasis, “The Resurrection of Fools,” the design of
 which was to show “that nobody ever counterfeited folly.”
 
-XXXIX. Amongst other things, people admired in him his indifference and
+## XXXIX ##
+
+Amongst other things, people admired in him his indifference and
 unconcern; or, to express it in Greek, his meteoria and ablepsia.
 Placing himself at table a little after Messalina’s death, he enquired,
 “Why the empress did not come?” Many of those whom he had condemned to
@@ -971,24 +1043,25 @@ when he had a son of his own arrived at years of maturity; he
 continually gave out in public, “that no one had ever been admitted by
 adoption into the Claudian family.”
 
-XL. He frequently appeared so careless in what he said, and so
-inattentive to circumstances, that it was believed he never reflected
-who he himself was, or amongst whom, or at what time, or in what place,
-he spoke. In a debate in the senate relative to the butchers and
-vintners, he cried out, “I ask you, who can live without a bit of meat?”
-And mentioned the great plenty of old taverns, from which he himself
-used formerly to have his wine. Among other reasons for his supporting a
-certain person who was candidate for the quaestorship, he gave this:
-“His father,” said he, “once gave me, very seasonably, a draught of cold
-water when I was sick.” Upon his bringing a woman as a witness in some
-cause before the senate, he said, “This woman was my mother’s freedwoman
-and dresser, but she always considered me as her master; and this I say,
-because there are some still in my family that do not look upon me as
-such.” The people of Ostia addressing him in open court with a petition,
-he flew into a rage at them, and said, “There is no reason why I should
-oblige you: if any one else is free to act as he pleases, surely I am.”
-The following expressions he had in his mouth every day, and at all
-hours
+## XL ##
+
+He frequently appeared so careless in what he said, and so inattentive
+to circumstances, that it was believed he never reflected who he himself
+was, or amongst whom, or at what time, or in what place, he spoke. In a
+debate in the senate relative to the butchers and vintners, he cried
+out, “I ask you, who can live without a bit of meat?” And mentioned the
+great plenty of old taverns, from which he himself used formerly to have
+his wine. Among other reasons for his supporting a certain person who
+was candidate for the quaestorship, he gave this: “His father,” said he,
+“once gave me, very seasonably, a draught of cold water when I was
+sick.” Upon his bringing a woman as a witness in some cause before the
+senate, he said, “This woman was my mother’s freedwoman and dresser, but
+she always considered me as her master; and this I say, because there
+are some still in my family that do not look upon me as such.” The
+people of Ostia addressing him in open court with a petition, he flew
+into a rage at them, and said, “There is no reason why I should oblige
+you: if any one else is free to act as he pleases, surely I am.” The
+following expressions he had in his mouth every day, and at all hours
 
 and seasons: “What! do you take me for a Theogonius?” And in Greek lalei
 kai mae thingane, “Speak, but do not touch me;” besides many other
@@ -996,7 +1069,9 @@ familiar sentences, below the dignity of a private person, much more of
 an emperor, who was not deficient either in eloquence or learning, as
 having applied himself very closely to the liberal sciences.
 
-XLI. By the encouragement of Titus Livius, and with the assistance of
+## XLI ##
+
+By the encouragement of Titus Livius, and with the assistance of
 Sulpicius Flavus, he attempted at an early age the composition of a
 history; and having called together a numerous auditory, to hear and
 give their judgment upon it, he read it over with much difficulty, and
@@ -1022,7 +1097,9 @@ imperial power he had little difficulty in introducing them into common
 use; and these letters are still extant in a variety of books,
 registers, and inscriptions upon buildings.
 
-XLII. He applied himself with no less attention to the study of Grecian
+## XLII ##
+
+He applied himself with no less attention to the study of Grecian
 literature, asserting upon all occasions his love of that language, and
 its surpassing excellency. A stranger once holding a discourse both in
 Greek and Latin, he addressed him thus; “Since you are skilled in both
@@ -1045,21 +1122,24 @@ certain days in every year, his Tuscan history should be read over in
 one of these, and his Carthaginian in the other, as in a school; each
 history being read through by persons who took it in turn.
 
-XLIII. Towards the close of his life, he gave some manifest indications
-that he repented of his marriage with Agrippina, and his adoption of
-Nero. For some of his freedmen noticing with approbation his having
-condemned, the day before, a woman accused of adultery, he remarked, “It
-has been my misfortune to have wives who have been unfaithful to my bed;
-but they did not escape punishment.” Often, when he happened to meet
-Britannicus, he would embrace him tenderly, and express a desire “that
-he might grow apace,” and receive from him an account of all his
-actions: using the Greek phrase, “o trosas kai iasetai,–He who has
-wounded will also heal.” And intending to give him the manly habit,
-while he was yet under age and a tender youth, because his stature would
-allow of it, he added, “I do so, that the Roman people may at last have
-a real Caesar.”
+## XLIII ##
 
-XLIV. Soon afterwards he made his will, and had it signed by all the
+Towards the close of his life, he gave some manifest indications that he
+repented of his marriage with Agrippina, and his adoption of Nero. For
+some of his freedmen noticing with approbation his having condemned, the
+day before, a woman accused of adultery, he remarked, “It has been my
+misfortune to have wives who have been unfaithful to my bed; but they
+did not escape punishment.” Often, when he happened to meet Britannicus,
+he would embrace him tenderly, and express a desire “that he might grow
+apace,” and receive from him an account of all his actions: using the
+Greek phrase, “o trosas kai iasetai,–He who has wounded will also heal.”
+And intending to give him the manly habit, while he was yet under age
+and a tender youth, because his stature would allow of it, he added, “I
+do so, that the Roman people may at last have a real Caesar.”
+
+## XLIV ##
+
+Soon afterwards he made his will, and had it signed by all the
 magistrates as witnesses. But he was prevented from proceeding further
 by Agrippina, accused by her own guilty conscience, as well as by
 informers, of a variety of crimes. It is agreed that he was taken off by
@@ -1075,18 +1155,22 @@ dose given him; whether in water-gruel, under pretence of refreshment
 after his exhaustion, or in a clyster, as if designed to relieve his
 bowels, is likewise uncertain.
 
-XLV. His death was kept secret until everything was settled relative to
-his successor. Accordingly, vows were made for his recovery, and
-comedians were called to amuse him, as it was pretended, by his own
-desire. He died upon the third of the ides of October [13th October], in
-the consulship of Asinius Marcellus and Acilius Aviola, in the
-sixty-fourth year of his age, and the fourteenth of his reign. His
-funeral was celebrated with the customary imperial pomp, and he was
-ranked amongst the gods. This honour was taken from him by Nero, but
-restored by Vespasian.
+## XLV ##
 
-XLVI. The chief presages of his death were, the appearance of a comet,
-his father Drusus’s monument being struck by lightning, and the death of
+His death was kept secret until everything was settled relative to his
+successor. Accordingly, vows were made for his recovery, and comedians
+were called to amuse him, as it was pretended, by his own desire. He
+died upon the third of the ides of October [13th October], in the
+consulship of Asinius Marcellus and Acilius Aviola, in the sixty-fourth
+year of his age, and the fourteenth of his reign. His funeral was
+celebrated with the customary imperial pomp, and he was ranked amongst
+the gods. This honour was taken from him by Nero, but restored by
+Vespasian.
+
+## XLVI ##
+
+The chief presages of his death were, the appearance of a comet, his
+father Drusus’s monument being struck by lightning, and the death of
 most of the magistrates of all ranks that year. It appears from several
 circumstances, that he was sensible of his approaching dissolution, and
 made no secret of it. For when he nominated the consuls, he appointed no
@@ -1162,8 +1246,8 @@ though he had hitherto lived apparently unambitious of public honors,
 accompanied with great ostentation, yet he was now seized with a desire
 to enjoy a triumph. As there existed no war, in which he might perform
 some military achievement, his vanity could only be gratified by
-invading a foreign country, where, contrary to the advice contained in the
-testament of Augustus, he might attempt to extend still further the
+invading a foreign country, where, contrary to the advice contained in
+the testament of Augustus, he might attempt to extend still further the
 limits of the empire. Either Britain, therefore, or some nation on the
 continent, at a great distance from the capital, became the object of
 such an enterprise; and the former was chosen, not only as more
@@ -1276,7 +1360,7 @@ sword into her body, she instantly expired. Thus perished a woman, the
 scandal of whose lewdness resounded throughout the empire, and of whom a
 great satirist, then living, has said, perhaps without a hyperbole,
 
-*Et lassata viris, necdum satiata, recessit.*–Juvenal, Sat. VI.
+> *Et lassata viris, necdum satiata, recessit.*–Juvenal, Sat. VI.
 
 It has been already observed, that Claudius was entirely governed by his
 freedmen; a class of retainers which enjoyed a great share of favor and
