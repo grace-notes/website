@@ -5,8 +5,6 @@ description: "We don’t know much in detail about eternity, what it’s like, o
 template: topic.jade
 ---
 
-**Eternity**
-
 We don’t know much in detail about eternity, what it’s like, or what we
 will be doing there. However, the Bible does have some information from
 which we can draw some inferences.
