@@ -3,13 +3,14 @@ title: "The Apostolic Church"
 indexTitle: "Apostolic Church, The"
 pdf: "apostolicchurch.pdf"
 description: "The beginnings of the Church in the times of the Apostles."
+tableofcontents: true
 template: topic.jade
 ---
 
 from *The Life and Epistles of St. Paul*  
 by W. J. Conybeare and J. S. Howson
 
-## First Aspect of the Church
+##### First Aspect of the Church
 
 Supposing him to be thus employed, we will describe in a few words the
 first beginnings of the Apostolic Church, and the appearance presented
@@ -186,7 +187,7 @@ the Temple only or in any one sacred spot, but everywhere throughout the
 earth, “in spirit and in truth,” and for this doctrine he was doomed to
 die.
 
-## Wider Diffusion of Christianity
+##### Wider Diffusion of Christianity
 
 Hitherto the history of the Christian church has been confined within
 Jewish families. We have followed its progress beyond the wall of
