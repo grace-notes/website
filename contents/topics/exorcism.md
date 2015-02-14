@@ -5,9 +5,6 @@ description: "Exorcisms are acts of liberating afflicted persons from the influe
 template: topic.jade
 ---
 
-
-**Exorcism 2**
-
 **Exorcism in the Gospels and Acts**
 
 In the New Testament exorcisms are primarily found in the Synoptic
