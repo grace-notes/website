@@ -6,11 +6,6 @@ description: "Outline of Bible references to demons; descriptions of identity an
 template: topic.jade
 ---
 
-
-**Demons 4**
-
-**Demons**
-
 Demons are fallen angels under the command of Satan, those who are still
 free after the Genesis 6 affair. Satan is called the prince, or ruler,
 of all demons in Matthew 9:34; 12:24; Mark 3:22; Luke 11:15. Demons are
@@ -25,13 +20,13 @@ occupies the body of an unbeliever. Demons cannot enter the bodies of
 Christian believers because the Christian’s body is the temple of the
 Holy Spirit. Inviting demons can be accomplished in a number of ways.
 
-• Through idolatry of Satan’s communion table, 1 Cor. 10:19-21.
+1. Through idolatry of Satan’s communion table, 1 Cor. 10:19-21.
 
--   Through drug addiction, called in Greek,  (farmakeia), the
+2. Through drug addiction, called in Greek,  (farmakeia), the
     use of drugs, potions, or spells; poisoning, witchcraft, sorcery.
     Gal. 5:20 “witch-craft, sorcery”, cf. also Rev. 9:21; 18:23.
 
--   Through religious backsliding, religious sensitivity activities such
+3. Through religious backsliding, religious sensitivity activities such
     as dabbling in the occult, consulting mediums and necromancy. cf.
     Isa. 8:19.
 
@@ -162,23 +157,23 @@ deafness, Mark 9:17; Luke 11:14. Certain forms of epilepsy, Mark 1:26;
 9:20; Luke 4:35. Satan is the source of at least ten different types of
 abnormal behavior which are mentioned in the Bible.
 
-Convulsions, Mark 1:26
+>Convulsions, Mark 1:26
 
-Violence, Matt. 8:28
+>Violence, Matt. 8:28
 
-Abnormal strength, Mark 5:4
+>Abnormal strength, Mark 5:4
 
-Raving and self mutilation, Mark 5:5
+>Raving and self mutilation, Mark 5:5
 
-Foaming at the mouth, Mark 9:20
+>Foaming at the mouth, Mark 9:20
 
-Public nakedness, Luke 8:27
+>Public nakedness, Luke 8:27
 
-Living among corpses, Mark 5:3
+>Living among corpses, Mark 5:3
 
-A type of grinding of the teeth, Mark 9:18
+>A type of grinding of the teeth, Mark 9:18
 
-Falling into fires and throwing oneself into dangerous things, Matt.
+>Falling into fires and throwing oneself into dangerous things, Matt.
 17:15
 
 Satan also heals. He heals by the withdrawal of demons and establishes
