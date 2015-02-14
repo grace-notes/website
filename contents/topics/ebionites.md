@@ -5,16 +5,12 @@ description: "A Jewish-Christian heretical sect flourishing in the 2nd, 3rd, and
 template: topic.jade
 ---
 
-
-**Ebionites**
-
 From International Standard Bible Encyclopedia
 
 **Ebionites -**A Jewish-Christian heretical sect flourishing in the 2nd,
 3rd, and 4th cents a.d.
 
-I. Origin
-=========
+**I. Origin**
 
 The name Ebionite seems to be derived from Heb *˒eḇyôn*, “poor.” It
 first appears in the writings of Irenaeus (*Adv. haer.* i.26.2), who
@@ -40,7 +36,7 @@ highly unlikely, although there is some evidence that there was a
 historical person named Ebion. Some scholars think that certain
 fragments of *Doctrina patrum de incarnatione Verbi* are by him.
 
-J. A. Fitzmyer suggested that the name *Ebionaioi* grew out of the
+A. Fitzmyer suggested that the name *Ebionaioi* grew out of the
 practice of referring to the first Christians in Jerusalem as “the
 poor,” especially after the destruction of the city in a.d. 70. “At some
 time during the first two centuries … this designation was restricted to
@@ -68,10 +64,9 @@ of their theology in general. The link with the practice of the
 primitive church in sharing wealth came much later as an apologetic
 device and cannot be taken at face value” (ZNW, 57 [1966], 65f).
 
-II. Sources
-===========
+**II. Sources**
 
-**A. Gospel of the Ebionites**This is an abridged and falsified Gospel
+**A. Gospel of the Ebionites**  This is an abridged and falsified Gospel
 of Matthew known only through the accounts and quotations of Epiphanius.
 Since it presupposes the Synoptics, the earliest it could have been
 written is the 2nd century. The Gospel begins not with the Nativity
@@ -81,7 +76,7 @@ parallels to Mt. 5:17; 12:46–50; 26:17ff; and Lk. 22:15 (SQE).
 Epiphanius said that it included the story of the Last Supper, the
 Passion of Christ, and the Resurrection, but we have no details.
 
-**B. Pseudo-Clementine Literature**Apart from the Ebionite Gospel, there
+**B. Pseudo-Clementine Literature**  Apart from the Ebionite Gospel, there
 is little agreement among scholars about authentic Ebionite sources. The
 nineteenth-century Tübingen scholars isolated a source — *Kerygmata
 Petrou* (Sermons of Peter)—in the Pseudo-Clementine literature and
@@ -98,9 +93,7 @@ agreement on the elemental point of whether or not there is any relation
 whatsoever between this pot-pourri of tradition and the Ebionites” (p.
 60).
 
-III. Theology
-=============
-
+**III. Theology**
 Origen was the first to distinguish between two types of Ebionites
 theologically: those who believed in the Virgin Birth and those who
 rejected it (*Contra Celsum* v 61). Eusebius also distinguished between
@@ -168,8 +161,7 @@ orthodox Jews), they regarded Him simply as a man chosen by God, who at
 His baptism received a power from God. It is generally believed that the
 christological tenets of the Ebionites showed Cerinthian influence.
 
-IV. Ebionites and Qumrân
-========================
+**IV. Ebionites and Qumrân**
 
 Since the discovery of the Dead Sea Scrolls, vigorous discussions have
 been carried on about the relationship of the Ebionites to the people of
@@ -199,7 +191,7 @@ than this is to overstep the limits set by the evidence we have at our
 disposal” (p. 231). This appears to be a more tenable view of the
 relationship between Qumrân and the Ebionites.
 
-***Bibliography.***—O. Cullmann, “Die neuentdeckten Qumrantexte und das
+***Bibliography.***— O. Cullmann, “Die neuentdeckten Qumrantexte und das
 Judenchristentum der Pseudo-klementinen,” in NT *Studien für Rudolf
 Bultmann* (BZNW, 21, 1954), 35–51; “Significance of the Qumran Texts for
 Research into the Beginnings of Christianity,” in K. Stendahl, ed, *The
