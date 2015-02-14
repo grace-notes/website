@@ -6,13 +6,7 @@ tableofcontents: true
 template: topic.jade
 ---
 
-
-Amorites
-
 from International Standard Bible Encyclopedia
-
-Amorites
-========
 
 I. In the Old Testament
 -----------------------
