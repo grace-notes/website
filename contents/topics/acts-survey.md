@@ -3,10 +3,9 @@ title: "Survey of Acts"
 indexTitle: "Acts, Survey"
 pdf: "acts_survey.pdf"
 description: "a survey of the Acts of the Apostles."
+tableofcontents: true
 template: topic.jade
 ---
-
-**Survey of the Acts of the Apostles**
 
 ## Author and Title
 
