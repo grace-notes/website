@@ -4,6 +4,7 @@ display_title: The Blood of Christ
 description: "Teaching on the representative analogy which the Blood
               of Christ forms with the death of the animal on the
               altar."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -90,7 +91,7 @@ sacrifice on the cross is once for all.
 The blood of Christ is the basis for all of the salvation doctrines of
 the New Testament, including the following:
 
-## Redemption
+##### Redemption
 
 > “Forasmuch as ye know that ye were not redeemed with corruptible
 > things, as silver and gold, from your vain conversation received by
@@ -100,12 +101,12 @@ the New Testament, including the following:
 > “In whom we have redemption through his blood, the forgiveness of sins
 > according to the riches of his grace.” Eph. 1:7
 
-## Justification
+##### Justification
 
 > “Much more then, being now justified by his blood, we shall be saved
 > from wrath through him.” Rom. 5:9
 
-## Imputation
+##### Imputation
 
 God’s righteousness is imputed or credited to us because our sin is
 imputed or credited to Christ. 2 Cor. 5:21 (shown above). God looks at
@@ -113,13 +114,13 @@ the believer and sees a righteousness equivalent to His own. This is
 possible because our sins were judged at the cross and we were given
 righteousness by grace.
 
-## Propitiation
+##### Propitiation
 
 > “Whom God hath set forth to be a propitiation through faith in his
 > blood, to declare his righteousness for the remission of sins that are
 > past, through the forbearance of God:” Rom. 3:25
 
-## Cleansing and Restoration to Fellowship
+##### Cleansing and Restoration to Fellowship
 
 > “But if we walk in the light, as He is in the light, we have
 > fellowship with one another, and the blood of Jesus Christ cleanseth
