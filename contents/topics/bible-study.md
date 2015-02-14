@@ -2,10 +2,11 @@
 title: Bible Study
 description: How to study the Bible with understanding.
 author: Drue Freeman
+tableofcontents: true
 template: topic.jade
 ---
 
-## INTRODUCTION
+##### INTRODUCTION
 
 This study is designed to introduce the student to basic facts about the
 Bible and also to introduce some principles that should be employed in
@@ -14,7 +15,7 @@ one’s search of the Holy Scriptures. We are told in 2 Timothy 2:15 to
 guidelines found in the Scripture to equip the student of the Word so as
 to fulfill the exhortation to deal correctly with God’s Word.
 
-### PERSONAL PREPARATION FOR BIBLE STUDY
+###### PERSONAL PREPARATION FOR BIBLE STUDY
 
 Personal preparation in the study of the Scripture cannot be
 overemphasized. First and foremost, we must have believed in Jesus
@@ -55,7 +56,7 @@ It is also important that we consistently confess our sins and permit
 God to do the cleansing of our lives, so that greater fellowship may be
 attained with Him (1 John 1:6-10).
 
-### WHAT IS TO BE GAINED FROM GOD’S WORD
+###### WHAT IS TO BE GAINED FROM GOD’S WORD
 
 There is a profound knowledge to be gained from God’s Word as we “grow
 in the grace and knowledge of our Lord Jesus Christ (2 Pet 3:14-18).
@@ -68,7 +69,7 @@ also have power in ministry (Eph 2:10). With this knowledge of His Word,
 we can practice the truth in the name of the Lord Jesus (Col 3:16-17)
 and proclaim it to a lost and dying world (John 17:17-19; Heb 5:12).
 
-### WHAT IS THE BIBLE
+###### WHAT IS THE BIBLE
 
 The Bible is not simply another book. Jesus Christ called it “The Book
 (Heb 10:7).” Without it man cannot know the absolute standard of
@@ -91,7 +92,7 @@ Daniel Chapters Two through Seven and Ezra Chapters Four through Seven
 which were written in a sister language to the Hebrew, which is Aramaic.
 All of the New Testament is written in Koine (common) Greek.
 
-### THE DIVISIONS OF THE BIBLE
+###### THE DIVISIONS OF THE BIBLE
 
 The Bible is divided into two Testaments, the old and the new. A
 “testament” is a covenant or contract. The “Old” Testament looks at the
@@ -123,7 +124,7 @@ The New Testament begins with five Historical books: Matthew, Mark,
 Luke, John and the Book of Acts. The Historical books are followed by 21
 Epistles and one book of Prophecy (Revelation).
 
-### AN OVERVIEW OF THE BIBLE
+###### AN OVERVIEW OF THE BIBLE
 
 A. Creation of the heavens and earth. Gen 1:1; 2 Pet 3:6 B. Satan’s
 First Rebellion. Gen 1:2 cf Isa 45:18 cf Isa 14:12-14 C. Earth prepared
@@ -139,7 +140,7 @@ T. God’s subjection of Satan.  U. Headship of Second Adam.  V. Earth
 perfected for man.  W. Satan’s Final Rebellion.  X. New Heavens and
 Earth.
 
-### BEGINNING TO STUDY THE BIBLE
+###### BEGINNING TO STUDY THE BIBLE
 
 As we seek to understand the Bible, we must constantly seeks answers to
 the questions, “who,” “what,” “when,” “where,” “why,” and how?" The
@@ -153,11 +154,11 @@ the Holy Spirit Himself through the written word. They are principles
 that we are to pass on from one generation to the next (2 Tim 2:2) so
 that we all might grow up in all respects in our Lord (Eph 4:11-16).
 
-## LESSON 2
+##### LESSON 2
 
 15 BASIC PRINCIPLES OF INTERPRETATION
 
-### PRINCIPLE 1: INTERPRET BASED ON DIVINE ESSENCE.
+###### PRINCIPLE 1: INTERPRET BASED ON DIVINE ESSENCE.
 
 This principle recognizes the Essence of God and that His Essence is not
 compromised. It is thus vitally important to know the basic
@@ -209,7 +210,7 @@ John 5:20 \>, [1 John 5:7,8; 4:6; John 14:17; 15:26; 16:13].
 God is IMMUTABLE meaning that His Essence never changes. (James 1:17;
 Heb 6:17; Mal 3:6), \< Heb 13:8 \>, [1 Cor 12:4; Eph 1:13].
 
-### PRINCIPLE 2: INTERPRET CHRISTOLOGICALLY.
+###### PRINCIPLE 2: INTERPRET CHRISTOLOGICALLY.
 
 This principle is based on the fact that all history, both angelic and
 human, is focused on Jesus Christ. It recognizes that Jesus Christ is
@@ -246,7 +247,7 @@ Esther: He is our Mordecai. (Ch. 10)
 
 Job: He is our Risen and Returning Redeemer. (19:25)
 
-#### Psalms:
+###### Psalms:
 
 He is the Blessed Man of 1.
 
@@ -356,7 +357,7 @@ Jude: He is the Believer’s Security. (V24,25)
 
 Revelation: He is the King of Kings and Lord of Lords. (19:11-16)
 
-### PRINCIPLE 3: INTERPRET DISCRIMINATELY.
+###### PRINCIPLE 3: INTERPRET DISCRIMINATELY.
 
 This principle instructs us to make distinctions where God makes
 distinctions. In other words, we are to recognize Biblical differences
@@ -365,7 +366,7 @@ and rewards, the believer’s security and walk, Law and Grace, and a host
 of others. The Bible makes many distinctions and challenges us to find
 out the reasons why God chose to establish them as different.
 
-### PRINCIPLE 4: INTERPRET TO FIND OUT HOW TO LIVE. JOHN 7:17
+###### PRINCIPLE 4: INTERPRET TO FIND OUT HOW TO LIVE. JOHN 7:17
 
 This principle comes from a direct statement of Jesus Christ. If one
 truly wants to “know” God’s Word, then one must be willing to “do” His
@@ -435,7 +436,7 @@ Why do I fail?
 6. Substitution of emotion for volition.
 7. Fogged thinking by prejudice, bias or laziness.
 
-### PRINCIPLE 5: INTERPRET FROM PRIMARY PASSAGES.
+###### PRINCIPLE 5: INTERPRET FROM PRIMARY PASSAGES.
 
 This principle recognizes that God has declared His primary attitude on
 any subject that is vital to our spiritual life. Many times in the Word,
@@ -450,7 +451,7 @@ of His children. Heb 12:1-11 F. The Church. Eph 1-3 G. Righteousness by
 faith. Rom 3:10-21 H. Law. Ex 20 I. Full Armor of God. Eph 6:10-17 J.
 Spiritual Gifts. 1 Cor 12-14
 
-### PRINCIPLE  6: INTERPRET BASED ON CONTEXT.
+###### PRINCIPLE  6: INTERPRET BASED ON CONTEXT.
 
 This principle is based on the fact that every sentence or verse in the
 Bible has something the comes before and/or something that follows. God
@@ -512,7 +513,7 @@ accurately the Word of Truth (2 Tim 2:15).” When we make “doctrinal”
 statements, we must be able to prove them from Scripture that is
 interpreted in context, or else that “doctrine” is subject to question.
 
-### PRINCIPLE  7: INTERPRET COMPARATIVELY.
+###### PRINCIPLE  7: INTERPRET COMPARATIVELY.
 
 This principle also recognizes the interal consistency of the Word of
 God and points us to the importance of comparing Scripture with
@@ -563,7 +564,7 @@ restoring the earth and not the original creation of it. In any event,
 the position you hold must recognize and properly handle all the verses
 on a given subject.
 
-### PRINCIPLE 8: INTERPRET HARMONIOUSLY.
+###### PRINCIPLE 8: INTERPRET HARMONIOUSLY.
 
 This principle recognizes the truthfulness and faithfulness of God and
 that He is not the author of confusion (1 Cor 14:33). In other words,
@@ -590,7 +591,7 @@ or place. Realize also that every small detail may not have been written
 down. Realize also that the problem may be in the translation. In any
 event, there are no true contradictions found in God’s Word.
 
-### PRINCIPLE 9: INTERPRET LITERALLY.
+###### PRINCIPLE 9: INTERPRET LITERALLY.
 
 This is the principle under which God says what He means and means what
 He says. It is an extremely important principle because it guides us in
@@ -613,7 +614,7 @@ order to familiarize yourself with this principle are Romans 3:23,
 Romans 8:35-39, John 3:16,18,36, Ephesians 2:8-9, I John 2:1-2, and
 Titus 3:5.
 
-### PRINCIPLE 10: INTERPRET VOLITIONALLY.
+###### PRINCIPLE 10: INTERPRET VOLITIONALLY.
 
 This principle looks at the freewill of mankind and the fact that God
 has made man responsible for his own decisions (John 3:18). This is
@@ -628,7 +629,7 @@ decisions of man but that just because it records them does not mean the
 decisions are condoned. We see this also in Genesis 2 and 3. God’s Word
 recorded but did not condone the decision to eat the fruit.
 
-### PRINCIPLE 11: INTERPRET PROGRESSIVELY.
+###### PRINCIPLE 11: INTERPRET PROGRESSIVELY.
 
 This principle teaches us that God revealed information over a period of
 time. For example, the first prophecy of the Messiah is found in Genesis
@@ -643,7 +644,7 @@ is the direct adversary of God. Many times we will find that the
 universal truth about a given subject is taught in conjunction with the
 first place it is mentioned.
 
-### PRINCIPLE 12: INTERPRET DISPENSATIONALLY.
+###### PRINCIPLE 12: INTERPRET DISPENSATIONALLY.
 
 This principle recognizes that there are particular periods of history
 in which God deals in a particular way with man in respect to man’s
@@ -680,7 +681,7 @@ Dispensations. For example, the forms and methods of the priesthood
 changed during the scope of the Bible, but the principles upon which
 they functioned remained the same.
 
-### PRINCIPLE 13: INTERPRET COVENANTALLY.
+###### PRINCIPLE 13: INTERPRET COVENANTALLY.
 
 This principle recognizes the agreements or contracts made between God
 and men. The are conditional covenants that depend upon man’s compliance
@@ -713,7 +714,7 @@ found in Deuteronomy 30:1-10.
 The New Covenant made with the House of Israel in Jeremiah 31:31 and
 Hebrews 8:8-12, based on the blood of Christ.
 
-### PRINCIPLE 14: INTERPRET SPECIFICALLY.
+###### PRINCIPLE 14: INTERPRET SPECIFICALLY.
 
 This principle recognizes that there are questions that must be answered
 in interpreting the Bible. For example, we must ask, “Who said this?”
@@ -722,7 +723,7 @@ does this concern?” This principle recognizes that God has dealt with
 three classes of people in history, the Jews, the Gentiles and the
 Church. Therefore, we must seek to determine who the recipients were.
 
-### PRINCIPLE 15: INTERPRET PROPHECY CAREFULLY.
+###### PRINCIPLE 15: INTERPRET PROPHECY CAREFULLY.
 
 This principle recognizes that the Bible very clearly foretells future
 events. The Bible also tells us very clearly that true prophecies come
@@ -763,7 +764,7 @@ account for all the known facts and must take all pieces of evidence
 into consideration. It is not our privilege to discount facts that do
 not fit the picture we think we are going to see.
 
-## SOME OTHER CONSIDERATIONS
+##### SOME OTHER CONSIDERATIONS
 
 We must recognize that God may leap over centuries of time without
 making a comment that is inscripturated. He may also leap over centuries
