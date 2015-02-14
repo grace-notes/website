@@ -4,6 +4,7 @@ indexTitle: "Acts, Historical Background"
 pdf: "actshistoricalbackground.pdf"
 description: "chronology, and some of the political background of the Acts of the Apostles."
 template: topic.jade
+tableofcontents: true
 subtitle: from “The Life and Epistles of St. Paul”
 author: W. J. Conybeare and J. S. Howson
 ---
