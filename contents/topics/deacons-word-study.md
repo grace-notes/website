@@ -1,3 +1,11 @@
+---
+title: "Deacon, a word study"
+pdf: "deacons_wordstudy.pef"
+tableofcontents: true
+template: topic.jade
+---
+
+
 **διακονέω.**
 
 The concept of serving is expressed in Gk. by many words which are often hard to differentiate even though each has its own basic emphasis. → δουλεύω means to serve as a slave, with a stress on subjection. → θεραπεύω emphasises willingness for service and the respect and concern thereby expressed (esp. towards God). → λατρεύω means to serve for wages. In NT days it had come to be used predominantly for religious or cultic duties. → λειτουργέω denotes official public service to the people or to the state, being used in the LXX for service in the temple and in Christianity for service in the Church. ὑπηρετέω means at root to steer. In terms of service, it signifies esp. the relation to the master to whom the service is rendered. In Xenoph. → ὑπηρέτης is often used in the sense of adjutant. As distinct from all these terms, διακονέω has the special quality of indicating very personally the service rendered to another. It is thus closest to ὑπηρετέω, but in διακονέω there is a stronger approximation to the concept of a service of love.
