@@ -2,12 +2,13 @@
 title: "Felix Antonius"
 pdf: "felix.pdf"
 description: "Felix Antonius-  A Roman procurator of Judea, appointed by the emperor Claudius. Dealt with Paul in Caesarea."
+tableofcontents: true
 template: topic.jade
 ---
 
 From International Standard Bible Encyclopedia
 
-FELIX fēʹliks Antonius an-tōʹni-əs
+FELIX  ANTONIUS
 
 A Roman procurator of Judea, appointed by the emperor Claudius to succeed Cumanus.
 The event that led to the introduction of Felix into the narrative of Acts was the riot at Jerusa-lem (Acts 21:27). There Paul, being attacked at the instigation of the Asian Jews for alleged false teaching and profanation of the temple, was rescued with difficulty by Lysias the chief cap-tain. But Lysias, finding that Paul was a Roman citizen, and that therefore the secret plots against the life of his captive might entail seri-ous consequences for himself, and finding also that Paul was charged on religious rather than on political grounds, sent him on to Felix at Caesarea for trial (Acts 21:31–23:34). On his arrival, Paul was presented to Felix and was then detained for five days in the judgment hall of Herod, till his accusers could also reach Caes-area (23:33–35).
