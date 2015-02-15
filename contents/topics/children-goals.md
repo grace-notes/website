@@ -1,8 +1,9 @@
 ---
 title: "Goals in Training Children"
-indexTitle: "Children, Goals for"
+indexTitle: "Children, Goals in Training"
 pdf: "childrengoals.pdf"
 description: "Some ideas regarding setting Biblical goals for nurturing and training children in the plan of God."
+tableofcontents: true
 template: topic.jade
 ---
 
