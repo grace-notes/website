@@ -1,77 +1,13 @@
 ---
-title: Jewish Social Life
+title: "Sketches of Jewish Social Life"
+pdf: "jewishsociallife.pdf"
+tableofcontents: true
 template: topic.jade
 ---
 
-
-a *Grace Notes* publication
-
-**Sketches of Jewish Social Life**
-
 by Alfred Edersheim
 
-**Sketches of Jewish Social Life**
 
-**Table of Contents**
-
-[Preface 1](#__RefHeading___Toc74456583)
-
-[Chapter 1. Palestine Eighteen Centuries Ago
-2](#__RefHeading___Toc74456584)
-
-[Chapter 2. Jews and Gentiles in “The Land”
-6](#__RefHeading___Toc74456585)
-
-[Chapter 3. In Galilee at the Time of Our Lord
-12](#__RefHeading___Toc74456586)
-
-[Chapter 4. Travelling, Roads, Inns, Hospitality, Taxation, Publicans
-16](#__RefHeading___Toc74456587)
-
-[Chapter 5. In Judea 22](#__RefHeading__16210_1840878105)
-
-[Chapter 6. Jewish Homes 32](#__RefHeading___Toc74456589)
-
-[Chapter 7. The Upbringing of Jewish Children
-38](#__RefHeading___Toc74456590)
-
-[Chapter 8. Home Education; Female Education; Elementary Schools;
-Schoolmasters. 45](#__RefHeading___Toc74456591)
-
-[Chapter 9. Mothers, Daughters, Wives in Israel
-51](#__RefHeading__16212_1840878105)
-
-[Chapter 10. In Death and After Death
-59](#__RefHeading__16214_1840878105)
-
-[Chapter 11. Jewish Views on Trade, Tradesmen, and Trade Guilds
-66](#__RefHeading___Toc74456594)
-
-[Chapter 12. Commerce 72](#__RefHeading___Toc74456595)
-
-[Chapter 13. Among the People, and with the Pharisees
-78](#__RefHeading___Toc74456596)
-
-[Chapter 14. The “Fraternity” of Pharisees
-83](#__RefHeading__16216_1840878105)
-
-[Chapter 15. Relation of the Pharisees to Sadducees and Essenes, and to
-the Gospel of Christ 87](#__RefHeading___Toc74456598)
-
-[Chapter 16. Synagogues: Their Origin, Structure and Outward
-Arrangements 91](#__RefHeading___Toc74456599)
-
-[Chapter 17. The Worship of the Synagogue
-96](#__RefHeading___Toc74456600)
-
-[Chapter 18. Brief Outline of Ancient Jewish Theological Literature
-102](#__RefHeading___Toc74456601)
-
-[Appendix 1. Massecheth Middoth: Mishnah Tractate Describing the
-Measurements of the Temple 107](#__RefHeading___Toc74456602)
-
-[Appendix 2. Extracts from the Babylon Talmud
-112](#__RefHeading___Toc74456603)
 
 Preface
 =======
