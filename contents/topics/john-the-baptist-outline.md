@@ -2,13 +2,9 @@
 title: "John the Baptist"
 pdf: "johnthebaptist_outline.pdf"
 description: "John the Baptist -  -a complete exposition of all of the teaching in the Bible about the great prophet and his relationship to Jesus Christ."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-John the Baptist 5
-
-John the Baptist
 
 **from the International Standard Bible Encyclopedia**
 
