@@ -2,6 +2,7 @@
 title: "Darkness in the Soul"
 pdf: "darknessofthesoul.pdf"
 description: "an exposition of Ephesians 4:17-24."
+tableofcontents: true
 template: topic.jade
 ---
 
