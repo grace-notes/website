@@ -2,16 +2,14 @@
 title: "Nehemiah"
 pdf: "nehemiah.pdf"
 description: "A postexile governor of Judah and writer of the memoirs in the book called by his name. All that is known from contemporary sources about this Jewish patriot is found in the book of Nehemiah."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Nehemiah**
-
 From International Standard Bible Encyclopedia
 
-**Nehemiah**nē-ə-mīʹə [Heb *n*<sup>*e*</sup>*ḥemyâ*—‘Yahweh comforts’;
-Gk *Neemia*]; AV Apoc NEHEMIAS (1 Esd. 5:8), NEEMIAS (2 Macc. 1:18–36;
+**Nehemiah** (nē-ə-mīʹə [Heb *n*<sup>*e*</sup>*ḥemyâ*—‘Yahweh comforts’;
+Gk *Neemia*]); AV Apoc NEHEMIAS (1 Esd. 5:8), NEEMIAS (2 Macc. 1:18–36;
 2:13; Sir. 49:13).
 
 **1.** A postexilic governor of Judah and writer of the memoirs in the
