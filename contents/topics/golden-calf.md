@@ -3,13 +3,9 @@ title: "The Golden Calf"
 indexTitle: "Golden Calf, The"
 pdf: "goldencalf.pdf"
 description: "Golden Calf, The -  The golden calf represents the failure of the children of Israel at the Holy Mountain of God."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Golden Calf 2**
-
-**The Golden Calf**
 
 by Rev. Mark Perkins, Pastor
 
