@@ -2,6 +2,7 @@
 title: "Jealousy"
 pdf: "jealousy.pdf"
 description: "Jealousy is a mental attitude or emotional sin which is characterized by resentment of another person's accomplishments, recognition, attractiveness, or possessions, or by hostility towards someone else who is believed to be enjoying some advantage."
+tableofcontents: true
 template: topic.jade
 ---
 
