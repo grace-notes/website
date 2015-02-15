@@ -1,10 +1,9 @@
 ---
-title: Paul Childhood
+title: "Paul Childhood"
+pdf: "paulchildhood.pdf"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Paul’s Childhood 7**
 
 Paul’s Childhood at Tarsus
 
