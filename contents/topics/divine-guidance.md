@@ -2,6 +2,7 @@
 title: "Divine Guidance"
 pdf: "divineguidance.pdf"
 description: "The divine guidance of Christ; divine guidance for the Christian believer."
+tableofcontents: true
 template: topic.jade
 ---
 
