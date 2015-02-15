@@ -3,7 +3,7 @@ title: "Jacob"
 pdf: "jacob.pdf"
 description: "Jacob was an OT patriarch, son of Isaac and father of the twelve named ancestors of the tribes of Israel (from International Standard Bible Encyclopedia)."
 template: topic.jade
-tableOfContents: yes
+tableOfContents: true
 ---
 
 Jacob was an OT patriarch, son of Isaac and father of the twelve
@@ -20,8 +20,7 @@ parts of the biography of Jacob to be better understood. Evidence quoted
 as contemporary with Jacob is taken from material of the 18th and 17th
 cents b.c.
 
-Significance of the Name “Jacob”
---------------------------------
+##### Significance of the Name “Jacob”
 
 Two other names from the same root are found in the OT, Akkub and
 Jaakobah. It has long been known that a similar name was also in use in
@@ -58,14 +57,13 @@ Jacob’s case the circumstances of his birth were likely to give rise to
 an allusive wordplay upon a current name, for he “grasped the heel” of
 his brother (25:26).
 
-The Life of Jacob
------------------
+##### The Life of Jacob
 
 “A wandering Aramean was my father” (Dt. 26:5). This is an apt
 description of Jacob’s history, which may be considered in four sections
 according to his place of residence.
 
-### Early Life in Canaan
+###### Early Life in Canaan
 
 The conception of Isaac’s sons is remarkable in that it did not occur
 until twenty years after his marriage to Rebekah. As Abraham had been
@@ -101,7 +99,7 @@ comparable to the sale of a birthright recorded at Nuzi. The blessing,
 once pronounced, was irrevocable; and so Jacob was sent to the safety of
 Rebekah’s home until Esau should forgive him.
 
-### To Paddan-aram
+###### To Paddan-aram
 
 Jacob was well over forty years old when he left home, for Esau had
 already married at the age of forty (Gen. 26:34; 27:46). The journey
@@ -171,7 +169,7 @@ command to return to his father’s home. They claimed that their father
 had not given them any dowry but had spent it instead, treating them as
 foreigners.
 
-### Return to Canaan
+###### Return to Canaan
 
 Jacob departed while Laban and his sons were away shearing sheep in the
 hills. Thereby he gained a two-day head start, and it was not until he
@@ -346,7 +344,7 @@ given to Jacob reiterated the promises of Bethel, that he would be the
 ancestor of a great nation which would return and possess the land, even
 as he himself had returned from Paddan-aram.
 
-### To Egypt
+###### To Egypt
 
 The caravan passed from Gerar along the main route to Egypt until it
 came to Goshen, the fertile area E of the Nile Delta. Here Joseph had
@@ -368,7 +366,6 @@ cannot be established with certainty. At that time the royal residence
 was either at Avaris (Tanis) or at Memphis, within easy reach of Goshen,
 as Gen. 46–47 suggests. Jacob was introduced to the court, where the
 pharaoh, with true Egyptian courtesy, inquired about his age.
-
 
 ![In the pastures of Goshen, Jacob’s sons were able to live as they had in
 Canaan, with the extra security afforded by Joseph’s high position at
@@ -411,8 +408,7 @@ Egypt could muster was provided for the vizier’s father. The size and
 lamentations of this cortege so impressed the Canaanites that they named
 a place after it. So the “wandering Aramean” rested in his homeland.
 
-Jacob’s Religion
-----------------
+##### Jacob’s Religion
 
 Any attempt to study the beliefs of individuals apart from their life
 story is apt to become unbalanced. The stages on the road of Jacob’s
@@ -455,7 +451,7 @@ story of Jacob the names ’El Shaddai (43:14) and ’El Bethel (31:13;
 polytheism or a syncretism of local deities or clan totems. Each name
 has its own significance in the place it occupies.
 
-### Jacob’s Growth; First Crisis
+###### Jacob’s Growth; First Crisis
 
 Jacob’s religion can be viewed as consistent with the beliefs and
 practices of his fathers. No doubt he received some instruction from
@@ -476,7 +472,7 @@ sacrificed and worshiped elsewhere. He vowed to take Yahweh as his God,
 if he should journey in safety and eventually return home. Moreover, he
 would devote a tenth of his income to God (cf. Abraham, Gen. 14:20).
 
-### Second Crisis
+###### Second Crisis
 
 After twenty years in Paddan-aram came the command to return to Canaan.
 There could be no doubt of its authenticity, for it came in the name of
@@ -510,7 +506,7 @@ translation, “Kinsman,” has been proposed (FSAC, p. 248; but *see* Fear
 II.C). A single reference might admit of Jacob’s using a similar private
 epithet for God, “the Mighty One of Jacob” (49:24).
 
-### Third Crisis
+###### Third Crisis
 
 The third crisis was the encounter at Peniel. Before Jacob met Esau he
 had seen the strength of his “Mighty One” in the angelic host at
@@ -523,7 +519,7 @@ of one who is helpless. The awe that was aroused by the revelation at
 Bethel recurred as Jacob named the place, awe that a mortal should
 survive a meeting with God “face to face.”
 
-### Fourth Crisis
+###### Fourth Crisis
 
 When Jacob setled at Shechem he built an altar to *˒El*, with whom the
 local inhabitants might possibly identify their chief god. To emphasize
@@ -544,8 +540,7 @@ Remembrance of this occasion was insured by the erection of another
 pillar and reiteration of the name Bethel, not in solitude but before
 many witnesses, notably his sons, who would remember its meaning.
 
-Fifth Crisis and Triumph
-------------------------
+##### Fifth Crisis and Triumph
 
 The altar at Beer-sheba marked the final crisis. Here the patriarch
 worshiped for the last time in the land promised to him. This was the
@@ -571,7 +566,7 @@ change, “before whom … Abraham … walked, … who has led me all my life
 long” (48:15). No wonder that a later Israelite could sing, “Happy is
 the man whose help is the God of Jacob!” (Ps. 146:5).
 
-### Israel: Man and Nation
+###### Israel: Man and Nation
 
 The narratives of Genesis paint a vivid picture of Jacob’s character.
 His failings are recounted as much as his triumphs; he has a personality
@@ -595,8 +590,7 @@ possession of the covenant, the distinction of the choice of God (Mal.
 1:2). Later Jacob became an illustration and a type of the Church (Rom.
 9:10–13).
 
-References Outside Genesis
---------------------------
+##### References Outside Genesis
 
 “Jacob” and “Israel” are the two names most frequently met with in the
 OT. In most cases these denote the children of Israel, particularly in
@@ -604,7 +598,7 @@ the parallelism of poetic compositions. To this day the name of the
 patriarch is thus perpetuated. There remain, however, biblical passages
 that refer to Jacob himself.
 
-### In the Old Testament
+###### In the Old Testament
 
 A considerable group of verses associate him with Abraham and Isaac in
 naming God as the God of the fathers, underlining the continuity and the
@@ -636,7 +630,7 @@ and it is noteworthy that all is consistent with the Genesis
 presentation. If the latter had been lost, it would still have been
 possible to write a biography of the father of the children of Israel.
 
-### In the New Testament
+###### In the New Testament
 
 Four NT passages recall events in the life of Jacob. The conversation of
 Jesus (a descendant of the patriarch, Mt. 1:2; Lk. 3:33f) and the woman
