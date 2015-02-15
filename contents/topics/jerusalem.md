@@ -2,56 +2,13 @@
 title: "Jerusalem"
 pdf: "jerusalem.pdf"
 description: "Jerusalem -  A study of the chief city of Israel."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-**Jerusalem 11**
 
-**Jerusalem**
-
-**Contents**
-
-**[Introduction 1](#__RefHeading___Toc66293004)**
-
-[The Walls of Jerusalem 2](#__RefHeading___Toc66293005)
-
-[Outline History of the City 2](#__RefHeading___Toc66293006)
-
-**[from the Thompson Chain Reference Bible
-2](#__RefHeading___Toc66293007)**
-
-**[A First View of Jerusalem 4](#__RefHeading___Toc66293008)**
-
-[The Charm of Jerusalem 4](#__RefHeading___Toc66293009)
-
-[Ancient Memories 5](#__RefHeading___Toc66293010)
-
-[Origin of the Name 5](#__RefHeading___Toc66293011)
-
-[The Situation of Jerusalem 5](#__RefHeading___Toc66293012)
-
-[Mount of Olives 6](#__RefHeading___Toc66293013)
-
-[The Walls 7](#__RefHeading___Toc66293014)
-
-[Tower of Antonia 7](#__RefHeading___Toc66293015)
-
-[The Four Hills 8](#__RefHeading___Toc66293016)
-
-[High-Priest’s Palace 8](#__RefHeading___Toc66293017)
-
-[The Shushan Gate 9](#__RefHeading___Toc66293018)
-
-[The Temple Plateau 9](#__RefHeading___Toc66293019)
-
-[Fables of the Rabbis 10](#__RefHeading___Toc66293020)
-
-[Jerusalem in Ruins 10](#__RefHeading___Toc66293021)
-
-Introduction
-============
-
+##### Introduction
 The earliest written record of the city of Jerusalem is on an Assyrian
 monument of the 8th Century before Christ, but archaeologists think that
 the City dates back to at least 3000 BC. Jerusalem was occupied by the
@@ -100,8 +57,7 @@ designations:
 
 -   The southeastern hill is called the City of David, and Ophel
 
-The Walls of Jerusalem
-----------------------
+##### The Walls of Jerusalem
 
 The present walls go back to Suleiman the Magnificent, 1542 AD. In the
 present walls there are eight existing gates:
@@ -114,8 +70,7 @@ present walls there are eight existing gates:
 
 -   On the south wall, the Dung Gate and the Zion Gate
 
-Outline History of the City
----------------------------
+##### Outline History of the City
 
 Conquered by Judah, Judges 1:8
 
@@ -184,8 +139,7 @@ In 1949, Jerusalem was internationalized by the United Nations.
 In 1967, the Jews regained control of the entire city in the Six Days
 War.
 
-from the Thompson Chain Reference Bible
-=======================================
+##### from the Thompson Chain Reference Bible
 
 Jerusalem was naturally first in the minds of explorers when they
 prepared to excavate, for the very thoughts of the place brought the
@@ -329,14 +283,12 @@ the bones of Uzziah, King of Judah, do not open.” It is supposed that
 the reburial was made necessary by the extensive construction work
 carried out by Agrippa II in Jerusalem.
 
-A First View of Jerusalem
-=========================
+##### A First View of Jerusalem
 
 from “The Temple, Its Ministry and Services as the were at the Time of
 Christ”, by Alfred Edersheim.
 
-The Charm of Jerusalem
-----------------------
+###### The Charm of Jerusalem
 
 In every age, the memory of Jerusalem has stirred the deepest feelings.
 Jews, Christians, and Mohammedans turn to it with reverent affection. It
@@ -366,8 +318,7 @@ facts can never be past–they are eternally present; not only to our
 faith, but also to our hope; for He ‘shall so come in like manner’ as
 the ‘men of Galilee’ had on Mount Olivet ‘seen Him go into heaven.’
 
-Ancient Memories
-----------------
+###### Ancient Memories
 
 But our memories of Jerusalem stretch far back beyond these scenes. In
 the distance of a remote antiquity we read of Melchisedek, the typical
@@ -395,8 +346,7 @@ Jerusalem remains the one center of interest and attractions, till we
 come to that Presence which has made it, even in its desolateness,
 ‘Hephzibah,’ ‘sought out,’ ‘a city not forsaken.’ (Isa 62:4)
 
-Origin of the Name
-------------------
+###### Origin of the Name
 
 The Rabbis have a curious conceit about the origin of the name
 Jerusalem, which is commonly taken to mean, ‘the foundation,’ ‘the
@@ -430,8 +380,7 @@ Michmash, Ramah, and Anathoth. But, above all, just at your feet, the
 Holy City would lie in all her magnificence, like ‘a bride adorned for
 her husband.’
 
-The Situation of Jerusalem
---------------------------
+###### The Situation of Jerusalem
 
 ‘Beautiful for situation, the joy of the whole earth, is Mount Zion, on
 the sides of the north, the city of the Great King….Walk about Zion, and
@@ -502,8 +451,7 @@ come up that same Olivet, so familiar to them all. For did it not seem
 almost to form part of the city itself, shutting it off like a screen
 from the desert land that descended beyond to Jordan and the Dead Sea?
 
-Mount of Olives
----------------
+###### Mount of Olives
 
 From the Temple Mount to the western base of Olivet, it was not more
 than 100 or 200 yards straight across, though, of course, the distance
@@ -574,8 +522,7 @@ journey. This, as Otho well remarks (Lex. Rabb. p. 195), also explains
 how, on such occasions, our Lord so often retired to the Mount of
 Olives.
 
-The Walls
----------
+###### The Walls
 
 The first feature to attract attention would be the city walls, at the
 time of Christ only two in number.
@@ -596,8 +543,7 @@ north, and then east, so as to enclose Acra, and terminated at the Tower
 of Antonia. Thus the whole of the old city and the Temple was
 sufficiently protected.
 
-Tower of Antonia
-----------------
+###### Tower of Antonia
 
 The Tower of Antonia was placed at the north-western angle of the
 Temple, midway between the castle of the same name and the Temple. With
@@ -625,8 +571,7 @@ killed.
 
 \* For particulars of these forts, see Josephus’ Wars, v. 4, 3.
 
-The Four Hills
---------------
+###### The Four Hills
 
 If the pilgrim scanned the city more closely, he would observe that it
 was built on four hills. Of these, the western, or ancient Zion, was the
@@ -658,8 +603,7 @@ marvel of splendor, of whose extent, strength, height, rooms, towers,
 roofs, porticoes, courts, and adjacent gardens Josephus speaks in such
 terms of admiration.
 
-High-Priest’s Palace
---------------------
+###### High-Priest’s Palace
 
 At the opposite, or north-eastern corner of Mount Zion, was the palace
 of the High-priest. Being built on the slope of the hill, there was
@@ -701,8 +645,7 @@ by various bazaars, chiefly connected with the Temple. Lastly, south of
 the Temple, but on the same hill, was Ophel, the crowded suburb of the
 priests.
 
-The Shushan Gate
-----------------
+###### The Shushan Gate
 
 Such must have been a first view of Jerusalem, as ‘beheld’ from the
 Mount of Olives, on which we are supposed to have taken our stand. If
@@ -757,8 +700,7 @@ in worship. The Holy Place itself faced east-wards, and was approached
 from the east; but most assuredly the ministering priests and the
 worshippers looked not towards the east, but towards the west.
 
-The Temple Plateau
-------------------
+###### The Temple Plateau
 
 The Temple plateau had been artificially leveled at immense labor and
 cost, and enlarged by gigantic substructures. The latter served also
@@ -792,8 +734,7 @@ Eastern sky, and the music of its services wafted across the busy city,
 while the sunlight glittered on its gilt roofs, or shone from its
 pavement of tesselated marble, or threw great shadows on Olivet behind.
 
-Fables of the Rabbis
---------------------
+###### Fables of the Rabbis
 
 Assuredly, when the Rabbis thought of their city in her glory, they
 might well say: ‘The world is like unto an eye. The ocean surrounding
@@ -839,8 +780,7 @@ calling upon them, “Seek ye the Lord while He may be found, call upon
 Him while He is near.” And when all was in vain, then the Shechinah
 returned to its own place!’
 
-Jerusalem in Ruins
-------------------
+###### Jerusalem in Ruins
 
 The Shechinah has withdrawn to its own place! Both the city and the
 Temple have been laid ‘even with the ground,’ because Jerusalem knew not
@@ -860,5 +800,4 @@ sorrow is unrecognized, unrepented, unremoved. Yet–‘Watchman, what of
 the night? Watchman, what of the night? The watchman said, The morning
 cometh and also the night. If ye will inquire, inquire! Return, come!’
 
-=================================
 
