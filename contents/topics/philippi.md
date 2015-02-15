@@ -2,12 +2,9 @@
 title: "Philippi"
 pdf: "philippi.pdf"
 description: "Roman provincial city; important trade center; location of the Philippian church."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-Philippi
-========
 
 From [Philippi](http://en.wikipedia.org/wiki/Philippi), an article in
 Wikipedia.
