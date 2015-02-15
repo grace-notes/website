@@ -2,11 +2,9 @@
 title: "Media and the Medes"
 pdf: "media.pdf"
 description: "An ancient people and land SW of the Caspian Sea, between the Zagros Mountains and the Salt Desert."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Media, and the Medes 3**
 
 **Medes**mēdz; **MEDIA** mēʹdē-ə [Heb *māḏî*, *māḏay*; Aram *māḏay*;
 Assyr *Madai*; Old Pers *Māda*; Gk *Mēdoi*, *Mēdia*]; AV also MEDIAN
@@ -16,7 +14,7 @@ including Azerbaijan in the north (Media Atropatene). Most of this area
 is mountainous, with fertile valleys and some broad plains where horses
 were raised.
 
-***I. Culture and Religion***
+**I. Culture and Religion**
 
 So little excavation has been done in the Median homeland that there is
 only scattered material evidence for cultural and religious history. The
@@ -46,7 +44,7 @@ now in the British Museum).
 Some rock-cut tombs in the Zagros Mountains were probably made for
 Median nobles of the Achaemenian court.
 
-***II. History***
+**II. History**
 
 From the 9th cent b.c., Assyrian inscriptions record attacks on Median
 settlements in northern Iran (ARAB, I, § 581, Shalmaneser III; § 739,
