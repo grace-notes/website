@@ -2,13 +2,13 @@
 title: "Hillel"
 pdf: "hillel.pdf"
 description: "An eminent Jewish scholar and rabbinic leader in Jerusalem in the early Herodian period. Contemporary with Gamilel."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-<sup>Hillel</sup>
 
-**Hillel**hilʹel [Heb *hillēl*—‘he greatly praised’; LXX Gk *Ellēl*].
+**Hillel** (hilʹel [Heb *hillēl*—‘he greatly praised’; LXX Gk *Ellēl*])
 
 Hillel “the Elder” (Heb *hazzākēn*; ca 60 b.c.-a.d. 20?). An eminent
 Jewish scholar and rabbinic leader in Jerusalem in the early Herodian
