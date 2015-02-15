@@ -2,20 +2,17 @@
 title: "Deborah and Barak"
 pdf: "deborahandbarak.pdf"
 description: "a fresh oppression of the Israelites, and the glorious victory which they obtained over Sisera, Jabin's general, through the judge Deborah and the heroic warrior Barak."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>Deborah\\ and\\ Barak</sup>
 
 From *Commentary on the Old Testament*, Leviticus 4 and 5, by C. F. Keil
 and F. Delitzsch
 
-Judges 4
-========
+##### Judges 4
 
-Oppression of Israel by Jabin, and Deliverance by Deborah and Barak.—Ch. 4 and 5.
----------------------------------------------------------------------------------
+
+###### Oppression of Israel by Jabin, and Deliverance by Deborah and Barak.—Ch. 4 and 5.
 
 **Judges 4–5.** This fresh oppression of the Israelites, and the
 glorious victory which they obtained over Sisera, Jabin’s general,
@@ -346,8 +343,7 @@ third closes with an expression of hope, drawn from the contents of the
 whole, with regard to the future prospects of the kingdom of God (v.
 31*a*).
 
-Judges 5
-========
+##### Judges 5
 
 **Judges 5:1.** The historical introduction (*“Then sang Deborah and
 Barak the son of Abinoam on that day, saying”*) takes the place of a
