@@ -1,16 +1,11 @@
 ---
-title: "The Family of Herod"
+title: "The Family of Herod the Great"
 indexTitle: "Herod, The Family of"
 pdf: "herod.pdf"
 description: "The Herod mentioned in Matthew 2 and in Luke 1, is known to history as Herod the Great. His family was Jewish, by race, but the were actually Idumeans (Edomites)."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-Herod **4**
-
-Herod: The Family of Herod the Great
-====================================
 
 from several sources, including:
 
@@ -18,9 +13,6 @@ Josephus, Flavius, *Antiquities*; and *Wars of the Jews*
 
 Edersheim, Alfred, *Sketches of Jewish Social Life*; *The Life and Times
 of Jesus the Messiah;* and *The Temple.*
-
-The Family of Herod
--------------------
 
 The Herod mentioned in Matthew 2 and in Luke 1, is known to history as
 Herod the Great. His family was Jewish, by race, but the were actually
