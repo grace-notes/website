@@ -3,11 +3,9 @@ title: "Year of Jubilee"
 indexTitle: "Jubilee, Year of"
 pdf: "jubilee.pdf"
 description: "the fiftieth year was to be announced as a Jubilee Year. It possessed the function of an ordinary sabbatic year, thus allowing the land to lie fallow for two successive years."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>The\\ Year\\ of\\ Jubilee</sup>
 
 **Jubilee, Year of**[Heb *š*<sup>*e*</sup>*naṯ hayyôḇēl* (Lev. 25:13),
 or simply *hayyôḇēl* (25:28) \< *qeren hayyôḇēl*—‘the horn of the ram,’
@@ -24,7 +22,6 @@ themselves for indentured service to their brothers were to gain release
 (v 39).
 
 I. Personal Liberty
-===================
 
 The fiftieth year was to be a time of proclaiming liberty to all the
 inhabitants of the land. God had redeemed His people from bondage in
@@ -39,7 +36,6 @@ application, only through its loyalty to God could Israel as a nation
 ever hope to be free and independent of other masters.
 
 II. Restitution of Property
-===========================
 
 A second feature of the Jubilee was that of the restitution of all real
 property. The purpose was to demonstrate that the earth is subject
@@ -66,7 +62,6 @@ bondage of corruption to which it has been subjected on account of human
 depravity (Lk. 4:17–21; Rom. 8:19–23).
 
 III. Resulting Property Values
-==============================
 
 Since the institution of the Jubilee Year excluded the possibility of
 selling any piece of land permanently (Lev. 25:23), it necessarily
@@ -84,7 +79,6 @@ altbabylonischen Privatrecht* [1893], pp. 40ff). He might take action at
 any time, at a price proportionate to the time lapse until the Jubilee.
 
 IV. History
-===========
 
 After the initial revelation of the Jubilee law (Lev. 25:8–34), the Year
 of Jubilee is mentioned historically as a living feature within
