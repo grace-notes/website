@@ -2,30 +2,10 @@
 title: "Phoenicia"
 pdf: "phoenicia.pdf"
 description: "Phoenicia designates the Syrian coast, and Phoenicians the Northwest Semitic inhabitants of that region in the period from 1200 b.c. to about the end of the Roman era."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Phoenicia 10**
-
-Phoenicia
-=========
-
-[Phoenicia 1](#__RefHeading__20070_1840878105)
-
-**[Name 1](#__RefHeading__20072_1840878105)**
-
-**[Region 2](#__RefHeading___Toc309045628)**
-
-**[Language and People 2](#__RefHeading___Toc309045629)**
-
-**[Demography and Economy 4](#__RefHeading__20074_1840878105)**
-
-**[Commerce and Colonization 5](#__RefHeading__20076_1840878105)**
-
-**[Political History 8](#__RefHeading___Toc309045632)**
-
-**[Religion 9](#__RefHeading___Toc309045633)**
 
 **Phoenicia** was an ancient civilization centered in the north of
 ancient Canaan, lying mainly along the coast of modern day Lebanon,
