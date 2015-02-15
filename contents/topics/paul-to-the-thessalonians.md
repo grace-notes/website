@@ -1,14 +1,9 @@
 ---
-title: "Paul's Childhood at Tarsus"
+title: "Paul's Letters to the Thessalonians"
 pdf: "paul_tothethessalonians.pdf"
-description: "His infancy; the Tribe of Benjamin; Social Position of Paul's Family; Paul’s Boyhood."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Paul in Ephesus 11**
-
-**Paul’s Letters to the Thessalonians**
 
 Timothy had been sent, while St. Paul was still at Athens, to revisit
 and establish the Church of Thessalonica. The news he brought on his
