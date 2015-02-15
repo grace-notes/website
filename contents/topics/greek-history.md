@@ -1,14 +1,10 @@
 ---
-title: "Greek History"
+title: "Greek History and Thought"
 pdf: "greekhistory.pdf"
 description: "a short history of ancient Greece (24 pages)."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Greek History 25**
-
-**Greek History and Thought**
 
 by Steven Kreis, PhD
 
