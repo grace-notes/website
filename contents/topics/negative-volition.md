@@ -1,11 +1,11 @@
 ---
-title: "Negative Volition"
+title: "The Hazards of Negative Volition"
+indexTitle: "Negative Volition"
 pdf: "negativevolition.pdf"
 description: "Negative Volition -  Stern warnings to believers \"not to walk as other Gentiles walk\"."
+tableofcontents: true
 template: topic.jade
 ---
-
-**The Hazards of Negative Volition (-V)**
 
 The apostle Paul issued a stern warning to mature Christian believers living at Ephesus when he told them to beware of falling into a state of indifference to, or antagonism to, the word of God. He stated that if they were to become to become negative to the Lord’s teachings, their lives would very quickly become indistinguishable from those of unbelievers in terms of fruitfulness and Christian character.
 
