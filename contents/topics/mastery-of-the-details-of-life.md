@@ -2,9 +2,9 @@
 title: "Mastery of the Details of Life"
 pdf: "masteryofthedetailsoflife.pdf"
 description: "Mastery of the details of life means that you look to the Lord for every detail, that you accept with calm fortitude either the gain or loss of details of life."
+tableofcontents: true
 template: topic.jade
 ---
-
 
 I met Ethel at church in Kansas City, in 1952; we were 18. She was then already a master of the details of life.
 
