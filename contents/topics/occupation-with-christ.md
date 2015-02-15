@@ -2,6 +2,7 @@
 title: "Occupation with Christ"
 pdf: "occupationwithchrist.pdf"
 description: "Occupation with Christ -  the primary focus of the Christian life is the Lord Jesus Christ, and we know Him from the Word of God."
+tableofcontents: true
 template: topic.jade
 ---
 
