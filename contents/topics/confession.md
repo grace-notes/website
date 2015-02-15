@@ -2,6 +2,7 @@
 title: "Confession of Sin"
 pdf: "confession.pdf"
 description: "The principles of biblical confession of sin; how the Lord's grace provision makes it possible for a Christian to stay in fellowship."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -17,7 +18,6 @@ God requires confession of sin as the means of maintaining a close personal walk
 and part of His plan for providing this sort of life is confession of sin.
 
 **Etymology of the Word Confession**
---------------------------------
 
 The word confession in 1 John 1:9 is the Greek verb **oJmologew** (**homologeo**). This word, and its derivatives, is a common term in ancient Greek and Hellenic speech, in the Septuagint Greek of the Old Testament, and in the New Testament Koine Greek. It means, literally, to say the same thing; to agree in statement.
 
@@ -85,7 +85,6 @@ There are several synonyms in the Bible for the word “confess”, as follows":
 * Presenting one’s body is analogous to confession. Rom. 12:1.
 
 **Principles Derived from the Doctrine of Confession**
---------------------------------------------------
 
 Walking closer to God is, in reality, an activity in which you are more consistent in your relationship with the Lord, more consistent in your confession of sin. While confession does not, in itself, cause one to grow in Christ, there can be no growth in the Spirit as long as one is out of fellowship because of unconfessed sin. Therefore, confession sets the stage for progress in the Christian life. The ministry of the Holy Spirit depends on uninterrupted fellowship. So Christian growth depends
 on the unhindered work of the Holy Spirit.
