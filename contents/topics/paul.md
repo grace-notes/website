@@ -5,11 +5,6 @@ description: "Paul the Apostle -  Paul's education and career."
 template: topic.jade
 ---
 
-
-**Paul- 3**
-
-**The Apostle Paul**
-
 The apostle Paul was one of the most famous citizens of the Roman Empire
 and without question one of the most influential individuals in history.
 He was used by the Lord in his missionary and evangelistic activities to
