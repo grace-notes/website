@@ -2,12 +2,13 @@
 title: "Cyrus the Great"
 pdf: "cyrusthegreat.pdf"
 description: "Properly Cyrus II, the Great, founder of the Persian empire. He reigned from 559 to 530 B.C., and his empire flourished until its conquest by Alexander the Great (331 B.C.)."
+tableofcontents: true
 template: topic.jade
 ---
 
 _From International Standard Bible Encyclopedia_
 
-**Cyrus**sīʹrəs [Heb *kōreš*; Old Pers *Kuruš*]. Properly Cyrus II, the
+**Cyrus** (sīʹrəs [Heb *kōreš*; Old Pers *Kuruš*]). Properly Cyrus II, the
 Great, founder of the Persian empire. He reigned from 559 to 530 b.c.,
 and his empire flourished until its conquest by Alexander the Great (331
 b.c.).
