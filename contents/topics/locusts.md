@@ -2,13 +2,9 @@
 title: "Locusts"
 pdf: "locusts.pdf"
 description: "Locusts -  Four different types of locusts are mentioned in Joel 4:1."
+tableofcontents: true
 template: topic.jade
 ---
-
-*By Dr. Randall E. Radic, Pastor*[^1]  
-First Congregational Church  
-100 N. Acacia Avenue  
-Ripon, California 95336
 
 Four different types of locusts are mentioned by Joel 1:4:
 
