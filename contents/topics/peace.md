@@ -2,11 +2,9 @@
 title: "Peace of God, and Peace with God"
 pdf: "peace.pdf"
 description: "Peace of God, and Peace with God -  How to have peace with God and the peace of God. One of the important stability doctrines and Biblical treatments for depression."
+tableofcontents: true
 template: topic.jade
 ---
-**Christian Peace**
-
-**Peace with God and the Peace of God**
 
 The word peace in the Bible, from the Greek word (**EIREINEI**), refers to a mental attitude of tranquility based on a relationship with God in the Christian way of life. It is a word which describes the result of a person’s correct response to God’s grace.
 
