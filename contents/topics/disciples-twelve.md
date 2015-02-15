@@ -1,7 +1,9 @@
 ---
-title: The Twelve Disciples
+title: "The Twelve Disciples"
+indexTitle: "Disciples, the Twelve"
 description: "Biographies of the twelve disciples by Mark Perkins"
 pdf: disciplestwelve.pdf
+tableofcontents: true
 template: topic.jade
 ---
 
