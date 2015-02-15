@@ -1,15 +1,14 @@
 ---
-title: "Pentateuch"
+title: "The Pentateuch"
+indexTitle: "Pentateuch, The"
 pdf: "pentateuch.pdf"
 description: "Concluding Remarks on the Composition of the Pentateuch, from Commentary on the Old Testament, C. F. Keil and F. Delitzsch."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-<sup>The\\ Pentateuch</sup>
-
 Concluding Remarks on the Composition of the Pentateuch
-=======================================================
 
 From *Commentary on the Old Testament*, C. F. Keil and F. Delitzsch.
 
