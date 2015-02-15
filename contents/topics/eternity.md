@@ -2,6 +2,7 @@
 title: "Eternity"
 pdf: "eternity.pdf"
 description: "We don’t know much in detail about eternity, what it’s like, or what we will be doing there. However, the Bible does have some information from which we can draw some inferences."
+tableofcontents: true
 template: topic.jade
 ---
 
