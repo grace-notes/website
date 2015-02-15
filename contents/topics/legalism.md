@@ -2,11 +2,12 @@
 title: "Legalism"
 pdf: "legalism.pdf"
 description: "Legalism -  The greatest distortion to Grace is religious legalism."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-## Introduction
+##### Introduction
 
 God’s plan is a grace plan. God the Father does the work, man receives
 the benefit. God receives the glory for His own works; man receives no
@@ -55,7 +56,7 @@ Some categorical studies which you can request from Grace Notes are: The
 Barrier; Circumcision; Confession of Sin; Grace; Judgment, Justice, and
 Judging; Satan; Spirituality.
 
-## Defining Legalism
+##### Defining Legalism
 
 The standard (Webster’s New Collegiate) definition for legalism is:
 *strict, literal, or excessive conformity to the law or to a religious
@@ -143,12 +144,12 @@ Read Romans 2:17-23, A Portrait of a Boaster
 
 Read Romans 4:1-6, “But Not Before God…”
 
-## Systems of Legalism
+##### Systems of Legalism
 
 There are four principal spiritual transactions in which works are not
 accepted by God: salvation, spirituality, maturity and reward.
 
-## Legalism in Salvation
+##### Legalism in Salvation
 
 There are many religious systems which teach salvation by works, or
 which try to mix works with faith, such as:
@@ -170,7 +171,7 @@ which try to mix works with faith, such as:
 
 The Gospel is believe in Jesus Christ plus nothing else!
 
-## Legalism in Christian Living
+##### Legalism in Christian Living
 
 Here are some types of religious legalism imposed on Christians:
 
@@ -224,7 +225,7 @@ But the legalist thinks that the good works he does for God will not
 only keep him in fellowship and walking with the Lord but will also make
 him more spiritual and a great Christian.
 
-## Characteristics of the Weaker Brother - Romans 14
+##### Characteristics of the Weaker Brother - Romans 14
 
 [Please read Romans chapter 14 before going through the discussion in
 this section.
@@ -278,7 +279,7 @@ can recover quickly by confessing sin, being controlled by the Holy
 Spirit and pursuing a program of intake of Bible truth which will make
 him spiritually strong.
 
-## Illustration from Galatians
+##### Illustration from Galatians
 
 It is important that you read the entire epistle to the Galatians prior
 to reading this outline review of legalism in the Galatian church. The
