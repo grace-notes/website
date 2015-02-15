@@ -3,13 +3,9 @@ title: "Christian Music"
 indexTitle: "Music, Christian"
 pdf: "music.pdf"
 description: "Music, Christian -  What the Bible says about Christian singing; psalms, hymns, spiritual songs; doctrinal content of a few well-known hymns."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Music**
-
-Christian Music
 
 The hymn *Break Thou the Bread of Life* was written by Mary Lathbury
 while she attended the Chautauqua Summer School and religious resort in
@@ -26,7 +22,7 @@ The hymn describes how a Christian experiences great peace when
 partaking of the Truth, and reveals a thirst for greater truths and deep
 desires and emotions within the soul.
 
-The Bible and Music
+##### The Bible and Music
 
 The Bible deals extensively with the subject of music. In both the Old
 Testament and New Testament, music played an important part in spiritual
@@ -71,7 +67,7 @@ ministry of edification, and that it is just as unfruitful to sing
 without content as it is to speak in tongues to someone who does not
 understand, since “he does not know what you are saying (singing).”
 
-Singing in the Local Church
+##### Singing in the Local Church
 
 There are two major passages in the New Testament dealing with singing:
 Eph. 5:14-21 and Col. 3:12-17.
@@ -165,7 +161,7 @@ and doctrine are the primary issues.
 of the Word of God is the only thing that makes singing either valid or
 meaningful.
 
-The History of Modern Hymns
+##### The History of Modern Hymns
 
 Hymns, or odes, have been known from the beginning of written history. A
 tablet dating 800 BC contains a Sumerian hymn about the creation.
@@ -210,7 +206,7 @@ The common ingredient to all hymns of the Reformation churches and the
 Christian churches that followed was that all hymns were either actual
 Bible passages or paraphrases of Bible passages.
 
-Descriptions of Some Familiar Hymns
+##### Descriptions of Some Familiar Hymns
 
 Are You Weary, Heavy Laden
 
