@@ -1,7 +1,9 @@
 ---
 title: "Divisions in the Early Church"
+indexTitle: "Church, Divisions in"
 pdf: "divisionsintheearlychurch.pdf"
 description: "divisions and heresies in the Church in the time of the apostle Paul."
+tableofcontents: true
 template: topic.jade
 ---
 
