@@ -2,13 +2,9 @@
 title: "Husbands"
 pdf: "husbands.pdf"
 description: "Husbands -  How to be the husband of a happy wife."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Husbands 3**
-
-**Husbands**
 
 It seems to be mostly women who read the books and attend the classes on
 How to Please Your Husband, How to be Submissive, How to Help *Him*, and
