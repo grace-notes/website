@@ -2,21 +2,16 @@
 title: "Isaiah"
 pdf: "isaiah.pdf"
 description: "Of all the prophets of Israel, Isaiah stands out as incomparably the greatest."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>Isaiah</sup>
-
-**Isaiah**ī-zāʹə
 
 Of all the prophets of Israel, Isaiah stands out as incomparably the
 greatest. Writing with majestic grandeur, this gifted eighth-century
 b.c. author exalts the grace of God in salvation. For this, if for no
 other reason, he has well been called “the evangelical prophet.”
 
-I. Name
-=======
+##### I. Name
 
 The Heb *y*<sup>*e*</sup>*ša˓yāhû* was the form current in the 8th cent
 b.c., the shorter variant *y*<sup>*e*</sup>*ša˓yâ* becoming more popular
@@ -27,8 +22,7 @@ respectively. Thus the AV uses “Esay” in 2 Esd. 2:18; Sir. 48:22, and
 salvation,” and is thus similar to names such as Joshua, Elisha, and
 Jesus.
 
-II. Personal History
-====================
+##### II. Personal History
 
 Little is known about the man himself. He is said to have been the son
 of Amoz (not the contemporary prophet Amos), and he exercised his
@@ -72,8 +66,7 @@ superscription of the prophecy (1:1) need only mean that Isaiah played a
 modest public role at the end of his life. The date of his death,
 however, must remain entirely conjectural.
 
-III. Call
-=========
+##### III. Call
 
 From the superscription it is legitimate to conclude that Isaiah’s
 ministry must have involved at least a portion of the reign of Uzziah,
@@ -98,8 +91,7 @@ his responsibilities as a prophet of God. His horizons, both political
 and spiritual, were virtually unbounded, and he was in every sense of
 the term the universal prophet of Israel.
 
-IV. Literary Genius and Style
-=============================
+##### IV. Literary Genius and Style
 
 For versatility of expression and brilliance of imagery Isaiah had no
 superior, not even a rival. His style marks the climax of Hebrew
@@ -118,8 +110,7 @@ poet: he frequently elaborates his messages in rhythmic or poetic style
 e.g., in 37:22–29 there is a fine taunting poem on Sennacherib, and in
 14:4–23 another on the king of Babylon.
 
-V. Traditions Concerning His Martyrdom
-======================================
+##### V. Traditions Concerning His Martyrdom
 
 Nothing definite or historical is known concerning the prophet’s end.
 Toward the close of the 2nd cent a.d., however, there was a tradition to
@@ -142,8 +133,7 @@ of more than forty years, ending presumably in the early part of
 Manasseh’s reign (687/6–642/1 b.c.), and certainly during the period of
 his co-regency (696/5–687/6 b.c.).
 
-VI. Historical Background
-=========================
+##### VI. Historical Background
 
 According to the title of his book (1:1f), Isaiah prophesied during the
 reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah. He dates
@@ -284,8 +274,7 @@ not been for the prophet’s statesmanship, Jerusalem might have
 capitulated. Isaiah had at this time been preaching forty years. How
 much longer he labored is not known.
 
-VII. Analysis and Contents
-==========================
+##### VII. Analysis and Contents
 
 There are six general divisions of the book: (1) chs 1–12, prophecies
 concerning Judah and Jerusalem, closing with promises of restoration and
@@ -989,8 +978,7 @@ Such language as that contained in 66:1f, in particular, anticipates the
 great principle enunciated by Jesus in Jn. 4:24, namely, that “God is
 spirit, and those who worship him must worship in spirit and truth.”
 
-VIII. The Critical Problem
-==========================
+##### VIII. The Critical Problem
 
 **A. History of Criticism**The Isaianic authorship of the entire
 prophecy was never questioned either in the OT period or that of early
