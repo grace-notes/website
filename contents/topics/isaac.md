@@ -2,18 +2,16 @@
 title: "Isaac"
 pdf: "isaac.pdf"
 description: "An OT patriarch, son of Abraham and father of Jacob and Esau."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-<sup>Isaac</sup>
-
-**Isaac**īʹzək [Heb *yiṣḥāq, yiśhāq*—either ‘laughing,’ ‘he laughs,’ or
-‘he laughed’; Gk *Isaak*]. An OT patriarch, son of Abraham and father of
+**Isaac**  (īʹzək [Heb *yiṣḥāq, yiśhāq*—either ‘laughing,’ ‘he laughs,’ or
+‘he laughed’; Gk *Isaak*]). An OT patriarch, son of Abraham and father of
 Jacob and Esau.
 
-I. Significance of the Name
-===========================
+##### I. Significance of the Name
 
 Whether *yiṣḥāq* is to be taken as an imperfect or as a past tense, it
 is necessary to consider the subject of the verb. The most common
@@ -33,8 +31,7 @@ that event (Gen. 21:9; 26:8). The name may well be understood as
 indefinite, “one laughs,” or, since Abraham named his son, it may refer
 back to his own incredulous laughter, “he laughed.”
 
-II. Family
-==========
+##### II. Family
 
 The two events of Isaac’s life that Genesis treats in detail emphasize
 his significance as the heir of the covenant first made with his father
@@ -62,8 +59,7 @@ elder, he could not withdraw the blessing he had bestowed upon the
 younger son, but rather recognized that this was in accordance with the
 divine plan and confirmed it (Gen. 28:3f).
 
-III. Biography
-==============
+##### III. Biography
 
 Prior to his marriage, Isaac’s life is a part of the story of Abraham;
 after his marriage it merges into that of his children, emphasizing his
@@ -121,8 +117,7 @@ returned with his family and soon thereafter Isaac died. Just as his
 sons Isaac and Ishmael together buried Abraham, so also Esau and Jacob
 together laid their father in the family tomb at Hebron (Gen. 35:27–29).
 
-IV. Biblical References
-=======================
+##### IV. Biblical References
 
 Although Isaac is often mentioned in the formula “Abraham, Isaac, and
 Jacob [or Israel]” (so 23 times in the OT, 7 times in the NT), he is
@@ -147,8 +142,7 @@ representations of Christians, who are justified by faith in the promise
 of God and who are freeborn heirs of all its spiritual inheritance (Gal.
 4:21–31).
 
-V. Views Other Than Historical
-==============================
+##### V. Views Other Than Historical
 
 Philo, the chief allegorizer of the scriptural narratives among ancient
 authors, has little to say of Isaac, whom he calls “the self-instructed
