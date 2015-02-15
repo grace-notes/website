@@ -6,10 +6,11 @@ description: "A busybody is a person who inserts himself uninvited into
               others. The Bible is very clear that this is wrong,
               totally inappropriate behavior, especially in a local
               church congregation."
+tableofcontents: true
 template: topic.jade
 ---
 
-## The Problem
+##### The Problem
 
 Plutarch, *On Being a Busybody*: “Just as a cook prays for a good crop
 of young animals, and fishermen for a good haul of fish, in the same way
@@ -114,8 +115,7 @@ God in Christ also has forgiven you.
 
 **Trying to build one’s happiness on someone else’s misery.**
 
-Victory over the sin of being a busybody
-----------------------------------------
+##### Victory over the sin of being a busybody
 
 1.  Desire to be occupied with Christ, to walk worthy of the vocation
     wherewith we are called.
@@ -185,8 +185,7 @@ they may be sound in the faith,
 not paying attention to Jewish myths and commandments of men who turn
 away from the truth.
 
-Titus 1:10
-----------
+##### Titus 1:10
 
 **For there are many unruly and vain talkers and deceivers, specially
 they of the circumcision:**
@@ -286,8 +285,7 @@ There is an obvious need on Crete for crash programs of straight,
 thorough teaching on Salvation, Grace, Positional Truth, and a hundred
 other doctrines.
 
-Titus 1:11
-----------
+##### Titus 1:11
 
 **Whose mouths must be stopped, who subvert whole houses, teaching
 things which they ought not, for filthy lucre’s sake.**
