@@ -2,13 +2,10 @@
 title: "Old Testament History"
 pdf: "oldtestamenthistory.pdf"
 description: "Old Testament History -  A history of the period from Solomon to the return of the Jews from exile."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Old Testament History 13**
-
-Old Testament History
 
 INTRODUCTION
 
