@@ -2,16 +2,11 @@
 title: "Law of Moses"
 pdf: "lawofmoses.pdf"
 description: "A discussion of how the Law of Moses relates to Church Age doctrine."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Law of Moses 4**
-
-**The Law of Moses**
-
-1.  Introduction
-    ------------
+I. Introduction
 
 The Law of Moses is divided into three parts, or codes, as follows.
 
@@ -46,8 +41,8 @@ In the teaching of world history in universities, Hammurabi’s code is
 set forth as the shining example of law giving in human history. The Law
 of Moses is far more comprehensive and far reaching.
 
-1.  Recipients of the Law of Moses
-    ------------------------------
+II.  Recipients of the Law of Moses
+
 
 The Law was given to Israel: Ex. 19:3; Lev. 26:46; Rom. 3:19; 9:4.
 
@@ -72,8 +67,7 @@ Believers in the church age are under a higher law of spirituality: Rom.
 the filling of the Holy Spirit takes up where Christ left off and
 fulfills the Law.
 
-1.  Limitations of the Mosaic Law
-    -----------------------------
+III.  Limitations of the Mosaic Law
 
 The Law cannot provide justification either for individuals or for
 groups: Gal. 2:16; Rom. 3:20, 28; Acts 13:39; Phil. 3:9.
@@ -88,8 +82,7 @@ there were laws of punishment in varying degrees, and fear of punishment
 helps keep people in line, the Law does nothing to provide victory over
 sin.
 
-1.  Present Purpose of Mosaic Law
-    -----------------------------
+IV.  Present Purpose of Mosaic Law
 
 The commandments provide laws of human freedom and provide a divine
 standard to which the sinner can compare himself and his actions and
@@ -102,8 +95,7 @@ restoration to fellowship.
 The social code is designed to provide a true concept of a national
 function and freedom under the laws of divine establishment.
 
-1.  Salvation in the Old Testament
-    ------------------------------
+V.  Salvation in the Old Testament
 
 Salvation is the adjustment a person makes to the justice of God when he
 believes on the Lord Jesus Christ as savior. The justice of God was
