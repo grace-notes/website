@@ -2,6 +2,7 @@
 title: "Jewish Theological Writings"
 pdf: "jewishtheologicalwritings.pdf"
 description: "This article is an outline introduction to the major lines of Jewish theological literature."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -15,7 +16,7 @@ Topic: The Apocrypha
 Wikipedia has excellent articles on most of the concepts listed here and
 is an excellent resource for further study.[^2]
 
-## Basic listing of Jewish literature
+##### Basic listing of Jewish literature
 
 1.  Torah
 
@@ -43,7 +44,7 @@ is an excellent resource for further study.[^2]
 
 13. Philo’s Canons
 
-## The Torah
+##### The Torah
 
 The **Torah** is the name given to the canon of Hebrew scriptures.
 Originally, the word “torah” referred to the first five books, the
@@ -115,7 +116,7 @@ actual words of the text and the interpretation given in Aramaic.
 
 At first, it was forbidden to write the Targums.
 
-## The Talmud
+##### The Talmud
 
 The word “Talmud” means “teaching” or “doctrine”.
 
@@ -130,8 +131,7 @@ Gemara, the commentaries and illustrations.
 
 Topic: Origins of the Talmud
 
-Mishnah
--------
+##### Mishnah
 
 The Mishnah was begun by Hillel in the years before the birth of Christ;
 it was called the Second Law. It’s chain of succession was supposed to
@@ -156,16 +156,14 @@ subject matter.
 
 Topics: Organization of the Talmud; Structure of the Talmud
 
-The Gemara
-----------
+##### The Gemara
 
 The Gemara is the part of the Talmud which contains the notes,
 commentaries, explanations, and illustrations of the Mishnah, along with
 much other information. It was written in Aramaic and completed about
 500 AD. The Babylonian Gemara contains about 6000 pages.
 
-Midrash
--------
+##### Midrash
 
 The Midrash is a less formal explanation and exposition of the Old
 Testament, from and doctrinal and homiletical point of view. The name
@@ -177,8 +175,7 @@ but a commentary. And it differs from the Talmud in that it deals only
 with the written Law. There are two parts of the Midrash, the Halakhah
 and the Haggadah.
 
-Halakhah
---------
+##### Halakhah
 
 The Halakhah is the collection of all Jewish Law, including the biblical
 law (the 613 commandments) and later Talmudic and rabbinic law, as well
@@ -194,8 +191,7 @@ Law”, although a more literal translation might be “the path” or “the
 way of walking”. The word derives from the Hebrew root that means to go
 or to walk.
 
-Haggadah
---------
+##### Haggadah
 
 The Haggadah covers the entire Old Testament and includes the
 historical, prophetical, and poetical sections. It is popular, and
@@ -204,8 +200,7 @@ beliefs, customs. Much of the writing is fanciful, some of it is good.
 
 The Haggadah was used mostly between 100 BC and 300 AD
 
-Septuagint – What is it?[^3]
-----------------------------
+##### Septuagint – What is it?[^3]
 
 Septuagint (sometimes abbreviated LXX) is the name given to the Greek
 translation of the Jewish Scriptures. The Septuagint has its origin in
@@ -219,8 +214,7 @@ were commissioned during the reign of Ptolemy Philadelphus to carry out
 the task of translation. The term “Septuagint” means seventy in Latin,
 and the text is so named to the credit of these 70 scholars.
 
-Septuagint – Influence on Christianity
---------------------------------------
+##### Septuagint – Influence on Christianity
 
 The Septuagint was also a source of the Old Testament for early
 Christians during the first few centuries AD. Many early Christians
@@ -234,8 +228,7 @@ the Eastern Orthodox Church relies on the Septuagint for its Old
 Testament teachings. Some modern Bible translations also use the
 Septuagint along side Hebrew manuscripts as their source text.
 
-What Does the Septuagint Contain
---------------------------------
+##### What Does the Septuagint Contain
 
 The Septuagint contains the standard 39 books of the Old Testament
 canon, as well as certain apocryphal books. The term “Apocrypha” was
@@ -256,8 +249,7 @@ the canonical Jewish scripture. However, the Roman Catholic Church and
 the Orthodox churches include the Apocrypha in their Bible (except for
 the books of Esdras and the Prayer of Manasseh).
 
-Septuagint - Is it a Reliable Translation?
-------------------------------------------
+##### Septuagint - Is it a Reliable Translation?
 
 Since the Septuagint is a translation, scholars speculate if it
 accurately reflects the Hebrew scriptures of the 2nd century BC. A close
@@ -293,8 +285,7 @@ into its text, and anything significant is told more than once. If
 grammatical mistakes were introduced that makes a point unclear, it
 would be clarified in several other places in scripture.
 
-Septuagint - Dramatic Evidence for the Credibility of Messianic Prophecy
-------------------------------------------------------------------------
+##### Septuagint - Dramatic Evidence for the Credibility of Messianic Prophecy
 
 The Septuagint and the Dead Sea Scrolls establish a very dramatic piece
 of evidence for Christianity – that the Old Testament prophecies of the
