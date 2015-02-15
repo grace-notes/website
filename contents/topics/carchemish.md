@@ -3,6 +3,7 @@ indexTitle: Carchemish
 title: Battle of Carchemish
 description: "A description of the battle for this ancient capital of the
               Hittite empire, with Bible references"
+tableofcontents: true
 template: topic.jade
 ---
 
