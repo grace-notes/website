@@ -2,11 +2,9 @@
 title: "Heaven"
 pdf: "heaven.pdf"
 description: "Heaven -  The word heaven, or the heavens, is used in the Scriptures in a number of different senses. [FEB 13]"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Heaven**
 
 **From International Standard Bible Encyclopedia**
 
@@ -25,8 +23,7 @@ HIGH, “palaces” (Ps. 78:69), “astrologers” (Isa. 47:13); NEB also HEAVEN
 other spiritual creatures, or may be used as a circumlocution for God,
 depending on the context.
 
-I. Old Testament
-----------------
+##### I. Old Testament
 
 In the OT, heaven is often metaphorically conceived as something fixed
 and material: it has windows (Gen. 7:11), pillars (Job 26:11),
@@ -69,8 +66,8 @@ down from thy holy habitation from heaven, and bless thy people Israel.”
 Since God was thought to be above, people lifted their hands in oaths
 (Dt. 34:20) and in prayer (Ex. 9:29).
 
-II. New Testament
------------------
+##### II. New Testament
+
 
 In postexilic Judaism the term heaven came to be used as a
 circumlocution for the divine name Yahweh or for the term “God.” This
