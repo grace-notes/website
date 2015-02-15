@@ -2,13 +2,9 @@
 title: "Old Age"
 pdf: "oldage.pdf"
 description: "Old Age -  The doctrinal truth behind dying grace. How the last years of your life are the best years. Growing old and gracious at the same time."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Old Age 4**
-
-**Old Age**
 
 Many people have a tremendous dread of growing old. A great deal of
 activity during the working years is aimed at preventing as many of the
@@ -23,7 +19,6 @@ vitality, confidence, and a great deal of happiness, providing that
 spiritual preparation has taken place during the younger years.
 
 Age Divisions in the Bible
---------------------------
 
 The Bible indicates that there are three broad divisions of a lifetime.
 
@@ -53,7 +48,6 @@ Luke 2:36-38, a woman of great age (84) was very active in serving the
 Lord.
 
 Some Principles of Old Age
---------------------------
 
 Old age is a mental attitude as well as a physical problem. People
 shudder when you discuss old age. Next to the subject of death, it is
@@ -167,7 +161,6 @@ never stops talking and inflicts continuous boredom on his listeners
 with his platitudes and homely chatter.
 
 A Godly and Grace Filled Old Age
---------------------------------
 
 Coming into old age, the mature believer is assured of his redemption;
 and he comes into old age as a knowledgeable and productive Christian.
@@ -192,7 +185,6 @@ moment, works for us a far more exceeding and eternal weight of glory.”
 @ Cor. 4:15-17
 
 Characteristics of a Beautiful Old Age
---------------------------------------
 
 Review the following scripture passages to get a thorough understanding
 from Bible examples just what an exciting and productive old age can be
