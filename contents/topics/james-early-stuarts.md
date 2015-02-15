@@ -3,11 +3,11 @@ title: "James I, King of England, and the Early Stuarts"
 pdf: "james_earlystuarts.pdf"
 description: "from English history, a thorough treatment of Elizabeth I, James I, Edward VI, and Charles I."
 author: Godfrey Davies
+tableofcontents: true
 template: topic.jade
 ---
 
-I. Political and Constitutional History, 1603 to 1629
------------------------------------------------------
+##### I. Political and Constitutional History, 1603 to 1629
 
 From *The Early Stuarts, 1603 to 1660,* by Godfrey Davies, Oxford
 University History of England
@@ -1569,6 +1569,3 @@ they were as ready to suffer as had been the martyrs during the Marian
 persecution. Similarly he never realized that probably a majority of the
 people were deeply attached to parliamentary government and were anxious
 to see its extension rather than its curtailment.
-
-He could see Eliot, who embodied the new aspirations of the [END]
-
