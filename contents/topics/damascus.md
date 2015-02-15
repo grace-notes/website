@@ -2,6 +2,7 @@
 title: "Damascus"
 pdf: "damascus.pdf"
 description: "an outline study of this oldest city in the world; of central interest to Bible events."
+tableofcontents: true
 template: topic.jade
 ---
 
