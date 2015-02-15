@@ -2,13 +2,9 @@
 title: "Inheritance"
 pdf: "inheritance.pdf"
 description: "Inheritance -  A study of the Christian's heritage in Christ."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Glory of God 2**
-
-**Inheritance**
 
 We have an inheritance from God the Father because we share the destiny
 of Christ. The main feature of the doctrine of predestination is that we
