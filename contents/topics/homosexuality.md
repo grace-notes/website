@@ -1,16 +1,12 @@
 ---
-title: "Homosexuality"
+title: "Homosexuality, the Christian Perspective"
 pdf: "homosexuality.pdf"
 description: "a thorough treatment of what the Bible says about this issue."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Homosexuality:   
-The Christian Perspective**
-
-by   
-Lehman Strauss, Litt.D., F.R.G.S.
+by  Lehman Strauss, Litt.D., F.R.G.S.
 
 **Q. What is homosexuality?**
 
