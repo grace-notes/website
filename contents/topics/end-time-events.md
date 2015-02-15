@@ -2,6 +2,7 @@
 title: "End Time Events"
 pdf: "endtimeevents.pdf"
 description: "A review of all the happenings and activities which accompany the end times."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -13,9 +14,9 @@ This is a listing of the events shown in the Bible which will occur during the �
 
 2.  The Restrainer removed: 2 Thess. 2:7.
 
-2.  The Judgment Seat of Christ (in heaven): 1 Cor. 3:12-15; 2 Cor.     5:10.
+3.  The Judgment Seat of Christ (in heaven): 1 Cor. 3:12-15; 2 Cor.     5:10.
 
-2.  The anti-Christ rises to power over the Roman confederacy: Dan.     7:20, 24.
+4.  The anti-Christ rises to power over the Roman confederacy: Dan.     7:20, 24.
 
 **EVENT AT THE BEGINNING OF THE SEVEN-YEAR PERIOD**
 
@@ -27,7 +28,7 @@ This is a listing of the events shown in the Bible which will occur during the �
 
 2.  Temple sacrifices re-instituted: Rev. 11:1,2.
 
-2.  World church dominates religion and the anti-Christ: Rev. 17.
+3.  World church dominates religion and the anti-Christ: Rev. 17.
 
 **EVENTS JUST BEFORE THE MIDDLE OF THE SEVEN-YEAR PERIOD**
 
@@ -41,9 +42,9 @@ This is a listing of the events shown in the Bible which will occur during the �
 
 2.  The anti-Christ breaks his covenant with Israel, causing her sacrifices to cease: Dan. 9:27.
 
-2.  The ten kings under the anti-Christ destroy the world church: Rev. 17:16-18.
+3.  The ten kings under the anti-Christ destroy the world church: Rev. 17:16-18.
 
-2.  The 144,000 Israelites saved and sealed: Rev. 7:1-8.
+4.  The 144,000 Israelites saved and sealed: Rev. 7:1-8.
 
 **EVENTS OF THE SECOND HALF OF THE SEVEN YEAR PERIOD**
 
@@ -89,27 +90,27 @@ These 3 1/2 years are called “the great tribulation (Rev. 7:14),”great distr
 
 2.  Two witnesses resurrected: Rev. 11:11,12.
 
-2.  The king of the South and the king of the North fight against the anti-Christ: Dan. 11:40.
+3.  The king of the South and the king of the North fight against the anti-Christ: Dan. 11:40.
 
-2.  The anti-Christ enters Palestine and defeats Egypt, Libya, and Ethiopia: Dan. 11:40-43.
+4.  The anti-Christ enters Palestine and defeats Egypt, Libya, and Ethiopia: Dan. 11:40-43.
 
-2.  Armies from the East and the North move toward Palestine: Dan. 11:44; Rev. 16:12.
+5.  Armies from the East and the North move toward Palestine: Dan. 11:44; Rev. 16:12.
 
-2.  Jerusalem is ravaged: Zech. 14:1-4.
+6.  Jerusalem is ravaged: Zech. 14:1-4.
 
-2.  Commercial Babylon is destroyed: Rev. 16:19; 18:1-3, 21-24.
+7.  Commercial Babylon is destroyed: Rev. 16:19; 18:1-3, 21-24.
 
-2.  Signs appear in the earth and sky: Isa. 13:10; Joel 2:10,30,31; 3:15; Matt. 24:29.
+8.  Signs appear in the earth and sky: Isa. 13:10; Joel 2:10,30,31; 3:15; Matt. 24:29.
 
-2.  Christ returns with the armies of Heaven: Matt. 24:27-31; Rev. 19:11-16.
+9.  Christ returns with the armies of Heaven: Matt. 24:27-31; Rev. 19:11-16.
 
-2. Jews flee Jerusalem, facilitated by topographical changes: Zech. 14:5.
+10. Jews flee Jerusalem, facilitated by topographical changes: Zech. 14:5.
 
-2. Armies unite at Armageddon against Christ and the armies of Heaven: Joel 3:9-11; Rev. 16;16; 19:17-19.
+11. Armies unite at Armageddon against Christ and the armies of Heaven: Joel 3:9-11; Rev. 16;16; 19:17-19.
 
-2. Armies are destroyed by Christ: Rev. 19:19,21.
+12. Armies are destroyed by Christ: Rev. 19:19,21.
 
-2. The “beast” (anti-Christ) and the false prophet are thrown into the lake of fire: Rev. 19:20.
+13. The “beast” (anti-Christ) and the false prophet are thrown into the lake of fire: Rev. 19:20.
 
 **EVENTS FOLLOWING THE SEVEN-YEAR PERIOD**
 
