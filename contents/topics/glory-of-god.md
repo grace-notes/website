@@ -1,13 +1,14 @@
 ---
 title: "Glory of God"
 pdf: "gloryofgod.pdf"
-description: "Glory of God -  Word study of the word \"glory\" as it refers to the nature of God.\\"
+description: "Glory of God -  Word study of the word \"glory\" as it refers to the nature of God."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-The following is a selection of comments on the word “glory”, 
-(**doksos**), as used in the Bible.
+The following is a selection of comments on the word “glory”, 
+(**δοκσοϛ**), as used in the Bible.
 
 Glory is used to describe the essence of God: Rom. 3:23; Eph. 1:17;
 Deut. 5:24; Ps. 21:5; Mt. 16:27: Luke 2:9.
