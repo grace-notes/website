@@ -1,12 +1,9 @@
 ---
-title: JW
+title: "Jehovah's Witnesses"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Inspiration 2**
-
-Jehovah’s Witnesses  
+ 
 A Rebuttal to Their Doctrines
 
 The Jehovah’s Witness doctrinal system is based on the Bible
