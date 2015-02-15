@@ -3,14 +3,15 @@ title: "Chaldea"
 pdf: "chaldea.pdf"
 description: "the history of the ancient kingdom where Abraham was born
               and which later was the locale of the Babylonian empire."
+tableofcontents: true
 template: topic.jade
 ---
 
 **Chaldea** is the land bordering the Persian Gulf that gave its name to
 the ruling dynasty and thus became a synonym for Babylonia itself.
 
-I. Geography
-------------
+##### I. Geography
+
 
 The tribal territory covering the southern marshes and coastal plains of
 ancient Iraq bordering the Persian Gulf was called by outsiders
@@ -34,8 +35,7 @@ Bahrain, to the south. First-millennium texts name the tribes of the
 Kaldu under chiefs. Assyrian kings claimed the capture of at least
 seventy-five walled towns or villages and 420 hamlets from these tribes.
 
-II. Early References
---------------------
+##### II. Early References
 
 The later rulers of the 1st Dynasty of Babylon (ca 1740-1590 B.C.)
 referred to the “Sea-Land” as ruled by independent chiefs, of whom
@@ -47,8 +47,7 @@ is likely that these were “Chaldeans,” though not so named in these
 texts, since Ashurnasirpal II in his annals for the year 860 mentions
 the Kaldu as strong in this same area.
 
-III. Assyrian Control
----------------------
+##### III. Assyrian Control
 
 The expansionist aims of the Sargonid Assyrian kings brought them into
 direct clash with the independent tribes of the south in their need to
@@ -61,8 +60,7 @@ the land of the Sea,” thus identifying the earlier description of
 Adadnirari III (805) lists the Amukkani and BIt-Yakin among his Chaldean
 vassals.
 
-IV. Merodach-baladan
---------------------
+##### IV. Merodach-baladan
 
 In 734 the Amukkani seized Babylon, on the death of Nabunaṣir.
 Tiglath-pileser III immediately responded by sending his Assyrian army,
@@ -103,8 +101,7 @@ grandson of the renowned chief of the BIt-Yakin, committed suicide when
 betrayed by the Elamites to whom he, like his grandfather
 Merodach-baladan, had fled.
 
-V. Chaldean Dynasty
--------------------
+##### V. Chaldean Dynasty
 
 After Ashurbanipal’s death and the increasing weakness of his regime the
 Chaldeans rose in revolt and recaptured Babylon, putting their leader
@@ -132,8 +129,7 @@ in north Arabia, leaving his son and co-regent Bel-šar-uṣur (Belshazzar,
 the Persians under Cyrus in October 539. Nabonidus himself died in
 exile, and with the fall of Babylon the Chaldean Dynasty ended.
 
-VI. Chaldeans as Learned Men
-----------------------------
+##### VI. Chaldeans as Learned Men
 
 The Chaldeans maintained the traditional Babylonian schools at Babylon,
 Borsippa, Sippar, Uruk, and Ur. Here the “learning of the Chaldeans”
@@ -152,10 +148,9 @@ soothsayers,” since these aspects of Babylonian religious texts were the
 longest to survive in the popular imagination (as ca 450 B.C. Herodotus
 i.181–83).
 
-Ur of the Chaldees
-------------------
+##### Ur of the Chaldees
 
-### I. Site
+###### I. Site
 
 Some 350 km (220 mi) SE of Baghdad, covering an oval area approximately
 910 by 730 m (1000 by 800 yds), are the ruins of ancient Ur, known in
@@ -200,7 +195,7 @@ the 3rd Dynasty, the palace of the Chaldean king Nabonidus, temples from
 various historic periods for Nanna, Ningal, and Enki, and many private
 houses from both the Old Babylonian and Neo-Babylonian periods.
 
-### II. Prehistory and History
+###### II. Prehistory and History
 
 Ur was one of the oldest and most important cities in the Sumerian era
 of Mesopotamian history. Its occupation goes back, however, to the
@@ -293,7 +288,7 @@ Cyrus. The latest dated tablet found there is from the twelfth year of
 Alexander the Great. Afterward, and possibly largely because the river
 shifted its course, the region disappeared from history.
 
-### III. Ziggurat
+###### III. Ziggurat
 
 The ziggurat of Ur is the best-preserved example in Mesopotamia. The
 various levels of the terrace indicate that it had antecedents during
@@ -317,7 +312,7 @@ neither a tomb nor an observatory. The separation between the temple at
 the top and that at the base might have represented the distance between
 the heavenly and earthly residences of the deity.
 
-### IV. Royal Tombs
+###### IV. Royal Tombs
 
 Perhaps the best-known discoveries at Ur are the treasures from the
 royal and private graves and tombs. Surely they are among the richest
@@ -354,7 +349,7 @@ and paintings are also common to the tombs of both Ur and Egypt. In
 fact, excavations at Saqqârah from the 1st Dynasty of Egypt have shown
 sacrificial customs similar to those at Ur.
 
-### V. Relationship of Ur to Abraham
+###### V. Relationship of Ur to Abraham
 
 Since the discovery and excavation of Tell el-Muqayyar, particularly by
 Sir Leonard Woolley, it has popularly been identified with Ur of the
