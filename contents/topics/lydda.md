@@ -2,13 +2,9 @@
 title: "Lydda"
 pdf: "lydda.pdf"
 description: "the city where Peter healed Aeneas."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Lydda 2**
-
-**Lydda**
 
 A town in the coastal plain of Israel, 10 miles southeast of Tel
 Aviv-Jaffa, is first recorded in Thutmose III’s list of towns of Canaan
