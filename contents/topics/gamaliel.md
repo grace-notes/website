@@ -2,20 +2,14 @@
 title: "Gamaliel"
 pdf: "gamaliel.pdf"
 description: "The great Talmudic scholar of the 1st Century; and the teacher in Judaism of the Apostle Paul."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Gamaliel 2**
-
-Gamaliel
 
 From “The Life and Epistles of St. Paul” by W. J. Conybeare and J. S.
 Howson, Eerdmans
 
-**Gamaliel**
-
-also called RABBAN GAMALIEL (RABBAN, MEANING “TEACHER”), a tanna, one of
+**Gamaliel**, also called RABBAN GAMALIEL (RABBAN, MEANING “TEACHER”), a tanna, one of
 a select group of Palestinian masters of the Jewish Oral Law, and a
 teacher twice mentioned in the New Testament.
 
@@ -92,19 +86,6 @@ character soon exemplified in his life. But it is time that we should
 inquire into the manner of communicating instruction, and learn
 something concerning the place where instruction was communicated, in
 the schools of Jerusalem.
-
-For an index of topics, or information about regular Bible studies,
-write to:
-
-Warren Doud  
-**Grace Notes**  
-1705 Aggie Lane  
-Austin, Texas 78757  
-E-Mail: wdoud@gracenotes.info  
-URL: http://www.gracenotes.info
-
-There is no charge for Grace Notes materials. The work is supported by
-Christians who pray for the ministry and share in the expenses.
 
 [1](#sdfootnote1anc) This title is the same as *Rabboni*, addressed to
 our Lord by Mary Magdalene.
