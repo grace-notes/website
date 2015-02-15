@@ -2,14 +2,9 @@
 title: "Pentecost"
 pdf: "pentecost.pdf"
 description: "The ascension of Christ to heaven was followed ten days afterwards by the descent of the Holy Spirit upon earth and the birth of the Christian Church."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Pentecost (Schaff) 5**
-
-Notes on Pentecost
-==================
 
 From Philip Schaff, ***History of the Christian Church,***Volume 1,
 Chapter 4
