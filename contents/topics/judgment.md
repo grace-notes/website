@@ -144,7 +144,7 @@ or by an unbeliever under certain conditions. We use the word
 *discernment* for the proper evaluation of people, events, or problems,
 by believers under the control of the Holy Spirit.
 
-USES OF **κρινο** (krino)
+USES OF **κρινω** (krino)
 
 The basic Greek word for the verb “to judge” is **krino**. This word is
 used for *both* legitimate discernment and for sinful judging. This word
@@ -239,7 +239,7 @@ is able to have and to destroy: who are you that keeps on judging
 another?” This person sets himself up as God when judging in this
 manner.
 
-USES OF **ανακρινο** (anakrino)
+USES OF **ανακρινω** (anakrino)
 
 *To examine for answers* … “to pass judgment upon”, which comes to mean
 “to examine”. This is a legitimate activity, especially concerning our
@@ -265,7 +265,7 @@ can he know them, because they are spiritually discerned (**anakrino**
 ). But he that is spiritual (in fellowship) judgeth (discerns) all
 things, yet he himself is judged of no man."
 
-USES OF **διακρινο** (diakrino)
+USES OF **διακρινω** (diakrino)
 
 *To be at odds with oneself, to doubt, to waver*:
 
