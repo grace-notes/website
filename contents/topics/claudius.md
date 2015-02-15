@@ -9,7 +9,7 @@ tableOfContents: true
 **Tiberius Claudius Drusus Caesar**  
 from Seutonius, *The Twelve Caesars*
 
-########### I
+##### I
 
 Livia, having married Augustus when she was pregnant, was within three
 months afterwards delivered of Drusus, the father of Claudius Caesar,
@@ -70,7 +70,7 @@ composed by himself, he wrote likewise the history of his life in prose.
 He had by the younger Antonia several children, but left behind him only
 three, namely, Germanicus, Livilla, and Claudius.
 
-########### II
+##### II
 
 Claudius was born at Lyons, in the consulship of Julius Antonius, and
 Fabius Africanus, upon the first of August, the very day upon which an
@@ -94,7 +94,7 @@ up in a pallium–a new fashion. When he assumed the manly habit, he was
 carried in a litter, at midnight, to the Capitol, without the usual
 ceremony.
 
-########### III
+##### III
 
 He applied himself, however, from an early age, with great assiduity to
 the study of the liberal sciences, and frequently published specimens of
@@ -114,7 +114,7 @@ the opinion, both favorable and otherwise, entertained concerning him by
 Augustus, his great-uncle, I have here subjoined some extracts from the
 letters of that emperor.
 
-########### IV
+##### IV
 
 "I have had some conversation with Tiberius, according to your desire,
 my dear Livia, as to what must be done with your grandson, Tiberius, at
@@ -160,7 +160,7 @@ priesthood; naming him amongst the heirs of the third degree, who were
 but distantly allied to his family, for a sixth part of his estate only,
 with a legacy of no more than eight hundred thousand sesterces.
 
-########### V
+##### V
 
 Upon his requesting some office in the state, Tiberius granted him the
 honorary appendages of the consulship, and when he pressed for a
@@ -173,7 +173,7 @@ the city; another while in Campania, where he passed his time in the
 lowest society; by which means, besides his former character of a dull,
 heavy fellow, he acquired that of a drunkard and gamester.
 
-########### VI
+##### VI
 
 Notwithstanding this sort of life, much respect was shown him both in
 public and private. The equestrian order twice made choice of him to
@@ -193,7 +193,7 @@ estate; leaving him besides a legacy of two millions of sesterces, and
 expressly recommending him to the armies, the senate and people of Rome,
 amongst his other relations.
 
-########### VII
+##### VII
 
 At last, Caius, his brother’s son, upon his advancement to the empire,
 endeavoring to gain the affections of the public by all the arts of
@@ -208,7 +208,7 @@ acclamations of the people, wishing him all happiness, sometimes under
 the title of the emperor’s uncle, and sometimes under that of
 Germanicus’s brother.
 
-########### VIII
+##### VIII
 
 Still he was subjected to many slights. If at any time he came in late
 to supper, he was obliged to walk round the room some time before he
@@ -219,7 +219,7 @@ him, as if it were only in jest, with a cane or a whip. Sometimes they
 would put slippers upon his hands; as he lay snoring, that he might,
 upon awaking, rub his face with them.
 
-########### IX
+##### IX
 
 He was not only exposed to contempt, but sometimes likewise to
 considerable danger: first, in his consulship; for, having been too
@@ -242,7 +242,7 @@ in his private affairs, that in order to discharge his bond to the
 treasury, he was under the necessity of exposing to sale his whole
 estate, by an order of the prefects.
 
-########### X
+##### X
 
 Having spent the greater part of his life under these and the like
 circumstances, he came at last to the empire in the fiftieth year of his
@@ -276,7 +276,7 @@ to swear allegiance to him, promising them fifteen thousand sesterces a
 man; he being the first of the Caesars who purchased the submission of
 the soldiers with money.
 
-########### XI
+##### XI
 
 Having thus established himself in power, his first object was to
 abolish all remembrance of the two preceding days, in which a revolution
@@ -308,7 +308,7 @@ cancelled all the acts of Caius, yet he forbad the day of his
 assassination, notwithstanding it was that of his own accession to the
 empire, to be reckoned amongst the festivals.
 
-########### XII
+##### XII
 
 But with regard to his own aggrandizement, he was sparing and modest,
 declining the title of emperor, and refusing all excessive honors. He
@@ -333,7 +333,7 @@ parricides, until one or two persons, and presently after several
 others, were brought by the magistrates upon the rostra, who assured
 them that he was alive, and not far from the city, on his way home.
 
-########### XIII
+##### XIII
 
 Conspiracies, however, were formed against him, not only by individuals
 separately, but by a faction; and at last his government was disturbed
@@ -352,7 +352,7 @@ omens. For when orders were given them to march, to meet their new
 emperor, the eagles could not be decorated, nor the standards pulled out
 of the ground, whether it was by accident, or a divine interposition.
 
-########### XIV
+##### XIV
 
 Besides his former consulship, he held the office afterwards four times;
 the first two successively, but the following, after an interval of four
@@ -372,7 +372,7 @@ as were convicted of any great delinquency, he even exceeded the
 punishment appointed by law, and condemned them to be exposed to wild
 beasts.
 
-########### XV
+##### XV
 
 But in hearing and determining causes, he exhibited a strange
 inconsistency of temper, being at one time circumspect and sagacious, at
@@ -424,7 +424,7 @@ terms with his folly and cruelty, and threw his style, and some books
 which he had in his hands, in his face, with such violence as to wound
 him severely in the cheek.
 
-########### XVI
+##### XVI
 
 He likewise assumed the censorship, which had been discontinued since
 the time that Paulus and Plancus had jointly held it. But this also he
@@ -464,7 +464,7 @@ the vintage was very plentiful, to have their casks well secured at the
 bung with pitch:” and in another, he told them, “that nothing would
 sooner cure the bite of a viper, than the sap of the yew-tree.”
 
-########### XVII
+##### XVII
 
 He undertook only one expedition, and that was of short duration.  The
 triumphal ornaments decreed him by the senate, he considered as beneath
@@ -491,7 +491,7 @@ Crassus Frugi was mounted upon a horse richly caparisoned, in a robe
 embroidered with palm leaves, because this was the second time of his
 obtaining that honour.
 
-########### XVIII
+##### XVIII
 
 He paid particular attention to the care of the city, and to have it
 well supplied with provisions. A dreadful fire happening in the
@@ -502,7 +502,7 @@ out of all the streets in the city, to their assistance. Placing bags of
 money before him, he encouraged them to do their utmost, declaring, that
 he would reward every one on the spot, according to their exertions.
 
-########### XIX 
+##### XIX 
 
 During a scarcity of provisions, occasioned by bad crops for several
 successive years, he was stopped in the middle of the Forum by the mob,
@@ -517,7 +517,7 @@ the Papia-Poppaean law; to one who had only the privilege of Latium, the
 freedom of the city; and to women the rights which by law belonged to
 those who had four children: which enactments are in force to this day.
 
-########### XX 
+##### XX 
 
 He completed some important public works, which, though not numerous,
 were very useful. The principal were an aqueduct, which had been begun
@@ -544,7 +544,7 @@ Egypt; and built upon piles a very lofty tower, in imitation of the
 Pharos at Alexandria, on which lights were burnt to direct mariners in
 the night.
 
-########### XXI 
+##### XXI 
 
 He often distributed largesses of corn and money among the people, and
 entertained them with a great variety of public magnificent spectacles,
@@ -613,7 +613,7 @@ twelve ships of war, of three banks of oars. The signal for the
 encounter was given by a silver Triton, raised by machinery from the
 middle of the lake.
 
-########### XXII 
+##### XXII 
 
 With regard to religious ceremonies, the administration of affairs both
 civil and military, and the condition of all orders of the people at
@@ -629,7 +629,7 @@ exhortation from the rostra, he recited in the presence of the people,
 who repeated them after him; all workmen and slaves being first ordered
 to withdraw.
 
-########### XXIII 
+##### XXIII 
 
 The courts of judicature, whose sittings had been formerly divided
 between the summer and winter months, he ordered, for the dispatch of
@@ -649,7 +649,7 @@ he used to sit between the two consuls upon the seats of the tribunes.
 He reserved to himself the power of granting license to travel out of
 Italy, which before had belonged to the senate.
 
-########### XXIV 
+##### XXIV 
 
 He likewise granted the consular ornaments to his Ducenarian
 procurators. From those who declined the senatorial dignity, he took
@@ -681,7 +681,7 @@ left side, giving him the post of honour. He allowed Gabinius Secundus,
 upon his conquest of the Chauci, a German tribe, to assume the cognomen
 of Chaucius.
 
-########### XXV 
+##### XXV 
 
 His military organization of the equestrian order was this. After having
 the command of a cohort, they were promoted to a wing of auxiliary
@@ -740,7 +740,7 @@ of his administration, he was directed not so much by his own judgment,
 as by the influence of his wives and freedmen; for the most part acting
 in conformity to what their interests or fancies dictated.
 
-########### XXVI 
+##### XXVI 
 
 He was twice married at a very early age, first to Aemilia Lepida, the
 grand-daughter of Augustus, and afterwards to Livia Medullina, who had
@@ -775,7 +775,7 @@ married her. No person was found, however, to follow the example,
 excepting one freedman, and a centurion of the first rank, at the
 solemnization of whose nuptials both he and Agrippina attended.
 
-########### XXVII 
+##### XXVII 
 
 He had children by three of his wives: by Urgulanilla, Drusus and
 Claudia; by Paetina, Antonia; and by Messalina, Octavia, and also a son,
@@ -798,7 +798,7 @@ still very young; and was sure to receive their acclamations, and good
 wishes on his behalf. Of his sons-in-law, he adopted Nero. He not only
 dismissed from his favor both Pompey and Silanus, but put them to death.
 
-########### XXVIII 
+##### XXVIII 
 
 Amongst his freedmen, the greatest favorite was the eunuch Posides,
 whom, in his British triumph, he presented with the pointless spear,
