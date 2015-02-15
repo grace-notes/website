@@ -3,13 +3,9 @@ title: "The Pre-Eminence of Israel"
 indexTitle: "Israel, The Pre-Eminence of"
 pdf: "israelpreeminence.pdf"
 description: "Israel, The Pre-Eminence of -  Study of the place of the nation of Israel in the Biblical historical framework."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Preeminence of Israel 2**
-
-**The Preëminence of Israel**
 
 The nation of Israel had an extraordinary beginning, one of the most
 unusual of any race in history. The origin of Israel beginning with
