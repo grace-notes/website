@@ -2,6 +2,7 @@
 title: "Caesarea Palestine"
 pdf: "caesareapalestine.pdf"
 description: "Caesarea, the Roman capital of Judea in the time of Christ and Paul, was located by the sea, thirty-two miles north of Joppa, and some sixty miles northwest of Jerusalem."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -49,8 +50,7 @@ massive and extensive harbor.
 
 From the [Encyclopedia Britannica] (http://www.britannica.com)
 
-Caesarea
---------
+##### Caesarea
 
 Hebrew HORBAT QESARI (“Ruins of Caesarea”), ancient port and
 administrative city of Palestine, on the Mediterranean coast of
