@@ -1,14 +1,10 @@
 ---
 title: "Hellenism"
 pdf: "hellenism.pdf"
-description: "a short study of the Greek thinking that influenced the thinking and culture of those Jewish people who were educated in Greek philosophy and culture."
+description: "A short study of the Greek thinking that influenced the thinking and culture of those Jewish people who were educated in Greek philosophy and culture."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-Hellenism **4**
-
-Hellenism
 
 Hellenism is a term that may be used in various senses: it has sometimes
 been applied to the whole of distinctively Greek culture, including that
