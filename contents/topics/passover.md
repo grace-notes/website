@@ -2,11 +2,9 @@
 title: "Passover"
 pdf: "passover.pdf"
 description: "Notes on the Jewish ritual that was the Lord's Supper."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Passover 8**
 
 Passover, and the Plague of the Firstborn
 
