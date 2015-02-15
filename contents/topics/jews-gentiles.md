@@ -2,13 +2,9 @@
 title: "Jews Relationship to Gentiles"
 pdf: "jewsgentiles.pdf"
 description: "Jews Relationship to Gentiles -  A few examples from extensive Jewish writings of early times of their regulations concerning contact with Gentile people - from Edersheim."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Jews/Gentiles 2**
-
-Jewish Attitude Toward Gentiles
 
 In conjunction with the study of several New Testament epistles, such as
 the Epistle to Titus, this paper will give some insight into some of the
