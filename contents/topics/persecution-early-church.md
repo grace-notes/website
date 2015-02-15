@@ -1,14 +1,10 @@
 ---
 title: "Persecution in the Early Church"
 pdf: "persecutionearlychurch.pdf"
-description: "a description of the life of early believers under Jewish persecution."
+description: "A description of the life of early believers under Jewish persecution."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Persecution in the Early Church 2**
-
-**Persecution in the Early Church**
 
 from *Life and Epistles of St. Paul*, by Conybeare and Howson.
 
@@ -116,5 +112,4 @@ had been given, “Ye shall be witnesses unto Me, both in Jerusalem and in
 all Judea, and in Samaria, and unto the uttermost part of the earth.”
 (Acts 1:8)
 
-====================
 
