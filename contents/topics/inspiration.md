@@ -2,13 +2,9 @@
 title: "Inspiration"
 pdf: "inspiration.pdf"
 description: "Inspiration -  The verbal, plenary inspiration of the Bible."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Inspiration 2**
-
-Inspiration
 
 **Inspiration:** God the Holy Spirit so supernaturally directed the
 human writers of Scripture, that without waiving their human
