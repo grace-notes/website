@@ -2,13 +2,9 @@
 title: "Paul's Education"
 pdf: "pauleducation.pdf"
 description: "His journey to Jerusalem; his education at the school of Gamaliel"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Paul’s Education 5**
-
-Paul’s Education
 
 From “The Life and Epistles of St. Paul” by W. J. Conybeare and J. S.
 Howson, Eerdmans
