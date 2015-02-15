@@ -2,11 +2,9 @@
 title: "Idolatry"
 pdf: "idolatry.pdf"
 description: "Idolatry -  an outline discussion of the various forms of idolatry prevalent in Old Testament and New Testament times."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>Idolatry</sup>
 
 **Idolatry**[Heb *t*<sup>*e*</sup>*rāp̱îm* (1 S. 15:23), *gillûlîm* (Ezk.
 23:49), *z*<sup>*e*</sup>*nûṯ* (Ezk. 43:9); Gk *eidōlolatría* (Gal.
@@ -24,8 +22,7 @@ derived from *zānâ*, “have illicit intercourse”; its sexual connotations
 suggest the involvement of cultic prostitutes, who were a regular
 feature of Canaanite pagan worship.
 
-I. Ancient Near East
-====================
+##### I. Ancient Near East
 
 Deities of the non-Hebrew religions of the ancient Near East were
 commonly associated with animal forms. It is generally held today that
@@ -74,8 +71,7 @@ that symbol with the pagan fertility cults.
 *See* Religions of the Biblical World: Assyria and Babylonia, Canaanite,
 Egypt.
 
-II. Relation to Israel
-======================
+##### II. Relation to Israel
 
 **A. Patriarchal Period**The nature of the patriarchal religion has been
 the subject of much scholarly research. One of the most influential
@@ -300,8 +296,7 @@ TDOT, III, sv “gillûlîm” (Preuss).
 
 T. E. Mccomiskey
 
-III. Intertestamental Period
-============================
+##### III. Intertestamental Period
 
 What finally established the Jewish people in immovable opposition to
 idolatry is told in the Apocrypha (1 Macc. 2:1–48) and in Josephus
@@ -318,8 +313,7 @@ practices. Never again were Jews to take idolatry seriously. Rather,
 idol worship became for them a matter of semi-humorous satire and
 ridicule (cf. Bel and the Dragon).
 
-IV. New Testament
-=================
+##### IV. New Testament
 
 Idolatry was prevalent in the NT world. Idols were venerated in temples
 dedicated to the traditional gentile gods, in popular magic and
