@@ -1,17 +1,12 @@
 ---
-title: "Paul - to the Thessalonians"
-pdf: "paul_firstlettertocorinth.pdf"
-description: "Paul - to the Thessalonians -  an account of the events surrounding Paul's writing the two Thessalonian epistles, along with translations by Conybeare and Howson."
+title: "Paul's First Letter to the Corinthians"
+pdf: "paul-first-letter-to-corinth.pdf"
+description: "Paul - to the Corinthians -  an account of the events surrounding Paul's writing to the Corinthians."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Paul’s First Letter to Corinth 29**
-
-**Paul’s First Letter to Corinth**
-
 Paul pays a short Visit to Corinth <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
------------------------------------------------------------------------------
 
 We have hitherto derived such information as we possess, concerning the
 proceedings of St. Paul at Ephesus, from the narrative in the Acts; but
@@ -278,9 +273,8 @@ reposes, as upon a rock that cannot be shaken, our sure and certain hope
 of immortality.
 
 First Epistle to the Corinthians <sup>[<sup>11</sup>](#sdfootnote11sym)</sup>
------------------------------------------------------------------------------
 
-### 1 Corinthians 1
+##### 1 Corinthians 1
 
 PAUL, a called Apostle of Jesus Christ by the will of God, and Sosthenes
 the Brother, TO THE CHURCH OF GOD AT CORINTH, hallowed in Christ Jesus,
@@ -351,7 +345,7 @@ Jesus, whom God sent unto us as our wisdom,
 sanctification, and redemption; that it might be according as it is
 written, “He that boasts, let him boast in the Lord. (Jer. 9:23,24)
 
-### 1 Corinthians 2
+##### 1 Corinthians 2
 
 So, brethren, when I myself came among you, and declared to you the
 testimony of God, I came not with surpassing skill of speech or wisdom.
@@ -393,7 +387,7 @@ judged by others. For “Who hath known the mind of the Lord that he
 should instruct Him?” (Isa. 40:13, LXX) but we have the mind of the Lord
 <sup>**[<sup>26</sup>](#sdfootnote26sym)**</sup> [within us].
 
-### 1 Corinthians 3
+##### 1 Corinthians 3
 
 And I, brethren, could not speak to you as spiritual men, but as carnal,
 yea, as babes in Christ. I fed you with milk, and not with meat; for you
@@ -445,7 +439,7 @@ both life and death, things present and things to come all are yours but
 <sup>**[<sup>32</sup>](#sdfootnote32sym)**</sup> you are Christ’s; and
 Christ is God’s.
 
-### 1 Corinthians 4
+##### 1 Corinthians 4
 
 Let us be accounted as servants of Christ, and Christ’s and stewards of
 the mysteries of God.” Moreover, it is required in a steward to be found
@@ -495,7 +489,7 @@ the word of these boasters, but their might. For mighty deeds, not empty
 words, are the tokens of God’s kingdom. What is your desire? Must I come
 to you with the rod, or in love and the spirit of meekness?
 
-### 1 Corinthians 5
+##### 1 Corinthians 5
 
 It is reported that there is fornication generally among you, and such
 fornication, as is not known even among the Heathen, so that one among
@@ -534,7 +528,7 @@ that are without? Is it not your part to judge those that are within?
 But those without are for God’s judgment. “From amongst yourselves ye
 shall cast out the evil one.” (Deut. 24:7)
 
-### 1 Corinthians 6
+##### 1 Corinthians 6
 
 Can there be any of you who dare to bring their private differences into
 the courts of law, before the wicked and not rather bring them before
@@ -582,7 +576,7 @@ price. <sup>**[<sup>45</sup>](#sdfootnote45sym)**</sup>Glorify God,
 therefore, not in your spirit only, but in your body also, since both
 are His.
 
-### 1 Corinthians 7
+##### 1 Corinthians 7
 
 As to the questions which you have asked me in your letter, this is my
 answer. It is good for a man to remain unmarried. Nevertheless, to avoid
@@ -681,7 +675,7 @@ she choose one of the brethren in the Lord. Yet she is happier if she
 remain a widow, in my judgment; and I think that I, no less than others,
 have the Spirit of God.
 
-### 1 Corinthians 8
+##### 1 Corinthians 8
 
 As to the meats which have been sacrificed to idols, we know (for we all
 have knowledge) <sup>**[<sup>56</sup>](#sdfootnote56sym)**</sup> but
@@ -711,7 +705,7 @@ Christ. Wherefore, if my food cast a stumbling block in my brother’s
 path, I will eat no flesh while the world stands, lest thereby I cause
 my brother’s fall. <sup>**[<sup>59</sup>](#sdfootnote59sym)**</sup>
 
-### 1 Corinthians 9
+##### 1 Corinthians 9
 
 Is it denied that I am an apostle? Is it denied that I am free from
 man’s authority? Is it denied that you are the fruits of my labor in the
@@ -774,7 +768,7 @@ I fight, not as the pugilist who strikes out against the air; but I
 bruise my body and force it into bondage; lest, perchance, having called
 others to the contest, I should myself fail shamefully of the prize.
 
-### 1 Corinthians 10
+##### 1 Corinthians 10
 
 For I would not have you ignorant, brethren, that our forefathers all
 were guarded by the cloud, and all passed safely through the sea. And
@@ -843,7 +837,7 @@ my own good, but the good of all,
 <sup>**[<sup>73</sup>](#sdfootnote73sym)**</sup> that they may be saved.
 I beseech you follow my example, as I follow the example of Christ.
 
-### 1 Corinthians 11
+##### 1 Corinthians 11
 
 I Praise you brethren, that
 <sup>**[<sup>74</sup>](#sdfootnote74sym)**</sup> “you are always mindful
@@ -910,7 +904,7 @@ one another; and if anyone is hungry, let him eat at home, lest your
 meetings should bring judgment upon you. The other matters I will set in
 order when I come.
 
-### 1 Corinthians 12
+##### 1 Corinthians 12
 
 Concerning those who exercise Spiritual Gifts, brethren, I would not
 have you ignorant. You know that in the days of your heathenism you were
@@ -968,7 +962,7 @@ Can all interpret the Tongues? But I would have you delight in the best
 gifts; and moreover, beyond them all, I will show you a path wherein to
 walk.
 
-### 1 Corinthians 13
+##### 1 Corinthians 13
 
 **Though I speak all the tongues of men** and angels, if I have not
 love, I am no better than sounding brass, or a tinkling cymbal. And
@@ -1001,7 +995,7 @@ I know in part, but then shall I know, even as I now am known. Yet while
 other gifts shall pass away, these three, Faith, Hope, and Love, abide;
 and the greatest of these is Love.
 
-### 1 Corinthians 14
+##### 1 Corinthians 14
 
 Follow earnestly after Love; yet delight in the spiritual gifts, but
 especially in the gift of Prophecy. For he who speaks in a Tongue,
@@ -1098,7 +1092,7 @@ any man refuse this acknowledgment, let him refuse it at his peril.
 Therefore, brethren, delight in the gift of Prophecy, and hinder not the
 gift of Tongues. And let all be done with decency and order.
 
-### 1 Corinthians 15
+##### 1 Corinthians 15
 
 Moreover, brethren, I call to your remembrance the Glad tidings which I
 brought you, which also you received, wherein also you stand firm,
@@ -1217,7 +1211,7 @@ Therefore, my beloved brethren, be ye steadfast, immovable, always
 abounding in the work of the Lord; knowing that your labor is not in
 vain, in the Lord.
 
-### 1 Corinthians 16
+##### 1 Corinthians 16
 
 Concerning the collection for the saints [at Jerusalem] I would have you
 do as I have enjoined upon Christian the churches of Galatia. Upon the
