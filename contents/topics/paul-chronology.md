@@ -2,19 +2,14 @@
 title: "Paul: Chronological Table"
 pdf: "paulchronology.pdf"
 description: "Paul: Chronological Table -  A time table of Paul's life, with matching contemporary events."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Paul, Chronology- 3**
 
 **A Chronological Table of Paul’s Life and Ministry  
 **  
 
 **Year**
-
-Bible Events
-============
 
 **Contemporary Events**
 
