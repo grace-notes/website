@@ -2,11 +2,9 @@
 title: "Jewish Law in the 1st Century"
 pdf: "jewishlaw.pdf"
 description: "All jurisdiction was either civil, criminal, or ecclesiastical, according as questions of private right, public morality, or religious duty were to be decided."
+tableofcontents: true
 template: topic.jade
 ---
-
-Jewish Law [^1]
----------------
 
 Following the analogy of the law of Scotland, we may arrange the code of
 the Hebrews into Statutory or Written (meaning by this the law of Moses)
