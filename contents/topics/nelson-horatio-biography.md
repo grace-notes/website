@@ -6,11 +6,7 @@ description: "by Sir William Beechy, a contemporary of the great British hero of
 template: topic.jade
 ---
 
-
-**Horatio Nelson, biography Page 21**
-
 Horatio Nelson (1758–1805), by Sir William Beechey, 1800
-========================================================
 
 Nelson, Horatio, Viscount Nelson (1758–1805), naval officer, third
 surviving son (out of a family of eleven) of the Revd Edmund Nelson
@@ -25,7 +21,6 @@ to the Royal Grammar School at Norwich, then Sir John Paston’s School at
 North Walsham.
 
 Early service, 1770–1792
-------------------------
 
 In the autumn of 1770 the Falkland Islands crisis led to naval
 mobilization, and Nelson’s uncle, Captain Maurice Suckling, was
@@ -161,7 +156,6 @@ his West Indian command. Moreover, after five years the couple were
 still childless.
 
 The Mediterranean, 1793–1797
-----------------------------
 
 Nelson was released from inactivity by the approach of war with
 revolutionary France. In January 1793 he was appointed to command the
@@ -330,7 +324,6 @@ public. At the same time he was promoted rear-admiral in the course of
 seniority.
 
 Tenerife and the Nile, 1797–1798
---------------------------------
 
 After the battle of St Vincent the Spanish fleet stayed in Cadiz, while
 Jervis (now earl of St Vincent) established a blockade and considered
@@ -507,7 +500,6 @@ name strong enough for such a scene’, Nelson wrote to his wife (Nelson’s
 Letters to his Wife, 399).
 
 Naples and Palermo, 1798–1800
------------------------------
 
 Nelson had been wounded in the head during the night and seems to have
 been heavily concussed, but he had sufficiently recovered the next
@@ -700,7 +692,6 @@ country, cutting so pitiful a figure’ (Diary of Sir John Moore, ed. J.
 F. Maurice, 1.367).
 
 The Baltic, 1800–1802
----------------------
 
 The party landed at Great Yarmouth on 6 November 1800. Along the road to
 London they were received with public celebration. In London there were
@@ -1161,7 +1152,6 @@ and lay them on the coffin—instead of which, they tore them up and each
 saved a piece as a memorial of their lost commander.
 
 Apotheosis
-----------
 
 At every level of society, among those who knew him personally and those
 who knew only his name, the news of Nelson’s death was received as a
@@ -1336,145 +1326,5 @@ appeal to successive generations.
 
 N. A. M. Rodger
 
-Sources
 
-DNB · The dispatches and letters of Vice-Admiral Lord Viscount Nelson,
-ed. N. H. Nicolas, 7 vols. (1844–6) · A. Morrison, Collection of
-autograph letters: the Hamilton and Nelson papers, 2 vols. (privately
-printed, 1893) · Nelson’s letters to his wife and other documents,
-1785–1831, ed. G. P. B. Naish, Navy RS, 100 (1958) · Nelson’s letters
-from the Leeward Islands, ed. G. Rawson (1953) · A selection from the
-public and private correspondence of Vice-Admiral Lord Collingwood,
-interspersed with memoirs of his life, ed. G. L. Newnham-Collingwood,
-4th edn (1829) · The private correspondence of Admiral Lord Collingwood,
-ed. E. Hughes, Navy RS, 98 (1957) · Memoirs of Admiral the Right Hon.
-the earl of St. Vincent GCB &c, ed. J. S. Tucker, 2 vols. (1844) ·
-Private papers of George, second Earl Spencer, ed. J. S. Corbett and H.
-W. Richmond, 4 vols., Navy RS, 46, 48, 58–9 (1913–24) · The Keith
-papers, ed. W. G. Perrin and C. Lloyd, 3 vols. (1927–55) · The letters
-of Lord St. Vincent, 1801–1804, ed. D. B. Smith, 2 vols. (1921–7) · O.
-Warner, The life and letters of Vice-Admiral Lord Collingwood (1968) ·
-J. K. Laughton, ed., ‘Miscellaneous letters’, The naval miscellany, 1,
-Navy RS, 20 (1902), 387–444 · Life and letters of Sir Gilbert Elliot,
-first earl of Minto, from 1751 to 1806, ed. countess of Minto [E. E. E.
-Elliot-Murray-Kynynmound], 3 vols. (1874) · The Wynne diaries, ed. A.
-Fremantle, 3 vols. (1935–40) · H. C. Gutteridge, Nelson and the
-Neapolitan Jacobins: documents relating to the suppression of the
-Jacobin revolution at Naples, June 1799 (1903) · T. S. Jackson, ed.,
-Logs of the great sea fights, 1794–1805, 2 vols. (1899–1900) · ‘Letters
-of Lord Nelson, 1804–5’, The naval miscellany, ed. W. G. Perrin, 3, Navy
-RS, 63 (1928), 171–90 · E. P. Brenton, Life and correspondence of John,
-earl of St Vincent, 2 vols. (1838) · G. S. Parsons, Nelsonian
-reminiscences: leaves from memory’s log (1843) · Diaries and
-correspondence of James Harris, first earl of Malmesbury, ed. third earl
-of Malmesbury [J. H. Harris], 4 vols. (1844) · J. S. Clarke and J.
-M’Arthur, The life and services of Horatio Viscount Nelson, duke of
-Bronte, vice-admiral of the white, 2 vols. (1840) · C. Oman, Nelson
-(1947) · O. Warner, A portrait of Lord Nelson (1958) · T. Pocock,
-Horatio Nelson (1987) · J. S. Corbett, The campaign of Trafalgar, 2nd
-edn, 2 vols. (1919) · E. Desbrière, The naval campaign of 1805:
-Trafalgar, ed. and trans. C. Eastwick, 2 vols. (1933) · O. Feldbæk,
-Slaget på Reden (1984) · J. Drinkwater Bethune, A narrative of the
-battle of St. Vincent, with anecdotes of Nelson before and after that
-battle, 2nd edn (1840) · B. Lavery, Nelson and the Nile (1998) · M.
-Battesti, La Bataille d’Aboukir 1798 (1998) · D. Pope, The great gamble
-(1972) · C. White, 1797 Nelson’s year of destiny: Cape St. Vincent and
-Santa Cruz de Tenerife (1998) · F. Fraser, Beloved Emma (1985) · E. C.
-Freeman and E. Gill, Nelson and the Hamiltons in Wales and
-Monmouthshire, 1802 (1962) · T. Pocock, The young Nelson in the Americas
-(1980)
-
-Archives
-
-Admiralty Library, London, order book, MS 200 · BL, corresp. and MSS,
-Add. MSS 30260, 34274, 34902–34992, 35191, 36604–36613, 40094–40095,
-43504, 46356; Egerton MSS 1614, 2240 · BL, letters and papers, RP 345,
-356, 366, 376 [copies] · Harvard U., Houghton L., log books and corresp.
-with Lady Hamilton · Hunt. L., corresp. and MSS · Hydrographic Office,
-Taunton, Admiralty Library, order book · Karpeles Manuscript Library,
-corresp. and papers · Nelson Museum and Local History Centre, Monmouth,
-corresp., letter-books, logs, papers · NMM, corresp. and MSS · Royal
-Naval Museum, Portsmouth, personal letters and official orders · U.
-Mich., Clements L., corresp. · United States Naval Museum, corresp. ·
-Wellcome L., accounts and MSS | BL, Bridport MSS, Add. MS 35191 · BL,
-MSS and corresp. with Alexander Davidson, Add. MS 28333, Egerton 2240 ·
-BL, letters to Lady Hamilton, Egerton MS 1614 · BL, letters to second
-Earl Spencer · Bucks. RLSS, corresp. with Lord Hobart · Centre for Polar
-Archives, Washington, DC, records of the case arising between Nelson and
-Benjamin Tucker · Cornwall RO, letters to Spiridion Foresti [copies] ·
-Devon RO, corresp. with first Viscount Sidmouth · L. Cong., corresp.
-with Sir George Cockburn · NA Scot., letters to Lord Melville · Nelson
-Museum and Local History Centre, Monmouth, Llangattock MSS · NL Scot.,
-corresp. with Sir Thomas Graham · NMM, letters to Sir Edward Berry ·
-NMM, letters to duke of Clarence · NMM, corresp. with William Cornwallis
-· NMM, letters to Ross Donelly · NMM, letters to Sir John Duckworth ·
-NMM, corresp. with Hugh Elliott · NMM, corresp. with Lord Hood · NMM,
-letters to Lord Keith · NMM, corresp. with Sir Charles Middleton · NMM,
-letters to Lord Minto · NMM, corresp. with Frances Nelson · NMM,
-Phillips and other MSS · NMM, letters to Lord St Vincent · Royal Naval
-Museum, Portsmouth, McCarthy MSS and other collections · Royal Naval
-Museum, Portsmouth, letters to Hercules Ross · Shrops. RRC, corresp.
-with Joseph Brame · Trafalgar House, Bridport, Nelson-Ward MSS · United
-States Naval Academy Museum, Annapolis, Maryland, corresp.
-
-Likenesses
-
-J. F. Rigaud, oils, 1781, NMM · C. Collingwood, drawing, c.1785, NMM ·
-H. P. Bone, miniature, c.1797 (after L. F. Abbott), NPG · R. Shipster,
-stipple, pubd 1797 (after Rigaud), BM, NPG · L. F. Abbott, portraits,
-1797–8, NMM · L. F. Abbott, oils, 1798, NMM · W. Evans, stipple, pubd
-1798 (after H. Edridge), BM, NPG · J. Gillray, caricature, etching, pubd
-1798 (Extirpation of the plagues of Egypt), NPG · D. Orme, stipple, pubd
-1798, NPG · H. Singleton, pencil drawing, 1798, NMM · J. de Vaere,
-Wedgwood medallion, 1798, Wedgwood Museum, Stoke-on-Trent · mezzotint,
-pubd 1798, NPG · G. Head, oils, 1798–1800, NPG · C. Grignion, drawing,
-1799, Royal United Services Institution, London · L. Guzzardi, oils,
-1799, Museo di San Martino, Naples; version, Gov. Art Coll., NMM · W.
-Beechey, oils, 1800, NPG [see illus.] · H. Füger, oils, 1800, NPG ·
-Granger, stipple, pubd 1800 (after L. F. Abbott), NPG · J. Hoppner,
-oils, 1800, NMM · P. Roberts, stipple, pubd 1800 (after L. F. Abbott),
-NPG · J. Schmidt, pastel drawing, 1800, NMM · J. Young, mezzotint, pubd
-1800 (after L. Guzzardi), BM, NPG · oils, c.1800, NMM · W. Beechey,
-oils, 1801, St Andrew’s Hall, Norwich · M. H. Keymer, oils, 1801, NMM ·
-J. Rising, oils, 1801, NMM · Thallor and Ransom, marble bust, 1801, NMM
-· S. de Koster, oils, 1801–3, NMM · J. Hoppner, oils, 1801–1805, Royal
-Collection · H. Edridge, watercolour drawing, 1802, NPG · W. Goldsmith,
-double portrait, watercolour drawing, c.1802 (with Lady Hamilton), Gov.
-Art Coll. · L. Gahagan, bust, 1804, Victoria Art Gallery, Bath · H. H.
-Meyer, stipple, pubd 1805 (after J. Hoppner), BM, NPG · B. Pearce,
-silhouette, 1805, NPG · E. Scriven, stipple and line engraving, pubd
-1805 (after R. Bowyer), NPG · medallion, 1805 (plaster replica; after W.
-Tassie), Scot. NPG · A. W. Devis, oils, 1805–7, NMM · C. Andras, wax
-effigy, 1806, Westminster Abbey · E. Scriven, stipple, pubd 1806 (after
-after A. W. Devis), BM, NPG · C. Turner, mezzotint, pubd 1806 (after J.
-Hoppner), NG Ire. · J. Golding, line engraving, pubd 1808 (after L. F.
-Abbott), BM, NPG · W. H. Worthington, line engraving, pubd 1808 (after
-R. Bowyer), BM, NPG · J. Flaxman, statue on monument, 1809, St Paul’s
-Cathedral, London · C. Turner, mezzotint, pubd 1823 (after R. Bowyer),
-BM, NPG · A. S. Damer, bust, 1827, Royal Collection · F. Chantrey,
-marble bust, 1835, Royal Collection · F. Chantrey, marble bust, 1835,
-NPG · W. Read, stipple and line engraving, pubd 1836 (after L. F.
-Abbott), BM, NPG · E. H. Baily, statue on Nelson’s Column, 1839–43,
-Trafalgar Square, London · S. Freeman, stipple and line engraving, pubd
-1844 (after L. F. Abbott), NPG · L. F. Abbott, oils, NPG · L. F. Abbott,
-oils, Scot. NPG · G. Cruikshank, etching, NPG · A. W. Devis, group
-portrait, oils (The death of Nelson), NMM · D. Maclise, group portrait,
-fresco (The death of Nelson), Palace of Westminster, London; study,
-Walker Art Gallery, Liverpool · S. W. Reynolds, coloured engraving
-(after J. P. Knight), Wellington Museum, London · R. Shipster, stipple
-(after L. F. Abbott), NPG · R. S. Syer, mezzotint (after L. F. Abbott),
-BM, NPG · R. Westmacott, bronze statue, Bull Ring, Birmingham · J.
-Young, mezzotint (after J. Rising), NPG · metal relief, NPG · pastel
-drawing, Scot. NPG · sketch (of head; after W. Beechey, 1801), NPG
-
-© Oxford University Press 2004–7
-
-All rights reserved: see legal notice Oxford University Press
-
-N. A. M. Rodger, ‘Nelson, Horatio, Viscount Nelson (1758–1805)’, Oxford
-Dictionary of National Biography, Oxford University Press, Sept 2004;
-online edn, Oct 2007 [http://www.oxforddnb.com/view/article/19877,
-accessed 20 Oct 2007]
-
-Horatio Nelson (1758–1805): doi:10.1093/ref:odnb/1987
 
