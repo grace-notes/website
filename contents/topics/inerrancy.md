@@ -1,14 +1,11 @@
 ---
-title: "Inerrancy"
+title: "The Inerrancy of the Bible"
+indexTitle: "Inerrance"
 pdf: "inerrancy.pdf"
 description: "Inerrancy -  A comparison of the views of both sides of the issue of inerrancy in the Bible."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Inerrancy 3**
-
-The Inerrancy of the Bible
 
 **Inerrancy** is a word which describes the concept of the complete
 accuracy and truthfulness of the Bible as the Word of God. When we say
@@ -101,14 +98,4 @@ question of the authority of the Bible.
 </tr>
 </tbody>
 </table>
-
-For an index of topics, or information about regular Bible studies,
-write to:
-
-Warren Doud  
-**Grace Notes**  
-1705 Aggie Lane  
-Austin, Texas 78757  
-E-Mail: wdoud@gracenotes.info   
-URL: http://www.gracenotes.info
 
