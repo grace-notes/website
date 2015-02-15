@@ -2,15 +2,15 @@
 title: "Moabites"
 pdf: "moabites.pdf"
 description: "Moabites -  A description of the descendants of Lot, geography, history, religion, relationship to Judges and Ruth. The Moabite Stone."
+tableofcontents: true
 template: topic.jade
 ---
-
 
 The Moabites were descendants of Lot, Moab being the son of Lot and his older daughter.
 
 [Ammon was the son of Lot with his younger daughter, thus the Ammonites. The Edomites were descended from Esau, the son of Isaac. The Amalekites were descended from Eliphaz, a son of Esau.]
 
-##Geography of Moab 
+##### Geography of Moab 
 
 The territory of Moab is usually described in three parts:
 
@@ -24,7 +24,7 @@ When the Israelites came up from Egypt, they approached Moab from the southeast,
 
 Therefore, they applied for permission to pass through the territory of Moab. This was refused, so they went around its borders.
 
-##History of Moab 
+##### History of Moab 
 
 Although the Moabites refused passage to the Israelites, Moab did not fight against Israel while they were neighbors for more than 300 years. In fact, Deut. 2:29 makes no complaint about hostility either of Edom or Moab, only mentioning that Moab lacked hospitality and hired Balaam to curse Israel.
 
@@ -36,15 +36,15 @@ The Moabites peaceful character and their many possessions may account for the t
 
 The result of this conference was that the two nations united in sending for the prophet Balaam. Num. 25
 
-##The Exclusion of Moab
+##### The Exclusion of Moab
 
 The exclusion of Moabites and Ammonites from the congregation of the Lord to the tenth generation was not on account of hostility but because of their lack of hospitality and the hiring of Balaam. Deut. 23:4 There is no direct prohibition of marriage with Moabites. These rules were made against *Canaanites*.
 
-##The Time of the Judges
+##### The Time of the Judges
 
 After the conquest of Canaan, Moab oppressed Israel for 18 years. It is significant, however, that _“The Lord strengthened Eglon, the King of Moab, against Israel … and he gathered unto him the children of Ammon and Amalek and went out and smote Israel”_ (Judges 3:12,13). The Moabite conquest ended with the assassination of Eglon by the judge Ehud.
 
-##The Time of the Kingdom
+##### The Time of the Kingdom
 
 We read that Saul fought against Moab, 1 Sam. 14:47.
 
@@ -58,13 +58,13 @@ Moabites continued to appear in Bible accounts and in historical accounts. [ See
 
 The language of Moab was a dialect of Hebrew, differing from Biblical Hebrew only in some small details.
 
-##THE RELIGION OF MOAB
+##### THE RELIGION OF MOAB
 
 Chemosh (ke-mosh) was the national deity of Moab. This god was honored with cruel and perverse practices including child sacrifices like those of Molech. The account on the Moabite Stone (see below) states that “the anger of Chemosh” is the reason for Israel’s subjugation of Moab.
 
 Solomon made a fatal mistake of rearing an altar to Chemosh in Jerusalem (1 Kings 11:7, and this abomination was not destroyed until almost 300 years later during the purge carried out by Josiah (2 Kings 23:13).
 
-##THE MOABITE STONE
+##### THE MOABITE STONE
 
 The Moabite Stone is an important memorial of alphabetic writing. Erected by Mesha, king of Moab, to record his successful revolt against Israel and to give honor to the god Chemosh for his victory. The stone was set up about 850 BC
 
