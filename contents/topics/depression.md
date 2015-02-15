@@ -2,6 +2,7 @@
 title: "Depression - Bible Solutions"
 pdf: "depression.pdf"
 description: "A discussion of the problem of depression - Bible's advice."
+tableofcontents: true
 template: topic.jade
 ---
 
