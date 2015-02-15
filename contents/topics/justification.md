@@ -2,13 +2,9 @@
 title: "Justification"
 pdf: "justification.pdf"
 description: "Justification -  Outline of the doctrine of Justification."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Inspiration 0**
-
-**Justification**
 
 **Definition:**Justification is God’s act of grace by which He pardons a
 sinner and accepts him as righteous on account of the atoning work of
