@@ -2,12 +2,9 @@
 title: "Macedonia"
 pdf: "macedonia.pdf"
 description: "the Greek province; home of Alexander the Great."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-Macedonia
-=========
 
 From
 [Macedonia](http://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)),
