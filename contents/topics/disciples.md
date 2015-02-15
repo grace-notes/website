@@ -1,7 +1,9 @@
 ---
 title: "Christ's Disciples"
+indexTitle: "Disciples, Christ's"
 pdf: "disciples.pdf"
 description: "Biographies of the twelve and other disciples"
+tableofcontents: true
 template: topic.jade
 ---
 
