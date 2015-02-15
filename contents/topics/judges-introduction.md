@@ -3,14 +3,11 @@ title: "Introduction to Judges"
 indexTitle: "Judges, Introduction"
 pdf: "judges_introduction.pdf"
 description: "from Commentary on the Old Testament - Leviticus, by C. F. Keil and F. Delitzsch."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Introduction\\ to\\ Judges</sup>
-
 Contents and Character, Origin and Sources, of the Book of Judges.
-==================================================================
 
 The book of Judges, headed *Shophetim* in the Hebrew Bibles, and Κριταί
 in the Alexandrian version, and called *liber Judicum* in the Vulgate,
