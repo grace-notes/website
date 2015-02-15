@@ -1,14 +1,13 @@
 ---
-title: "Chapter Titles"
+title: "Bible Chapter Titles"
 pdf: "chaptertitles_bible.pdf"
 description: "a title for each chapter in the Bible."
 tableofcontents: true
 template: topic.jade
 ---
 
+#### Genesis
 
-Bible Chapter Titles
-====================
 1. Creation & Recreation
 2. Creation & Recreation Recap
 3. The Fall of Man
