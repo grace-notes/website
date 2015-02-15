@@ -1,18 +1,14 @@
 ---
-title: John The Baptist
+title: "John The Baptist"
+pdf: "johnthebaptist.pdf"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**John the Baptist 41**
-
-**John the Baptist**
 
 **by Pastor Mark Perkins, Front Range Bible Church, Denver, Colorado,
 USA**
 
-The Birth of John the Baptist
-=============================
+##### The Birth of John the Baptist
 
 We know the situation in Israel at this time; we know the history; and
 we know that the Messiah is going to come. It is a great thing to look
@@ -30,7 +26,6 @@ his language is very Greek, the speculation is this: that Luke records
 here the memories of Mary, the mother of Jesus.
 
 Introduction
-------------
 
 **Luke 1:5-7**, “In the days of Herod, king of Judea, there was a
 certain priest named Zacharias, of the division of Abijah; and he had a
@@ -139,7 +134,6 @@ The great multitude of people may indicate that there was a feast or
 that this was a holy day but we can only guess at that.
 
 Zacharias encounters a surprise
--------------------------------
 
 **Luke 1:11,12** “And an angel of the Lord was seen by him, standing to
 the right of the altar of incense. And when he saw this, Zacharias was
@@ -163,7 +157,6 @@ terrible is about to happen. But he does not suspect in the least what
 it is all about.
 
 The angel speaks
-----------------
 
 **Luke 1:13-17**, “But the angel said to him,”Do not be afraid,
 Zacharias, for your petition has been heard, and your wife Elizabeth
@@ -296,7 +289,6 @@ Lord, until he develops a proper response. When he finally opens his
 mouth good things come forth.
 
 Elizabeth conceives
--------------------
 
 **Luke 1:24,25**, “And after these days Elizabeth his wife became
 pregnant; and she kept herself in seclusion for five months, saying, ‘So
@@ -309,7 +301,6 @@ Messiah, but ashamed to even go out. It is going to take a visit from
 Mary to get her out of her funk.
 
 Elizabeth Gives Birth to the Forerunner
----------------------------------------
 
 Luke 1:57-66
 
@@ -329,7 +320,6 @@ to be. A prophet? The Messiah himself? There was a lot of serious
 thinking going on the subject.
 
 Zacharias’ Prophecy
--------------------
 
 **Luke 1:67-69**. And his father Zacharias was filled with the Holy
 Spirit, and prophesied, saying: ’Blessed be the Lord God of Israel, for
@@ -388,14 +378,12 @@ from believing in Christ, and to destroy our relationship with God.
 The light guides us into the way of peace (prosperity).
 
 John the Baptist’s Childhood
-----------------------------
 
 **Luke 1:80**, “And the child continued to grow, and to become strong in
 spirit, and he lived in the deserts until the day of his public
 appearance to Israel.”
 
 Preparing the Way of the Lord (Isaiah 40)
------------------------------------------
 
 The Jews received the call to leave Egypt. They were to proceed to the
 promised land under the leadership of Moses. Between them and the
@@ -492,7 +480,6 @@ Bible truth is the bulldozer in the soul. Sin and death and Satanic
 propaganda are the great mountains and gullies.
 
 Jesus and John the Baptist
---------------------------
 
 John the Baptist had a ministry from God to prepare Israel for the
 millennial kingdom and its king.
@@ -1144,10 +1131,9 @@ what John the apostle has already stated in verses 6 through 8. At the
 time of his ministry John the Baptist knew exactly where he stood with
 reference to his second cousin, the Messiah.
 
-The Accession of John the Baptist
----------------------------------
+##### The Accession of John the Baptist
 
-### Introduction
+###### Introduction
 
 Note the distinction: to this point John has pointed the way to Christ,
 and noted Christ’s superiority; here he completely accedes to Jesus,
@@ -1680,8 +1666,7 @@ in Him, and does not make reference to post salvation obedience.
 
 This verse does not undermine eternal security.
 
-Christ on John the Baptist
-==========================
+##### Christ on John the Baptist
 
 Matthew 11:2-19
 
