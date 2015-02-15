@@ -1,14 +1,10 @@
 ---
-title: "Pastor-Teachers"
+title: "Pastor-Teachers in the Church Age"
 pdf: "pastorteachers.pdf"
 description: "Pastor-Teachers -  the pastor-teacher has a spiritual gift that he does not deserve and cannot earn."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Pastor Teachers 2**
-
-Pastor Teachers in the Church Age  
 
 Functions and Responsibilities
 
