@@ -2,13 +2,11 @@
 title: "Josephus"
 pdf: "josephus.pdf"
 description: "Jewish historian and general in the war of the Jews against the Romans in A.D. 66-70."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Josephus</sup>
-
-**Josephus, Flavius**jō-sēʹfes, flāʹveēs. Jewish historian and general
+**Josephus, Flavius**  Jewish historian and general
 in the war of the Jews against the Romans in a.d. 66–70. Josephus was
 born the son of a distinguished priestly family sometime between Sept.
 13, a.d. 37, and March 16, 38, and died probably ca a.d. 100 in Rome.
