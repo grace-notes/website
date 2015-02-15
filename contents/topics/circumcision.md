@@ -2,6 +2,7 @@
 title: "Circumcision"
 pdf: "circumcision.pdf"
 description: "The importance of the doctrine of Circumcision in Church Age teaching."
+tableofcontents: true
 template: topic.jade
 ---
 
