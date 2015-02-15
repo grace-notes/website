@@ -2,6 +2,7 @@
 title: "Dispersion (Diaspora)"
 pdf: "dispersion.pdf"
 description: "The term used to designate the Jews living outside Palestine and maintaining their religious observances and customs among the Gentiles."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -16,7 +17,7 @@ heavenly homeland.  This article will be concerned with the Dispersion
 situation mainly in the 1st cent and especially in the lands connected
 with the NT.
 
-## I.  Extent
+##### I.  Extent
 
 James prefaced his judgment at the Jerusalem Council with the
 significant remark that “from earliest generations Moses has had in
@@ -71,7 +72,7 @@ explanation is inadequate, and the conclusion must be drawn that Jewish
 proselyting activities were much more successful than is usually
 supposed.
 
-## II. Causes
+##### II. Causes
 
 According to the OT prophets, the ultimate cause for the Dispersion was
 that Israel had sinned (e.g., Jer. 9:16). The more proximate causes were
@@ -91,7 +92,7 @@ Greek cities.
 
 III. Distribution of Dispersion Jewry
 
-### A. In the East
+###### A. In the East
 
 As a result of the Babylonian Exile of Judeans after 597
 B.C., a sizable Jewish Dispersion developed in the eastern regions:
@@ -115,7 +116,7 @@ tradition. In the 6th cent A.D. their rabbis produced the Babylonian
 Talmud, the most extensive and influential piece of postbiblical Jewish
 literature.
 
-### B. Syria
+###### B. Syria
 
 Since it was Palestine’s neighbor, Syria early received its
 share of Jewish immigrants.  The first clear notice of Jews settling
@@ -131,7 +132,7 @@ of the Dispersion (Josephus BJ vii.3.3). Philo testifies that the Jews
 lived in Syria “in large numbers in every city” (De legatione ad Gaium
 33). In Antioch they occupied an entire quarter.
 
-### C.  Egypt
+###### C.  Egypt
 
 The Egyptian Dispersion was established early, but its origin is not
 precisely understood. Some Jews were taken as prisoners by Sheshonq (the
@@ -164,7 +165,7 @@ the Dispersion developed very early in Egypt.  Philo and Josephus
 testify that by the 1st cent A.D. it had become a strong minority force
 in Romancontrolled Egypt.
 
-### D.  Alexandria
+###### D.  Alexandria
 
 Jewish influence in Egypt was most strongly felt in the great Greek city
 Alexandria. At its founding in 332 B.C. the Jews seem to have been
@@ -192,7 +193,7 @@ been skeptical of this figure; but S.  Baron, the author of the most
 recent authoritative work on the subject, believes that Philo’s estimate
 is quite possible.
 
-### E.  Asia Minor
+###### E.  Asia Minor
 
 The favorable Seleucid policy that helped to people the Syrian cities
 with Jews was used in Asia Minor as well. In one instance Antiochus III
@@ -210,7 +211,7 @@ concrete evidence of thirty-one Jewish communities in Asia Minor and
 Cyprus. It may be safely inferred that many more have left no mark of
 their existence.
 
-### F.  Greece and Macedonia
+###### F.  Greece and Macedonia
 
 Jews were less numerous in the Balkan Peninsula than in Asia Minor. This
 was probably because there were few Roman colonies there, for the Jews
@@ -224,7 +225,7 @@ some Jews lived in Delphi in the 2nd cent B.C. By that time Jewish
 settlements had been established at Sparta and Sicyon as well (1 Macc.
 15:23).
 
-### G.  Italy and the West
+###### G.  Italy and the West
 
 Outside the capital city, Rome, not many Jews lived in Italy. The only
 other localities where literature and inscriptions reflect the presence
@@ -241,7 +242,7 @@ Jewish heritage in western Europe in subsequent centuries requires the
 conclusion, despite the lack of direct testimony, that Jews had already
 become rooted there by the lst century.
 
-### H.  Rome As early as 161 B.C. Judas Maccabeus had negotiated a treaty for
+###### H.  Rome As early as 161 B.C. Judas Maccabeus had negotiated a treaty for
 mutual defense and friendship with the Roman senate. This treaty was
 renewed by Jonathan (144 B.C.), Simon (141 B.C.), and John Hyrcanus (129
 B.C.) (1 Macc. 8:17; 12:1; 14:24). On each of these occasions an embassy
@@ -282,9 +283,9 @@ political allies. When Caesar died many peoples lamented him, but “above
 all the Jews, who even flocked to the palace for several successive
 nights” (Suetonius Caesar 84).
 
-## IV. Characteristics
+##### IV. Characteristics
 
-### A.  Political Relationships
+###### A.  Political Relationships
 
 Wherever the Jews may have been dispersed they still belonged to “the
 Nation of the Jews.” Pilgrimages to Jerusalem, the annual tax paid by
@@ -343,7 +344,7 @@ are generalizations. They should not be allowed to obscure the fact that
 Jewish community structure was expressed in a unique way in every
 locality.
 
-### B.  Socioeconomic Status
+###### B.  Socioeconomic Status
 
 The activities of Jews in the economic world were just as varied as were
 their political positions. Most discussions of the means of livelihood
@@ -368,7 +369,7 @@ Minor, Syria, and North Africa the bulk of the Jewish population was
 quite poor. It would seem that in the Dispersion as a whole the Jews
 were more often than not of the lower middle class and below.
 
-### C.  Anti-Semitism
+###### C.  Anti-Semitism
 
 The generally low socioeconomic status of the Jewish communities may
 partly explain the widespread anti-Jewish sentiment among pagan peoples.
@@ -388,7 +389,7 @@ that the Jews were socially aloof, clannish, and proud of their inferior
 way, and they refused to conform. Nonconformity is the simplest and most
 common cause of antagonism in human relationships.
 
-### D. Cultural Integrity
+###### D. Cultural Integrity
 
 The Jews were different, but how different were they? There are two
 trends of thought as to how successfully the Jews maintained their
@@ -450,7 +451,7 @@ either to fall into complete apostasy or to withdraw into an exclusive
 form of “Jewishness.” There is therefore no basis for supposing that
 Dispersion Jewry was necessarily Hellenistic.
 
-### E.  Religious Orthodoxy
+###### E.  Religious Orthodoxy
 
 Nor is there any evidence that the Judaism of the Dispersion was
 particularly heterodox. Goodenough has attempted to prove that the
@@ -493,7 +494,7 @@ encourage proselytism, but this was not sanctioned by the majority of
 Dispersion Jews.  The Judaism that Paul encountered in his journeys was
 distinctly and consistently orthodox.
 
-### F.  Proselytism
+###### F.  Proselytism
 
 It may seem strange that a religious group so aloof, so unyielding, so
 much the object of prejudice and ridicule should attract large numbers
@@ -539,9 +540,9 @@ witnesses to a general desire for significant religious experience. Yet
 nowhere outside of Judaism and Christianity were the ethical and the
 religious successfully combined.
 
-## V.  Importance to Early Church History
+##### V.  Importance to Early Church History
 
-### A.  The Septuagint
+###### A.  The Septuagint
 
 A number of factors lead to the conclusion that, whatever else the
 Dispersion may have been, it was a providentially ordained preparatory
@@ -561,7 +562,7 @@ Long before they came to a given community the ground had been
 unknowingly cultivated by Jews who had distributed the translation of
 the OT in the common tongue.
 
-### B.  Synagogues
+###### B.  Synagogues
 
 Wherever the Jews established themselves in any numbers a
 synagogue quickly developed. Throughout the Dispersion the synagogue had
@@ -578,7 +579,7 @@ most Jews. It was in such synagogues that they received a hearing and
 proclaimed the gospel of Jesus Christ. A more efficient method of
 evangelizing the world of Dispersion Jewry can hardly be conceived.
 
-### C.  “God-fearers.”
+###### C.  “God-fearers.”
 
 As Paul stood to speak in a synagogue, he was faced with four more or
 less distinct classes of people: (1) Jews by birth, (2) proselytes, (3)
@@ -604,7 +605,7 @@ early converts to the Church had previously been “God-fearers,” among
 them Cornelius, Lydia, Titius Justus, and (probably) the Ethiopian
 eunuch.
 
-### D.  A “Licensed Religion.”
+###### D.  A “Licensed Religion.”
 
 Though the Jews saw Christianity as a religion alien to Judaism, the
 pagan world for a long time refused to view it as anything but a sect of
@@ -621,7 +622,7 @@ and worship could be illegal. So in whatever direction the Church was
 extended it was preceded by Dispersion Judaism, whose status as a
 licensed religion was applied to the Christian community as well.
 
-## VI. Conclusion
+##### VI. Conclusion
 
 The Dispersion has been interpreted in several ways: (1) as viewed by
 the OT prophets, it was a just punishment for Israel’s sin; (2) as
