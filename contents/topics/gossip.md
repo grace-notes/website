@@ -37,8 +37,7 @@ not” (1 Tim. 5:13).
 
 A. J. Birkey
 
-How to Have Victory Over Sins of the Tongue
--------------------------------------------
+##### How to Have Victory Over Sins of the Tongue
 
 1. Grow daily in conformity with the Lord Jesus Christ
 
