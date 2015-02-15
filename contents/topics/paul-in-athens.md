@@ -2,16 +2,11 @@
 title: "Paul in Athens"
 pdf: "paulinathens.pdf"
 description: "an account from Conybeare and Howson, The Life and Epistles of St. Paul of Paul's ministry in Athens."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Paul in Athens 22**
-
-**Paul in Athens**
-
 Arrival on the Coast of Attica
-------------------------------
 
 In the life of Apollonius of Tyana, there occurs a passage to the
 following effect: “ Having come to anchor in the Piraeus, he went up
@@ -80,7 +75,6 @@ its scenery that we may pause on our approach to say a few words on
 Attics and Athens, and their relation to the rest of Greece.
 
 Scenery Around Athens
----------------------
 
 Attica is a triangular tract of country, the southern and eastern aides
 of which meet in the point of Sunium; its third side is defined by the
@@ -292,7 +286,6 @@ conversation, and of business, when Athens could only be proud of her
 recollections of the past.
 
 The Agora
----------
 
 On the south side is the Pnyx,
 <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> a sloping hill partially
@@ -368,7 +361,6 @@ illustrates the inscription \`To the unknown God,” which was used by
 Apostolic wisdom (Acts 17:23) to point the way to the highest truth.
 
 The Acropolis
--------------
 
 What is true of the Agora is still more emphatically true of the
 Acropolis, for the spirit which rested over Athens was concentrated
@@ -620,7 +612,6 @@ nature. It could not even keep him from falling continually to a lower
 degradation.
 
 Greek Religion
---------------
 
 To the Greek this world was everything: he hardly even sought to rise
 above it. And thus all his life long, in the midst of everything to
@@ -711,7 +702,6 @@ the conflicts of the parties of Alexandria, and tracing the formation of
 the theology of the Schoolmen.
 
 The Stoics and Epicureans
--------------------------
 
 But the biographer of St. Paul has only to speak of the Stoics and
 Epicureans. They only, among the various philosophers of the day, are
@@ -993,7 +983,6 @@ deliberate exposition of the mysterious subjects, which now for the
 first time had been brought before their attention.
 
 The Areopagus
--------------
 
 The place to which they took him was the summit of the hill of
 Areopagus, where the most awful court of judicature had sat from time
@@ -1085,7 +1074,6 @@ enable us to imagine what Athens was when this temple was only one among
 the many ornaments of that city, which was \`crowded with idols”
 
 Paul’s Speech
--------------
 
 In this scene St. Paul spoke, probably in his usual attitude,
 \`stretching out his hand;” his bodily aspect still showing what he had
