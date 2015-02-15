@@ -2,13 +2,9 @@
 title: "Local Church"
 pdf: "localchurch.pdf"
 description: "Local Church -  a collection of Bible references dealing with the basic attitude and activities which are present in a local church."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Local Church 2**
-
-The Local Church  
 
 DESCRIPTION OF A LOCAL CHURCH
 
