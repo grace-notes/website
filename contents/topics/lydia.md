@@ -1,15 +1,10 @@
 ---
-title: "Lydia"
+title: "Lydia, the seller of purple"
 pdf: "lydia.pdf"
 description: "Lydia, being convinced that Jesus was the Messiah, and having made a profession of her faith, was forthwith baptized."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Lydia 2**
-
-**Lydia, the seller of
-purple**<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
 
 At the time of the visit of Paul and Silas on their 2<sup>nd</sup>
 missionary journey, the congregation at Philippi, which met here for
