@@ -1,6 +1,8 @@
 ---
-title: The Essence of God
-pdf: essence_singlecolumn.pdf
+title: "The Essence of God"
+titleIndex: "God, Esseence of"
+pdf: "essence_singlecolumn.pdf"
+tableofcontents: true
 template: topic.jade
 ---
 
