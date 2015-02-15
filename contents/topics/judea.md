@@ -3,14 +3,12 @@ title: "History of Judea"
 indexTitle: "Judea, History of"
 pdf: "judea.pdf"
 description: "Judea, History of -  An outline history of the land of Israel from the time of Alexander to Herod the Great; details of the activities of the Hasmonean family (Maccabees); profile of Herod the Great."
+tableofcontents: true
 template: topic.jade
 ---
+  
+**From Alexander to Herod the Great
 
-
-**Judea 4**
-
-**Judea, a Short History  
-**From Alexander to Herod the Great  
 Events of the 400 Silent Years
 
 During the times of the Biblical patriarchs, the Canaanites dominated
