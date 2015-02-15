@@ -2,13 +2,9 @@
 title: "Paul in Corinth"
 pdf: "paulincorinth.pdf"
 description: "Paul in Corinth -  an account of the apostle Paul's ministry in Corinth."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Paul in Corinth 12**
-
-**Paul in Corinth**
 
 When St. Paul went from Athens to Corinth, he entered on a scene very
 different from that which he had left. It is not merely that his
