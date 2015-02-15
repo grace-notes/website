@@ -2,6 +2,7 @@
 title: "Leprosy"
 pdf: "leprosy.pdf"
 description: "a study from the Old Testament on how leprosy was identified and treated. An exposition of Leviticus 13 and 14, Commentary on the Old Testament, by C. F. Keil and F. Delitzsch"
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -9,7 +10,6 @@ Commentary on Leviticus 13 and 14, from ***Commentary on the Old
 Testament***, C. F. Keil and F. Delitzsch
 
 Leviticus 13
-------------
 
 **Leviticus 13 and 14.** Leprosy.—The law for leprosy, the observance of
 which is urged upon the people again in Deut. 24:8, 9, treats, in the
