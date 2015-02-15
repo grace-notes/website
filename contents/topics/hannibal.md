@@ -2,11 +2,9 @@
 title: "Hannibal"
 pdf: "hannibal.pdf"
 description: "Hannibal -  When Hannibal was twenty-eight years old he had received a soldier's training through nineteen years in camp. He had disciplined his body to hardship, his appetite to moderation, his tongue to silence, his thought to objectivity."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>Hannibal</sup>
 
 [ from The Story of Civilization, Vol. III, Caesar and Christ, by Will
 Durant ]
