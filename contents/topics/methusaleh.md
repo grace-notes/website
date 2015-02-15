@@ -2,19 +2,9 @@
 title: "Methusaleh"
 pdf: "methusaleh.pdf"
 description: "Methusaleh -  The oldest man is the world may also be the most famous."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Methusaleh 3**
-
-Methusaleh
-
-by Dr. Randall E. Radic, Pastor
-
-First Congregational Church  
-100 N. Acacia Avenue  
-Ripon, California 95336
 
 Methusaleh may be one of the most famous people in the Bible. Most
 people know that there was some guy in the Bible who lived longer than
