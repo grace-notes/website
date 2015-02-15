@@ -1,11 +1,10 @@
 ---
-title: "Communion"
+title: "Communion and the Passover"
 pdf: "communion.pdf"
 description: "the Lord's Supper; derivation from the Passover"
+tableofcontents: true
 template: topic.jade
 ---
-
-**Communion and The Passover**
 
 The Passover feast became the communion table on the evening that Jesus
 Christ was betrayed, the evening of the last supper on which the Lord
