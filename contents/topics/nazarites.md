@@ -2,13 +2,9 @@
 title: "Nazarites"
 pdf: "nazarites.pdf"
 description: "The Nazarites were an ancient order of persons consecrated to God by means of a vow."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Nazarites 2**
-
-**Nazarites**
 
 NAZARITE – from [Heb ***nāzîr***—‘consecrated one,’ \< ***nāzar***, ‘to
 consecrate’; cf. also ***nāḏar***—‘to vow’; Gk ***nazeiraíos***, plus
@@ -16,8 +12,7 @@ various words indicating “holiness” or “devotion.” The basic meaning of
 the different Hebrew and Greek terms is that of “one consecrated, a
 devotee.”
 
-Origin and Nature
------------------
+##### Origin and Nature
 
 The Nazarites were an ancient order of persons consecrated to God by
 means of a vow. This order was the Israelite counterpart of the votive
@@ -58,8 +53,7 @@ by the text. The nature of the Nazarite vocation was consistently that
 of a distinctive, holy person who had dedicated himself to divine
 service and in return received certain spiritual endowments.
 
-Regulations
------------
+##### Regulations
 
 Basic to the Nazarite’s status was the vow, which when made voluntarily
 was probably marked by a ceremony of dedication that included a
@@ -104,8 +98,7 @@ offering to the door of the tabernacle and the sacrifice was performed
 by the priest. At that time the Nazarite’s hair was shorn and burned,
 signifying publicly the termination of the vow (Nu. 6:13–20).
 
-Nazarites in Scripture
-----------------------
+##### Nazarites in Scripture
 
 In the Old Testament the only lifelong Nazarites mentioned were Samson
 and Samuel. Whereas the former was especially designated in this way by
@@ -122,8 +115,7 @@ began to terminate at Cenchrea by cutting off his hair (Acts 18:18), and
 which was completed formally in Jerusalem with other Christians under
 Nazarite vows (Acts 21:23f).
 
-Later Developments
-------------------
+##### Later Developments
 
 By the New Testament period the Nazarite tradition was probably being
 encouraged in some areas of Essene life. According to Eusebius (*HE*
