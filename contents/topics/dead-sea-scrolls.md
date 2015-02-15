@@ -1,6 +1,7 @@
 ---
 title: "Dead Sea Scrolls"
 description: "The name generally given to the manuscripts and fragments of manuscripts of the Bible discovered in caves near the northwestern end of the Dead Sea in the period between 1946 and 1956."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -18,10 +19,9 @@ is one of the greatest recent archeological discoveries, and for
 biblical studies certainly one of the greatest manuscript discoveries of
 all times.
 
-I. Discoveries
---------------
+##### I. Discoveries
 
-### A. Original Finds ###
+##### A. Original Finds ###
 
 The story of the “discovery” of the DSS has been
 told many times, and with some significant variations.
@@ -142,7 +142,7 @@ Map, which is about 6.8 mi (11 km) S of Jericho, 2.2 mi (3.5 km) N of
 northwestern shore of the Dead Sea and about 1000 ft (305 m) above the
 surface of the sea (which is 1292 ft [394 m] below sea level).
 
-### B. Subsequent MS Discoveries ###
+##### B. Subsequent MS Discoveries ###
 
 Materials that were obviously related
 to the original finds were turning up in the hands of various
@@ -223,7 +223,7 @@ Mahras*), Khirbet Mird, and pertinent texts from the Cairo Genizah (pp.
 (p. 65). There is no published inventory of all the items discovered at
 Qumrân.
 
-### C. The “Monastery” ofQumrân ###
+##### C. The “Monastery” ofQumrân ###
 
 The region above the cliffs that flank
 the northwestern shore of the Dead Sea is a shallow depression known as
@@ -454,10 +454,9 @@ The relevance of the excavation of Khirbet Qumrân to the dating and
 interpretation of the DSS will become apparent upon examination of the
 Scrolls in detail.
 
-II. The Qumrân Community
-------------------------
+##### II. The Qumrân Community
 
-### A. Manuscript Evidence ###
+##### A. Manuscript Evidence ###
 
 From the caves at Qumrân came the remains of
 hundreds of MSS that could be categorized as follows: canonical
@@ -532,7 +531,7 @@ theorizers, and no other explanation of the ruins can be supported by
 other evidence. The MSS explain the Khirbet, and the ruins explain the
 presence and contents of the MSS.
 
-### B. Origin of the Community ###
+##### B. Origin of the Community ###
 
 There can be no doubt that the Qumrân
 community was a Jewish sect, using the term “sect” in much the same way
@@ -600,7 +599,7 @@ of Jerusalem” (1QpHab 9:4f), particularly for “the wicked priest” who
 Possibly the same wicked priest is referred to as “the man of the lie”
 (2:11f) and “the preacher of the lie” (10:9).
 
-### C. Names for the Community ###
+##### C. Names for the Community ###
 
 The most common term, used more than a
 hundred times, is “the Community” (*hayyaḥaḏ*), often combined with
@@ -644,7 +643,7 @@ cols 6–8 of 1QS, and with significant use in cols 13–15 of CD. Each
 occurrence must be studied carefully in context, for the word is used in
 every possible way.
 
-### D. Organization ###
+##### D. Organization ###
 
 Authority was committed to the priests, the “sons
 of Zadok” (or “the sons of Aaron”), but one priest seems to stand above
@@ -707,7 +706,7 @@ successfully completed his second year. At that time he was mustered
 position (1QS 6:13–33). The provisions in QSa1 1:19–21; 2:3–9 add other
 details, but these may apply to a smaller group within the community.
 
-### E. Daily Life ###
+##### E. Daily Life ###
 
 That Qumrân was a sectarian community that separated
 itself from Jerusalem Judaism cannot be disputed. Its relationship to
@@ -809,7 +808,7 @@ banishment (or excommunication) was a possibility (7:19–21), either for
 two years, or, in the case of one who had been a member for more than
 ten years, permanently (7:24f).
 
-### F. Doctrine of God ###
+##### F. Doctrine of God ###
 
 Since Qumrân was a Jewish sect with its roots in
 the Hebrew Scriptures, its doctrine of God is essentially that of
@@ -839,7 +838,7 @@ spirits (1QS 3:17, 25), and He has decreed their times and their works
 (4:25f). God is ruler over all angels and spirits, including Belial and
 Mastema (which seems to be another name for Belial; cf. 1QM 13:9–13).
 
-### G. Doctrine of Man ###
+##### G. Doctrine of Man
 
 Although the last and highest being created, man
 was tempted and disobeyed God’s command. Thus the Hebrew Bible tells of
@@ -874,7 +873,7 @@ community’s salvation in the end time (1Q*27* 5–8; 1QpHab 7:1–8; 1QS
 Mensch zwischen zwei Welten, Der dualismus der Texte von Qumran (Hohle
 I) und der Damaskusfragmente* (1959).
 
-### H. Eschatology ###
+##### H. Eschatology
 
 The community believed it was the last generation,
 living at the end of the age (QSa1 1:1f; CD 1:10–13). The War Scroll
@@ -964,7 +963,7 @@ Attempts to identify other eschatological figures, such as “the seeker”
 especially the (or a) “Teacher of Righteousness” (see below), have found
 no general agreement.
 
-### I. Teacher of Righteousness ###
+##### I. Teacher of Righteousness ###
 
 The term *môrê haṣṣeḏeq* “teacher of
 righteousness” or “righteous teacher” occurs seven times in the Habakkuk
@@ -1033,15 +1032,14 @@ areas has been attempted in LaSor, *Dead Sea Scrolls and the NT*, pp.
 [1957]; BJRL, 44 [1961/62], 119–156; 40 [1957/58], 114–146; 49
 [1966/67], 203–232.)
 
-III. Significance of the Scrolls
---------------------------------
+##### III. Significance of the Scrolls
 
 Assessment of the values of the Qumrân discoveries must be limited in
 this article to the areas relevant to biblical studies. These may be
 grouped as: text and canon of the OT; developments in early
 (“intertestamental”) Judaism; and relationship to the NT.
 
-### A. Text and Canon ###
+##### A. Text and Canon
 
 Prior to the discovery of the DSS, witnesses to
 the OT text and canon were principally the following: (1) the so-called
@@ -1134,7 +1132,7 @@ objectively establish canonicity for that group, or for any other group.
 “The inner testimony of the Spirit” may well be the principal basis for
 canonicity.
 
-### B. Developments in Early Judaism ###
+##### B. Developments in Early Judaism
 
 The relevance of the rise of
 Judaism to biblical studies may not be readily understood, but just a
@@ -1237,7 +1235,7 @@ found at Qumrân. The DSS in no way undermine the uniqueness of Jesus
 Christ, but they do help define more precisely wherein that uniqueness
 lies.
 
-### C. Relationship to the NT ###
+##### C. Relationship to the NT
 
  A question often asked is, “Why were
 there no NT writings among the DSS?” Some NT fragments were found at
@@ -1369,7 +1367,7 @@ Qumrân community, but was entirely voluntary in the Church (Acts 4:5).
 B. Reicke, “Constitution of the Primitive Church,” in Stendahl, ed, pp.
 143–156.)
 
-### D. Uniqueness of Christ ###
+##### D. Uniqueness of Christ 
 
 According to some writers on the subject,
 and in the mind of many who have read only the more sensational books on
