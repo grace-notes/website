@@ -2,14 +2,14 @@
 title: "The Church, the Body of Christ"
 pdf: "church.pdf"
 description: "Many people think of church in terms of brick and mortar, program and form. But in these passages you will learn that the Church is a spiritual organism, dear to the heart of God the Father."
+tableofcontents: true
 template: topic.jade
 ---
 
 This article is compiled from the teachings of Chester McCalley, late
 pastor of Beth Haven Church in North Kansas City, Missouri.
 
-Introduction
-------------
+##### Introduction
 
 This study is outlined around seven Bible passages which deal
 specifically with the Church, the Body of Christ.
@@ -18,8 +18,7 @@ Many people think of church in terms of brick and mortar, program and
 form. But in these passages you will learn that the Church is a
 spiritual organism, dear to the heart of God the Father.
 
-Jesus’ Use of the Word “Church”
--------------------------------
+##### Jesus’ Use of the Word “Church”
 
 **Matthew 16:16-18**
 
@@ -58,8 +57,7 @@ corrects three common errors:
 **The church’s durability** – “the gates of hell shall not overpower
 it.”
 
-What is the Church?
--------------------
+##### What is the Church?
 
 **Ephesians 1:22, 23**
 
@@ -85,8 +83,7 @@ The Bible relates Jesus Christ to the church in three ways:
 firstborn from the dead, so that He Himself will come to have first
 place in everything.
 
-How Do We Enter the Church?
----------------------------
+##### How Do We Enter the Church?
 
 **1 Corinthians 12:13**
 
@@ -109,8 +106,7 @@ The church described as Christ’s body is used in two ways in the Bible.
     geographical sense. Thus, 1 Corinthians 1:2 speaks of the church “at
     Corinth.”
 
-When Was the Church Formed?
----------------------------
+##### When Was the Church Formed?
 
 **Acts 1:4,5**
 
@@ -164,8 +160,7 @@ baptized with water, but you will be baptized with the Holy Spirit.’
 after believing in the Lord Jesus Christ, who was I that I could stand
 in God’s way?”
 
-The Church as a Reality
------------------------
+##### The Church as a Reality
 
 **Acts 5:11**
 
@@ -176,8 +171,7 @@ Therefore, the church became an existing, present reality on the Day of
 Pentecost, and from that point forward, the church is a prominent part
 of Christian life.
 
-Summary
--------
+##### Summary
 
 The church was future to Jesus Christ’s ministry both before His death
 on the cross and after He rose from the dead.
@@ -189,8 +183,8 @@ the Holy Spirit.
 The baptism of the Holy Spirit occurred for the first time on the Day of
 Pentecost, from which time the church became a living reality.
 
-Conclusions
------------
+##### Conclusions
+
 
 The church is *never* referred to in the Bible as a building. The first
 building actually known to have been used for congregational gatherings
