@@ -3,13 +3,9 @@ title: "The Heavenlies"
 indexTitle: "Heavenlies, The"
 pdf: "heavenlies.pdf"
 description: "Heavenlies, The -  Brief notes on the locations known as the heavenlies or heavenly places."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Five Cycles of Discipline 0**
-
-The Heavenlies
 
 The **heavenlies** (or, “heavenly places”) is the location of divine
 blessing, including all the blessings of Christian maturity
