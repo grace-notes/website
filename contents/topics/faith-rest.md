@@ -2,17 +2,11 @@
 title: "Faith-Rest"
 pdf: "faithrest.pdf"
 description: "Faith-Rest -  The practice of enjoying the peace of God. How to claim promises; how to be stable and relaxed; how to enjoy happiness that doesn't depend on people, circumstances or things."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Faith-Rest12**
-
-**Faith-Rest**
-
-Knowing and Applying the Promises of God
-
-Introduction
+##### Knowing and Applying the Promises of God
 
 One of the consistent features of the Christian life is testing. We live
 in a fallen world, in an imperfect society, among people whose way of
@@ -61,7 +55,7 @@ praise and honor and glory at the appearing of Jesus Christ.”
 God, that he may exalt you in due time, casting all your care upon him;
 for he cares for you.”
 
-Definition of Faith-Rest
+##### Definition of Faith-Rest
 
 **Faith-Rest is the** process of understanding, believing, and applying
 the doctrines and promises of God’s word in times of testing in the
@@ -93,7 +87,7 @@ The other reason for failure is seen in the children of Israel
 wilderness generation. They heard the teaching but did not mix it with
 faith, so they did not enter into the actual rest of the promised land.
 
-Examples of Faith-Rest
+##### Examples of Faith-Rest
 
 In this section, there are several examples from the Bible in which the
 people of God had ample information on which to base their faith in God.
@@ -252,7 +246,7 @@ stars. Finally, Abraham believes God. He has about fifteen more years to
 wait before Isaac is born, but he is able to wait patiently and have
 inner peace because he has laid his burden on the Lord.
 
-The Bitter Water Test - Exodus 15
+##### The Bitter Water Test - Exodus 15
 
 Have you ever had a wonderful Sunday attending church, worshipping the
 Lord, enjoying the fellowship of believers, everything that make you
@@ -397,7 +391,7 @@ God’s plan.
 people an evil congregation and pronounces the sin unto death on the
 majority of the adult population.
 
-The Second No Water Test is in Numbers 20
+##### The Second No Water Test is in Numbers 20
 
 Historically, now, we are near the end of the forty years wandering
 occasioned by the sins and unbelief of the previous generation. Most of
@@ -554,7 +548,7 @@ The key to the success of the Faith-Rest system lies in the validity of
 the object of our faith, the word of God. Therefore, every aspect of the
 perfect character or essence of God the Father supports Faith-Rest.
 
-How to Apply Faith-Rest
+##### How to Apply Faith-Rest
 
 The objective of Bible teaching is the presentation of Bible doctrine
 which the Christian can use in his daily life. People differ in their
@@ -609,7 +603,7 @@ The steps in the Faith-Rest technique are:
 
 4.  Take control of the situation as you reach doctrinal conclusions.
 
-An Example of Faith-Rest - Victory Over Fear
+##### An Example of Faith-Rest - Victory Over Fear
 
 Because concentration on Bible truth is so important, your mental
 attitude is a prime target of Satan’s attacks against the power of the
