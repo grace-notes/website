@@ -2,21 +2,17 @@
 title: "Names of God"
 pdf: "namesofgod.pdf"
 description: "notes from the Scofield Reference Bible on the names of Jehovah."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**The Names of God 6**
-
-**The Names of God**<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
 
 These are notes extracted from the Scofield Reference Bible regarding
 the names of God.
 
 **Gen. 1:1**, “In the beginning God created the heavens and the earth.”
 
-1.  Elohim
-    ======
+##### Elohim
 
 The name here is Elohim, the first of the names of deity, a plural noun
 in form but singular in meaning when it refers to the true God. The
@@ -32,8 +28,7 @@ created he him; male and female created he them.”
 
 The plural form of the word suggests the trinity.
 
-1.  El Elyon
-    ========
+##### El Elyon
 
 In **Gen. 14:18**, the phrase the most high God is El Elyon, meaning
 simply highest. El Elyon is God the highest.
@@ -73,8 +68,7 @@ The most high God exercises earthly authority (**Deut. 32:5; 2 Sam.
 22:14, 15; Psalm 9:2-5; 21:7; 47:2-4; 56:2, 3; 83:16-18; 91:9-12; Dan.
 5;18**).
 
-1.  Adonai
-    ======
+##### Adonai
 
 **Gen. 15:2**, “And Abram said, Lord God, What will you give me, seeing
 I go childless…”
@@ -101,8 +95,7 @@ Jehovah [Lord] who answers (referring to creation power), “and the Lord
 said unto him, Who has made man’s mouth?…now, therefore go, and I will
 be with thy mouth.” The same distinction appears in **Josh. 7:8-11**.
 
-1.  Adonai Jehovah
-    ==============
+##### Adonai Jehovah
 
 When used distinctively (e.g. Gen. 15:2), this compound name, while
 gathering into one the special meanings of each, will be found to
@@ -111,8 +104,7 @@ illustrated in the following passages: **Gen. 15:2, 8; Deut. 3:24; 9:26;
 Josh. 7:7; Judges 6:22; 16:28; 2 Sam. 7:18-20, 28, 29; 1 Kings 2:26;
 Psalm 69:6; 71:5; Isa. 7:7.**
 
-1.  El Shaddai
-    ==========
+##### El Shaddai
 
 **Gen. 17:1**, “And when Abram was ninety-nine years old, the Lord
 appeared to Abram, and said unto him, I am the Almighty God; walk before
@@ -139,8 +131,7 @@ the characteristic name of God in Job. The hand of Shaddai falls upon
 Job, the best man of his time, not in judgment but in purifying unto
 greater fruitfulness (**Job.5:17-25**).
 
-1.  El Olam
-    =======
+##### El Olam
 
 **Gen. 21:33**, “And Abraham planted a grove in Beer-Sheba, and called
 there on the name of the Lord, the everlasting God.”
@@ -152,8 +143,8 @@ hides); (2) of an indefinite time or age (**Lev. 25:32**, at any time;
 eternal duration of the being of God (**Psalm 90:2**, from everlasting
 to everlasting). It is also the Hebrew synonym of the Greek aion, age.
 
-1.  Jehovah
-    =======
+#####  Jehovah
+
 
 **Exodus 34:6, 7**, “Then the Lord passed by before him, and proclaimed,
 The Lord, The Lord God, merciful and gracious, long suffering, and
@@ -251,8 +242,7 @@ the Lord which are in some cases similar to compound names of Jehovah,
 but are not properly so, such as in **Psalm 23:1; 27:1; 28:1; 61:3, 4,
 and 62:6, 7**.
 
-1.  Jehovah Sabaoth
-    ===============
+#####  Jehovah Sabaoth
 
 **1 Sam. 1:3**, “Now this man went up out of his city yearly to worship
 and to sacrifice unto the Lord of hosts in Shiloh . . .”
@@ -284,8 +274,7 @@ in the time of her division and failure (**1 Kings 18:15; 19:14; Isa.
 1:9; 8:11-14; 9:13-19; 10:24-27; 31:4-5; Hag. 2:4; Mal. 3:16, 17; James
 5:4**).
 
-1.  Summary
-    =======
+##### Summary
 
 The revelation of God by His names is invariably made in connection with
 some particular need of His people, and there can be no need of man who
