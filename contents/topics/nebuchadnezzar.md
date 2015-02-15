@@ -2,11 +2,9 @@
 title: "Nebuchadnezzar"
 pdf: "nebuchadnezzar.pdf"
 description: "King of Babylon (605-562 BC) and conqueror of Jerusalem."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>Nebuchadnezzar</sup>
 
 From International Standard Bible Encyclopedia
 
@@ -16,8 +14,7 @@ From International Standard Bible Encyclopedia
 protect …’ or ‘… the accession-rights’; Gk *Nabouchodonosor*]. King of
 Babylon (605–562 b.c.) and conqueror of Jerusalem.
 
-I. Forms of the Name
-====================
+##### I. Forms of the Name
 
 The form *n*<sup>*e*</sup>*ḇûḵaḏre˒ṣṣar* (and its variants), with an
 *r*, occurs thirty-three times in the OT — twenty-nine times in
@@ -39,8 +36,7 @@ Ezekiel are unquestionably from the time of the king, their evidence may
 be stronger — but the evidence of Daniel and of Jer. 27–29 is not to be
 brushed aside lightly.
 
-II. Historical Sketch
-=====================
+##### II. Historical Sketch
 
 Nebuchadrezzar, frequently called “king of Babylon” in the OT, was the
 son of Nabopolassar (a usurper of the throne). His sons were Awîl-Marduk
@@ -142,8 +138,7 @@ have left inscriptions, must be placed in this period (cf. Dnl. 4:30;
 *see* Babylon IV). And, of course, the siege and destruction of
 Jerusalem occurred in this period (*see* Jerusalem III.E).
 
-III. Biblical Significance
-==========================
+##### III. Biblical Significance
 
 Since Nebuchadrezzar is named about ninety times in the OT, his
 importance is to be carefully evaluated. It falls biblically into two
