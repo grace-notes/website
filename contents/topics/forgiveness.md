@@ -6,7 +6,7 @@ tableofcontents: true
 template: topic.jade
 ---
 
-The word “forgive” is a Grace word, in the English as well as in the Greek (**ajfesi\~**). An early meaning in English was “to give or to grant”. Then, forgive came to mean “to remit a debt; to give up resentment or claim for requital; to pardon an offense.”
+The word “forgive” is a Grace word, in the English as well as in the Greek (**ἄφεσις**). An early meaning in English was “to give or to grant”. Then, forgive came to mean “to remit a debt; to give up resentment or claim for requital; to pardon an offense.”
 
 All of us are debtors to others, to society as a whole. And we often feel that people owe us many things in our human relationships. We feel we are owed courtesy and consideration. Sometimes we think that we are owed reward or status or promotion in some enterprise, or on the job. We are certainly owed fair treatment, justice, restitution and many other
 things.
