@@ -3,6 +3,7 @@ title: "Baptism of the Holy Spirit"
 indexTitle: "Holy Spirit, Baptism of the"
 pdf: "holyspirit_baptism.pdf"
 description: "Holy Spirit, Baptism of the -  The Holy Spirit’s work by which he places each believer into Union with Christ."
+tableofcontents: true
 template: topic.jade
 ---
 **Introduction.**
