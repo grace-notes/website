@@ -2,14 +2,9 @@
 title: "Iconium"
 pdf: "iconium.pdf"
 description: "Iconium -  Iconium was a city in the southwest part of central Asia Minor located about 95 miles (153 kilometers) from the Mediterranean coast."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**1**
-
-Iconium
-=======
 
 Iconium was a city in the southwest part of central Asia Minor located
 about 95 miles (153 kilometers) from the Mediterranean coast. It is
