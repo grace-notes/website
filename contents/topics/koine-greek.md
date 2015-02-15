@@ -3,14 +3,9 @@ title: "History of Koine Greek"
 indexTitle: "Koine Greek, History of"
 pdf: "koinegreek.pdf"
 description: "how the common Greek of the New Testament was formed."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Koine Greek 7**
-
-History of the Koine Greek
-==========================
 
 **Introduction** [M. Z. Kopidakis]
 
