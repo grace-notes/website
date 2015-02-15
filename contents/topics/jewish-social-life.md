@@ -1,5 +1,6 @@
 ---
-title: "Sketches of Jewish Social Life"
+title: "Sketches of Jewish Social Life
+indexTitle: "Jewish Social Life"
 pdf: "jewishsociallife.pdf"
 tableofcontents: true
 template: topic.jade
