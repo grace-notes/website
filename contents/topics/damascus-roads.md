@@ -3,6 +3,7 @@ title: "The Roads from Jerusalem to Damascus"
 indexTitle: "Damascus, Roads to"
 pdf: "damascusroads.pdf"
 description: "description of the various roads which Saul could have used to travel between Jerusalem and Damascus."
+tableofcontents: true
 template: topic.jade
 ---
 
