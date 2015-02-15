@@ -2,6 +2,7 @@
 title: "Happiness"
 pdf: "happiness.pdf"
 description: "Happiness -  The joy of God; a happiness that does not depend on people, things, or circumstances."
+tableofcontents: true
 template: topic.jade
 ---
 
