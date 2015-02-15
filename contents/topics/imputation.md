@@ -2,11 +2,9 @@
 title: "Imputation"
 pdf: "imputation.pdf"
 description: "Imputation -  How God the Father \"credits\" our sin to Christ and His righteousness to us."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Imputation2**
 
 **Introduction**
 
