@@ -1,10 +1,9 @@
 ---
-title: High Priests
+title: "High Priests"
+tableofcontents: true
+pdf: "highpriests.pdf"
 template: topic.jade
 ---
-
-
-**High Priests 2**
 
 **The Chronology of the High Priests**
 
