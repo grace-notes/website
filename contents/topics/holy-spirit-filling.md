@@ -1,15 +1,11 @@
 ---
-title: "Filling of the Holy Spirit"
+title: "The Filling of the Holy Spirit"
 indexTitle: "Holy Spirit, Filling of the"
 pdf: "holyspirit_filling.pdf"
 description: "Holy Spirit, Filling of the -  The empowering ministry brought about by the Holy Spirit's control of the believer's life."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Holy Spirit – Filling 3**
-
-The Filling of the Holy Spirit
 
 **Definition and Description.**
 
@@ -140,8 +136,7 @@ are mutually exclusive; 1 John 1:6-7; 1 John 2:10-11.
 The command to not participate in human good or evil is found in 1
 Thess. 5:19, “Do not quench the Spirit.”
 
-Applications
-------------
+##### Applications
 
 The positive and negative commands emphasize imitation as the issue in
 the spiritual life. We either imitate God or people, Eph. 5:1.
@@ -199,8 +194,7 @@ Gal. 5:18, “If you are led by the Spirit you are not under the Law.”
 Zech. 4:6, “\`Not by might, nor by power, but by My Spirit,’ says the
 Lord.”
 
-Comments
---------
+##### Comments
 
 In the church age, a believer represents the absent Christ, who is now
 at the right hand of the Father. Therefore, the purpose of the filling
@@ -228,8 +222,7 @@ Ezek. 36:27, 37:14; Jer. 31:33. Believers in the Millennium are also
 filled with the Holy Spirit, Isa. 29:19 – does not appear to apply to
 the Millennium period, 32:15, 44:3; Ezek. 39:29; Zech. 12:10.
 
-Oil as an Analogy for the Filling of the Holy Spirit
-----------------------------------------------------
+##### Oil as an Analogy for the Filling of the Holy Spirit
 
 Oil is used as an analogy to the filling of the Holy Spirit. 1 John
 2:20, 21.
