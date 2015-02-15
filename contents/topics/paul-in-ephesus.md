@@ -2,16 +2,11 @@
 title: "Paul in Ephesus"
 pdf: "paulinephesus.pdf"
 description: "Paul in Ephesus -  an account of the apostle Paul's ministry in Ephesus."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Paul in Ephesus 6**
-
-**Paul in Ephesus**
-
 Arrival of St. Paul at Ephesus <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
--------------------------------------------------------------------------
 
 But now the Apostle himself is about to arrive in Ephesus. His residence
 in this place, like his residence in Antioch and Corinth, is a subject
@@ -99,7 +94,7 @@ separated himself, and withdrew the disciples from the synagogue; and
 the Christian Church at Ephesus became a distinct body, separated both
 from the Jews and the Gentiles.
 
-### The School of Tyrannus
+##### The School of Tyrannus
 
 As the house of Justus at Corinth (Acts 18:7) had afforded St. Paul a
 refuge from calumny, and an opportunity of continuing his public
@@ -136,7 +131,7 @@ Philemon, in connection with Colossae, and its neighbor cities
 Hierapolis and Laodicea.
 <sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup>
 
-### Ephesian Magic
+##### Ephesian Magic
 
 It is during this interval, that one of the two characteristics of the
 people of Ephesus comes prominently into view. This city was renowned
@@ -162,8 +157,8 @@ symbols was an elaborate science: and books, both numerous and costly,
 were compiled by its professors.
 <sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup>
 
-Miracles
---------
+##### Miracles
+
 
 This statement throws some light on the peculiar character of the
 miracles wrought by St. Paul at Ephesus. We are not to suppose that the
@@ -228,8 +223,7 @@ to His servant power and authority over them (Luke 9:1), had shame and
 terror in store for those who presumed thus to take His Holy Name in
 vain.
 
-The Exorcists
--------------
+##### The Exorcists
 
 One specific instance is recorded, which produced disastrous
 consequences to those who made the attempt, and led to wide results
@@ -256,8 +250,7 @@ arts. Their conscience was moved by what had recently occurred, and they
 came and made a full confession to the Apostle, and publicly
 acknowledged and forsook their deeds of darkness.
 
-Burning of the Books
---------------------
+##### Burning of the Books
 
 The fear and conviction seem to have extended beyond those who made a
 profession of Christianity. A large number of the sorcerers themselves
