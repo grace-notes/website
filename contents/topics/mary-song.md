@@ -2,13 +2,9 @@
 title: "Mary's Song"
 pdf: "marysong.pdf"
 description: "Luke's narrative now turns to the story of Mary, the mother of our Lord."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**The Song of Mary 3**
-
-**The Song of Mary**
 
 **by Mark Perkins, Pastor, Front Range Bible Church, Denver, Colorado
 USA**
@@ -226,5 +222,4 @@ away empty handed.
 Mary understood the mercy of God, and its implications. She knew the
 history of her nation and its heroes.
 
-====================
 
