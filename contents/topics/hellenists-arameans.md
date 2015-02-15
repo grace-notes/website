@@ -2,13 +2,9 @@
 title: "Hellenists and Arameans"
 pdf: "hellenistsarameans.pdf"
 description: "the differences between traditional Judaism and the \"modern\" Greek culture of the 1st century, affected even the early Christian congregations (Acts 6:1 ff)."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Hellenists and Arameans 3**
-
-**Hellenists and Arameans**
 
 from Conybeare and Howson, “The Life and Epistles of St. Paul,” Chapter
 2.
