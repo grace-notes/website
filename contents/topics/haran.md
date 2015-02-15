@@ -1,14 +1,12 @@
 ---
 title: "Haran"
 pdf: "haran.pdf"
-description: "a stopping point on Abraham's journey to Canaan."
+description: "A stopping point on Abraham's journey to Canaan."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-Haran **0**
-
-**HARAN** A city in the upper reaches of the Balih Valley, a commercial
+A city in the upper reaches of the Balih Valley, a commercial
 and cultural center from the 2nd millennium onwards. It lies on an
 ancient caravan route from Mesopotamia to Cappadocia, Syria, Palestine
 and Egypt. Terah, the father of Abraham, settled here with his family
