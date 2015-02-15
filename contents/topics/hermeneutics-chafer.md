@@ -3,67 +3,9 @@ title: "Syllabus of Studies in Hermeneutics"
 indexTitle: "Hermeneutics, Syllabus of Studies in"
 pdf: "hermeneutics_chafer.pdf"
 description: "A classical study in Hermeneutics, by Rollin Thomas Chafer. Used in Pastor's Ministry Workshop of Austin Bible Church"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-***Austin Bible Church***
-
-**Pastor’s Ministry Workshop**
-
-Pastor Robert Bolender
-
-**A Syllabus of Studies in Hermeneutics**
-
-by Rollin Thomas Chafer
-
-**A Syllabus of Studies in Hermeneutics**
-
-by Rollin Thomas Chafer
-
-**Contents**
-
-**[Part 1 1](#__RefHeading___Toc133033238)**
-
-[I Introduction 1](#__RefHeading___Toc133033239)
-
-**[Part 2 4](#__RefHeading___Toc133033240)**
-
-[II. Historical Sketch 4](#__RefHeading___Toc133033241)
-
-**[Part 3 9](#__RefHeading___Toc133033242)**
-
-[II Historical Sketch (continued) 9](#__RefHeading___Toc133033243)
-
-**[Part 4 11](#__RefHeading___Toc133033244)**
-
-[III Some Axioms of General Hermeneutics
-11](#__RefHeading___Toc133033245)
-
-**[Part 5 14](#__RefHeading___Toc133033246)**
-
-[IV The Relation of Logic to Interpretation
-14](#__RefHeading___Toc133033247)
-
-**[Part 6 29](#__RefHeading___Toc133033248)**
-
-[IV The Relation of Logic to Interpretation (continued)
-29](#__RefHeading___Toc133033249)
-
-**[Part 7 35](#__RefHeading___Toc133033250)**
-
-[V Four Prerequisites 35](#__RefHeading___Toc133033251)
-
-[VI Four General Rules of Interpretation
-39](#__RefHeading___Toc133033252)
-
-**[Part 8 41](#__RefHeading___Toc133033253)**
-
-[VII Figurative Language 41](#__RefHeading___Toc133033254)
-
-[VIII Accommodation 44](#__RefHeading___Toc133033255)
-
-[IX Interpretation of Prophecy 46](#__RefHeading___Toc133033256)
 
 Part 1
 ======
