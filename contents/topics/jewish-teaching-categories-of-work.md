@@ -2,11 +2,9 @@
 title: "Jewish Teaching, Categories of Work"
 pdf: "jewishteaching_categoriesofwork.pdf"
 description: "The thirty-nine categories of the Law making up the basis for Sabbath laws regarding work."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Thirty-Nine Categories of Work,7**
 
 **The Thirty-Nine Categories of Sabbath Work**
 
