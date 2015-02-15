@@ -2,14 +2,9 @@
 title: "Miletus"
 pdf: "miletus.pdf"
 description: "Paul summoned the Ephesian elders to meet him at the major seaport city of Miletus in order to give them his final charge (Acts 20:15, 21:1)."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Miletus 2**
-
-Miletus <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
-==================================================
 
 Miletus was the most illustrious Ionian seaport on the west coast of
 Asia Minor, situated on the south promontory of a gulf into which the
