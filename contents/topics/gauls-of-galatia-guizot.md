@@ -3,14 +3,9 @@ title: "Gauls of Galatia"
 pdf: "gauls_of_galatia(guizot).pdf"
 author: "François Pierre Guillaume Guizot"
 description: "from Guizot's History of France; the Galatians were Gauls from Europe."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**The Gauls of Galatia9**
-
-The Gauls of Galatia
---------------------
 
 This article is taken from **The History of France**, by Maurice Guizot,
 Chapter 2, *The Gauls out of Gaul*.
