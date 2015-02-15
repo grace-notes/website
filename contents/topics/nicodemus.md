@@ -2,16 +2,11 @@
 title: "Nicodemus"
 pdf: "nicodemus.pdf"
 description: "Nicodemus is a Greek name meaning \"Victor of the People\"."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Nicodemus and Christ 6**
-
-**Nicodemus and Christ**
-
-Nicodemus and Christ
-====================
+##### Nicodemus and Christ
 
 by Pastor Mark Perkins
 
@@ -25,7 +20,6 @@ which means that he was member of the Sanhedrin. A glimpse at this
 ruling body will reveal much about the man.
 
 The Sanhedrin
--------------
 
 The word “Sanhedrin” comes from the Greek SUNEDRION, ‘a sitting place
 together’. It describes many people sitting together in the same place.
@@ -94,7 +88,6 @@ Nicodemus was apparently a famous man, a member of the ruling council of
 the Pharisees, the Sanhedrin.
 
 Nicodemus in John 3
--------------------
 
 Nicodemus came to Jesus by night. The original language shows a little
 surprise at this appearance, perhaps because the Pharisees were already
