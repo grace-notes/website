@@ -2,13 +2,9 @@
 title: "Judgment, Justice, and Judging"
 pdf: "judgment.pdf"
 description: "Judgment, Justice, and Judging -  God's Judgment and Justice; a discussion of discernment vs. judgmentalism."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Judgment 4**
-
-Judgment, Justice, and Judging
 
 The Bible says that God is just. We know that He exercises perfect
 judgment and discernment in His dealings with mankind. This study
@@ -18,7 +14,6 @@ knowing the difference between sinful judging and spiritual discernment
 in human affairs.
 
 God is the Only Capable Judge of Mankind
-----------------------------------------
 
 Romans 2:1-16
 
@@ -88,8 +83,7 @@ be brought face to face with Christ and the Gospel in the ultimate
 judgment. “In the day when God shall judge the secrets of men according
 to my Gospel by Jesus Christ.”
 
-The Justice of God
-------------------
+##### The Justice of God
 
 God has sovereignty over His creatures by virtue of His creation. He has
 the perfect right to dispose of His works as it may please Him.
@@ -135,8 +129,7 @@ life; and he that hath not the Son of God hath not life.”
 
 Principle : Grace always precedes judgment. cf. **Mal. 1,2**
 
-Judging
-=======
+##### Judging
 
 There are several words in the Bible referring to various types of
 discernment, judgment, and condemnation. Sometimes we are warned not to
@@ -151,7 +144,7 @@ or by an unbeliever under certain conditions. We use the word
 *discernment* for the proper evaluation of people, events, or problems,
 by believers under the control of the Holy Spirit.
 
-USES OF  (krino)
+USES OF **κρινο** (krino)
 
 The basic Greek word for the verb “to judge” is **krino**. This word is
 used for *both* legitimate discernment and for sinful judging. This word
@@ -246,7 +239,7 @@ is able to have and to destroy: who are you that keeps on judging
 another?” This person sets himself up as God when judging in this
 manner.
 
-USES OF  (anakrino)
+USES OF **ανακρινο** (anakrino)
 
 *To examine for answers* … “to pass judgment upon”, which comes to mean
 “to examine”. This is a legitimate activity, especially concerning our
@@ -272,7 +265,7 @@ can he know them, because they are spiritually discerned (**anakrino**
 ). But he that is spiritual (in fellowship) judgeth (discerns) all
 things, yet he himself is judged of no man."
 
-USES OF  (diakrino)
+USES OF **διακρινο** (diakrino)
 
 *To be at odds with oneself, to doubt, to waver*:
 
@@ -301,7 +294,7 @@ I Cor. 6:5, “I speak to your shame. Is it so, that there is not a wise
 man among you? No, not one that shall be able to judge between his
 brethren?”
 
-USE OF kritikos)
+USE OF **κριτικοϛ** (kritikos)
 
 Used only once in the Word of God, to describe the quality of the Word
 of God as an absolute criterion of judgment.
@@ -311,7 +304,7 @@ any two-edged sword, piercing even to the dividing asunder of soul and
 spirit, and of the joints and marrow, and is a discerner (**kritikos**)
 of the thoughts and intents of the heart."
 
-USE OF ****(diakrisis)
+USE OF **δισκρισιϛ**(diakrisis)
 
 Heb. 5:14, "But strong meat belongs to them that are of full age (mature
 believers) even those who by reason of use have their senses exercised
