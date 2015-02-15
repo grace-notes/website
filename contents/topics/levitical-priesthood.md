@@ -2,13 +2,9 @@
 title: "Levitical Priesthood"
 pdf: "leviticalpriesthood.pdf"
 description: "Levitical Priesthood -  A discussion of the institutions of the Jewish religion."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Levitical Priesthood, 3**
-
-The Levitical Priesthood
 
 According to Numbers 16:5 the Levitical priests were commissioned by
 God, separated unto God, and were allowed to approach God. “Then he said
