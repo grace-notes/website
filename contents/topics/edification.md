@@ -2,6 +2,7 @@
 title: "Edification: Growing in Christ"
 pdf: "edification.pdf"
 description: "the doctrine of growing in the knowledge of Jesus Christ, leading to productivity in the Christian way of life."
+tableofcontents: true
 template: topic.jade
 ---
 
