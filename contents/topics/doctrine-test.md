@@ -2,6 +2,7 @@
 title: "Test of Knowledge Fundamentals of the Christian Life"
 pdf: "doctrinetest.pdf"
 description: "A test of basic doctrinal knowledge - test your own progress in Bible academics."
+tableofcontents: true
 template: topic.jade
 ---
 
