@@ -1,15 +1,13 @@
 ---
-title: "Moses Early Life"
+title: "Moses' Early Life"
 pdf: "mosesearlylife.pdf"
 description: "exposition of Exodus 2 (Keil and Delitszch)."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-**Moses Early Life (Exodus 2) 7**
-
 Birth and Education of Moses; Flight from Egypt; Life in Midian
-===============================================================
 
 From: Commentary on the Old Testament, C. F. Keil and F. Delitzsch
 
