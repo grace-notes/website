@@ -1,5 +1,7 @@
 ---
 title: Nineveh
+pdf: "nineveh.pdf"
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -12,7 +14,6 @@ Nineveh’] (Mt. 12:41; Lk. 11:30, 32); AV, NEB, also NINEVITES. An
 ancient city of Mesopotamia and capital of Assyria.
 
 I. Etymology
-------------
 
 The word appears in the cuneiform sources as *Ninua* and *Ninuwa*. The
 latter, which is the older form, is found in the Mari Letters (18th cent
@@ -23,7 +24,6 @@ associated with the word for “fish” (Akk *nūnu*, Heb *nûn* [*nôn*]), an
 obvious allusion to the river-goddess Nina, whose emblem was the fish.
 
 II. Biblical References
------------------------
 
 Nineveh is first mentioned in the Bible in Gen. 10:11f, which states
 that Nimrod, a mighty hunter before the Lord, came from the land of
@@ -65,7 +65,6 @@ Nineveh to whom Jonah preached would arise at the last judgment and
 condemn the generation of Jesus’ time.
 
 III. Location
--------------
 
 The ancient ruins of Nineveh are located a short distance from the east
 bank of the Tigris River and opposite the modern city of Mosul, which is
@@ -88,7 +87,6 @@ by a village, a burial ground, a mosque (formerly a Christian church),
 and the traditional tomb of Jonah.
 
 IV. Excavations
----------------
 
 The mighty city with its huge palaces, magnificent temples, and colossal
 statuary, was so completely destroyed that the very site was in doubt
@@ -126,7 +124,6 @@ Mallowan explored the mound more scientifically and excavated the temple
 of Nabû.
 
 V. History
-----------
 
 Although there is archeological evidence that the site of Nineveh was
 occupied as early as 5000 b.c., not until the 3rd millennium b.c. did
@@ -232,7 +229,6 @@ but numerous villages and small towns occupy its former space” (T.
 Wright, ed, *Early Travels in Palestine* [1848], p. 94).
 
 VI. Library of Nineveh
-----------------------
 
 One of the important buildings in Nineveh was the temple of Nabû on the
 northern part of the tell of Kuyunjik, at the southern corner of the
