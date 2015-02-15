@@ -5,14 +5,7 @@ description: "denotes the history of Judaism from the time of the completion of 
 template: topic.jade
 ---
 
-
-<sup>Inter-Testamental\\ Period</sup>
-
-Intertestamental Period
-=======================
-
-I. Definition
-=============
+##### I. Definition
 
 The intertestamental period denotes here the history of postexilic
 Judaism from the time of the completion of the book of Malachi to the
@@ -43,8 +36,7 @@ a date earlier than the Maccabean period (*see* Aramaic III; Canon of
 the OT; Daniel, Book of VI). By a.d. 70 the formation of the NT canon
 was well underway and Judaism and Christianity had parted company.
 
-II. World History
-=================
+##### II. World History
 
 Persia and Greece were the dominant powers at the beginning of this
 period. Cyrus had founded the Persian dynasty (559–530 b.c.) and was
@@ -148,8 +140,7 @@ philosophy, literature, and music (see Hengel, I, 6–88; *Oxford
 Classical Dictionary,* sv “Colonization, Hellenistic” [A. T. Griffith],
 “Education” [F. A. G. Beck]).
 
-III. Jewish History
-===================
+##### III. Jewish History
 
 The rebuilding of the temple, completed in 516 b.c., was followed in the
 next century by the reforms of Ezra and Nehemiah. It is generally agreed
@@ -296,8 +287,7 @@ communities existed in Alexandria, Rome, Antioch, and numerous cities in
 Asia Minor (see Safrai and Stern, I, 117–215; Smallwood, pp. 120–143,
 201–255).
 
-IV. MSS Discoveries
-===================
+##### IV. MSS Discoveries
 
 Discoveries of MSS fragments at various locations in Palestine have made
 a great contribution to the study of this period. The scrolls found at
@@ -330,8 +320,7 @@ Masada has proved them wrong. Some argue that this book would have been
 included in the canon had its original been known at the right time (see
 EAEHL, III, 665–694, 812–14).
 
-V. Theological Concepts
-=======================
+##### V. Theological Concepts
 
 Intertestamental Judaism in Palestine particularly included quiet
 orthodoxy, fierce Zealot nationalism, subconscious assimilation, and
