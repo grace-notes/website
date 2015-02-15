@@ -3,13 +3,9 @@ title: "Christian Marriage"
 indexTitle: "Marriage, Christian"
 pdf: "marriage.pdf"
 description: "Marriage, Christian -  Thorough treatment on the subject of marriage in the Bible."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Marriage 8**
-
-Christian Marriage
 
 by Robert Deffinbaugh, ThM
 
