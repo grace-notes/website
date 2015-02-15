@@ -2,13 +2,9 @@
 title: "Philip the Evangelist"
 pdf: "philip.pdf"
 description: "The “deacon” who brought the Gospel to the Samaritans and to the Ethiopian eunuch."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Philip the Evangelist 3**
-
-**Philip the Evangelist**
 
 In the sixth chapter of Acts, we read that the Apostles commissioned
 seven men in the congregation at Jerusalem to supervise the church’s
