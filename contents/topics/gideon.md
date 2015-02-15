@@ -2,19 +2,15 @@
 title: "Gideon"
 pdf: "gideon.pdf"
 description: "Gideon -  A brief history of the life of Gideon, the judge of Israel."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Gideon 2**
-
-**Gideon**
 
 Gideon was the son of Joash, of the tribe of Manasseh. His name means
 “tree feller” or “warrior”, and his story is related in the book of
 Judges, chapters 6, 7, and 8.
 
-The Condition of Israel
+##### The Condition of Israel
 
 At the time of the account of Gideon’s story, Israel was in one of its
 many spiritual down-cycles, having relapsed into evil and idolatry and
@@ -36,7 +32,7 @@ disobedience and to bring them to repentance.
 
 **Judges 6:7-10**
 
-The Call of Gideon
+##### The Call of Gideon
 
 Gideon was threshing wheat in the wine­press, to hide it from the
 Midianites. The an­gel of the Lord appeared to him and said “The Lord is
@@ -50,7 +46,7 @@ not sent thee.”
 
 **Judges 6:15-24**
 
-Gideon Destroys the Altar of Baal
+##### Gideon Destroys the Altar of Baal
 
 The Lord told Gideon to purify his father’s house from idolatry, and to
 sanctify himself by offering a burnt offering. The following night, in
@@ -61,7 +57,7 @@ The people wanted to kill Gideon because of this act of desecration, but
 Joash, Gideon’s father, took his part, telling the men to allow Baal to
 plead for himself — if he was a god, he could protect himself.
 
-The Sign of the Fleece
+##### The Sign of the Fleece
 
 The Midianites and their allies again in­vaded Israel, and Gideon
 gath­ered an army from the tribes of Manasseh, Asher, Zebulun, and
@@ -73,7 +69,7 @@ it, but the ground was dry. The next night, the miracle was reversed,
 with the ground getting wet and the fleece remain­ing dry (6:36-40).
 Thus encouraged, Gideon led his army toward the Midianite forces.
 
-The Defeat of the Midianites
+##### The Defeat of the Midianites
 
 Gideon advanced against the enemy and camped near the brook Harod, in
 the valley of Jezreel (the Plain of Esdraelon). His army numbered about
