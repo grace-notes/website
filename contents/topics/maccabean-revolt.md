@@ -2,15 +2,12 @@
 title: "Maccabean Revolt"
 pdf: "maccabeanrevolt.pdf"
 description: "the great Jewish warriors struggle against the Greek ruler Antiochus Epiphanes."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-**The Maccabean Revolt 2**
-
-The Maccabean Revolt
-
-**by Mark Perkins, Pastor, Front Range Bible Church, Denver, CO USA**
+*by Mark Perkins, Pastor, Front Range Bible Church, Denver, CO USA*
 
 Syria had one incredibly evil ruler by the name of Antiochus Epiphanes.
 This man was so evil that he made Herod the Great look like a great
