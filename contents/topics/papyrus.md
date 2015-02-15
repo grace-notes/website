@@ -2,15 +2,13 @@
 title: "Papyrus"
 pdf: "papyrus.pdf"
 description: "A plant and the writing material that was made from it."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Papyrus</sup>
-
 From International Standard Bible Encyclopedia
 
-**Papyrus**pə-pīʹrəs [Lat *cyperus papyrus*—‘the Egyptian papyrus’; Heb
+**Papyrus** [Lat *cyperus papyrus*—‘the Egyptian papyrus’; Heb
 *gōme˒*] (Job 8:11); AV RUSH; [Gk *býblos*, *bíblos*—‘papyrus plant or
 roll made of papyrus’], whence “book” (Mk. 12:26). **A plant and the
 writing material that was made from it.**
@@ -24,7 +22,6 @@ and bundles of the long stalks were bound together into light boats
 (Isa. 18:2; cf. Job 9:26)
 
 I. Papyrus Paper
-================
 
 From the papyrus plant early Egyptians made the tough and inexpensive
 paper that became the common writing material of the ancient world. The
@@ -36,7 +33,6 @@ formed were pasted together to form a roll of any length desired. Pliny
 the Elder described the process and the product (Nat.hist. xiii. 11–13).
 
 II. Egyptian Papyri
-===================
 
 Extant Egyptian papyrus rolls date from the 27th cent b.c. and no doubt
 papyrus had been manufactured for centuries before. The Egyptian rolls
@@ -56,7 +52,6 @@ instances papyri have escaped destruction only in Upper Egypt, where the
 dry climate favored their preservation.
 
 III. Greek Papyri
-=================
 
 With Alexander’s conquest of Egypt (332 b.c.) and the subsequent
 Ptolemaic dynasty, Greeks came more than ever before into Egypt, and
@@ -299,7 +294,6 @@ Latin papyri have become especially valuable in elucidating Roman
 military and legal traditions.
 
 VI. Contribution to Biblical Study
-==================================
 
 The papyri have made a valuable contribution to textual criticism of
 both the OT and the NT. For early Christian literature their testimony
