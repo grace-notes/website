@@ -2,19 +2,14 @@
 title: "Sabbath, Jewish Teaching"
 pdf: "jewishteaching_sabbath.pdf"
 description: "The importance of the Sabbath in Jewish life is stressed from the story of Creation in Genesis, to the Ten Commandments, which state that people are to refrain from labor on the 7th day."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Jewish Teaching: The Sabbath2**
 
 *This teaching from the Jewish point of view is presented by Grace Notes
 to provide context and comparison of Jewish ideas with Christian, in
 particular in relation to expositional teaching of the book of Acts and
 the life and epistles of Paul the Apostle. [Warren Doud]*
-
-Jewish Teaching: The Sabbath <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
-===========================================================================
 
 The importance of the Sabbath in Jewish life is stressed from the story
 of Creation in Genesis, to the Ten Commandments, which state that people
@@ -55,7 +50,6 @@ of “thirty-nine basic labors,” or acts of creation, that were carried
 out at that time.
 
 The 39 Activities of the Mishnah
---------------------------------
 
 Mishnah: “The primary labors are forty less one”
 
