@@ -2,19 +2,16 @@
 title: "Jewish Teaching, Messiah"
 pdf: "jewishteaching_messiah.pdf"
 description: "Jewish teaching regarding the Messiah."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Jewish Teaching: The Messiah4**
 
 *This teaching from the Jewish point of view is presented by Grace Notes
 to provide context and comparison of Jewish ideas with Christian, in
 particular in relation to expositional teaching of the book of Acts and
 the life and epistles of Paul the Apostle. [Warren Doud]*
 
-Jewish Teaching: The Messiah (Moshiach)
-=======================================
+##### Jewish Teaching: The Messiah (Moshiach)
 
 From the website Judaism 101 <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
 
@@ -22,8 +19,7 @@ From the website Judaism 101 <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
 he may tarry, still I await him every day.” Principle 12 of Rambam’s 13
 Principles of Faith. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
 
-The Messianic Idea in Judaism
------------------------------
+###### The Messianic Idea in Judaism
 
 Belief in the eventual coming of the moshiach is a basic and fundamental
 part of traditional Judaism. It is part of Rambam’s 13 Principles of
@@ -61,8 +57,7 @@ become so deeply ingrained in the English word “messiah” that this
 English word can no longer be used to refer to the Jewish concept. The
 word “moshiach” will be used throughout this page.
 
-The Moshiach
-------------
+###### The Moshiach
 
 The moshiach will be a great political leader descended from King David
 (Jeremiah 23:5). The moshiach is often referred to as “moshiach ben
@@ -81,7 +76,6 @@ But if that person dies before he completes the mission of the moshiach,
 then that person is not the moshiach.
 
 **When Will the Moshiach Come?**
---------------------------------
 
 There is a wide variety of opinion on the subject of when the moshiach
 will come. Some of Judaism’s greatest minds have cursed those who try to
@@ -117,7 +111,6 @@ the moshiach will come:
     their parents and elders;
 
 **What Will the Moshiach Do?**
-------------------------------
 
 Before the time of the moshiach, there shall be war and suffering
 (Ezekiel 38:16) The moshiach will bring about the political and
@@ -130,7 +123,6 @@ of all world government, both for Jews and gentiles (Isaiah 2:2-4;
 and establish Jewish law as the law of the land (Jeremiah 33:15).
 
 **Olam Ha-Ba: The Messianic Age**
----------------------------------
 
 The world after the messiah comes is often referred to in Jewish
 literature as Olam Ha-Ba (oh-LAHM hah-BAH), the World to Come. This term
@@ -156,7 +148,6 @@ thanksgiving offerings, because there will be no further need for
 expiatory offerings.
 
 **What About Jesus?**
----------------------
 
 Jews do not believe that Jesus was the moshiach. Assuming that he
 existed, and assuming that the Christian scriptures are accurate in
@@ -189,7 +180,6 @@ therefore, none of them were the moshiach. The moshiach and the Olam
 Ha-Ba lie in the future, not in the past.
 
 **Biblical Passages Referring to the Moshiach**
------------------------------------------------
 
 The following passages in the Jewish scriptures are the ones that Jews
 consider to be messianic in nature
@@ -212,6 +202,3 @@ developing our messianic concept:
 -   Zechariah 14:9
 
 -   Daniel 10:14
-
-====================
-
