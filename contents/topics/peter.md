@@ -1,15 +1,10 @@
 ---
-title: "Peter, the Apostle"
+title: "Peter the Apostle"
 pdf: "peter.pdf"
 description: "A disciple of Jesus and apostle of the early Church."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**The Apostle Peter**
-
-The Apostle Peter <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
-================================================================
 
 A disciple of Jesus and apostle of the early Church.
 
