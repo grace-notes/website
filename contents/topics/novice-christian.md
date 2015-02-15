@@ -2,13 +2,9 @@
 title: "Novice Christian"
 pdf: "novicechristian.pdf"
 description: "Any Christian believer is either winning or losing in the attempt to live as a Christian. A believer is either living according to the revealed plan of God, or is serving “the ruler of this world.” There is no in-between or middle ground."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**The Novice Christian 2**
-
-**The Novice Christian**
 
 Christians affect history, from an eternal point of view, only when they
 operates within the revealed plan of God. As the believer goes, so goes
@@ -48,8 +44,7 @@ we “grow in grace and in the knowledge of our Lord and Savior, Jesus
 Christ” and that we fulfill the plan of God so carefully laid out in the
 Scriptures.
 
-Characteristics of the Christian Novice
----------------------------------------
+##### Characteristics of the Christian Novice
 
 1.  The Christian novice is born again. A person who is not saved does
     not fall into the novice category. On the other hand, a novice
