@@ -2,15 +2,9 @@
 title: "Manna"
 pdf: "manna.pdf"
 description: "Manna -  Manna means \"What is it?\" in the Hebrew."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Manna 2**
-
-Manna
-
-by
 
 Rev. Mark Perkins, Pastor  
 Denver Bible Church  
