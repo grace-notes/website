@@ -1,8 +1,8 @@
 ---
-title: "Introduction to the Study of Demons"
-indexTitle: "Demons, Introduction"
+title: "Demons, an Introduction"
 pdf: "demons.pdf"
 description: "Outline of Bible references to demons; descriptions of identity and functions"
+tableofcontents: true
 template: topic.jade
 ---
 
