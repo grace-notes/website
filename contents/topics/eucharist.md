@@ -1,7 +1,9 @@
 ---
 title: "The Eucharist (the Lord's Table)"
+titleIndex: "Eucharist, the Lord's Table"
 pdf: "eucharist.pdf"
 description: "The history of the relationship between the Passover and the Lord's Supper."
+tableofcontents: true
 template: topic.jade
 ---
 
