@@ -1,6 +1,6 @@
 ---
 title: "The Essence of God"
-titleIndex: "God, Esseence of"
+indexTitle: "God, Esseence of"
 pdf: "essence_singlecolumn.pdf"
 tableofcontents: true
 template: topic.jade
