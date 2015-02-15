@@ -2,16 +2,9 @@
 title: "Paul - Letter to the Galatians"
 pdf: "paul_lettertogalatians.pdf"
 description: "narrative surrounding Paul's writing from Macedonia his epistle to the Galatians; by Conybeare and Howson, along with their translation of the letter."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Paul’s Letter to the Galatians 11**
-
-**Paul’s Letter to the Galatians**
-
-Paul Sends the Letter to the Galatians <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
----------------------------------------------------------------------------------
 
 It was probably already winter, when St. Paul once more beheld in the
 distance the lofty citadel of Corinth, towering above the isthmus which
@@ -232,11 +225,9 @@ Apostolic office as received directly from Christ, and exercised
 independently of the other Apostles. Such were the circumstances and
 such the objects which led him to write the following Epistle.
 
-Epistle to the Galatians
-------------------------
+##### Epistle to the Galatians
 
-Galatians 1
------------
+##### Galatians 1
 
 PAUL an Apostle sent not from men nor by man but by Jesus Christ, and
 God the Father, who raised Him from the dead· With all the brethren in
@@ -281,8 +272,7 @@ were brought them from time to time, saying,” He who was once our
 persecutor now bears the Glad tidings of that Faith, which formerly he
 labored to root out.” And they glorified God in me.
 
-Galatians 2
------------
+##### Galatians 2
 
 Then fourteen years after, I went up again to Jerusalem with Barnabas,
 and took Titus with me also.
@@ -344,8 +334,7 @@ me. I frustrate not God’s gift of grace [like those who seek
 righteousness in the Law]; for if the Law can make men righteous, then
 Christ died in vain.
 
-Galatians 3
------------
+##### Galatians 3
 
 O foolish Galatians, who has bewitched you? You, before whose eyes was
 held up the picture of Jesus Christ upon the cross. One question I would
@@ -420,8 +409,7 @@ slave nor freeman, neither male nor female; for you all are one in
 Christ Jesus. .And if you are Christ’s, then you are .Abraham’s seed,
 and heirs of the blessing by promise.
 
-Galatians 4
------------
+##### Galatians 4
 
 Now I say, that the heir, so long as he is a child, has no more freedom
 than a slave, though he is owner of the whole inheritance; but he is
@@ -491,8 +479,7 @@ the bondwoman shall not be heir with the son of the freewoman.” (Gen.
 21:10) Wherefore, brethren, we are not children of the bond woman, but
 of the free.
 
-Galatians 5
------------
+##### Galatians 5
 
 Stand fast, then, in the freedom which Christ has given us, and turn not
 back again, to entangle yourselves in the yoke of bondage.
@@ -547,8 +534,7 @@ and its lusts. If we live by the Spirit, let our steps be guided by the
 Spirit. Let us not become vainglorious, provoking one another to strife,
 regarding one another with envy.
 
-Galatians 6
------------
+##### Galatians 6
 
 Brethren, I speak to you who call yourselves the Spiritual, even if
 anyone be overtaken in a fault, do you correct such a man in a spirit of
