@@ -2,13 +2,9 @@
 title: "Heresy and Apostasy"
 pdf: "heresy.pdf"
 description: "Heresy and Apostasy -  Definitions, and the Biblical solution to the problem of apostasy in the local church."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Heresy and Apostasy 3**
-
-**Heresy and Apostasy**
 
 The words heresy and apostasy are two of the most often used words to
 refer to doctrinal error and practice in the church age.
@@ -32,8 +28,7 @@ becomes apostasy, however, whenever a person deliberately decides to
 re­ject Bible truth and maintain and promote false ideas. This paper is
 written to help believers avoid error, heresy, or apostasy.
 
-Heresy
-======
+##### Heresy
 
 The word heresy comes from the Greek  (**hairesis**) meaning, a
 choice; a tak­ing for oneself; a sect or school of philoso­phy. Hence,
@@ -48,8 +43,8 @@ correction of problems caused in Crete by Judaistic heresies.
 In the apostolic age we find three funda­mental forms of heresy. These
 have appeared in one form or another in every generation.
 
-Judaism
--------
+##### Judaism
+
 
 Judaism is the false counterpart of Jewish Christianity which insists on
 combining Jewish practice with Christianity. This tends to cause
@@ -64,8 +59,7 @@ Christianity as a new, free, and universal reli­gion. Judaism appears in
 the second century A.D. in a more fully developed version under the name
 of Ebionism.
 
-Gnosticism
-----------
+##### Gnosticism
 
 Gnosticism spread through the whole church during the first two or three
 centuries after Christ. This heresy was an opposite re­action to
@@ -75,8 +69,7 @@ historical foundations of Christianity. Gnosticism denies the humanity
 of Christ, and it adulterates Christianity with pagan ideas and
 practices.
 
-Syncretism
-----------
+##### Syncretism
 
 Syncretism combines Judaism, and then Christianity, with heathen
 philosophies, espe­cially those of Pythagoras and Plato, so that, under
@@ -98,8 +91,7 @@ Heresy becomes apostasy when there is a deliberate holding to error in
 spite of knowing the truth of the word of God. A heretic be­comes
 apostate at the point when he hears the truth and decides against it.
 
-Apostasy
-========
+##### Apostasy
 
 Apostasy is the deliberate act of a profess­ing Christian who knowingly
 and deliberately rejects revealed truth regarding the deity of Jesus
