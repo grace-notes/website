@@ -2,13 +2,11 @@
 title: "Joseph of Arimathea"
 pdf: "josephofarimathea.pdf"
 description: "In all four Gospels the man who steps forth to bury Jesus' body is Joseph of Arimathea."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Joseph\\ of\\ Arimathea</sup>
-
-**Joseph of Arimathea**ar-i-me-thēʹa [Gk *Iōsēph apó Arimathaias*] (Mt.
+**Joseph of Arimathea** (ar-i-me-thēʹa [Gk *Iōsēph apó Arimathaias*]) (Mt.
 27:57, 59; Mk. 15:43, 45; Lk. 23:50; Jn. 19:38). In all four Gospels the
 man who steps forth to bury Jesus’ body is Joseph of Arimathea. As a
 member of the Sanhedrin, Joseph was undoubtedly a resident of Jerusalem
