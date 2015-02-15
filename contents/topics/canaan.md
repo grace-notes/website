@@ -2,6 +2,7 @@
 title: "Canaan"
 pdf: "canaan.pdf"
 description: "Canaan is an ancient name for the area that includes all of the land west of the Jordan and Syria to the level of Lebweh."
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -14,8 +15,7 @@ the level of Lebweh. “Canaanites” designates the occupants of that land
 in the period preceding the Israelite occupation, and their cultural
 successors; the word is also found as an appellation for merchants.
 
-I. Name
--------
+##### I. Name
 
 The origin and meaning of the name Canaan has yet to be satisfactorily
 explained. The etymon closest at hand is the Semitic *knÔ* (“be humble,
@@ -63,8 +63,7 @@ Ezk. 16:29; 17:4; Hos. 12:7 [MT 8]; Zeph. 1:11). In any case, the name
 became identified with the people who were the merchants par excellence
 of the ancient world.
 
-II. Land
---------
+##### II. Land
 
 The name Canaan as a designation of the land was current, according to
 established records, only in the Late Bronze Age (ca 1550–1200). By the
@@ -187,8 +186,7 @@ was never confused with another, even more extravagant claim of all the
 land to the Euphrates (Dt. 1:7; contrast Gen. 15:18–20 [J] with Gen.
 17:8 [P]).
 
-III. People
------------
+##### III. People
 
 The Canaanites may best be described as the inhabitants of the land of
 Canaan. They should not be thought of as a race in modern terms. People
@@ -276,8 +274,7 @@ Thus the woman who in Mk. 7:26 is called a “Syro-Phoenician” (Gk
 Forms of NT Proper Names* [1912], p. 5), the designation of Simon in Mt.
 10:4 (TR *Kananitēs*, “citizen of Cana”) and Mk. 3:18.
 
-IV. History
------------
+##### IV. History
 
 When and how the dominant culture known as Canaanite first appeared is
 not directly answerable from the data now available. The most important
@@ -497,8 +494,7 @@ dark age that ended 200 years later with the emergence of nation-states
 like Israel. It marked the effective end of the history of the
 Canaanites.
 
-V. Society
-----------
+##### V. Society
 
 Direct information about the social structure is scarce from Canaan
 itself. The texts of Ugarit and Alalakh are very informative, however,
@@ -539,8 +535,7 @@ was the steady alienation of persons and groups who became *‘apiru*,
 officially stateless people who typically formed bands of freebooters
 and when sufficiently numerous became a danger to the state itself.
 
-VI. Language
-------------
+##### VI. Language
 
 The term Canaanite is used to describe the non-Aramaic group of
 first-millennium languages that are part of the Northwest Semitic
@@ -591,8 +586,7 @@ suited to the clay tablets used by Ugaritic scribes. An innovation of
 this alphabet is its use of three signs for the glottal stop, one for
 each of three principal Semitic vowels (*’a, ’i, ’u*).
 
-VII. Influences on Israel
--------------------------
+##### VII. Influences on Israel
 
 The people of Israel clearly thought of themselves as separate from
 their Canaanite neighbors. In fact, they were repeatedly enjoined to
