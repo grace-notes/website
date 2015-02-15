@@ -2,13 +2,9 @@
 title: "Hermeneutics"
 pdf: "hermeneutics.pdf"
 description: "Hermeneutics -  The science and art of Biblical interpretation, by Pastor Drue Freeman."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Hermeneutics 25**
-
-Hermeneutics
 
 The Science and Art of Biblical Interpretation
 
