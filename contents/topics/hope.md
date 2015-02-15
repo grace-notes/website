@@ -2,6 +2,7 @@
 title: "Hope"
 pdf: "hope.pdf"
 description: "Hope -  The Christian's confidence is much more than just wishful thinking."
+tableofcontents: true
 template: topic.jade
 ---
 
