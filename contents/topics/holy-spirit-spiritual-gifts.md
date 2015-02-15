@@ -1,59 +1,15 @@
 ---
-title: "Spiritual Gifts"
+title: "The Holy Spirit - Spiritual Gifts"
+indexTitle: "Spiritual Gifts"
 pdf: "holyspirit_spiritualgifts.pdf"
 description: "the divine power which is given to each Christian at the time of salvation."
+tableofcontents: true
 template: topic.jade
 ---
 
-**Spiritual Gifts**
-
 The Ministry of the Holy Spirit in the Life of the Christian
 
-**Contents**
 
-**[Introduction to Spiritual Gifts 1](#__RefHeading___Toc66336112)**
-
-[Spirituality; Introduction to Spiritual Gifts
-2](#__RefHeading___Toc66336113)
-
-[Christians are the Hands of God 2](#__RefHeading___Toc66336114)
-
-**[Communication Gifts 4](#__RefHeading___Toc66336115)**
-
-[Teaching - 1 Cor. 12:29; Rom. 12:7 4](#__RefHeading___Toc66336116)
-
-[Word of Wisdom - 1 Cor. 12:8; 13:2 5](#__RefHeading___Toc66336117)
-
-[Word of Knowledge - 1 Cor. 12:8; 13:2 5](#__RefHeading___Toc66336118)
-
-**[Serving Gifts 5](#__RefHeading___Toc66336119)**
-
-[Faith - 1 Cor. 12:9; 13:2 5](#__RefHeading___Toc66336120)
-
-[Giving - Rom. 12:8; 1 Cor. 13:2 5](#__RefHeading___Toc66336121)
-
-[Mercy - Rom. 12:8 6](#__RefHeading___Toc66336122)
-
-[Helps - 1 Cor. 12:28 6](#__RefHeading___Toc66336123)
-
-[Ruling - Rom. 12:8 (leading) 6](#__RefHeading___Toc66336124)
-
-[Administration - 1 Cor. 12:28 6](#__RefHeading___Toc66336125)
-
-**[Sign Gifts 7](#__RefHeading___Toc66336126)**
-
-[Healing - 1 Cor. 12:9 7](#__RefHeading___Toc66336127)
-
-[Miracles - 1 Cor. 12:10 7](#__RefHeading___Toc66336128)
-
-[Prophecy - 1 Cor. 13:2 7](#__RefHeading___Toc66336129)
-
-[Discerning Spirits - 1 Cor. 12:10 7](#__RefHeading___Toc66336130)
-
-[Tongues - 1 Cor. 12:10 8](#__RefHeading__14095_1840878105)
-
-[Interpretation of Tongues - 1 Cor. 12:10
-9](#__RefHeading___Toc66336132)
 
 A **Spiritual Gift** is a unique ability sovereignly given to each believer by the Holy Spirit at the time of salvation for the purpose of serving the Lord.
 
