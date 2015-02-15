@@ -2,13 +2,9 @@
 title: "Loyal Love"
 pdf: "loyallove.pdf"
 description: "Loyal Love -  Another look at the subject of AGAPE love."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Loyal Love 5**
-
-Loyal Love
 
 by Glenn Carnagey, PhD
 
