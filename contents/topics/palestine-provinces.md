@@ -1,15 +1,11 @@
 ---
-title: "Palestine Provinces"
+title: "The Provinces of Palestine"
+indexTitle: "Palestine, The Provinces of"
 pdf: "palestineprovinces.pdf"
 description: "The geographical position of Palestine gave it a political importance greater than that to which its extent and population would otherwise have entitled it."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>**The\\ Provinces\\ of\\ Palestine**</sup>
-
-The Provinces of Palestine [<sup>1</sup>](#sdfootnote1sym)
-----------------------------------------------------------
 
 The geographical position of Palestine gave it a political importance
 greater than that to which its extent and population would otherwise
