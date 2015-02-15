@@ -1,5 +1,7 @@
 ---
-title: Nero
+title: "Nero"
+pdf: "nero.pdf"
+tableofcontents: true
 template: topic.jade
 ---
 
@@ -9,7 +11,6 @@ template: topic.jade
 Antium in a.d. 37, began to reign October, 54, and died June 9, 68.
 
 I. Parentage and Early Training
--------------------------------
 
 Nero’s father was Cnaeus Domitius Ahenobarbus (“brazen beard”), a man
 from an illustrious family but of vicious life. His mother Agrippina,
@@ -32,7 +33,6 @@ Burrus; the praetorian guard had been richly bribed. The senate weakly
 acknowledged the new emperor.
 
 II. Reign
----------
 
 **A. “Quinquennium Neronis”**The first five years (*quinquennium*) of
 Nero’s reign were characterized by good government at home and in the
@@ -154,7 +154,6 @@ praetorian guard that made him emperor. He committed suicide, bringing
 to an end the line of Julius Caesar.
 
 III. “Nero Redivivus”
----------------------
 
 A freedman, two old nurses, and his cast-off concubine Acte cared
 affectionately for Nero’s remains, and for a long time flowers were
@@ -180,7 +179,6 @@ it suits many other wicked rulers as well (cf. Farrar, ch 28, 5). (*See*
 Number VI.)
 
 IV. Nero and Christianity
--------------------------
 
 **A. Nero and the New Testament** Although the name Nero does not occur
 in the NT, he must have been the Caesar to whom Paul appealed (Acts
