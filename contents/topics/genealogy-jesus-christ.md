@@ -1,12 +1,10 @@
 ---
-title: Genealogy Jesus Christ
+title: "Genealogy Jesus Christ"
+indexTitle: "Jesus Christ, Genealogy"
+pdf: "genealogyJesusChrist.pdf"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Genealogy of Christ 23**
-
-The Genealogy of Jesus Christ
 
 by Mark Perkins, Pastor  
 Front Range Bible Church  
