@@ -2,15 +2,11 @@
 title: "Hittites"
 pdf: "hittites.pdf"
 description: "The Hittites are a Hamitic people. They are the descendants of Heth, Gen 10:15."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Hittites 4**
-
-**THE HITTITES**
-
-A. The Hittites are a Hamitic people. They are the descendants of Heth,
+The Hittites are a Hamitic people. They are the descendants of Heth,
 **Gen 10:15**.
 
 Heth means “the father of the Hittites.”
