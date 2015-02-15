@@ -1,13 +1,9 @@
 ---
-title: Paul&Silas Prison
+title: "Paul and Silas in the Philippians Jail"
+pdf: "paul&silas_prison.pdf"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Paul and Silas in the Philippian Jail 5**
-
-**Paul and Silas in the Philippian
-Jail**<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
 
 Paul and Silas had undoubtedly been doing what in some degree exposed
 them to legal penalties; and were beginning a change which tended to
