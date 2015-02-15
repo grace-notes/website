@@ -2,11 +2,9 @@
 title: "James the brother of Jesus"
 pdf: "jamesbrotherofjesus.pdf"
 description: "After the death of James the brother of John, there is frequent mention in the Acts and the Pauline epistles of another James, the brother of the Lord Jesus."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**James, the Lord’s Brother**
 
 from **Gloag, Paton James,*****A Critical and Exegetical Commentary on
 the Acts of the Apostles***
