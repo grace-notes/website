@@ -2,16 +2,9 @@
 title: "Paul - Second Letter to Corinth"
 pdf: "paul_secondlettertocorinth.pdf"
 description: "narrative surrounding Paul's writing from Macedonia his second epistle to the Corinthians, by Conybeare and Howson, along with their translation of the letter."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Paul’s 2nd Letter to Corinth 16**
-
-**Paul’s Second Letter to Corinth**
-
-Paul Sends his Second Letter to Corinth <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
-----------------------------------------------------------------------------------
 
 #### 2 Corinthians 1
 
