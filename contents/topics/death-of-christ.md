@@ -2,6 +2,7 @@
 title: The Death of Christ
 description: "The death of Jesus Christ was an act of obedience to God the Father's plan of salvation."
 pdf: deathofchrist.pdf
+tableofcontents: true
 template: topic.jade
 ---
 
