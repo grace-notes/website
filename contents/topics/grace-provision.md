@@ -1,14 +1,10 @@
 ---
-title: "Grace Provision"
+title: "Grace Provision for the Believer's Needs"
 pdf: "graceprovision.pdf"
 description: "Grace Provision -  God the Father provides logistical supply for believers."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Grace Provision 12**
-
-Grace Provision of the Believer’s Needs
 
 Introduction.
 
