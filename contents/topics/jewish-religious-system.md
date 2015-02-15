@@ -1,13 +1,11 @@
 ---
-title: Jewish Religious System
+title: "Jewish Religious System"
+pdf: "jewishreligioussystem.pdf"
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Jewish Religious System 8**
-
-**The Jewish Religious System  
-Scribes, Pharisees, Sadducees, the Sanhedrin, the Talmud**
+**The Jewish Religious System: Scribes, Pharisees, Sadducees, the Sanhedrin, the Talmud**
 
 The religious life of the Jews in the time of Christ was controlled by
 the members of the Jewish priesthood, composed of the high priest and
@@ -23,7 +21,7 @@ doctrinal differences between the Pharisees and Sadducees; and there is
 a description of the Jewish Talmud, which comprised the written and oral
 scriptures and traditions of the Jews.
 
-The Scribes
+##### The Scribes
 
 In New Testament times the Scribes formed a small and exclusive class,
 holding absolute spiritual supremacy over the people. Everywhere you
@@ -113,7 +111,7 @@ questions contained in the Talmud.
 • The Gaonim, the last doctors of the law in the rabbinic succession,
 from 657 A.D. to 1034.
 
-The Employment of the Scribes
+###### The Employment of the Scribes
 
 In the time of Christ, the rabbis required from their students absolute
 respect, even greater than the honor due to parents. “If a man’s father
@@ -170,7 +168,7 @@ know that scribes were members of the Sanhedrin (see below). After the
 fall of the Jewish state in 70 A.D., scribes were both legislators and
 judges.
 
-The Writings of the Scribes
+###### The Writings of the Scribes
 
 In the development and writing of the law there evolved two main bodies
 of written work, the Halachah and the Haggadah.
@@ -199,7 +197,7 @@ are manipulated by formulating dogmatic propositions from isolated
 prophetic utterances, by bringing these into relation to each other, and
 thus obtaining a kind of dogmatic system.”
 
-The Pharisees
+##### The Pharisees
 
 The word “Pharisee” is from Greek by way of the Aramaic word for
 “separated”. The name Separatist is thought by some to be derived from
@@ -256,7 +254,7 @@ Sadducees, in their official acts, adhered to the demands of the
 Pharisees, because otherwise the multitude would not have tolerated
 them.”
 
-Teachings of the Pharisees
+###### Teachings of the Pharisees
 
 Concerning immortality, the Pharisees taught “that every soul is
 imperishable, but that only those of the righteous pass into another
@@ -289,7 +287,7 @@ any government as long as religion was not hindered; but they became, in
 a sense, a political party when they rose to oppose a government that
 interfered with the practice of the law.
 
-Practices of the Pharisees
+###### Practices of the Pharisees
 
 All Israelites avoided, as far as possible, all physical contact with
 the heathen, in order to avoid being defiled. The Pharisee, in addition,
@@ -323,7 +321,7 @@ future judgment.
 • The Pharisee From Love, who obeys the Lord because he loves him with
 all his heart.
 
-A Comparison of Pharisaism and Christianity
+###### A Comparison of Pharisaism and Christianity
 
 It was Jesus Christ’s great effort to make clear the principles of the
 Laws of the Old Testament dispensation and to carry them to their
@@ -362,7 +360,7 @@ all their pretence, they were really avaricious, sensual, and dissolute
 (Matt. 23:25; John 8:7). They devoted their energies to making converts
 to themselves (Matt. 23:15).
 
-The Sadducees
+##### The Sadducees
 
 The Hebrew word by which the Sadducees were called is **tsaddiqim**,
 “the righteous ones”. If we only look at the points of differences
@@ -398,7 +396,7 @@ purity. They did not reject the idea of Levitical uncleanness, however,
 and they demanded a higher degree of cleanness for the priest who made
 the red heifer offering than did the Pharisees.
 
-Doctrines of the Sadducees
+###### Doctrines of the Sadducees
 
 The Sadducees did not believe in a resurrection of the body or in
 retribution or reward in a future life. They did not feel bound by any
@@ -420,7 +418,7 @@ human actions. The Pharisees accentuated the divine to the verge of
 fatalism, and insisted on absolute preordination of every event in its
 smallest detail. The Sadducees opposed notions like these.
 
-The Sanhedrin
+##### The Sanhedrin
 
 The rise of this great council of the Hebrews took place in the time of
 Greek supremacy, though there has been some attempt to trace its origins
@@ -439,7 +437,7 @@ Christ and the apostles, the Sanhedrin is frequently mentioned as being
 the supreme Jewish court of justice. The Sanhedrin was abolished after
 the destruction of Jerusalem in 70 A.D.
 
-The Organization of the Sanhedrin
+###### The Organization of the Sanhedrin
 
 The Sanhedrin was composed of 71 priests who served for life and who
 were selected from the following:
@@ -481,7 +479,7 @@ The Sanhedrin had the right of ordering arrests by its own officers; of
 finally disposing of such cases as did not involve capital punishment. A
 sentence of death had to be ratified by the Roman procurator.
 
-The Talmud
+###### The Talmud
 
 Extracts from “The Essential Talmud,” by Adin Steinsaltz.
 
