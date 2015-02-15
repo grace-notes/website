@@ -4,14 +4,9 @@ indexTitle: "Gaul, Christianity in"
 author: "François Pierre Guillaume Guizot"
 pdf: "gaul_christianity_in(guizot).pdf"
 description: "from Guizot's History of France."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Christianity in Gaul8**
-
-Christianity in Gaul
---------------------
 
 This article is taken from **The History of France**, by Maurice Guizot,
 Chapter 6, *Establishment of Christianity in Gaul*.
