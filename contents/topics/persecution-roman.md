@@ -1,18 +1,13 @@
 ---
-title: "Roman Persecution"
+title: "Roman Persecution of Christians"
 indexTitle: "Persecution, Roman"
 pdf: "persecutionroman.pdf"
 description: "by Philip Schaff, the treatment of Christian believers by Roman authority and citizens."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**The Roman Persecution14**
-
-The Roman Persecution of Christians and the Destruction of Jerusalem
-====================================================================
-
-### from Philip Schaff, “History of the Christian Church”.
+ from Philip Schaff, “History of the Christian Church”.
 
 The preaching of Paul and Peter in Rome was an epoch in the history of
 the church. It gave an impulse to the growth of Christianity. Their
