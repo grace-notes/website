@@ -2,13 +2,9 @@
 title: "Refreshment"
 pdf: "refreshment.pdf"
 description: "Refreshment -  Romans 15:32 says, \"So that by God's will I may come to you with joy and together with you be refreshed.\""
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Refreshment 2**
-
-**Refreshment**
 
 The Ministry of Refreshment
 
