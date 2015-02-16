@@ -2,13 +2,11 @@
 title: "Sacrifices in the Old Testament"
 pdf: "sacrifices.pdf"
 description: "The first of the revelations of God to the people of Israel related to the sacrifices, in which the Israelites were to draw near to Him, that they might become partakers of His grace."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Sacrifices in the Old Testament  
-**from Commentary on the Old Testament  
-C. F. Keil and F. Delitzsch
+ 
+from Commentary on the Old Testament, C. F. Keil and F. Delitzsch
 
 [Grace Notes has a 20-lesson course based on Keil and Delitzsch
 commentary on the book of Leviticus. Write to: <wdoud@gracenotes.info>
