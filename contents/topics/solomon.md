@@ -2,13 +2,11 @@
 title: "Solomon"
 pdf: "solomon.pdf"
 description: "Son of David and third king of Israel."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Solomon</sup>
-
-**From the International Standard Bible Encyclopedia**
+From the International Standard Bible Encyclopedia
 
 **Solomon.** Son of David and third king of Israel.
 
