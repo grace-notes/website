@@ -2,13 +2,9 @@
 title: "Reconciliation"
 pdf: "reconciliation.pdf"
 description: "Reconciliation -  How God the Father changes (reconciles) us to His own standards and righteousness."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Propitiation 0**
-
-**Reconciliation**
 
 The word reconciliation refers to the process of changing something
 thoroughly and adjusting it to something else that is a standard. For
