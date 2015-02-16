@@ -2,6 +2,7 @@
 title: "Twelve Tribes of Israel"
 pdf: "twelvetribes.pdf"
 description: "\"All these are the twelve tribes of Israel, and this is what their father said to them when he blessed them. He blessed them, every one with the blessing appropriate to him.\" (Gen. 49:28)."
+tableofcontents: true
 template: topic.jade
 ---
 
