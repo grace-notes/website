@@ -2,14 +2,9 @@
 title: "Thessalonica"
 pdf: "thessalonica.pdf"
 description: "the second city in Europe to hear the preaching voice of St. Paul, and probably the first church to receive an epistle from him.."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Thessalonica 7**
-
-Thessalonica
-============
 
 **From**[**Thessalonica**](http://en.wikipedia.org/wiki/Thessalonica)**,
 an article in Wikipedia.**
