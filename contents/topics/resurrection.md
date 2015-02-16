@@ -2,13 +2,9 @@
 title: "Resurrection of Christ"
 pdf: "resurrection.pdf"
 description: "Resurrection of Christ -  An outline study of the main features of the resurrection of Christ, including a description of the resurrection body of Christ and the events surrounding the resurrection."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Resurrection 4**
-
-**The Resurrection of Jesus Christ**
 
 Introduction
 
