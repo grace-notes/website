@@ -2,18 +2,13 @@
 title: "Temple: Description and Measurements"
 pdf: "templemeasurement.pdf"
 description: "from Edersheim, Alfred, \"Sketches of Jewish Social Life\", Appendix I."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Temple Measurements 6**
-
-**Temple: Description and Measurements**
-
 [from Edersheim, Alfred, “Sketches of Jewish Social Life”, Appendix I.
 
-Massecheth Middoth: The Mishnah Tractate Describing the Measurements of the Temple
-==================================================================================
+##### Massecheth Middoth: The Mishnah Tractate Describing the Measurements of the Temple
 
 Middoth is the tenth Tractate of Seder V. (Kodashim) of the Mishnah. It
 has no Gemara either in the Jerusalem or the Babylon Talmud. In the
