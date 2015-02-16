@@ -3,7 +3,7 @@ title: "The Inerrancy of the Bible"
 indexTitle: "Inerrance"
 pdf: "inerrancy.pdf"
 description: "Inerrancy -  A comparison of the views of both sides of the issue of inerrancy in the Bible."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

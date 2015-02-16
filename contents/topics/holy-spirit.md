@@ -4,7 +4,7 @@ pdf: "holyspirit.pdf"
 description: "Holy Spirit -  The Person and work of God the Holy Spirit;
               the indwelling of the Spirit; the filling of the Spirit;
               the fruit of the Spirit."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "Propitiation"
 pdf: "propitiation.pdf"
 description: "Propitiation -  Jesus Christ is our Mercy Seat, our place of propitiation!"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

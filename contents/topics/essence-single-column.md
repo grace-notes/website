@@ -2,7 +2,7 @@
 title: "The Essence of God"
 indexTitle: "God, Esseence of"
 pdf: "essence_singlecolumn.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

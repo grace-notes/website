@@ -1,7 +1,7 @@
 ---
 title: "Prophecy Unfulfilled"
 pdf: "prophecyunfulfilled.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

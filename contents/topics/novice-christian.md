@@ -2,7 +2,7 @@
 title: "Novice Christian"
 pdf: "novicechristian.pdf"
 description: "Any Christian believer is either winning or losing in the attempt to live as a Christian. A believer is either living according to the revealed plan of God, or is serving “the ruler of this world.” There is no in-between or middle ground."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

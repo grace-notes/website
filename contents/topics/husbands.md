@@ -2,7 +2,7 @@
 title: "Husbands"
 pdf: "husbands.pdf"
 description: "Husbands -  How to be the husband of a happy wife."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

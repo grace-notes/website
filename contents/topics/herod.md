@@ -3,7 +3,7 @@ title: "The Family of Herod the Great"
 indexTitle: "Herod, The Family of"
 pdf: "herod.pdf"
 description: "The Herod mentioned in Matthew 2 and in Luke 1, is known to history as Herod the Great. His family was Jewish, by race, but the were actually Idumeans (Edomites)."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

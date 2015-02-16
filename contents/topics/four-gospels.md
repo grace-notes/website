@@ -3,7 +3,7 @@ title: "The Four Gospels"
 indexTitle: "Gospels, the Four"
 pdf: "fourgospels.pdf"
 description: "Four Gospels, The -  An introduction to the gospels of Matthew, Mark, Luke and John."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

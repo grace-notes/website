@@ -2,7 +2,7 @@
 title: "Freedom in the Christian Life"
 pdf: "freedom.pdf"
 description: "Freedom -  What it means to be set free from \"the law of sin and death.\""
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

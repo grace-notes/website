@@ -2,7 +2,7 @@
 title: "Jews Relationship to Gentiles"
 pdf: "jewsgentiles.pdf"
 description: "Jews Relationship to Gentiles -  A few examples from extensive Jewish writings of early times of their regulations concerning contact with Gentile people - from Edersheim."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

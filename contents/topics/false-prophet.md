@@ -3,7 +3,7 @@ title: "The False Prophet"
 indexTitle: "False Prophet, The"
 pdf: "falseprophet.pdf"
 description: "False Prophet, The-  The False Prophet of the end times."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

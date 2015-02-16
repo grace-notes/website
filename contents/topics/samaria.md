@@ -2,7 +2,7 @@
 title: "Samaria"
 pdf: "samaria.pdf"
 description: "a brief but thorough political history of Samaria."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

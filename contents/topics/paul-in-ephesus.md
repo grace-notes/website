@@ -2,7 +2,7 @@
 title: "Paul in Ephesus"
 pdf: "paulinephesus.pdf"
 description: "Paul in Ephesus -  an account of the apostle Paul's ministry in Ephesus."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

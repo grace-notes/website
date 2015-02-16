@@ -2,7 +2,7 @@
 title: "Faith"
 pdf: "faith.pdf"
 description: "Faith as a means of learning compared to rationalism and empiricism; how Christian faith works; how to grow in faith."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

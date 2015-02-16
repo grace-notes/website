@@ -2,7 +2,7 @@
 title: "Loyal Love"
 pdf: "loyallove.pdf"
 description: "Loyal Love -  Another look at the subject of AGAPE love."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

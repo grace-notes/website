@@ -1,7 +1,7 @@
 ---
 title: "Jewish Religious System"
 pdf: "jewishreligioussystem.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

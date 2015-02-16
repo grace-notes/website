@@ -3,7 +3,7 @@ title: "The Day of Atonement"
 indexTitle: "Atonement, The Day of"
 pdf: "atonementdayof.pdf"
 description: "The Day of Atonement was the fourth of the five annual feasts of pre-exile Israel."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

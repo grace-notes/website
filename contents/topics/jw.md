@@ -1,6 +1,6 @@
 ---
 title: "Jehovah's Witnesses"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
  

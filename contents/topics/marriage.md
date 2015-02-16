@@ -3,7 +3,7 @@ title: "Christian Marriage"
 indexTitle: "Marriage, Christian"
 pdf: "marriage.pdf"
 description: "Marriage, Christian -  Thorough treatment on the subject of marriage in the Bible."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

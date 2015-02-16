@@ -2,7 +2,7 @@
 title: "Nehemiah"
 pdf: "nehemiah.pdf"
 description: "A postexile governor of Judah and writer of the memoirs in the book called by his name. All that is known from contemporary sources about this Jewish patriot is found in the book of Nehemiah."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

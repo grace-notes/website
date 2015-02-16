@@ -3,7 +3,7 @@ indexTitle: "Ark of the Covenant"
 title: "The Ark of the Covenant"
 pdf: "arkofthecovenant.pdf"
 description: "The Ark of the Tabernacle, its history and typology."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

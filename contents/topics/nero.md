@@ -1,7 +1,7 @@
 ---
 title: "Nero"
 pdf: "nero.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

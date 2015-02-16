@@ -3,7 +3,7 @@ title: "Witnessing to Enemies"
 indexTitle: "Enemies, Witnessing to"
 pdf: "enemies.pdf"
 description: "Every Christian has a duty to love his enemies and to witness to them."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

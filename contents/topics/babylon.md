@@ -4,7 +4,7 @@ template: topic.jade
 description: "Babylon lay on the bank of the Euphrates in the land of
   Shinar (Gen. 10:10), in the northern area of Babylonia (now southern
   Iraq) called Accad (as opposed to the southern area called Sumer)."
-tableofcontents: true
+tableOfContents: true
 ---
 
 *From International Standard Bible Encyclopedia*

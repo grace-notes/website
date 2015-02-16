@@ -2,7 +2,7 @@
 title: "Lydia, the seller of purple"
 pdf: "lydia.pdf"
 description: "Lydia, being convinced that Jesus was the Messiah, and having made a profession of her faith, was forthwith baptized."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

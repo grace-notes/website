@@ -3,7 +3,7 @@ title: "The Apostolic Fathers"
 indexTitle: "Apostolic Fathers, The"
 pdf: "apostolicfathers.pdf"
 description: "at least a partial listing, including brief biographies of the successors to the Apostles."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

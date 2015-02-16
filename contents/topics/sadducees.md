@@ -2,7 +2,7 @@
 title: "Sadducees"
 pdf: "sadducees.pdf"
 description: "brief article describing this sect."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

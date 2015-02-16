@@ -2,7 +2,7 @@
 title: "Refreshment"
 pdf: "refreshment.pdf"
 description: "Refreshment -  Romans 15:32 says, \"So that by God's will I may come to you with joy and together with you be refreshed.\""
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

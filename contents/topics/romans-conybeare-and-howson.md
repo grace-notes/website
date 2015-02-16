@@ -2,7 +2,7 @@
 title: "Epistle to the Romans - Conybeare and Howson"
 pdf: "romans_conybeare&howson.pdf"
 description: "translation of Romans by C&H, extensive comments and footnotes."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

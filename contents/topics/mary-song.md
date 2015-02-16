@@ -2,7 +2,7 @@
 title: "Mary's Song"
 pdf: "marysong.pdf"
 description: "Luke's narrative now turns to the story of Mary, the mother of our Lord."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

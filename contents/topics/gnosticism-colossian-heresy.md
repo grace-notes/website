@@ -5,7 +5,7 @@ description: "The Colossian heresy, in its attack upon the person and
               be met with such precise and complete doctrinal teaching
               as would successfully cope with the false teachings of
               these systems."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

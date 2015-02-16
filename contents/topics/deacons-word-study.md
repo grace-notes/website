@@ -1,7 +1,7 @@
 ---
 title: "Deacon, a word study"
 pdf: "deacons_wordstudy.pef"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

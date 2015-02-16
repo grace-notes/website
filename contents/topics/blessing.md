@@ -1,7 +1,7 @@
 ---
 title: Blessing
 description: "Bible origins of the New Testament word \"blessing\", applications."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

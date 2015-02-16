@@ -2,7 +2,7 @@
 title: "The \"Much More\" Care of God"
 pdf: "muchmore.pdf"
 description: "The \"Much More\" Care of God -  The Lord Jesus did the most for us when He died on the Cross. In the Christian life He does much more than the most for us."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

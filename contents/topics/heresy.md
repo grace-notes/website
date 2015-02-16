@@ -2,7 +2,7 @@
 title: "Heresy and Apostasy"
 pdf: "heresy.pdf"
 description: "Heresy and Apostasy -  Definitions, and the Biblical solution to the problem of apostasy in the local church."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

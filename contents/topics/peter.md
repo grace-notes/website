@@ -2,7 +2,7 @@
 title: "Peter the Apostle"
 pdf: "peter.pdf"
 description: "A disciple of Jesus and apostle of the early Church."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

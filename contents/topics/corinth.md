@@ -2,7 +2,7 @@
 title: "Corinth"
 pdf: "corinth.pdf"
 description: "A brief summary of the history of the Greek city where Paul stayed 18 months."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

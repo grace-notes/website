@@ -6,7 +6,7 @@ description: "A busybody is a person who inserts himself uninvited into
               others. The Bible is very clear that this is wrong,
               totally inappropriate behavior, especially in a local
               church congregation."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

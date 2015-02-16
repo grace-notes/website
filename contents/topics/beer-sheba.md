@@ -2,7 +2,7 @@
 title: Beer Sheba
 description: "The name of this venerable town means literally \"the well
               of seven.\""
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

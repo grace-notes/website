@@ -2,7 +2,7 @@
 title: "Roman Persecution"
 pdf: "romanpersecution.pdf"
 description: "an extended account of the persecution of Christians by the Romans, and details of the siege and destruction of Jerusalem in 70 AD."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

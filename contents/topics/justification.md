@@ -2,7 +2,7 @@
 title: "Justification"
 pdf: "justification.pdf"
 description: "Justification -  Outline of the doctrine of Justification."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

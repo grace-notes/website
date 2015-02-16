@@ -3,7 +3,7 @@ title: "The Church, the Body of Christ"
 indexTitle: "Church, the Body of Christ"
 pdf: "church.pdf"
 description: "Many people think of church in terms of brick and mortar, program and form. But in these passages you will learn that the Church is a spiritual organism, dear to the heart of God the Father."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

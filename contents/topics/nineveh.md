@@ -1,7 +1,7 @@
 ---
 title: Nineveh
 pdf: "nineveh.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

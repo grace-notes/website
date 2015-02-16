@@ -4,7 +4,7 @@ pdf: "amos.pdf"
 description: "A prophet of the 8th century B.C., and the third book of
               the Minor Prophets."
 author: "J. Robertson  C. Armerding"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

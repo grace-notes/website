@@ -2,7 +2,7 @@
 title: "Persecution in the Early Church"
 pdf: "persecutionearlychurch.pdf"
 description: "A description of the life of early believers under Jewish persecution."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

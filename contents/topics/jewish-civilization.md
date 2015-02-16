@@ -2,7 +2,7 @@
 title: "Jewish Civilization"
 pdf: "jewishcivilization.pdf"
 description: "Jewish Civilization -  A holy religion the characteristic of the civilization of the Jews, and their religious feelings were directed to something in the future. All the circumstances of their national life tended to fix their thoughts on One that was to come."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "Isaac"
 pdf: "isaac.pdf"
 description: "An OT patriarch, son of Abraham and father of Jacob and Esau."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

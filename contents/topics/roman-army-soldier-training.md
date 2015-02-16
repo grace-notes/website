@@ -3,7 +3,7 @@ title: "Soldier Training in the Roman Army"
 indexTitle: "Roman Army, Soldier Training"
 pdf: "romanarmy_soldiertraining.pdf"
 description: "from Vegetius, Epitome of Military Science."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

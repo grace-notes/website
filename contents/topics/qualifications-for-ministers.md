@@ -2,7 +2,7 @@
 title: "Qualifications for Ministers"
 pdf: "qualificationsforministers.pdf"
 description: "an exposition of Titus 1:5-9."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

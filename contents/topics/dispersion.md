@@ -2,7 +2,7 @@
 title: "Dispersion (Diaspora)"
 pdf: "dispersion.pdf"
 description: "The term used to designate the Jews living outside Palestine and maintaining their religious observances and customs among the Gentiles."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

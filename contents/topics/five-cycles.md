@@ -3,7 +3,7 @@ title: "Five Cycles of Divine Discipline"
 indexTitle: "Divine Discipline, Five Cycles"
 pdf: "fivecycles.pdf"
 description: "Divine Discipline, Five Cycles -  Jehovah chastens nations which are out of fellowship."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

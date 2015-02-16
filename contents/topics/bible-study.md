@@ -2,7 +2,7 @@
 title: Bible Study
 description: How to study the Bible with understanding.
 author: Drue Freeman
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

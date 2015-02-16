@@ -2,7 +2,7 @@
 title: "Maccabees (Hasmoneans)"
 pdf: "maccabees.pdf"
 description: "The Jewish family that ruled Judea during most of the 400 silent years."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

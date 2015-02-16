@@ -2,7 +2,7 @@
 title: "Apostleship"
 pdf: "apostleship.pdf"
 description: "Qualifications, credentials, and function of apostles."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

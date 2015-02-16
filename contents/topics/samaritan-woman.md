@@ -2,7 +2,7 @@
 title: "Samaritan Woman"
 pdf: "samaritanwoman.pdf"
 description: "exposition of John 4:1-42; Christ's dealings with a troubled woman."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

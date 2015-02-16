@@ -1,7 +1,7 @@
 ---
 title: "Abomination of Desolation"
 pdf: "abomination.pdf"
-tableofcontents: true
+tableOfContents: true
 description: 'In Matthew 24:15-20, our Lord Himself spoke of the 
   "abomination of desolation."'
 template: topic.jade

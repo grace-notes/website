@@ -3,7 +3,7 @@ title: "The Christian at Work"
 indexTitle: "Christian at Work"
 pdf: "christianatwork.pdf"
 description: "Suggestions for a believer's attitude and function on the job."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

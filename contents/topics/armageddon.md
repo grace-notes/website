@@ -2,7 +2,7 @@
 title: "Armageddon"
 pdf: "armageddon.pdf"
 description: "a review of the final battle."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

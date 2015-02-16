@@ -3,7 +3,7 @@ title: "The Poor"
 indexTitle: "Poor, The"
 pdf: "poor.pdf"
 description: "The Lord Jesus said \"The poor you will have with you always\" (Mark 14:17), and the Bible has extensive teaching on the subject of poverty and how a Christian's duties include responsibility and care for poor people."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

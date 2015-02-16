@@ -2,7 +2,7 @@
 title: "Samson"
 pdf: "samson.pdf"
 description: "From Commentary on the Old Testament, Judges 13 to 16, by C. F. Keil and F. Delitzsch."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

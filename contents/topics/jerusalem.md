@@ -2,7 +2,7 @@
 title: "Jerusalem"
 pdf: "jerusalem.pdf"
 description: "Jerusalem -  A study of the chief city of Israel."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

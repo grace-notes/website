@@ -3,7 +3,7 @@ title: "The Holy Spirit's Salvation Ministry"
 indexTitle: "Holy Spirit, Salvation Ministry of the"
 pdf: "holyspirit_salvationministry.pdf"
 description: "Holy Spirit - Salvation Ministry -  God the Holy Spirit did seven things for each Church Age believer at the time of salvation."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: Body Of Christ
 display_title: The Body of Christ
 description: Every Christian is a member of the Body of Christ.
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

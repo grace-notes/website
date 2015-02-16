@@ -1,7 +1,7 @@
 ---
 title: "Paul's Letters to the Thessalonians"
 pdf: "paul_tothethessalonians.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

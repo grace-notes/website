@@ -2,7 +2,7 @@
 title: "Pastor-Teachers in the Church Age"
 pdf: "pastorteachers.pdf"
 description: "Pastor-Teachers -  the pastor-teacher has a spiritual gift that he does not deserve and cannot earn."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

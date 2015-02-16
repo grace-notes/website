@@ -2,7 +2,7 @@
 title: "The Early Church"
 pdf: "earlychurch.pdf"
 description: "Details of the organization and activities of the Church, from Pentecost to the beginning of Paul's ministry."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

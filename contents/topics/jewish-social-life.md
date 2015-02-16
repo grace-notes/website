@@ -2,7 +2,7 @@
 title: "Sketches of Jewish Social Life"
 indexTitle: "Jewish Social Life"
 pdf: "jewishsociallife.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

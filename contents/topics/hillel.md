@@ -2,7 +2,7 @@
 title: "Hillel"
 pdf: "hillel.pdf"
 description: "An eminent Jewish scholar and rabbinic leader in Jerusalem in the early Herodian period. Contemporary with Gamilel."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

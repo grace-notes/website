@@ -2,7 +2,7 @@
 title: "Confession of Sin"
 pdf: "confession.pdf"
 description: "The principles of biblical confession of sin; how the Lord's grace provision makes it possible for a Christian to stay in fellowship."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

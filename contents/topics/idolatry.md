@@ -2,7 +2,7 @@
 title: "Idolatry"
 pdf: "idolatry.pdf"
 description: "Idolatry -  an outline discussion of the various forms of idolatry prevalent in Old Testament and New Testament times."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

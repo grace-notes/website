@@ -1,7 +1,7 @@
 ---
 title: "John The Baptist"
 pdf: "johnthebaptist.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

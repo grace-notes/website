@@ -1,7 +1,7 @@
 ---
 title: "Dead Sea Scrolls"
 description: "The name generally given to the manuscripts and fragments of manuscripts of the Bible discovered in caves near the northwestern end of the Dead Sea in the period between 1946 and 1956."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

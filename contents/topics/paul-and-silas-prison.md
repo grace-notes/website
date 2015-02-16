@@ -1,7 +1,7 @@
 ---
 title: "Paul and Silas in the Philippians Jail"
 pdf: "paul&silas_prison.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

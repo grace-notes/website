@@ -2,7 +2,7 @@
 title: "Torah, Jewish Teachings on"
 pdf: "jewishteaching_torah.pdf"
 description: "In its most limited sense, \"Torah\" refers to the Five Books of Moses: Genesis, Exodus, Leviticus, Numbers and Deuteronomy. But the word \"torah\" can also be used to refer to the entire Jewish bible (the body of scripture known to non-Jews as the Old Testament and to Jews as the Tanakh or Written Torah), or in its broadest sense, to the whole body of Jewish law and teachings."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -3,7 +3,7 @@ title: "Survey of Acts"
 indexTitle: "Acts, Survey"
 pdf: "acts_survey.pdf"
 description: "a survey of the Acts of the Apostles."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

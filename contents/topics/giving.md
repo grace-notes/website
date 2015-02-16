@@ -2,7 +2,7 @@
 title: "Giving"
 pdf: "giving.pdf"
 description: "Giving -  A brief study of Christian giving - comments on 2 Corinthians 8 and 9."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

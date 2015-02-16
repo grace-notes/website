@@ -2,7 +2,7 @@
 title: "Dispensations"
 pdf: "dispensations.pdf"
 description: "A dispensation is a period of time which is identified by its relation to some particular purpose of God."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "Prophetical History of the Old Testament"
 pdf: "propheticalhistory.pdf"
 description: "an outline description of the historical books of the Bible, Joshua, Judges, 1 and 2 Samuel, and 1 and 2 Kings."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

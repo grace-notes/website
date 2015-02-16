@@ -3,7 +3,7 @@ indexTitle: "Anger"
 title: "The Doctrine of Anger"
 pdf: "anger.pdf"
 description: "What the Bible says about anger, ours and God's. How to deal with sinful anger."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

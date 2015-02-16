@@ -2,7 +2,7 @@
 title: "Agriculture in Palestine"
 pdf: "agriculturepalestine.pdf"
 description: "Israelites learned farming during 400 years in Egypt. Description of farming practices and OT laws regulating them."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

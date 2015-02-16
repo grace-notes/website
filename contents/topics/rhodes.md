@@ -2,7 +2,7 @@
 title: "Rhodes"
 pdf: "rhodes.pdf"
 description: "The capital city of Rhodes is mentioned in Acts 21:1 as one of Paul's stopping places on his final journey to Jerusalem. Though the port city had once been one of the most powerful commercial centers of the Mediterranean, by the time of Paul's visit it was little more than a beautiful city with a glorious past."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

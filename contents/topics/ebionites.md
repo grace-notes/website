@@ -2,7 +2,7 @@
 title: "Ebionites"
 pdf: "ebionites.pdf"
 description: "A Jewish-Christian heretical sect flourishing in the 2nd, 3rd, and 4th cents A.D."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

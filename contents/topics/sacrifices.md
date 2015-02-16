@@ -2,7 +2,7 @@
 title: "Sacrifices in the Old Testament"
 pdf: "sacrifices.pdf"
 description: "The first of the revelations of God to the people of Israel related to the sacrifices, in which the Israelites were to draw near to Him, that they might become partakers of His grace."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
  

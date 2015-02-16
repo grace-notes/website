@@ -2,7 +2,7 @@
 title: "Paul's First Letter to the Corinthians"
 pdf: "paul-firstlettertocorinth.pdf"
 description: "Paul - to the Corinthians -  an account of the events surrounding Paul's writing to the Corinthians."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

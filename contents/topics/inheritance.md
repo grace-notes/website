@@ -2,7 +2,7 @@
 title: "Inheritance"
 pdf: "inheritance.pdf"
 description: "Inheritance -  A study of the Christian's heritage in Christ."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -3,7 +3,7 @@ title: "Introduction to Acts"
 indexTitle: "Acts, Introduction"
 pdf: "acts_intro.pdf"
 description: "an introduction to the study of the Acts of the Apostles."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

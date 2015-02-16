@@ -2,7 +2,7 @@
 title: "Edomites"
 pdf: "edomites.pdf"
 description: "Historical summary of the Edomites."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

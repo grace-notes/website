@@ -1,7 +1,7 @@
 ---
 title: "Proselytes, Hellenists, and Hebrews"
 pdf: "proselytes.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

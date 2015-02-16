@@ -3,7 +3,7 @@ title: "Principles of Prayer"
 indexTitle: "Prayer, Principles of"
 pdf: "prayerprinciples.pdf"
 description: "Prayer, Principles of-  prayer is communication with God."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

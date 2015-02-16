@@ -2,7 +2,7 @@
 title: "Covenants"
 pdf: "covenants.pdf"
 description: "An extensive study of God's Covenants with Adam, Noah, Abraham, Moses, David; and the New Covenant."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

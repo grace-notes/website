@@ -3,7 +3,7 @@ title: "The Filling of the Holy Spirit"
 indexTitle: "Holy Spirit, Filling of the"
 pdf: "holyspirit_filling.pdf"
 description: "Holy Spirit, Filling of the -  The empowering ministry brought about by the Holy Spirit's control of the believer's life."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

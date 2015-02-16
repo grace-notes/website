@@ -2,7 +2,7 @@
 title: "Deuteronomy - Introduction"
 pdf: "deuteronomy_introduction.pdf"
 description: "The book of Deuteronomy contains not so much \"a recapitulation of the things commanded and done, as related in Exodus, Leviticus, and Numbers\" (Theod.), as \"a compendium and summary of the whole law and wisdom of the people of Israel, wherein those things which related to the priests and Levites are omitted, and only such things included as the people generally required to know\" (Luther)."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

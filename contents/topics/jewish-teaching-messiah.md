@@ -2,7 +2,7 @@
 title: "Jewish Teaching, Messiah"
 pdf: "jewishteaching_messiah.pdf"
 description: "Jewish teaching regarding the Messiah."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

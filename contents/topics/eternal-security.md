@@ -2,7 +2,7 @@
 title: "Eternal Security"
 pdf: "eternalsecurity.pdf"
 description: "An understanding of these concepts is required before there can be stability in our Christian lives."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

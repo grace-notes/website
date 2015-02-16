@@ -2,7 +2,7 @@
 title: "Media and the Medes"
 pdf: "media.pdf"
 description: "An ancient people and land SW of the Caspian Sea, between the Zagros Mountains and the Salt Desert."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

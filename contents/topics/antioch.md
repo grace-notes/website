@@ -2,7 +2,7 @@
 title: "Antioch"
 pdf: "antioch.pdf"
 description: "where followers of Christ were first called Christians, is located some three hundred miles north of Jerusalem, on the west bank of the Orontes River."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "Jewish Theological Writings"
 pdf: "jewishtheologicalwritings.pdf"
 description: "This article is an outline introduction to the major lines of Jewish theological literature."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

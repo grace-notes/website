@@ -2,7 +2,7 @@
 title: "Genealogy Jesus Christ"
 indexTitle: "Jesus Christ, Genealogy"
 pdf: "genealogyJesusChrist.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

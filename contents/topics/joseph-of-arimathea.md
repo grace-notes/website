@@ -2,7 +2,7 @@
 title: "Joseph of Arimathea"
 pdf: "josephofarimathea.pdf"
 description: "In all four Gospels the man who steps forth to bury Jesus' body is Joseph of Arimathea."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

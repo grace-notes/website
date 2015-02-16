@@ -2,7 +2,7 @@
 title: "Bible Chapter Titles"
 pdf: "chaptertitles_bible.pdf"
 description: "a title for each chapter in the Bible."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "Messiah in the Old Testament"
 pdf: "messiah.pdf"
 description: "from The Life and Times of Jesus the Messiah by Alfred Edersheim, Appendix IX."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

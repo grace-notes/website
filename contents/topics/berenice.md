@@ -2,7 +2,7 @@
 title: "Bernice"
 pdf: "berenice.pdf"
 description: "the sister of Herod Agrippa II; features in trial of Paul in Acts 25."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

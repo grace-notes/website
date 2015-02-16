@@ -2,7 +2,7 @@
 title: Baal
 template: topic.jade
 description: The supreme fertility-god of the Canaanites. [FEB 2013]
-tableofcontents: true
+tableOfContents: true
 ---
 
 **From International Standard Bible Encyclopedia**

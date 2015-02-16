@@ -2,7 +2,7 @@
 title: "Miletus"
 pdf: "miletus.pdf"
 description: "Paul summoned the Ephesian elders to meet him at the major seaport city of Miletus in order to give them his final charge (Acts 20:15, 21:1)."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

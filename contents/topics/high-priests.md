@@ -1,6 +1,6 @@
 ---
 title: "High Priests"
-tableofcontents: true
+tableOfContents: true
 pdf: "highpriests.pdf"
 template: topic.jade
 ---

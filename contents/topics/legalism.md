@@ -2,7 +2,7 @@
 title: "Legalism"
 pdf: "legalism.pdf"
 description: "Legalism -  The greatest distortion to Grace is religious legalism."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

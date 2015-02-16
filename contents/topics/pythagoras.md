@@ -2,7 +2,7 @@
 title: "Pythagoras of Samos"
 pdf: "pythagoras.pdf"
 description: "brief biography of the Greek mathematician, Born: about 569 BC in Samos, Ionia."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

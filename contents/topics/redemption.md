@@ -2,7 +2,7 @@
 title: "Redemption"
 pdf: "redemption.pdf"
 description: "Redemption -  A study of the doctrine of redemption, God's special intervention for the salvation of mankind."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

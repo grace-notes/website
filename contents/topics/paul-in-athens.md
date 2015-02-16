@@ -2,7 +2,7 @@
 title: "Paul in Athens"
 pdf: "paulinathens.pdf"
 description: "an account from Conybeare and Howson, The Life and Epistles of St. Paul of Paul's ministry in Athens."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

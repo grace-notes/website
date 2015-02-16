@@ -2,7 +2,7 @@
 title: "Ambassadorship"
 pdf: "ambassadorship.pdf"
 description: "Now then, we are ambassadors for Christ."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

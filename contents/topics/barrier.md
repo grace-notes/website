@@ -1,7 +1,7 @@
 ---
 indexTitle: Barrier, Reconciliation, Justification
 title: The Barrier, Reconciliation, Justification
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 description: "The doctrines of Reconciliation, Propitiation, and the
               removal of the barrier between God and man."

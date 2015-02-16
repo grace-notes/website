@@ -2,7 +2,7 @@
 title: "Jewish Literature"
 pdf: "jewishliterature.pdf"
 description: "a brief outline of ancient Jewish theological literature (Alfred Edersheim)."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 
