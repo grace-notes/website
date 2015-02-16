@@ -2,13 +2,9 @@
 title: "Sexual Health in the Bible"
 pdf: "sexualhealth.pdf"
 description: "Sexual Health in the Bible -  Extensive study of what the Bible says about non-marital sexual activity."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Sexual Health 4**
-
-Sexual Health in the Bible
 
 God the Father intends that sexual activity be conducted only between
 husband and wife. The Bible takes a categorical and unequivocal stand
