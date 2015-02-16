@@ -2,11 +2,9 @@
 title: "Rahab and the Grace of God"
 pdf: "rahab.pdf"
 description: "Rahab and the Grace of God -  Rahab, Salmon's wife, Ruth's mother-in-law, David's great-great-grandmother, a trophy to the Grace of God."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Rahab - 3**
 
 The story of Rahab (Joshua chapter 2) stands as one of the greatest
 trophies to God’s Grace principle. She was one of the greatest producers
