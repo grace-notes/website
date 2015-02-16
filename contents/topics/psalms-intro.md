@@ -3,13 +3,9 @@ title: "Introduction to Psalms"
 indexTitle: "Psalms, Introduction to"
 pdf: "psalmsintro.pdf"
 description: "Psalms, Introduction to -  An introduction to the study of the Psalms, and an outline of the First Psalm."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Psalms, Introduction 3**
-
-Introduction to the Psalms
 
 This material on Introduction to Psalms is adapted from the studies of
 Chester McCalley, the pastor of Beth Haven Bible church in North Kansas
