@@ -5,16 +5,10 @@ description: "Pride (Arrogance) -  Whenever a Christian fails to execute the pla
 template: topic.jade
 ---
 
-
-**Pride 3**
-
-**Pride**
-
 “**These six things doth the Lord hate: yea, seven are an abomination
 unto him: a proud look …” Proverbs 6:16-17**
 
 Introduction
-------------
 
 God has a plan for your life. God is perfect. Therefore, His plan is
 perfect.
@@ -37,7 +31,6 @@ God.” The original sin of pride is amplified in the following passage.
 **Ezek. 28:14-17**
 
 A Description of Sinful Pride
------------------------------
 
 Pride is a lofty self-respect totally apart from reality. It is high
 esteem of oneself from some imagined or real superiority.
@@ -73,7 +66,6 @@ by others. Hence, vanity is easily flattered and patronized.
 attainments.
 
 Scriptures Related to the Sin of Pride
---------------------------------------
 
 **Prov. 11:2, "**When pride comes, then come dishonor. But with the
 humble is wisdom.”
@@ -87,7 +79,6 @@ think so as to have sound judgment, as God has allotted to each a
 measure of faith.”
 
 Pride is defined in terms of the sin of jealousy in
----------------------------------------------------
 
 **James 3:14-16,**“But if you have bitter jealousy and inordinate
 ambition in your heart, stop being arrogant, and stop lying against the
@@ -105,7 +96,6 @@ Therefore, humble yourselves under the powerful hand of God, that He may
 promote you at the proper time.”
 
 Application
------------
 
 If God does not promote you, you are not promoted.
 
@@ -132,7 +122,6 @@ always learning but never able to come to metabolized knowledge of the
 truth.”
 
 The Arrogance of Nations Brings Them Under Divine Discipline
-------------------------------------------------------------
 
 **Lev. 26:19, “And I will break down the pride of your power. And I will
 make your sky like iron and your land like bronze.”**
@@ -145,7 +134,6 @@ of Samaria, who spoke with pride and pride of heart.”
 rod of discipline has budded because pride has blossomed.”
 
 Pride is Always Related to the Rejection of the Word of God
------------------------------------------------------------
 
 **1 Tim. 6:3-4,**“If anyone teaches a different doctrine and does not
 concur with sound doctrine, those doctrines of our Lord Jesus Christ,
@@ -161,7 +149,6 @@ the soul and the sign that the sin nature is dominating the soul.
 Pride destroys capacity for life, love and happiness.
 
 The Effects of Pride
---------------------
 
 The arrogant person rejects authority.
 
@@ -175,7 +162,6 @@ competition, gossip, slander, maligning and judging.
 Pride transformed into self righteousness produces legalism.
 
 The Solution to Pride
----------------------
 
 Occupation with Christ is the ultimate problem solving device regarding
 pride. Refer to the Grace Notes on Occupation with Christ.
