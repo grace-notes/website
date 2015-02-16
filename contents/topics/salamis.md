@@ -1,18 +1,12 @@
 ---
-title: "Salamis"
+title: "The City of Salamis"
+indexTitle: "Salamis, the City of"
 pdf: "salamis.pdf"
-description: "the city on Cyprus, visited by Paul and Barnabus. Traditional place where Barnabas, a native of Cyprus, was martyred."
+description: "The city on Cyprus, visited by Paul and Barnabus. Traditional place where Barnabas, a native of Cyprus, was martyred."
 template: topic.jade
 ---
 
-
-**Salamis 2**
-
-**Salamis**
-
-**from “The Life and Epistles of St. Paul,” by Conybeare and Howson.**
-
-**Salamis**
+from “The Life and Epistles of St. Paul,” by Conybeare and Howson.
 
 The coast of nearly every island of the Mediterranean has been minutely
 surveyed and described by British naval officers. The two islands which
