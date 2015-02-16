@@ -2,11 +2,9 @@
 title: "Sin Nature"
 pdf: "sinnature.pdf"
 description: "Sin Nature: part of the essence of the soul acquired at Adam's fall and passed on to every person at birth."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Sin Nature 3**
 
 The Sin Nature is that part of the essence of the soul acquired at
 Adam’s fall and subsequently passed on to every person at birth. The Sin
