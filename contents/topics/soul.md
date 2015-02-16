@@ -1,19 +1,15 @@
 ---
-title: "The Human of Soul"
-indexTitle: "Soul, The Human"
+title: "Doctrine of the Soul"
+indexTitle: "Soul, Doctrine of"
 pdf: "soul.pdf"
 description: "Man is aware of his own existence and is able to relate to both animate and inanimate life on earth."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**DOCTRINE OF THE SOUL**  
-**====================**
 
 Compiled from transcriptions of recorded teachings of Pastor R. B. Thieme, Jr.
 
 **The Essence of the Soul**  
-**=======================**
 
 _*Self-Consciousness*_
 
