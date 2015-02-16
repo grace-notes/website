@@ -1,10 +1,9 @@
 ---
 title: Talmud Shabbath
+pdf: "talmud_shabbath.pdf"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Talmud: Sabbath 73a to 75b 12**
 
 **Talmud - Mas. Sabbath 73a**
 
