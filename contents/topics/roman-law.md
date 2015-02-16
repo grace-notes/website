@@ -2,14 +2,12 @@
 title: "Roman Law"
 pdf: "romanlaw.pdf"
 description: "The source of Roman law is the family or gens. The proprietary rights of the pater familias as head of this primitive unit of organization are fundamental in private law, and the scope of the criminal jurisdiction of the state was limited by the power of life and death exercised by the head of the family over those under his authority."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-<sup>Roman\\ Law</sup>
-
 I. Introduction
-===============
 
 The source of Roman law is the family or *gens*. The proprietary rights
 of the *pater familias* as head of this primitive unit of organization
@@ -36,7 +34,6 @@ which caused societal disorder. The parties to a disagreement were
 compelled to submit their claims to an arbitrator.
 
 II. Roman Private Law
-=====================
 
 **A. The Twelve Tables**Roman private law was at first a body of
 unwritten usages handed down by tradition in the patrician families. The
@@ -110,7 +107,6 @@ governing actual conduct in Western Europe (J. Bryce, *Studies in
 History and Jurisprudence* [1901]).
 
 III. Roman Criminal Law
------------------------
 
 **A. Jurisdiction in the Royal Period**In the royal period criminal
 jurisdiction, insofar as it was a function of secular administration,
