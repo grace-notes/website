@@ -2,11 +2,9 @@
 title: "Traditionalism"
 pdf: "traditionalism.pdf"
 description: "Its Origin, Character, and Literature, the Mishnah And Talmud - from Alfred Edersheim, \"The Life and Times of Jesus the Messiah\""
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Traditionalism 10**
 
 Traditionalism, Its Origin, Character, And Literature  
 The Mishnah And Talmud
