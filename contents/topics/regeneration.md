@@ -2,13 +2,9 @@
 title: "Regeneration"
 pdf: "regeneration.pdf"
 description: "Regeneration -  What does it mean to be born again? A discussion of the words referring to a believer's new life in Christ."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Regeneration 2**
-
-Regeneration
 
 **Regeneration** is the theological term for the Christian’s “new” or
 “second” birth in Christ. By definition, regeneration is the act of God
