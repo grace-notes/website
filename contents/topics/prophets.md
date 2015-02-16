@@ -2,13 +2,9 @@
 title: "Prophets and Prophesying"
 pdf: "prophets.pdf"
 description: "Prophets and Prophesying -  An outline study of the Old Testament Prophet and his ministry."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Prophets and Prophesying 3**
-
-**Prophets and Prophesying**
 
 by Pastor Mark Perkins
 
