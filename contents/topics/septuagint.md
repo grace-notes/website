@@ -2,16 +2,9 @@
 title: "Septuagint"
 pdf: "septuagint.pdf"
 description: "Septuagint (sometimes abbreviated LXX) is the name given to the Greek translation of the Jewish Scriptures."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Septuagint 2**
-
-**Septuagint**
-
-Septuagint – What is it? <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
------------------------------------------------------------------------
 
 Septuagint (sometimes abbreviated LXX) is the name given to the Greek
 translation of the Jewish Scriptures. The Septuagint has its origin in
