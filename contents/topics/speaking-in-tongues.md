@@ -1,15 +1,8 @@
 ---
 title: Speaking In Tongues
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Speaking in Tongues 6**
-
-**Speaking in Tongues**
-
-The Old Testament Prophecy
---------------------------
 
 Isaiah 28: Ephraim’s Captivity Predicted
 ----------------------------------------
