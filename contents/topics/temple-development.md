@@ -1,12 +1,10 @@
 ---
-title: Temple Development
+title: "The Development of the Temple"
+indexTitle: "Temple, Development of"
+pdf: "templedevelopment.pdf"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Temple - Development 6**
-
-**The Development of the Temple**
 
 **Akra:**The exact location of the Akra is in some doubt. Josephus says
 that it stood in the Lower City which typically refers to southeastern
