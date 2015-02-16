@@ -3,13 +3,9 @@ title: "Doctrine of Preaching"
 indexTitle: "Preaching, Doctrine of"
 pdf: "preaching.pdf"
 description: "Preaching, Doctrine of -  Word study beginning in Titus 1:3 - KEIRUGMA; the true practice of Bible presentation."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Preaching 2**
-
-Preaching
 
 Definition and Etymology
 
@@ -17,16 +13,16 @@ The word “preach” is found in many places in the New Testament (KJV);
 however, it has been translated from several different Greek words. For
 example, in 1 Cor. 1:17, the phrase “preach the Gospel” comes from
 eujaggelivzw (**euangelidzo**); while in 1:18 we see the phrase “the
-preaching of the cross”, which is ‘‘. You can
+preaching of the cross”. You can
 see that the translators took some liberties with their use of the word
 “preach”.
 
-The Greek verb khrussw (**keiruso**) was commonly used in ancient times
+The Greek verb **κειρυσω** (**keiruso**) was commonly used in ancient times
 to refer to public proclamation or public teaching, and there are many
 NT verses where it is found. A complete listing can be found in a Greek
 concordance.
 
-The noun  (**keirux**) refers to the “proclaimer; publisher;
+The noun **κειρυξ** (**keirux**) refers to the “proclaimer; publisher;
 messenger” who is making the proclamation. Thus,
 
 1 Tim. 2:7, “Whereunto I (Paul) am ordained a preacher (**keirux**), and
@@ -45,7 +41,7 @@ sort of town cryer.
 A man assigned to carry messages between enemies on a battlefield was
 also called **keirux**.
 
-The message of the **keirux** is the  (**keirugma**). The
+The message of the **keirux** is the **κειρυγμα** (**keirugma**). The
 **keirugma** is what was given to the **keirux** to proclaim. The
 originator of the message may have been a battlefield officer or a
 public official.
