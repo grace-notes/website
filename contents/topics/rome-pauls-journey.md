@@ -3,18 +3,14 @@ title: "Paul's Journey to Rome"
 indexTitle: "Rome, Paul's Journey to"
 pdf: "rome_paulsjourney.pdf"
 description: "description of Paul's journey to Rome and his sojourn there, places and events.."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-Rome – Paul’s Journey
-=====================
-
-**The following is Chapter 24 of*****The Life and Epistles of St.
-Paul*****, by W. J. Conybeare and J. S. Howson**
+The following is Chapter 24 of The Life and Epistles of St.
+Paul, by W. J. Conybeare and J. S. Howson**
 
 The Appian Way
---------------
 
 The last Chapter began with a description of the facilities possessed by
 the ancients for travelling by sea: this must begin with a reference to
@@ -162,7 +158,6 @@ strength. We have already seen, on other occasions of his life, how the
 Apostle’s heart was lightened by the presence of his friends.
 
 Appii Forum and the Three Taverns
----------------------------------
 
 About ten miles farther he received a second welcome from a similar
 group of Christian brethren. Two independent companies had gone to meet
@@ -238,7 +233,6 @@ protection against the enemies, who were kept far aloof by the legions
 on the frontier.
 
 Entrance into Rome
-------------------
 
 Yet the Porta Capena is a spot which we can hardly leave without
 lingering for a moment. Under this arch—which was perpetually dripping
@@ -302,7 +296,6 @@ marbles, with silver and gold,” which abide after the fire, and the
 hovels of “wood, hay, stubble,” which are burnt (1 Cor. 3:10–15).
 
 Description of Rome
--------------------
 
 If we look at a map of modern Rome, with a desire of realising to
 ourselves the appearance of the city of Augustus and Nero, we must in
@@ -396,7 +389,6 @@ description. Rome was like London with all its miseries, vices, and
 follies exaggerated, and without Christianity.
 
 Population of Rome
-------------------
 
 One part of Rome still remains to be described, the “Trastevere,” or
 district beyond the river. This portion of the city has been known in
@@ -443,7 +435,6 @@ toleration, and to have been a numerous, wealthy, and influential
 community.
 
 The Roman Church
-----------------
 
 The Christians doubtless shared the protection which was extended to the
 Jews. They were hardly yet sufficiently distinguished as a self-existent
@@ -515,7 +506,6 @@ feeling. For these reasons the hostility of the Jews was probably less
 violent than in any other part of the Empire.
 
 Interview with the Jews
------------------------
 
 Yet St. Paul could not possibly be aware of the exact extent of their
 enmity against himself. Independently, therefore, of his general
