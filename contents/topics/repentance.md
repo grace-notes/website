@@ -2,17 +2,13 @@
 title: "Repentance"
 pdf: "repentance.pdf"
 description: "\"Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and you shall receive the gift of the Holy Spirit.\""
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Repentance 5**
-
-**Repentance**
-
-**Acts 2:38, “Then Peter said unto them, “Repent, and be baptized every
+*Acts 2:38, “Then Peter said unto them, “Repent, and be baptized every
 one of you in the name of Jesus Christ for the remission of sins, and
-you shall receive the gift of the Holy Spirit.”**
+you shall receive the gift of the Holy Spirit.”*
 
 This is one of the Bible’s most controversial verses; many systems of
 false religion have been built on it. The most prominent is the concept
