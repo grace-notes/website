@@ -2,6 +2,7 @@
 title: "Saul"
 pdf: "saul.pdf"
 description: "Saul -  The son of Kish of the tribe of Benjamin, the first king of Israel. [FEB 13]"
+tableofcontents: true
 template: topic.jade
 ---
 
