@@ -2,14 +2,9 @@
 title: "Second Advent of Christ"
 pdf: "secondadvent.pdf"
 description: "Second Advent of Christ"
+tableofcontents: true
 template: topic.jade
 ---
-
-by Dr. Randall E. Radic, Pastor
-
-First Congregational Church  
-100 N. Acacia Avenue  
-Ripon, California 95336
 
 The word ‘second’ indicates that there are two advents. The first was at
 the birth of the only-begotten Son of God, and the objective of the
