@@ -2,6 +2,7 @@
 title: "Reversionism"
 pdf: "reversionism.pdf"
 description: "a comprehensive study of the doctrine showing how the Lord deals with recalcitrant and implacable Christians."
+tableofcontents: true
 template: topic.jade
 ---
 
