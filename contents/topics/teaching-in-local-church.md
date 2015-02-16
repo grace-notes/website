@@ -2,13 +2,9 @@
 title: "Teaching in the Local Church"
 pdf: "teachinginlocalchurch.pdf"
 description: "A study of the mission of the local church with respect to \"feeding the flock\"."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Teaching in the Local Church 3**
-
-**The Local Church Teaching Ministry**
 
 Introduction
 ============
