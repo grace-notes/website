@@ -2,14 +2,9 @@
 title: "Prophetical History of the Old Testament"
 pdf: "propheticalhistory.pdf"
 description: "an outline description of the historical books of the Bible, Joshua, Judges, 1 and 2 Samuel, and 1 and 2 Kings."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>Prophetical\\ History</sup> of the Old Testament
-
-Introduction to the Prophetical Histories of the Old Testament
-==============================================================
 
 The *thorah,* or five books of Moses, which contains an account of the
 founding of the Old Testament kingdom of God, and the laws which were
