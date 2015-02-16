@@ -2,13 +2,9 @@
 title: "Satan"
 pdf: "satan.pdf"
 description: "Satan -  What the Bible says about Satan and his strategies."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Satan**
-
-**Satan**
 
 Satan is an angelic personality. He is one of the most beautiful
 creatures. He has no red skin or horns, no trident or pitchfork and he
