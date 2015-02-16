@@ -2,13 +2,9 @@
 title: "Samaria"
 pdf: "samaria.pdf"
 description: "a brief but thorough political history of Samaria."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Damascus 3**
-
-Samaria
 
 Some of the text of this article is taken from an article on Samaria
 found at: <http://www.crystalinks.com/samaria.html>
