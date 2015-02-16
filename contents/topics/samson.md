@@ -1,21 +1,17 @@
 ---
 title: "Samson"
 pdf: "samson.pdf"
-description: "From Commentary on the Old Testament, Leviticus 13 to 16, by C. F. Keil and F. Delitzsch."
+description: "From Commentary on the Old Testament, Judges 13 to 16, by C. F. Keil and F. Delitzsch."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Samson</sup>
-
-From *Commentary on the Old Testament*, Leviticus 13 to 16, by C. F.
+From *Commentary on the Old Testament*, Judges 13 to 16, by C. F.
 Keil and F. Delitzsch
 
-Judges 13
-=========
+##### Judges 13
 
 Samson’s Life, and Conflicts with the Philistines.—Ch. 13–16.
--------------------------------------------------------------
 
 While Jephthah, in the power of God, was delivering the tribes on the
 east of the Jordan from the oppression of the Ammonites, the oppression
@@ -429,8 +425,7 @@ account of the acts of Samson, is simply that Samson was there seized by
 the Spirit of Jehovah, and impelled to commence the conflict with the
 Philistines.
 
-Judges 14
-=========
+##### Judges 14
 
 **Judges 14.** Samson’s First Transactions with the Philistines.—Vv.
 1–9. At Tibnath, the present *Tibne,* an hour’s journey to the
@@ -610,8 +605,7 @@ aggrieved, and trying to mitigate his wrath, the parents of the woman
 made the breach irreparable by giving their daughter as a wife to his
 companion.
 
-Judges 15
-=========
+##### Judges 15
 
 **Judges 15.** Further Acts of Samson.—V. 1–8. *His Revenge upon the
 Philistines.*—V. 1. Some time after, Samson visited his wife in the time
@@ -812,8 +806,7 @@ burned up the crops of others, and lost the fruit of his own virtue when
 burning with the flame enkindled by a single woman.” (*Ambros.* Apol.
 ii., *David.* c. iii.)
 
-Judges 16
-=========
+##### Judges 16
 
 **Judges 16:1–3.** *His Heroic Deed at Gaza.*—Samson went to Gaza in the
 full consciousness of his superiority in strength to the Philistines,
