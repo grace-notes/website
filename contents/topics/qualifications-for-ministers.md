@@ -2,11 +2,10 @@
 title: "Qualifications for Ministers"
 pdf: "qualificationsforministers.pdf"
 description: "an exposition of Titus 1:5-9."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Qualifications\\ for\\ Ministers</sup>
 
 An exposition of Titus 1:5-9
 
@@ -17,7 +16,6 @@ considerable spiritual skills both for communicating Bible truth and
 managing the affairs of a local body.
 
 Titus 1:5
----------
 
 For this cause I left you in Crete, that you should set in order the
 things that are wanting, and ordain elders in every city, as I had
@@ -135,7 +133,6 @@ account the character of the people. Titus was directed to carry out the
 plans for organizing the churches on Crete.
 
 Titus 1:6
----------
 
 If any be blameless, the husband of one wife, having faithful children
 not accused of riot or unruly.
@@ -246,7 +243,6 @@ both the father (the pastor) and the children be yielded to God’s
 authority.
 
 Titus 1:7
----------
 
 For a bishop must be blameless, as the steward of God, not self-willed,
 not soon angry, not given to wine, not a striker, not given to filthy
@@ -362,7 +358,6 @@ which a man can satisfy his ambition, or stroke his lust for
 approbation, or solidify his power base.
 
 Titus 1:8
----------
 
 But a lover of hospitality, a lover of good men, sober, just, holy,
 temperate.
@@ -432,8 +427,6 @@ the righteousness of God in the human life. He knows that the source of
 righteousness is the Lord and is imputed without merit. Therefore he is
 relaxed, not judgmental.
 
-### Topic: Judgment, Justice, Judging
-
 “holy”: (**hosios**), “kind, gracious, holy”.
 
 This is NOT (**hagios**), “set apart, or sanctified”, which is a result
@@ -465,7 +458,6 @@ You either have control over the details of life, or they control you.
 Examples: Jer. 35:6; Dan. 1:8
 
 Titus 1:9
----------
 
 Holding fast the faith word, as he has been taught, that he might be
 able, by sound doctrine, both to exhort and to convince the gainsayers.
