@@ -3,18 +3,13 @@ title: "Introduction to Samuel"
 indexTitle: "Samuel, Introduction"
 pdf: "samuel_introduction.pdf"
 description: "Introduction to the books of Samuel, from Commentary on the Old Testament, by C. F. Keil and F. Delitzsch"
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Introduction\\ to\\ the\\ Books\\ of\\ Samuel</sup>
-
 Title, Contents, Character, and Origin of the Books of Samuel.
-==============================================================
 
-From *Commentary on the Old Testament**,***by C. F.
-
-Keil and F. Delitzsch
+From Commentary on the Old Testament, by C. F. Keil and F. Delitzsch
 
 The books of Samuel originally formed one undivided work, and in the
 Hebrew MSS they do so still.
