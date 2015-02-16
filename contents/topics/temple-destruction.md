@@ -1,12 +1,10 @@
 ---
-title: Temple Destruction
+title: "The Destruction of the Temple"
+indexTitle: "Temple, Destruction of"
+pdf: "templedestruction.pdf"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Temple - Destruction 3**
-
-**The Destruction of the Temple**
 
 **Destruction of Jerusalem:**Jewish rebellion can be traced to the days
 of Herod (about A.D. 44) when the Zealots resisted Roman rule. As the
