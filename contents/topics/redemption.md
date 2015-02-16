@@ -2,13 +2,9 @@
 title: "Redemption"
 pdf: "redemption.pdf"
 description: "Redemption -  A study of the doctrine of redemption, God's special intervention for the salvation of mankind."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Redemption 4**
-
-Redemption
 
 **Redemption** is a term used in the Bible to refer to the special
 intervention of God for the salvation of mankind. This use of the word
