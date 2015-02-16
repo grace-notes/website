@@ -2,16 +2,14 @@
 title: "Roman Persecution"
 pdf: "romanpersecution.pdf"
 description: "an extended account of the persecution of Christians by the Romans, and details of the siege and destruction of Jerusalem in 70 AD."
+tableofcontents: true
 template: topic.jade
 ---
 
 
-**The Roman Persecution13**
+##### The Roman Persecution of Christians and the Destruction of Jerusalem
 
-The Roman Persecution of Christians and the Destruction of Jerusalem
-====================================================================
-
-### from Philip Schaff, “History of the Christian Church”.
+from Philip Schaff, “History of the Christian Church”.
 
 The preaching of Paul and Peter in Rome was an epoch in the history of
 the church. It gave an impulse to the growth of Christianity. Their
@@ -41,7 +39,6 @@ assumed the character of Antichrist with fire and sword.
 <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
 
 Nero
-----
 
 The first of these imperial persecutions with which the Martyrdom of
 Peter and Paul is connected by ecclesiastical tradition, took place in
@@ -72,7 +69,6 @@ became the prize of successful soldiers and adventurers.
 <sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup>
 
 The Conflagration in Rome
--------------------------
 
 For such a demon in human shape, the murder of a crowd of innocent
 Christians was pleasant sport. The occasion of the hellish spectacle was
@@ -116,7 +112,6 @@ destroyed temporary residence (domus transitoria) by “the golden house”
 extravagance.
 
 The Persecution of the Christians
----------------------------------
 
 To divert from himself the general suspicion of incendiarism, and at the
 same time to furnish new entertainment for his diabolical cruelty, Nero
@@ -204,7 +199,6 @@ fell with double fury on these supposed half Jews, disowned by their own
 strange brethren.
 
 The Probable Extent of the Persecution.
----------------------------------------
 
 The heathen historians, if we are to judge from their silence, seem to
 confine the persecution to the city of Rome, but later Christian writers
@@ -236,7 +230,6 @@ Christendom and the palatial residence of his reputed successors.
 <sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup>
 
 The Apocalypse on the Neronian Persecution
-------------------------------------------
 
 None of the leading apostles remained to record the horrible massacre,
 except John. He may have heard of it in Ephesus, or he may have
@@ -288,9 +281,8 @@ Elijah.
 Notes.
 
 The Accounts of the Neronian Persecution
-----------------------------------------
 
-### From heathen historians
+From heathen historians
 
 We have chiefly two accounts of the first imperial persecution, from
 Tacitus, who was born about eight years before the event, and probably
@@ -353,7 +345,7 @@ Stand at the stake with throat transfixed
 
 Smoking and burning."
 
-### From Christians.
+From Christians.
 
 Clement of Rome, near the close of the first century, must refer to the
 Neronian persecution when he writes of the “vast multitude of the
@@ -394,7 +386,6 @@ mostly from Tacitus. He and Orosius (Hist. VII. 7) first clearly assert
 that Nero extended the persecution to the provinces.
 
 Nero’s Return
--------------
 
 Nero, owing to his youth, beauty, dash, and prodigality, and the
 startling novelty of his wickedness (Tacitus calls him “incredibilium
@@ -475,7 +466,6 @@ honor, whether declined or occupied, counted as crimes, and virtue sure
 of destruction.
 
 The Approaching Doom
---------------------
 
 The most unfortunate country in that period was Palestine, where an
 ancient and venerable nation brought upon itself unspeakable suffering
@@ -519,7 +509,6 @@ singing his dirge, for the last time, from the wall. Suddenly he added:
 an end to his prophetic lamentation.
 
 The Jewish Rebellion
---------------------
 
 Under the last governors, Felix, Festus, Albinus, and Florus, moral
 corruption and the dissolution of all social ties, but at the same time
@@ -557,7 +546,6 @@ heroic achievements of the Maccabees, blinded the Jews against the
 inevitable failure of this mad and desperate revolt.
 
 The Roman Invasion
-------------------
 
 The emperor Nero, informed of the rebellion, sent his most famous
 general, Vespasian, with a large force to Palestine Vespasian opened the
@@ -601,7 +589,6 @@ religion, which, even in this state of horrible degeneracy, infused into
 them an almost superhuman power of endurance.
 
 The Destruction of the City and the Temple
-------------------------------------------
 
 At last, in July, the castle of Antonia was surprised and taken by
 night. This prepared the way for the destruction of the Temple in which
@@ -695,7 +682,6 @@ Christians departing in peace from the scene of destruction, and Jewish
 children imploring their protection.
 
 The Fate of the Survivors, and the Triumph in Rome
---------------------------------------------------
 
 After a siege of five months the entire city was in the hands of the
 victors. The number of the Jews slain during the siege, including all
@@ -757,7 +743,6 @@ end of time: the object of the mingled contempt, admiration, and wonder
 of the world.
 
 Effects of the Destruction of Jerusalem on the Christian Church.
-----------------------------------------------------------------
 
 The Christians of Jerusalem, remembering the Lord’s admonition, forsook
 the doomed city in good time and fled to the town of Pella in the
@@ -824,7 +809,6 @@ way to wind up the history of the apostolic church.
 
 This was the work of John, the apostle of completion
 
-==========
 
 [1](#sdfootnote1anc) Lange on Romans, p. 29 (Am. ed.): “As the light and
 darkness of Judaism was centralized in Jerusalem, the theocratic city of
