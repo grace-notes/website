@@ -2,13 +2,9 @@
 title: "Troas"
 pdf: "troas.pdf"
 description: "On the second missionary journey, Paul and Silas came to Troas after being forbidden to preach the Word of God in Asia (Acts 16:6)."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Bithynia 0**
-
-**Troas**
 
 Troas was a city in Turkey on the Aegean shore, 10 miles (16.1
 kilometers) south of the ancient site of Troy, scene of the Trojan War
