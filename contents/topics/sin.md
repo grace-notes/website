@@ -3,13 +3,9 @@ title: "Doctrine of Sin"
 indexTitle: "Sin, Doctrine of"
 pdf: "sin.pdf"
 description: "Sin, Doctrine of -  a comprehensive topic study of the Doctrine of Sin."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Sin 11**
-
-**The Doctrine of Sin**
 
 DEFINITION AND OBJECTIVES
 =========================
