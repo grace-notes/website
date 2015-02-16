@@ -6,7 +6,7 @@ tableofcontents: true
 template: topic.jade
 ---
 
-##### Introduction
+## Introduction
 
 
 The word apostle or **apostolos** is from the Greek, meaning an
@@ -51,7 +51,7 @@ classes:
     eleven disciples (Acts 1:26), Paul (Rom. 1:1, etc.), James the
     brother of Christ (Gal. 1:19) and Barnabas (Acts 14:14).
 
-##### The Qualifications of an Apostle
+## The Qualifications of an Apostle
 
 
 An apostle had to have the spiritual gift of apostleship. The gift was
@@ -65,7 +65,7 @@ God the Father, 1 Cor. 1:1; 12:18; Eph. 1:1; Col. 1:1.
 The apostle had to have been an eyewitness of the resurrected Lord, Acts
 1:22; 1 Cor. 9:1.
 
-##### The Credentials of an Apostle
+## The Credentials of an Apostle
 
 
 An apostle was endowed with miraculous powers of miracles, Heb. 2:4; 2
@@ -75,7 +75,7 @@ An apostle had success in evangelism, 2 Cor. 3:1‑3; Gal. 2:7‑9.
 
 An apostle had the capacity to suffer patiently, 2 Cor. 12:12.
 
-##### The Function of an Apostle
+## The Function of an Apostle
 
 
 Apostles received and communicated new revelation, Eph. 3:2-6.
