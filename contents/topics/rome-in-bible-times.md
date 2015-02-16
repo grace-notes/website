@@ -1,12 +1,11 @@
 ---
-title: "Rome in BibleTimes"
+title: "The City of Rome in Bible Times"
+indexTitle: "Rome, the City in Bible Times
 pdf: "romeinbibletimes.pdf"
 description: "Rome in BibleTimes -  -what was the city of Rome like in the times of the early church?"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**The City of Rome – in Bible Times**
 
 Rome was founded on the Tiber river in 753 B.C. It soon spread to cover
 seven hills, which were : Capitoline, Palatine, Aventine, Caelian,
