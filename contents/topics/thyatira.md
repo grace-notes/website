@@ -2,13 +2,9 @@
 title: "Thyatira"
 pdf: "thyatira.pdf"
 description: "location of one of the seven local churches of Revelation; home of Lydia, the seller of purple."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Bithynia 0**
-
-**Thyatira**
 
 Thyatira was the location of one of the seven local churches in the book
 of Revelation. The city was founded by the Lydian kingdom and later
