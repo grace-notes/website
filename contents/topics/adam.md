@@ -1,14 +1,11 @@
 ---
-title: "Adam"
+title: "Adam and Life’s Problems and Solutions"
 pdf: "adam.pdf"
+author: Pastor Mark Perkins, Front Range Bible Church, Denver, Colorado
 description: "It is fitting that we start with Adam, because Adam was the first head of the human race. By looking at Adam's life we can discover the beginnings of our problems... and solutions."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
-
-**Adam and Life’s Problems and Solutions**
-
-*by Pastor Mark Perkins, Front Range Bible Church, Denver, Colorado*
 
 It is fitting that we start with Adam, because Adam was the first head
 of the human race. By looking at Adam’s life we can discover the
