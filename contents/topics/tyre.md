@@ -2,14 +2,9 @@
 title: "Tyre"
 pdf: "tyre.pdf"
 description: "When Paul and Barnabas traveled from Antioch to Jerusalem, they went through Phoenicia to tell the believers how God had brought Gentiles to faith (Acts 15:3)."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Tyre 2**
-
-Tyre
-====
 
 Tyre was an ancient Phoenician city-state located on the Mediterranean
 coast 20 miles (32.2 kilometers) south of Sidon and 23 miles (37
