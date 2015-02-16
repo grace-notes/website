@@ -2,13 +2,11 @@
 title: "Responsibility"
 pdf: "responsibility.pdf"
 description: "The present responsibilities of those who wait for the Kingdom of Christ."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Responsibility 5**
-
-Responsibility of Those Who Wait for the Kingdom
+##### Responsibility of Those Who Wait for the Kingdom
 
 Matthew 5:13-16
 
