@@ -1,14 +1,10 @@
 ---
-title: "Servants and Slaves"
+title: "Servants and Slaves in Palestine"
 pdf: "servantsslaves.pdf"
 description: "Servants and Slaves -  A description of the condition and treatment of servants and slaves in Bible times."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Servants and Slaves in Palestine** **3**
-
-**Servants and Slaves in Palestine**
 
 Some people, called hirelings, were employed for wages in ancient
 Palestine (Job 7:1; 14:6; Mark 1:20). But most of the servants of the
