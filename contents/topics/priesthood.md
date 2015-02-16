@@ -3,13 +3,9 @@ title: "The Officiating Priesthood"
 indexTitle: "Priesthood, The Officiating"
 pdf: "priesthood.pdf"
 description: "Among the most interesting glimpses of early life in the church is that afforded by a small piece of rapidly-drawn scenery which presents to our view 'a great company of the priests,' 'obedient to the faith' (Acts 6:7)."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-9**The Officiating Priesthood**
-
-The Officiating Priesthood
 
 from Alfred Edersheim, “The Temple,” Chapter 4.
 
