@@ -2,13 +2,11 @@
 title: "Self Deception"
 pdf: "selfdeception.pdf"
 description: "by Paton James Gloag, minister of the Parish of Dunning, Blantyre and Galashiels, early 20th century. \"The greatest care and caution are necessary in examining the evidences of our conversion. We ought to exercise a holy jealousy over ourselves, and to avoid arriving at any definite conclusion as to the safety of our condition, except on sure and scriptural grounds.\""
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>**Self-Deception**</sup>
-
-by**Paton James Gloag**, minister of the Parish of Dunning, Blantyre and
+by Paton James Gloag, minister of the Parish of Dunning, Blantyre and
 Galashiels, early 20<sup>th</sup> century.
 
 The greatest care and caution are necessary in examining the evidences
