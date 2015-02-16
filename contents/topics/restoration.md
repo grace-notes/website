@@ -2,13 +2,9 @@
 title: "Restoration of the Jews"
 pdf: "restoration.pdf"
 description: "After the Second Advent of Christ, He will assemble and restore Israel."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Restoration 2**
-
-The Restoration of the Jews
 
 Restoration of the Jews
 
