@@ -3,14 +3,9 @@ title: "Origins of the Talmud"
 indexTitle: "Talmud, Origins"
 pdf: "talmudhistory.pdf"
 description: "The name \"Talmud\" means \"teaching\" or \"study\" and refers to the oral law which has been taught to the children of Israel since the time of Moses."
+tableofcontents: true
 template: topic.jade
 ---
-
-**Talmud, History, 2**
-
-Talmud - Origins
-
-**The Origins of the Talmud**
 
 The name “Talmud” means “teaching” or “study” and refers to the oral law
 which has been taught to the children of Israel since the time of Moses.
