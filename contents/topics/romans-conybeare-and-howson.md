@@ -1,18 +1,15 @@
 ---
-title: "Romans - Conybeare and Howson"
+title: "Epistle to the Romans - Conybeare and Howson"
 pdf: "romans_conybeare&howson.pdf"
 description: "translation of Romans by C&H, extensive comments and footnotes."
+tableofcontents: true
 template: topic.jade
 ---
 
+Translation and extensive footnotes from W. J. Conybeare and J. S.
+Howson, The Life and Epistles of St. Paul
 
-Epistle to the Romans
-=====================
-
-**Translation and extensive footnotes from W. J. Conybeare and J. S.
-Howson,*****The Life and Epistles of St. Paul***
-
-### Romans 1
+##### Romans 1
 
 PAUL, a bondsman of Jesus Christ, a called Apostle, set apart to publish
 the Glad tidings of God, which He promised of old by His Prophets in the
@@ -85,7 +82,7 @@ merciless. Who knowing the decree of God whereby all that do such things
 are worthy of death, not only commit the sins, but delight in their
 fellowship with the sinners.
 
-### Romans 2
+##### Romans 2
 
 Wherefore thou, O man, whosoever thou art that judgest others, art
 thyself without excuse; for in judging thy neighbor thou condemnest
@@ -149,7 +146,7 @@ flesh; but he is a Jew who is one inwardly, and circumcision is that of
 the heart, in the spirit, not in the letter; whose praise comes not from
 man but from God.
 
-### Romans 3
+##### Romans 3
 
 But if this be so, what advantage has the Jew, and what has been the
 profit of circumcision?’ Much every way. First, because to their keeping
@@ -212,7 +209,7 @@ the un circumcision of the Gentiles.
 
 Do we then by faith bring to nought the Law? Yea, we establish the Law.
 
-### Romans 4
+##### Romans 4
 
 What then 1 can we say that our father Abraham gained by the fleshly
 ordinance? For, if Abraham was justified by works he has a ground of
@@ -270,7 +267,7 @@ have faith in Him that raised from the dead our Lord Jesus; who was
 given up to death for our transgressions, and raised again to life for
 our justification.
 
-### Romans 5
+##### Romans 5
 
 Therefore, being justified by faith, we have peace with God through our
 Lord Jesus Christ, through whom also we have received entrance into this
@@ -321,7 +318,7 @@ abounded, the gift of grace has overflowed beyond [the outbreak of sin];
 that as sin has reigned in death, so grace might reign through
 righteousness unto life eternal, by the work of Jesus Christ our Lord.
 
-### Romans 6
+##### Romans 6
 
 What shall we say then? shall we persist in sin that the gift of grace
 may be more abundant ? God forbid. We who have died to sin, how can we
@@ -367,7 +364,7 @@ your fruit is growth in holiness, and its end is life eternal. For the
 wage of sin is death; but the gift of God is eternal life in Christ
 Jesus our Lord and master.
 
-### Romans 7
+##### Romans 7
 
 [I say that you are not under the Law ]; or are you ignorant, brethren
 (for I speak to those who know the Law), that the dominion of the Law
@@ -428,7 +425,7 @@ Lord.
 So then in myself, though I am subject in my mind to the law of God, yet
 in my flesh I am subject to the law of sin.
 
-### Romans 8
+##### Romans 8
 
 Now, therefore, there is no condemnation to those who are in Christ
 Jesus; for the law of the Spirit of life in Christ Jesus has freed me
@@ -510,7 +507,7 @@ come, nor things above, nor things below, nor any power in the whole
 creation, shall be able to separate us from the love of God which is in
 Christ Jesus our Lord.
 
-### Romans 9
+##### Romans 9
 
 I speak the truth in Christ (and my conscience bears me witness, with
 the Holy Spirit’s testimony, that I lie not), I have great heaviness,
@@ -585,7 +582,7 @@ for they stumbled against the stone of stumbling, as it is written,
 “Behold I lay in Zion a stone of stumbling, and a rock of offence; and
 no man that hath faith in Him shall be confounded.” [^13]
 
-### Romans 10
+##### Romans 10
 
 Brethren, my heart’s desire and prayer to God for Israel is, that they
 may be saved; for I bear them witness that they have a zeal for God, yet
@@ -635,7 +632,7 @@ But Esaias speaks boldly, saying, “I was found of them that asked not
 after me.” [^25] But unto Israel he says, “All day long have I spread
 forth my arms unto a disobedient and gainsaying people.” [^26]
 
-### Romans 11
+##### Romans 11
 
 I say, then, must we think that God has cast off His people?  [^27] That
 be far from us; for I am myself an Israelite, of the seed of Abraham, of
@@ -719,7 +716,7 @@ of all things.
 
 Unto Him be glory forever. Amen.
 
-### Romans 12
+##### Romans 12
 
 I EXHORT you, therefore, brethren, as you would acknowledge the mercies
 of God, to offer your bodies a living sacrifice, holy and well pleasing
@@ -764,7 +761,7 @@ Lord.” [^37] Therefore, “If thine enemy hunger, feed him; if he thirst,
 give him drink; for in so doing, thou shalt heap coals of fire upon his
 head.” Be not overcome by evil, but overcome evil with good.
 
-### Romans 13
+##### Romans 13
 
 Let every man submit himself to the authorities of government; for all
 authority comes from God, and the authorities which now are, have been
@@ -799,7 +796,7 @@ rioting and drunkenness, not in dalliance and wantonness, not in strife
 and envying. But clothe yourselves with the Lord Jesus Christ, and take
 no thought to please your fleshly lusts.
 
-### Romans 14
+##### Romans 14
 
 Him who is weak in his faith receive into your fellowship, imposing no
 determinations of doubtful questions. [^39] Some have faith that they
@@ -852,7 +849,7 @@ Happy is he who condemns not himself by his own judgment.
 But he who doubts, is thereby condemned if he eats, because he has not
 faith that he may eat; and every faithless deed is sin.
 
-### Romans 15
+##### Romans 15
 
 And we, who are strong, ought to bear the infirmities of the weak, and
 not to please ourselves. Let each of us please his neighbor for good
@@ -928,7 +925,7 @@ received by the Saints; that so I may come to you in joy, by God’s will,
 and may be refreshed in your companionship. The God of peace be with you
 all. Amen.
 
-### Romans 16
+##### Romans 16
 
 I commend to you Phoebe our sister, who is a ministering servant of the
 Church at Cenchrea; that you may receive here in the Lord, as the saints
