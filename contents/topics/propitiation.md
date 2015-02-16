@@ -2,13 +2,9 @@
 title: "Propitiation"
 pdf: "propitiation.pdf"
 description: "Propitiation -  Jesus Christ is our Mercy Seat, our place of propitiation!"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Propitiation 3**
-
-Propitiation
 
 *Propitiation* is the work of the Lord Jesus Christ by which He appeases
 the wrath of God and conciliates Him who would otherwise be offended by
