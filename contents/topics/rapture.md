@@ -3,13 +3,9 @@ title: "The Rapture"
 indexTitle: "Rapture, The"
 pdf: "rapture.pdf"
 description: "Rapture, The -  A description of the carrying away of believers at the end of the Church Age; a comparison between Rapture and Second Coming events."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Rapture 3**
-
-The Rapture
 
 The word rapture refers to an event which will mark the end of the
 Church Age and which will be an occasion of great joy to Christian
