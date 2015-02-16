@@ -1,14 +1,10 @@
 ---
-title: "Religions of the World"
+title: "Major Religions of the World"
 pdf: "religions.pdf"
 description: "Religions of the World -  Brief descriptions of the major non-Christian religions of the world, including Hinduism, Islam, Buddhism, Jainism, Shinto, Zoroastrianism, Taoism, and Confucianism."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Religions 8**
-
-Major World Religions
 
 This article describes several of the major world religions: Hinduism,
 Jainism, Buddhism, Shinto, Islam, Taoism, Confucianism, and
