@@ -1,15 +1,11 @@
 ---
-title: Proselytes
+title: "Proselytes, Hellenists, and Hebrews"
+pdf: "proselytes.pdf"
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Proselytes 2**
-
-Proselytes, Hellenists, Hebrews
-
-Proselytes
-----------
+##### Proselytes
 
 A proselyte was any non-Jew who lived among the Jews.
 
@@ -35,8 +31,7 @@ their culture and practice, except that they had once been “heathen,” or
 gentile. They had the same rights, spiritual and secular, as the Jews
 themselves.
 
-“Grecians”
-----------
+##### “Grecians”
 
 The word “Greece” is from the Latin *Graeci*, the name given to them by
 the Romans, who applied t the whole people the name of the first tribe
@@ -67,8 +62,7 @@ Macedonia, and the Greek islands of the Aegean.
 The majority adopted the Greek language, and many forgot the Aramaic
 dialect which had been the Jews’ language since their captivity.
 
-“Hebrews”
----------
+##### “Hebrews”
 
 Any man was a **Jew** [**ioujdiao\~**] who could trace his descent from
 Jacob. The word “Jew” is a racial identity.
