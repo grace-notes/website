@@ -2,11 +2,9 @@
 title: "Sennacherib"
 pdf: "sennacherib.pdf"
 description: "King of Assyria and Babylonia (705-681 B.C.), son of Sargon II and father of Esarhaddon. He besieged Jerusalem in the days of Hezekiah."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>Sennacherib</sup>
 
 **Sennacherib**- King of Assyria and Babylonia (705–681 b.c.), son of
 Sargon II and father of Esarhaddon. He besieged Jerusalem in the days of
