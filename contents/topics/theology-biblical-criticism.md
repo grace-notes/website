@@ -7,63 +7,8 @@ template: topic.jade
 ---
 
 
-History Biblical Theology
-=========================
-
-[History Biblical Theology 2](#__RefHeading__1040_1465259879)
-
-[II. Reformation 2](#__RefHeading__1042_1465259879)
-
-[III. Orthodox Scholasticism 2](#__RefHeading__1044_1465259879)
-
-[IV. Rationalist Reaction 2](#__RefHeading__1046_1465259879)
-
-[V. Rise of the Philosophy of Religion
-3](#__RefHeading__1048_1465259879)
-
-[VI. Conservative Reaction 3](#__RefHeading__1050_1465259879)
-
-[VII. Liberal Historicism in NT Theology
-4](#__RefHeading__1052_1465259879)
-
-[VIII. Victory of Religion over Theology
-5](#__RefHeading__1054_1465259879)
-
-[IX. Contemporary Return to Biblical Theology
-8](#__RefHeading__1056_1465259879)
-
-[Nature of Biblical Theology 15](#__RefHeading__1058_1465259879)
-
-[I. Introduction 15](#__RefHeading__1060_1465259879)
-
-[II. Theology 16](#__RefHeading__1062_1465259879)
-
-[III. Biblical 18](#__RefHeading__1064_1465259879)
-
-[IV. Historical 19](#__RefHeading__1066_1465259879)
-
-[V. Revelation 21](#__RefHeading__1068_1465259879)
-
-[VI. Hermeneutics 22](#__RefHeading__1070_1465259879)
-
-[VII. Unity and Diversity 22](#__RefHeading__1072_1465259879)
-
-[VIII. Methodology 23](#__RefHeading__1074_1465259879)
-
-[IX. Goal 23](#__RefHeading__1076_1465259879)
-
-[Criticism 24](#__RefHeading__1078_1465259879)
-
-[I. Textual Criticism 24](#__RefHeading__1080_1465259879)
-
-[II. Literary and Historical Criticism
-25](#__RefHeading__1082_1465259879)
-
-[III. Form Criticism 34](#__RefHeading__1084_1465259879)
-
-[IV. Redaction Criticism 37](#__RefHeading__1086_1465259879)
-
-[V. Criticism and Christology 38](#__RefHeading__1088_1465259879)
+History of Biblical Theology
+===========================
 
 I. Middle Ages
 
