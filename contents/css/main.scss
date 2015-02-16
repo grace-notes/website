@@ -113,14 +113,14 @@ h4 {
 }
 @media (min-width: 1200px) {
   body.table-of-contents {
-    margin-left: 20%;
-    #content > .container { max-width: 100%; }
+    margin-right: 20%;
+    .container { max-width: 100%; }
   }
   #TOC {
     font-size: 90%;
     position: fixed;
     top: 0;
-    left: 0;
+    right: 0;
     bottom: 0;
     width: 20%;
     overflow-y: auto;
