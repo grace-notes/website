@@ -2,13 +2,9 @@
 title: "Salvation in the Old Testament"
 pdf: "salvationot.pdf"
 description: "Salvation in the Old Testament -  How people got saved before the death of Christ on the Cross."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Salvation in the Old Testament 3**
-
-**Salvation in the Old Testament**
 
 Salvation is the adjustment a person makes to the Justice of God when he
 believes on the Lord Jesus Christ as Savior. The justice of God was
