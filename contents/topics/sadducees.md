@@ -2,15 +2,9 @@
 title: "Sadducees"
 pdf: "sadducees.pdf"
 description: "brief article describing this sect."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Jewish System 0**
-
-The Sadducees
-
-The Sadducees
 
 The Hebrew word by which the Sadducees were called is **tsaddiqim**,
 “the righteous ones”. If we only look at the points of differences
