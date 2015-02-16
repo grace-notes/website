@@ -2,6 +2,7 @@
 title: "Suffering"
 pdf: "suffering.pdf"
 description: "Suffering -  A discussion of the suffering experienced by believers and unbelievers; deserved and undeserved suffering; how to avoid some forms of suffering; suffering for blessing."
+tableofcontents: true
 template: topic.jade
 ---
 
