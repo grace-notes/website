@@ -2,13 +2,9 @@
 title: "Stephen"
 pdf: "stephen.pdf"
 description: "an excellent study of the first martyr!"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-Stephen **7**
-
-**Stephen**
 
 from Encyclopedia Britannica (excerpts)
 
