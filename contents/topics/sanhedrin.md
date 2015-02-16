@@ -2,15 +2,9 @@
 title: "Sanhedrin"
 pdf: "sanhedrin.pdf"
 description: "a brief description and history of this ruling Jewish organization."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Jewish System 0**
-
-The Sanhedrin
-
-The Sanhedrin
 
 The rise of this great council of the Hebrews took place in the time of
 Greek supremacy, though there has been some attempt to trace its origins
