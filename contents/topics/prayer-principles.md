@@ -3,19 +3,9 @@ title: "Principles of Prayer"
 indexTitle: "Prayer, Principles of"
 pdf: "prayerprinciples.pdf"
 description: "Prayer, Principles of-  prayer is communication with God."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Prayer Principles 11**
-
-Principles of Prayer
-
-By Dr. Randall E. Radic, Pastor
-
-First Congregational Church  
-100 N. Acacia Avenue  
-Ripon, California 95336
 
 Definition & Introduction.
 
