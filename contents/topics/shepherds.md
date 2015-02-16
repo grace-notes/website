@@ -2,13 +2,9 @@
 title: "Shepherds of the Flock of God"
 pdf: "shepherds.pdf"
 description: "Shepherds of the Flock of God -  the qualifications and duties of spiritual shepherds; Jehovah as Shepherd; Jesus Christ as the Good Shepherd."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Shepherds 7**
-
-**Shepherds of the Flock of God**
 
 Introduction
 
