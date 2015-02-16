@@ -2,14 +2,9 @@
 title: "Samos"
 pdf: "samos.pdf"
 description: "When Paul \"touched\" here after passing Chios on returning from his third missionary journey (Acts 20:15), Samos was a \"free city\" in the province of Asia."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Samos 1**
-
-Samos <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
-====================================================
 
 [Greek *Samos*—‘height, mountain’; (1 Macc. 15:23; Acts 20:15).
 
