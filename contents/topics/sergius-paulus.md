@@ -2,11 +2,9 @@
 title: "Sergius Paulus"
 pdf: "sergiuspaulus.pdf"
 description: "the Roman official whom Paul and Barnabas met in Cyprus on their first missionary journey."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Sergius Paulus1**
 
 It is remarkable that two men called Sergius Paulus are described in
 very similar terms by two physicians who wrote in Greek, the one a
