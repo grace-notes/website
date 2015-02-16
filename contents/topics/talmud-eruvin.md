@@ -2,11 +2,9 @@
 title: "Talmud: Eruvin"
 pdf: "talmud_eruvin.pdf"
 description: "How can Israelites on the Sabbath move about from one private domain to another? By use of an eruv, symbolic food that legally commingles privately owned domains."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**The Eruv 2**
 
 **The Eruv**
 
