@@ -2,13 +2,9 @@
 title: "Red Heifer Offering"
 pdf: "redheiferoffering.pdf"
 description: "When a person became ceremonially unclean by some contact with an unclean animal or person or by contact with a dead person, he was required to go through a ritual cleansing. comprehensive study of the doctrine showing how the Lord deals with recalcitrant and implacable Christians."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**The Red Heifer Offering 2**
-
-**The Offering of the Red Heifer**
 
 Introduction
 ------------
