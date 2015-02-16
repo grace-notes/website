@@ -2,11 +2,10 @@
 title: "Theology of Biblical Criticism"
 pdf: "theologybiblicalcriticism.pdf"
 description: "Theology of Biblical Criticism - "
+tableofcontents: true
 template: topic.jade
 ---
 
-
-<sup>Theology\\ and</sup>Biblical Criticism
 
 History Biblical Theology
 =========================
@@ -76,7 +75,6 @@ church tradition. Not the Bible alone, historically understood, but the
 Bible as interpreted by tradition was the source of dogmatic theology.
 
 II. Reformation
----------------
 
 The Reformers reacted against the unbiblical character of dogmatic
 theology and insisted that theology must be founded upon the Bible
@@ -90,7 +88,6 @@ of history was undeveloped, and they did not pursue biblical theology as
 a distinctive discipline.
 
 III. Orthodox Scholasticism
----------------------------
 
 The gain in the historical study of the Bible made by the Reformers was
 partly lost in the post-Reformation period, and the Bible was once again
@@ -101,7 +98,6 @@ upon as possessing one level of theological value. History was
 completely lost in dogma, and philology became a branch of dogmatics.
 
 IV. Rationalist Reaction
-------------------------
 
 Biblical theology as a distinct discipline is a product of the impact of
 the Enlightenment (*Aufklärung*) upon biblical studies. A new approach
@@ -138,7 +134,6 @@ the fundamental assumption of modern scholarship; and even Evangelical
 scholars employ the historical method, although with limitations.
 
 V. Rise of the Philosophy of Religion
--------------------------------------
 
 Rationalism was superseded under the influence of the idealist
 philosophy of Hegel (d. 1813), who saw the Absolute Idea or Absolute
@@ -181,7 +176,6 @@ not. Baur’s interpretation gave rise to the so-called Tübingen school,
 which had great influence in German NT studies.
 
 VI. Conservative Reaction
--------------------------
 
 These new approaches to the study of the Bible naturally met with a
 strong resistance in orthodox circles, not only from those who denied
@@ -240,7 +234,6 @@ occurred in redemptive history and that *Heilsgeschichte* is the best
 key to understand the unity of the Bible. This will be developed later.
 
 VII. Liberal Historicism in NT Theology
----------------------------------------
 
 Bultmann has pointed out that the logical consequence of Baur’s method
 would have been a complete relativism (*NT Theology*, II [1955], 245),
@@ -283,7 +276,6 @@ used by even more conservative writers in Germany, such as T. Zahn,
 (1910).
 
 VIII. Victory of Religion over Theology
----------------------------------------
 
 Along with liberalism developed the *religionsgeschichtliche Schule*. In
 1883 appeared Julius Wellhausen’s *Prolegomena zur Geschichte Israels,*
@@ -464,7 +456,6 @@ added a new feature in his existential understanding of these NT
 “myths,” which will be discussed below.
 
 IX. Contemporary Return to Biblical Theology
---------------------------------------------
 
 During the 1920’s a new viewpoint began to make itself felt which
 resulted in a revival of biblical theology. Factors contributing to this
@@ -865,11 +856,9 @@ interpretation, of the redeeming revelatory event in Jesus Christ.
 
 G. E. Ladd
 
-Nature of Biblical Theology
-===========================
+##### Nature of Biblical Theology
 
 I. Introduction
----------------
 
 Biblical theology is first of all a descriptive discipline. Its purpose
 is to set forth in its own historical and religious categories the
@@ -933,7 +922,6 @@ Scripture of the self-revelation of God, he believes to be true. This is
 the stance from which the present article is written.
 
 II. Theology
-------------
 
 Biblical theology has to do with *theology,* i.e., with the knowledge of
 the person and the creative and redeeming acts of God, of man seen in
@@ -1035,7 +1023,6 @@ revelation includes both the self-disclosure of God to men, and the
 disclosure of the theological meaning of God’s revealing acts.
 
 III. Biblical
--------------
 
 Our discipline has to do not only with theology, but with biblical
 theology in the stricter sense. This term can, of course, designate any
@@ -1113,7 +1100,6 @@ within the purview of the biblical theologian, who is concerned with the
 theology of the Bible seen in its own biblical and historical setting.
 
 IV. Historical
---------------
 
 That revelation has occurred in historical events and that biblical
 theology must therefore be primarily historical in character and
@@ -1224,7 +1210,6 @@ transcends the historical method, and that the historian qua historian
 can say nothing about them.
 
 V. Revelation
--------------
 
 That revelation has occurred in history leads to the important fact that
 revelation is progressive. We have said that *theology* must be
@@ -1286,7 +1271,6 @@ value. It leaves room for progressive revelation and historical
 interpretation.
 
 VI. Hermeneutics
-----------------
 
 We have taken the stance that biblical theology is primarily a
 descriptive historical discipline, but that for the evangelical
@@ -1315,7 +1299,6 @@ interpretation is a human discipline, which must be carried out in
 humility and in love.
 
 VII. Unity and Diversity
-------------------------
 
 The study of biblical theology must bring out both the diversity and
 unity in the various portions of the Bible. Authors of several recent
@@ -1344,7 +1327,6 @@ redemptive purpose which unfolds itself throughout the history of Israel
 and of the Church.
 
 VIII. Methodology
------------------
 
 This leads to the question of the method of structuring biblical
 theology. Should the approach be historical or topical? The older
@@ -1369,7 +1351,6 @@ must preserve the diversity while showing how the diverse theologies
 illustrate the central theme of the divine redemptive purpose.
 
 IX. Goal
---------
 
 If biblical theology is the study of the meaning of God’s redeeming acts
 in *Heilsgeschichte*, and if the purpose of God’s redeeming acts is to
@@ -1403,8 +1384,7 @@ The History of the Investigation of its Problems* [Engtr 1972], p. 405).
 
 G. E. Ladd
 
-Criticism
-=========
+CRITICISM
 
 [Gk *hē kritiké̄ téchnē*–‘the discriminatory art’]. A comprehensive term
 embodying a number of techniques employed in the study of (among other
@@ -1418,7 +1398,6 @@ disciplines, notably textual criticism, literary and historical
 criticism, and form criticism.
 
 I. Textual Criticism
---------------------
 
 The function of textual criticism is the restoration of the original
 wording of a document when alterations have been introduced
@@ -1450,7 +1429,6 @@ details *see* Text and Manuscripts of the NT; Text and Manuscripts of
 the OT.)
 
 II. Literary and Historical Criticism
--------------------------------------
 
 ***A. Higher Criticism***If textual criticism represents the lower
 courses of the critical structure, the upper courses consist of those
@@ -2007,7 +1985,6 @@ purpose, theology, date, and authorship. *See* articles on the
 individual Gospels, and *see* Gospels, Synoptic.
 
 III. Form Criticism
--------------------
 
 Form criticism (Ger *Formgeschichte*, “form history”) represents an
 endeavor to determine the oral prehistory of written documents or
@@ -2209,7 +2186,6 @@ unauthentic passages which do not fit these structures easily; the
 structural forms are Paul’s servants, not his masters.
 
 IV. Redaction Criticism
------------------------
 
 What is called redaction criticism has been pressed into service more
 recently to do more justice to the authors and redactors of biblical
@@ -2251,7 +2227,6 @@ death of Jesus, the glory of God is manifested to all who are given the
 power of seeing it.
 
 V. Criticism and Christology
-----------------------------
 
 In all this we have dealt with criticism as it affects the external
 features of the biblical record, rather than its revelational essence.
