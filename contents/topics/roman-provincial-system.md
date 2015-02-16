@@ -2,18 +2,12 @@
 title: "Roman Provincial System"
 pdf: "romanprovincialsystem.pdf"
 description: "from the time when Augustus united the world under his own power, the provinces were divided into two different classes."
+tableofcontents: true
 template: topic.jade
 ---
 
-
-**Roman Provincial System 2**
-
-**The Roman Provincial System**
-
-**from “The Life and Epistles of St. Paul,” by W. J. Conybeare and J. S.
-Howson.**
-
-**Roman Provincial System**
+from “The Life and Epistles of St. Paul,” by W. J. Conybeare and J. S.
+Howson.
 
 From the time when Augustus united the world under his own power, the
 provinces were divided into two different classes. The business of the
