@@ -1,12 +1,9 @@
 ---
-title: Prophecy Unfulfilled
+title: "Prophecy Unfulfilled"
+pdf: "prophecyunfulfilled.pdf"
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Prophecy, Unfulfilled 2**
-
-Unfulfilled Prophecy
 
 The following is a chronological listing of Bible prophecies which
 remain to be fulfilled in the future.
