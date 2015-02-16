@@ -1,21 +1,16 @@
 ---
-title: "Privacy"
+title: "The Doctrine of Privacy"
+indexTitle: "Privacy, Doctrine of
 pdf: "privacy.pdf"
 description: "Privacy is that principle of freedom whereby an individual has the right to retire from the company of others, remaining in seclusion from the knowledge or observation of others."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-<sup>The\\ Doctrine\\ of</sup>Privacy
-
-DOCTRINE OF PRIVACY
-===================
 
 Compiled from transcriptions of recorded teachings of Pastor R. B.
 Thieme, Jr.
 
 Definition of Privacy
----------------------
 
 Privacy is that principle of freedom whereby an individual of the human
 race has the right to retire from the company of others, remaining in
@@ -34,7 +29,6 @@ privacy from his royal priesthood to fulfill the principle of living his
 life as unto the Lord.
 
 The Principle of Privacy and the Royal Priesthood,
---------------------------------------------------
 
 1 Peter 2:9. You are a chosen race, a royal priesthood, a holy nation, a
 people for God’s own possession, in order that you may proclaim the
