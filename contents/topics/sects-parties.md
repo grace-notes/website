@@ -3,13 +3,9 @@ title: "Sects and Parties of Jews"
 indexTitle: "Jews, Sects and Parties"
 pdf: "sectsparties.pdf"
 description: "a description of the various Jewish parties in the time of Christ, including Pharisees, Sadducees, Hellenists, Arameans."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Sects and Parties of the Jews 6**
-
-**Sects and Parties of the Jews**
 
 from “The Life and Epistles of St. Paul” by W. J. Conybeare and J. S.
 Howson, Chapter 2.
