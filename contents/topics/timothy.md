@@ -2,12 +2,9 @@
 title: "Timothy"
 pdf: "timothy.pdf"
 description: "a brief biography of Paul's companion."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-Timothy
-=======
 
 From [Timothy](http://en.wikipedia.org/wiki/Saint_Timothy) , an article
 in Wikipedia.
