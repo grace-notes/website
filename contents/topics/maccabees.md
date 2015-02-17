@@ -20,7 +20,7 @@ ending with Simon’s great-grandson Hyrcanus II, who submitted to the
 Roman general Pompey in 63 b.c. Remnants of the Hasmoneans continued
 until a.d. 100.
 
-I. Revolt of the Maccabees
+## I. Revolt of the Maccabees
 
 The Hasmonean name does not occur in the books of Maccabees, but appears
 in Josephus several times (*Ant.* xi.4.8 [111]; xii.6.1 [265]; xiv.16.4
@@ -91,7 +91,7 @@ fearful of Jonathan’s success, deceived him, arranged a meeting with
 him, and subsequently killed him (1 Macc. 10:67–13:30; Ant. xiii.4.3–6.6
 [86-212]).
 
-II. Rule of the Hasmoneans
+## II. Rule of the Hasmoneans
 
 A new phase of the Maccabean rule had emerged. Although the term
 “Hasmonean” is sometimes applied to the whole of the Maccabean family,
@@ -408,7 +408,7 @@ empire (Ant. xiv.2.3–4.5 [29-79]; BJ i.6.3–7.7 [128-158]; Tacitus Hist.
 v.9; Appian *Mithridactic Wars* 106, 114; Florus i.40.30; Livy 102;
 Plutarch *Pompey* xxxix; cf. Dio Cassius xxxvii.15–17).
 
-III. Demise of the Hasmoneans
+## III. Demise of the Hasmoneans
 
 The loss of independence brought about the decline of the Hasmoneans.
 Their power was weakened and what power they had was gradually being
