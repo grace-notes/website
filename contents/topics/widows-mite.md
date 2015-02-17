@@ -4,9 +4,9 @@ pdf: "widowsmite.pdf"
 description: "an essay on Christian giving and support of Christian work, based on the Bible narrative of this story."
 subtitle: An Essay on Christian Giving
 author: James Matheny
+tableofcontents: true
 template: topic.jade
 ---
-
 
 Mark 12:38-44; 13:1,2
 
@@ -14,7 +14,7 @@ Mark 12:38-44; 13:1,2
 free to reproduce this material and distribute it, but it may not be
 sold under any circumstances whatsoever without the author’s consent.*
 
-## They Devour Widow’s Houses
+##### They Devour Widow’s Houses
 
 There are any number of ways to take the life savings and/or money for
 daily living from the old, the gullible, or those who are zealous
