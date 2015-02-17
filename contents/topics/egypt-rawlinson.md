@@ -6,7 +6,7 @@ tableOfContents: true
 template: topic.jade
 ---
 
-## I The Land of Egypt
+## I - The Land of Egypt
 
 In shape Egypt is like a lily with a crooked stem. A broad blossom
 terminates it at its upper end; a button of a bud projects from the
@@ -493,7 +493,7 @@ share of the world's attention; and it is at least doubtful whether its
 "story" would ever have been thought necessary to complete "the Story of
 the Nations."
 
-## II The People of Egypt
+## II - The People of Egypt
 
 Where the Egyptians came from, is a difficult question to answer.
 Ancient speculators, when they could not derive a people definitely from
@@ -1064,7 +1064,7 @@ care, tell us that there was not much to choose between the condition of
 the ancient labourers and that of the unhappy _fellahin_ of the present
 day.
 
-## III The Dawn of History
+## III - The Dawn of History
 
 All nations, unless they be colonies, have a prehistoric time--a dark
 period of mist and gloom, before the keen light of history dawns upon
@@ -1461,7 +1461,7 @@ right to ascend the throne is said to have been asserted by one of the
 kings who preceded Sneferu; and from time to time women actually
 exercised in Egypt the royal authority.
 
-## IV The Pyramid Builders
+## IV - The Pyramid Builders
 
 It is difficult for a European, or an American, who has not visited
 Egypt, to realize the conception of a Great Pyramid. The pyramidal form
@@ -2000,7 +2000,7 @@ For whom the Caesar sighed,
 And the world-loser died,--  
 The darling of the Nile.  
 
-## V The Rise of Thebes
+## V - The Rise of Thebes
 
 Hitherto Egypt had been ruled from a site at the junction of the narrow
 Nile valley with the broad plain of the Delta--a site sufficiently
@@ -2378,7 +2378,7 @@ No doubt these tales were, in the main, imaginary; but they marked the
 fact that in Usurtasen III. the military glories of the Old Empire
 culminated.
 
-## VI The Good Amenemhat and His Works
+## VI - The Good Amenemhat and His Works
 
  The great river to which Egypt owes her being, is at once the source of
  all her blessings and her chiefest danger. Swelling with a uniformity,
@@ -2633,7 +2633,7 @@ beyond her borders knew little of her, except that she was a fertile and
 well-ordered land, whereto, in time of dearth, the needy of other
 countries might resort with confidence.
 
-## VII Abraham in Egypt
+## VII - Abraham in Egypt
 
 "Now there was a famine in the land of Canaan; and Abram went down into
 Egypt to sojourn there" (Gen. xii. 10). Few events in the history of
@@ -2812,7 +2812,7 @@ prepared to submit readily to Asiatic rule and to worship Semitic
 deities; they had already imposed a number of their words upon the
 language of Egypt.
 
-## VIII The Great Invasion; the Hyksos or Shepherd Kings; Joseph and Apepi
+## VIII - The Great Invasion; the Hyksos or Shepherd Kings; Joseph and Apepi
 
 The prowess of the Egyptians had not yet been put to any severe proof.
 They had themselves shown little of an aggressive spirit. Attracted by
@@ -3121,7 +3121,7 @@ Joseph to the reign of the last of the Shepherds.
 
 
 
-## IX How the Hyksos were Expelled from Egypt
+## IX - How the Hyksos were Expelled from Egypt
 
 At first sight it seems strange that the terrible warriors who, under
 Set or Saites, so easily reduced Egypt to subjection, and then still
@@ -3319,7 +3319,7 @@ yielded to a combination of the North with the South, of the Egyptians
 with the Ethiopians, such as in later times, on more than one occasion,
 drove the Assyrians out of the country.
 
-## X Thothmes I, the First Great Egyptian Conqueror
+## X - Thothmes I, the First Great Egyptian Conqueror
 
 Thothmes I. was the grandson of the Aahmes who drove out the Hyksos. He
 had thus hereditary claims to valour and military distinction. The
@@ -3578,7 +3578,7 @@ the problem which the ages had to work out--What should be the general
 march of events, and what states and nations should most affect the
 destiny of the world.
 
-## XI Queen Hatasu and her Merchant Fleet
+## XI - Queen Hatasu and her Merchant Fleet
 
 Hasheps, or Hatasu, was the daughter of the great warrior king, Thothmes
 the First, and, according to some, was, during his later years,
@@ -3784,7 +3784,7 @@ aim; and Hatasu's great constructions, together with her "Merchant
 Fleet," are among the indisputable facts of history which can never be
 forgotten.
 
-## XII Thothmes III and Amenhotep II
+## XII - Thothmes III and Amenhotep II
 
 No sooner had Thothmes III. burst the leading-strings in which his
 sister had held him for above twenty years, then he showed the metal of
@@ -4189,7 +4189,7 @@ almost the whole of his known constructions. None of them is remarkable.
 Egypt under his sway had a brief rest before she braced herself to fresh
 efforts, military and architectural.
 
-## XIII Amenhotep III
+## XIII - Amenhotep III
 
 The fame of Amen-hotep the Third, the grandson of the great Thothmes,
 rests especially upon his Twin Colossi, the grandest, if not actually
@@ -4478,7 +4478,7 @@ cases; but it should not be forgotten that there are women whom to have
 known is "a liberal education." Mutemua and Tii may have been of the
 number.
 
-## XIV Khuenaten and the Disk Worshippers
+## XIV - Khuenaten and the Disk Worshippers
 
 On the death of Amenhotep III., his son, Amenhotep IV., mounted the
 throne. Left by Amenhotep III to the guardianship of his mother, Tii,
@@ -4638,7 +4638,7 @@ religion of the Egyptians to its former place as the religion, not only
 of the people, but of the court. Henceforth, what was called "heresy"
 ceased to show itself in the land.
 
-## XV Beginning of the Decline of Egypt
+## XV - Beginning of the Decline of Egypt
 
 The internal troubles connected with the "Disk-worship" had for about
 forty years distracted the attention of the Egyptians from their Asiatic
@@ -5129,7 +5129,7 @@ the countless buildings, excavations, obelisks, colossal statues, and
 other great works, with which he adorned Egypt from one end to the
 other.
 
-## XVI Menephthah I, the Pharaoh of the Exodus
+## XVI - Menephthah I, the Pharaoh of the Exodus
 
 Menephthah, the thirteenth son and immediate successor of Ramesses II.,
 came to the throne under circumstances which might at first sight have
@@ -5500,7 +5500,7 @@ tax-gatherer; women as well as men were stripped for the indignity and
 pain of the terrible bastinado; and even dead enemies were mutilated for
 the purpose of preserving evidence of their numbers.
 
-## XVII The Decline of Egypt under the Later Ramessides
+## XVII - The Decline of Egypt under the Later Ramessides
 
 The troublous period which followed the death of Menephthah issued
 finally in complete anarchy, Egypt broke up into nomes, or cantons, the
@@ -5878,7 +5878,7 @@ gradually settles upon its lees; and without some violent application of
 force from without, or some strange upheaval from within, the nation
 seems doomed to fall rapidly into decay and dissolution.
 
-## XVIII The Priest Kings – Pinetem and Solomon
+## XVIII - The Priest Kings – Pinetem and Solomon
 
 The position of the priests in Egypt was, from the first, one of high
 dignity and influence. Though not, strictly speaking, a caste, they
@@ -6094,7 +6094,7 @@ greatness, yet at least they escape the reproach, which rests upon most
 of the more distinguished dynasties, of seeking their own glory in modes
 which caused their subjects untold suffering. 
 
-## XIX Shishak and His Dynasty
+## XIX - Shishak and His Dynasty
 
 The rise of the twenty-second resembles in many respects that of the
 twenty-first dynasty. In both cases the cause of the revolution Is to be
@@ -6440,7 +6440,7 @@ place of thy heart. Thou art protected against the accidents of life;
 thou art protected against a violent death; thou art protected against
 fire; thou art not ruined on earth, and thou escapest in heaven."
 
-## XX Egypt Under the Ethiopians
+## XX - Egypt Under the Ethiopians
 
 The name of Ethiopia was applied in ancient times, much as the term
 Soudan is applied now, vaguely to the East African interior south of
@@ -6796,7 +6796,7 @@ the Ethiopian sovereigns of Egypt he was undoubtedly the greatest; but
 towards the close of his life reverses befell him, which require to be
 treated of in another section.
 
-## XXI Ethiopia vs Assyria
+## XXI - Ethiopia vs Assyria
 
 The miraculous destruction of his army was accepted by Sennacherib as a
 warning to desist from all further attempts against the independence of
@@ -7040,7 +7040,7 @@ was not actually fled; but the keenest observer would scarcely have
 ventured to predict, at any time between B.C. 750 and B.C. 650, such a
 revival as marked the period between B.C. 650 and B.C. 530.
 
-## XXII Psamatik I and Necho
+## XXII - Psamatik I and Necho
 
 When a country has sunk so gradually, so persistently, and for so long a
 series of years as Egypt had now been sinking, if there is a revival, it
@@ -7450,7 +7450,7 @@ realization. The defeat of Carchemish shattered the unsubstantial fabric
 into atoms, and gave a death-blow to hopes which no Pharaoh ever
 entertained afterwards.
 
-## XXIII The Later Saite Kings
+## XXIII - The Later Saite Kings
 
 The Saitic revival in art and architecture, in commercial and general
 prosperity, which Psamatik the First inaugurated, continued under his
@@ -7631,7 +7631,7 @@ when the moment of trial came, and how little support the surface
 prosperity which marked the reign of Amasis was able to render to the
 Empire in the hour of need and distress.
 
-## XXIV The Persian Conquest
+## XXIV - The Persian Conquest
 
 The subjection of Egypt to Babylon, which commenced in B.C. 565, was of
 that light and almost nominal character, which a nation that is not very
@@ -7935,7 +7935,7 @@ detested; and in sullen dissatisfaction the entire nation awaited an
 opportunity of reclaiming its independence and flinging off the accursed
 yoke.
 
-## XXV Three Desperate Revolts
+## XXV - Three Desperate Revolts
 
 The first revolt of the Egyptians against their conquerors, appears to
 have been provoked by the news of the battle of Marathon. Egypt heard,
@@ -8072,7 +8072,7 @@ lasted about sixty years, and which threw over the last years of the
 doomed monarchy a gleam of sunshine, that for a brief space recalled the
 glories of earlier and happier ages.
 
-## XXVI The Last Gleam of Sunshine – Nectanebo I
+## XXVI - The Last Gleam of Sunshine – Nectanebo I
 
 A troubled time followed the reign of Nefaa-rut. The Greek mercenary
 soldiery, on whom the monarchs depended, were fickle in their
@@ -8199,7 +8199,7 @@ death as a divine being. A priesthood was constituted in his honour,
 which handed down his cult to later times, and bore witness to the
 impression made on the Egyptian mind by his character and his successes.
 
-## XXVII The Light Goes Out in Darkness
+## XXVII - The Light Goes Out in Darkness
 
 Nectanebo's successors had neither his foresight nor his energy. Te-her,
 the Tachos or Teos of the Greeks, who followed him on the throne in B.C.
