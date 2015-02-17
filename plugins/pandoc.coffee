@@ -7,14 +7,14 @@ cheerio = require 'cheerio'
 
 q = async.queue((page, callback) ->
   if page.metadata.tableOfContents
-    pandoc page.markdown, 'markdown+definition_lists+footnotes', 'html5', ['--smart', '--section-divs', '--toc-depth=2', '--table-of-contents', '--standalone'], (err, result) ->
+    pandoc page.markdown, 'markdown+definition_lists+footnotes', 'html5', ['--smart', '--email-obfuscation=none', '--section-divs', '--toc-depth=2', '--table-of-contents', '--standalone'], (err, result) ->
       $ = cheerio.load(result)
       $('#TOC ul').addClass('nav')
       $("h2").first().before($("#TOC").prepend("<h2>Table of Contents</h2>"))
       page._htmlraw = $("body").html()
       callback err, page
   else
-    pandoc page.markdown, 'markdown', 'html5', ['--smart', '--section-divs'], (err, result) ->
+    pandoc page.markdown, 'markdown', 'html5', ['--email-obfuscation=none', '--smart', '--section-divs'], (err, result) ->
       page._htmlraw = result
       callback err, page
 , 6)
@@ -37,7 +37,7 @@ module.exports = (env, callback) ->
       # handle links to anchors within the page
       @_html = @_htmlraw.replace(/(<(a|img)[^>]+(href|src)=")(#[^"]+)/g, '$1' + fullName + '$4')
       # handle relative links
-      @_html = @_html.replace(/(<(a|img)[^>]+(href|src)=")(?!http|\/)([^"]+)/g, '$1' + loc + '$4')
+      @_html = @_html.replace(/(<(a|img)[^>]+(href|src)=")(?!http|mailto|\/)([^"]+)/g, '$1' + loc + '$4')
       # handles non-relative links within the site (e.g. /about)
       if base
         # avoid double '//' entries: remove all tailing '/'-es
