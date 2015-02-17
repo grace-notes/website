@@ -3,7 +3,7 @@ title: "Antichrist"
 pdf: "antichrist.pdf"
 description: "In the Church Age, antichrist refers to any believer who resides and functions in the world system of Satan."
 author: R. B. Thieme, Jr., Pastor, Berachah Church, Houston, Texas
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 

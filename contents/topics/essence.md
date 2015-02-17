@@ -2,7 +2,7 @@
 title: "Essence of God"
 pdf: "essence.pdf"
 description: "many scripture verses describing all of the characteristics of the personality of God."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 

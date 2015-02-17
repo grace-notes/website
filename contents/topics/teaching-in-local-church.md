@@ -2,7 +2,7 @@
 title: "Teaching in the Local Church"
 pdf: "teachinginlocalchurch.pdf"
 description: "A study of the mission of the local church with respect to \"feeding the flock\"."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 

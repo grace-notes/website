@@ -2,7 +2,7 @@
 title: "Paul's Missionary Labors"
 pdf: "paulmissionarylabors.pdf"
 description: "The public life of Paul, from the third year after his conversion to his martyrdom, A.D. 40-64, embraces a quarter of a century, three great missionary campaigns with minor expeditions, five visits to Jerusalem, and at least four years of captivity in Caesarea and Rome."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 

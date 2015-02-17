@@ -3,7 +3,7 @@ title: "Organization of the Talmud"
 indexTitle: "Talmud, Organization"
 pdf: "talmud_organization.pdf"
 description: "Talmud, Organization -  -The rabbis of the 2nd and 3rd centuries after Christ organized the Talmud in the form we find it today."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 

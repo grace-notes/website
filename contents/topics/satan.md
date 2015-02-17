@@ -2,7 +2,7 @@
 title: "Satan"
 pdf: "satan.pdf"
 description: "Satan -  What the Bible says about Satan and his strategies."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 

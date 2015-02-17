@@ -3,7 +3,7 @@ title: "The 39 Categories of Work Forbidden on the Sabbath"
 indexTitle: "Talmud - 39 Categories Of Work"
 template: topic.jade
 description: "Outline of the Talmud's categories of ritual work."
-tableOfContents: false
+tableOfContents: true
 ---
 
 In order to present some idea of Sabbath rest, we will here outline the
