@@ -7,7 +7,8 @@ cheerio = require 'cheerio'
 
 q = async.queue((page, callback) ->
   if page.metadata.tableOfContents
-    pandoc page.markdown, 'markdown+definition_lists+footnotes', 'html5', ['--smart', '--email-obfuscation=none', '--section-divs', '--toc-depth=2', '--table-of-contents', '--standalone'], (err, result) ->
+    depth = page.metadata['toc-depth'] || 2
+    pandoc page.markdown, 'markdown+definition_lists+footnotes', 'html5', ['--smart', '--email-obfuscation=none', '--section-divs', '--toc-depth='+depth, '--table-of-contents', '--standalone'], (err, result) ->
       $ = cheerio.load(result)
       $('#TOC ul').addClass('nav')
       $("h2").first().before($("#TOC").prepend("<h2>Table of Contents</h2>"))
