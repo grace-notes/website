@@ -2,13 +2,9 @@
 title: "Uncleanness in the Levitical System"
 pdf: "uncleanness.pdf"
 description: "Uncleanness in the Levitical System -  Notes on the concept of ceremonial uncleanness in the Old Testament Jewish system."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Uncleanness 2**
-
-Uncleanness in the Levitical System
 
 In the Old Testament Times, the Law of Moses declared the following
 foods to be unclean and not to be eaten. If any of these were touched,
