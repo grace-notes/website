@@ -3,7 +3,7 @@ title: "The Furniture of the Tabernacle"
 indexTitle: "Tabernacle, Furniture of"
 pdf: "tabernaclefurniture.pdf"
 description: "Tabernacle Furniture -  A description of function and typology of the laver, candlesticks, table of bread, altar of incense, veil, and ark of the covenant."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "Separation"
 pdf: "separation.pdf"
 description: "Separation -  A Christian lives in the world, but is not \"of\" it."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

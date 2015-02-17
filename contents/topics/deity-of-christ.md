@@ -2,7 +2,7 @@
 title: "Deity of Christ"
 pdf: "deityofchrist.pdf"
 description: "Scripture references to the deity of Christ in which divine essence is attributed to Christ."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

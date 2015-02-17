@@ -1,7 +1,7 @@
 ---
 title: "Paul Childhood"
 pdf: "paulchildhood.pdf"
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

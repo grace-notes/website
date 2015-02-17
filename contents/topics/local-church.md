@@ -2,7 +2,7 @@
 title: "Local Church"
 pdf: "localchurch.pdf"
 description: "Local Church -  a collection of Bible references dealing with the basic attitude and activities which are present in a local church."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

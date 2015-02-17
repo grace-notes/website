@@ -3,7 +3,7 @@ title: "The Pentateuch"
 indexTitle: "Pentateuch, The"
 pdf: "pentateuch.pdf"
 description: "Concluding Remarks on the Composition of the Pentateuch, from Commentary on the Old Testament, C. F. Keil and F. Delitzsch."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

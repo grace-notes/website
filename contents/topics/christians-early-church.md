@@ -2,7 +2,7 @@
 title: "Christians of the Early Church"
 pdf: "christiansearlychurch.pdf"
 description: "A description of the life of Christians in the early church, as found in the Epistle to Diognetus, by an unknown author of the 2nd Century."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

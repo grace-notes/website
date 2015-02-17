@@ -2,7 +2,7 @@
 title: "Paul the Apostle"
 pdf: "paul.pdf"
 description: "Paul the Apostle -  Paul's education and career."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

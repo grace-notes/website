@@ -2,7 +2,7 @@
 title: "Timothy"
 pdf: "timothy.pdf"
 description: "a brief biography of Paul's companion."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

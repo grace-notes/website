@@ -2,7 +2,7 @@
 title: "Glory of God"
 pdf: "gloryofgod.pdf"
 description: "Glory of God -  Word study of the word \"glory\" as it refers to the nature of God."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

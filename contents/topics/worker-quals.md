@@ -5,7 +5,7 @@ pdf: "workerquals.pdf"
 description: "A list of qualifications for every type of Christian
               worker, from personal worker to missionary to pastors
               and teachers."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

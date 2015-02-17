@@ -2,7 +2,7 @@
 title: "Maccabean Revolt"
 pdf: "maccabeanrevolt.pdf"
 description: "the great Jewish warriors struggle against the Greek ruler Antiochus Epiphanes."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

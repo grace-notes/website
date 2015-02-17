@@ -3,7 +3,7 @@ title: "Seven Types of Death"
 indexTitle: "Death, Seven Types"
 pdf: "death.pdf"
 description: "Seven types of death in the Bible."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

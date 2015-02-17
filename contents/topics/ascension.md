@@ -3,7 +3,7 @@ title: "The Ascension of Christ"
 indextitle: "Ascension of Christ"
 pdf: "ascension.pdf"
 description: "Scripture passages related to the ascension of the Lord Jesus Christ."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

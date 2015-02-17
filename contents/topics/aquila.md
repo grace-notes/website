@@ -2,7 +2,7 @@
 title: "Aquila and Priscilla"
 pdf: "aquila.pdf"
 description: "Two friends of Paul whom he met in Corinth, who traveled to Ephesus with him, and were instructors of Apollos."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

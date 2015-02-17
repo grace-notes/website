@@ -2,7 +2,7 @@
 title: "Second Advent of Christ"
 pdf: "secondadvent.pdf"
 description: "Second Advent of Christ"
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "Demons, an Introduction"
 pdf: "demons.pdf"
 description: "Outline of Bible references to demons; descriptions of identity and functions"
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

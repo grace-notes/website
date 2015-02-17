@@ -2,7 +2,7 @@
 title: "Stephen"
 pdf: "stephen.pdf"
 description: "an excellent study of the first martyr!"
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

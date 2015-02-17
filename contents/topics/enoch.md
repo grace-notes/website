@@ -2,7 +2,7 @@
 title: "Enoch"
 pdf: "enoch.pdf"
 description: "the man who \"was not, because God took him.\""
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

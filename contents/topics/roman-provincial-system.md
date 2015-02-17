@@ -2,7 +2,7 @@
 title: "Roman Provincial System"
 pdf: "romanprovincialsystem.pdf"
 description: "from the time when Augustus united the world under his own power, the provinces were divided into two different classes."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

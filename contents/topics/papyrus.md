@@ -2,7 +2,7 @@
 title: "Papyrus"
 pdf: "papyrus.pdf"
 description: "A plant and the writing material that was made from it."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

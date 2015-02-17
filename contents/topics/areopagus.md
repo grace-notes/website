@@ -2,7 +2,7 @@
 title: "Areopagus"
 pdf: "areopagus.pdf"
 description: "The Areopagus is a hill northwest of the Acropolis in Athens, Greece, where the apostle Paul preached to the intellectuals."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

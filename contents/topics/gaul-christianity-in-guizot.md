@@ -4,7 +4,7 @@ indexTitle: "Gaul, Christianity in"
 author: "François Pierre Guillaume Guizot"
 pdf: "gaul_christianity_in(guizot).pdf"
 description: "from Guizot's History of France."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

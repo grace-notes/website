@@ -2,7 +2,7 @@
 title: "Caesarea Philippi"
 pdf: "caesareaphilippi.pdf"
 description: "Caesarea Philippi was located at the foot of Mt. Hermon ... one of the most beautiful localities in all the Holy Land."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

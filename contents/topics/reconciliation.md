@@ -2,7 +2,7 @@
 title: "Reconciliation"
 pdf: "reconciliation.pdf"
 description: "Reconciliation -  How God the Father changes (reconciles) us to His own standards and righteousness."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

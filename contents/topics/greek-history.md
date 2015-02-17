@@ -2,7 +2,7 @@
 title: "Greek History and Thought"
 pdf: "greekhistory.pdf"
 description: "a short history of ancient Greece (24 pages)."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

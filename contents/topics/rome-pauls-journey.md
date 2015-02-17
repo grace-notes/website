@@ -3,7 +3,7 @@ title: "Paul's Journey to Rome"
 indexTitle: "Rome, Paul's Journey to"
 pdf: "rome_paulsjourney.pdf"
 description: "description of Paul's journey to Rome and his sojourn there, places and events.."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

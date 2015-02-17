@@ -2,7 +2,7 @@
 title: "Forgiveness"
 pdf: "forgiveness.pdf"
 description: "Forgiveness -  The test of Grace living is a forgiving spirit."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

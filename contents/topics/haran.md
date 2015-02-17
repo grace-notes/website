@@ -2,7 +2,7 @@
 title: "Haran"
 pdf: "haran.pdf"
 description: "A stopping point on Abraham's journey to Canaan."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

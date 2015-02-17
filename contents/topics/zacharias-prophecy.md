@@ -2,7 +2,7 @@
 title: "Zacharias' Prophecy"
 pdf: "zachariasprophecy.pdf"
 description: "the praise and prayer of Zacharias when his son, John the Baptist, was born."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

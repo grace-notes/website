@@ -1,7 +1,7 @@
 ---
 title: The Covenant with David
 pdf: davidiccovenant.pdf
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

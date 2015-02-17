@@ -2,7 +2,7 @@
 title: "Balaam"
 pdf: "balaam.pdf"
 description: "Short description of Balaam's career with reference to the Doctrine of Balaam"
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

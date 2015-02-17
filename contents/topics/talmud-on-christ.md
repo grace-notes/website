@@ -3,7 +3,7 @@ title: "Talmud: On Christ"
 pdf: "talmud_onchrist.pdf"
 author: Rev. I. B. Pranaitis
 description: "what the Talmud teaches about Jesus Christ, the founder of Christianity; and about his followers, the Christians."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

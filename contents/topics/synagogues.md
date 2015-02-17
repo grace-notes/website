@@ -2,7 +2,7 @@
 title: "Synagogues"
 pdf: "synagogues.pdf"
 description: "a discussion of the makeup and organization of synagogues in the times of the early church; from Sketches of Jewish Social Life, by Alfred Edersheim, Chapters 16 and 17; also from Conybeare and Howson, The Life and Epistles of St. Paul."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

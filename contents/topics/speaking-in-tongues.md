@@ -1,6 +1,6 @@
 ---
 title: Speaking In Tongues
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

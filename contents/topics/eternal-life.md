@@ -2,7 +2,7 @@
 title: "Eternal Life"
 pdf: "eternallife.pdf"
 description: "Three stages of everlasting life, \"now\" and \"forever\"."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

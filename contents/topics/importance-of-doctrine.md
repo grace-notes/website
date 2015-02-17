@@ -3,7 +3,7 @@ title: "The Importance of Doctrine"
 indexTitle: "Doctrine, The Importance of"
 pdf: "importanceofdoctrine.pdf"
 description: "The believer must give the highest priority in life to learning Bible facts and principles, and applying them to every situation."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

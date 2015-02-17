@@ -2,7 +2,7 @@
 title: "Locusts"
 pdf: "locusts.pdf"
 description: "Locusts -  Four different types of locusts are mentioned in Joel 4:1."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

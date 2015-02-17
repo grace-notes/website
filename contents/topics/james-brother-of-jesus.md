@@ -2,7 +2,7 @@
 title: "James the brother of Jesus"
 pdf: "jamesbrotherofjesus.pdf"
 description: "After the death of James the brother of John, there is frequent mention in the Acts and the Pauline epistles of another James, the brother of the Lord Jesus."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

@@ -3,7 +3,7 @@ title: "The Heavenlies"
 indexTitle: "Heavenlies, The"
 pdf: "heavenlies.pdf"
 description: "Heavenlies, The -  Brief notes on the locations known as the heavenlies or heavenly places."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

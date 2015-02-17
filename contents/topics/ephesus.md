@@ -2,7 +2,7 @@
 title: "Ephesus"
 pdf: "ephesus.pdf"
 description: "overview of the city of the Ephesians."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

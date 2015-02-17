@@ -2,7 +2,7 @@
 title: "Substitution"
 pdf: "substitution.pdf"
 description: "Substitution -  The unlimited substitutionary atonement for sin. Christ bore our sins in His own body..."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

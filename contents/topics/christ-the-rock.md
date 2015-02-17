@@ -3,7 +3,7 @@ title: "Jesus Christ the Rock"
 indexTitle: "Rock, Jesus Christ the Rock"
 pdf: "christtherock.pdf"
 description: "Scriptures refer to Jesus Christ as the Rock."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

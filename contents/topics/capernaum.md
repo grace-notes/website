@@ -2,7 +2,7 @@
 title: "Capernaum"
 pdf: "capernaum.pdf"
 description: "The most important city on the northern shore of the Sea of Galilee. It was here that Jesus established His headquarters for the major part of His public ministry (Mt. 4:13)."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

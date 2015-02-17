@@ -2,7 +2,7 @@
 title: "Moses' Early Life"
 pdf: "mosesearlylife.pdf"
 description: "exposition of Exodus 2 (Keil and Delitszch)."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

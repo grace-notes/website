@@ -2,7 +2,7 @@
 title: "Sanhedrin"
 pdf: "sanhedrin.pdf"
 description: "a brief description and history of this ruling Jewish organization."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

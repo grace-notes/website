@@ -2,7 +2,7 @@
 title: "Colossae"
 pdf: "colossae.pdf"
 description: "overview of the city of the Colossians."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

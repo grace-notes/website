@@ -3,7 +3,7 @@ title: "The Hazards of Negative Volition"
 indexTitle: "Negative Volition"
 pdf: "negativevolition.pdf"
 description: "Negative Volition -  Stern warnings to believers \"not to walk as other Gentiles walk\"."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

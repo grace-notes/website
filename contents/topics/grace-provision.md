@@ -2,7 +2,7 @@
 title: "Grace Provision for the Believer's Needs"
 pdf: "graceprovision.pdf"
 description: "Grace Provision -  God the Father provides logistical supply for believers."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "Servants and Slaves in Palestine"
 pdf: "servantsslaves.pdf"
 description: "Servants and Slaves -  A description of the condition and treatment of servants and slaves in Bible times."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

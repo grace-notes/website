@@ -3,7 +3,7 @@ title: "The Holy Spirit - Spiritual Gifts"
 indexTitle: "Spiritual Gifts"
 pdf: "holyspirit_spiritualgifts.pdf"
 description: "the divine power which is given to each Christian at the time of salvation."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 

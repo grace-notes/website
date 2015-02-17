@@ -3,7 +3,7 @@ title: "Leaven"
 pdf: "leaven.pdf"
 description: "Leaven -  A study of the concept of leaven in the Bible"
 template: topic.jade
-tableOfContents: true
+tableOfContents: false
 ---
 
 In both the Old Testament and the New Testament leaven is a “type of

@@ -2,7 +2,7 @@
 title: "Sin Nature"
 pdf: "sinnature.pdf"
 description: "Sin Nature: part of the essence of the soul acquired at Adam's fall and passed on to every person at birth."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
 
