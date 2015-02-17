@@ -2,6 +2,7 @@
 title: "Union with Christ (Positional Truth)"
 pdf: "unionwithchrist.pdf"
 description: "Union with Christ (Positional Truth) -  Teaching related to all of the benefits and responsibilities of being \"in Christ\"."
+tableofcontents: true
 template: topic.jade
 ---
 
