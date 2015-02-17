@@ -8,7 +8,7 @@ template: topic.jade
 
 The Bible says that God is just. We know that He exercises perfect judgment and discernment in His dealings with mankind. This study discusses the various Bible passages dealing with the subjects of judgment and justice and gives the Christian believer a basis for knowing the difference between sinful judging and spiritual discernment in human affairs.
 
-# God is the Only Capable Judge of Mankind
+## God is the Only Capable Judge of Mankind
 
 Romans 2:1-16
 
@@ -40,7 +40,7 @@ In human jurisdictions, a guilty person may get away with a crime if (1) his off
 
 8. The Fourth Principle of Judgment – (2:16) Both Jews and Gentiles will be brought face to face with Christ and the Gospel in the ultimate judgment. “In the day when God shall judge the secrets of men according to my Gospel by Jesus Christ.”
 
-# The Justice of God
+## The Justice of God
 
 God has sovereignty over His creatures by virtue of His creation. He has the perfect right to dispose of His works as it may please Him. Psa.. 115:3; 135:6
 
@@ -76,14 +76,14 @@ I John 5:11,12 “And this is the record, that God hath given to us eternal life
 
 Principle : Grace always precedes judgment. cf. **Mal. 1,2**
 
-# Judging
+## Judging
 
 There are several words in the Bible referring to various types of discernment, judgment, and condemnation. Sometimes we are warned not to engage in sinful judging of others. At other times we are told to exercise godly judgment (discernment) in deciding a matter. In almost every passage dealing with judging, the context will enable you decide which type of judging is being discussed.
 
 For clarity in our teaching, we often use the word *judging* to refer to improper, destructive criticism, either by a believer out of fellowship, or by an unbeliever under certain conditions. We use the word *discernment* for the proper evaluation of people, events, or problems,
 by believers under the control of the Holy Spirit.
 
-# USES OF **κρινω** (krino)
+## USES OF **κρινω** (krino)
 
 The basic Greek word for the verb “to judge” is **krino**. This word is used for *both* legitimate discernment and for sinful judging. This word has the following uses :
 
@@ -137,7 +137,7 @@ Col. 2:16, “Let no man therefore judge you in meat, or in drink, or in respect
 
 James 4:11,12, “Speak not evil one of another, brethren. He that speaks evil of his brother, and judges his brother … there is one lawgiver, who is able to have and to destroy: who are you that keeps on judging another?” This person sets himself up as God when judging in this manner.
 
-# USES OF **ανακρινω** (anakrino)
+## USES OF **ανακρινω** (anakrino)
 
 *To examine for answers* … “to pass judgment upon”, which comes to mean “to examine”. This is a legitimate activity, especially concerning our attitude toward the scriptures. Acts 17:11, "These were more noble (open-minded) than those in Thessalonica, in that they received the Word with all readiness (eagerness) of mind, and searched (**anakrino**) the Scriptures (daily), whether those things were so."
 
@@ -150,7 +150,7 @@ The proof that **anakrino** takes on a good connotation is found in the followin
 
 I Cor. 2:14,15, "But the natural man (unbeliever) receiveth not the things of the Spirit of God: for they are foolishness unto him; neither can he know them, because they are spiritually discerned (**anakrino**). But he that is spiritual (in fellowship) judgeth (discerns) all things, yet he himself is judged of no man."
 
-# USES OF **διακρινω** (diakrino)
+## USES OF **διακρινω** (diakrino)
 
 _To be at odds with oneself, to doubt, to waver_:
 
@@ -170,13 +170,13 @@ _To render a decision_:
 
 I Cor. 6:5, “I speak to your shame. Is it so, that there is not a wise man among you? No, not one that shall be able to judge between his brethren?”
 
-# USE OF **κριτικοϛ** (kritikos)
+## USE OF **κριτικοϛ** (kritikos)
 
 Used only once in the Word of God, to describe the quality of the Word of God as an absolute criterion of judgment.
 
 Heb. 4:12, "For the Word of God is living and powerful, and sharper than any two-edged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner (**kritikos**) of the thoughts and intents of the heart."
 
-# USE OF **δισκρισιϛ**(diakrisis)
+## USE OF **δισκρισιϛ**(diakrisis)
 
 Heb. 5:14, "But strong meat belongs to them that are of full age (mature believers) even those who by reason of use have their senses exercised to discern (**diakrisis**) both good and evil." The believer who uses the Word of God in fellowship will be able to discern a great deal.
 
