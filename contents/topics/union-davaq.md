@@ -2,15 +2,9 @@
 title: "Union (davaq)"
 pdf: "uniondavaq.pdf"
 description: "Union (davaq) -  a study of the Hebrew word DAVAQ, \"union\"."
+tableofcontents: true
 template: topic.jade
 ---
-
-
-**Union (DAVAQ) 2**
-
-Union (DAVAQ)
-
-**UNION (DAVAQ)**
 
 by Dr. Glenn Carnagey
 
