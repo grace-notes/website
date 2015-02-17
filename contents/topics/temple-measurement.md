@@ -2,7 +2,7 @@
 title: "Temple: Description and Measurements"
 pdf: "templemeasurement.pdf"
 description: "from Edersheim, Alfred, \"Sketches of Jewish Social Life\", Appendix I."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

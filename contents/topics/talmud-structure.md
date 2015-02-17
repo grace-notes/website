@@ -3,7 +3,7 @@ title: "The Structure of the Talmud"
 indexTitle: "Talmud, Structure of"
 pdf: "talmud_structure.pdf"
 description: "The rabbis of the 2nd and 3rd centuries after Christ organized the Talmud in the form we find it today."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

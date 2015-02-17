@@ -2,7 +2,7 @@
 title: "Sergius Paulus"
 pdf: "sergiuspaulus.pdf"
 description: "the Roman official whom Paul and Barnabas met in Cyprus on their first missionary journey."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

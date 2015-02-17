@@ -3,7 +3,7 @@ title: "Doctrine of the Soul"
 indexTitle: "Soul, Doctrine of"
 pdf: "soul.pdf"
 description: "Man is aware of his own existence and is able to relate to both animate and inanimate life on earth."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

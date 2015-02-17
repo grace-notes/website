@@ -2,7 +2,7 @@
 title: "Stoicism"
 pdf: "stoicism.pdf"
 description: "the only direct reference to the Stoics in the Bible occurs in Acts 17:18, where Paul is reported to have addressed Epicurean and Stoic philosophers in Athens."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

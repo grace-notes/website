@@ -2,7 +2,7 @@
 title: "The Christian Walk"
 pdf: "walking.pdf"
 description: "Walk, The Christian -  The Christian Walk; obedience to the command to \"walk worthy of the calling wherewith you are called\"."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

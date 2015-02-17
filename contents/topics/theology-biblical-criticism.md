@@ -2,7 +2,7 @@
 title: "Theology of Biblical Criticism"
 pdf: "theologybiblicalcriticism.pdf"
 description: "Theology of Biblical Criticism - "
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

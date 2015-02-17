@@ -3,7 +3,7 @@ title: Volitional Responsibility
 template: topic.jade
 description: "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously."
 author: Pastor Mark Perkins
-tableofcontents: true
+tableOfContents: true
 ---
 
 The Law of Volitional Responsibility: People who choose for God are

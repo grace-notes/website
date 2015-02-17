@@ -4,7 +4,7 @@ pdf: "widowsmite.pdf"
 description: "an essay on Christian giving and support of Christian work, based on the Bible narrative of this story."
 subtitle: An Essay on Christian Giving
 author: James Matheny
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

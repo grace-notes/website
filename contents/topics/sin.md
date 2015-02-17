@@ -3,7 +3,7 @@ title: "Doctrine of Sin"
 indexTitle: "Sin, Doctrine of"
 pdf: "sin.pdf"
 description: "Sin, Doctrine of -  a comprehensive topic study of the Doctrine of Sin."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

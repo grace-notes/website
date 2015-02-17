@@ -2,7 +2,7 @@
 title: "The Destruction of the Temple"
 indexTitle: "Temple, Destruction of"
 pdf: "templedestruction.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

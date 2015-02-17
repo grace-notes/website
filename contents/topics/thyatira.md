@@ -2,7 +2,7 @@
 title: "Thyatira"
 pdf: "thyatira.pdf"
 description: "location of one of the seven local churches of Revelation; home of Lydia, the seller of purple."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

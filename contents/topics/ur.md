@@ -2,7 +2,7 @@
 title: "Ur of the Chaldees"
 pdf: "ur.pdf"
 description: "a brief description of Abraham's birthplace"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

@@ -2,7 +2,7 @@
 title: "The Development of the Temple"
 indexTitle: "Temple, Development of"
 pdf: "templedevelopment.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

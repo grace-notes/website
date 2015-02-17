@@ -3,7 +3,7 @@ title: "The Sin of Worry"
 indexTitle: "Worry, the Sin of"
 pdf: "worry.pdf"
 description: "The mental attitude sin of worry, its cause and cure."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

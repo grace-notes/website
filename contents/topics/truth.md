@@ -2,7 +2,7 @@
 title: "Truth"
 pdf: "truth.pdf"
 description: "Truth -  The Word of God is Truth; examples of eagerness for God's truth."
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 

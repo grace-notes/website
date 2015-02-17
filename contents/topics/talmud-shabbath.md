@@ -1,7 +1,7 @@
 ---
 title: Talmud Shabbath
 pdf: "talmud_shabbath.pdf"
-tableofcontents: true
+tableOfContents: true
 template: topic.jade
 ---
 
