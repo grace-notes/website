@@ -2,11 +2,9 @@
 title: "Widows"
 pdf: "widows.pdf"
 description: "In the New Testament, a widow is a woman who has lost her husband by death or is divorced from her husband."
+tableofcontents: true
 template: topic.jade
 ---
-
-Definition
-----------
 
 A widow is a woman who has lost her husband by death or has legitimately
 divorced her husband. A widow is also a woman who has divorced her
