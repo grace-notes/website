@@ -49,11 +49,6 @@ block content
               title="pdf download of "+topic.title
             ).label.label-info view pdf &nbsp;
               i.fa.fa-file-pdf-o
-          li: a(
-            href= topic.url.replace(/\.html$/, '.pdf'),
-            title="pdf download of "+topic.title
-          ).label.label-danger view pdf &nbsp;
-            i.fa.fa-file-pdf-o
       if topic.metadata && topic.metadata.description
         p.text-muted.description= topic.metadata.description
   script(src="/topics/toc.js")
