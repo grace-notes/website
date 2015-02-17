@@ -134,21 +134,32 @@ h5 {
     overflow-y: auto;
     background: #fdfdfd;
     margin: 0;
+    border-left: 2px solid #ddd;
     h2 {
       border: none;
       margin: 0 10px;
       line-height: 2;
+      font-size: 120%;
     }
     > ul {
       margin: 0;
-      li {
+      > li {
         background: #eee;
         margin: 1px 0;
         padding: 0 10px;
+        ul {
+          margin: 0;
+        }
+        li {
+          margin: 0;
+        }
       }
     }
     .active, .active a {
       background: #ddd;
+      .active, .active a {
+        text-decoration: underline;
+      }
     }
   }
 }

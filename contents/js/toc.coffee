@@ -10,8 +10,10 @@ $(document).ready (e)->
   toc = $('#TOC')
   $('body').on 'activate.bs.scrollspy', (e)->
     height = toc.outerHeight()
-    position = toc.find('.active').position()
-    targetScroll = toc.scrollTop() + position.top - height/2
+    top = toc.find('.active').position().top
+    if toc.find('.active .active').length
+      top =  top + toc.find('.active .active').position().top
+    targetScroll = toc.scrollTop() + top - height/2
 
     $('#TOC').stop().animate({
       scrollTop: targetScroll

@@ -121,15 +121,15 @@ Adam’s fall and subsequently passed on to every person at birth. The Sin
 Nature is the center of the soul’s rebellion against God. The essence of
 the soul contains:
 
-• Self-consciousness
+* Self-consciousness
 
-• Mentality
+* Mentality
 
-• Volition
+* Volition
 
-• Emotion
+* Emotion
 
-• The Sin Nature
+* The Sin Nature
 
 The Essence of the Sin Nature
 -----------------------------
@@ -674,14 +674,14 @@ Kings 10:19; Luke 20:20.
 others out. This word appears as a translation of several Greek
 originals.
 
-From(periergos), verb. (periergomai) “to do something useless
+From περιεργαζομένους, part. of περιεργάζομαι “to do something useless
 or unnecessary”. Literally, “to work around”. Also used in Greek to mean
 “undue anxiety” over something which is not really a proper concern.
 
 2 Thess. 3:11.
 
-Also from (allotroepiskopos), a combining form
-from, “belonging to another”, and , “bishop”. Hence,
+Also from ἀλλοτριεπίσκοπος, a combining form
+from ἀλλότριος, “belonging to another”, and ἐπίσκοπος, “bishop”. Hence,
 the busybody is “another man’s bishop”.
 
 1 Pet. 4:15.
@@ -772,22 +772,22 @@ people (causing stumbling) may lead a person into severe discipline.
 
 Some case histories of the “sin unto death”:
 
-• The case of “lying to the Holy Spirit” (Ananias and Sapphira).
+* The case of “lying to the Holy Spirit” (Ananias and Sapphira).
 Acts 5:1-10.
 
-• The case of persistent carnality while sitting at the Lord’s Table,
+* The case of persistent carnality while sitting at the Lord’s Table,
 1 Cor. 11:30,31.
 
-• The case of disobedience to the Word of God.1 Chron.10:13,14;
+* The case of disobedience to the Word of God.1 Chron.10:13,14;
 1 Sam. 13:9–14. King Saul did not kill Agag although directly ordered to
 do so by God; he insisted on personally offering sacrifices in the place
 of divinely appointed priests; and he consulted a witch, itself a
 capital offense.
 
-• The case of self-righteousness and dependence on man which was
+* The case of self-righteousness and dependence on man which was
 perpetuated (case of Hezekiah). Isa. 38.
 
-• The case of apostasy on the part of a believer. Num. 31:8; 1 Tim.
+* The case of apostasy on the part of a believer. Num. 31:8; 1 Tim.
 1:19,20.
 
 SIN’S VICIOUS CIRCLE
@@ -955,7 +955,7 @@ things cannot be substituted for confession of sin. God is interested
 only in a person’s mental attitude toward the sin.
 
 The word “confession” in the New Testament is taken from the Greek word
-, meaning “to cite”, “to name”, “to classify in the same
+ὁμολογέω, meaning “to cite”, “to name”, “to classify in the same
 manner”, “to agree with”, “to say the same thing as”. Confession
 acknowledges God’s rulership in the matter and agrees with His judgment.
 This is a method of dealing with the disharmony caused by sins which
@@ -977,11 +977,11 @@ and the hindrances to the ministry of the Holy Spirit are removed.
 There are several synonyms in the Bible for the word “confess”, as
 follows":
 
-• To “yield” means to confess. Rom. 6:13.
+* To “yield” means to confess. Rom. 6:13.
 
-• “Putting off the old man”, is tantamount to confession. Eph. 5:14.
+* “Putting off the old man”, is tantamount to confession. Eph. 5:14.
 
-• Judging oneself is confession, or leads to it. 1 Cor. 11:31.
+* Judging oneself is confession, or leads to it. 1 Cor. 11:31.
 
-• Presenting one’s body is analogous to confession. Rom. 12:1.
+* Presenting one’s body is analogous to confession. Rom. 12:1.
 
