@@ -15,7 +15,7 @@ patterns = {
   "2 Kings": "(2(nd)?|II) ?Ki?(ngs)?"
   "1 Chronicles": "(1(st)?|I) ?Chr?(on(icles)?)?"
   "2 Chronicles": "(2(nd)?|II) ?Chr?(on(icles)?)?"
-  "Ezra": "Ez(ra)?"
+  "Ezra": "Ez(ra?)?"
   "Nehemiah": "Ne(h(emiah)?)?"
   "Esther": "Es(t(her)?)?"
   "Job": "Jo?b"
@@ -76,7 +76,7 @@ normalizeRef = (t)->
   return t
 
 allBooks = '(' + ("\\b"+pattern for book, pattern of patterns).join('|') + ')'
-allBooksRegEx = RegExp('('+allBooks+'\\b\\.?(&nbsp;|\\s)*[0-9.]([a-cf0-9:—–-]|,\\s?|&nbsp;)*(;((\\s|&nbsp;)?[0-9]*:([0-9—–-]|,\\s?)*))*)\\b(?![^<]*</a>)', 'gi')
+allBooksRegEx = RegExp('('+allBooks+'\\b\\.?(&nbsp;|\\s)*[0-9.]([a-cf0-9:—–-]|,\\s?|&nbsp;)*(;((\\s|&nbsp;)?[0-9]*:([0-9—–-]|,\\s?)*))*)\\b(?![^<]*(>|</a>))', 'gi')
 
 replacement = (match, p1, p2, p3)->
   stdname = normalizeRef(match)
