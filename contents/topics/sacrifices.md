@@ -2,15 +2,15 @@
 title: "Sacrifices in the Old Testament"
 pdf: "sacrifices.pdf"
 description: "The first of the revelations of God to the people of Israel related to the sacrifices, in which the Israelites were to draw near to Him, that they might become partakers of His grace."
-tableOfContents: true
+tableOfContents: false
 template: topic.jade
 ---
  
 from Commentary on the Old Testament, C. F. Keil and F. Delitzsch
 
 [Grace Notes has a 20-lesson course based on Keil and Delitzsch
-commentary on the book of Leviticus. Write to: <wdoud@gracenotes.info>
-for information.]
+commentary on the book of Leviticus. Write to:
+[wdoud@gracenotes.info](mailto:wdoud@gracenotes.info) for information.]
 
 When the glory of the Lord had entered the tabernacle in a cloud, God
 revealed Himself to Moses from this place of His gracious presence,
