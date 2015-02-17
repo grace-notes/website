@@ -4,82 +4,309 @@ pdf: "pilgrimsprogress.pdf"
 description: "“From This World To That Which Is To Come, Delivered under the similitude of a dream”, BY JOHN BUNYAN"
 tableOfContents: false
 template: topic.jade
+toc-depth: 3
 ---
 
-It shows, too, who set out for life amain,
+## The Author's Apology for his Book ##
 
-As if the lasting crown they would obtain;
+### {1}
 
-Here also you may see the reason why
+| When at the first I took my pen in hand
+| Thus for to write, I did not understand
+| That I at all should make a little book
+| In such a mode; nay, I had undertook
+| To make another; which, when almost done,
+| Before I was aware, I this begun.
+| 
+| And thus it was: I, writing of the way
+| And race of saints, in this our gospel day,
+| Fell suddenly into an allegory
+| About their journey, and the way to glory,
+| In more than twenty things which I set down.
+| This done, I twenty more had in my crown;
+| And they again began to multiply,
+| Like sparks that from the coals of fire do fly.
+| 
+| Nay, then, thought I, if that you breed so fast,
+| I'll put you by yourselves, lest you at last
+| Should prove ad infinitum, and eat out
+| The book that I already am about.
+| 
+| Well, so I did; but yet I did not think
+| To show to all the world my pen and ink
+| In such a mode; I only thought to make
+| I knew not what; nor did I undertake
+| Thereby to please my neighbor: no, not I;
+| I did it my own self to gratify.
 
-They lose their labor, and like fools do die.
+### {2}
 
-This book will make a traveler of thee,
+| Neither did I but vacant seasons spend
+| In this my scribble; nor did I intend
+| But to divert myself in doing this
+| From worser thoughts which make me do amiss.
+| 
+| Thus, I set pen to paper with delight,
+| And quickly had my thoughts in black and white.
+| For, having now my method by the end,
+| Still as I pulled, it came; and so I penned
+| It down: until it came at last to be,
+| For length and breadth, the bigness which you see.
+| 
+| Well, when I had thus put mine ends together,
+| I showed them others, that I might see whether
+| They would condemn them, or them justify:
+| And some said, Let them live; some, Let them die;
+| Some said, JOHN, print it; others said, Not so;
+| Some said, It might do good; others said, No.
+| 
+| Now was I in a strait, and did not see
+| Which was the best thing to be done by me:
+| At last I thought, Since you are thus divided,
+| I print it will, and so the case decided.
 
-If by its counsel thou wilt ruled be;
+### {3}
 
-It will direct thee to the Holy Land,
+| For, thought I, some, I see, would have it done,
+| Though others in that channel do not run:
+| To prove, then, who advised for the best,
+| Thus I thought fit to put it to the test.
+| 
+| I further thought, if now I did deny
+| Those that would have it, thus to gratify.
+| I did not know but hinder them I might
+| Of that which would to them be great delight.
+| 
+| For those which were not for its coming forth,
+| I said to them, Offend you I am loth,
+| Yet, since your brethren pleased with it be,
+| Forbear to judge till you do further see.
+| 
+| If that thou wilt not read, let it alone;
+| Some love the meat, some love to pick the bone.
+| Yea, that I might them better palliate,
+| I did too with them thus expostulate:--
 
-If thou wilt its directions understand:
+### {4}
 
-Yea, it will make the slothful active be;
+| May I not write in such a style as this?
+| In such a method, too, and yet not miss 
+| The Pilgrim’s Progress Page 2 of 79
+| My end--thy good? Why may it not be done?
+| Dark clouds bring waters, when the bright bring
+| none.
+| Yea, dark or bright, if they their silver drops
+| Cause to descend, the earth, by yielding crops,
+| Gives praise to both, and carpeth not at either,
+| But treasures up the fruit they yield together;
+| Yea, so commixes both, that in her fruit
+| None can distinguish this from that: they suit
+| Her well when hungry; but, if she be full,
+| She spews out both, and makes their blessings
+| null.
+| 
+| You see the ways the fisherman doth take
+| To catch the fish; what engines doth he make?
+| Behold how he engageth all his wits;
+| Also his snares, lines, angles, hooks, and nets;
+| Yet fish there be, that neither hook, nor line,
+| Nor snare, nor net, nor engine can make thine:
+| They must be groped for, and be tickled too,
+| Or they will not be catch'd, whate'er you do.
+| 
+| How does the fowler seek to catch his game
+| By divers means! all which one cannot name:
+| His guns, his nets, his lime-twigs, light, and bell:
+| He creeps, he goes, he stands; yea, who can tell
+| Of all his postures? Yet there's none of these
+| Will make him master of what fowls he please.
+| Yea, he must pipe and whistle to catch this,
+| Yet, if he does so, that bird he will miss.
+| 
+| If that a pearl may in a toad's head dwell,
+| And may be found too in an oyster-shell;
+| If things that promise nothing do contain
+| What better is than gold; who will disdain,
+| That have an inkling of it, there to look,
+| That they may find it? Now, my little book,
+| (Though void of all these paintings that may make
+| It with this or the other man to take)
+| Is not without those things that do excel
+| What do in brave but empty notions dwell.
 
-The blind also delightful things to see.
+### {5}
 
-Art thou for something rare and profitable?
+| 'Well, yet I am not fully satisfied,
+| That this your book will stand, when soundly
+| tried.'
+| 
+| Why, what's the matter? 'It is dark.' What though?
+| 'But it is feigned.' What of that? I trow?
+| Some men, by feigned words, as dark as mine,
+| Make truth to spangle and its rays to shine.
+| 
+| 'But they want solidness.' Speak, man, thy mind.
+| 'They drown the weak; metaphors make us blind.'
+| 
+| Solidity, indeed, becomes the pen
+| Of him that writeth things divine to men;
+| But must I needs want solidness, because
+| By metaphors I speak? Were not God's laws,
+| His gospel laws, in olden times held forth
+| By types, shadows, and metaphors? Yet loth
+| Will any sober man be to find fault
+| With them, lest he be found for to assault
+| The highest wisdom. No, he rather stoops,
+| And seeks to find out what by pins and loops,
+| By calves and sheep, by heifers and by rams,
+| By birds and herbs, and by the blood of lambs,
+| God speaketh to him; and happy is he
+| That finds the light and grace that in them be.
 
-Wouldest thou see a truth within a fable?
+### {6}
 
-Art thou forgetful? Wouldest thou remember
+| Be not too forward, therefore, to conclude
+| That I want solidness--that I am rude;
+| All things solid in show not solid be;
+| All things in parables despise not we;
+| Lest things most hurtful lightly we receive,
+| And things that good are, of our souls bereave.
+| 
+| My dark and cloudy words, they do but hold
+| The truth, as cabinets enclose the gold.
+| 
+| The prophets used much by metaphors
+| To set forth truth; yea, who so considers
+| Christ, his apostles too, shall plainly see,
+| That truths to this day in such mantles be. 
+| The Pilgrim’s Progress
+| 
+| Am I afraid to say, that holy writ,
+| Which for its style and phrase puts down all wit,
+| Is everywhere so full of all these things--
+| Dark figures, allegories? Yet there springs
+| From that same book that lustre, and those rays
+| Of light, that turn our darkest nights to days.
 
-From New-Year’s day to the last of December?
+### {7}
 
-Then read my fancies; they will stick like burs,
+| Come, let my carper to his life now look,
+| And find there darker lines than in my book
+| He findeth any; yea, and let him know,
+| That in his best things there are worse lines too.
+| 
+| May we but stand before impartial men,
+| To his poor one I dare adventure ten,
+| That they will take my meaning in these lines
+| Far better than his lies in silver shrines.
+| Come, truth, although in swaddling clouts, I find,
+| Informs the judgment, rectifies the mind;
+| Pleases the understanding, makes the will
+| Submit; the memory too it doth fill
+| With what doth our imaginations please;
+| Likewise it tends our troubles to appease.
+| 
+| Sound words, I know, Timothy is to use,
+| And old wives' fables he is to refuse;
+| But yet grave Paul him nowhere did forbid
+| The use of parables; in which lay hid
+| That gold, those pearls, and precious stones that
+| were
+| Worth digging for, and that with greatest care.
+| 
+| Let me add one word more. O man of God,
+| Art thou offended? Dost thou wish I had
+| Put forth my matter in another dress?
+| Or, that I had in things been more express?
+| Three things let me propound; then I submit
+| To those that are my betters, as is fit.
 
-And may be, to the helpless, comforters.
+### {8}
+ 
+| 1. I find not that I am denied the use
+| Of this my method, so I no abuse
+| Put on the words, things, readers; or be rude
+| In handling figure or similitude,
+| In application; but, all that I may,
+| Seek the advance of truth this or that way
+| Denied, did I say? Nay, I have leave
+| (Example too, and that from them that have
+| God better pleased, by their words or ways,
+| Than any man that breatheth now-a-days)
+| Thus to express my mind, thus to declare
+| Things unto thee that excellentest are.
+| 
+| 2. I find that men (as high as trees) will write
+| Dialogue-wise; yet no man doth them slight
+| For writing so: indeed, if they abuse
+| Truth, cursed be they, and the craft they use
+| To that intent; but yet let truth be free
+| To make her sallies upon thee and me,
+| Which way it pleases God; for who knows how,
+| Better than he that taught us first to plough,
+| To guide our mind and pens for his design?
+| And he makes base things usher in divine.
+| 
+| 3. I find that holy writ in many places
+| Hath semblance with this method, where the cases
+| Do call for one thing, to set forth another;
+| Use it I may, then, and yet nothing smother
+| Truth's golden beams: nay, by this method may
+| Make it cast forth its rays as light as day.
+| And now before I do put up my pen,
+| I'll show the profit of my book, and then
+| Commit both thee and it unto that Hand
+| That pulls the strong down, and makes weak ones
+| stand.
+| 
+| This book it chalketh out before thine eyes
+| The man that seeks the everlasting prize;
+| It shews you whence he comes, whither he goes;
+| What he leaves undone, also what he does;
+| It also shows you how he runs and runs,
+| Till he unto the gate of glory comes. 
 
-This book is writ in such a dialect
+### {9}
 
-As may the minds of listless men affect:
+| It shows, too, who set out for life amain,  
+| As if the lasting crown they would obtain;  
+| Here also you may see the reason why  
+| They lose their labor, and like fools do die.  
+| This book will make a traveler of thee,  
+| If by its counsel thou wilt ruled be;  
+| It will direct thee to the Holy Land,  
+| If thou wilt its directions understand:  
+| Yea, it will make the slothful active be;  
+| The blind also delightful things to see.  
+| Art thou for something rare and profitable?  
+| Wouldest thou see a truth within a fable?  
+| Art thou forgetful? Wouldest thou remember  
+| From New-Year’s day to the last of December?  
+| Then read my fancies; they will stick like burs,  
+| And may be, to the helpless, comforters.  
+| This book is writ in such a dialect  
+| As may the minds of listless men affect:  
+| It seems a novelty, and yet contains  
+| Nothing but sound and honest gospel strains.  
+| Wouldst thou divert thyself from melancholy?  
+| Wouldst thou be pleasant, yet be far from folly?  
+| Wouldst thou read riddles, and their explanation?  
+| Or else be drowned in thy contemplation?  
+| Dost thou love picking meat? Or wouldst thou see  
+| A man in the clouds, and hear him speak to thee?  
+| Wouldst thou be in a dream, and yet not sleep?  
+| Or wouldst thou in a moment laugh and weep?  
+| Wouldest thou lose thyself and catch no harm,  
+| And find thyself again without a charm?  
+| Wouldst read thyself, and read thou knowest not what,  
+| And yet know whether thou art blest or not,  
+| By reading the same lines? Oh, then come hither,  
+| And lay my book, thy head, and heart together.  
+| JOHN BUNYAN.
 
-It seems a novelty, and yet contains
+## THE PILGRIM’S PROGRESS In the Similitude of a Dream
 
-Nothing but sound and honest gospel strains.
-
-Wouldst thou divert thyself from melancholy?
-
-Wouldst thou be pleasant, yet be far from folly?
-
-Wouldst thou read riddles, and their explanation?
-
-Or else be drowned in thy contemplation?
-
-Dost thou love picking meat? Or wouldst thou see
-
-A man in the clouds, and hear him speak to thee?
-
-Wouldst thou be in a dream, and yet not sleep?
-
-Or wouldst thou in a moment laugh and weep?
-
-Wouldest thou lose thyself and catch no harm,
-
-And find thyself again without a charm?
-
-Wouldst read thyself, and read thou knowest not what,
-
-And yet know whether thou art blest or not,
-
-By reading the same lines? Oh, then come hither,
-
-And lay my book, thy head, and heart together.
-
-JOHN BUNYAN.
-
-THE PILGRIM’S PROGRESS In the Similitude of a Dream
-
-{10}
-----
+### {10}
 
 As I walked through the wilderness of this world, I lighted on a certain
 place where was a Den [The Jail/Gaol], and I laid me down in that place
@@ -92,8 +319,7 @@ wept, and trembled; and, not being able longer to contain, [His Outcry]
 he brake out with a lamentable cry, saying, “What shall I do?” [Acts
 2:37]
 
-{11}
-----
+### {11}
 
 In this plight, therefore, he went home and refrained himself as long as
 he could, that his wife and children should not perceive his distress;
@@ -123,24 +349,21 @@ pray for and pity them, and also to condole his own misery; he would
 also walk solitarily in the fields, sometimes reading, and sometimes
 praying: and thus for some days he spent his time.
 
-{12}
-----
+### {12}
 
 Now, I saw, upon a time, when he was walking in the fields, that he was,
 as he was wont, reading in his book, and greatly distressed in his mind;
 and, as he read, he burst out, as he had done before, crying, “What
 shall I do to be saved?”
 
-{13}
-----
+### {13}
 
 I saw also that he looked this way and that way, as if he would run; yet
 he stood still, because, as I perceived, he could not tell which way to
 go. I looked then, and saw a man named Evangelist coming to him and
 asked, Wherefore dost thou cry? [Job 33:23]
 
-{14}
-----
+### {14}
 
 He answered, Sir, I perceive by the book in my hand, that I am condemned
 to die, and after that to come to judgment [Heb. 9:27]; and I find that
@@ -151,8 +374,7 @@ CHRISTIAN no sooner leaves the World but meets EVANGELIST, who lovingly
 him greets With tidings of another: and doth show Him how to mount to
 that from this below.
 
-{15}
-----
+### {15}
 
 Then said Evangelist, Why not willing to die, since this life is
 attended with so many evils? The man answered, Because I fear that this
@@ -161,16 +383,14 @@ fall into Tophet. [Isa. 30:33] And, Sir, if I be not fit to go to
 prison, I am not fit, I am sure, to go to judgment, and from thence to
 execution; and the thoughts of these things make me cry.
 
-{16}
-----
+### {16}
 
 [Conviction of the necessity of flying] Then said Evangelist, If this be
 thy condition, why standest thou still? He answered, Because I know not
 whither to go. Then he gave him a parchment roll, and there was written
 within, Flee from the wrath to come. [Matt. 3.7]
 
-{17}
-----
+### {17}
 
 The man therefore read it, and looking upon Evangelist very carefully,
 said, Whither must I fly? Then said Evangelist, pointing with his finger
@@ -182,8 +402,7 @@ that light in your eye, and go up directly thereto: so shalt thou see
 the gate; at which, when thou knockest, it shall be told thee what thou
 shalt do.
 
-{18}
-----
+### {18}
 
 So I saw in my dream that the man began to run.
 
@@ -193,8 +412,7 @@ fingers in his ears, and ran on, crying, Life! life! eternal life! [Luke
 14:26] So he looked not behind him, but fled towards the middle of the
 plain. [Gen. 19:17]
 
-{19}
-----
+### {19}
 
 [They that fly from the wrath to come, are a gazing-stock of the world]
 The neighbors also came out to see him run [Jer. 20:10]; and, as he ran,
@@ -211,8 +429,7 @@ see it to be so; and, dying there, sooner or later, you will sink lower
 than the grave, into a place that burns with fire and brimstone: be
 content, good neighbors, and go along with me.
 
-{20}
-----
+### {20}
 
 OBST. What! said Obstinate, and leave our friends and our comforts
 behind us?
@@ -223,8 +440,7 @@ which I am seeking to enjoy [2 Cor. 4:18]; and, if you will go along
 with me, and hold it, you shall fare as I myself; for there, where I go,
 is enough and to spare. [Luke 15:17] Come away, and prove my words.
 
-{21}
-----
+### {21}
 
 OBST. What are the things you seek, since you leave all the world to
 find them?
@@ -240,8 +456,7 @@ us or no?
 CHR. No, not I, said the other, because I have laid my hand to the
 plough. [Luke 9:62]
 
-{22}
-----
+### {22}
 
 OBST. Come, then, neighbor Pliable, let us turn again, and go home
 without him; there is a company of these crazy-headed coxcombs, that,
@@ -256,8 +471,7 @@ OBST. What! more fools still! Be ruled by me, and go back; who knows
 whither such a brain-sick fellow will lead you? Go back, go back, and be
 wise.
 
-{23}
-----
+### {23}
 
 [Christian and Obstinate pull for Pliable’s soul] CHR. Nay, but do thou
 come with thy neighbor, Pliable; there are such things to be had which I
@@ -271,8 +485,7 @@ with Christian] I begin to come to a point; I intend to go along with
 this good man, and to cast in my lot with him: but, my good companion,
 do you know the way to this desired place?
 
-{24}
-----
+### {24}
 
 CHR. I am directed by a man, whose name is Evangelist, to speed me to a
 little gate that is before us, where we shall receive instructions about
@@ -285,15 +498,13 @@ OBST. And I will go back to my place, said Obstinate; [Obstinate goes
 railing back] I will be no companion of such misled, fantastical
 fellows.
 
-{25}
-----
+### {25}
 
 Now, I saw in my dream, that when Obstinate was gone back, Christian and
 Pliable went talking over the plain; and thus they began their
 discourse. [Talk between Christian and Pliable]
 
-{26}
-----
+### {26}
 
 CHR. Come, neighbor Pliable, how do you do? I am glad you are persuaded
 to go along with me. Had even Obstinate himself but felt what I have
@@ -304,8 +515,7 @@ PLI. Come, neighbor Christian, since there are none but us two here,
 tell me now further what the things are, and how to be enjoyed, whither
 we are going.
 
-{27}
-----
+### {27}
 
 CHR. I can better conceive of them with my mind, than speak of them with
 my tongue [God’s things unspeakable]: but yet, since you are desirous to
@@ -333,8 +543,7 @@ CHR. There shall be no more crying, nor Sorrow: for He that is owner of
 the place will wipe all tears from our eyes. [Isa. 25.6-8; Rev. 7:17,
 21:4]
 
-{28}
-----
+### {28}
 
 PLI. And what company shall we have there?
 
@@ -364,8 +573,7 @@ on, let us mend our pace.
 CHR. I cannot go so fast as I would, by reason of this burden that is on
 my back.
 
-{29}
-----
+### {29}
 
 [The Slough of Despond] Now I saw in my dream, that just as they had
 ended this talk they drew near to a very miry slough, that was in the
@@ -375,8 +583,7 @@ wallowed for a time, being grievously bedaubed with the dirt; and
 Christian, because of the burden that was on his back, began to sink in
 the mire.
 
-{30}
-----
+### {30}
 
 PLI. Then said Pliable; Ah! neighbor Christian, where are you now?
 
@@ -391,8 +598,7 @@ And, with that, he gave a desperate struggle or two, and got out of the
 mire on that side of the slough which was next to his own house: so away
 he went, and Christian saw him no more.
 
-{31}
-----
+### {31}
 
 Wherefore Christian was left to tumble in the Slough of Despond alone:
 but still he endeavored to struggle to that side of the slough that was
@@ -406,8 +612,7 @@ CHR. Sir, said Christian, I was bid go this way by a man called
 Evangelist, who directed me also to yonder gate, that I might escape the
 wrath to come; and as I was going thither I fell in here.
 
-{32}
-----
+### {32}
 
 [The Promises] HELP. But why did not you look for the steps?
 
@@ -417,8 +622,7 @@ CHR. Fear followed me so hard, that I fled the next way, and fell in.
 his hand, and he drew him out, and set him upon sound ground, and bid
 him go on his way. [Ps. 40:2]
 
-{33}
-----
+### {33}
 
 Then I stepped to him that plucked him out, and said, Sir, wherefore,
 since over this place is the way from the City of Destruction to yonder
@@ -432,8 +636,7 @@ ariseth in his soul many fears, and doubts, and discouraging
 apprehensions, which all of them get together, and settle in this place.
 And this is the reason of the badness of this ground.
 
-{34}
-----
+### {34}
 
 It is not the pleasure of the King that this place should remain so bad.
 [Isa. 35:3,4] His labourers also have, by the direction of His Majesty’s
@@ -446,8 +649,7 @@ they that can tell, say they are the best materials to make good ground
 of the place; if so be, it might have been mended, but it is the Slough
 of Despond still, and so will be when they have done what they can.
 
-{35}
-----
+### {35}
 
 [The promises of forgiveness and acceptance to life by faith in Christ]
 True, there are, by the direction of the Law-giver, certain good and
@@ -458,8 +660,7 @@ men, through the dizziness of their heads, step beside, and then they
 are bemired to purpose, notwithstanding the steps be there; but the
 ground is good when they are once got in at the gate. [1 Sam. 12:23]
 
-{36}
-----
+### {36}
 
 [Pliable got home, and is visited of his neighbors] Now, I saw in my
 dream, that by this time Pliable was got home to his house again, so
@@ -472,8 +673,7 @@ Pliable sat sneaking among them. But at last he got more confidence, and
 then they all turned their tales, and began to deride poor Christian
 behind his back. And thus much concerning Pliable.
 
-{37}
-----
+### {37}
 
 [Mr. Worldly Wiseman meets with Christian] Now, as Christian was walking
 solitarily by himself, he espied one afar off, come crossing over the
@@ -488,8 +688,7 @@ other places,– Mr. Worldly Wiseman, therefore, having some guess of him,
 by beholding his laborious going, by observing his sighs and groans, and
 the like, began thus to enter into some talk with Christian.
 
-{38}
-----
+### {38}
 
 [Talk betwixt Mr. Worldly Wiseman and Christian] WORLD. How now, good
 fellow, whither away after this burdened manner?
@@ -509,8 +708,7 @@ WORLD. Wilt thou hearken unto me if I give thee counsel?
 
 CHR. If it be good, I will; for I stand in need of good counsel.
 
-{39}
-----
+### {39}
 
 [Mr. Worldly Wiseman’s counsel to Christian] WORLD. I would advise thee,
 then, that thou with all speed get thyself rid of thy burden; for thou
@@ -527,8 +725,7 @@ WORLD. Who bid thee go this way to be rid of thy burden?
 CHR. A man that appeared to me to be a very great and honourable person;
 his name, as I remember, is Evangelist.
 
-{40}
-----
+### {40}
 
 [Mr. Worldly Wiseman condemned Evangelist’s counsel] WORLD. I beshrew
 him for his counsel! there is not a more dangerous and troublesome way
@@ -549,8 +746,7 @@ upon my back is more terrible to me than all these things which you have
 mentioned; nay, methinks I care not what I meet with in the way, if so
 be I can also meet with deliverance from my burden.
 
-{41}
-----
+### {41}
 
 [Worldly Wiseman does not like that men should be serious in reading the
 Bible] WORLD. How camest thou by the burden at first?
@@ -565,8 +761,7 @@ obtain they know not what.
 
 CHR. I know what I would obtain; it is ease for my heavy burden.
 
-{42}
-----
+### {42}
 
 [Whether Mr. Worldly Wiseman prefers morality before the strait gate]
 WORLD. But why wilt thou seek for ease this way, seeing so many dangers
@@ -578,8 +773,7 @@ meet with much safety, friendship, and content.
 
 CHR. Pray, Sir, open this secret to me.
 
-{43}
-----
+### {43}
 
 WORLD. Why, in yonder village–the village is named Morality– there
 dwells a gentleman whose name is Legality, a very judicious man, and a
@@ -599,16 +793,14 @@ reasonable rates; provision is there also cheap and good; and that which
 will make thy life the more happy is, to be sure, there thou shalt live
 by honest neighbors, in credit and good fashion.
 
-{44}
-----
+### {44}
 
 [Christian snared by Worldly Wiseman’s words] Now was Christian somewhat
 at a stand; but presently he concluded, if this be true, which this
 gentleman hath said, my wisest course is to take his advice; and with
 that he thus further spoke.
 
-{45}
-----
+### {45}
 
 CHR. Sir, which is my way to this honest man’s house?
 
@@ -618,8 +810,7 @@ CHR. Yes, very well.
 
 WORLD. By that hill you must go, and the first house you come at is his.
 
-{46}
-----
+### {46}
 
 [Christian afraid that Mount Sinai would fall on his head] So Christian
 turned out of his way to go to Mr. Legality’s house for help; but,
@@ -636,8 +827,7 @@ When Christians unto carnal men give ear, Out of their way they go, and
 pay for ’t dear; For Master Worldly Wiseman can but show A saint the way
 to bondage and to woe.
 
-{47}
-----
+### {47}
 
 [Evangelist findeth Christian under Mount Sinai, and looketh severely
 upon him] And now he began to be sorry that he had taken Mr. Worldly
@@ -647,8 +837,7 @@ drew nearer and nearer; and coming up to him, he looked upon him with a
 severe and dreadful countenance, and thus began to reason with
 Christian.
 
-{48}
-----
+### {48}
 
 [Evangelist reasons afresh with Christian] EVAN. What dost thou here,
 Christian? said he: at which words Christian knew not what to answer;
@@ -665,8 +854,7 @@ CHR. Yes, dear Sir, said Christian.
 EVAN. How is it, then, that thou art so quickly turned aside? for thou
 art now out of the way.
 
-{49}
-----
+### {49}
 
 CHR. I met with a gentleman so soon as I had got over the Slough of
 Despond, who persuaded me that I might, in the village before me, find a
@@ -691,8 +879,7 @@ in them as formerly.
 
 EVAN. And what said he then?
 
-{50}
-----
+### {50}
 
 CHR. He bid me with speed get rid of my burden; and I told him that it
 was ease that I sought. And said I, I am therefore going to yonder gate,
@@ -705,8 +892,7 @@ into this, if haply I might be soon eased of my burden. But when I came
 to this place, and beheld things as they are, I stopped for fear (as I
 said) of danger: but I now know not what to do.
 
-{51}
-----
+### {51}
 
 [Evangelist convinces Christian of his error] EVAN. Then, said
 Evangelist, stand still a little, that I may show thee the words of God.
@@ -720,8 +906,7 @@ man that art running into this misery; thou hast begun to reject the
 counsel of the Most High, and to draw back thy foot from the way of
 peace, even almost to the hazarding of thy perdition.
 
-{52}
-----
+### {52}
 
 Then Christian fell down at his feet as dead, crying, “Woe is me, for I
 am undone!” At the sight of which Evangelist caught him by the right
@@ -730,8 +915,7 @@ men.” [Matt. 12:31, Mark 3:28] “Be not faithless, but believing.” [John
 20:27] Then did Christian again a little revive, and stood up trembling,
 as at first, before Evangelist.
 
-{53}
-----
+### {53}
 
 [Mr. Worldly Wiseman described by Evangelist] Then Evangelist proceeded,
 saying, Give more earnest heed to the things that I shall tell thee of.
@@ -751,8 +935,7 @@ utterly abhor.
 odious to thee. And, 3. His setting thy feet in that way that leadeth
 unto the administration of death.
 
-{54}
-----
+### {54}
 
 First, Thou must abhor his turning thee out of the way; and thine own
 consenting thereunto: because this is to reject the counsel of God for
@@ -764,8 +947,7 @@ way thereto, hath this wicked man turned thee, to the bringing of thee
 almost to destruction; hate, therefore, his turning thee out of the way,
 and abhor thyself for hearkening to him.
 
-{55}
-----
+### {55}
 
 Secondly, Thou must abhor his laboring to render the cross odious unto
 thee; for thou art to prefer it “before the treasures in Egypt.” [Heb.
@@ -778,16 +960,14 @@ to labor to persuade thee, that that shall be thy death, without which,
 THE TRUTH hath said, thou canst not have eternal life; this doctrine
 thou must abhor.
 
-{56}
-----
+### {56}
 
 Thirdly, Thou must hate his setting of thy feet in the way that leadeth
 to the ministration of death. And for this thou must consider to whom he
 sent thee, and also how unable that person was to deliver thee from thy
 burden.
 
-{57}
-----
+### {57}
 
 [The bond-woman] He to whom thou wast sent for ease, being by name
 Legality, is the son of the bond-woman which now is, and is in bondage
@@ -811,8 +991,7 @@ works of the law are under the curse; for it is written, Cursed is every
 one that continueth not in all things which are written in the book of
 the law to do them.’ [Gal. 3:10]
 
-{58}
-----
+### {58}
 
 Now Christian looked for nothing but death, and began to cry out
 lamentably; even cursing the time in which he met with Mr. Worldly
@@ -822,8 +1001,7 @@ arguments, flowing only from the flesh, should have the prevalency with
 him as to cause him to forsake the right way. This done, he applied
 himself again to Evangelist in words and sense as follow:
 
-{59}
-----
+### {59}
 
 [Christian inquires if he may yet be happy] CHR. Sir, what think you? Is
 there hope? May I now go back and go up to the wicket-gate? Shall I not
@@ -846,8 +1024,7 @@ Wiseman’s counsel. So, in process of time, Christian got up to the gate.
 Now, over the gate there was written, \`Knock, and it shall be opened
 unto you.’ [Matt 7:8]
 
-{60}
-----
+### {60}
 
 “He that will enter in must first without Stand knocking at the Gate,
 nor need he doubt That is A KNOCKER but to enter in; For God can love
@@ -862,8 +1039,7 @@ praise on high.”
 At last there came a grave person to the gate, named Good-will, who
 asked who was there? and whence he came? and what he would have?
 
-{61}
-----
+### {61}
 
 CHR. Here is a poor burdened sinner. I come from the City of
 Destruction, but am going to Mount Zion, that I may be delivered from
@@ -873,8 +1049,7 @@ this gate is the way thither, know if you are willing to let me in?
 [The gate will be opened to broken-hearted sinners] GOOD-WILL. I am
 willing with all my heart, said he; and with that he opened the gate.
 
-{62}
-----
+### {62}
 
 So when Christian was stepping in, the other gave him a pull. Then said
 Christian, What means that? The other told him. A little distance from
@@ -887,8 +1062,7 @@ this gate, if haply they may die before they can enter in.
 I rejoice and tremble. So when he was got in, the man of the gate asked
 him who directed him thither?
 
-{63}
-----
+### {63}
 
 [Talk between Good-will and Christian] CHR. Evangelist bid me come
 hither, and knock, (as I did); and he said that you, Sir, would tell me
@@ -916,8 +1090,7 @@ little way.
 
 GOOD-WILL. But why did he not come through?
 
-{64}
-----
+### {64}
 
 [A man may have company when he sets out for heaven, and yet go thither
 alone] CHR. We, indeed, came both together, until we came at the Slough
@@ -931,8 +1104,7 @@ GOOD-WILL. Then said Good-will, Alas, poor man! is the celestial glory
 of so small esteem with him, that he counteth it not worth running the
 hazards of a few difficulties to obtain it?
 
-{65}
-----
+### {65}
 
 [Christian accuses himself before the man at the gate] CHR. Truly, said
 Christian, I have said the truth of Pliable, and if I should also say
@@ -960,8 +1132,7 @@ indeed, for death, by that mountain, than thus to stand talking with my
 lord; but, oh, what a favor is this favor, that yet I am admitted
 entrance here!
 
-{66}
-----
+### {66}
 
 [Christian comforted again] GOOD-WILL. We make no objections against
 any, notwithstanding all that they have done before they came hither.
@@ -972,8 +1143,7 @@ dost thou see this narrow way? THAT is the way thou must go; it was cast
 up by the patriarchs, prophets, Christ, and his apostles; and it is as
 straight as a rule can make it. This is the way thou must go.
 
-{67}
-----
+### {67}
 
 [Christian afraid of losing his way] CHR. But, said Christian, are there
 no turnings or windings by which a stranger may lose his way?
@@ -982,8 +1152,7 @@ GOOD-WILL. Yes, there are many ways butt down upon this, and they are
 crooked and wide. But thus thou mayest distinguish the right from the
 wrong, the right only being straight and narrow. [Matt 7:14]
 
-{68}
-----
+### {68}
 
 [Christian weary of his burden] Then I saw in my dream that Christian
 asked him further if he could not help him off with his burden that was
@@ -995,8 +1164,7 @@ and blood of Christ] He told him, As to thy burden, be content to bear
 it, until thou comest to the place of deliverance; for there it will
 fall from thy back of itself.
 
-{69}
-----
+### {69}
 
 Then Christian began to gird up his loins, and to address himself to his
 journey. So the other told him, That by that he was gone some distance
@@ -1004,15 +1172,13 @@ from the gate, he would come at the house of the Interpreter, at whose
 door he should knock, and he would show him excellent things. Then
 Christian took his leave of his friend, and he again bid him God-speed.
 
-{70}
-----
+### {70}
 
 [Christian comes to the house of the interpreter] Then he went on till
 he came to the house of the Interpreter, where he knocked over and over;
 at last one came to the door, and asked who was there.
 
-{71}
-----
+### {71}
 
 CHR. Sir, here is a traveler, who was bid by an acquaintance of the
 good-man of this house to call here for my profit; I would therefore
@@ -1026,8 +1192,7 @@ told by the man that stands at the gate, at the head of this way, that
 if I called here, you would show me excellent things, such as would be a
 help to me in my journey.
 
-{72}
-----
+### {72}
 
 [Illumination] INTER. Then said the Interpreter, Come in; I will show
 that which will be profitable to thee. So he commanded his man to light
@@ -1042,8 +1207,7 @@ did hang over his head.
 
 CHR. Then said Christian, What meaneth this?
 
-{73}
-----
+### {73}
 
 [The meaning of the picture] INTER. The man whose picture this is, is
 one of a thousand; he can beget children [1 Cor. 4:15], travail in birth
@@ -1065,8 +1229,7 @@ bear well in thy mind what thou hast seen, lest in thy journey thou meet
 with some that pretend to lead thee right, but their way goes down to
 death.
 
-{74}
-----
+### {74}
 
 Then he took him by the hand, and led him into a very large parlor that
 was full of dust, because never swept; the which after he had reviewed a
@@ -1076,8 +1239,7 @@ Christian had almost therewith been choked. Then said the Interpreter to
 a damsel that stood by, Bring hither the water, and sprinkle the room;
 the which, when she had done, it was swept and cleansed with pleasure.
 
-{75}
-----
+### {75}
 
 CHR. Then said Christian, What means this?
 
@@ -1093,8 +1255,7 @@ heart (by its working) from sin, doth revive, put strength into, and
 increase it in the soul, even as it doth discover and forbid it, for it
 doth not give power to subdue. [Rom. 7:6; 1 Cor. 15:56; Rom. 5:20]
 
-{76}
-----
+### {76}
 
 Again, as thou sawest the damsel sprinkle the room with water, upon
 which it was cleansed with pleasure; this is to show thee, that when the
@@ -1105,8 +1266,7 @@ made clean through the faith of it, and consequently fit for the King of
 glory to inhabit. [John 15:3; Eph. 5:26; Acts 15:9; Rom. 16:25,26; John
 15:13]
 
-{77}
-----
+### {77}
 
 I saw, moreover, in my dream, that the Interpreter took him by the hand,
 and had him into a little room, where sat two little children, each one
@@ -1125,8 +1285,7 @@ he took up and rejoiced therein, and withal laughed Patience to scorn.
 [And quickly lavishes all away] But I beheld but a while, and he had
 lavished all away, and had nothing left him but rags.
 
-{78}
-----
+### {78}
 
 CHR. Then said Christian to the Interpreter, Expound this matter more
 fully to me.
@@ -1148,8 +1307,7 @@ Patience has the best wisdom, and that upon many accounts. First,
 because he stays for the best things. Second, and also because he will
 have the glory of his, when the other has nothing but rags.
 
-{79}
-----
+### {79}
 
 [Things that are first must give place; but things that are last are
 lasting] INTER. Nay, you may add another, to wit, the glory of the next
@@ -1176,8 +1334,7 @@ and again, because things to come, and carnal sense, are such strangers
 one to another; therefore it is, that the first of these so suddenly
 fall into amity, and that distance is so continued between the second.
 
-{80}
-----
+### {80}
 
 Then I saw in my dream that the Interpreter took Christian by the hand,
 and led him into a place where was a fire burning against a wall, and
@@ -1186,8 +1343,7 @@ did the fire burn higher and hotter.
 
 Then said Christian, What means this?
 
-{81}
-----
+### {81}
 
 The Interpreter answered, This fire is the work of grace that is wrought
 in the heart; he that casts water upon it, to extinguish and put it out,
@@ -1199,8 +1355,7 @@ secretly, into the fire.
 
 Then said Christian, What means this?
 
-{82}
-----
+### {82}
 
 The Interpreter answered, This is Christ, who continually, with the oil
 of his grace, maintains the work already begun in the heart: by the
@@ -1218,8 +1373,7 @@ all in gold.
 
 Then said Christian, May we go in thither?
 
-{83}
-----
+### {83}
 
 [The valiant man] Then the Interpreter took him, and led him up towards
 the door of the palace; and behold, at the door stood a great company of
@@ -1246,8 +1400,7 @@ saying–
 So he went in, and was clothed with such garments as they. Then
 Christian smiled and said; I think verily I know the meaning of this.
 
-{84}
-----
+### {84}
 
 [Despair like an iron cage] Now, said Christian, let me go hence. Nay,
 stay, said the Interpreter, till I have showed thee a little more, and
@@ -1263,8 +1416,7 @@ the Interpreter bid him talk with the man.
 Then said Christian to the man, What art thou? The man answered, I am
 what I was not once.
 
-{85}
-----
+### {85}
 
 CHR. What wast thou once?
 
@@ -1286,8 +1438,7 @@ God; I have grieved the Spirit, and he is gone; I tempted the devil, and
 he is come to me; I have provoked God to anger, and he has left me: I
 have so hardened my heart, that I cannot repent.
 
-{86}
-----
+### {86}
 
 Then said Christian to the Interpreter, But is there no hope for such a
 man as this? Ask him, said the Interpreter. Nay, said Christian, pray,
@@ -1308,8 +1459,7 @@ promises, and there now remains to me nothing but threatenings, dreadful
 threatenings, fearful threatenings, of certain judgment and fiery
 indignation, which shall devour me as an adversary.
 
-{87}
-----
+### {87}
 
 INTER. For what did you bring yourself into this condition?
 
@@ -1319,8 +1469,7 @@ one of those things also bite me, and gnaw me like a burning worm.
 
 INTER. But canst thou not now repent and turn?
 
-{88}
-----
+### {88}
 
 MAN. God hath denied me repentance. His Word gives me no encouragement
 to believe; yea, himself hath shut me up in this iron cage; nor can all
@@ -1337,8 +1486,7 @@ is it not time for me to go on my way now?
 INTER. Tarry till I shall show thee one thing more, and then thou shalt
 go on thy way.
 
-{89}
-----
+### {89}
 
 So he took Christian by the hand again, and led him into a chamber,
 where there was one rising out of bed; and as he put on his raiment, he
@@ -1374,8 +1522,7 @@ his eye upon me; my sins also came into my mind; and my conscience did
 accuse me on every side. [Rom. 3:14,15] Upon this I awaked from my
 sleep.
 
-{90}
-----
+### {90}
 
 CHR. But what is it that made you so afraid of this sight?
 
@@ -1386,8 +1533,7 @@ just where I stood. My conscience, too, afflicted me; and, as I thought,
 the Judge had always his eye upon me, showing indignation in his
 countenance.
 
-{91}
-----
+### {91}
 
 Then said the Interpreter to Christian, Hast thou considered all these
 things?
@@ -1406,16 +1552,14 @@ things to make me stable In what I have begun to take in hand; Then let
 me think on them, and understand Wherefore they showed me were, and let
 me be Thankful, O good Interpreter, to thee.”
 
-{92}
-----
+### {92}
 
 Now I saw in my dream, that the highway up which Christian was to go,
 was fenced on either side with a wall, and that wall was called
 Salvation. [Isa. 26:1] Up this way, therefore, did burdened Christian
 run, but not without great difficulty, because of the load on his back.
 
-{93}
-----
+### {93}
 
 He ran thus till he came at a place somewhat ascending, and upon that
 place stood a cross, and a little below, in the bottom, a sepulchre. So
@@ -1424,8 +1568,7 @@ burden loosed from off his shoulders, and fell from off his back, and
 began to tumble, and so continued to do, till it came to the mouth of
 the sepulchre, where it fell in, and I saw it no more.
 
-{94}
-----
+### {94}
 
 [When God Releases us of our guilt and burden we are as those that leap
 for joy] Then was Christian glad and lightsome, and said, with a merry
@@ -1455,16 +1598,14 @@ beginning of my bliss? Must here the burden fall from off my back? Must
 here the strings that bound it to me crack? Blest cross! blest
 sepulchre! blest rather be The Man that there was put to shame for me!”
 
-{95}
-----
+### {95}
 
 [Simple, Sloth, and Presumption] I saw then in my dream, that he went on
 thus, even until he came at a bottom, where he saw, a little out of the
 way, three men fast asleep, with fetters upon their heels. The name of
 the one was Simple, another Sloth, and the third Presumption.
 
-{96}
-----
+### {96}
 
 Christian then seeing them lie in this case went to them, if
 peradventure he might awake them, and cried, You are like them that
@@ -1480,8 +1621,7 @@ danger”; Sloth said, “Yet a little more sleep”; and Presumption said,
 I should give thee?” And so they lay down to sleep again, and Christian
 went on his way.
 
-{97}
-----
+### {97}
 
 Yet was he troubled to think that men in that danger should so little
 esteem the kindness of him that so freely offered to help them, both by
@@ -1492,8 +1632,7 @@ made up apace to him. The name of the one was Formalist, and the name of
 the other Hypocrisy. So, as I said, they drew up unto him, who thus
 entered with them into discourse.
 
-{98}
-----
+### {98}
 
 [Christian talked with them] CHR. Gentlemen, whence came you, and
 whither go you?
@@ -1514,8 +1653,7 @@ they had done.
 CHR. But will it not be counted a trespass against the Lord of the city
 whither we are bound, thus to violate his revealed will?
 
-{99}
-----
+### {99}
 
 [They that come into the way, but not by the door, think that they can
 say something in vindication of their own practice] FORM. and HYP. They
@@ -1540,8 +1678,7 @@ therefore, I doubt you will not be found true men at the end of the way.
 You come in by yourselves, without his direction; and shall go out by
 yourselves, without his mercy.
 
-{100}
------
+### {100}
 
 To this they made him but little answer; only they bid him look to
 himself. Then I saw that they went on every man in his way without much
@@ -1552,8 +1689,7 @@ thou differest from us but by the coat that is on thy back, which was,
 as we trow, given thee by some of thy neighbors, to hide the shame of
 thy nakedness.
 
-{101}
------
+### {101}
 
 [Christian has got his Lord’s coat on his back, and is comforted
 therewith; he is comforted, also, with his mark and his roll] CHR. By
@@ -1573,8 +1709,7 @@ go on the way; I was also bid to give it in at the Celestial Gate, in
 token of my certain going in after it; all which things, I doubt, you
 want, and want them because you came not in at the gate.
 
-{102}
------
+### {102}
 
 [Christian has talk with himself] To these things they gave him no
 answer; only they looked upon each other, and laughed. Then, I saw that
@@ -1583,8 +1718,7 @@ but with himself, and that sometimes sighingly, and sometimes
 comfortably; also he would be often reading in the roll that one of the
 Shining Ones gave him, by which he was refreshed.
 
-{103}
------
+### {103}
 
 [He comes to the Hill Difficulty] I beheld, then, that they all went on
 till they came to the foot of the Hill Difficulty; at the bottom of
@@ -1601,8 +1735,7 @@ offend; For I perceive the way to life lies here. Come, pluck up heart,
 let’s neither faint nor fear; Better, though difficult, the right way to
 go, Than wrong, though easy, where the end is woe.”
 
-{104}
------
+### {104}
 
 [The danger of turning out of the way] The other two also came to the
 foot of the hill; but when they saw that the hill was steep and high,
@@ -1619,8 +1752,7 @@ where he stumbled and fell, and rose no more.
 safety for their friend? No, no; in headstrong manner they set out, And
 headlong will they fall at last no doubt.”
 
-{105}
------
+### {105}
 
 [A ward of grace] I looked, then, after Christian, to see him go up the
 hill, where I perceived he fell from running to going, and from going to
@@ -1639,8 +1771,7 @@ Go to the ant, thou sluggard; consider her ways and be wise. [Prov. 6:6]
 And with that Christian started up, and sped him on his way, and went
 apace, till he came to the top of the hill.
 
-{106}
------
+### {106}
 
 [Christian meets with Mistrust and Timorous] Now, when he was got up to
 the top of the hill, there came two men running to meet him amain; the
@@ -1654,8 +1785,7 @@ Yes, said Mistrust, for just before us lie a couple of lions in the way,
 whether sleeping or waking we know not, and we could not think, if we
 came within reach, but they would presently pull us in pieces.
 
-{107}
------
+### {107}
 
 [Christian shakes off fear] CHR. Then said Christian, You make me
 afraid, but whither shall I fly to be safe? If I go back to mine own
@@ -1691,8 +1821,7 @@ should sleep in the midst of difficulty! that I should so indulge the
 flesh, as to use that rest for ease to my flesh, which the Lord of the
 hill hath erected only for the relief of the spirits of pilgrims!
 
-{108}
------
+### {108}
 
 How many steps have I took in vain! Thus it happened to Israel, for
 their sin; they were sent back again by the way of the Red Sea; and I am
@@ -1702,8 +1831,7 @@ been on my way by this time! I am made to tread those steps thrice over,
 which I needed not to have trod but once; yea, now also I am like to be
 benighted, for the day is almost spent. O, that I had not slept!
 
-{109}
------
+### {109}
 
 [Christian finds his roll where he lost it] Now, by this time he was
 come to the arbor again, where for a while he sat down and wept; but at
@@ -1730,8 +1858,7 @@ his way. But while he was thus bewailing his unhappy miscarriage, he
 lift up his eyes, and behold there was a very stately palace before him,
 the name of which was Beautiful; and it stood just by the highway side.
 
-{110}
------
+### {110}
 
 So I saw in my dream that he made haste and went forward, that if
 possible he might get lodging there. Now, before he had gone far, he
@@ -1752,8 +1879,7 @@ shall come unto thee.
 lions roar; A Christian man is never long at ease, When one fright’s
 gone, another doth him seize.”
 
-{111}
------
+### {111}
 
 Then I saw that he went on, trembling for fear of the lions, but taking
 good heed to the directions of the porter; he heard them roar, but they
@@ -1764,8 +1890,7 @@ porter answered, This house was built by the Lord of the hill, and he
 built it for the relief and security of pilgrims. The porter also asked
 whence he was, and whither he was going.
 
-{112}
------
+### {112}
 
 CHR. I am come from the City of Destruction, and am going to Mount Zion;
 but because the sun is now set, I desire, if I may, to lodge here
@@ -1779,8 +1904,7 @@ tents of Shem. [Gen. 9:27]
 
 POR. But how doth it happen that you come so late? The sun is set.
 
-{113}
------
+### {113}
 
 CHR. I had been here sooner, but that, “wretched man that I am!” I slept
 in the arbor that stands on the hillside; nay, I had, notwithstanding
@@ -1795,8 +1919,7 @@ to the rules of the house. So Watchful, the porter, rang a bell, at the
 sound of which came out at the door of the house, a grave and beautiful
 damsel, named Discretion, and asked why she was called.
 
-{114}
------
+### {114}
 
 The porter answered, This man is in a journey from the City of
 Destruction to Mount Zion, but being weary and benighted, he asked me if
@@ -1804,8 +1927,7 @@ he might lodge here to-night; so I told him I would call for thee, who,
 after discourse had with him, mayest do as seemeth thee good, even
 according to the law of the house.
 
-{115}
------
+### {115}
 
 Then she asked him whence he was, and whither he was going, and he told
 her. She asked him also how he got into the way; and he told her. Then
@@ -1827,8 +1949,7 @@ discourse with Christian, for the best improvement of time; and they
 appointed Piety, and Prudence, and Charity to discourse with him; and
 thus they began:
 
-{116}
------
+### {116}
 
 [Piety discourses him] PIETY. Come, good Christian, since we have been
 so loving to you, to receive you in our house this night, let us, if
@@ -1837,8 +1958,7 @@ that have happened to you in your pilgrimage.
 
 CHR. With a very good will, and I am glad that you are so well disposed.
 
-{117}
------
+### {117}
 
 PIETY. What moved you at first to betake yourself to a pilgrim’s life?
 
@@ -1855,8 +1975,7 @@ weeping, whose name is Evangelist, and he directed me to the
 wicket-gate, which else I should never have found, and so set me into
 the way that hath led me directly to this house.
 
-{118}
------
+### {118}
 
 PIETY. But did you not come by the house of the Interpreter?
 
@@ -1872,8 +1991,7 @@ PIETY. Why, did you hear him tell his dream?
 CHR. Yes, and a dreadful one it was. I thought it made my heart ache as
 he was telling of it; but yet I am glad I heard it.
 
-{119}
------
+### {119}
 
 PIETY. Was that all that you saw at the house of the Interpreter?
 
@@ -1885,8 +2003,7 @@ glory. Methought those things did ravish my heart! I would have stayed
 at that good man’s house a twelvemonth, but that I knew I had further to
 go.
 
-{120}
------
+### {120}
 
 PIETY. And what saw you else in the way?
 
@@ -1901,8 +2018,7 @@ rags, and gave me this broidered coat which you see; and the third set
 the mark which you see in my forehead, and gave me this sealed roll.
 (And with that he plucked it out of his bosom.)
 
-{121}
------
+### {121}
 
 PIETY. But you saw more than this, did you not?
 
@@ -1918,8 +2034,7 @@ truly if it had not been for the good man, the porter that stands at the
 gate, I do not know but that after all I might have gone back again; but
 now I thank God I am here, and I thank you for receiving of me.
 
-{122}
------
+### {122}
 
 Then Prudence thought good to ask him a few questions, and desired his
 answer to them.
@@ -1944,8 +2059,7 @@ things are my grief; and might I but choose mine own things,
 but when I would be doing of that which is best, that which is worst is
 with me. [Rom 7:16-19]
 
-{123}
------
+### {123}
 
 PRUD. Do you not find sometimes, as if those things were vanquished,
 which at other times are your perplexity?
@@ -1962,8 +2076,7 @@ broidered coat, that will do it; also when I look into the roll that I
 carry in my bosom, that will do it; and when my thoughts wax warm about
 whither I am going, that will do it.
 
-{124}
------
+### {124}
 
 PRUD. And what is it that makes you so desirous to go to Mount Zion?
 
@@ -1976,8 +2089,7 @@ because I was by him eased of my burden; and I am weary of my inward
 sickness. I would fain be where I shall die no more, and with the
 company that shall continually cry, “Holy, Holy, Holy!”
 
-{125}
------
+### {125}
 
 [Charity discourses him] Then said Charity to Christian, Have you a
 family? Are you a married man?
@@ -2013,8 +2125,7 @@ not sufficient to prevail with them to come with me.
 
 CHAR. But what could they say for themselves, why they came not?
 
-{126}
------
+### {126}
 
 [The cause why his wife and children did not go with him] CHR. Why, my
 wife was afraid of losing this world, and my children were given to the
@@ -2024,8 +2135,7 @@ they left me to wander in this manner alone.
 CHAR. But did you not, with your vain life, damp all that you by words
 used by way of persuasion to bring them away with you?
 
-{127}
------
+### {127}
 
 [Christian’s good conversation before his wife and children] CHR.
 Indeed, I cannot commend my life; for I am conscious to myself of many
@@ -2046,8 +2156,7 @@ offended with thee for this, they thereby show themselves to be
 implacable to good, and “thou hast delivered thy soul from their blood”.
 [Ezek. 3:19]
 
-{128}
------
+### {128}
 
 [What Christian had to his supper] Now I saw in my dream, that thus they
 sat talking together until supper was ready. So when they had made
@@ -2060,8 +2169,7 @@ he had been a great warrior, and had fought with and slain “him that had
 the Power of death”, but not without great danger to himself, which made
 me love him the more. [Heb. 2:14,15]
 
-{129}
------
+### {129}
 
 For, as they said, and as I believe (said Christian), he did it with the
 loss of much blood; but that which put glory of grace into all he did,
@@ -2071,8 +2179,7 @@ with him since he did die on the cross; and they have attested that they
 had it from his own lips, that he is such a lover of poor pilgrims, that
 the like is not to be found from the east to the west.
 
-{130}
------
+### {130}
 
 [Christ makes princes of beggars] They, moreover, gave an instance of
 what they affirmed, and that was, he had stripped himself of his glory,
@@ -2082,8 +2189,7 @@ said, moreover, that he had made many pilgrims princes, though by nature
 they were beggars born, and their original had been the dunghill. [1 Sam
 2:8; Ps. 113:7]
 
-{131}
------
+### {131}
 
 [Christian’s bedchamber] Thus they discoursed together till late at
 night; and after they had committed themselves to their Lord for
@@ -2096,8 +2202,7 @@ then he awoke and sang–
 pilgrims are? Thus to provide! that I should be forgiven! And dwell
 already the next door to heaven!”
 
-{132}
------
+### {132}
 
 [Christian had into the study, and what he saw there] So in the morning
 they all got up; and, after some more discourse, they told him that he
@@ -2111,8 +2216,7 @@ hundreds that he had taken into his service; and how he had placed them
 in such habitations that could neither by length of days, nor decays of
 nature, be dissolved.
 
-{133}
------
+### {133}
 
 Then they read to him some of the worthy acts that some of his servants
 had done: as, how they had “subdued kingdoms, wrought righteousness,
@@ -2121,8 +2225,7 @@ fire, escaped the edge of the sword, out of weakness were made strong,
 waxed valiant in fight, and turned to flight the armies of the aliens.”
 [Heb 11:33,34]
 
-{134}
------
+### {134}
 
 They then read again, in another part of the records of the house, where
 it was showed how willing their Lord was to receive into his favor any,
@@ -2133,8 +2236,7 @@ both ancient and modern; together with prophecies and predictions of
 things that have their certain accomplishment, both to the dread and
 amazement of enemies, and the comfort and solace of pilgrims.
 
-{135}
------
+### {135}
 
 [Christian had into the armory] The next day they took him and had him
 into the armory, where they showed him all manner of furniture, which
@@ -2143,8 +2245,7 @@ breastplate, ALL-PRAYER, and shoes that would not wear out. And there
 was here enough of this to harness out as many men for the service of
 their Lord as there be stars in the heaven for multitude.
 
-{136}
------
+### {136}
 
 [Christian is made to see ancient things] They also showed him some of
 the engines with which some of his servants had done wonderful things.
@@ -2159,8 +2260,7 @@ day that he shall rise up to the prey. They showed him, besides, many
 excellent things, with which Christian was much delighted. This done,
 they went to their rest again.
 
-{137}
------
+### {137}
 
 [Christian showed the Delectable Mountains] Then I saw in my dream, that
 on the morrow he got up to go forward; but they desired him to stay till
@@ -2178,8 +2278,7 @@ hill is, to and for all the pilgrims. And when thou comest there from
 thence, said they, thou mayest see to the gate of the Celestial City, as
 the shepherds that live there will make appear.
 
-{138}
------
+### {138}
 
 [Christian sets forward] Now he bethought himself of setting forward,
 and they were willing he should. But first, said they, let us go again
@@ -2190,8 +2289,7 @@ therefore, thus accoutered, walked out with his friends to the gate, and
 there he asked the porter if he saw any pilgrims pass by. Then the
 porter answered, Yes.
 
-{139}
------
+### {139}
 
 CHR. Pray, did you know him? said he.
 
@@ -2207,8 +2305,7 @@ POR. He is got by this time below the hill.
 Christian, good Porter, the Lord be with thee, and add to all thy
 blessings much increase, for the kindness that thou hast showed to me.
 
-{140}
------
+### {140}
 
 [The Valley of Humiliation] Then he began to go forward; but Discretion,
 Piety, Charity, and Prudence would accompany him down to the foot of the
@@ -2221,8 +2318,7 @@ slip by the way; therefore, said they, are we come out to accompany thee
 down the hill. So he began to go down, but very warily; yet he caught a
 slip or two.
 
-{141}
------
+### {141}
 
 Then I saw in my dream that these good companions, when Christian was
 gone to the bottom of the hill, gave him a loaf of bread, a bottle of
@@ -2240,8 +2336,7 @@ resolution at the approach of Apollyon] Therefore he resolved to venture
 and stand his ground; for, thought he, had I no more in mine eye than
 the saving of my life, it would be the best way to stand.
 
-{142}
------
+### {142}
 
 So he went on, and Apollyon met him. Now the monster was hideous to
 behold; he was clothed with scales, like a fish, (and they are his
@@ -2250,8 +2345,7 @@ belly came fire and smoke, and his mouth was as the mouth of a lion.
 When he was come up to Christian, he beheld him with a disdainful
 countenance, and thus began to question with him.
 
-{143}
------
+### {143}
 
 APOL. Whence come you? and whither are you bound?
 
@@ -2264,8 +2358,7 @@ prince and god of it. How is it, then, that thou hast run away from thy
 king? Were it not that I hope thou mayest do me more service, I would
 strike thee now, at one blow, to the ground.
 
-{144}
------
+### {144}
 
 CHR. I was born, indeed, in your dominions, but your service was hard,
 and your wages such as a man could not live on, “for the wages of sin is
@@ -2280,8 +2373,7 @@ country will afford, I do here promise to give thee.
 CHR. But I have let myself to another, even to the King of princes; and
 how can I, with fairness, go back with thee?
 
-{145}
------
+### {145}
 
 [Apollyon undervalues Christ’s service] APOL. Thou hast done in this,
 according to the proverb, “Changed a bad for a worse”; but it is
@@ -2296,8 +2388,7 @@ then, can I go back from this, and not be hanged as a traitor?
 yet I am willing to pass by all, if now thou wilt yet turn again and go
 back.
 
-{146}
------
+### {146}
 
 CHR. What I promised thee was in my nonage; and, besides, I count the
 Prince under whose banner now I stand is able to absolve me; yea, and to
@@ -2307,8 +2398,7 @@ his servants, his government, his company, and country, better than
 thine; and, therefore, leave off to persuade me further; I am his
 servant, and I will follow him.
 
-{147}
------
+### {147}
 
 [Apollyon pleads the grievous ends of Christians, to dissuade Christian
 from persisting in his way] APOL. Consider, again, when thou art in cool
@@ -2334,8 +2424,7 @@ dost thou think to receive wages of him?
 
 CHR. Wherein, O Apollyon! have I been unfaithful to him?
 
-{148}
------
+### {148}
 
 [Apollyon pleads Christian’s infirmities against him] APOL. Thou didst
 faint at first setting out, when thou wast almost choked in the Gulf of
@@ -2352,8 +2441,7 @@ besides, these infirmities possessed me in thy country, for there I
 sucked them in; and I have groaned under them, been sorry for them, and
 have obtained pardon of my Prince.
 
-{149}
------
+### {149}
 
 [Apollyon in a rage falls upon Christian] APOL. Then Apollyon broke out
 into a grievous rage, saying, I am an enemy to this Prince; I hate his
@@ -2368,8 +2456,7 @@ and said, I am void of fear in this matter: prepare thyself to die; for
 I swear by my infernal den, that thou shalt go no further; here will I
 spill thy soul.
 
-{150}
------
+### {150}
 
 And with that he threw a flaming dart at his breast; but Christian had a
 shield in his hand, with which he caught it, and so prevented the danger
@@ -2386,8 +2473,7 @@ combat lasted for above half a day, even till Christian was almost quite
 spent; for you must know that Christian, by reason of his wounds, must
 needs grow weaker and weaker.
 
-{151}
------
+### {151}
 
 [Apollyon casteth to the ground the Christian] Then Apollyon, espying
 his opportunity, began to gather up close to Christian, and wrestling
@@ -2406,7 +2492,9 @@ loved us”. [Rom. 8:37] And with that Apollyon spread forth his dragon’s
 wings, and sped him away, that Christian for a season saw him no more.
 [James 4:7]
 
-{152} [A brief relation of the combat by the spectator] In this combat
+### {152}
+
+[A brief relation of the combat by the spectator] In this combat
 no man can imagine, unless he had seen and heard as I did, what yelling
 and hideous roaring Apollyon made all the time of the fight–he spake
 like a dragon; and, on the other side, what sighs and groans burst from
@@ -2419,8 +2507,7 @@ A more unequal match can hardly be,– CHRISTIAN must fight an Angel; but
 you see, The valiant man by handling Sword and Shield, Doth make him,
 tho’ a Dragon, quit the field.
 
-{153}
------
+### {153}
 
 [Christian gives God thanks for deliverance] So when the battle was
 over, Christian said, “I will here give thanks to him that delivered me
@@ -2433,8 +2520,7 @@ was, did fiercely me engage. But blessed Michael helped me, and I, By
 dint of sword, did quickly make him fly. Therefore to him let me give
 lasting praise, And thank and bless his holy name always.
 
-{154}
------
+### {154}
 
 [Christian goes on his journey with his sword drawn in his hand] Then
 there came to him a hand, with some of the leaves of the tree of life,
@@ -2446,8 +2532,7 @@ with his sword drawn in his hand; for he said, I know not but some other
 enemy may be at hand. But he met with no other affront from Apollyon
 quite through this valley.
 
-{155}
------
+### {155}
 
 [The Valley of the Shadow of Death] Now, at the end of this valley was
 another, called the Valley of the Shadow of Death, and Christian must
@@ -2460,8 +2545,7 @@ pits, a land of drought, and of the shadow of death, a land that no man”
 Now here Christian was worse put to it than in his fight with Apollyon,
 as by the sequel you shall see.
 
-{156}
------
+### {156}
 
 [The children of the spies go back] I saw then in my dream, that when
 Christian was got to the borders of the Shadow of Death, there met him
@@ -2469,8 +2553,7 @@ two men, children of them that brought up an evil report of the good
 land [Num. 13], making haste to go back; to whom Christian spake as
 follows:–
 
-{157}
------
+### {157}
 
 CHR. Whither are you going?
 
@@ -2492,8 +2575,7 @@ it. [Ps. 44:19; 107:10]
 
 CHR. But what have you seen? said Christian.
 
-{158}
------
+### {158}
 
 MEN. Seen! Why, the Valley itself, which is as dark as pitch; we also
 saw there the hobgoblins, satyrs, and dragons of the pit; we heard also
@@ -2510,8 +2592,7 @@ MEN. Be it thy way; we will not choose it for ours. So, they parted, and
 Christian went on his way, but still with his sword drawn in his hand,
 for fear lest he should be assaulted.
 
-{159}
------
+### {159}
 
 I saw then in my dream, so far as this valley reached, there was on the
 right hand a very deep ditch; that ditch is it into which the blind have
@@ -2522,8 +2603,7 @@ his foot to stand on. Into that quag King David once did fall, and had
 no doubt therein been smothered, had not HE that is able plucked him
 out.
 
-{160}
------
+### {160}
 
 The pathway was here also exceeding narrow, and therefore good Christian
 was the more put to it; for when he sought, in the dark, to shun the
@@ -2538,8 +2618,7 @@ Poor man! where art thou now? thy day is night. Good man, be not cast
 down, thou yet art right, Thy way to heaven lies by the gates of Hell;
 Cheer up, hold out, with thee it shall go well.
 
-{161}
------
+### {161}
 
 About the midst of this valley, I perceived the mouth of hell to be, and
 it stood also hard by the wayside. Now, thought Christian, what shall I
@@ -2565,8 +2644,7 @@ even almost at him, he cried out with a most vehement voice, “I will
 walk in the strength of the Lord God!” so they gave back, and came no
 further.
 
-{162}
------
+### {162}
 
 [Christian made believe that he spake blasphemies, when it was Satan
 that suggested them into his mind] One thing I would not let slip. I
@@ -2581,16 +2659,14 @@ loved so much before; yet, if he could have helped it, he would not have
 done it; but he had not the discretion either to stop his ears, or to
 know from whence these blasphemies came.
 
-{163}
------
+### {163}
 
 When Christian had travelled in this disconsolate condition some
 considerable time, he thought he heard the voice of a man, as going
 before him, saying, “Though I walk through the valley of the shadow of
 death, I will fear no evil, for thou art with me.” [Ps. 23:4]
 
-{164}
------
+### {164}
 
 Then he was glad, and that for these reasons:
 
@@ -2607,8 +2683,7 @@ not what to answer; for that he also thought to be alone. And by and by
 the day broke; then said Christian, He hath turned “the shadow of death
 into the morning”. [Amos 5:8]
 
-{165}
------
+### {165}
 
 [Christian glad at break of day] Now morning being come, he looked back,
 not out of desire to return, but to see, by the light of the day, what
@@ -2620,8 +2695,7 @@ after break of day, they came not nigh;) yet they were discovered to
 him, according to that which is written, “He discovereth deep things out
 of darkness, and bringeth out to light the shadow of death.” [Job 12:22]
 
-{166}
------
+### {166}
 
 [The second part of this valley very dangerous] Now was Christian much
 affected with his deliverance from all the dangers of his solitary way;
@@ -2639,8 +2713,7 @@ thousand souls, they had in reason been cast away; but, as I said just
 now, the sun was rising. Then said he, “His candle shineth upon my head,
 and by his light I walk through darkness.” [Job 29:3]
 
-{167}
------
+### {167}
 
 In this light, therefore, he came to the end of the valley. Now I saw in
 my dream, that at the end of this valley lay blood, bones, ashes, and
@@ -2657,8 +2730,7 @@ in his joints, that he can now do little more than sit in his cave’s
 mouth, grinning at pilgrims as they go by, and biting his nails because
 he cannot come at them.
 
-{168}
------
+### {168}
 
 So I saw that Christian went on his way; yet, at the sight of the Old
 Man that sat in the mouth of the cave, he could not tell what to think,
@@ -2667,8 +2739,7 @@ saying, “You will never mend till more of you be burned.” But he held
 his peace, and set a good face on it, and so went by and caught no hurt.
 Then sang Christian:
 
-O world of wonders! (I can say no less), That I should be preserved in that distress That I have met with here! O blessed be That hand that from it hath deliver’d me! Dangers in darkness, devils, hell, and sin Did compass me, while I this vale was in: Yea, snares, and pits, and traps, and nets, did lie My path about, that worthless, silly I Might have been catch’d, entangled, and cast down; But since I live, let JESUS wear the crown. {169}
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### O world of wonders! (I can say no less), That I should be preserved in that distress That I have met with here! O blessed be That hand that from it hath deliver’d me! Dangers in darkness, devils, hell, and sin Did compass me, while I this vale was in: Yea, snares, and pits, and traps, and nets, did lie My path about, that worthless, silly I Might have been catch’d, entangled, and cast down; But since I live, let JESUS wear the crown. {169}
 
 Now, as Christian went on his way, he came to a little ascent, which was
 cast up on purpose that pilgrims might see before them. Up there,
@@ -2679,8 +2750,7 @@ whom Christian cried again, “Stay, stay, till I come up to you!” But
 Faithful answered, “No, I am upon my life, and the avenger of blood is
 behind me.”
 
-{170}
------
+### {170}
 
 [Christian overtakes Faithful] At this, Christian was somewhat moved,
 and putting to all his strength, he quickly got up with Faithful, and
@@ -2694,8 +2764,7 @@ in my dream they went very lovingly on together, and had sweet discourse
 of all things that had happened to them in their pilgrimage; and thus
 Christian began:
 
-{171}
------
+### {171}
 
 CHR. My honoured and well-beloved brother, Faithful, I am glad that I
 have overtaken you; and that God has so tempered our spirits, that we
@@ -2727,8 +2796,7 @@ journey, (for so they called this your pilgrimage), but I did believe,
 and do still, that the end of our city will be with fire and and
 brimstone from above; and therefore I have made my escape.
 
-{172}
------
+### {172}
 
 CHR. Did you hear no talk of neighbor Pliable?
 
@@ -2758,8 +2826,7 @@ CHR. Had you no talk with him before you came out?
 FAITH. I met him once in the streets, but he leered away on the other
 side, as one ashamed of what he had done; so I spake not to him.
 
-{173}
------
+### {173}
 
 CHR. Well, at my first setting out, I had hopes of that man; but now I
 fear he will perish in the overthrow of the city; for it is happened to
@@ -2775,8 +2842,7 @@ of things that more immediately concern ourselves. Tell me now, what you
 have met with in the way as you came; for I know you have met with some
 things, or else it may be writ for a wonder.
 
-{174}
------
+### {174}
 
 [Faithful assaulted by Wanton] FAITH. I escaped the Slough that I
 perceived you fell into, and got up to the gate without that danger;
@@ -2808,8 +2874,7 @@ shut mine eyes, because I would not be bewitched with her looks. [Job
 
 CHR. Did you meet with no other assault as you came?
 
-{175}
------
+### {175}
 
 [He is assaulted by Adam the First] FAITH. When I came to the foot of
 the hill called Difficulty, I met with a very aged man, who asked me
@@ -2838,8 +2903,7 @@ deeds.”
 
 CHR. And how then?
 
-{176}
------
+### {176}
 
 FAITH. Then it came burning hot into my mind, whatever he said, and
 however he flattered, when he got me home to his house, he would sell me
@@ -2858,8 +2922,7 @@ place where the settle stands.
 CHR. Just there, said Christian, did I sit down to rest me; but being
 overcome with sleep, I there lost this roll out of my bosom.
 
-{177}
------
+### {177}
 
 FAITH. But, good brother, hear me out. So soon as the man overtook me,
 he was but a word and a blow, for down he knocked me, and laid me for
@@ -2878,8 +2941,7 @@ FAITH. I did not know him at first, but as he went by, I perceived the
 holes in his hands and in his side; then I concluded that he was our
 Lord. So I went up the hill.
 
-{178}
------
+### {178}
 
 [The temper of Moses] CHR. That man that overtook you was Moses. He
 spareth none, neither knoweth he how to show mercy to those that
@@ -2901,8 +2963,7 @@ called at the house, for they would have showed you so many rarities,
 that you would scarce have forgot them to the day of your death. But
 pray tell me, Did you meet nobody in the Valley of Humility?
 
-{179}
------
+### {179}
 
 [Faithful assaulted by Discontent] FAITH. Yes, I met with one
 Discontent, who would willingly have persuaded me to go back again with
@@ -2914,8 +2975,7 @@ fool of myself as to wade through this valley.
 
 CHR. Well, and how did you answer him?
 
-{180}
------
+### {180}
 
 [Faithful’s answer to Discontent] FAITH. I told him, that although all
 these that he named might claim kindred of me, and that rightly, for
@@ -2932,8 +2992,7 @@ that which he esteemed most worthy our affections.
 
 CHR. Met you with nothing else in that valley?
 
-{181}
------
+### {181}
 
 [He is assaulted with Shame] FAITH. Yes, I met with Shame; but of all
 the men that I met with in my pilgrimage, he, I think, bears the wrong
@@ -2964,8 +3023,7 @@ strange to the great, because of a few vices, which he called by finer
 names; and made him own and respect the base, because of the same
 religious fraternity. And is not this, said he, a shame?
 
-{182}
------
+### {182}
 
 CHR. And what did you say to him?
 
@@ -3001,8 +3059,7 @@ come, and come again afresh; That now, or sometime else, we by them may
 Be taken, overcome, and cast away. Oh, let the pilgrims, let the
 pilgrims, then Be vigilant, and quit themselves like men.
 
-{183}
------
+### {183}
 
 CHR. I am glad, my brother, that thou didst withstand this villain so
 bravely; for of all, as thou sayest, I think he has the wrong name; for
@@ -3022,8 +3079,7 @@ CHR. You say true; but did you meet nobody else in that valley?
 FAITH. No, not I; for I had sunshine all the rest of the way through
 that, and also through the Valley of the Shadow of Death.
 
-{184}
------
+### {184}
 
 CHR. It was well for you. I am sure it fared far otherwise with me; I
 had for a long season, as soon almost as I entered into that valley, a
@@ -3037,8 +3093,7 @@ for almost half the way through it. I thought I should have been killed
 there, over and over; but at last day broke, and the sun rose, and I
 went through that which was behind with far more ease and quiet.
 
-{185}
------
+### {185}
 
 [Talkative described] Moreover, I saw in my dream, that as they went on,
 Faithful, as he chanced to look on one side, saw a man whose name is
@@ -3055,8 +3110,7 @@ FAITH. That is well; then I hope we may have your good company.
 
 TALK. With a very good will will I be your companion.
 
-{186}
------
+### {186}
 
 [Faithful and Talkative enter discourse] FAITH. Come on, then, and let
 us go together, and let us spend our time in discoursing of things that
@@ -3082,8 +3136,7 @@ things; or if a man doth love to talk of miracles, wonders, or signs,
 where shall he find things recorded so delightful, and so sweetly
 penned, as in the Holy Scripture?
 
-{187}
------
+### {187}
 
 FAITH. That is true; but to be profited by such things in our talk
 should be that which we design.
@@ -3107,8 +3160,7 @@ of faith, and the necessity of a work of grace in their soul, in order
 to eternal life; but ignorantly live in the works of the law, by which a
 man can by no means obtain the kingdom of heaven.
 
-{188}
------
+### {188}
 
 FAITH. But, by your leave, heavenly knowledge of these is the gift of
 God; no man attaineth to them by human industry, or only by the talk of
@@ -3128,8 +3180,7 @@ or things profane; things past, or things to come; things foreign, or
 things at home; things more essential, or things circumstantial;
 provided that all be done to our profit.
 
-{189}
------
+### {189}
 
 [Faithful beguiled by Talkative] FAITH. Now did Faithful begin to
 wonder; and stepping to Christian, (for he walked all this while by
@@ -3142,8 +3193,7 @@ that know him not.
 
 FAITH. Do you know him, then?
 
-{190}
------
+### {190}
 
 [Christian makes a discovery of Talkative, telling Faithful who he was]
 CHR. Know him! Yes, better than he knows himself.
@@ -3160,8 +3210,7 @@ known of all that are acquainted with him, by the name of Talkative in
 Prating Row; and notwithstanding his fine tongue, he is but a sorry
 fellow.
 
-{191}
------
+### {191}
 
 FAITH. Well, he seems to be a very pretty man.
 
@@ -3171,8 +3220,7 @@ a pretty man, brings to my mind what I have observed in the work of the
 painter, whose pictures show best at a distance, but, very near, more
 unpleasing.
 
-{192}
------
+### {192}
 
 FAITH. But I am ready to think you do but jest, because you smiled.
 
@@ -3185,8 +3233,7 @@ mouth; religion hath no place in his heart, or house, or conversation;
 all he hath lieth in his tongue, and his religion is, to make a noise
 therewith.
 
-{193}
------
+### {193}
 
 FAITH. Say you so! then am I in this man greatly deceived.
 
@@ -3217,8 +3264,7 @@ to their commendations before others. For my part, I am of opinion, that
 he has, by his wicked life, caused many to stumble and fall; and will
 be, if God prevent not, the ruin of many more.
 
-{194}
------
+### {194}
 
 FAITH. Well, my brother, I am bound to believe you; not only because you
 say you know him, but also because, like a Christian, you make your
@@ -3235,8 +3281,7 @@ Besides, good men are ashamed of him; they can neither call him brother,
 nor friend; the very naming of him among them makes them blush, if they
 know him.
 
-{195}
------
+### {195}
 
 FAITH. Well, I see that saying and doing are two things, and hereafter I
 shall better observe this distinction.
@@ -3260,8 +3305,7 @@ that anything can be accepted that is not of faith, but I speak this to
 show you how insignificant the profession of Talkative will be at that
 day.
 
-{196}
------
+### {196}
 
 [Faithful convinced of the badness of Talkative] FAITH. This brings to
 my mind that of Moses, by which he describeth the beast that is clean.
@@ -3298,8 +3342,7 @@ power of religion; and ask him plainly (when he has approved of it, for
 that he will) whether this thing be set up in his heart, house, or
 conversation.
 
-{197}
------
+### {197}
 
 FAITH. Then Faithful stepped forward again, and said to Talkative, Come,
 what cheer? How is it now?
@@ -3307,8 +3350,7 @@ what cheer? How is it now?
 TALK. Thank you, well. I thought we should have had a great deal of talk
 by this time.
 
-{198}
------
+### {198}
 
 FAITH. Well, if you will, we will fall to it now; and since you left it
 with me to state the question, let it be this: How doth the saving grace
@@ -3326,8 +3368,7 @@ rather say, It shows itself by inclining the soul to abhor its sin.
 TALK. Why, what difference is there between crying out against, and
 abhorring of sin?
 
-{199}
------
+### {199}
 
 [To cry out against sin, no sign of grace] FAITH. Oh, a great deal. A
 man may cry out against sin of policy, but he cannot abhor it, but by
@@ -3342,8 +3383,7 @@ kissing it.
 
 TALK. You lie at the catch, I perceive.
 
-{200}
------
+### {200}
 
 FAITH. No, not I; I am only for setting things right. But what is the
 second thing whereby you would prove a discovery of a work of grace in
@@ -3384,8 +3424,7 @@ FAITH. Well, if you will not, will you give me leave to do it?
 
 TALK. You may use your liberty.
 
-{201}
------
+### {201}
 
 [One good sign of grace] FAITH. A work of grace in the soul discovereth
 itself, either to him that hath it, or to standers by.
@@ -3409,8 +3448,7 @@ this matter; therefore, in him that hath this work, there is required a
 very sound judgment before he can, with steadiness, conclude that this
 is a work of grace.
 
-{202}
------
+### {202}
 
 To others, it is thus discovered:
 
@@ -3429,8 +3467,7 @@ description of the work of grace, and also the discovery of it, if you
 have aught to object, object; if not, then give me leave to propound to
 you a second question.
 
-{203}
------
+### {203}
 
 TALK. Nay, my part is not now to object, but to hear; let me, therefore,
 have your second question.
@@ -3445,8 +3482,7 @@ commendeth himself is approved, but whom the Lord commendeth. Besides,
 to say I am thus and thus, when my conversation, and all my neighbors,
 tell me I lie, is great wickedness.
 
-[Talkative not pleased with Faithful’s question] {204}
-------------------------------------------------------
+### [Talkative not pleased with Faithful’s question] {204}
 
 TALK. Then Talkative at first began to blush; but, recovering himself,
 thus he replied: You come now to experience, to conscience, and God; and
@@ -3457,8 +3493,7 @@ upon you to be a catechiser, and, though you should so do, yet I may
 refuse to make you my judge. But, I pray, will you tell me why you ask
 me such questions?
 
-{205}
------
+### {205}
 
 [The reasons why Faithful put to him that question] FAITH. Because I saw
 you forward to talk, and because I knew not that you had aught else but
@@ -3479,8 +3514,7 @@ up reports and to judge so rashly as you do, I cannot but conclude you
 are some peevish or melancholy man, not fit to be discoursed with; and
 so adieu.
 
-{206}
------
+### {206}
 
 [A good riddance] CHR. Then came up Christian, and said to his brother,
 I told you how it would happen: your words and his lusts could not
@@ -3494,8 +3528,7 @@ FAITH. But I am glad we had this little discourse with him; it may
 happen that he will think of it again: however, I have dealt plainly
 with him, and so am clear of his blood, if he perisheth.
 
-{207}
------
+### {207}
 
 CHR. You did well to talk so plainly to him as you did; there is but
 little of this faithful dealing with men now-a-days, and that makes
@@ -3512,15 +3545,13 @@ How he presumes To drive down all before him! But so soon As Faithful
 talks of heart-work, like the moon That’s past the full, into the wane
 he goes. And so will all, but he that HEART-WORK knows.
 
-{208}
------
+### {208}
 
 Thus they went on talking of what they had seen by the way, and so made
 that way easy which would otherwise, no doubt, have been tedious to
 them; for now they went through a wilderness.
 
-{209}
------
+### {209}
 
 [Evangelist overtakes them again] Now, when they were got almost quite
 out of this wilderness, Faithful chanced to cast his eye back, and
@@ -3530,8 +3561,7 @@ good friend Evangelist. Ay, and my good friend too, said Faithful, for
 it was he that set me in the way to the gate. Now was Evangelist come up
 to them, and thus saluted them:
 
-{210}
------
+### {210}
 
 EVAN. Peace be with you, dearly beloved; and peace be to your helpers.
 
@@ -3546,15 +3576,13 @@ EVAN. Then said Evangelist, How hath it fared with you, my friends,
 since the time of our last parting? What have you met with, and how have
 you behaved yourselves?
 
-{211}
------
+### {211}
 
 Then Christian and Faithful told him of all things that had happened to
 them in the way; and how, and with what difficulty, they had arrived at
 that place.
 
-{212}
------
+### {212}
 
 [His exhortation to them] EVAN. Right glad am I, said Evangelist, not
 that you have met with trials, but that you have been victors; and for
@@ -3578,8 +3606,7 @@ your own hearts, and to the lusts thereof, “for they are deceitful above
 all things, and desperately wicked”; set your faces like a flint; you
 have all power in heaven and earth on your side.
 
-{213}
------
+### {213}
 
 [They do thank him for his exhortation] CHR. Then Christian thanked him
 for his exhortation; but told him, withal, that they would have him
@@ -3604,8 +3631,7 @@ but they will kill you; and be you sure that one or both of you must
 seal the testimony which you hold, with blood; but be you faithful unto
 death, and the King will give you a crown of life.
 
-{214}
------
+### {214}
 
 [He whose lot it will be there to suffer, will have the better of his
 brother] He that shall die there, although his death will be unnatural,
@@ -3617,8 +3643,7 @@ find fulfilled what I have here related, then remember your friend, and
 quit yourselves like men, and commit the keeping of your souls to your
 God in well-doing, as unto a faithful Creator.
 
-{215}
------
+### {215}
 
 Then I saw in my dream, that when they were got out of the wilderness,
 they presently saw a town before them, and the name of that town is
@@ -3629,8 +3654,7 @@ is there sold, or that cometh thither, is vanity. As is the saying of
 the wise, “all that cometh is vanity.” [Eccl. 1; 2:11,17; 11:8; Isa.
 11:17]
 
-{216}
------
+### {216}
 
 This fair is no new-erected business, but a thing of ancient standing; I
 will show you the original of it.
@@ -3655,8 +3679,7 @@ kind.
 Here are to be seen, too, and that for nothing, thefts, murders,
 adulteries, false swearers, and that of a blood-red colour.
 
-{217}
------
+### {217}
 
 [The streets of this fair] And as in other fairs of less moment, there
 are the several rows and streets, under their proper names, where such
@@ -3669,8 +3692,7 @@ as the chief of all the fair, so the ware of Rome and her merchandise is
 greatly promoted in this fair; only our English nation, with some
 others, have taken a dislike thereat.
 
-{218}
------
+### {218}
 
 [Christ went through this fair] Now, as I said, the way to the Celestial
 City lies just through this town where this lusty fair is kept; and he
@@ -3689,8 +3711,7 @@ merchandise, and therefore left the town, without laying out so much as
 one farthing upon these vanities. This fair, therefore, is an ancient
 thing, of long standing, and a very great fair.
 
-{219}
------
+### {219}
 
 [The pilgrims enter the fair] Now these pilgrims, as I said, must needs
 go through this fair. [The fair in a hubbub about them] Well, so they
@@ -3698,8 +3719,7 @@ did: but, behold, even as they entered into the fair, all the people in
 the fair were moved, and the town itself as it were in a hubbub about
 them; and that for several reasons: for–
 
-{220}
------
+### {220}
 
 [The first cause of the hubbub] First, The pilgrims were clothed with
 such kind of raiment as was diverse from the raiment of any that traded
@@ -3707,8 +3727,7 @@ in that fair. The people, therefore, of the fair, made a great gazing
 upon them: some said they were fools, some they were bedlams, and some
 they are outlandish men. [1 Cor. 2:7-8]
 
-{221}
------
+### {221}
 
 [Second cause of the hubbub] Secondly, And as they wondered at their
 apparel, so they did likewise at their speech; for few could understand
@@ -3716,8 +3735,7 @@ what they said; they naturally spoke the language of Canaan, but they
 that kept the fair were the men of this world; so that, from one end of
 the fair to the other, they seemed barbarians each to the other.
 
-{222}
------
+### {222}
 
 [Third cause of the hubbub] Thirdly, But that which did not a little
 amuse the merchandisers was, that these pilgrims set very light by all
@@ -3727,8 +3745,7 @@ cry, Turn away mine eyes from beholding vanity, and look upwards,
 signifying that their trade and traffic was in heaven. [Ps. 119:37,
 Phil. 3:19-20]
 
-{223}
------
+### {223}
 
 [Fourth cause of the hubbub] One chanced mockingly, beholding the
 carriage of the men, to say unto them, What will ye buy? But they,
@@ -3759,8 +3776,7 @@ cage, that they might be made a spectacle to all the men of the fair.
 Behold Vanity Fair! the Pilgrims there Are chain’d and stand beside:
 Even so it was our Lord pass’d here, And on Mount Calvary died.
 
-{224}
------
+### {224}
 
 [Their behaviour in the cage] There, therefore, they lay for some time,
 and were made the objects of any man’s sport, or malice, or revenge, the
@@ -3801,8 +3817,7 @@ Then were they remanded to the cage again, until further order should be
 taken with them. So they put them in, and made their feet fast in the
 stocks.
 
-{225}
------
+### {225}
 
 Here, therefore, they called again to mind what they had heard from
 their faithful friend Evangelist, and were the more confirmed in their
@@ -3814,8 +3829,7 @@ disposal of Him that ruleth all things, with much content, they abode in
 the condition in which they were, until they should be otherwise
 disposed of.
 
-{226}
------
+### {226}
 
 [They are again put into the cage, and after brought to trial] Then a
 convenient time being appointed, they brought them forth to their trial,
@@ -3824,8 +3838,7 @@ brought before their enemies and arraigned. The judge’s name was Lord
 Hate-good. Their indictment was one and the same in substance, though
 somewhat varying in form, the contents whereof were this:–
 
-{227}
------
+### {227}
 
 [Their indictment] “That they were enemies to and disturbers of their
 trade; that they had made commotions and divisions in the town, and had
@@ -3836,8 +3849,7 @@ Now, FAITHFUL, play the man, speak for thy God: Fear not the wicked’s
 malice; nor their rod: Speak boldly, man, the truth is on thy side: Die
 for it, and to life in triumph ride.
 
-{228}
------
+### {228}
 
 [Faithful’s answer for himself] Then Faithful began to answer, that he
 had only set himself against that which hath set itself against Him that
@@ -3847,8 +3859,7 @@ won by beholding our truth and innocence, and they are only turned from
 the worse to the better. And as to the king you talk of, since he is
 Beelzebub, the enemy of our Lord, I defy him and all his angels.
 
-{229}
------
+### {229}
 
 Then proclamation was made, that they that had aught to say for their
 lord the king against the prisoner at the bar, should forthwith appear
@@ -3857,8 +3868,7 @@ Envy, Superstition, and Pickthank. They were then asked if they knew the
 prisoner at the bar; and what they had to say for their lord the king
 against him.
 
-{230}
------
+### {230}
 
 [Envy begins] Then stood forth Envy, and said to this effect: My Lord, I
 have known this man a long time, and will attest upon my oath before
@@ -3886,11 +3896,9 @@ they called Superstition, and bid him look upon the prisoner. They also
 asked, what he could say for their lord the king against him. Then they
 sware him; so he began.
 
-{231}
------
+### {231}
 
-[Superstition follows] SUPER. My Lord, I have no great acquaintance with this man, nor do I desire to have further knowledge of him; however, this I know, that he is a very pestilent fellow, from some discourse that, the other day, I had with him in this town; for then, talking with him, I heard him say, that our religion was naught, and such by which a man could by no means please God. Which sayings of his, my Lord, your Lordship very well knows, what necessarily thence will follow, to wit, that we do still worship in vain, are yet in our sins, and finally shall be damned; and this is that which I have to say. {232}
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### [Superstition follows] SUPER. My Lord, I have no great acquaintance with this man, nor do I desire to have further knowledge of him; however, this I know, that he is a very pestilent fellow, from some discourse that, the other day, I had with him in this town; for then, talking with him, I heard him say, that our religion was naught, and such by which a man could by no means please God. Which sayings of his, my Lord, your Lordship very well knows, what necessarily thence will follow, to wit, that we do still worship in vain, are yet in our sins, and finally shall be damned; and this is that which I have to say. {232}
 
 Then was Pickthank sworn, and bid say what he knew, in behalf of their
 lord the king, against the prisoner at the bar.
@@ -3909,8 +3917,7 @@ are now appointed to be his judge, calling you an ungodly villain, with
 many other such like vilifying terms, with which he hath bespattered
 most of the gentry of our town.
 
-{233}
------
+### {233}
 
 When this Pickthank had told his tale, the Judge directed his speech to
 the prisoner at the bar, saying, Thou runagate, heretic, and traitor,
@@ -3922,8 +3929,7 @@ JUDGE. Sirrah! sirrah! thou deservest to live no longer, but to be slain
 immediately upon the place; yet, that all men may see our gentleness
 towards thee, let us hear what thou, vile runagate, hast to say.
 
-{234}
------
+### {234}
 
 [Faithful’s defence of himself] FAITH. 1. I say, then, in answer to what
 Mr. Envy hath spoken, I never said aught but this, That what rule, or
@@ -3932,8 +3938,7 @@ diametrically opposite to Christianity. If I have said amiss in this,
 convince me of my error, and I am ready here before you to make my
 recantation.
 
-{235}
------
+### {235}
 
 2. As to the second, to wit, Mr. Superstition, and his charge against
 me, I said only this, That in the worship of God there is required a
@@ -3943,8 +3948,7 @@ worship of God that is not agreeable to Divine revelation, cannot be
 done but by a human faith, which faith will not be profitable to eternal
 life.
 
-{236}
------
+### {236}
 
 3. As to what Mr. Pickthank hath said, I say (avoiding terms, as that I
 am said to rail, and the like) that the prince of this town, with all
@@ -3952,8 +3956,7 @@ the rabblement, his attendants, by this gentleman named, are more fit
 for a being in hell, than in this town and country: and so, the Lord
 have mercy upon me!
 
-{237}
------
+### {237}
 
 [The Judge’s speech to the jury] Then the Judge called to the jury (who
 all this while stood by, to hear and observe): Gentlemen of the jury,
@@ -3963,8 +3966,7 @@ against him. Also you have heard his reply and confession. It lieth now
 in your breasts to hang him or save his life; but yet I think meet to
 instruct you into our law.
 
-{238}
------
+### {238}
 
 There was an Act made in the days of Pharaoh the Great, servant to our
 prince, that lest those of a contrary religion should multiply and grow
@@ -3978,16 +3980,14 @@ den. [Dan. 6] Now the substance of these laws this rebel has broken, not
 only in thought, (which is not to be borne), but also in word and deed;
 which must therefore needs be intolerable.
 
-{239}
------
+### {239}
 
 For that of Pharaoh, his law was made upon a supposition, to prevent
 mischief, no crime being yet apparent; but here is a crime apparent. For
 the second and third, you see he disputeth against our religion; and for
 the treason he hath confessed, he deserveth to die the death.
 
-{240}
------
+### {240}
 
 [The jury and their names] Then went the jury out, whose names were, Mr.
 Blind-man, Mr. No-good, Mr. Malice, Mr. Love-lust, Mr. Live-loose, Mr.
@@ -4010,8 +4010,7 @@ guilty of death. And so they did; therefore he was presently condemned
 to be had from the place where he was, to the place from whence he came,
 and there to be put to the most cruel death that could be invented.
 
-{241}
------
+### {241}
 
 [The cruel death of Faithful] They therefore brought him out, to do with
 him according to their law; and, first, they scourged him, then they
@@ -4020,8 +4019,7 @@ stoned him with stones, then pricked him with their swords; and, last of
 all, they burned him to ashes at the stake. Thus came Faithful to his
 end.
 
-{242}
------
+### {242}
 
 [A chariot and horses wait to take away Faithful] Now I saw that there
 stood behind the multitude a chariot and a couple of horses, waiting for
@@ -4035,8 +4033,7 @@ are dead, thou’lt live from age to age\*.
 
 \*In the New Heaven and New Earth. {footnote from one edition}
 
-{243}
------
+### {243}
 
 [Christian is still alive] But as for Christian, he had some respite,
 and was remanded back to prison. So he there remained for a space; but
@@ -4050,8 +4047,7 @@ shalt be blest, When faithless ones, with all their vain delights, Are
 crying out under their hellish plights: Sing, Faithful, sing, and let
 thy name survive; For though they kill’d thee, thou art yet alive!
 
-{244}
------
+### {244}
 
 [Christian has another companion] Now I saw in my dream, that Christian
 went not forth alone, for there was one whose name was Hopeful (being
@@ -4064,8 +4060,7 @@ pilgrimage. [There are more of the men of the fair will follow] This
 Hopeful also told Christian, that there were many more of the men in the
 fair, that would take their time and follow after.
 
-{245}
------
+### {245}
 
 [They overtake By-ends] So I saw that quickly after they were got out of
 the fair, they overtook one that was going before them, whose name was
@@ -4090,8 +4085,7 @@ I remember, they say it is a wealthy place.
 BY-ENDS. Yes, I will assure you that it is; and I have very many rich
 kindred there.
 
-{246}
------
+### {246}
 
 CHR. Pray, who are your kindred there? if a man may be so bold.
 
@@ -4117,8 +4111,7 @@ against wind and tide; secondly, we are always most zealous when
 religion goes in his silver slippers; we love much to walk with him in
 the street, if the sun shines, and the people applaud him.
 
-{247}
------
+### {247}
 
 Then Christian stepped a little aside to his fellow, Hopeful, saying, It
 runs in my mind that this is one By-ends of Fair-speech; and if it be
@@ -4133,8 +4126,7 @@ BY-ENDS. This is not my name, but indeed it is a nick-name that is given
 me by some that cannot abide me: and I must be content to bear it as a
 reproach, as other good men have borne theirs before me.
 
-{247}
------
+### {247}
 
 CHR. But did you never give an occasion to men to call you by this name?
 
@@ -4145,8 +4137,7 @@ whatever it was, and my chance was to get thereby; but if things are
 thus cast upon me, let me count them, a blessing; but let not the
 malicious load me therefore with reproach.
 
-{248}
------
+### {248}
 
 CHR. I thought, indeed, that you were the man that I heard of; and to
 tell you what I think, I fear this name belongs to you more properly
@@ -4172,8 +4163,7 @@ are harmless and profitable. If I may not go with you, I must do as I
 did before you overtook me, even go by myself, until some overtake me
 that will be glad of my company.
 
-{249}
------
+### {249}
 
 [By-ends and Christian part] Now I saw in my dream that Christian and
 Hopeful forsook him, and kept their distance before him; but one of them
@@ -4190,8 +4180,7 @@ religion; and these four gentlemen had attained much of the art of their
 master, so that they could each of them have kept such a school
 themselves.
 
-{250}
------
+### {250}
 
 Well, when they had, as I said, thus saluted each other, Mr. Money-love
 said to Mr. By-ends, Who are they upon the road before us? (for
@@ -4209,8 +4198,7 @@ so much their own notions, and do also so lightly esteem the opinions of
 others, that let a man be never so godly, yet if he jumps not with them
 in all things, they thrust him quite out of their company.
 
-{251}
------
+### {251}
 
 SAVE-ALL. That is bad, but we read of some that are righteous overmuch;
 and such men’s rigidness prevails with them to judge and condemn all but
@@ -4227,8 +4215,7 @@ it. They are for religion when in rags and contempt; but I am for him
 when he walks in his golden slippers, in the sunshine, and with
 applause.
 
-{252}
------
+### {252}
 
 HOLD-THE-WORLD. Ay, and hold you there still, good Mr. By-ends; for, for
 my part, I can count him but a fool, that, having the liberty to keep
@@ -4252,8 +4239,7 @@ MONEY-LOVE. No, there needs no more words about this matter, indeed; for
 he that believes neither Scripture nor reason (and you see we have both
 on our side) neither knows his own liberty, nor seeks his own safety.
 
-{253}
------
+### {253}
 
 BY-ENDS. My brethren, we are, as you see, going all on pilgrimage; and,
 for our better diversion from things that are bad, give me leave to
@@ -4266,8 +4252,7 @@ becomes extraordinarily zealous in some points of religion that he
 meddled not with before, may he not use these means to attain his end,
 and yet be a right honest man?
 
-{254}
------
+### {254}
 
 MONEY-LOVE. I see the bottom of your question; and, with these
 gentlemen’s good leave, I will endeavour to shape you an answer. And
@@ -4281,38 +4266,33 @@ for my part, I see no reason but a man may do this, (provided he has a
 call), ay, and more a great deal besides, and yet be an honest man. For
 why–
 
-{255}
------
+### {255}
 
 1. His desire of a greater benefice is lawful, (this cannot be
 contradicted), since it is set before him by Providence; so then, he may
 get it, if he can, making no question for conscience’ sake.
 
-{256}
------
+### {256}
 
 2. Besides, his desire after that benefice makes him more studious, a
 more zealous preacher, &c., and so makes him a better man; yea, makes
 him better improve his parts, which is according to the mind of God.
 
-{257}
------
+### {257}
 
 3. Now, as for his complying with the temper of his people, by
 dissenting, to serve them, some of his principles, this argueth, (1)
 That he is of a self-denying, temper; (2) Of a sweet and winning
 deportment; and so (3) more fit for the ministerial function.
 
-{258}
------
+### {258}
 
 4. I conclude, then, that a minister that changes a small for a great,
 should not, for so doing, be judged as covetous; but rather, since he
 has improved in his parts and industry thereby, be counted as one that
 pursues his call, and the opportunity put into his hands to do good.
 
-{259}
------
+### {259}
 
 And now to the second part of the question, which concerns the tradesman
 you mentioned. Suppose such a one to have but a poor employ in the
@@ -4331,8 +4311,7 @@ here is a good wife, and good customers, and good gain, and all these by
 becoming religious, which is good; therefore, to become religious, to
 get all these, is a good and profitable design.
 
-{260}
------
+### {260}
 
 This answer, thus made by this Mr. Money-love to Mr. By-ends’s question,
 was highly applauded by them all; wherefore they concluded upon the
@@ -4347,8 +4326,7 @@ propound the question to them, because, as they supposed, their answer
 to him would be without the remainder of that heat that was kindled
 betwixt Mr. By-ends and them, at their parting a little before.
 
-{260}
------
+### {260}
 
 So they came up to each other, and after a short salutation, Mr.
 Hold-the-world propounded the question to Christian and his fellow, and
@@ -4361,8 +4339,7 @@ to make of him and religion a stalking-horse to get and enjoy the world!
 Nor do we find any other than heathens, hypocrites, devils, and witches,
 that are of this opinion.
 
-{261}
------
+### {261}
 
 1. Heathens; for when Hamor and Shechem had a mind to the daughter and
 cattle of Jacob, and saw that there was no way for them to come at them,
@@ -4373,29 +4350,25 @@ and their cattle were that which they sought to obtain, and their
 religion the stalking-horse they made use of to come at them. Read the
 whole story. [Gen. 34:20-23]
 
-{262}
------
+### {262}
 
 2. The hypocritical Pharisees were also of this religion; long prayers
 were their pretence, but to get widows’ houses was their intent; and
 greater damnation was from God their judgment. [Luke 20:46-47]
 
-{263}
------
+### {263}
 
 3. Judas the devil was also of this religion; he was religious for the
 bag, that he might be possessed of what was therein; but he was lost,
 cast away, and the very son of perdition.
 
-{264}
------
+### {264}
 
 4. Simon the witch was of this religion too; for he would have had the
 Holy Ghost, that he might have got money therewith; and his sentence
 from Peter’s mouth was according. [Acts 8:19-22]
 
-{265}
------
+### {265}
 
 5. Neither will it out of my mind, but that that man that takes up
 religion for the world, will throw away religion for the world; for so
@@ -4413,8 +4386,7 @@ before the sentence of men, what will they do with the sentence of God?
 And if they are mute when dealt with by vessels of clay, what will they
 do when they shall be rebuked by the flames of a devouring fire?
 
-{266}
------
+### {266}
 
 [The ease that pilgrims have is but little in this life] Then Christian
 and Hopeful outwent them again, and went till they came to a delicate
@@ -4427,8 +4399,7 @@ see; but going too near the brink of the pit, the ground being deceitful
 under them, broke, and they were slain; some also had been maimed there,
 and could not, to their dying day, be their own men again.
 
-{267}
------
+### {267}
 
 [Demas at the Hill Lucre. He calls to Christian and Hopeful to come to
 him] Then I saw in my dream, that a little off the road, over against
@@ -4442,8 +4413,7 @@ DEMAS. Here is a silver mine, and some digging in it for treasure. If
 you will come, with a little pains you may richly provide for
 yourselves.
 
-{268}
------
+### {268}
 
 [Hopeful tempted to go, but Christian holds him back] Hope. Then said
 Hopeful, Let us go see.
@@ -4469,8 +4439,7 @@ hundred to one but he dies there.
 DEMAS. Then Demas called again, saying, But will you not come over and
 see?
 
-{269}
------
+### {269}
 
 [Christian roundeth up Demas] CHR. Then Christian roundly answered,
 saying, Demas, thou art an enemy to the right ways of the Lord of this
@@ -4483,8 +4452,7 @@ where we would stand with boldness before him.
 Demas cried again, that he also was one of their fraternity; and that if
 they would tarry a little, he also himself would walk with them.
 
-{270}
------
+### {270}
 
 CHR. Then said Christian, What is thy name? Is it not the same by the
 which I have called thee?
@@ -4498,8 +4466,7 @@ hanged for a traitor, and thou deservest no better reward. Assure
 thyself, that when we come to the King, we will do him word of this thy
 behaviour. Thus they went their way.
 
-{271}
------
+### {271}
 
 [By-ends goes over to Demas] By this time By-ends and his companions
 were come again within sight, and they, at the first beck, went over to
@@ -4513,8 +4480,7 @@ By-ends and silver Demas both agree; One calls, the other runs, that he
 may be A sharer in his lucre; so these do Take up in this world, and no
 further go.
 
-{272}
------
+### {272}
 
 [They see a strange monument] Now I saw that, just on the other side of
 this plain, the pilgrims came to a place where stood an old monument,
@@ -4533,8 +4499,7 @@ back with a covetous heart, when she was going from Sodom for safety.
 [Gen. 19:26] Which sudden and amazing sight gave them occasion of this
 discourse.
 
-{273}
------
+### {273}
 
 CHR. Ah, my brother! this is a seasonable sight; it came opportunely to
 us after the invitation which Demas gave us to come over to view the
@@ -4549,8 +4514,7 @@ and mine? She only looked back; and I had a desire to go see. Let grace
 be adored, and let me be ashamed that ever such a thing should be in
 mine heart.
 
-{274}
------
+### {274}
 
 CHR. Let us take notice of what we see here, for our help for time to
 come. This woman escaped one judgment, for she fell not by the
@@ -4570,8 +4534,7 @@ judgment which overtook her did make her an example, within sight of
 where they are; for they cannot choose but see her, did they but lift up
 their eyes.
 
-{275}
------
+### {275}
 
 CHR. It is a thing to be wondered at, and it argueth that their hearts
 are grown desperate in the case; and I cannot tell who to compare them
@@ -4593,8 +4556,7 @@ neither thou, but especially I, am not made myself this example! This
 ministereth occasion to us to thank God, to fear before him, and always
 to remember Lot’s wife.
 
-{276}
------
+### {276}
 
 [A river] I saw, then, that they went on their way to a pleasant river;
 which David the king called “the river of God”, but John, “the river of
@@ -4624,8 +4586,7 @@ field.
 So when they were disposed to go on, (for they were not, as yet, at
 their journey’s end,) they ate and drank, and departed.
 
-{277}
------
+### {277}
 
 [By-path Meadow] Now, I beheld in my dream, that they had not journeyed
 far, but the river and the way for a time parted; at which they were not
@@ -4642,8 +4603,7 @@ lay along by the way, on the other side of the fence. It is according to
 my wish, said Christian. Here is the easiest going; come, good Hopeful,
 and let us go over.
 
-{278}
------
+### {278}
 
 HOPE. But how if this path should lead us out of the way?
 
@@ -4660,8 +4620,7 @@ right. So they followed, and he went before them. But, behold, the night
 came on, and it grew very dark; so that they that were behind lost the
 sight of him that went before.
 
-{279}
------
+### {279}
 
 [A pit to catch the vain-glorious in] He, therefore, that went before,
 (Vain-confidence by name), not seeing the way before him, fell into a
@@ -4669,8 +4628,7 @@ deep pit [Isa. 9:16], which was on purpose there made, by the Prince of
 those grounds, to catch vain-glorious fools withal, and was dashed in
 pieces with his fall.
 
-{280}
------
+### {280}
 
 [Reasoning between Christian and Hopeful] Now Christian and his fellow
 heard him fall. So they called to know the matter, but there was none to
@@ -4681,8 +4639,7 @@ dreadful manner; and the water rose amain.
 
 Then Hopeful groaned in himself, saying, Oh, that I had kept on my way!
 
-{281}
------
+### {281}
 
 CHR. Who could have thought that this path should have led us out of the
 way?
@@ -4708,8 +4665,7 @@ CHR. No, if you please, let me go first, that if there be any danger, I
 may be first therein, because by my means we are both gone out of the
 way.
 
-{282}
------
+### {282}
 
 [They are in danger of drowning as they go back] HOPE. No, said Hopeful,
 you shall not go first; for your mind being troubled may lead you out of
@@ -4722,8 +4678,7 @@ we are in, than going in when we are out.) Yet they adventured to go
 back, but it was so dark, and the flood was so high, that in their going
 back they had like to have been drowned nine or ten times.
 
-{283}
------
+### {283}
 
 [They sleep in the grounds of Giant Despair] Neither could they, with
 all the skill they had, get again to the stile that night. Wherefore, at
@@ -4754,8 +4709,7 @@ The pilgrims now, to gratify the flesh, Will seek its ease; but oh! how
 they afresh Do thereby plunge themselves new griefs into! Who seek to
 please the flesh, themselves undo.
 
-{284}
------
+### {284}
 
 [On Thursday, Giant Despair beats his prisoners] Now, Giant Despair had
 a wife, and her name was Diffidence. So when he was gone to bed, he told
@@ -4790,8 +4744,7 @@ and left them as before, to consider what to do. Then did the prisoners
 consult between themselves whether it was best to take his counsel or
 no; and thus they began to discourse:–
 
-{285}
------
+### {285}
 
 [Christian crushed] CHR. Brother, said Christian, what shall we do? The
 life that we now live is miserable. For my part I know not whether is
@@ -4799,8 +4752,7 @@ best, to live thus, or to die out of hand. “My soul chooseth strangling
 rather than life”, and the grave is more easy for me than this dungeon.
 [Job 7:15] Shall we be ruled by the Giant?
 
-{286}
------
+### {286}
 
 [Hopeful comforts him] HOPE. Indeed, our present condition is dreadful,
 and death would be far more welcome to me than thus for ever to abide;
@@ -4826,8 +4778,7 @@ let us not be our own murderers. With these words Hopeful at present did
 moderate the mind of his brother; so they continued together (in the
 dark) that day, in their sad and doleful condition.
 
-{287}
------
+### {287}
 
 Well, towards evening, the Giant goes down into the dungeon again, to
 see if his prisoners had taken his counsel; but when he came there he
@@ -4838,8 +4789,7 @@ at which he fell into a grievous rage, and told them that, seeing they
 had disobeyed his counsel, it should be worse with them than if they had
 never been born.
 
-{288}
------
+### {288}
 
 [Christian still dejected] At this they trembled greatly, and I think
 that Christian fell into a swoon; but, coming a little to himself again,
@@ -4847,8 +4797,7 @@ they renewed their discourse about the Giant’s counsel; and whether yet
 they had best to take it or no. Now Christian again seemed to be for
 doing it, but Hopeful made his second reply as followeth:–
 
-{289}
------
+### {289}
 
 [Hopeful comforts him again, by calling former things to remembrance]
 HOPE. My brother, said he, rememberest thou not how valiant thou hast
@@ -4865,8 +4814,7 @@ bloody death. Wherefore let us (at least to avoid the shame, that
 becomes not a Christian to be found in) bear up with patience as well as
 we can.
 
-{290}
------
+### {290}
 
 Now, night being come again, and the Giant and his wife being in bed,
 she asked him concerning the prisoners, and if they had taken his
@@ -4877,8 +4825,7 @@ of those that thou hast already despatched, and make them believe, ere a
 week comes to an end, thou also wilt tear them in pieces, as thou hast
 done their fellows before them.
 
-{291}
------
+### {291}
 
 [On Saturday, the Giant threatened that shortly he would pull them in
 pieces] So when the morning was come, the Giant goes to them again, and
@@ -4897,8 +4844,7 @@ relieve them, or that they have picklocks about them, by the means of
 which they hope to escape. And sayest thou so, my dear? said the Giant;
 I will, therefore, search them in the morning.
 
-{292}
------
+### {292}
 
 Well, on Saturday, about midnight, they began to pray, and continued in
 prayer till almost break of day.
@@ -4911,8 +4857,7 @@ liberty! I have a key in my bosom, called Promise, that will, I am
 persuaded, open any lock in Doubting Castle. Then said Hopeful, That is
 good news, good brother; pluck it out of thy bosom, and try.
 
-{293}
------
+### {293}
 
 Then Christian pulled it out of his bosom, and began to try at the
 dungeon door, whose bolt (as he turned the key) gave back, and the door
@@ -4927,8 +4872,7 @@ fail, for his fits took him again, so that he could by no means go after
 them. Then they went on, and came to the King’s highway, and so were
 safe, because they were out of his jurisdiction.
 
-{294}
------
+### {294}
 
 [A pillar erected by Christian and his fellow] Now, when they were over
 the stile, they began to contrive with themselves what they should do at
@@ -4945,8 +4889,7 @@ forbidden ground; And let them that come after have a care, Lest
 heedlessness makes them, as we, to fare. Lest they for trespassing his
 prisoners are, Whose castle’s Doubting, and whose name’s Despair.
 
-{295}
------
+### {295}
 
 [The Delectable Mountains] They went then till they came to the
 Delectable Mountains, which mountains belong to the Lord of that hill of
@@ -4965,8 +4908,7 @@ Mountains delectable they now ascend, Where Shepherds be, which to them
 do commend Alluring things, and things that cautious are, Pilgrims are
 steady kept by faith and fear.
 
-{296}
------
+### {296}
 
 SHEP. These mountains are Immanuel’s Land, and they are within sight of
 his city; and the sheep also are his, and he laid down his life for
@@ -4992,8 +4934,7 @@ SHEP. The Lord of these mountains hath given us a charge not to be
 forgetful to entertain strangers, therefore the good of the place is
 before you. [Heb. 13:1-2]
 
-{297}
------
+### {297}
 
 [The Shepherds welcome them] I saw also in my dream, that when the
 Shepherds perceived that they were wayfaring men, they also put
@@ -5004,8 +4945,7 @@ do show their face on these mountains. But when the Shepherds heard
 their answers, being pleased therewith, they looked very lovingly upon
 them, and said, Welcome to the Delectable Mountains.
 
-{298}
------
+### {298}
 
 [The names of the Shepherds] The Shepherds, I say, whose names were
 Knowledge, Experience, Watchful, and Sincere, took them by the hand, and
@@ -5016,8 +4956,7 @@ the good of these Delectable Mountains. They then told them, that they
 were content to stay; so they went to their rest that night, because it
 was very late.
 
-{299}
------
+### {299}
 
 [They are shown wonders] Then I saw in my dream, that in the morning the
 Shepherds called up to Christian and Hopeful to walk with them upon the
@@ -5037,8 +4976,7 @@ are they; and they have continued to this day unburied, as you see, for
 an example to others to take heed how they clamber too high, or how they
 come too near the brink of this mountain.
 
-{300}
------
+### {300}
 
 [Mount Caution] Then I saw that they had them to the top of another
 mountain, and the name of that is Caution, and bid them look afar off;
@@ -5048,8 +4986,7 @@ that the men were blind, because they stumbled sometimes upon the tombs,
 and because they could not get out from among them. Then said Christian,
 What means this?
 
-{301}
------
+### {301}
 
 The Shepherds then answered, Did you not see a little below these
 mountains a stile, that led into a meadow, on the left hand of this way?
@@ -5067,8 +5004,7 @@ way of understanding, shall remain in the congregation of the dead.”
 [Pro. 21:16] Then Christian and Hopeful looked upon one another, with
 tears gushing out, but yet said nothing to the Shepherds.
 
-{302}
------
+### {302}
 
 [A by-way to hell] Then I saw in my dream, that the Shepherds had them
 to another place, in a bottom, where was a door in the side of a hill,
@@ -5084,8 +5020,7 @@ Ananias and Sapphira his wife. Then said Hopeful to the Shepherds, I
 perceive that these had on them, even every one, a show of pilgrimage,
 as we have now; had they not?
 
-{303}
------
+### {303}
 
 SHEP. Yes, and held it a long time too.
 
@@ -5099,8 +5034,7 @@ for strength.
 
 SHEP. Ay, and you will have need to use it, when you have it, too.
 
-{304}
------
+### {304}
 
 [The Shepherds’ perspective glass] By this time the Pilgrims had a
 desire to go forward, and the Shepherds a desire they should; so they
@@ -5111,8 +5045,7 @@ glass. [The Hill Clear] The Pilgrims then lovingly accepted the motion;
 so they had them to the top of a high hill, called Clear, and gave them
 their glass to look.
 
-{305}
------
+### {305}
 
 [The fruits of servile fear] Then they essayed to look, but the
 remembrance of that last thing that the Shepherds had shown them, made
@@ -5125,8 +5058,7 @@ Thus, by the Shepherds, secrets are reveal’d, Which from all other men
 are kept conceal’d. Come to the Shepherds, then, if you would see Things
 deep, things hid, and that mysterious be.
 
-{306}
------
+### {306}
 
 [A twofold caution] When they were about to depart, one of the Shepherds
 gave them a note of the way. Another of them bid them beware of the
@@ -5134,8 +5066,7 @@ Flatterer. The third bid them take heed that they sleep not upon the
 Enchanted Ground. And the fourth bid them God-speed. So I awoke from my
 dream.
 
-{307}
------
+### {307}
 
 [The Country of Conceit, out of which came Ignorance] And I slept, and
 dreamed again, and saw the same two Pilgrims going down the mountains
@@ -5146,8 +5077,7 @@ Here, therefore, they met with a very brisk lad, that came out of that
 country; and his name was Ignorance. So Christian asked him from what
 parts he came, and whither he was going.
 
-{308}
------
+### {308}
 
 [Christian and Ignorance have some talk] IGNOR. Sir, I was born in the
 country that lieth off there a little on the left hand, and I am going
@@ -5165,8 +5095,7 @@ gate should be opened to you?
 have been a good liver; I pay every man his own; I pray, fast, pay
 tithes, and give alms, and have left my country for whither I am going.
 
-{309}
------
+### {309}
 
 CHR. But thou camest not in at the wicket-gate that is at the head of
 this way; thou camest in hither through that same crooked lane, and
@@ -5183,8 +5112,7 @@ all our parts doth so much as know the way to it, nor need they matter
 whether they do or no, since we have, as you see, a fine, pleasant green
 lane, that comes down from our country, the next way into the way.
 
-{310}
------
+### {310}
 
 [How to carry it to a fool] When Christian saw that the man was “wise in
 his own conceit”, he said to Hopeful, whisperingly, “There is more hope
@@ -5204,8 +5132,7 @@ HOPE. He further added, It is not good, I think, to say all to him at
 once; let us pass him by, if you will, and talk to him anon, even as he
 is able to bear it.
 
-{311}
------
+### {311}
 
 [The destruction of one Turn-away] So they both went on, and Ignorance
 he came after. Now when they had passed him a little way, they entered
@@ -5249,8 +5176,7 @@ heels, and left this good man to shift for himself. Now, after a while,
 Little-faith came to himself, and getting up, made shift to scrabble on
 his way. This was the story.
 
-{312}
------
+### {312}
 
 HOPE. But did they take from him all that ever he had?
 
@@ -5265,8 +5191,7 @@ as he went, to keep himself alive; for his jewels he might not sell. But
 beg, and do what he could, he went (as we say) with many a hungry belly
 the most part of the rest of the way.
 
-{313}
------
+### {313}
 
 HOPE. But is it not a wonder they got not from him his certificate, by
 which he was to receive his admittance at the Celestial Gate?
@@ -5278,8 +5203,7 @@ him, had neither power nor skill to hide anything; so it was more by
 good Providence than by his endeavour, that they missed of that good
 thing.
 
-{314}
------
+### {314}
 
 HOPE. But it must needs be a comfort to him, that they got not his
 jewels from him.
@@ -5293,8 +5217,7 @@ his mind, and he began to be comforted therewith, then would fresh
 thoughts of his loss come again upon him, and those thoughts would
 swallow up all. [1 Peter 1:9]
 
-{315}
------
+### {315}
 
 [He is pitied by both] HOPE. Alas! poor man! This could not but be a
 great grief to him.
@@ -5308,8 +5231,7 @@ overtook him, or that he overtook in the way as he went, where he was
 robbed, and how; who they were that did it, and what he lost; how he was
 wounded, and that he hardly escaped with his life.
 
-{316}
------
+### {316}
 
 HOPE. But it is a wonder that his necessity did not put him upon selling
 or pawning some of his jewels, that he might have wherewith to relieve
@@ -5325,8 +5247,7 @@ he knew well enough) been excluded from an inheritance there; and that
 would have been worse to him than the appearance and villainy of ten
 thousand thieves.
 
-{317}
------
+### {317}
 
 HOPE. Why art thou so tart, my brother? Esau sold his birthright, and
 that for a mess of pottage, and that birthright was his greatest jewel;
@@ -5364,8 +5285,7 @@ sell what they have, and themselves outright to boot; yet they that have
 faith, saving faith, though but a little of it, cannot do so. Here,
 therefore, my brother, is thy mistake.
 
-{318}
------
+### {318}
 
 HOPE. I acknowledge it; but yet your severe reflection had almost made
 me angry.
@@ -5393,8 +5313,7 @@ since this is the height of thy stomach, now they are at a distance from
 us, should they appear to thee as they did to him they might put thee to
 second thoughts.
 
-{319}
------
+### {319}
 
 [Christian tells his own experience in this case] But, consider again,
 they are but journeymen thieves, they serve under the king of the
@@ -5409,8 +5328,7 @@ harnessed, I found it hard work to quit myself like a man. No man can
 tell what in that combat attends us, but he that hath been in the battle
 himself.
 
-{320}
------
+### {320}
 
 HOPE. Well, but they ran, you see, when they did but suppose that one
 Great-grace was in the way.
@@ -5425,8 +5343,7 @@ David did? Or that there should be the strength of an ox in a wren? Some
 are strong, some are weak; some have great faith, some have little. This
 man was one of the weak, and therefore he went to the wall.
 
-{321}
------
+### {321}
 
 HOPE. I would it had been Great-grace for their sakes.
 
@@ -5437,8 +5354,7 @@ them; yet, if they get within him, even Faint-heart, Mistrust, or the
 other, it shall go hard but they will throw up his heels. And when a man
 is down, you know, what can he do?
 
-{322}
------
+### {322}
 
 Whoso looks well upon Great-grace’s face, shall see those scars and cuts
 there, that shall easily give demonstration of what I say. Yea, once I
@@ -5451,8 +5367,7 @@ brushed by them. Peter, upon a time, would go try what he could do; but
 though some do say of him that he is the prince of the apostles, they
 handled him so, that they made him at last afraid of a sorry girl.
 
-{323}
------
+### {323}
 
 [Leviathan’s sturdiness] Besides, their king is at their whistle. He is
 never out of hearing; and if at any time they be put to the worst, he,
@@ -5474,8 +5389,7 @@ fierceness and rage, neither believeth he that it is the sound of the
 trumpet. He saith among the trumpets, Ha, ha! and he smelleth the battle
 afar off, the thunder of the captains, and the shouting. [Job 39:19-25]
 
-{324}
------
+### {324}
 
 But for such footmen as thee and I are, let us never desire to meet with
 an enemy, nor vaunt as if we could do better, when we hear of others
@@ -5489,8 +5403,7 @@ as he?
 When, therefore, we hear that such robberies are done on the King’s
 highway, two things become us to do:
 
-{325}
------
+### {325}
 
 1. To go out harnessed, and to be sure to take a shield with us; for it
 was for want of that, that he that laid so lustily at Leviathan could
@@ -5499,8 +5412,7 @@ all. Therefore, he that had skill hath said, “Above all, taking the
 shield of faith, wherewith ye shall be able to quench all the fiery
 darts of the wicked.” [Eph. 6:16]
 
-{326}
------
+### {326}
 
 [It is good to have a convoy] 2. It is good, also, that we desire of the
 King a convoy, yea, that he will go with us himself. This made David
@@ -5511,8 +5423,7 @@ afraid of ten thousands that shall set themselves against us? [Ps.
 3:5-8, 27:1-3] But, without him, the proud helpers “fall under the
 slain”. [Isa. 10:4]
 
-{327}
------
+### {327}
 
 I, for my part, have been in the fray before now; and though, through
 the goodness of him that is best, I am, as you see, alive, yet I cannot
@@ -5525,8 +5436,7 @@ Poor Little-faith! Hast been among the thieves? Wast robb’d? Remember
 this, whoso believes, And gets more faith, shall then a victor be Over
 ten thousand, else scarce over three.
 
-{328}
------
+### {328}
 
 [A way, and a way] So they went on and Ignorance followed. They went
 then till they came at a place where they saw a way put itself into
@@ -5548,8 +5458,7 @@ white robe fell off the black man’s back. [They are taken in a net] Then
 they saw where they were. Wherefore, there they lay crying some time,
 for they could not get themselves out.
 
-{329}
------
+### {329}
 
 [They bewail their condition] CHR. Then said Christian to his fellow,
 Now do I see myself in error. Did not the Shepherds bid us beware of the
@@ -5584,8 +5493,7 @@ moreover, if the Shepherds did not bid them beware of the Flatterer?
 [Deceivers fine spoken] They answered, Yes, but we did not imagine, said
 they, that this fine-spoken man had been he. [Rom. 16:18]
 
-{330}
------
+### {330}
 
 [They are whipped and sent on their way] Then I saw in my dream that he
 commanded them to lie down; which, when they did, he chastised them
@@ -5601,8 +5509,7 @@ go astray. They caught are in an entangling net, ’Cause they good
 counsel lightly did forget: ’Tis true they rescued were, but yet you
 see, They’re scourged to boot. Let this your caution be.
 
-{331}
------
+### {331}
 
 Now, after a while, they perceived, afar off, one coming softly and
 alone, all along the highway to meet them. Then said Christian to his
@@ -5620,8 +5527,7 @@ CHR. We are going to Mount Zion.
 
 CHR. What is the meaning of your laughter?
 
-{332}
------
+### {332}
 
 ATHEIST. I laugh to see what ignorant persons you are, to take upon you
 so tedious a journey, and you are like to have nothing but your travel
@@ -5635,8 +5541,7 @@ world.
 
 CHR. But there is in the world to come.
 
-{333}
------
+### {333}
 
 ATHEIST. When I was at home in mine own country, I heard as you now
 affirm, and from that hearing went out to see, and have been seeking
@@ -5653,8 +5558,7 @@ have gone to seek it further than you), I am going back again, and will
 seek to refresh myself with the things that I then cast away, for hopes
 of that which, I now see, is not.
 
-{334}
------
+### {334}
 
 [Christian proveth his brother] CHR. Then said Christian to Hopeful his
 fellow, Is it true which this man hath said?
@@ -5671,8 +5575,7 @@ hear the instruction that causeth to err from the words of knowledge.”
 [Prov. 19:27] I say, my brother, cease to hear him, and let us “believe
 to the saving of the soul”. [Heb. 10:39]
 
-{335}
------
+### {335}
 
 [A fruit of an honest heart] CHR. My brother, I did not put the question
 to thee for that I doubted of the truth of our belief myself, but to
@@ -5684,8 +5587,7 @@ is of the truth”. [1 John 2:21]
 HOPE. Now do I rejoice in hope of the glory of God. So they turned away
 from the man; and he, laughing at them, went his way.
 
-{336}
------
+### {336}
 
 [They are come to the Enchanted Ground] I saw then in my dream, that
 they went till they came into a certain country, whose air naturally
@@ -5706,8 +5608,7 @@ Enchanted Ground? He meant by that that we should beware of sleeping;
 “Therefore let us not sleep, as do others, but let us watch and be
 sober.” [1 Thess. 5:6]
 
-{337}
------
+### {337}
 
 [He is thankful] HOPE. I acknowledge myself in a fault, and had I been
 here alone I had by sleeping run the danger of death. I see it is true
@@ -5733,8 +5634,7 @@ them, in any wise, Thus to keep ope their drowsy slumb’ring eyes.
 Saints’ fellowship, if it be managed well, Keeps them awake, and that in
 spite of hell.
 
-{338}
------
+### {338}
 
 [They begin at the beginning of their conversion] CHR. Then Christian
 began and said, I will ask you a question. How came you to think at
@@ -5763,8 +5663,7 @@ upon the children of disobedience”. [Eph.5:6]
 
 CHR. And did you presently fall under the power of this conviction?
 
-{339}
------
+### {339}
 
 [Hopeful at first shuts his eyes against the light] HOPE. No, I was not
 willing presently to know the evil of sin, nor the damnation that
@@ -5775,8 +5674,7 @@ thereof.
 CHR. But what was the cause of your carrying of it thus to the first
 workings of God’s blessed Spirit upon you?
 
-{340}
------
+### {340}
 
 [Reasons of his resisting the light] HOPE. The causes were, 1. I was
 ignorant that this was the work of God upon me. I never thought that, by
@@ -5795,8 +5693,7 @@ should be as bad, nay, worse, than I was before.
 
 CHR. Why, what was it that brought your sins to mind again?
 
-{341}
------
+### {341}
 
 [When he had lost his sense of sin, what brought this again] HOPE. Many
 things; as,
@@ -5818,8 +5715,7 @@ things; as,
 8. But especially, when I thought of myself, that I must quickly come to
 judgment.
 
-{342}
------
+### {342}
 
 CHR. And could you at any time, with ease, get off the guilt of sin,
 when by any of these ways it came upon you?
@@ -5834,8 +5730,7 @@ CHR. And how did you do then?
 endeavors to mend] HOPE. I thought I must endeavour to mend my life; for
 else, thought I, I am sure to be damned.
 
-{343}
------
+### {343}
 
 CHR. And did you endeavour to mend?
 
@@ -5850,8 +5745,7 @@ CHR. And did you think yourself well then?
 my trouble came tumbling upon me again, and that over the neck of all my
 reformations.
 
-{344}
------
+### {344}
 
 CHR. How came that about, since you were now reformed?
 
@@ -5878,8 +5772,7 @@ score; therefore I should think still, under all my present amendments,
 But how shall I be freed from that damnation that I have brought myself
 in danger of by my former transgressions?
 
-{345}
------
+### {345}
 
 CHR. A very good application: but, pray, go on.
 
@@ -5893,8 +5786,7 @@ though my former life had been faultless.
 
 CHR. And what did you do then?
 
-{346}
------
+### {346}
 
 [This made him break his mind to Faithful, who told him the way to be
 saved] HOPE. Do! I could not tell what to do, until I brake my mind to
@@ -5909,8 +5801,7 @@ amendment, I had called him fool for his pains; but now, since I see
 mine own infirmity, and the sin that cleaves to my best performance, I
 have been forced to be of his opinion.
 
-{347}
------
+### {347}
 
 CHR. But did you think, when at first he suggested it to you, that there
 was such a man to be found, of whom it might justly be said that he
@@ -5934,8 +5825,7 @@ the death also, not for himself, but for me; to whom his doings, and the
 worthiness of them, should be imputed, if I believed on him. [Heb. 10,
 Rom. 6, Col. 1, 1 Pet. 1]
 
-{348}
------
+### {348}
 
 CHR. And what did you do then?
 
@@ -5966,8 +5856,7 @@ that thou art willing to bestow him upon such a poor sinner as I am,
 magnify thy grace in the salvation of my soul, through thy Son Jesus
 Christ. Amen. [Exo. 25:22, Lev. 16:2, Num. 7:89, Heb. 4:16]
 
-{349}
------
+### {349}
 
 CHR. And did you do as you were bidden?
 
@@ -5997,8 +5886,7 @@ grace. And withal, this came into my mind, “Though it tarry, wait for
 it; because it will surely come, it will not tarry.” [Heb. 2:3] So I
 continued praying until the Father showed me his Son.
 
-{350}
------
+### {350}
 
 CHR. And how was he revealed unto you?
 
@@ -6012,8 +5900,7 @@ the Lord Jesus Christ look down from heaven upon me, and saying,
 “Believe on the Lord Jesus Christ, and thou shalt be saved.” [Acts
 16:30,31]
 
-{351}
------
+### {351}
 
 But I replied, Lord, I am a great, a very great sinner. And he answered,
 “My grace is sufficient for thee.” [2 Cor.12:9] Then I said, But, Lord,
@@ -6040,8 +5927,7 @@ him that will accept it for his salvation, and be thankful. And now was
 my heart full of joy, mine eyes full of tears, and mine affections
 running over with love to the name, people, and ways of Jesus Christ.
 
-{352}
------
+### {352}
 
 CHR. This was a revelation of Christ to your soul indeed; but tell me
 particularly what effect this had upon your spirit.
@@ -6057,8 +5943,7 @@ the honour and glory of the name of the Lord Jesus; yea, I thought that
 had I now a thousand gallons of blood in my body, I could spill it all
 for the sake of the Lord Jesus.
 
-{353}
------
+### {353}
 
 I saw then in my dream that Hopeful looked back and saw Ignorance, whom
 they had left behind, coming after. Look, said he to Christian, how far
@@ -6074,8 +5959,7 @@ CHR. That is true; but I warrant you he thinketh otherwise.
 HOPE. That, I think, he doth; but, however, let us tarry for him. So
 they did.
 
-{354}
------
+### {354}
 
 [Young Ignorance comes up again; their talk] Then Christian said to him,
 Come away, man, why do you stay so behind?
@@ -6089,8 +5973,7 @@ talk away the time in this solitary place. Then directing his speech to
 Ignorance, he said, Come, how do you? How stands it between God and your
 soul now?
 
-{355}
------
+### {355}
 
 [Ignorance’s hope, and the ground of it] IGNOR. I hope well; for I am
 always full of good motions, that come into my mind, to comfort me as I
@@ -6113,8 +5996,7 @@ CHR. That I doubt; for leaving all is a hard matter: yea, a harder
 matter than many are aware of. But why, or by what, art thou persuaded
 that thou hast left all for God and heaven.
 
-{356}
------
+### {356}
 
 IGNOR. My heart tells me so.
 
@@ -6142,8 +6024,7 @@ CHR. Ask my fellow if I be a thief! Thy heart tells thee so! Except the
 Word of God beareth witness in this matter, other testimony is of no
 value.
 
-{357}
------
+### {357}
 
 IGNOR. But is it not a good heart that hath good thoughts? and is not
 that a good life that is according to God’s commandments?
@@ -6163,8 +6044,7 @@ ourselves?
 
 CHR. Such as agree with the Word of God.
 
-{358}
------
+### {358}
 
 IGNOR. When do our thoughts of ourselves agree with the Word of God?
 
@@ -6185,8 +6065,7 @@ heart, so it passeth a judgment upon our ways; and when OUR thoughts of
 our hearts and ways agree with the judgment which the Word giveth of
 both, then are both good, because agreeing thereto.
 
-{359}
------
+### {359}
 
 IGNOR. Make out your meaning.
 
@@ -6198,8 +6077,7 @@ heart-humiliation, thus think, then hath he good thoughts of his own
 ways, because his thoughts now agree with the judgment of the Word of
 God.
 
-{360}
------
+### {360}
 
 IGNOR. What are good thoughts concerning God? CHR. Even as I have said
 concerning ourselves, when our thoughts of God do agree with what the
@@ -6214,8 +6092,7 @@ think that all our righteousness stinks in his nostrils, and that,
 therefore, he cannot abide to see us stand before him in any confidence,
 even in all our best performances.
 
-{361}
------
+### {361}
 
 IGNOR. Do you think that I am such a fool as to think God can see no
 further than I? or, that I would come to God in the best of my
@@ -6233,8 +6110,7 @@ renders thee to be one that did never see a necessity of Christ’s
 personal righteousness to justify thee before God. How, then, dost thou
 say, I believe in Christ?
 
-{362}
------
+### {362}
 
 IGNOR. I believe well enough for all that.
 
@@ -6246,8 +6122,7 @@ gracious acceptance of my obedience to his law. Or thus, Christ makes my
 duties, that are religious, acceptable to his Father, by virtue of his
 merits; and so shall I be justified.
 
-{363}
------
+### {363}
 
 CHR. Let me give an answer to this confession of thy faith:–
 
@@ -6271,8 +6146,7 @@ say, true faith accepteth; under the skirt of which, the soul being
 shrouded, and by it presented as spotless before God, it is accepted,
 and acquit from condemnation.
 
-{364}
------
+### {364}
 
 IGNOR. What! would you have us trust to what Christ, in his own person,
 has done without us? This conceit would loosen the reins of our lust,
@@ -6291,8 +6165,7 @@ imaginest.
 
 HOPE. Ask him if ever he had Christ revealed to him from heaven.
 
-{365}
------
+### {365}
 
 [Ignorance jangles with them] IGNOR. What! you are a man for
 revelations! I believe that what both you, and all the rest of you, say
@@ -6302,8 +6175,7 @@ HOPE. Why, man! Christ is so hid in God from the natural apprehensions
 of the flesh, that he cannot by any man be savingly known, unless God
 the Father reveals him to them.
 
-{366}
------
+### {366}
 
 [He speaks reproachfully of what he knows not] IGNOR. That is your
 faith, but not mine; yet mine, I doubt not, is as good as yours, though
@@ -6320,8 +6192,7 @@ awakened, then, see thine own wretchedness, and fly to the Lord Jesus;
 and by his righteousness, which is the righteousness of God, for he
 himself is God, thou shalt be delivered from condemnation.
 
-{367}
------
+### {367}
 
 [The talk broke up] IGNOR. You go so fast, I cannot keep pace with you.
 Do you go on before; I must stay a while behind.
@@ -6339,8 +6210,7 @@ Then Christian addressed thus himself to his fellow:–
 CHR. Well, come, my good Hopeful, I perceive that thou and I must walk
 by ourselves again.
 
-{368}
------
+### {368}
 
 So I saw in my dream that they went on apace before, and Ignorance he
 came hobbling after. Then said Christian to his companion, It pities me
@@ -6365,8 +6235,7 @@ good; and therefore they do desperately seek to stifle them, and
 presumptuously continue to flatter themselves in the way of their own
 hearts.
 
-{369}
------
+### {369}
 
 [The good use of fear] HOPE. I do believe, as you say, that fear tends
 much to men’s good, and to make them right, at their beginning to go on
@@ -6376,8 +6245,7 @@ CHR. Without all doubt it doth, if it be right; for so says the Word,
 “The fear of the Lord is the beginning of wisdom.” [Prov. 1:7, 9:10, Job
 28:28, Ps. 111:10]
 
-{370}
------
+### {370}
 
 HOPE. How will you describe right fear?
 
@@ -6400,8 +6268,7 @@ CHR. Why, art thou weary of this discourse?
 
 HOPE. No, verily, but that I would know where we are.
 
-{371}
------
+### {371}
 
 [Why ignorant persons stifle convictions] CHR. We have not now above two
 miles further to go thereon. But let us return to our matter. [In
@@ -6410,8 +6277,7 @@ them in fear are for their good, and therefore they seek to stifle them.
 
 HOPE. How do they seek to stifle them?
 
-{372}
------
+### {372}
 
 [In particular] CHR. 1. They think that those fears are wrought by the
 devil, (though indeed they are wrought of God); and, thinking so, they
@@ -6427,8 +6293,7 @@ them, wax presumptuously confident.
 4. They see that those fears tend to take away from them their pitiful
 old self-holiness, and therefore they resist them with all their might.
 
-{373}
------
+### {373}
 
 HOPE. I know something of this myself; for, before I knew myself, it was
 so with me.
@@ -6445,8 +6310,7 @@ religion then?
 [Where he dwelt] HOPE. Know him! yes, he dwelt in Graceless, a town
 about two miles off of Honesty, and he dwelt next door to one Turnback.
 
-{374}
------
+### {374}
 
 [He was towardly once] CHR. Right, he dwelt under the same roof with
 him. Well, that man was much awakened once; I believe that then he had
@@ -6461,8 +6325,7 @@ CHR. He told me once that he was resolved to go on pilgrimage, as we do
 now; but all of a sudden he grew acquainted with one Save-self, and then
 he became a stranger to me.
 
-{375}
------
+### {375}
 
 HOPE. Now, since we are talking about him, let us a little inquire into
 the reason of the sudden backsliding of him and such others.
@@ -6472,8 +6335,7 @@ CHR. It may be very profitable, but do you begin.
 [Reasons why towardly ones go back] HOPE. Well, then, there are in my
 judgment four reasons for it:–
 
-{376}
------
+### {376}
 
 1. Though the consciences of such men are awakened, yet their minds are
 not changed; therefore, when the power of guilt weareth away, that which
@@ -6492,8 +6354,7 @@ cool also. So then it comes to pass, that when their guilt and fear is
 gone, their desires for heaven and happiness die, and they return to
 their course again.
 
-{377}
------
+### {377}
 
 2. Another reason is, they have slavish fears that do overmaster them; I
 speak now of the fears that they have of men, for “the fear of man
@@ -6505,16 +6366,14 @@ what) the hazard of losing all, or, at least, of bringing themselves
 into unavoidable and unnecessary troubles, and so they fall in with the
 world again.
 
-{378}
------
+### {378}
 
 3. The shame that attends religion lies also as a block in their way;
 they are proud and haughty; and religion in their eye is low and
 contemptible, therefore, when they have lost their sense of hell and
 wrath to come, they return again to their former course.
 
-{379}
------
+### {379}
 
 4. Guilt, and to meditate terror, are grievous to them. They like not to
 see their misery before they come into it; though perhaps the sight of
@@ -6525,8 +6384,7 @@ are rid of their awakenings about the terrors and wrath of God, they
 harden their hearts gladly, and choose such ways as will harden them
 more and more.
 
-{380}
------
+### {380}
 
 CHR. You are pretty near the business, for the bottom of all is for want
 of a change in their mind and will. And therefore they are but like the
@@ -6537,8 +6395,7 @@ because, let but this man have his liberty, and he will be a thief, and
 so a rogue still, whereas, if his mind was changed, he would be
 otherwise.
 
-{381}
------
+### {381}
 
 HOPE. Now I have showed you the reasons of their going back, do you show
 me the manner thereof.
@@ -6574,8 +6431,7 @@ honest, that they may the more boldly do it through their example.
 being launched again into the gulf of misery, unless a miracle of grace
 prevent it, they everlastingly perish in their own deceivings.
 
-{382}
------
+### {382}
 
 Now I saw in my dream, that by this time the Pilgrims were got over the
 Enchanted Ground, and entering into the country of Beulah, whose air was
@@ -6600,8 +6456,7 @@ reward is with him!’ Here all the inhabitants of the country called
 them, \`The holy people, The redeemed of the Lord, Sought out’”, etc.
 [Isa. 62:11,12]
 
-{383}
------
+### {383}
 
 Now as they walked in this land, they had more rejoicing than in parts
 more remote from the kingdom to which they were bound; and drawing near
@@ -6613,8 +6468,7 @@ had a fit or two of the same disease. Wherefore, here they lay by it a
 while, crying out, because of their pangs, If ye find my beloved, tell
 him that I am sick of love.
 
-{384}
------
+### {384}
 
 But, being a little strengthened, and better able to bear their
 sickness, they walked on their way, and came yet nearer and nearer,
@@ -6628,8 +6482,7 @@ with the dainties. [Deut. 23:24] He also showed them there the King’s
 walks, and the arbours where he delighted to be; and here they tarried
 and slept.
 
-{385}
------
+### {385}
 
 Now I beheld in my dream that they talked more in their sleep at this
 time than ever they did in all their journey; and being in a muse
@@ -6638,8 +6491,7 @@ matter? It is the nature of the fruit of the grapes of these vineyards
 to go down so sweetly as to cause the lips of them that are asleep to
 speak.
 
-{386}
------
+### {386}
 
 So I saw that when they awoke, they addressed themselves to go up to the
 city; but, as I said, the reflection of the sun upon the city (for the
@@ -6649,8 +6501,7 @@ purpose. So I saw, that as I went on, there met them two men, in raiment
 that shone like gold; lso their faces shone as the light. [Rev. 21:18, 2
 Cor. 3:18]
 
-{387}
------
+### {387}
 
 These men asked the Pilgrims whence they came; and they told them. They
 also asked them where they had lodged, what difficulties and dangers,
@@ -6658,16 +6509,14 @@ what comforts and pleasures they had met in the way; and they told them.
 Then said the men that met them, You have but two difficulties more to
 meet with, and then you are in the city.
 
-{388}
------
+### {388}
 
 Christian then, and his companion, asked the men to go along with them;
 so they told them they would. But, said they, you must obtain it by your
 own faith. So I saw in my dream that they went on together, until they
 came in sight of the gate.
 
-{389}
------
+### {389}
 
 [Death] Now, I further saw, that betwixt them and the gate was a river,
 but there was no bridge to go over: the river was very deep. At the
@@ -6675,8 +6524,7 @@ sight, therefore, of this river, the Pilgrims were much stunned; but the
 men that went in with them said, You must go through, or you cannot come
 at the gate.
 
-{390}
------
+### {390}
 
 [Death is not welcome to nature, though by it we pass out of this world
 into glory\*] The Pilgrims then began to inquire if there was no other
@@ -6695,16 +6543,14 @@ King of the place.
 
 \*In the Resurrection of the Righteous. [Rev. 20:4-6]
 
-{391}
------
+### {391}
 
 They then addressed themselves to the water and, entering, Christian
 began to sink, and crying out to his good friend Hopeful, he said, I
 sink in deep waters; the billows go over my head, all his waves go over
 me! Selah.
 
-{392}
------
+### {392}
 
 [Christian’s conflict at the hour of death] Then said the other, Be of
 good cheer, my brother, I feel the bottom, and it is good. Then said
@@ -6738,8 +6584,7 @@ forsaken you; but are sent to try you, whether you will call to mind
 that which heretofore you have received of his goodness, and live upon
 him in your distresses.
 
-{393}
------
+### {393}
 
 [Christian delivered from his fears in death] Then I saw in my dream,
 that Christian was as in a muse a while. To whom also Hopeful added this
@@ -6757,8 +6602,7 @@ them; wherefore, being come out of the river, they saluted them, saying,
 We are ministering spirits, sent forth to minister for those that shall
 be heirs of salvation. Thus they went along towards the gate.
 
-{394}
------
+### {394}
 
 [They have put off mortality] Now you must note that the city stood upon
 a mighty hill, but the Pilgrims went up that hill with ease, because
@@ -6775,8 +6619,7 @@ Now, now, look how the holy pilgrims ride, Clouds are their chariots,
 angels are their guide: Who would not here for him all hazards run, That
 thus provides for his when this world’s done?
 
-{395}
------
+### {395}
 
 The talk they had with the Shining Ones was about the glory of the
 place; who told them that the beauty and glory of it was inexpressible.
@@ -6816,8 +6659,7 @@ judgment, because they were his and your enemies. [1 Thes. 4:13-16, Jude
 1:14, Dan. 7:9,10, 1 Cor. 6:2,3] Also, when he shall again return to the
 city, you shall go too, with sound of trumpet, and be ever with him.
 
-{396}
------
+### {396}
 
 Now while they were thus drawing towards the gate, behold a company of
 the heavenly host came out to meet them; to whom it was said, by the
@@ -6834,8 +6676,7 @@ sound. These trumpeters saluted Christian and his fellow with ten
 thousand welcomes from the world; and this they did with shouting, and
 sound of trumpet.
 
-{397}
------
+### {397}
 
 This done, they compassed them round on every side; some went before,
 some behind, and some on the right hand, some on the left, (as it were
@@ -6855,15 +6696,16 @@ joyful thoughts that they had about their own dwelling there, with such
 company, and that for ever and ever. Oh, by what tongue or pen can their
 glorious joy be expressed! And thus they came up to the gate.
 
-{398}
------
+### {398}
 
 Now, when they were come up to the gate, there was written over it in
 letters of gold, “Blessed are they that do his commandments, that they
 may have right to the tree of life, and may enter in through the gates
 into the city.” [Rev. 22:14]
 
-{399} Then I saw in my dream that the Shining Men bid them call at the
+### {399}
+
+Then I saw in my dream that the Shining Men bid them call at the
 gate; the which, when they did, some looked from above over the gate, to
 wit, Enoch, Moses, and Elijah, &c., to whom it was said, These pilgrims
 are come from the City of Destruction, for the love that they bear to
@@ -6875,8 +6717,7 @@ without the gate. The King then commanded to open the gate, “That the
 righteous nation,” said he, “which keepeth the truth, may enter in.”
 [Isa. 26:2]
 
-{400}
------
+### {400}
 
 Now I saw in my dream that these two men went in at the gate: and lo, as
 they entered, they were transfigured, and they had raiment put on that
@@ -6889,24 +6730,21 @@ voice, saying, “BLESSING AND HONOUR, AND GLORY, AND POWER, BE UNTO HIM
 THAT SITTETH UPON THE THRONE, AND UNTO THE LAMB, FOR EVER AND EVER.”
 [Rev. 5:13]
 
-{401}
------
+### {401}
 
 Now, just as the gates were opened to let in the men, I looked in after
 them, and, behold, the City shone like the sun; the streets also were
 paved with gold, and in them walked many men, with crowns on their
 heads, palms in their hands, and golden harps to sing praises withal.
 
-{402}
------
+### {402}
 
 There were also of them that had wings, and they answered one another
 without intermission, saying, “Holy, holy, holy is the Lord.” [Rev. 4:8]
 And after that they shut up the gates; which, when I had seen, I wished
 myself among them.
 
-{403}
------
+### {403}
 
 [Ignorance comes up to the river] Now while I was gazing upon all these
 things, I turned my head to look back, and saw Ignorance come up to the
