@@ -2,6 +2,7 @@
 title: "Zion"
 pdf: "zion.pdf"
 description: "one page study giving the Bible references and definitions for Zion, a word that means \"grace.\""
+tableofcontents: true
 template: topic.jade
 author: "R. B. Thieme, Jr., Pastor, Berachah Church, Houston, Texas"
 ---
