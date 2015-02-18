@@ -18,7 +18,7 @@ q = async.queue((page, callback) ->
     pandoc page.markdown, 'markdown', 'html5', ['--email-obfuscation=none', '--smart', '--section-divs'], (err, result) ->
       page._htmlraw = result
       callback err, page
-, 6)
+, 3)
 
 pandocRender = (page, callback) ->
   q.push page, (err, page) ->

@@ -1,22 +1,35 @@
-FROM octohost/wintersmith-nginx
+FROM octohost/nodejs
 
-RUN apt-get update
+RUN DEBIAN_FRONTEND=noninteractive apt-get update
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install software-properties-common
 
-RUN apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install pandoc
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install texlive-xetex 
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install texlive-fonts-recommended
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install texlive-latex-extra
 
-RUN apt-get install -y rubygems
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install ruby
 RUN gem install sass
 
-WORKDIR /srv/www
+RUN DEBIAN_FRONTEND=noninteractive add-apt-repository -y ppa:nginx/stable
+RUN DEBIAN_FRONTEND=noninteractive apt-get update
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install nginx
 
-ADD . /srv/www/
+RUN npm install wintersmith -g
 
-RUN cp -r /srv/www/pandoc ~/.pandoc
-RUN /srv/www/build-pdf.sh
+RUN mkdir /app
+WORKDIR /app
+
+ADD deploy/default /etc/nginx/sites-available/default
+ADD deploy/nginx.conf /etc/nginx/nginx.conf
+
+ADD . /app
+
 RUN npm install
-RUN wintersmith build
+
+RUN cp -r pandoc ~/.pandoc
 
 EXPOSE 80
 
-CMD nginx
-
+# VOLUMES_FROM
+CMD wintersmith build -o /srv/www && /app/build-pdf.sh /app /srv/www & nginx

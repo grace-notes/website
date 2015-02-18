@@ -1,11 +1,14 @@
 #!/bin/bash
 
-cd contents/topics
+SRC_DIR=$1
+BUILD_DIR=$2
+
+cd $SRC_DIR/contents/topics
 for TOPIC in *.md
 do
-  PDF="../../build/topics/$(basename $TOPIC | sed 's/\.md$/.pdf/')"
+  PDF="$BUILD_DIR/topics/$(basename $TOPIC | sed 's/\.md$/.pdf/')"
   if [ ! -f $PDF ]; then
-    echo "Creating pdf from $TOPIC..."
+    echo "Creating $PDF from $TOPIC..."
     pandoc -s $TOPIC --latex-engine=xelatex -o $PDF
   fi
 done
