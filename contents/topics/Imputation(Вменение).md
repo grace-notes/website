@@ -1,7 +1,7 @@
 ---
 title: "Вменение"
 pdf: "Вменение(Imputation).pdf"
-description: "Как Бог Отец "кредиты" наш грех ко Христу и Его праведность нам."
+description: "Как Бог Отец кредиты наш грех ко Христу и Его праведность нам."
 tableofcontents: false
 template: topic.jade
 ---
