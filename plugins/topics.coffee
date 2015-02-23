@@ -15,6 +15,7 @@ module.exports = (env, callback)->
           prev: if i > 0 then topics[i-1]
           next: if topics.length > ( i + 1 ) then topics[i+1]
         }
+    return {}
 
 
   do callback
