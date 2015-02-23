@@ -7,7 +7,7 @@ tableOfContents: true
 template: topic.jade
 ---
 
-##### Sources for this Study
+# Sources for this Study
 
 
 Schaff, Philip, History of the Christian Church, Volume I, Chapter III
@@ -18,7 +18,7 @@ Josephus, Flavius, Wars of the Jews
 
 Books of the New Testament
 
-##### Introduction
+# Introduction
 
 
 The acts of the apostles give us the external, the epistles the internal
@@ -38,7 +38,7 @@ This is the second idyll of Christianity. The Lake of Tiberias and its
 fishing barks had furnished the first. Now, a more powerful breeze,
 aspirations toward more distant lands, draw us out into the open sea.
 
-##### General Character of the Apostolic Age
+# General Character of the Apostolic Age
 
 
 The apostolic period extends from the day of Pentecost to the death of
@@ -79,7 +79,7 @@ Pharisees and Sadducees; with Stoics and Epicureans; with the temple and
 theater at Ephesus, with the court of the Areopagus at Athens and with
 Caesar’s palace in Rome.
 
-##### Sources of Information
+# Sources of Information
 
 
 The author of Acts records the heroic march of Christianity from the
@@ -110,7 +110,7 @@ discovery of any new authentic documents between the martyrdom of Peter
 and Paul and the death of John, and again between the death of John and
 the age of Justin Martyr and Irenaeus.
 
-##### Causes of Success
+# Causes of Success
 
 
 As to the numerical strength of Christianity at the close of the first
@@ -171,7 +171,7 @@ But every one of these causes, properly understood, points to the
 superior excellency and to the divine origin of the Christian religion,
 and this is the chief cause, which the Deistic historian omits.
 
-##### Significance of the Apostolic Age
+# Significance of the Apostolic Age
 
 
 The life of Christ is the divine human fountainhead of the Christian
@@ -225,7 +225,7 @@ three leading apostles represent not only the three stages of the
 apostolic church, but also as many ages and types of Christianity, and
 yet they are all present in every age and every type.
 
-##### The Representative Apostles.
+# The Representative Apostles.
 
 
 Peter, Paul and John stand out most prominently as the chosen three who
@@ -399,7 +399,7 @@ and death, as the giver of eternal life, as the divine harmony of
 conflicting creeds and schools, as the alpha and omega of the Christian
 faith.
 
-##### Chronology of the Apostolic Age
+# Chronology of the Apostolic Age
 
 
 The chronology of the apostolic age is partly certain, at least within a

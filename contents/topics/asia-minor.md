@@ -4,12 +4,11 @@ pdf: "asiaminor.pdf"
 description: "The land to which this name has been applied plays an important part in some periods of Bible history, and a central part in the history of the earliest Christian mission."
 tableOfContents: true
 template: topic.jade
+toc-depth: 3
 ---
 
 I. The Country
 --------------
-
-### A. Name ###
 
 The term “Asia Minor” does not occur in the Bible, nor is
 it known from Bible times. As a Latin phrase in its modern sense it is
@@ -36,7 +35,7 @@ very carefully distinguished in turn from the “Asia” of the NT, which is
 normally to be equated with the Roman administrative province often
 known as “proconsular Asia” in the West.
 
-### B. General Description ###
+### General Description ###
 
 The country forms an elevated land-bridge
 between central Asia and southeastern Europe, shaped and structured
@@ -102,7 +101,7 @@ the southeast. While eastern Pontus had a mild and very wet climate with
 prolific harvests, the highlands of the interior suffered long winters
 of extreme severity.
 
-### C. Routes ###
+### Routes ###
 
 The predominantly E-W grain of the country has determined
 the course of its principal roads and profoundly influenced the whole
@@ -157,7 +156,7 @@ journeys.
 II. History
 -----------
 
-### A. Early Times ###
+### Early Times ###
 
 Asia Minor has always been a bridge between peoples,
 a land subject to new invaders and influences, which have repeatedly
@@ -192,7 +191,7 @@ the several early Anatolian languages now known from the Hittite sites
 is a valuable and expanding source of knowledge of the ancient Near
 East. *See* Hittites.
 
-### B. Phrygians, Lydians, Persians, and Greeks ###
+### Phrygians, Lydians, Persians, and Greeks ###
 
 The end of the 2nd
 millennium was a time of confusion and migration. Troy was destroyed.
@@ -230,7 +229,7 @@ Persia. The repulse of the Persian attack on Greece under Xerxes in
 480/479 gave freedom to the Greek cities of Asia Minor during the time
 of Athenian greatness, but Sparta yielded them back to Persia in 386.
 
-### C. From Alexander to the Romans ###
+### From Alexander to the Romans ###
 
 Alexander the Great crossed the
 Hellespont in 334, winning all Asia Minor from the weakened control of
@@ -348,8 +347,6 @@ through the Aegean or Anatolian coastlands.
 IV. Asia Minor in New Testament Times
 -------------------------------------
 
-### General ###
-
 The country was now a political and ethnic complex with
 little intrinsic unity. There were old indigenous nations, whose lands
 were designated by traditional names still in current use: Lydia, Mysia,
@@ -372,7 +369,7 @@ purer monotheism, and opened the way for the Christian mission. A very
 rich and important synagogue of the 3rd cent a.d. has been excavated in
 Sardis.
 
-### B. Life and Religion ###
+### Life and Religion ###
 
 Greek city life in Asia Minor was superimposed
 on a very different Anatolian substratum. The ancient village system had
@@ -401,7 +398,7 @@ Pergamum and at Nicomedia in Bithynia (29 b.c.). Only later,
 particularly under Domitian (a.d. 81–96), did the enforcement of this
 cult become a matter of Roman policy.
 
-### A. Paul ###
+### Paul ###
 
 Paul was born in Tarsus, a great cosmopolitan university
 and commercial city, the capital of Cilicia. Though his education may
@@ -492,7 +489,7 @@ was ostensibly sent there to him. Some or all of the Captivity Epistles
 have often been ascribed to a hypothetical imprisonment in Ephesus, but
 this is questionable.
 
-### B. Peter and the General Epistles ###
+### Peter and the General Epistles ###
 
 1 Peter is addressed to the
 “Dispersion” in Pontus, Galatia, Cappadocia, Asia, and Bithynia (1 Pet.
@@ -515,7 +512,7 @@ On any view of 2 Peter it seems that 2 Pet. 3:1 is intended to refer to
 Minor. This cannot, however, be used to shed light on the destination of
 Jude.
 
-### C. The Johannine Literature ###
+### Johannine Literature ###
 
 This literature poses complex problems,
 but strong traditions link both the Fourth Gospel and the Epistles with
@@ -525,7 +522,7 @@ referred to John’s traditional opponent Cerinthus at Ephesus. It is
 hazardous to argue an Asian setting from such other supposed parallels
 as Nicolaitanism or the teaching opposed by Paul at Colossae.
 
-### D. The Revelation ###
+### The Revelation ###
 
 The book is addressed to “the seven churches of
 Asia” (Rev. 1:11; 2–3). These were certainly not the only churches of
@@ -555,7 +552,7 @@ Jewish and antinomian opponents. The Revelation is a classic document of
 an obscure phase of church history, and the study of contemporary Asia
 is a focal point of approach to it.
 
-### E. After the NT ###
+### After the NT ###
 
 It is beyond the scope of this article to relate
 in detail the later history of the Church in Asia Minor. Yet this land

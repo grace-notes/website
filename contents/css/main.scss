@@ -91,6 +91,20 @@ h5 {
   color: #888;
 }
 
+.next-prev {
+  text-align: left;
+  font-size: 50%;
+  margin: -10px 0 0;
+  padding: 0 0 10px;
+  a {
+    color: #aaa;
+  }
+  a + a {
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: 1px solid #ccc;
+  }
+}
 
 #TOC {
   > ul {

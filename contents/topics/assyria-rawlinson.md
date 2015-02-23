@@ -6,7 +6,7 @@ tableOfContents: true
 template: topic.jade
 ---
 
-##### Author  
+# Author  
 
 Canon George Rawlinson (23 November 1812 – 7 October 1902) was a 19th-century English scholar, historian, and Christian theologian. He was born at Chadlington, Oxfordshire, and was the younger brother of Sir Henry Rawlinson.
 
@@ -18,7 +18,7 @@ In 1872 he was appointed canon of Canterbury, and after 1888 he was rector of Al
 
 His chief publications are his translation of the History of Herodotus (in collaboration with Sir Henry Rawlinson and Sir John Gardiner Wilkinson), 1858–60; The Five Great Monarchies of the Ancient Eastern World, 1862–67; The Sixth Great Oriental Monarchy (Parthian), 1873; The Seventh Great Oriental Monarchy (Sassanian), 1875; Manual of Ancient History, 1869; Historical Illustrations of the Old Testament, 1871; The Origin of Nations, 1877; History of Ancient Egypt, 1881; Egypt and Babylon, 1885; History of Phoenicia, 1889; Parthia, 1893; Memoir of Major-General Sir HC Rawlinson, 1898. His lectures to an audience at Oxford University on the topic of the accuracy of the Bible in 1859 were published as the apologetic work The Historical Evidences of the Truth of the Scripture Records Stated Anew in later years. He was also contributor to the Speaker's Commentary, the Pulpit Commentary, Smith's Dictionary of the Bible, and various similar publications. He was the author of the article "Herodotus" in the 9th edition of the Encyclopædia Britannica.
 
-##### CHAPTER I.  Description of the Country
+# CHAPTER I.  Description of the Country
 
 The site of the second--or great Assyrian-monarchy was the upper portion of the Mesopotamian valley. The cities which successively formed its capitals lay, all of them, upon the middle Tigris; and the heart of the country was a district on either side that river, enclosed within the thirty-fifth and thirty-seventh parallels. By degrees these limits were enlarged; and the term Assyria came to be used, in a loose and vague way, of a vast and ill-defined tract extending on all sides from this central region. Herodotus considered the whole of Babylonia to be a mere district of Assyria. Pliny reckoned to it all Mesopotamia. Strabo gave it, besides these regions, a great portion of Mount Zagros (the modern Kurdistan), and all Syria as far as Cilicia, Judaea, and Phoenicia.
 
@@ -88,7 +88,7 @@ West of Assyria (according to the extent which has here been given to it), the b
 
 The tract south of Assyria was Chaldaea, of which a description has been given in an earlier portion of this volume. Naturally it was at once the weakest of the border countries, and the one possessing the greatest attractions to a conqueror. Nature had indeed left it wholly without defence; and though art was probably soon called in to remedy this defect, yet it could not but continue the most open to attack of the various regions by which Assyria was surrounded. Syria was defended by the Euphrates--at all times a strong barrier; Arabia, not only by this great stream, but by her arid sands and burning climate; Armenia and Kurdistan had the protection of their lofty mountain ranges. Chaldaea was naturally without either land or water barrier; and the mounds and dykes whereby she strove to supply her wants were at the best poor substitutes for Nature's bulwarks. Here again geographical features will be found to have had an important bearing on the course of history, the close connection of the two countries, in almost every age, resulting from their physical conformation.
 
-##### CHAPTER II. Climate and Productions
+# CHAPTER II. Climate and Productions
 
 "Assyria, celebritate et magnitudine, et multiformi feracitate ditissima."--AMM. MARC. xxiii
 
@@ -150,7 +150,7 @@ It is probable that in ancient times the animals domesticated by the Assyrians w
 
   If the Assyrians domesticated any bird, it would seem to have been the duck. Models of the duck are common, and seem generally to have been used for weights.  The bird is ordinarily represented with its head turned upon its back, the attitude of the domestic duck when asleep. The Assyrians seem to have had artificial ponds or stews, which are always represented as full of fish, but the forms are conventional, as has been already observed. Considering the size to which the carp and barbel actually grow at the present day, the ancient representations are smaller than might have been expected.
 
-##### CHAPTER III.  The People
+# CHAPTER III.  The People
 
 "The Assyrian was a cedar in Lebanon, fair of branches, and with a shadowing shroud, and of high stature; and his top was among the thick boughs. . . . Nor was any tree in the garden of God like unto him in his beauty."--EZEK. xxxi. 3 and 8.
 
@@ -180,7 +180,7 @@ According to the notions which the Greeks derived from Ctesias, and passed on to
 
 In mental power the Assyrians certainly deserve to be considered as among the foremost of the Asiatic races. They had not perhaps so much originality as the Chaldaeans, from whom they appear to have derived the greater part of their civilization; but in many respects it is clear that they surpassed their instructors, and introduced improvements which gave a greatly increased value and almost a new character to arts previously discovered. The genius of the people will best be seen from the accounts hereafter to be given of their language, their arts, and their system of government. If it must be allowed that these have all a certain smack of rudeness and primitive simplicity, still they are advances upon aught that had previously existed--not only in Mesopotamia--but in the world. Fully to appreciate the Assyrians, we should compare them with the much-lauded Egyptians, who in all important points are very decidedly their inferiors. The spirit and progressive character of their art offers the strongest contrast to the stiff, lifeless, and unchanging conventionalism of the dwellers on the Nile. Their language and alphabet are confessedly in advance of the Egyptian. Their religion is more earnest and less degraded. In courage and military genius their superiority is very striking; for the Egyptians are essentially an unwarlike people. The one point of advantage to which Egypt may fairly lay claim is the grandeur and durability of her architecture. The Assyrian palaces, magnificent, as they undoubtedly were, must yield the palm to the vast structures of Egyptian Thebes. No nation, not even Rome, has equalled Egypt in the size and solemn grandeur of its buildings. But, except in this one respect, the great African kingdom must be regarded as inferior to her Asiatic rival--which was indeed "a cedar in Lebanon, exalted above all the trees of the field--fair in greatness and in the length of his branches--so that all the trees that were in the garden of God envied him, and not one was like unto him in his beauty."
 
-##### CHAPTER IV.  The Capital
+# CHAPTER IV.  The Capital
 
 "Fuit et Ninus, imposita Tigri, ad solis occasum spectans, quondam clarissima."--PLIN. H. N. vi. 13.
 
@@ -222,7 +222,7 @@ The castellated rampart which thus surrounded and guarded Nineveh did not consti
 
 Such was the site, and such were the defences, of the capital of Assyria. Of its internal arrangements but little can be said at present, since no general examination of the space within the ramparts has been as yet made, and no ancient account of the interior has come down to us. We can only see that the side of the city which was most fashionable was the western, which immediately overhung the Tigris; since here were the palaces of the kings, and here seem also to have been the dwellings of the richer citizens; at least, it is on this side in the space intervening between Koyunjik and the northern rampart, that the only very evident remains of edifices--besides the great Mounds of Koyunjik and Nebbi-Yunus--are found. The river was no doubt the main attraction; but perhaps the western side was also considered the most secure, as lying furthest frown the quarter whence alone the inhabitants expected to be attacked, namely, the east. It is impossible at present to give any account of the character of the houses or the the direction of the streets. Perhaps the time may not be far distant when more systematic and continuous efforts will be made by the enterprise of Europe to obtain full knowledge of all the remains which still lie buried at this interesting site. No such discoveries are indeed to be expected as those which have recently startled the world but patient explorers would still be sure of an ample reward, were they to glean, after Layard in the field from which he swept so magnificent a harvest.
 
-##### CHAPTER V.  Language and Writing
+# CHAPTER V.  Language and Writing
 
 There has never been much difference of opinion among the learned with regard to the language spoken by the Assyrians. As the Biblical genealogy connected Asshur with Eber and Aram, while the Greeks plainly regarded the Syrians, Assyrians, and Babylonians as a single race, it was always supposed that the people thus associated must have possessed a tongue allied, more or less closely, to the Hebrew, the Syriac, and the Chaldee. These tongues were known to be dialectic varieties of a single form of speech the Semitic; and it was consequently the general belief, before any Assyrian inscriptions had been disinterred, that the Assyrian language was of this type, either a sister tongue to the three above mentioned, or else identical with some one of them. The only difficulty in the way of this theory was the supposed Medo-Persic or Arian character of a certain number of Assyrian royal names; but this difficulty was thought to be sufficiently met by a suggestion that the ruling tribe might have been of Median descent, and have maintained its own national appellatives, while the mass of the population belonged to a different race. Recent discoveries have shown that this last suggestion was needless, as the difficulty which it was intended to meet does not exist. The Assyrian names which either _history_ or the monuments have handed down to us are Semitic, and not Arian. It is only among the fabulous accounts of the Assyrian Empire put forth by Ctesias that Arian names, such as Xerxes, Arius, Armamithres, Mithraus, etc., are to be found.
 
@@ -264,7 +264,7 @@ The Semitic character of the vocabulary will probably be felt to be sufficiently
 
 [Illustration: Partial PAGE 178]
 
-##### CHAPTER VI.  Architecture and Other Arts
+# CHAPTER VI.  Architecture and Other Arts
 
 "Architecti multarum artium solertes."--Mos. CHOR. (De Assyriis) i. 15.
 
@@ -530,7 +530,7 @@ We have thus unimpeachable evidence as to the mode whereby the conveyance of hug
 
 We must conclude from these facts that the Assyrians had made considerable advances in mechanical knowledge, and were, in fact, acquainted, more or less, with most of the contrivances whereby heavy weights have commonly been moved and raised among the civilized nations of Europe. We have also evidence of their skill in the mechanical processes of shaping pottery and glass, of casting and embossing metals, and of cutting intaglios upon hard stones. Thus it was not merely in the ruder and coarser, but likewise in the more delicate processes, that they excelled. The secrets of metallurgy, of dyeing, enamelling, inlaying, glass-blowing, as well as most of the ordinary manufacturing processes, were known to them. In all the common arts and appliances of life, they must be pronounced at least on a par with the Egyptians, while in taste they greatly exceeded, not that nation only, but all the Orientals. Their "high art" is no doubt much inferior to that of Greece; but it has real merit, and is most remarkable considering the time when it was produced. It has grandeur, dignity, boldness, strength, and sometimes even freedom and delicacy; it is honest and painstaking, unsparing of labor, and always anxious for truth. Above all, it is not lifeless and stationary, like the art of the Egyptians and the Chinese, but progressive and aiming at improvement. To judge by the advance over previous works which we observe in the sculptures of the son of Esarhaddon, it would seem that if Assyria had not been assailed by barbaric enemies about his time, she might have anticipated by above a century the finished excellence of the Greeks.
 
-##### CHAPTER VII.  Manners and Customs
+# CHAPTER VII.  Manners and Customs
 
 "Whose arrows are sharp, and all their bows bent, their horses' hoofs shall be counted like flint, and their wheels like a whirlwind."--ISA. v. 28.
 
@@ -1056,7 +1056,7 @@ Halters of two kinds were employed. Sometimes they consisted of a mere simple no
 
 Such are the principal points connected with the peaceful customs of the Assyrians, on which the monuments recently discovered throw a tolerable amount of light. Much still remains in obscurity. It is not possible as yet, without drawing largely on the imagination, to portray in any completeness the private life even of the Assyrian nobles, much less that of the common people. All that can be done is to gather up the fragments which time has spared; to arrange them in something like order, and present them faithfully to the general reader, who, it is hoped, will feel a certain degree of interest in them severally, as matters of archeology, and who will probably further find that he obtains from them in combination a fair notion of the general character and condition of the race, of its mingled barbarism and civilization, knowledge and ignorance, art and rudeness, luxury and simplicity of habits. The novelist and even the essayist may commendably eke out the scantiness of facts by a free indulgence in the wide field of supposition and conjecture: but the historian is not entitled to stray into this enchanted ground. He must be content to remain within the tame and narrow circle of established fact. Where his materials are abundant. he is entitled to draw graphic sketches of the general condition of the people; but where they are scanty, as in the present instance, he must be content to forego such pleasant pictures, in which the coloring and the filling-up would necessarily be derived, not from authentic data, but from his own fancy.
 
-##### CHAPTER VIII.  Religion
+# CHAPTER VIII.  Religion
 
 "The graven image, and the molten image."--NAHUM i. 14
 
@@ -1224,7 +1224,7 @@ It is remarkable that the religious emblems of the Assyrian are almost always fr
 
 Such then was the general character of the Assyrian religion. We have no means of determining whether the cosmogony of the Chaldaeans formed any part of the Assyrian system, or was confined to the lower country. No ancient writer tells us anything of the Assyrian notions on this subject, nor has the decipherment of the monuments thrown as yet any light upon it. It would be idle therefore to prolong the present chapter by speculating upon a matter concerning which we have at present no authentic data.
 
-##### CHAPTER IX.  Chronology and History
+# CHAPTER IX.  Chronology and History
 
 The chronology of the Assyrian kingdom has long exercised, and divided, the judgments of the learned. On the one hand, Ctesias and his numerous followers--including, among the ancients, Cephalion, Castor, Diodorus Siculus, Nicolas of Damascus, Trogus Pompeius, Velleius Paterculus, Josephus, Eusebius, and Moses of Chorene; among the moderns, Freret, Rollin, and Clinton have given the kingdom a duration of between thirteen and fourteen hundred years, and carried hack its antiquity to a time almost coeval with the founding of Babylon; on the other, Herodotus, Volney, Ileeren, B. G. Niebuhr, Brandis, and many others, have preferred a chronology which limits the duration of the kingdom to about six centuries and a half, and places the commencement in the thirteenth century B.C. when a flourishing empire had already existed in Chaldaea, or Babylonia, for a thousand years, or more. The questions thus mooted remain still, despite of the volumes which have been written upon them, so far undecided, that it will be necessary to entertain and discuss theirs at some length in this place, before entering on the historical sketch which is needed to complete our account of the Second Monarchy.
 
@@ -1522,7 +1522,7 @@ Such was the result of the first combat between the two great powers of Asia and
 
 After the victories of Aroer and Raphia, the Assyrian monarch appears to have been engaged for some years in wars of comparatively slight interest towards the north and the north-east. It was not till B.C. 715, five years after his first fight with the Egyptians, that he again made an expedition towards the south-west, and so came once more into contact with nations to whose fortunes we are not wholly indifferent. His chief efforts on this occasion were directed against the peninsula of Arabia. The wandering tribes of the desert, tempted by the weak condition to which the Assyrian conquest had reduced Samaria, made raids, it appears, into the territory at their pleasure, and carried off plunder. Sargon determined to chastise these predatory bands, and made an expedition into the interior, where "he subdued the uncultivated plains of the remote Arabia, which had never before given tribute to Assyria," and brought under subjection the Thamudites, and several other Arab tribes, carrying off a certain number and settling them in Samaria itself, which thenceforth contained an Arab element in its population. Such an effect was produced on the surrounding nations by the success of this inroad, that their princes hastened to propitiate Sargon's favor by sending embassies, and excepting the position of Assyrian tributaries. The reigning Pharaoh, whoever he may have been, It-hamar, king of the Sabaeans, and Tsamsi, queen of the Arabs, thus humbled themselves, sending presents, and probably entering into engagements which bound them for the future.
 
-##### CHAPTER X.  Sargon’s Third Expedition
+# CHAPTER X.  Sargon’s Third Expedition
 
 Four years later (B.C. 711) Sargon led a third expedition into these parts, regarding it as important to punish the misconduct of the people of Ashdod. Ashdod had probably submitted after the battle of Raphia, and had been allowed to retain its native prince, Azuri. This prince, after awhile, revolted, withheld his tribute, and proceeded to foment rebellion against Assyria among the neighboring monarchs; whereupon Sargon deposed him, and made his brother Akhimit king in his place. The people of Ashdod, however, rejected the authority of Akhimit, and chose a certain Yaman, or Yavan, to rule over them, who strengthened himself by alliances with the other Philistine cities, with Judaea, and with Edom. Immediately upon learning this. Sargon assembled his army, and proceeded to Ashdod to punish the rebels; but, before his arrival, Yaman had fled away, and "escaped to the dependencies of Egypt, which" (it is said) "were under the rule of Ethiopia." Ashdod itself, trusting in the strength from which it derived its name, resisted; but Sargon laid siege to it and in a little time forced it to surrender. Yaman fled to Egypt, but his wife and children were captured and, together with the bulk of the inhabitants, were transported into Assyria, while their place was supplied by a number of persons who had been made prisoners in Sargon's eastern wars. An Assyrian governor was set over the town.
 

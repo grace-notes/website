@@ -8,27 +8,7 @@ template: topic.jade
 ---
 
 
-**The Apostolic Fathers**
-
-From International Standard Bible Encyclopedia
-
-[I. First Clement 1](#__RefHeading__3862_1840878105)
-
-[II. Second Clement 4](#__RefHeading__3864_1840878105)
-
-[III. Barnabas 5](#__RefHeading__3866_1840878105)
-
-[IV. Didache 7](#__RefHeading__3868_1840878105)
-
-[V. Ignatius 9](#__RefHeading__3870_1840878105)
-
-[VI. Polycarp 13](#__RefHeading__3872_1840878105)
-
-[VII. Martyrdom of Polycarp 14](#__RefHeading__3874_1840878105)
-
-[VIII. Papias 16](#__RefHeading__3876_1840878105)
-
-[IX. Shepherd of Hermas 17](#__RefHeading__3878_1840878105)
+*From International Standard Bible Encyclopedia*
 
 Any attempt to classify the Christian literature of the second and early
 third centuries under distinct headings is bound to be somewhat
@@ -74,7 +54,7 @@ With these considerations in mind, this article will confine itself to
 the works included in the series *The Apostolic Fathers: A New
 Translation and Commentary,* ed Robert M. Grant (1964).
 
-##### I. First Clement
+# I. First Clement
 
 
 This epistle is the earliest and best known of the so-called “Apostolic
@@ -213,7 +193,7 @@ Antioch does not hesitate to instruct the churches of Asia Minor. There
 is therefore no reason to assume that the authority reflected in 1
 Clement belonged to the Roman church in any exclusive way.
 
-##### II. Second Clement
+# II. Second Clement
 
 
 The designation of Clement’s epistle as “first” is really a misnomer,
@@ -273,7 +253,7 @@ will save both themselves and him their counsellor (15:1; cf. 19:1).
 Like the ancient prophets, he sees his own fate intertwined with those
 to whom he ministers.
 
-##### III. Barnabas
+# III. Barnabas
 
 
 Once again the title (the Epistle of Barnabas) is a misnomer. Though
@@ -400,7 +380,7 @@ in written form (21:1). Like the NT writers, the author knows that his
 readers are never too mature to be reminded of what they have been
 taught at conversion.
 
-##### IV. Didache
+# IV. Didache
 
 
 The longer title of this work, “The Teaching of the Lord, through the
@@ -514,7 +494,7 @@ the tradition found in the Bryennios MS. The parallels with Matthew and
 the references to bread or wheat gathered from the “mountains” (9:4)
 point in this direction, but no one really knows.
 
-##### V. Ignatius
+# V. Ignatius
 
 
 The letters of Ignatius, bishop of Antioch at the beginning of the 2nd
@@ -765,7 +745,7 @@ wickedness. Mary’s virginity and childbearing introduce nothing less
 than the manifestation of God to man “for the newness of eternal life”
 (19:3).
 
-##### VI. Polycarp
+# VI. Polycarp
 
 
 The letter of Polycarp bishop of Smyrna to the church at Philippi
@@ -842,7 +822,7 @@ them to particular needs or situations, much less to move out in any new
 directions. Polycarp’s epistle is of more interest for its sources than
 for itself.
 
-##### VII. Martyrdom of Polycarp
+# VII. Martyrdom of Polycarp
 
 This most ancient of Christian martyr accounts takes the form of a
 letter from the church of Smyrna to the church of Philomelium in
@@ -944,7 +924,7 @@ eternal throne … .” Whatever its claim to authenticity, this citation
 has caught the point of Polycarp’s confession (see 8:2; 9:2f). Not
 Caesar but Christ is Lord.
 
-##### VIII. Papias
+# VIII. Papias
 
 Papias, like Polycarp, was traditionally believed to have been a
 disciple of the apostle John (Irenaeus *Adv. haer.* v.33.4). He was
@@ -1025,7 +1005,7 @@ Papias seems to have been a person who was fascinated by eschatological
 hopes, especially when they involved extravagant and bizarre projections
 of certain features of the present life into the future.
 
-##### IX. Shepherd of Hermas
+# IX. Shepherd of Hermas
 
 The longest of the writings of the Apostolic Fathers is also one of the
 most remarkable. The Shepherd of Hermas is part novel and part
