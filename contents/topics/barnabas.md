@@ -7,7 +7,7 @@ template: topic.jade
 ---
 
 
-**Introduction**
+# Introduction #
 
 Barnabas was born in Cyprus and died in Salamis in the first century. His Jewish parents called him Joseph, but when he sold all his goods and gave the money to the apostles in Jerusalem, the Christians gave him a new name: Barnabas, which means son of consolation or man of encouragement. Although Barnabas was not among the original twelve, he is traditionally thought to have been among the seventy-two commissioned by Jesus to preach; thus, he is given the honorary title of apostle.
 
@@ -20,7 +20,7 @@ At Lystra in Lycaonia, they were thought to be gods because of the miracles they
 When they returned to Antioch, Barnabas wanted Paul and John Mark to continue their travels with him, but Paul fell out with John Mark, perhaps because John Mark had abandoned them at Perga. In spite of Paul’s extremely forceful character, Barnabas took Mark’s side, demonstrating that he was a man of considerable determination and courage. Acts 15:39 states, “_. . . there arose a sharp contention between them. Barnabas took Mark with him and sailed away to Cyprus._” Paul chose a new ally, Silas, and went elsewhere to strengthen the churches. Little more is heard of Barnabas though it is believed that the rift with Paul was healed because we read about Barnabas later in 1 Corinthians 9:6. Paul also discusses his relationship to Barnabas in his
 letter to the Galatians.
 
-**The Mission of Barnabas**
+# The Mission of Barnabas #
 
 When intelligence came to Jerusalem that Peter had broken through the restraints of the Jewish law and had even eaten at the table of the Gentiles (Acts 11:3), there was general surprise and displeasure among those of the circumcision. But when he explained to them all the transaction, they approved his conduct, and praised God for His mercy to the heathen (Acts 11:18). Soon news came from a greater distance which showed that the same unexpected change was operating more widely.
 
@@ -31,8 +31,7 @@ We ought to observe the honorable place which the island of Cyprus was permitted
 Whatever length of time had elapsed since Saul came from Jerusalem to Tarsus, and however that time had been employed by him, whether he had already founded any of those churches in his native Cilicia, which we read of soon after (Acts 15:41), whether he had there undergone any of those manifold labors and sufferings recorded by himself (2 Cor. 11) but omitted by Saint Luke, whether by active intercourse with the Gentiles, by study of their literature, by traveling, by discoursing with the
 philosophers, he had been making himself acquainted with their opinions and their prejudices, and so preparing his mind for the work that was before him, or whether he had been waiting in silence for the call of God’s providence, praying for guidance from above, reflecting on the condition of the Gentiles, and gazing more and more closely on the plan of the world’s redemption, however this may be, it must have been an eventful day when Barnabas, having come across the sea from Seleucia, or round by the defiles of Mount Amanus, suddenly appeared in the streets of Tarsus. The last time the two friends had met was in Jerusalem.  that they then hoped, and probably more than they then thought possible, (Acts 11:18) Barnabas had seen the grace of God (Acts 11:23) with his own eyes at Antioch, and under his own teaching a great multitude (Acts 11:24) had been added to the Lord. He needed assistance. He needed the presence of one whose wisdom was higher than his own, whose zeal was an example to all, and whose peculiar mission had been miraculously declared. Saul recognized the voice of God in the words of Barnabas, and the two friends traveled in all haste to the Syrian metropolis.
 
-**Traditions of Barnabas**
-
+# Traditions of Barnabas #
 
 Tradition says that Barnabas preached in Alexandria and Rome, and was stoned to death at Salamis about 61 A.D. He is considered the founder of the Cypriot church. The Order of Barnabites, founded by Saint Antony Zaccaria in Milan in 1530 A.D., took their name from their principal church named for Barnabas, who was once believed to have been the first bishop of Milan.
 

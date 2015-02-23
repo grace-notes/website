@@ -6,7 +6,7 @@ tableOfContents: false
 template: topic.jade
 ---
 
-**_Introduction_**
+# Introduction #
 
 The word baptize is from the Greek word **baptidzo** which means to
 identify or to be made one with. In early Greek, the word had both
@@ -38,22 +38,22 @@ Ritual Baptisms
 
 These seven baptisms are described in the sections below.
 
-**_Real Baptisms_**
+# Real Baptisms #
 
 A baptism is called real if it involves actually identifying a person
 with something or someone.
 
-**_The Baptism of Moses_**
+# The Baptism of Moses #
 
 The baptism of Moses was a double identification, the children of Israel are identified both with Moses and with the cloud (Jesus Christ) as they passed through the Red Sea. No water involved and remember, they went through the sea on dry land when the waters were parted. 1 Cor. 10:1, 2.
 
-**_The Baptism of the Cross or Cup_**
+# The Baptism of the Cross or Cup #
 
 Jesus Christ drank the cup filled with our sins. Another way of expressing it is that all the sins of the world were put into one cup and poured out on Christ while He was on the cross. God the Father judged our sins while they were on Christ. Christ was identified with our sin and He bore our sins on the cross. He was made sin for us. 2 Cor. 5:21; 1 Pet. 2:24.
 
 In Matt. 20:22 Jesus speaks of the cup he is to drink as he makes a reply to the mother of Zebedee’s children. In Matt. 26:39, He prays to the Father to “let this cup pass from me . . .” Nevertheless, He determined to drink from the cup, as seen in John 18:11, “the cup which my Father has given me, shall I not drink from it?”
 
-**_The Baptism of the Holy Spirit_**
+# The Baptism of the Holy Spirit #
 
 The baptism of the Holy Spirit is a real baptism. When a person accepts Christ as savior, he is placed into the body of Christ. He is identified as a believer. The mechanics are given in 1 Cor. 12:13.
 
@@ -78,7 +78,7 @@ behavior. The things that happen to believers at the moment of salvation
 are accomplished by the Holy Spirit, not by us, and these things are not
 experiences.
 
-**_The Baptism of Fire_**
+# The Baptism of Fire #
 
 A judgment is coming at the second coming of Christ when all nonbelievers are taken from the earth. They will join the rest of the unbelievers in torments also called Sheol, Hades and Hell to wait for the last judgment also called the great white throne judgment described in Revelation 20 at the end of the millennium. This removal of unbelievers for judgment is the baptism of fire.
 
@@ -102,7 +102,7 @@ The wise and foolish virgins - Matt. 25:1-13
 
 The sheep and the goats - Matt. 25:31-46
  
-**_Ritual Baptisms_**
+# Ritual Baptisms #
 
 A baptism is called a ritual baptism, or a ceremonial baptism, when
 water is used as a symbol for something else. It is a representative
@@ -110,7 +110,7 @@ identification. The individual is placed in the water, which means,
 symbolically, that he is identified with that which the water
 represents.
 
-**_The Baptism of John_** - Matt. 3:6-11 
+# The Baptism of John # - Matt. 3:6-11 
 
 Here the water is symbolic of the kingdom of God which John was
 preaching. When a person was baptized by John, he was testifying to his
@@ -123,13 +123,13 @@ from the time of Adam until the end of the millennium. At the time of
 John the Baptist, all believers were pre church age Christians, although
 many lived on into the church age which began at the day of Pentecost.
 
-**_The Baptism of Jesus_**
+# The Baptism of Jesus #
 
 When Jesus was baptized in the Jordan River by John the Baptist, water
 was symbolic of God’s will in salvation, namely that Jesus would go to
 the cross.
 
-**_Believer’s Baptism_**
+# Believer’s Baptism #
 
 Believer’s baptism is a symbolic act in which a believer proclaims his union with Jesus Christ. It represents death to sin, to the old way of life and resurrection to a new spiritual life in Christ (Rom 6:3, 4; Col 2:11-12, Titus 3:5).
 

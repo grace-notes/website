@@ -1,4 +1,5 @@
 ---
+indexTitle: david, covenant with
 title: The Covenant with David
 pdf: davidiccovenant.pdf
 tableOfContents: false

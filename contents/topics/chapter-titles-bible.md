@@ -6,16 +6,19 @@ tableOfContents: true
 template: topic.jade
 ---
 
-#### Genesis
+# Genesis
 
 1. Creation & Recreation
+
 2. Creation & Recreation Recap
+
 3. The Fall of Man
+
 4. Cain Murders Abel
+
 5. Genealogies
-6. The Flood
-7. The Flood
-8. The Flood
+
+6-8. The Flood
 
 9. The Rainbow & Capital Punishment
 
@@ -101,8 +104,7 @@ template: topic.jade
 
 50. Bones of Joseph (Jacob & Joseph Die)
 
-Exodus
-------
+# Exodus
 
 1. Slavery in Egypt
 
@@ -144,8 +146,7 @@ Exodus
 
 40. The Tabernacle is Set Up
 
-Leviticus
----------
+# Leviticus
 
 1-3. The Sweet Savor Offerings
 
@@ -197,10 +198,7 @@ b. Trespass Offering (5)
 
 27. Vows, First-Fruits, Dedications, the Tithe
 
---
-
-Numbers
--------
+# Numbers
 
 1. The Numbering of the Tribes
 
@@ -246,7 +244,7 @@ Numbers
 
 36. Inheritance Laws (Keep it in the Family)
 
-#### Deuteronomy
+# Deuteronomy
 
 1-3. Moses’ Sermon \#1
 
@@ -264,7 +262,7 @@ Numbers
 
 34. Moses’ Look at Canaan, Death, Burial
 
-#### Joshua
+# Joshua
 
 1. Joshua Assumes Leadership
 
@@ -306,7 +304,7 @@ Numbers
 
 24. Joshua’s Death
 
-#### Judges
+# Judges
 
 1. “Neither Did” Chapter
 
@@ -324,15 +322,15 @@ Numbers
 
 7. Gideon’s Victory, 300 Over Midian
 
-8. 1<sup>st</sup> Jealousy of Ephraim; Death of Gideon
+8. 1st Jealousy of Ephraim; Death of Gideon
 
 9. False King Abimelech
 
 10. The Wickedness of Israel
 
-11. Jephthah the 9<sup>th</sup> Judge
+11. Jephthah the 9th Judge
 
-12. 2<sup>nd</sup> Jealousy of Ephraim
+12. 2nd Jealousy of Ephraim
 
 13. Samson’s Parents
 
@@ -352,7 +350,7 @@ Numbers
 
 21. How to Catch a Wife
 
-#### Ruth
+# Ruth
 
 1. Ruth & Naomi Return to Judah from Moab
 
@@ -362,7 +360,7 @@ Numbers
 
 4. Ruth Marries Boaz
 
-***1***<sup>***st***</sup>***Samuel***
+# 1 Samuel
 
 1. Hannah and the Birth of Samuel
 
@@ -426,9 +424,7 @@ Numbers
 
 31. The Death of Saul
 
-####   
-
-#### 2<sup>nd</sup> Samuel
+# 2 Samuel
 
 1. Saul & Jonathan’s Death Told to David
 
@@ -478,7 +474,7 @@ Numbers
 
 24. David’s Numbering Sin
 
-#### 1st Kings
+# 1st Kings
 
 1. David Failing, Solomon Anointed
 
@@ -520,7 +516,7 @@ Numbers
 
 22. Micaiah—God’s Man of Conviction
 
-#### 2<sup>nd</sup> Kings
+# 2nd Kings
 
 1. Elijah—Illness & Death of Ahaziah
 
@@ -572,7 +568,7 @@ Numbers
 
 25. Babylon Captivity—Siege of Jerusalem
 
-#### 1st Chronicles
+# 1st Chronicles
 
 1-9. Genealogies
 
@@ -606,9 +602,7 @@ Numbers
 
 28-29. Closing Counsel of David, Teenage Solomon Reigns, David Dies
 
-####   
-
-#### 2nd Chronicles
+# 2nd Chronicles
 
 1. Solomon and His Wisdom
 
@@ -656,7 +650,7 @@ Numbers
 
 36. The Babylonian Captivity
 
-#### Ezra
+# Ezra
 
 1. Decree of Cyrus (Restoration of the Temple)
 
@@ -678,7 +672,7 @@ Numbers
 
 10. The Above Sin is Judged and Restitution Made
 
-##### Nehemiah
+# Nehemiah
 
 1. The Ruined Walls
 
@@ -702,7 +696,7 @@ Numbers
 
 13. The Law and Separation
 
-#### Esther
+# Esther
 
 1. Queen Vashti Disobeys the King
 
@@ -724,7 +718,7 @@ Numbers
 
 10. Mordecai, \#2 in the Kingdom
 
-#### Job
+# Job
 
 1. Job and Suffering (Family)
 
@@ -768,9 +762,7 @@ Numbers
 
 42. Job’s Confessions & Restoration
 
-####   
-
-#### Psalms
+# Psalms
 
 I. Division \#1: 1-41 (The Foundational Psalms)
 
@@ -1082,7 +1074,7 @@ V. Division \#5: 107-150
 
 150. Praise Ye the Lord
 
-#### Proverbs
+# Proverbs
 
 1. Introduction to Wisdom
 
@@ -1102,7 +1094,7 @@ V. Division \#5: 107-150
 
 31. A Virtuous Woman
 
-#### Ecclesiastes
+# Ecclesiastes
 
 1. Nothing Satisfies the Carnal Believer
 
@@ -1116,7 +1108,7 @@ V. Division \#5: 107-150
 
 12:13,14 Get Back in Fellowship & Walk with the Lord
 
-#### Song of Solomon
+# Song of Solomon
 
 1. Conversation Between Shulamite Woman and the Daughters of Jerusalem
 
@@ -1135,7 +1127,7 @@ Rival Lover Solomon in all His Glory.
 
 8. Shulamite Lover and Shepherd Lover Together Again in their Home Town.
 
-#### Isaiah
+# Isaiah
 
 1. Terrible Wickedness of Judah
 
@@ -1187,7 +1179,7 @@ Rival Lover Solomon in all His Glory.
 
 32-34. Preparation for Armageddon
 
-35. The Regathering of Israel (2<sup>nd</sup> Advent)
+35. The Regathering of Israel (2nd Advent)
 
 36-37. Assyrian Army Defeated
 
@@ -1209,9 +1201,7 @@ Rival Lover Solomon in all His Glory.
 
 65-66. New Heavens and New Earth
 
-####   
-
-#### Jeremiah
+# Jeremiah
 
 1. The Prophet’s Call
 
@@ -1303,7 +1293,7 @@ Rival Lover Solomon in all His Glory.
 
 52. Historical Appendix
 
-#### Lamentations
+# Lamentations
 
 1. The Departure of Judah
 
@@ -1315,7 +1305,7 @@ Rival Lover Solomon in all His Glory.
 
 5. The Deterrent for Judah
 
-#### Ezekiel
+# Ezekiel
 
 1. The Vision of the Glory of God
 
@@ -1375,7 +1365,7 @@ Rival Lover Solomon in all His Glory.
 
 47-48. The Millennial Land
 
-#### Daniel
+# Daniel
 
 1. The Wisdom of Daniel
 
@@ -1401,7 +1391,7 @@ Rival Lover Solomon in all His Glory.
 
 12. The Time of the End
 
-#### Hosea
+# Hosea
 
 1-3. Hosea’s Wife and Children
 
@@ -1427,9 +1417,7 @@ Rival Lover Solomon in all His Glory.
 
 14. Israel Shall Return to God
 
-####   
-
-#### Joel
+# Joel
 
 1. The Plague of Locusts
 
@@ -1437,7 +1425,7 @@ Rival Lover Solomon in all His Glory.
 
 3. Great Events of the Day of the Lord
 
-#### Amos
+# Amos
 
 1-2. Judgments on Surrounding Nations
 
@@ -1455,13 +1443,13 @@ Rival Lover Solomon in all His Glory.
 
 9. Future Kingdom Blessing of Restored Israel
 
-#### Obadiah
+# Obadiah
 
 1a. The Judgment of Edom
 
 1b. Restoration of Israel
 
-#### Jonah
+# Jonah
 
 1. Jonah’s Flight
 
@@ -1471,7 +1459,7 @@ Rival Lover Solomon in all His Glory.
 
 4. Jonah’s Chagrin
 
-#### Micah
+# Micah
 
 1. Samaria Doomed
 
@@ -1485,7 +1473,7 @@ Rival Lover Solomon in all His Glory.
 
 7. Desolation, But God Will Triumph
 
-#### Nahum
+# Nahum
 
 1. Ninevah Will Be Judged
 
@@ -1493,13 +1481,13 @@ Rival Lover Solomon in all His Glory.
 
 3. Further Reasons Why
 
-#### Habakkuk
+# Habakkuk
 
 1-2. The Prophet’s Two Dialogues with God
 
 3. The Prophet’s Prayer and Praise
 
-#### Zephaniah
+# Zephaniah
 
 1. The Judgment of God upon Judah
 
@@ -1507,14 +1495,14 @@ Rival Lover Solomon in all His Glory.
 
 3. Millennial Blessings in Israel
 
-#### Haggai
+# Haggai
 
 1. Two Messages: Rebuke & Commendation
 
 2. Three Messages: Encouragment, Blessing, & Destruction of Gentile
 Power
 
-#### Zechariah
+# Zechariah
 
 1-6a. Eight Night Visions
 
@@ -1526,7 +1514,7 @@ Power
 
 12-14. Second Advent and Acceptance of Messiah as King
 
-#### Malachi
+# Malachi
 
 1. Priests—Get Back into Fellowship
 
@@ -1536,9 +1524,7 @@ Power
 
 4. The Second Advent
 
-####   
-
-#### Matthew
+# Matthew
 
 1-2. The Birth and Reception of the King
 
@@ -1564,7 +1550,7 @@ Power
 
 28. The Resurrection of the King
 
-#### Mark
+# Mark
 
 1. Preparation of the Servant
 
@@ -1580,7 +1566,7 @@ Power
 
 16. Resurrection of the Servant
 
-#### Luke
+# Luke
 
 1-4. The Identification of the Son of Man with Men
 
@@ -1592,7 +1578,7 @@ Power
 
 24. The Resurrection of the Son of Man before Men
 
-#### John
+# John
 
 1. Christ the Word
 
@@ -1634,7 +1620,7 @@ Power
 
 21. Christ the Great Shepherd
 
-#### Acts
+# Acts
 
 1. Commission and Ascension
 
@@ -1660,13 +1646,13 @@ Power
 
 12. Peter in Prison
 
-13-14. 1<sup>st</sup> Missionary Journey
+13-14. 1st Missionary Journey
 
 15. Jerusalem Council
 
-16-18. 2<sup>nd</sup> Missionary Journey
+16-18. 2nd Missionary Journey
 
-19-20. 3<sup>rd</sup> Missionary Journey
+19-20. 3rd Missionary Journey
 
 21. Paul Arrives at Jerusalem
 
@@ -1684,7 +1670,7 @@ Power
 
 28. Rome
 
-#### Romans
+# Romans
 
 1. All Gentiles Under Sin
 
@@ -1712,7 +1698,7 @@ Power
 
 16. Paul’s Friends
 
-#### 1st Corinthians
+# 1st Corinthians
 
 1. Divisions
 
@@ -1746,9 +1732,7 @@ Power
 
 16. Closing Instructions
 
-####   
-
-#### 2nd Corinthians
+# 2nd Corinthians
 
 1. Paul’s Plan to Come to Corinth
 
@@ -1776,7 +1760,7 @@ Power
 
 13. Concluding Remarks
 
-#### Galatians
+# Galatians
 
 1. Gospel Perversion by False Teachers
 
@@ -1790,7 +1774,7 @@ Power
 
 6. Walk in the Spirit, Ministry to Others (outward)
 
-#### Ephesians
+# Ephesians
 
 1-2. The Doctrinal Wealth of the Christian
 
@@ -1798,7 +1782,7 @@ Power
 
 5-6. The Warfare of the Christian
 
-#### Philippians
+# Philippians
 
 1. The Mind of Paul
 
@@ -1808,7 +1792,7 @@ Power
 
 4. What Believers Should Think
 
-#### Colossians
+# Colossians
 
 1. 7 Superiorities of Christ
 
@@ -1818,7 +1802,7 @@ Power
 
 4. Godly Examples—Tychicus, Onesimus, Epaphras
 
-#### 1st Thessalonians
+# 1st Thessalonians
 
 1. Work of Faith, Labor of Love, Steadfastness of Hope
 
@@ -1830,7 +1814,7 @@ Power
 
 5. Peace and Safety—Then Sudden Destruction
 
-#### 2nd Thessalonians
+# 2nd Thessalonians
 
 1. Comfort in Persecution
 
@@ -1838,7 +1822,7 @@ Power
 
 3. Disorderly Christians and Busybodies
 
-#### 1st Timothy
+# 1st Timothy
 
 1. Legalism & Unsound Teaching Rebuked
 
@@ -1852,7 +1836,7 @@ Power
 
 6. The Christian in Business
 
-#### 2nd Timothy
+# 2nd Timothy
 
 1. Lois, Eunice, Timothy
 
@@ -1862,7 +1846,7 @@ Power
 
 4. Paul’s Thinking Two Months Before Death
 
-#### Titus
+# Titus
 
 1. Crete & Christianity
 
@@ -1872,11 +1856,11 @@ Power
 
 4. Rejection of Heretics
 
-#### Philemon
+# Philemon
 
 1. Effectual, Profitable Christianity
 
-#### Hebrews
+# Hebrews
 
 1. Angelic Conflict: Christ is Better than the Angels
 
@@ -1904,9 +1888,7 @@ Power
 
 13. Bearing His Reproach
 
-####   
-
-#### James
+# James
 
 1. Ask For Wisdom Chapter
 
@@ -1918,7 +1900,7 @@ Power
 
 5. Practical Pointers on Riches, Patience, & Prayer
 
-#### 1st Peter
+# 1st Peter
 
 1. The Trial of Your Faith is Precious
 
@@ -1930,7 +1912,7 @@ Power
 
 5. Christian Service—Leaders and People
 
-#### 2nd Peter
+# 2nd Peter
 
 1. The Great and Precious Promises
 
@@ -1938,7 +1920,7 @@ Power
 
 3. Burning of the Present Heavens and Earth
 
-#### 1st John
+# 1st John
 
 1-2. Christ is Light
 
@@ -1946,19 +1928,19 @@ Power
 
 5. Christ is Life
 
-#### 2nd John
+# 2nd John
 
 1. Truth vs. Error
 
-#### 3rd John
+# 3rd John
 
 1. Hospitality
 
-#### Jude
+# Jude
 
 1. Contending for the Faith
 
-#### Revelation
+# Revelation
 
 1. Introduction
 

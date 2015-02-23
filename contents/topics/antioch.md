@@ -9,7 +9,7 @@ template: topic.jade
 **from “The Life and Epistles of St. Paul,” by W. J. Conybeare and J. S.
 Howson**
 
-###### Description of Antioch
+# Description of Antioch
 
 In narrating the journeys of St. Paul, it will now be our duty to speak
 of Antioch, not Jerusalem, as his point of departure and return. Let us
@@ -119,7 +119,7 @@ Syrians by the Orontes had to thank him for many improvements and
 restorations in their city. Even the four years of his successor left
 behind them the aqueduct and the baths of Caligula.
 
-###### Character of the Inhabitants of Antioch
+# Character of the Inhabitants of Antioch
 
 The character of the inhabitants is easily inferred from the influences
 which presided over the city’s growth. Its successive enlargement by the
@@ -177,7 +177,7 @@ dislocated crags which still rise above the Orontes are greatly altered
 in form from the fort-crowned heights of Seleucus or Tiberius, Justinian
 or Tancred.
 
-###### from an article in the Thompson Chain Reference Bible.
+# from an article in the Thompson Chain Reference Bible.
 
 **Antioch**, where followers of Christ were first called Christians, is
 located some three hundred miles north of Jerusalem, on the west bank of
@@ -208,7 +208,7 @@ sixth century. Most scholars, however, favor a date of from the fourth
 or fifth century. The double cup is now in the Cloisters, New York City,
 and is famed as The Chalice of Antioch.
 
-###### Antioch (from Encyclopedia Britannica)
+# Antioch (from Encyclopedia Britannica)
 
 Turkish ANTAKYA, populous city of ancient Syria, and now a major town of
 south-central Turkey. It lies near the mouth of the Orontes River, about

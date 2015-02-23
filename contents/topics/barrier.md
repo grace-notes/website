@@ -16,7 +16,7 @@ cross, fulfilled God’s requirements for a perfect sacrifice; and the
 effect was to remove all impediments to our receiving eternal life and
 having fellowship with God.
 
-##### Reconciliation
+# Reconciliation
 
 The word reconciliation refers to the process of changing something
 thoroughly and adjusting it to something else that is a standard. For
@@ -85,7 +85,7 @@ reconciliation, 2 Cor. 5:18–19. The truth of reconciliation is one of
 the key salvation doctrines to be used in witnessing to those without
 Christ.
 
-##### Propitiation
+# Propitiation
 
 Propitiation is the work of the Lord Jesus Christ by which He appeases
 the wrath of God and conciliates Him who would otherwise be offended by
@@ -155,7 +155,7 @@ tabernacle was the dwelling place of God on earth, and God was
 unapproachable by sinful men. The main lessons being taught had to do
 with the perfection of God and the sinfulness of man.
 
-##### The Furniture of the Tabernacle
+# The Furniture of the Tabernacle
 
 **Brazen Altar** – This altar was the beginning of a person’s approach
 to God. Animal sacrifices made there taught that substitutionary
@@ -256,7 +256,7 @@ between man and God. The only issue, both for the Old Testament and New
 Testament believers, is “believe on the Lord Jesus Christ, and thou
 shalt be saved.” (Acts 16:31)
 
-##### The Barrier
+# The Barrier
 
 The word “barrier” has been coined by Bible teachers (it is not a Bible
 word) to refer to those characteristics of man and of God which cause

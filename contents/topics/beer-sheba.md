@@ -14,7 +14,7 @@ template: topic.jade
 *Bērsabee*; Eusebius (Onom 166.20f) equates Gk *phrear horkismou*—‘well
 of swearing’]. A site of major importance in the northern Negeb desert.
 
-##### I. Significance of the Name
+# I. Significance of the Name
 
 The name of this venerable town means literally “the well of seven.” The
 Semitic words for “oath” and “swear an oath” are derived from the
@@ -32,7 +32,7 @@ honor of this occasion, Isaac named the new well *šiḇ‘â*, the numeral
 seven (masc). “Therefore the name of the city is Beer-sheba to this day”
 (Gen. 26:33).
 
-##### II. Geographical Situation
+# II. Geographical Situation
 
 The site of biblical Beer-sheba has been identified with Tell es-Seba‘,
 also known as Tell el-’Imshash, “mound of the wells,” located at the
@@ -65,7 +65,7 @@ Therefore, the southern boundary of settlement varied from N to S in
 accordance with prevailing weather conditions. This territory, of which
 Beer-sheba was the topographical pivot, embraced the biblical Negeb.
 
-##### III. Chalcolithic Culture
+# III. Chalcolithic Culture
 
 Extensive Chalcolithic settlement in the immediate vicinity of
 Beer-sheba is evidenced by numerous small mounds on both sides of the
@@ -77,7 +77,7 @@ Chalcolithic culture in this region has no connection with any of the
 events or peoples referred to in the Bible even though Chalcolithic
 sherds have also been found at Tell es-Seba‘.
 
-##### IV. Patriarchal Associations
+# IV. Patriarchal Associations
 
 More than a millennium separated the biblical patriarchs from the
 Chalcolithic occupants of Beer-sheba. The Genesis accounts make no
@@ -111,7 +111,7 @@ have taken place there (28:10). But upon his return to Canaan, Jacob
 found his father at Hebron (35:27); Jacob evidently made this latter
 place his own headquarters until his descent to Egypt (cf. 46:1–7).
 
-##### V. Southern Extremity of Israelite Territory
+# V. Southern Extremity of Israelite Territory
 
 From early in the period of settlement by the Israelite tribes
 Beer-sheba was reckoned as the southernmost extremity of the territory,
@@ -133,7 +133,7 @@ own Judean kingdom extended “from Geba to Beer-sheba” (2 K. 23:8).
 During the postexilic period Beer-sheba continued to mark the southern
 extent of Judean settlement (Neh. 11:30).
 
-##### VI. Capital of the Negeb
+# VI. Capital of the Negeb
 
 Beer-sheba was assigned to the tribe of Simeon (Josh. 19:2; 1 Ch. 4:28);
 but since that tribe had become so closely affiliated with Judah (Jgs.
@@ -169,7 +169,7 @@ and of Josiah (2 K. 23:8), it has been suggested that the capital of the
 Negeb of Judah was moved late in the Iron Age to the powerful fortress
 at Khirbet Gharrah, about 8 mi (13 km) E of Beer-sheba.
 
-##### VII. Postexilic Period
+# VII. Postexilic Period
 
 The presence of a Judean population at Beer-sheba and other neighboring
 towns is indicated by the book of Nehemiah (11:27), and the general
@@ -181,7 +181,7 @@ Judean hill country (the Idumeans of NT times), suggests that perhaps
 the residents of these towns (and of the others in Neh. 11:25–35) may
 have escaped the Babylonian Exile.
 
-##### VIII. Later History
+# VIII. Later History
 
 In spite of the presence of Jewish settlements, it is quite possible
 that Beer-sheba had become absorbed into Idumea during the
@@ -189,7 +189,7 @@ intertestamental period. Under the Romans Beer-sheba was a major
 military center on the defense line that spanned southern Palestine from
 Raphia to the Dead Sea (Eusebius Onom 50.1).
 
-##### IX. Archeological Excavations
+# IX. Archeological Excavations
 
 Besides the excavation of the prehistoric Chalcolithic settlements along
 the stream bed there have been several trial digs in the modern town of
@@ -317,7 +317,7 @@ a shipment of supplies to Beer-sheba and the reference to Josiah’s rule
 “from Geba to Beer-sheba” (2 K. 23:8) evidently refer to one of these
 unwalled towns, since the fortified city was in ruins.
 
-##### Bibliography
+# Bibliography
 
 Y. Aharoni, “The Negeb,” in D. Winton Thomas, ed, *Archaeology and OT
 Study* (1967), pp. 384–403; IEJ, 8 (1958), 26–38; 19 (1969), 245–47; 20
