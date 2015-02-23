@@ -4,14 +4,10 @@ block header
   h1 Topics Library
 
 block content
-  - var topics = Object.keys(contents.topics).map( function(a) {
-  -   return contents.topics[a];
-  - }).filter( function(a) {
-  -   return a.template == 'topic.jade';
-  - }).sort( function(a,b) {
-  -   var titleA = a.metadata.indexTitle || a.title;
-  -   var titleB = b.metadata.indexTitle || b.title;
-  -   return titleA.trim().toLowerCase().localeCompare(titleB.trim().toLowerCase(), null, { sensitivity: "base" } );
+  - topics = env.helpers.getSortedTopics(contents);
+  - topics.forEach(function(t, i){
+  -   if (i > 1) t.prevTopic = topics[i-1];
+  -   if (i < topics.length - 1) t.nextTopic = topics[i+1]
   - });
   ul.topic-index
     - var alphabet = {}, title;
