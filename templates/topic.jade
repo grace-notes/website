@@ -13,9 +13,10 @@ block header
   - nextprev = env.helpers.getNextPrevTopics(page, contents);
   div.next-prev
     if nextprev.prev
-      a(href=nextprev.prev.url)!= "&lt; " + nextprev.prev.title
+      a(href=nextprev.prev.url).prev!= "&lt; " + nextprev.prev.title
     if nextprev.next
-      a(href=nextprev.next.url)!= nextprev.next.title + " &gt;"
+      a(href=nextprev.next.url).next!= nextprev.next.title + " &gt;"
+
   h1= page.title
   if page.metadata.subtitle
     div.subtitle= page.metadata.subtitle

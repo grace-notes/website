@@ -31,20 +31,15 @@ block content
       - attributes.id = id
     article.listing&attributes(attributes)
       header.clearfix
-        h2.pull-left= title
-        ul.nav.nav-pills.pull-right
-          if topic.html
-            li: a(
-              href=topic.url,
-              title="html view of "+topic.title
-            ).label.label-info view html &nbsp;
-              i.fa.fa-file-code-o
-          if topic.metadata && topic.metadata.pdf
-            li: a(
-              href="http://www.gracenotes.info/documents/TOPICS_DOC/"+topic.metadata.pdf,
-              title="pdf download of "+topic.title
-            ).label.label-info view pdf &nbsp;
-              i.fa.fa-file-pdf-o
+        h2: a(href=topic.url)= title
+        div.topic-links
+          a( href=topic.url, title="html view of "+topic.title)
+            i.fa.fa-eye
+            | &nbsp;view online
+          | &nbsp;
+          a( href=topic.url.replace(/\.html$/, '.pdf'), title="pdf download of "+topic.title)
+            i.fa.fa-file-pdf-o
+            | &nbsp;view pdf
       if topic.metadata && topic.metadata.description
         p.text-muted.description= topic.metadata.description
   script(src="/topics/toc.js")

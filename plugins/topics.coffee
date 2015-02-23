@@ -12,8 +12,8 @@ module.exports = (env, callback)->
     for topic, i in topics
       if thisTopic is topic
         return {
-          prev: if i > 1 then topics[i-1]
-          next: if topics.length > i + 1 then topics[i+1]
+          prev: if i > 0 then topics[i-1]
+          next: if topics.length > ( i + 1 ) then topics[i+1]
         }
 
 

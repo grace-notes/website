@@ -99,10 +99,11 @@ h5 {
   a {
     color: #aaa;
   }
-  a + a {
-    margin-left: 10px;
-    padding-left: 10px;
-    border-left: 1px solid #ccc;
+  .next {
+    float: right;
+  }
+  .prev {
+    float: left;
   }
 }
 
@@ -324,6 +325,7 @@ article.listing {
     .date {
       float: right;
     }
+    p, li { margin-bottom: 0; }
   }
   border-top: 1px dotted rgba(0,0,0,0.1);
 }
@@ -548,7 +550,7 @@ p code {
 
 .topic-index {
   list-style-type: none;
-  padding: 0;
+  padding: 0.3em;
   margin: 1em auto;
   text-align: center;
   li {
@@ -559,7 +561,7 @@ p code {
       box-sizing: border-box;
       padding: 10px 15px;
       margin: 4px;
-      width: 6%;
+      min-width: 6%;
       &:hover {
         color: white;
         background: rgba(0,0,0,0.4);
