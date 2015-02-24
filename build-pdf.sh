@@ -8,5 +8,5 @@ for TOPIC in *.md
 do
   PDF="$BUILD_DIR/topics/$(basename $TOPIC | sed 's/\.md$/.pdf/')"
   echo "Creating $PDF from $TOPIC..."
-  pandoc -s $TOPIC --latex-engine=xelatex -o $PDF
+  pandoc --smart -s $TOPIC --latex-engine=xelatex -o $PDF
 done
