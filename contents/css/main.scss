@@ -313,21 +313,32 @@ footer .copy, footer .copy a {
 }
 
 article.listing {
+  padding: 15px;
+  margin: 0 -15px;
   header {
-    margin: 0.8em 0 0.2em;
+    margin: 0;
     h2 {
       margin: 0;
       font-weight: 700;
-      a {
+      > a {
         text-decoration: none;
+        color: inherit;
+      }
+      .btn-group {
+        vertical-align: top;
       }
     }
     .date {
       float: right;
     }
-    p, li { margin-bottom: 0; }
   }
-  border-top: 1px dotted rgba(0,0,0,0.1);
+  p, li { margin-bottom: 0; }
+  footer {
+    margin: 8px 0;
+  }
+  &:nth-child(2n) {
+    background: #eee;
+  }
 }
 
 .article header h2 a {

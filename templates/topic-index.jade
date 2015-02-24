@@ -1,7 +1,7 @@
 extends layout
 
 block header
-  h1 Topics Library
+  h1 Topic Library
 
 block content
   - topics = env.helpers.getSortedTopics(contents);
@@ -31,17 +31,16 @@ block content
       - attributes.id = id
     article.listing&attributes(attributes)
       header.clearfix
-        h2: a(href=topic.url)= title
-        div.topic-links
-          a( href=topic.url, title="html view of "+topic.title)
-            i.fa.fa-eye
-            | &nbsp;view online
-          | &nbsp;
-          a( href=topic.url.replace(/\.html$/, '.pdf'), title="pdf download of "+topic.title)
-            i.fa.fa-file-pdf-o
-            | &nbsp;view pdf
+        h2
+          a(href=topic.url)= title
       if topic.metadata && topic.metadata.description
         p.text-muted.description= topic.metadata.description
+      footer.clearfix
+        div.btn-group.topic-links
+          a( href=topic.url, title="html view of "+topic.title).btn.btn-default.btn-sm view online
+          a( href=topic.url.replace(/\.html$/, '.pdf'), title="pdf download of "+topic.title).btn.btn-default.btn-sm
+            i.fa.fa-file-pdf-o
+            | &nbsp; view pdf
   script(src="/topics/toc.js")
 
 
