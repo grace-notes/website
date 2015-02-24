@@ -5,12 +5,13 @@ pdf: "divinedecree.pdf"
 description: 'The classic definition comes from R.B. Thieme, Jr.: "The decree of God is His eternal (always existed), holy (perfect integrity), wise (the application of omniscience to creation), and sovereign purpose, comprehending simultaneously all things that ever were or will be in their causes, conditions (status), successions (interaction with others that leads to certain decisions), relations, and determining their certain futurition."'
 tableOfContents: false
 template: topic.jade
+singleColumnPdf: true
 ---
 
 
-# I. Glossary.
+## I. Glossary.
 
-A. Calling.
+### A. Calling.
 
   1. A call is the extension of a divine grace offer to any individual. It is also divine guidance.
 
@@ -28,7 +29,7 @@ A. Calling.
 
   8. Galatians 1:15 makes it clear that the means of the calling is grace, and the content of the call is truth (2 Thessalonians 2:14 cf. 1 Thessalonians 1:4f.; Romans 10:14ff.).
 
-B. The Divine Decree.
+### B. The Divine Decree.
 
   1. This is the sum total of the expression of divine sovereignty in human history.
 
@@ -45,7 +46,7 @@ B. The Divine Decree.
 
   4. Note this distinction: God has given the conditions of human history certain futurition. Not the events.
 
-C. Election.
+### C. Election.
 
   1. Election is the choosing action of God toward certain individuals in the human race.
 
@@ -59,7 +60,7 @@ C. Election.
 
   6. There is no special election of believers.
 
-D. Foreknowledge.
+### D. Foreknowledge.
 
   1. God knows all things from eternity past; He knows all possibilities of human history before they exist.
 
@@ -69,7 +70,7 @@ D. Foreknowledge.
 
   4. In foreknowledge, the pre-set conditions of the decree are combined with the knowledge of human events.
 
-E. Kenosis.
+### E. Kenosis.
 
   1. God is perfect and infinite; He is omnipotent, and has the power to perform any act.
 
@@ -79,7 +80,7 @@ E. Kenosis.
 
   4. Kenosis acts as the protection for all of God’s interaction with His creatures.
 
-F. Lapsarianism.
+### F. Lapsarianism.
 
   1. Lapsarianism is an observation of the logical order of the conditions of human history, as set forth in the divine decree.
 
@@ -89,7 +90,7 @@ F. Lapsarianism.
 
   4. Lapsarianism, then, deals with the order of the decrees. It deals with the logical rather than with the chronological order of the decrees. By logical is meant that although the entire decree is one thought in the mind of God, the principle of cause and effect is involved.
 
-G. Law of Volitional Responsibility.
+### G. Law of Volitional Responsibility.
 
   1. This is one of the primary conditions of human history, as set forth by the divine decree.
 
@@ -97,7 +98,7 @@ G. Law of Volitional Responsibility.
 
   3. God promised from eternity past that humanity would receive justice according to their decisions, all in good measure.
 
-H. Predestination/Foreordination.
+### H. Predestination/Foreordination.
 
   1. This is synonomous with election. In eternity past, God set forth His desire of the highest and best for every human being.
 
@@ -109,7 +110,7 @@ H. Predestination/Foreordination.
 
   5. Predestination always sets God’s highest and best for you from your current position, morally, spiritually, and physically.
 
-# I. Providence.
+## I. Providence.
 
   1. The is the anticipation of grace for all the possibilities of our lives.
 
@@ -119,7 +120,7 @@ H. Predestination/Foreordination.
 
   4. Providence is infallible and all-powerful, surpassing all human limitations.
 
-J. Sovereignty.
+### J. Sovereignty.
 
   1. This is the infinite and perfect divine volition.
 
@@ -135,9 +136,9 @@ J. Sovereignty.
 
   7. God is fully qualified to exercise His sovereignty because of His infinity and perfection.
 
-# II. The Integrity of God in Interaction with Mankind.
+## II. The Integrity of God in Interaction with Mankind.
 
-A. The divine responsibility toward creatures and creation.
+### A. The divine responsibility toward creatures and creation.
 
   1. Sometime in the distant past, God created angels. As a part of His conflict with angels, he created man.
 
@@ -153,7 +154,7 @@ A. The divine responsibility toward creatures and creation.
 
   7. What we must look for in Scripture are passages that demand the foreordination of all the specific events of our lives. If we cannot find them, then we must prefer an alternative, due to the character of God approach.
 
-B. Motive. 
+### B. Motive. 
 
   1. God’s motive is always love; He wants the best for all of His creatures, and that is to have a relationship with Him.
 
@@ -163,31 +164,31 @@ B. Motive.
 
   4. Human ignorance is not a very complete answer; for even with ignorance plus foreordination, there is still puppetry from the viewpoint of the angels.
 
-# III. Reasons why foreordination violates the integrity of God.
+## III. Reasons why foreordination violates the integrity of God.
 
-A. Because it violates the principle of free will.
+### A. Because it violates the principle of free will.
 
-B. Because it violates a proper angelic conflict, with demonic interaction. It is a sham if there is no free will.
+### B. Because it violates a proper angelic conflict, with demonic interaction. It is a sham if there is no free will.
 
-C. Because if it is a puppet show for the angelic conflict, then there is no need for the puppets to be conscious.
+### C. Because if it is a puppet show for the angelic conflict, then there is no need for the puppets to be conscious.
 
-D. Because there is no true worship on the part of puppets or robots.
+### D. Because there is no true worship on the part of puppets or robots.
 
-E. Because God cannot truly love a puppet or a robot.
+### E. Because God cannot truly love a puppet or a robot.
 
-F. Because God does not need to in order to remain in control of the angelic conflict.
+### F. Because God does not need to in order to remain in control of the angelic conflict.
 
-G. Because it violates the principle of self-esteem; God does not need to control us for His happiness.
+### G. Because it violates the principle of self-esteem; God does not need to control us for His happiness.
 
-H. Because it completely eliminates the need for God to interact with us in time, yet Scripture portrays an interventionist God.
+### H. Because it completely eliminates the need for God to interact with us in time, yet Scripture portrays an interventionist God.
 
-I. Because it makes God the author of evil; He designates sins; He condemns people to hell on an arbitrary basis; His criteria for salvation are not based on justice.
+### I. Because it makes God the author of evil; He designates sins; He condemns people to hell on an arbitrary basis; His criteria for salvation are not based on justice.
 
-J. Because it destroys any sense of responsibility.
+### J. Because it destroys any sense of responsibility.
 
-# IV. Important Passages Related to the Concept of Foreordination.
+## IV. Important Passages Related to the Concept of Foreordination.
 
-A. Psalm 139:15-16.
+### A. Psalm 139:15-16.
 
   1. New New American Standard translation: “(15) My frame was not hidden from You, when I was made in secret, and skillfully wrought in the depths of the earth; (16) Your eyes have seen my unformed substance; and in Your book were all written the days that were ordained for me, when as yet there was not one of them.”
 
@@ -205,9 +206,9 @@ A. Psalm 139:15-16.
 
           (1) But one comment on verse fifteen; it is a parallelism on the matter of the formation of the human body. 
 
-            (a) Line one describes the formation of the body in the womb - in secret. 
+              (a) Line one describes the formation of the body in the womb - in secret. 
 
-            (b) But line two is different - what is the depths of the earth? This stands in parallel to the secret place of the first line, and so is a synonym for the womb. The inside of the womb may as well be the depths of the earth, it is so secret.
+              (b) But line two is different - what is the depths of the earth? This stands in parallel to the secret place of the first line, and so is a synonym for the womb. The inside of the womb may as well be the depths of the earth, it is so secret.
 
       b) The first phrase of verse sixteen should stand without question. “Your eyes beheld my unformed substance.” It lays out rather nicely as subject-verb-object.
 
@@ -223,67 +224,67 @@ A. Psalm 139:15-16.
 
           (3) “And in your book / all of them / were written / days” 
 
-            (a) Days is the subject. YAMIM is the masculine plural noun, and since it is the only noun not otherwise qualified by a preposition, it is clear just what its function is. 
+              (a) Days is the subject. YAMIM is the masculine plural noun, and since it is the only noun not otherwise qualified by a preposition, it is clear just what its function is. 
 
-            (b) In other words, there is no other noun in this phrase that may function as a subject; the only other true noun is in a prepositional phrase. 
+              (b) In other words, there is no other noun in this phrase that may function as a subject; the only other true noun is in a prepositional phrase. 
 
-            (c) The niphal passive verb YIKKATHEBHU portrays an uncompleted past action. 
+              (c) The niphal passive verb YIKKATHEBHU portrays an uncompleted past action. 
 
-            (d) If this were to depict the action of foreordination, you would certainly expect the Hebrew perfect tense. 
+              (d) If this were to depict the action of foreordination, you would certainly expect the Hebrew perfect tense. 
 
-            (e) So the portrayal here is that God did not finish this job of writing all of David’s days. 
+              (e) So the portrayal here is that God did not finish this job of writing all of David’s days. 
 
-            (f) God has a book where He writes the story of our days on this earth; that story is not complete. 
+              (f) God has a book where He writes the story of our days on this earth; that story is not complete. 
 
-            (g) David then goes on to the last phrase, where he explains.
+              (g) David then goes on to the last phrase, where he explains.
 
           (4) YUTSARU WELO EHAR BAHEM.
 
           (5) “were formed / and not one / of them”  
 
-            (a) Here we have a pretty basic sentence in the Hebrew. 
+              (a) Here we have a pretty basic sentence in the Hebrew. 
 
-            (b) The subject is WELO EHAR ‘and not one.’ This again is the only noun that qualifies - the other has a preposition again. That David is taking up some new phrase is also indicated by the presence of the conjunction WAW. 
+              (b) The subject is WELO EHAR ‘and not one.’ This again is the only noun that qualifies - the other has a preposition again. That David is taking up some new phrase is also indicated by the presence of the conjunction WAW. 
 
-            (c) The negative adverb LO works together with the conjunction WAW to form a hybrid adversative conjunction. This should be translation ‘but not.’ 
+              (c) The negative adverb LO works together with the conjunction WAW to form a hybrid adversative conjunction. This should be translation ‘but not.’ 
 
-            (d) The subject is modified by the preposition BA plus the third masculine plural pronominal suffix. This is translated ‘of them.’ It refers back to the last use of a noun - which is YAMIM. So this subject is about the days of David’s life. 
+              (d) The subject is modified by the preposition BA plus the third masculine plural pronominal suffix. This is translated ‘of them.’ It refers back to the last use of a noun - which is YAMIM. So this subject is about the days of David’s life. 
 
-            (e) Now we have the perfect verb, in fact the intensive passive pual perfect. YATSARU indicates several things.
+              (e) Now we have the perfect verb, in fact the intensive passive pual perfect. YATSARU indicates several things.
 
-            1) That the action is intense.
+              1) That the action is intense.
 
-            2) That the subject ‘not one of those days’ receives the action of the verb.
+              2) That the subject ‘not one of those days’ receives the action of the verb.
 
-            3) That the action is complete.
+              3) That the action is complete.
 
-            4) The verb itself describes the action of the potter in forming clay into a pot.
+              4) The verb itself describes the action of the potter in forming clay into a pot.
 
           (6) Let’s summarize. 
 
-            (a) God wrote the days of David’s life in His book, but He did not complete the writing of it. 
+              (a) God wrote the days of David’s life in His book, but He did not complete the writing of it. 
 
-            (b) In fact, not only did God refrain from completing that, He definitely did not form them. The negation is completed by the perfect tense of the verb. 
+              (b) In fact, not only did God refrain from completing that, He definitely did not form them. The negation is completed by the perfect tense of the verb. 
 
-            (c) The NASB rendering ‘when as yet there was not one of them’ is not only unacceptable, but somewhat insidious. The inclusion of the adverb ‘when’ has no basis whatsoever in fact. To make this final phrase adverbial is not only wrong grammatically, but misleads the reader into thinking that God has written all of his days into His book.
+              (c) The NASB rendering ‘when as yet there was not one of them’ is not only unacceptable, but somewhat insidious. The inclusion of the adverb ‘when’ has no basis whatsoever in fact. To make this final phrase adverbial is not only wrong grammatically, but misleads the reader into thinking that God has written all of his days into His book.
 
-                  1) Part of this confusion comes from something misleading in the Masoretic Text - a pause immediately after the verb YATSARU, which would place it with the preceding words, and isolate the last two words. This is how the translator justified his translation.
+              1) Part of this confusion comes from something misleading in the Masoretic Text - a pause immediately after the verb YATSARU, which would place it with the preceding words, and isolate the last two words. This is how the translator justified his translation.
 
-                  2) But if you will notice. The system of pauses in the Hebrew text is noncanonical. They are the product of the Masoretes, who scribed the Hebrew manuscripts from about 500-1000 A.D.
+              2) But if you will notice. The system of pauses in the Hebrew text is noncanonical. They are the product of the Masoretes, who scribed the Hebrew manuscripts from about 500-1000 A.D.
 
-                  3) This cantillation, or system of pauses was added so that the text could be chanted or sung by Rabbis. It was added more than 800 years after the last writer of the Old Testament was gone. It cannot be entirely trusted, because it is a commentary!!! It was a commentary and nothing more. Sometimes commentaries are good, and sometimes they are not. This time the latter is true. 
+              3) This cantillation, or system of pauses was added so that the text could be chanted or sung by Rabbis. It was added more than 800 years after the last writer of the Old Testament was gone. It cannot be entirely trusted, because it is a commentary!!! It was a commentary and nothing more. Sometimes commentaries are good, and sometimes they are not. This time the latter is true. 
 
-            (d) This turns out to be a little more than misleading; it present a completely opposite world-view than what occurs in the original Hebrew. 
+              (d) This turns out to be a little more than misleading; it present a completely opposite world-view than what occurs in the original Hebrew. 
 
-            (e) So David says:
+              (e) So David says:
 
-                  1) Your eyes beheld my embryo; 
+              1) Your eyes beheld my embryo; 
 
-                  2) and in Your book were [incompletely] written all the days;
+              2) and in Your book were [incompletely] written all the days;
 
-                  3) but not one of those days were formed. 
+              3) but not one of those days were formed. 
 
-            (f) This is a song of worship to God, and thus David worships God for this principle of doctrine.
+              (f) This is a song of worship to God, and thus David worships God for this principle of doctrine.
 
           (7) God writes our days in His book - He sets before us a destiny, a magnificent plan of blessing.
 
@@ -325,9 +326,9 @@ A. Psalm 139:15-16.
 
           (5) Therefore, the purpose of the book of God is to record our lives. His book is the perfect book of His memory. He remembers all of our travails and tears.
 
-B. Romans 9:1-33 (see separate doctrine).
+### B. Romans 9:1-33 (see separate doctrine).
 
-C. Romans 8:28-30, “(28) But we know that all things work together unto good for the ones who love God, for those who are called according to His purpose. (29) Because whom He foreknew, He also predestined to become conformed to the image of His Son, in order that He would be the firstborn among many brethren. (30) And whom He predestined, these also He called; and whom He called, these also He justified; and whom He justified, these also He glorified.”
+### C. Romans 8:28-30, “(28) But we know that all things work together unto good for the ones who love God, for those who are called according to His purpose. (29) Because whom He foreknew, He also predestined to become conformed to the image of His Son, in order that He would be the firstborn among many brethren. (30) And whom He predestined, these also He called; and whom He called, these also He justified; and whom He justified, these also He glorified.”
 
   1. Introduction.
 
@@ -369,35 +370,35 @@ C. Romans 8:28-30, “(28) But we know that all things work together unto good f
 
           (1) The present active participle AGAPOSIN defines the action as occurring simultaneously with the main verb SUNERGEI. So at the same time that all things are working together, there must also be love for God. 
 
-            (a) There are two possibilities for this: the state of being in fellowship with God, or the state of spiritual maturity. And perhaps a third - all those who are positive and maintaining spiritual momentum. 
+              (a) There are two possibilities for this: the state of being in fellowship with God, or the state of spiritual maturity. And perhaps a third - all those who are positive and maintaining spiritual momentum. 
 
-            (b) At a basic level, anyone can love God. From the least mature to the most, there may be love for God. 
+              (b) At a basic level, anyone can love God. From the least mature to the most, there may be love for God. 
 
-            (c) The more mature love God more deeply and more richly because of the doctrinal content of their souls, but nonetheless all love God. 
+              (c) The more mature love God more deeply and more richly because of the doctrinal content of their souls, but nonetheless all love God. 
 
-            (d) And this verse gives no clue about the depth or intensity of the love expressed toward God. 
+              (d) And this verse gives no clue about the depth or intensity of the love expressed toward God. 
 
-            (e) This narrows it down to two categories. Fellowship and general momentum. 
+              (e) This narrows it down to two categories. Fellowship and general momentum. 
 
-            (f) The present tense of the participle also has aspect - it is the continuous aspect of the present that comes forth here. 
+              (f) The present tense of the participle also has aspect - it is the continuous aspect of the present that comes forth here. 
 
-            (g) Principle: you cannot worship God while you are out of fellowship; but you can develop a desire to return to fellowship. That at least is an abstract form of love for God. Conclusion: love for God is not completely dependent on fellowship. Just because we are sinners and occasionally (or more often) sin does not mean that we are devoid of love for God. 
+              (g) Principle: you cannot worship God while you are out of fellowship; but you can develop a desire to return to fellowship. That at least is an abstract form of love for God. Conclusion: love for God is not completely dependent on fellowship. Just because we are sinners and occasionally (or more often) sin does not mean that we are devoid of love for God. 
 
-            (h) Principle: even when you are out of fellowship, discipline works for your good. God brings tough things into your life so that you will shape up and recover. 
+              (h) Principle: even when you are out of fellowship, discipline works for your good. God brings tough things into your life so that you will shape up and recover. 
 
-            (i) Therefore we come down to the principle of spiritual momentum; but some care must be taken with this. 
+              (i) Therefore we come down to the principle of spiritual momentum; but some care must be taken with this. 
 
-            (j) Positive volition after salvation is a basic honesty about your spiritual needs.
+              (j) Positive volition after salvation is a basic honesty about your spiritual needs.
 
-                  1) Therefore if you are out of fellowship, it is an honesty about the need for a divine solution to your sinful state. This has been provided in confession.
+              1) Therefore if you are out of fellowship, it is an honesty about the need for a divine solution to your sinful state. This has been provided in confession.
 
-                  2) And generally it is honesty about your need for spiritual growth in the word through the power of the Spirit. 
+              2) And generally it is honesty about your need for spiritual growth in the word through the power of the Spirit. 
 
-            (k) So spiritual momentum is not sinless perfection, but rather a persistent honesty about your spiritual needs at any given time in life. 
+              (k) So spiritual momentum is not sinless perfection, but rather a persistent honesty about your spiritual needs at any given time in life. 
 
-            (l) It is more than just someone who takes in truth - it is someone who is consistently applying it as well. 
+              (l) It is more than just someone who takes in truth - it is someone who is consistently applying it as well. 
 
-            (m) Now everyone who has spiritual momentum has all things work together for good in their lives.
+              (m) Now everyone who has spiritual momentum has all things work together for good in their lives.
 
       g) The final phrase of the verse is TOIS KATA PROTHESIN KLETOIS OUSIN.
 
@@ -451,27 +452,27 @@ C. Romans 8:28-30, “(28) But we know that all things work together unto good f
 
           (2) EIKONOS is ‘image.’ It is the reflection of the real, an exact representation of the original. 
 
-            (a) This is the image of God, as given in His own Son. 
+              (a) This is the image of God, as given in His own Son. 
 
-            (b) This is not the power, nor the essence of God, but rather God’s own character. 
+              (b) This is not the power, nor the essence of God, but rather God’s own character. 
 
-            (c) Christ was the perfect example of divine character in a human being. 
+              (c) Christ was the perfect example of divine character in a human being. 
 
-            (d) God has certainly destined us to be conformed to the image of Jesus Christ.
+              (d) God has certainly destined us to be conformed to the image of Jesus Christ.
 
           (3) This conforming process is to take place through the faith perception of the truth: Romans 12:2, “And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.” 
 
-            (a) This is a command; therefore it is a proposition toward human volition. 
+              (a) This is a command; therefore it is a proposition toward human volition. 
 
-            (b) In other words, it is an option in the Christian life. 
+              (b) In other words, it is an option in the Christian life. 
 
-            (c) And since it is truly an option, there is no foreordination toward holiness for anyone. 
+              (c) And since it is truly an option, there is no foreordination toward holiness for anyone. 
 
-            (d) God has predestined every believer to conform to the image of His Son; obviously, Christians run the spectrum of spiritual growth, from immature to mature. 
+              (d) God has predestined every believer to conform to the image of His Son; obviously, Christians run the spectrum of spiritual growth, from immature to mature. 
 
-            (e) The conclusion is that predestiny does not imply foreordination. You are not ordained beforehand to conform to the image of Christ. PREDESTINATION IS WHAT GOD WANTS FOR YOU. You must choose for yourself to follow that destiny. 
+              (e) The conclusion is that predestiny does not imply foreordination. You are not ordained beforehand to conform to the image of Christ. PREDESTINATION IS WHAT GOD WANTS FOR YOU. You must choose for yourself to follow that destiny. 
 
-            (f) We might therefore define predestination as the most ancient expression of the divine will toward all human beings; the direct will of God for our lives.
+              (f) We might therefore define predestination as the most ancient expression of the divine will toward all human beings; the direct will of God for our lives.
 
       g) The first-born among many brethren brings a spotlight on the maturity of Jesus Christ.
 
@@ -489,9 +490,9 @@ C. Romans 8:28-30, “(28) But we know that all things work together unto good f
 
           (1) In each case, the aorist tense summarizes a past action. 
 
-            (a) This places the action not in our lives, but in the divine decrees of eternity past.  
+              (a) This places the action not in our lives, but in the divine decrees of eternity past.  
 
-            (b) Paul would have used a present of general truth had he wanted to communicate what happens every time God predestines someone.
+              (b) Paul would have used a present of general truth had he wanted to communicate what happens every time God predestines someone.
 
           (2) The active voice means that God produces the action in each instance; human volition is not directly in view here; only the sovereign decisions of God.
 
@@ -519,33 +520,33 @@ C. Romans 8:28-30, “(28) But we know that all things work together unto good f
 
           (4) Let us also examine the issue of divine sovereignty vs. human free will within the context of this very chapter. 
 
-            (a) In our own verse, it sounds like our glorification is the choice of God alone; that we have no effect at all on what God does for us. 
+              (a) In our own verse, it sounds like our glorification is the choice of God alone; that we have no effect at all on what God does for us. 
 
-            (b) But listen closely to verse seventeen of Romans eight: “and if children, then heirs; heirs on the one hand of God, and fellow-heirs on the other hand of Christ, if indeed we suffer together in order that also we might be glorified.”
+              (b) But listen closely to verse seventeen of Romans eight: “and if children, then heirs; heirs on the one hand of God, and fellow-heirs on the other hand of Christ, if indeed we suffer together in order that also we might be glorified.”
 
-                  1) Pay special attention to that last part - it is a Greek first class conditional sentence.
+              1) Pay special attention to that last part - it is a Greek first class conditional sentence.
 
-                  2) The first class has the author or speaker getting his readers or listeners to assume the condition to be truth for the sake of argument; he realizes that they may not accept the truth of it, but nonetheless it is a device of rhetoric that is employed in debate.
+              2) The first class has the author or speaker getting his readers or listeners to assume the condition to be truth for the sake of argument; he realizes that they may not accept the truth of it, but nonetheless it is a device of rhetoric that is employed in debate.
 
-                  3) In this verse, Paul is not convinced that his readers will believe what he has to say about their glorification.
+              3) In this verse, Paul is not convinced that his readers will believe what he has to say about their glorification.
 
-                  4) He says very clear that their glorification is dependent on their conduct during their undeserved suffering.
+              4) He says very clear that their glorification is dependent on their conduct during their undeserved suffering.
 
-                  5) This final glorification is not the reception of the resurrection body, but rather the above and beyond reward of the mature believer in Jesus Christ. 
+              5) This final glorification is not the reception of the resurrection body, but rather the above and beyond reward of the mature believer in Jesus Christ. 
 
-                  6) So now here is a verse that says our own glorification is quite dependent on our volition - on our Christ-like attitude during our undeserved suffering.
+              6) So now here is a verse that says our own glorification is quite dependent on our volition - on our Christ-like attitude during our undeserved suffering.
 
-                  7) Which view is correct? They are in the very same chapter, separated by some thirteen verses. Is this a true Biblical contradiction? Should we say that it is not so much a contradiction as a mystery that is not intended to be known by us?
+              7) Which view is correct? They are in the very same chapter, separated by some thirteen verses. Is this a true Biblical contradiction? Should we say that it is not so much a contradiction as a mystery that is not intended to be known by us?
 
-                  8) Well, neither. In this very famous chapter, Paul is attempting to get the Roman believers out of their morass of sin. There are many Roman Christians who are mired down by their own sin, and who live the life of Romans seven, verses 15-24.
+              8) Well, neither. In this very famous chapter, Paul is attempting to get the Roman believers out of their morass of sin. There are many Roman Christians who are mired down by their own sin, and who live the life of Romans seven, verses 15-24.
 
-                  9) The solution is in chapter eight, and the key is verse six: “The mind set on the flesh is death, but the mind set on the Spirit is life and peace.” This is the option of every believer - to stay in fellowship and pursue truth, or to stay out of fellowship and pursue darkness and lies.
+              9) The solution is in chapter eight, and the key is verse six: “The mind set on the flesh is death, but the mind set on the Spirit is life and peace.” This is the option of every believer - to stay in fellowship and pursue truth, or to stay out of fellowship and pursue darkness and lies.
 
-                  10) Now we know from this chapter that God chooses for us to be glorified by Him, and at the same time we have the option to receive that glorification, and the possibility that it will not come about.
+              10) Now we know from this chapter that God chooses for us to be glorified by Him, and at the same time we have the option to receive that glorification, and the possibility that it will not come about.
 
-                  11) Since verse seventeen precedes verse thirty, shouldn’t we say that it provides an important context for the latter verse?
+              11) Since verse seventeen precedes verse thirty, shouldn’t we say that it provides an important context for the latter verse?
 
-                  12) It is simple, really. God desires for us to be glorified; every single one of us.  But not all of us are, because He allows us to choose.
+              12) It is simple, really. God desires for us to be glorified; every single one of us.  But not all of us are, because He allows us to choose.
 
       e) Paul intended for his readers to understand that God in eternity past had made certain expressions of His desires for every human being.
 
@@ -581,7 +582,7 @@ C. Romans 8:28-30, “(28) But we know that all things work together unto good f
 
           (3) God called all of us to that great destiny; 
 
-            (a) The divine call
+               (a) The divine call
 
           (4) And when we use our free will to heed that call, He justifies us. We are justified on the basis of Christ’s sacrificial work on the cross and the imputation of His righteousness to us.
 
@@ -589,7 +590,7 @@ C. Romans 8:28-30, “(28) But we know that all things work together unto good f
 
           (6) But of course there is a dependency on human volition for that glorification; we must suffer with the same mental attitude of Jesus Christ.
 
-D. The Foreknowledge Passages:
+### D. The Foreknowledge Passages:
 
   1. Jeremiah 1:5, “Before I formed you in the womb I knew you, and before you were born I consecrated you; I have appointed you a prophet to the nations.”
 
@@ -730,8 +731,8 @@ D. The Foreknowledge Passages:
       a) So Paul calls on the Philippians to work out their salvation with fear and trembling; that is, to think through what had happened at salvation, and to work out all the implications.
 
       b) This is a command, as evidenced by the imperative mood of the verb
-
-KATERGAZESTHE. Since this is a command, it is up to the Philippians to obey. There is only potential here, not certainty.
+         KATERGAZESTHE. Since this is a command, it is up to the Philippians to obey.
+         There is only potential here, not certainty.
 
       c) So again, God prepares works for them beforehand, and then works in them, willing and working His good pleasure.
 
@@ -785,7 +786,7 @@ KATERGAZESTHE. Since this is a command, it is up to the Philippians to obey. The
 
       b) There is contingency at work here. Foreknowledge on our part certainly does not add up to certainty. Just because we know a principle beforehand does not mean that we 
 
-E. The Election Passages.
+### E. The Election Passages.
 
   1. Deuteronomy 7:6, “For you are a holy people to the Lord your God; the Lord your God has chosen you to be a people for His own possession out of all the peoples who are on the face of the earth.”
 
@@ -801,43 +802,43 @@ E. The Election Passages.
 
           (2) Love - and this love must be beyond the impersonal love that God has for every nation. 
 
-            (a) Because in an objective and virtuous sense God loves all the nations just as He loves all people. Virtue love always wants the best for people, even when they participate in evil, Like Pharaoh. 
+              (a) Because in an objective and virtuous sense God loves all the nations just as He loves all people. Virtue love always wants the best for people, even when they participate in evil, Like Pharaoh. 
 
-            (b) Therefore, God sees something in Israel that He sees in no other nation. And what causes God to have this personal love, this attraction toward Israel? 
+              (b) Therefore, God sees something in Israel that He sees in no other nation. And what causes God to have this personal love, this attraction toward Israel? 
 
-            (c) There can only be one thing: this nation Israel loves God; they depend on Him, and reproduce His character when under the burden of responsibility. 
+              (c) There can only be one thing: this nation Israel loves God; they depend on Him, and reproduce His character when under the burden of responsibility. 
 
-            (d) Now this is interesting, because it demonstrates that the election of Israel has come about because of something that Israel has done in time, and not because of some arbitrary decision of God’s in eternity past. 
+              (d) Now this is interesting, because it demonstrates that the election of Israel has come about because of something that Israel has done in time, and not because of some arbitrary decision of God’s in eternity past. 
 
-            (e) This reinforces what we have already studied in Romans chapter nine - that the foundation of election is faith. God must see faith before He will elect.
+              (e) This reinforces what we have already studied in Romans chapter nine - that the foundation of election is faith. God must see faith before He will elect.
 
           (3) Fealty - based on the oath which He swore to Abraham, Isaac, and Jacob. 
 
-            (a) This also connects with Romans 9. In that chapter, the resounding message is that God elected the founding fathers of Israel because of their faith. 
+              (a) This also connects with Romans 9. In that chapter, the resounding message is that God elected the founding fathers of Israel because of their faith. 
 
-            (b) God is faithful to the promises He made to the first generations of this nation. His promise is founded upon the heritage of their faith.
+              (b) God is faithful to the promises He made to the first generations of this nation. His promise is founded upon the heritage of their faith.
 
           (4) Here is a good summary of the heart of that passage, verses ten through thirteen: “(10) And not only this, but also Rebecca holding [twins] in the womb from one man Isaac our father; (11) For not yet being born, they could not practice anything good or bad, in order that the purpose of God according to free will [EKLOGEN] might remain, (12) not from works but from the one who calls, it was said to her ‘The greater will serve the lesser.’ (13) Just as it has been written, ‘Jacob I loved, but Esau I hated.’” 
 
-            (a) This passage begins with the twins in Rebecca’s womb, but by the time it gets to  verse thirteen, it is commenting on God’s attitude toward the two nations that came from those men. 
+              (a) This passage begins with the twins in Rebecca’s womb, but by the time it gets to  verse thirteen, it is commenting on God’s attitude toward the two nations that came from those men. 
 
-            (b) The last two Old Testament quotes are certainly from the standpoint of the nation, as exegeted in the original passage. 
+              (b) The last two Old Testament quotes are certainly from the standpoint of the nation, as exegeted in the original passage. 
 
-            (c) Here is the proper perspective:
+              (c) Here is the proper perspective:
 
-                  1) Jacob and Esau were free to choose.
+              1) Jacob and Esau were free to choose.
 
-                  2) Jacob believed in the Messiah, and he was saved. Esau rejected the Messiah and he was not saved.
+              2) Jacob believed in the Messiah, and he was saved. Esau rejected the Messiah and he was not saved.
 
-                  3) Because of the belief of Jacob, the promise of God through Abraham went through him.
+              3) Because of the belief of Jacob, the promise of God through Abraham went through him.
 
-                  4) Jacob’s belief came after all the shifty and deceptive behavior. None of Jacob’s deception brought him the promise. That was all human viewpoint baloney. The mess of pottage, the deception of his blind father Isaac - none of it accomplished anything. It was not because of his own works that he gained the birthright, and those things were certainly his own works.
+              4) Jacob’s belief came after all the shifty and deceptive behavior. None of Jacob’s deception brought him the promise. That was all human viewpoint baloney. The mess of pottage, the deception of his blind father Isaac - none of it accomplished anything. It was not because of his own works that he gained the birthright, and those things were certainly his own works.
 
-                  5) But when Jacob believed, he gained that birthright, and that is what the change of his name represents.
+              5) But when Jacob believed, he gained that birthright, and that is what the change of his name represents.
 
-                  6) This resulted in God’s love toward him and his nation, Israel.
+              6) This resulted in God’s love toward him and his nation, Israel.
 
-                  7) Esau’s persistent unbelief caused God to come to a conclusion toward him: hatred - an anthropopathism designed to describe God actions toward the unbeliever. Esau and his nation did not receive the blessing of God.
+              7) Esau’s persistent unbelief caused God to come to a conclusion toward him: hatred - an anthropopathism designed to describe God actions toward the unbeliever. Esau and his nation did not receive the blessing of God.
 
       e) Clearly there was an election of Israel, and clearly it was not arbitrary. That could hardly be so from a God with perfect character.
 
@@ -907,41 +908,41 @@ E. The Election Passages.
 
           (7) The selection in Christ Jesus came after the predestination for an inheritance, so that: 
 
-            (a) First He predestined us to an inheritance, then; 
+              (a) First He predestined us to an inheritance, then; 
 
-            (b) Selected us in Christ Jesus.
+              (b) Selected us in Christ Jesus.
 
           (8) The predestination was according to the good intention of His will. 
 
-            (a) The words are EUDOKIAN TOU THELEMATOS. 
+              (a) The words are EUDOKIAN TOU THELEMATOS. 
 
-            (b) The first is translated ‘good intention.’ The idea is that of having good things in mind for someone or something. 
+              (b) The first is translated ‘good intention.’ The idea is that of having good things in mind for someone or something. 
 
-            (c) The second part is the TOU THELEMATOS, the definite article plus the noun which points to the volitional ability of God. 
+              (c) The second part is the TOU THELEMATOS, the definite article plus the noun which points to the volitional ability of God. 
 
-            (d) So God sets our destinies after the pattern of the good thinking of His volition. 
+              (d) So God sets our destinies after the pattern of the good thinking of His volition. 
 
-            (e) The inclusion of the sovereign will of God here is very important. God has a plan for our lives after the good intention of His sovereign will.
+              (e) The inclusion of the sovereign will of God here is very important. God has a plan for our lives after the good intention of His sovereign will.
 
-                  1) The weak point of the plan is its weakest member, man.
+              1) The weak point of the plan is its weakest member, man.
 
-                  2) But God accounted for the weakness of man by means of His grace. He found a way to make His power and thinking and merit available to man by means of faith.
+              2) But God accounted for the weakness of man by means of His grace. He found a way to make His power and thinking and merit available to man by means of faith.
 
-                  3) This is a perfect reflection of God’s holy character in His sense of responsibility toward His creatures.
+              3) This is a perfect reflection of God’s holy character in His sense of responsibility toward His creatures.
 
-                  4) But God is going to bring about what His good will intends. This is the nature of His sovereignty.
+              4) But God is going to bring about what His good will intends. This is the nature of His sovereignty.
 
-                  5) But He will never violate principles of integrity; He therefore never wills or intends anything that is evil.
+              5) But He will never violate principles of integrity; He therefore never wills or intends anything that is evil.
 
-                  6) An example of evil would be the destruction of free will in His creatures. God would never do anything that would violate that principle of freedom.
+              6) An example of evil would be the destruction of free will in His creatures. God would never do anything that would violate that principle of freedom.
 
-                  7) He may intervene, inform, discipline, and bless in order to influence our decisions, but He never violates the principle of our freedom.
+              7) He may intervene, inform, discipline, and bless in order to influence our decisions, but He never violates the principle of our freedom.
 
-                  8) That is the reason for the existence of evil in the world; God allows freedom of choice.
+              8) That is the reason for the existence of evil in the world; God allows freedom of choice.
 
-                  9) So predestination is a sovereign decision of God from eternity past in which He chooses the highest and best for us in the form of a destiny.
+              9) So predestination is a sovereign decision of God from eternity past in which He chooses the highest and best for us in the form of a destiny.
 
-                  10) But He never forces us to follow in that destiny, for that would be wrong.
+              10) But He never forces us to follow in that destiny, for that would be wrong.
 
       e) So to review this passage:
 
@@ -1087,7 +1088,7 @@ E. The Election Passages.
 
       c) This verse is not interpreted correctly. Christ is talking about His choice and calling of the disciples in time, and nothing more.
 
-F. The Great Problem: Foreknowledge and Culpability.
+### F. The Great Problem: Foreknowledge and Culpability.
 
   1. So you say, “Okay, I understand that God chose salvation for the entire human race, and that He applies that election in time only to those who believe in His Son Jesus Christ. So what’s the big deal now about all this prehistory stuff?”
 
@@ -1115,49 +1116,49 @@ F. The Great Problem: Foreknowledge and Culpability.
 
           (1) There is a kind of program that simply requires the user to tap the ‘ENTER’ button, and it runs to its conclusion. The programmer writes everything so that He knows exactly how it will turn out. This is more properly analogous to making a video and hitting the ‘PLAY’ button, but it may apply in the computer world as well. 
 
-            (a) This represents a combination of foreordination and deism. 
+              (a) This represents a combination of foreordination and deism. 
 
-            (b) The end result is that God plans human history, He knows exactly how it is going to turn out, and does not intervene at all in the proceedings.
+              (b) The end result is that God plans human history, He knows exactly how it is going to turn out, and does not intervene at all in the proceedings.
 
           (2) There is a kind of program that requires user input at certain points which may cause program contingencies. That is, the outcome of the program is affected by user input. This is just like a calculator, which waits for you to enter the data and hit the ‘=’ sign. Then it makes it calculations and surrenders its answer. The programmer designs the program so that everything comes out according to His plan, and He knows the outcome before He puts the numbers in. 
 
-            (a) This is foreordination with divine intervention. 
+              (a) This is foreordination with divine intervention. 
 
-            (b) God knows exactly when, where, and how He is going to intervene, but even before it all begins He knows how it is going to turn out.
+              (b) God knows exactly when, where, and how He is going to intervene, but even before it all begins He knows how it is going to turn out.
 
           (3) There is a kind of program that includes the calculation of random numbers in response to user input, so that random events occur, and the user cannot know the immediate outcome. The programmer programs the possible outcomes, but not the random calculations that choose those outcomes. 
 
-            (a) This is predestination with divine intervention and human free will. 
+              (a) This is predestination with divine intervention and human free will. 
 
-            (b) The random number is analogous to the human will. God knows the circumstances of our lives; He knows all the possible outcomes of our decisions. 
+              (b) The random number is analogous to the human will. God knows the circumstances of our lives; He knows all the possible outcomes of our decisions. 
 
-            (c) He also intervenes with His own input, designed to affect our decisions. 
+              (c) He also intervenes with His own input, designed to affect our decisions. 
 
-            (d) This is all resolved as a series of ‘if... then’ propositions. If this person chooses ‘a’, then this will be the immediate result. If ‘b’, then a different result. 
+              (d) This is all resolved as a series of ‘if... then’ propositions. If this person chooses ‘a’, then this will be the immediate result. If ‘b’, then a different result. 
 
-            (e) But there is a secret of computer programming that applies to this: there is no such thing as a truly random number. If you know the starting number in the sequence, then you will certainly know every number after, and thus come to a complete foreknowledge of all the outcomes. 
+              (e) But there is a secret of computer programming that applies to this: there is no such thing as a truly random number. If you know the starting number in the sequence, then you will certainly know every number after, and thus come to a complete foreknowledge of all the outcomes. 
 
-            (f) It only takes the sure knowledge of the starting number in the sequence, which is accomplished in programming through a process called ‘seeding.’ 
+              (f) It only takes the sure knowledge of the starting number in the sequence, which is accomplished in programming through a process called ‘seeding.’ 
 
-            (g) For instance, let’s take a sequence of numbers one through ten, and scramble them: 5 4 6 2 1 3 10 9 7 8. Then let’s set the seed through taking the last digit of the time right now, by the minute. If it is 3:40 where you are, then you would seed the sequence at the number ten, then the next number would be nine, and so on until you get back to ten. 
+              (g) For instance, let’s take a sequence of numbers one through ten, and scramble them: 5 4 6 2 1 3 10 9 7 8. Then let’s set the seed through taking the last digit of the time right now, by the minute. If it is 3:40 where you are, then you would seed the sequence at the number ten, then the next number would be nine, and so on until you get back to ten. 
 
-            (h) Many computer randomizers begin with 64,000 numbers in a scrambled sequence. 
+              (h) Many computer randomizers begin with 64,000 numbers in a scrambled sequence. 
 
-            (i) But if you know the sequence, then what happens next is not truly random. It is  forseeable and predictable. 
+              (i) But if you know the sequence, then what happens next is not truly random. It is  forseeable and predictable. 
 
-            (j) The question remains: does God choose to know what you are going to say and do and think, and especially decide. 
+              (j) The question remains: does God choose to know what you are going to say and do and think, and especially decide. 
 
-            (k) So now is it right for God to seed the numbers and know how it is all going to come out? In other words, is it right for God as the master psychologist and creator of your soul to look into all the factors of your life and thus know how it is going to come out - all of your decisions? 
+              (k) So now is it right for God to seed the numbers and know how it is all going to come out? In other words, is it right for God as the master psychologist and creator of your soul to look into all the factors of your life and thus know how it is going to come out - all of your decisions? 
 
-            (l) If He does - that is, if God programs human history, and factors in the apparent random nature of human volition, and yet He knows the seed and the sequence - doesn’t that make human history just a program? 
+              (l) If He does - that is, if God programs human history, and factors in the apparent random nature of human volition, and yet He knows the seed and the sequence - doesn’t that make human history just a program? 
 
-            (m) To the participants it seems real. In this program, the lines of code have consciousness and in all reality experience what God wants them to. 
+              (m) To the participants it seems real. In this program, the lines of code have consciousness and in all reality experience what God wants them to. 
 
-            (n) But let us return to the central question: IS THIS RIGHT? 
+              (n) But let us return to the central question: IS THIS RIGHT? 
 
-            (o) Lapsarianism attempts to analyze this very question.
+              (o) Lapsarianism attempts to analyze this very question.
 
-G. Lapsarianism.
+### G. Lapsarianism.
 
   1. R.B. Thieme Jr. has introduced his doctrine of lapsarianism in this way:
 
@@ -1283,7 +1284,7 @@ G. Lapsarianism.
 
           (12) And indeed this is what we have done on the matter.
 
-H. Isaiah 46:10 has a defining comment on the sovereignty of God. “Declaring the end from the beginning, and from ancient times things which have not been done, saying, ‘My purpose will be established, and I will accomplish all My good pleasure.”
+### H. Isaiah 46:10 has a defining comment on the sovereignty of God. “Declaring the end from the beginning, and from ancient times things which have not been done, saying, ‘My purpose will be established, and I will accomplish all My good pleasure.”
 
   1. This has the unique combination of divine foreknowledge and intent.
 
@@ -1311,11 +1312,11 @@ H. Isaiah 46:10 has a defining comment on the sovereignty of God. “Declaring t
 
   9. We know that God has the ability of foreknowledge, but does He always employ it?
 
-# I. The existence of prophecy tells us that God clearly employs His foreknowledge.
+## I. The existence of prophecy tells us that God clearly employs His foreknowledge.
 
-He can and does know the future with certainty.
+### He can and does know the future with certainty.
 
-J. The evidence for the restraint of foreknowledge.
+### J. The evidence for the restraint of foreknowledge.
 
   1. It begins in Genesis 2:19: “So Yahweh God formed every beast of the field out of the ground, and every bird of the air, and brought them to the man to see what he would call them; and whatever the man called the living creature, that was its name.”
 
@@ -1427,13 +1428,13 @@ J. The evidence for the restraint of foreknowledge.
 
       f) The focus of the rhetorical questions above is on the man. The focus of the narratives of Adam and Abraham are on God. In each case it is clear that He wants to know for His benefit.
 
-K. Why God restrains His foreknowledge.
+### K. Why God restrains His foreknowledge.
 
   1. Because any decree with absolute foreknowledge of the outcome is foreordination.
 
   2. And foreordination destroys integrity. It makes God the author of evil and a lot more.
 
-L. The Calvinistic Lapsarianism.
+### L. The Calvinistic Lapsarianism.
 
   1. The decree to elect some to be saved and to reprobate all others;
 
@@ -1445,7 +1446,7 @@ L. The Calvinistic Lapsarianism.
 
   5. The decree to apply salvation to the elect.
 
-M. Infralapsarianism.
+### M. Infralapsarianism.
 
   1. The decree to create all men;
 
@@ -1457,9 +1458,9 @@ M. Infralapsarianism.
 
   5. The decree to apply salvation to those who believe.
 
-# V. The Final Resolution. A View to the Past: before the Decree...
+## V. The Final Resolution. A View to the Past: before the Decree...
 
-A. Creation from the motivation of love. 
+### A. Creation from the motivation of love. 
 
   1. Genesis 1:26, “Let us make man in our image, according to our likeness...”
 
@@ -1479,7 +1480,7 @@ A. Creation from the motivation of love.
 
   6. Nonetheless, God loves man, and has a plan for the life of every one. And He desires for every human being the fellowship and blessings of relationship with Him.
 
-B. Necessity of free will. Free will is absolutely necessary for an honest love between creatures. It is absolutely necessary that man be volitional in order to get an honest resolution of the conflict of angels.
+### B. Necessity of free will. Free will is absolutely necessary for an honest love between creatures. It is absolutely necessary that man be volitional in order to get an honest resolution of the conflict of angels.
 
   1. Evidence of the free will of man.
 
@@ -1525,7 +1526,7 @@ B. Necessity of free will. Free will is absolutely necessary for an honest love 
 
       c) Responsibility has the presumption of grace: God could only make us responsible if He also provides for us to make those good decisions.
 
-C. Responsibility for creatures.
+### C. Responsibility for creatures.
 
   1. Remedy for fall in unlimited atonement.
 
@@ -1559,7 +1560,7 @@ C. Responsibility for creatures.
 
       c) God determined to provide both this categories as a part of His responsibility toward His creatures.
 
-D. Determination toward intervention. God determined that He would intervene at the proper time into human lives. The condition for intervention would be need. That is, whenever human beings need intervention, God is immediately and effectively on the scene of their lives.
+### D. Determination toward intervention. God determined that He would intervene at the proper time into human lives. The condition for intervention would be need. That is, whenever human beings need intervention, God is immediately and effectively on the scene of their lives.
 
   1. The Universal Kingdom. Alva J. McLain, in the fourth chapter of his masterful The Greatness of the Kingdom points out some important distinctions of the universal kingdom of God.
 
@@ -1631,13 +1632,13 @@ D. Determination toward intervention. God determined that He would intervene at 
 
       b) Grace activation. This is the activation of grace on account of the prayers of believers. Special election is simply the activation of grace at salvation.
 
-E. Allowance of intervention from evil sources. 
+### E. Allowance of intervention from evil sources. 
 
   1. God allows intervention from those with negative volition. He allows their viewpoint to exist, and their activities to go as far as divine discipline and divine establishment will allow.
 
   2. The existence of evil is the outworking of free will.
 
-F. Foreknowledge of all possibilities.
+### F. Foreknowledge of all possibilities.
 
   1. There are two categories of foreknowledge:
 
@@ -1649,7 +1650,7 @@ F. Foreknowledge of all possibilities.
 
   3. God’s function of grace allows for all possible outcomes, and accounts for them all.
 
-G. The setting forth of the decree...
+### G. The setting forth of the decree...
 
   1. God decreed the beginning of human history without foreordaining the outcome.
 
@@ -1661,7 +1662,7 @@ G. The setting forth of the decree...
 
   5. God’s ability to analyze each situation on the fly is infinite; there is no need for Him to meticulously plan our lives from eternity past. He has the ability to know what is right in each moment of time - what is right for each of us and all of us.
 
-H. Foreknowledge of the working out of the decree.
+### H. Foreknowledge of the working out of the decree.
 
   1. Once human history is begun, God has the option to employ His foreknowledge when His integrity demands it.
 
@@ -1669,14 +1670,14 @@ H. Foreknowledge of the working out of the decree.
 
   3. Foreknowledge of certainty must be suspended whenever an intervention takes place.
 
-# VI. Its Effects.
+## VI. Its Effects.
 
-A. Proper motivation is retained.
+### A. Proper motivation is retained.
 
-B. Divine control over human history is retained through intervention.
+### B. Divine control over human history is retained through intervention.
 
-C. Utilization of foreknowledge is limited to those situations that demand it.
+### C. Utilization of foreknowledge is limited to those situations that demand it.
 
-D. A careful view of divine guidance.
+### D. A careful view of divine guidance.
 
-E. A final exhortation to responsibility in the procurement of grace. 
+### E. A final exhortation to responsibility in the procurement of grace. 
