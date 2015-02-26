@@ -6,7 +6,7 @@ tmp = require 'tmp'
 q = async.queue((task, callback) =>
   [pdf, env, locals, contents, templates] = task.args
   pdf._getView env, locals, contents, templates, callback
-, 5)
+, 3)
 
 module.exports = (env, callback)->
 
