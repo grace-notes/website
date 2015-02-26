@@ -3,11 +3,13 @@ title: "History of Koine Greek"
 indexTitle: "Koine Greek, History of"
 pdf: "koinegreek.pdf"
 description: "how the common Greek of the New Testament was formed."
+author: M. Z. Kopidakis
 tableOfContents: true
 template: topic.jade
 ---
 
-**Introduction** [M. Z. Kopidakis]
+Introduction
+------------
 
 Man is, according to Aristotle, a political animal –meaning that, within
 the city, in a society organized by consensus, he can exploit his innate
@@ -297,7 +299,7 @@ philological work that were done by the Alexandrians on Classical texts
 (editing, lexicography, annotation). The enemies of Christianity also
 acceded to the movement of the Atticists; as representatives of the high
 intelligentsia, they scorned both the simple lessons of the Gospel and
-the Apostles as well as their simple language.  
+the Apostles as well as their simple language.
 
 The direct aim of the Atticists seemed to be a shared one: a return to
 the pure and correct Attic dialect. However, which was the true
