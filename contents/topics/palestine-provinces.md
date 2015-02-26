@@ -185,7 +185,7 @@ Jews were for the most part allowed to decide questions of civil law
 among themselves, while their courts sometimes usurped also criminal
 jurisdiction.
 
-[1](#sdfootnote1anc)<sup>****</sup> extracted from Edersheim, Alfred,
-*History of the Jewish Nation after the Destruction of Jerusalem under
-Titu*s, Chapter 9, *Social Condition of Palestine.*
+Extracted from Edersheim, Alfred, *History of the Jewish Nation after
+the Destruction of Jerusalem under Titus*, Chapter 9, *Social Condition
+of Palestine.*
 
