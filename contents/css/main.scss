@@ -3,7 +3,10 @@ body {
   font-family: 'Lora', serif;
   font-size: 23px;
   line-height: 1.52;
-  background-color: #fff;
+  background-color: #ffffff;
+  background-image: url(../img/paper.jpg), url(../img/paper.jpg);
+  background-size: 60px 60px, auto;
+  background-blend-mode: soft-light, luminosity;
   text-rendering: optimizeLegibility;
   position: relative;
 }
@@ -202,6 +205,7 @@ hr {
 .navbar {
   margin: 0 auto 1em;
   background: #eeeed4;
+  background: rgba(230,230,200,0.8);
   border-bottom: 1px solid #ccd;
   padding: 0.25em 0;
   .navbar-header {
@@ -315,6 +319,7 @@ footer .copy, footer .copy a {
 article.listing {
   padding: 15px;
   margin: 0 -15px;
+  border: none;
   header {
     margin: 0;
     h2 {
@@ -336,8 +341,19 @@ article.listing {
   footer {
     margin: 8px 0;
   }
+  .description {
+    opacity: 0.8;
+  }
   &:nth-child(2n) {
-    background: #eee;
+    background: rgba(0,0,0,0.1);
+    color: #333;
+  }
+}
+
+.btn-default {
+  background: rgba(255,255,245,0.5);
+  &:hover {
+    background: rgba(255,255,235,0.2);
   }
 }
 
