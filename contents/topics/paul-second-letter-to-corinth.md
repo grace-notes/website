@@ -6,7 +6,7 @@ tableOfContents: true
 template: topic.jade
 ---
 
-#### 2 Corinthians 1
+# 2 Corinthians 1
 
 Salutation. PAUL, an Apostle of Jesus Christ by the will of God, and
 Timotheus the Brother, TO THE CHURCH of GOD WHICH IS IN CORINTH, AND TO
@@ -27,11 +27,10 @@ suffer; so that my hope is steadfast on your behalf;) and if, on the
 other hand, I am comforted, it is for your consolation, because I know
 that as you partake of my sufferings, so you partake also of my comfort.
 For I would have you know, brethren, concerning the tribulation which
-befell me in the province of Asia,
-[^2] that I was exceedingly
-pressed down by it beyond my strength to bear, so as to despair , even
-of life. Nay, by my own self I was already doomed to death; that I might
-rely no more upon myself, but upon God who raises the dead to life; who
+befell me in the province of Asia, [^2] that I was exceedingly pressed
+down by it beyond my strength to bear, so as to despair , even of life.
+Nay, by my own self I was already doomed to death; that I might rely no
+more upon myself, but upon God who raises the dead to life; who
 delivered me from a death so grievous, and does yet deliver me; in whom
 I have hope that He will still deliver me for the time to come; you also
 helping me by your supplications for me, that thanksgivings may from
@@ -42,10 +41,9 @@ For this is my boast the testimony of my conscience, that I have dealt
 with the world, and above all with you, in godly honesty and singleness
 of mind, not in the strength of carnal wisdom, but in the strength of
 God’s grace. For I write nothing else to you but what you read openly,
-[^3] yea and what you
-acknowledge inwardly, and I hope that even to the end you will
-acknowledge, as some of you have already acknowledged, that I am your
-boast, even as you are mine, in the day of the Lord Jesus.
+[^3] yea and what you acknowledge inwardly, and I hope that even to the
+end you will acknowledge, as some of you have already acknowledged, that
+I am your boast, even as you are mine, in the day of the Lord Jesus.
 
 And in this confidence it was my wish to come first . to you, and that
 afterwards you might have a second benefit; and to go by you into
@@ -62,108 +60,95 @@ acknowledges their fulfillment,] is uttered to the praise of God by our
 voice. But God is He who keeps both us and you steadfast to His
 anointed, and we also are anointed by Him. And He has set His seal upon
 us, and has given us the Spirit to dwell in our hearts, as the earnest
-[^4] of His promises. But for
-my own part, I call God to witness, as my soul shall answer for it, that
-I gave up my purpose of visiting Corinth because I wished to spare you.
-I speak not [^5] as though
-your faith was enslaved to my authority, but because I desire to your
-joy; for your faith is steadfast.
+[^4] of His promises. But for my own part, I call God to witness, as my
+soul shall answer for it, that I gave up my purpose of visiting Corinth
+because I wished to spare you.  I speak not [^5] as though your faith
+was enslaved to my authority, but because I desire to your joy; for your
+faith is steadfast.
 
-#### 2 Corinthians 2
+# 2 Corinthians 2
 
 But I determined not again to visit you in grief; for if I cause you
 grief, who is there to cause me joy, but those whom I have grieved? And
-for this very reason I wrote
-[^6] to you instead of coming,
-that I might not receive grief from those who ought to give me joy; and
-I confide in you all that my joy is yours. For I wrote to you out of
-much affliction and anguish of heart, with many tears; not to pain you,
-but that you might know the abundance of my love.
+for this very reason I wrote [^6] to you instead of coming, that I might
+not receive grief from those who ought to give me joy; and I confide in
+you all that my joy is yours. For I wrote to you out of much affliction
+and anguish of heart, with many tears; not to pain you, but that you
+might know the abundance of my love.
 
-As concerns him [^7] who has
-caused the pain it is not me that he has pained, but some of you; [some,
-I say,] that I may not press too harshly upon all. For the offender
-himself, this punishment, which has been inflicted on him by the
-sentence of the majority, [^8]
-is sufficient without increasing it. On the contrary, you ought rather
-to forgive and comfort him, lest he should be overwhelmed by the excess
-of his sorrow. Wherefore I beseech you fully to restore him to your
-love. For the very end which I sought when I wrote before, was to test
-you in this matter, and learn whether you would be obedient in all
-things. But whomsoever you forgive, I forgive also; for whatever
-[^9] I have forgiven, I have
+As concerns him [^7] who has caused the pain it is not me that he has
+pained, but some of you; [some, I say,] that I may not press too harshly
+upon all. For the offender himself, this punishment, which has been
+inflicted on him by the sentence of the majority, [^8] is sufficient
+without increasing it. On the contrary, you ought rather to forgive and
+comfort him, lest he should be overwhelmed by the excess of his sorrow.
+Wherefore I beseech you fully to restore him to your love. For the very
+end which I sought when I wrote before, was to test you in this matter,
+and learn whether you would be obedient in all things. But whomsoever
+you forgive, I forgive also; for whatever [^9] I have forgiven, I have
 forgiven on your account in the sight of Christ, that we may not be
 overreached by Satan; for we are not ignorant of his devices.
 
 When I had come to Troas to publish the Glad Tidings of Christ, and a
 door was opened to me m the Lord, I had no rest in my spirit because I
-found not Titus my brother; so that I parted from them ,
-[^10] and came from thence
-into Macedonia. But thanks be to God who leads me on from place to place
-in the train of his triumph, to celebrate his victory over the enemies
-of Christ; [^11] and by me
-sends forth the knowledge of Him, a steam of fragrant incense,
-throughout the world. For Christ’s is the fragrance which I offer up to
-God, whether among those in the way of salvation, or among those in the
-way of perdition; but to these it is an odor of death, to those of life.
-And [if some among you deny my sufficiency], who then is sufficient for
-these things? For I seek not profit (like most) by setting the word of
-God to sale, [^12] but I
-speak from a single heart, from the command of God, as in God’s
-presence, and in fellowship with Christ.
+found not Titus my brother; so that I parted from them , [^10] and came
+from thence into Macedonia. But thanks be to God who leads me on from
+place to place in the train of his triumph, to celebrate his victory
+over the enemies of Christ; [^11] and by me sends forth the knowledge of
+Him, a steam of fragrant incense, throughout the world. For Christ’s is
+the fragrance which I offer up to God, whether among those in the way of
+salvation, or among those in the way of perdition; but to these it is an
+odor of death, to those of life.  And [if some among you deny my
+sufficiency], who then is sufficient for these things? For I seek not
+profit (like most) by setting the word of God to sale, [^12] but I speak
+from a single heart, from the command of God, as in God’s presence, and
+in fellowship with Christ.
 
-#### 2 Corinthians 3
+# 2 Corinthians 3
 
 Will you say that I am again beginning to commend myself? Or think you
 that I need letters of commendation (like some other men) either to you,
 or from you? Nay, ye are yourselves my letter of commendation, a letter
-written on I my heart, known and read by all men; a letter
-[^13] coming manifestly from
-Christ, and committed to my charge; written not with ink, but with the
-Spirit of the living God; not upon tablets of stone, but upon the
-fleshly tablets of the heart. But through Christ have I this confidence
-before God; not thinking myself sufficient to gain wisdom by my own
-reasoning, [^14] as if it
-came from myself, but drawing my sufficiency from God.
+written on I my heart, known and read by all men; a letter [^13] coming
+manifestly from Christ, and committed to my charge; written not with
+ink, but with the Spirit of the living God; not upon tablets of stone,
+but upon the fleshly tablets of the heart. But through Christ have I
+this confidence before God; not thinking myself sufficient to gain
+wisdom by my own reasoning, [^14] as if it came from myself, but drawing
+my sufficiency from God.
 
 For He it is who has made me suffice for the ministration of a new
 covenant, a covenant not of letter, but of spirit; for the letter kills,
 (cf. Rom. 7:9 11) but the spirit makes the dead to live. Yet if a glory
 was shed upon the ministration of the law of death, (a law written in
-letters, and graven upon stones,)
-[^15] so that the sons of
-Israel could not fix their eyes on the face of Moses, for the glory of
-his countenance, although its brightness was soon to fade; how far more
+letters, and graven upon stones,) [^15] so that the sons of Israel could
+not fix their eyes on the face of Moses, for the glory of his
+countenance, although its brightness was soon to fade; how far more
 glorious must the ministration of the spirit be. For if the ministration
 of doom had glory, far more must the ministration of righteousness
-abound in glory. [^16] Yea,
-that which then was glorious has no glory now, because of
-[^17] the surpassing glory
-wherewith it is compared. For if a glory shone upon that which” was
-doomed to pass away, much more doth glory rest upon that which remains
-for ever. Therefore, having this hope, I speak and act without disguise;
-and not like Moses, who spread a veil over his face, that
-[^18] the sons of Israel
-might not see the end of that fading brightness. But their minds were
-blinded; yea to this day, when they read in their synagogues
-[^19] the ancient covenant,
-the same veil rests thereon, nor can they see beyond it that the law is
-done away in Christ; but even now, when Moses is read in their hearing,
-a veil [^20] lies upon their
-heart. But when their heart turns to the Lord, the veil is rent away.
-Now the Lord is the Spirit; and where the Spirit of the Lord abides,
-there bondage gives place to freedom; and we all, while with face
-unveiled we behold in a mirror the glory of the Lord, are ourselves
-transformed continually into the same likeness; and the glory which
-shines upon us [^21] is
-reflected by us, even as it proceeds from the Lord, the Spirit.
+abound in glory. [^16] Yea, that which then was glorious has no glory
+now, because of [^17] the surpassing glory wherewith it is compared. For
+if a glory shone upon that which” was doomed to pass away, much more
+doth glory rest upon that which remains for ever. Therefore, having this
+hope, I speak and act without disguise; and not like Moses, who spread a
+veil over his face, that [^18] the sons of Israel might not see the end
+of that fading brightness. But their minds were blinded; yea to this
+day, when they read in their synagogues [^19] the ancient covenant, the
+same veil rests thereon, nor can they see beyond it that the law is done
+away in Christ; but even now, when Moses is read in their hearing, a
+veil [^20] lies upon their heart. But when their heart turns to the
+Lord, the veil is rent away.  Now the Lord is the Spirit; and where the
+Spirit of the Lord abides, there bondage gives place to freedom; and we
+all, while with face unveiled we behold in a mirror the glory of the
+Lord, are ourselves transformed continually into the same likeness; and
+the glory which shines upon us [^21] is reflected by us, even as it
+proceeds from the Lord, the Spirit.
 
-#### 2 Corinthians 4
+# 2 Corinthians 4
 
 Therefore having this ministration, I discharge it with no faint hearted
-fears, remembering the mercy which I received.
-[^22] I have renounced the
-secret dealings of shame, I walk not in the paths of cunning, I
+fears, remembering the mercy which I received.  [^22] I have renounced
+the secret dealings of shame, I walk not in the paths of cunning, I
 adulterate not the word of God; but openly setting forth the truth, as
 in the sight of God, I commend myself to the conscience of all men. But
 if there be still a veil which hides my Glad tidings from some who hear
@@ -176,18 +161,16 @@ darkness, has caused His light to shine in my heart, that [upon others
 also] might shine forth the knowledge of His glory manifested in the
 face of Jesus Christ.
 
-But this treasure is lodged in a body of fragile clay,
-[^23] that so the surpassing
-might which accomplishes the work should be God’s and not my own. I am
-hard pressed, yet not crushed; perplexed, yet not despairing;
+But this treasure is lodged in a body of fragile clay, [^23] that so the
+surpassing might which accomplishes the work should be God’s and not my
+own. I am hard pressed, yet not crushed; perplexed, yet not despairing;
 persecuted, yet not forsaken; struck down, yet not destroyed. In my body
 I bear about continually the dying of Jesus, that in my body the life
 also of Jesus might be shown forth. For I, in the midst of life, am
 daily given over to death for the sake of Jesus, that in my dying flesh
 the life whereby Jesus conquered death might show forth its power.
 
-So then death working in me, works life
-[^24] in you. Yet having the
+So then death working in me, works life [^24] in you. Yet having the
 same spirit of faith whereof it is written “I believed, and therefore
 did I speak.” Psalm 116:10 I also believe, and therefore speak. For I
 know that He who raised the Lord Jesus from the dead, shall raise me
@@ -195,34 +178,32 @@ also by Jesus, and shall call me into His presence together with you;
 for all [my sufferings] are on your behalf, that the mercy which has
 abounded above them all, might call forth ·your thankfulness; that so
 the fullness of praise might be poured forth to God, not by myself
-alone, but multiplied by many voices.
-[^25] Wherefore I faint not;
-but though my outward man decays, yet my inward man is renewed from day
-to day. For my light afflictions, which last but for a moment, work for
-me a weight of glory, immeasurable and eternal. Meanwhile I look not to
+alone, but multiplied by many voices.  [^25] Wherefore I faint not; but
+though my outward man decays, yet my inward man is renewed from day to
+day. For my light afflictions, which last but for a moment, work for me
+a weight of glory, immeasurable and eternal. Meanwhile I look not to
 things seen, but to things unseen: for the things that are seen pass
 away; but the things that are unseen endure for ever.
 
-#### 2 Corinthians 5
+# 2 Corinthians 5
 
 Yea, I know that if the tent which is my earthly house be destroyed, I
 have a mansion built by God, a house not made with hands, eternal in the
 heavens. And herein I groan with earnest longings, desiring to cover my
 earthly raiment with the robes of my heavenly mansion. (If indeed I
-shall be found [^26] still
-clad in my fleshly garment.) For we who are dwelling in the tent, groan
-and are burdened; not desiring to put off our [earthly] clothing, but to
-put over it [our heavenly] raiment, that this our dying nature might be
-swallowed up by life. And He who has prepared me for this very end is
-God, who has given me the Spirit as the earnest of my hope. Therefore, I
-am ever of good courage, knowing that while my home is in the body, I am
-in banishment from the Lord (for I walk by faith, not by sight). Yea, my
-heart fails me not, but I would gladly suffer banishment from the body,
-and have my home with Christ. Therefore I strive earnestly that, whether
-in banishment or at home, I may be pleasing in His sight. For we must
-all be made manifest without disguise before the judgment seat of
-Christ, that each may receive according to that which he has done in the
-body, either good or evil.
+shall be found [^26] still clad in my fleshly garment.) For we who are
+dwelling in the tent, groan and are burdened; not desiring to put off
+our [earthly] clothing, but to put over it [our heavenly] raiment, that
+this our dying nature might be swallowed up by life. And He who has
+prepared me for this very end is God, who has given me the Spirit as the
+earnest of my hope. Therefore, I am ever of good courage, knowing that
+while my home is in the body, I am in banishment from the Lord (for I
+walk by faith, not by sight). Yea, my heart fails me not, but I would
+gladly suffer banishment from the body, and have my home with Christ.
+Therefore I strive earnestly that, whether in banishment or at home, I
+may be pleasing in His sight. For we must all be made manifest without
+disguise before the judgment seat of Christ, that each may receive
+according to that which he has done in the body, either good or evil.
 
 Knowing therefore the fearfulness of the Lord’s judgment, though I seek
 to win men, yet my uprightness is manifest in the sight of Gael· and I
@@ -233,25 +214,23 @@ those whose boasting is in the outward matters of sight, not in the
 inward possessions of the heart. For if I be mad, it is for God’s cause;
 if sober, it is for yours. For the love of Christ constrains me, because
 I thus have judged, that if one died for all, then all died [in Him]
-[^27]; and that He died for
-all, that the living might live no longer to themselves, but to Him,
-who, for their sakes, died and rose again.
+[^27]; and that He died for all, that the living might live no longer to
+themselves, but to Him, who, for their sakes, died and rose again.
 
 I therefore, from henceforth, view no man carnally; yea, though once my
-view of Christ was carnal,
-[^28] yet now it is no longer
-carnal. Whosoever, then, is in Christ, is a new creation; his old being
-has passed away, and behold, all has become new. But all comes from God,
-for He it is who reconciled me to Himself by Jesus Christ, and charged
-me with the ministry of reconciliation; for God was in Christ
-reconciling the world to Himself, reckoning their sins no more against
-them, and having ordained me to speak the word of reconciliation.
-Therefore, I am an ambassador for Christ, as though God exhorted you by
-my voice; in Christ’s stead I beseech you be ye reconciled to God. For
-Him who knew no sin, God struck with the doom of sin on our behalf; that
-we may be changed into the righteousness of God in Christ.
+view of Christ was carnal, [^28] yet now it is no longer carnal.
+Whosoever, then, is in Christ, is a new creation; his old being has
+passed away, and behold, all has become new. But all comes from God, for
+He it is who reconciled me to Himself by Jesus Christ, and charged me
+with the ministry of reconciliation; for God was in Christ reconciling
+the world to Himself, reckoning their sins no more against them, and
+having ordained me to speak the word of reconciliation.  Therefore, I am
+an ambassador for Christ, as though God exhorted you by my voice; in
+Christ’s stead I beseech you be ye reconciled to God. For Him who knew
+no sin, God struck with the doom of sin on our behalf; that we may be
+changed into the righteousness of God in Christ.
 
-#### 2 Corinthians 6
+# 2 Corinthians 6
 
 Moreover, as working together with Him, I also exhort you, that the
 grace which you have received from God be not in vain. For he saith: “I
@@ -291,10 +270,9 @@ dwell in them, and walk in them, and I will be their God, and they shall
 be my people.” (Lev. 26:11,12) Wherefore, “Come out from among them and
 be ye separate, saith the Lord, and touch not the unclean thing, and I
 will receive you.” (Isa. 52:11) And, “I will be unto you a father, and
-ye shall be my sons and daughters, saith the Lord Almighty.”
-[^29]
+ye shall be my sons and daughters, saith the Lord Almighty.” [^29]
 
-#### 2 Corinthians 7
+# 2 Corinthians 7
 
 Having therefore these promises, my beloved, let us cleanse ourselves
 from every defilement, either of flesh or spirit, and perfect our
@@ -325,14 +303,11 @@ you]. For the work of godly sorrow is repentance not to be repented of,
 leading to salvation; but the work of worldly sorrow is death. Consider
 what was wrought among yourselves when you were grieved with a godly
 sorrow; what earnestness it wrought in you, yea, what eagerness to clear
-yourselves from blame, what indignation,
-[^30] what fear,
-[^31] what longing, what
-zeal, [^32] what punishment
-of wrong. You have cleared yourselves altogether from every stain of
-guilt in this matter. Know, therefore, that although I wrote to [rebuke]
-you, it was not so much to punish the wrong doer, nor to avenge him
-[^33] who suffered the wrong,
+yourselves from blame, what indignation, [^30] what fear, [^31] what
+longing, what zeal, [^32] what punishment of wrong. You have cleared
+yourselves altogether from every stain of guilt in this matter. Know,
+therefore, that although I wrote to [rebuke] you, it was not so much to
+punish the wrong doer, nor to avenge him [^33] who suffered the wrong,
 but that my earnest zeal for you in the sight of Gael might be manifest
 to yourselves.
 
@@ -346,7 +321,7 @@ towards you, while he calls to mind the obedience of you all, and the
 fear and trembling wherewith you received him. I rejoice that in all
 things you give me ground for courage.
 
-#### 2 Corinthians 8
+# 2 Corinthians 8
 
 I desire, brethren, to make known to you the manifestation of God’s
 grace, which has been given in the churches of Macedonia. For in the
@@ -371,42 +346,39 @@ rich.
 
 And I give you my advice in this matter; for it becomes you to do thus,
 inasmuch as you began not only the contribution, but the purpose of
-making it before others,
-[^34] in the year which is
-passed. Now, therefore, fulfill your purpose by your deeds, that as you
-then showed your readiness of will, so now you may finish the work,
-according to your means. For if there be a willing mind, the gift is
-acceptable when measured by the giver’s power, and needs not to go
-beyond. Nor [is this collection made] that others may be eased, and you
-distressed, but to make your burdens equal, that as now your abundance
-supplies their need, your own need may [at another time] be relieved in
-equal measure by their abundance, as it is written, “He that gathered
-much had nothing over; and he that gathered little had no lack.” (Exo.
-16:18) But, thanks be to God, by whose gift the heart of Titus has the
-same zeal as my own on your behalf; for he not only has consented to my
-desire, but is himself very zealous in the matter, and departs to you of
-his own accord. And I have sent as his companion the brother who is with
-him, whose praise in publishing the Glad tidings is spread throughout
-all the churches; who has moreover been chosen by the churches [of
-Macedonia] to accompany me in my journey (when I bear this gift, which I
-have undertaken to administer) ; that the Lord might be glorified, and
-that [^35] I might undertake
-the task with more good will. For I guard myself against all suspicion
-which might be cast upon me in my administration of this bounty with
-which I am charged; being “provident of good report” not only “in the
-sight of the Lord,” but also “in the sight of men.”
-[^36] The brother
-[^37] whom I have sent
-likewise with them, is one whom I have put to the proof in many trials,
-and found always zealous in the work, but who is now yet more zealous
-from the full trust which he has in you. Concerning Titus, then (on the
-one hand), he is partner of my lot, and fellow laborer with me for your
-good; concerning our brethren (on the other hand), they are ambassadors
-of the churches a manifestation of the glory of Christ. Show them,
-therefore, the proof of your love, and justify my boasting on your
-behalf, in the sight of the churches.
+making it before others, [^34] in the year which is passed. Now,
+therefore, fulfill your purpose by your deeds, that as you then showed
+your readiness of will, so now you may finish the work, according to
+your means. For if there be a willing mind, the gift is acceptable when
+measured by the giver’s power, and needs not to go beyond. Nor [is this
+collection made] that others may be eased, and you distressed, but to
+make your burdens equal, that as now your abundance supplies their need,
+your own need may [at another time] be relieved in equal measure by
+their abundance, as it is written, “He that gathered much had nothing
+over; and he that gathered little had no lack.” (Exo.  16:18) But,
+thanks be to God, by whose gift the heart of Titus has the same zeal as
+my own on your behalf; for he not only has consented to my desire, but
+is himself very zealous in the matter, and departs to you of his own
+accord. And I have sent as his companion the brother who is with him,
+whose praise in publishing the Glad tidings is spread throughout all the
+churches; who has moreover been chosen by the churches [of Macedonia] to
+accompany me in my journey (when I bear this gift, which I have
+undertaken to administer) ; that the Lord might be glorified, and that
+[^35] I might undertake the task with more good will. For I guard myself
+against all suspicion which might be cast upon me in my administration
+of this bounty with which I am charged; being “provident of good report”
+not only “in the sight of the Lord,” but also “in the sight of men.”
+[^36] The brother [^37] whom I have sent likewise with them, is one whom
+I have put to the proof in many trials, and found always zealous in the
+work, but who is now yet more zealous from the full trust which he has
+in you. Concerning Titus, then (on the one hand), he is partner of my
+lot, and fellow laborer with me for your good; concerning our brethren
+(on the other hand), they are ambassadors of the churches a
+manifestation of the glory of Christ. Show them, therefore, the proof of
+your love, and justify my boasting on your behalf, in the sight of the
+churches.
 
-#### 2 Corinthians 9
+# 2 Corinthians 9
 
 For of your ministration to the saints [at Jerusalem] it is needless
 that I should write to you, since I know the forwardness of your mind,
@@ -417,24 +389,22 @@ you in this matter should be turned into an empty boast; that you may be
 truly ready, as I declared you to be. Lest perchance the Macedonians who
 may come with me to visit you, should find you not yet ready, and so
 shame should fall upon me (for I will not say upon you) in this ground
-of my boasting. [^38] Therefore,
-I thought it needful to desire these brethren to visit you before my
-coming, and to arrange beforehand the completion of this bounty which
-you before promised to have in readiness; so it be really given by your
-bounty, not wrung from your covetousness. But remember, he who sows
-sparingly shall reap sparingly; and he who sows bountifully, shall reap
-bountifully. Let each do according to the free choice of his heart; not
-grudgingly, or of necessity; for “God loveth a cheerful giver.” (Prov.
-22:8) And God is able to give you an overflowing measure of all good
-gifts, that all your wants of every kind may be supplied at all times,
-and you may give of your abundance to every good work. As it is written,
-“The good man hath scattered abroad, he hath given to the poor; his
-righteousness remaineth for ever.”
-[^39] And He who furnishes
-“seed to the sower, and bread for the food of man,”
-[^40] will furnish you with plenteous store
-of seed, and bless your righteousness with fruits of increase; being
-enriched with all good things, that you may give un grudgingly; causing
+of my boasting. [^38] Therefore, I thought it needful to desire these
+brethren to visit you before my coming, and to arrange beforehand the
+completion of this bounty which you before promised to have in
+readiness; so it be really given by your bounty, not wrung from your
+covetousness. But remember, he who sows sparingly shall reap sparingly;
+and he who sows bountifully, shall reap bountifully. Let each do
+according to the free choice of his heart; not grudgingly, or of
+necessity; for “God loveth a cheerful giver.” (Prov.  22:8) And God is
+able to give you an overflowing measure of all good gifts, that all your
+wants of every kind may be supplied at all times, and you may give of
+your abundance to every good work. As it is written, “The good man hath
+scattered abroad, he hath given to the poor; his righteousness remaineth
+for ever.” [^39] And He who furnishes “seed to the sower, and bread for
+the food of man,” [^40] will furnish you with plenteous store of seed,
+and bless your righteousness with fruits of increase; being enriched
+with all good things, that you may give un grudgingly; causing
 thanksgivings to God, from those to whom I bear your gifts. For the
 ministration of this service not only fills up the measure of the
 necessities of the saints, but also overflows beyond it, in many thanks
@@ -445,7 +415,7 @@ in their prayers for you they express the earnest longings of their love
 towards you, caused by the surpassing grace of God manifested in you.
 Thanks be to God for His unspeakablegift**.**
 
-#### 2 Corinthians 10
+# 2 Corinthians 10
 
 Now, I Paul, myself exhort you by the meekness and gentleness of Christ,
 (I, who am mean, forsooth, and lowly in outward presence, while I am
@@ -490,7 +460,7 @@ limit. Meantime, “He that boasteth, let him boast in the Lord.” (Jer.
 9:24) For a man is proved worthy, not when he commends himself, but when
 he is commended by the Lord.
 
-#### 2 Corinthians 11
+# 2 Corinthians 11
 
 Would that ye could bear with me a little in my folly! Yea, ye already
 bear with me. For I love you with a godly jealousy, because I betrothed
@@ -509,9 +479,8 @@ it a sin [which must rob me of the name of Apostle], that I proclaimed
 to you, without fee or reward, the Glad tidings of God, and abased:;
 myself that you might be exalted? Other churches I spoiled, and took
 their wages to do you service. And when I was with you, though I was in
-want, I pressed not upon any of you; for the brethren,
-[^42] when they came from
-Macedonia, supplied my needs; and I kept, and will keep myself
+want, I pressed not upon any of you; for the brethren, [^42] when they
+came from Macedonia, supplied my needs; and I kept, and will keep myself
 altogether from casting a burden upon you. As the truth of Christ is in
 me, no deed of mine shall rob me of this boasting in the region of
 Achaia. And why? Because I love you not? God knows my love. But what I
@@ -540,27 +509,25 @@ am I. Are they servants of Christ? (I speak as though I were beside
 myself) such, far more am I. In labors more abundant, in stripes above
 measure, in prisons more frequent, in deaths oft. (five times I received
 from Jews the forty stripes save one; thrice I was scourged with the
-Roman rods; once I was stoned; thrice I suffered shipwreck;
-[^43] a night and a day have
-I spent in the open 7 sea.) In journeyings often; in perils of rivers,
-in perils of robbers; in perils from my countrymen, in perils from the
-heathen; in perils in the city, in perils in the wilderness, in perils
-in the sea; in perils among false brethren. In toil and weariness, often
-in sleepless watchings; in hunger and thirst, often without bread to
-eat; in cold and nakedness. And besides all the rest, I there is the
-crowd which presses upon me daily, and the care of all the churches. Who
-is weak, but I share his” weakness? Who is caused to fall, but I burn
-with indignation ? If I must needs boast, I will boast of my weakness.
-God, who is the Father of our Lord Jesus Christ, He who is blessed for
-ever, knows that I lie not.
+Roman rods; once I was stoned; thrice I suffered shipwreck; [^43] a
+night and a day have I spent in the open 7 sea.) In journeyings often;
+in perils of rivers, in perils of robbers; in perils from my countrymen,
+in perils from the heathen; in perils in the city, in perils in the
+wilderness, in perils in the sea; in perils among false brethren. In
+toil and weariness, often in sleepless watchings; in hunger and thirst,
+often without bread to eat; in cold and nakedness. And besides all the
+rest, I there is the crowd which presses upon me daily, and the care of
+all the churches. Who is weak, but I share his” weakness? Who is caused
+to fall, but I burn with indignation ? If I must needs boast, I will
+boast of my weakness.  God, who is the Father of our Lord Jesus Christ,
+He who is blessed for ever, knows that I lie not.
 
 In Damascus, the governor under Aretas, the king, kept watch over the
 city with a garrison, purposing to apprehend me; and I was let down by
 the wall, through a window, in a basket, and thus [not by my strength,
-but by my weakness] I escaped his hands.
-[^44]
+but by my weakness] I escaped his hands.  [^44]
 
-#### 2 Corinthians 12
+# 2 Corinthians 12
 
 It is not for me, then, to boast. But I will come also to visions and
 revelations of the Lord. I know a man who was caught up fourteen years
@@ -580,11 +547,10 @@ revelations, I should be lifted up with pride, there was given me a
 thorn in the flesh, a messenger of Satan, to buffet me, to keep down my
 pride. And thrice I besought the Lord concerning it, that it might
 depart from me. But He hath said to me, , My grace is sufficient for
-thee; for my strength is mighty
-[^45] in weakness.” Most
-gladly, therefore, will I boast rather in my weakness than in my
-strength, that the strength of Christ may rest upon me and dwell in me.
-Therefore I rejoice in signs of weakness, in outrage, in necessities, in
+thee; for my strength is mighty [^45] in weakness.” Most gladly,
+therefore, will I boast rather in my weakness than in my strength, that
+the strength of Christ may rest upon me and dwell in me.  Therefore I
+rejoice in signs of weakness, in outrage, in necessities, in
 persecutions, in straitness of distress, endured for Christ; for when I
 am weak, then am I strong.
 
@@ -620,7 +586,7 @@ over many among those who have sinned before and who have not repented
 of the uncleanness, and fornication, and wantonness which they
 committed.
 
-#### 2 Corinthians 13
+# 2 Corinthians 13
 
 I now come to you for the third time. “Out of the mouth of two or three
 witnesses shall every word be confirmed.” (Deut. 19:15) I have warned
@@ -787,15 +753,14 @@ forwardness, when St. Paul wrote to Corinth. He speaks of liberal funds
 as being already pressed upon his acceptance (2 Cor. 8:4), and the
 delegates who were to accompany him to Jerusalem had already been chosen
 (2 Cor. 8:19, 23). We do not know how many of the Churches of Macedonia
-took part in this collection,
-[^46] but we cannot doubt
-that that of Philippi held a conspicuous place in so benevolent a work.
-In the case of the Philippian Church, this bounty was only a
-continuation of the benevolence they had begun before, and an earnest of
-that which gladdened the Apostle’s heart in his imprisonment at Rome.”
-In the beginning of the Gospel” they and they only had sent once and
-again 3 to relieve his wants, both at Thessalonica and at Corinth (Phil.
-4:15, 16); and” at the last” their care of their friend and teacher”
+took part in this collection, [^46] but we cannot doubt that that of
+Philippi held a conspicuous place in so benevolent a work.  In the case
+of the Philippian Church, this bounty was only a continuation of the
+benevolence they had begun before, and an earnest of that which
+gladdened the Apostle’s heart in his imprisonment at Rome.” In the
+beginning of the Gospel” they and they only had sent once and again 3 to
+relieve his wants, both at Thessalonica and at Corinth (Phil.  4:15,
+16); and” at the last” their care of their friend and teacher”
 flourished again” , and they sent their gifts to him at Rome, as now
 they sent to their unknown brethren at Jerusalem. The Philippians are in
 the Epistles what that poor woman is in the Gospels, who placed two
@@ -820,150 +785,142 @@ and this seems to be the right place to make a more particular allusion
 to him, for he was nearly concerned in all the steps of the collection
 now in progress.
 
-[^1]: This article is from Conybeare, W. J. and Howson,
-J. S, *The Life and Epistles of St. Paul, Chapter 15*
+[^1]: This article is from Conybeare, W. J. and Howson, J. S, *The Life
+and Epistles of St. Paul, Chapter 15*
 
-[^2]: It has been questioned whet her St. Paul here
-refers to the Ephesian tumult of Acts 19; and it is urged that he was
-not then in danger of his life. But had he been found by the mob during
-the period of their excitement, there can be little doubt that he would
-have been torn to pieces, or perhaps thrown to wild beasts in the Arena;
-and it seems improbable that within so short a period he should again
-have been exposed to peril of his life in the same place, and that
-nothing should have been said of it in the Acts. Some commentators have
-held (and the view has been ably advocated by Dean Alford) that St. Paul
-refers to a. dangerous attack of illness. With this opinion we so far
-agree that we believe St. Paul to have been suffering from bodily
-illness when he wrote this Epistle. St. Paul’s statement here that he
-was “self-doomed to death” certainly looks very like a reference to a
-very dangerous illness, in which he had despaired of recovery.
+[^2]: It has been questioned whet her St. Paul here refers to the
+Ephesian tumult of Acts 19; and it is urged that he was not then in
+danger of his life. But had he been found by the mob during the period
+of their excitement, there can be little doubt that he would have been
+torn to pieces, or perhaps thrown to wild beasts in the Arena; and it
+seems improbable that within so short a period he should again have been
+exposed to peril of his life in the same place, and that nothing should
+have been said of it in the Acts. Some commentators have held (and the
+view has been ably advocated by Dean Alford) that St. Paul refers to a.
+dangerous attack of illness. With this opinion we so far agree that we
+believe St. Paul to have been suffering from bodily illness when he
+wrote this Epistle. St. Paul’s statement here that he was “self-doomed
+to death” certainly looks very like a reference to a very dangerous
+illness, in which he had despaired of recovery.
 
-[^3]: The word means *you read aloud*, that is, when the
-Epistles of St. Paul were read publicly to the congregation. Compare 1
-Thess. 5:27.
+[^3]: The word means *you read aloud*, that is, when the Epistles of St.
+Paul were read publicly to the congregation. Compare 1 Thess. 5:27.
 
-[^4]: Literally, the earnest money, i.e. a small sum
-which was paid in advance, as the ratification of a bargain; a custom
-which still prevails in many countries. The gift of the Holy Spirit in
-this life is said by St. Paul to be the earnest of their future
-inheritance; he repeats the expression 2 Cor. 5:5, and Eph. 1:14, and
-expresses the same thing under a different metaphor Rom. 8:23.
+[^4]: Literally, the earnest money, i.e. a small sum which was paid in
+advance, as the ratification of a bargain; a custom which still prevails
+in many countries. The gift of the Holy Spirit in this life is said by
+St. Paul to be the earnest of their future inheritance; he repeats the
+expression 2 Cor. 5:5, and Eph. 1:14, and expresses the same thing under
+a different metaphor Rom. 8:23.
 
-[^5]: St. Paul adds this sentence to soften what might
-seem the magisterial tone of the preceding, in which he had implied his
-power to punish the Corinthians.
+[^5]: St. Paul adds this sentence to soften what might seem the
+magisterial tone of the preceding, in which he had implied his power to
+punish the Corinthians.
 
 [^6]: i.e. First Corinthians
 
-[^7]: Literally, *if any man has caused pain;*a milder
-expression which would not in English bear so definite a meaning as it
-does in the Greek.
+[^7]: Literally, *if any man has caused pain;*a milder expression which
+would not in English bear so definite a meaning as it does in the Greek.
 
-[^8]: Not *many* (AV); but *the majority*. See, for the
-punishment, 1 Cor. 5:4.
+[^8]: Not *many* (AV); but *the majority*. See, for the punishment, 1
+Cor. 5:4.
 
 [^9]: The best MSS have the neuter, not the masculine.
 
 [^10]: Namely, from the Christians at Troas.
 
-[^11]: The verb here used (which is mistranslated in A.
-V.) means to lead a man as a captive in a triumphal procession; the full
-phrase means, to lead captive in a triumph over the enemies of Christ.
-The metaphor is taken from the triumphal procession of a victorious
-general. God is celebrating His triumph over His enemies; St. Paul (who
-had been so great an opponent of the Gospel) is a captive following in
-the train of the triumphal procession yet (at the same time, by a
-characteristic change of metaphor) an incense bearer, scattering incense
-(which was always done on these occasions) as the procession moves on.
-Some of the conquered enemies were put to death when the procession
-reached the Capitol; to them the smell of the incense was “an odor of
-death unto death;” to the rest who were spared, ‘an odor of life unto
-life.’ The metaphor appears to ha\\’e been a favorite one with St. Paul;
-it occurs again Col. 2:15.
+[^11]: The verb here used (which is mistranslated in A.  V.) means to
+lead a man as a captive in a triumphal procession; the full phrase
+means, to lead captive in a triumph over the enemies of Christ.  The
+metaphor is taken from the triumphal procession of a victorious general.
+God is celebrating His triumph over His enemies; St. Paul (who had been
+so great an opponent of the Gospel) is a captive following in the train
+of the triumphal procession yet (at the same time, by a characteristic
+change of metaphor) an incense bearer, scattering incense (which was
+always done on these occasions) as the procession moves on.  Some of the
+conquered enemies were put to death when the procession reached the
+Capitol; to them the smell of the incense was “an odor of death unto
+death;” to the rest who were spared, ‘an odor of life unto life.’ The
+metaphor appears to have been a favorite one with St. Paul; it occurs
+again Col. 2:15.
 
-[^12]: Literally, *to sell by retail*, including a
-notion of fraud in the selling. Compare the similar imputations against
-his Judaizing adversaries in 1 Thess. 2:3.
+[^12]: Literally, *to sell by retail*, including a notion of fraud in
+the selling. Compare the similar imputations against his Judaizing
+adversaries in 1 Thess. 2:3.
 
-[^13]: Literally, *being manifestly shown to be a letter
-of Christ conveyed by my ministration.*
+[^13]: Literally, *being manifestly shown to be a letter of Christ
+conveyed by my ministration.*
 
-[^14]: Literally, *to reach any conclusion by my own
-reason.*
+[^14]: Literally, *to reach any conclusion by my own reason.*
 
-[^15]: Literally, *if the ministration of death in
-letters, graven upon stones, was born in glory.*
+[^15]: Literally, *if the ministration of death in letters, graven upon
+stones, was born in glory.*
 
-[^16]: The whole of this contrast between the glory of
-the new and the old dispensations, appears to confirm the hypothesis
-that St. Paul’s chief antagonists at Corinth were of the Judaizing
-party.
+[^16]: The whole of this contrast between the glory of the new and the
+old dispensations, appears to confirm the hypothesis that St. Paul’s
+chief antagonists at Corinth were of the Judaizing party.
 
-[^17]: Literally, *For that which has been glorified in
-this particular, has not been glorified, because of the glory which
-surpasses it.*
+[^17]: Literally, *For that which has been glorified in this particular,
+has not been glorified, because of the glory which surpasses it.*
 
-[^18]: See Exo. 34:35. St. Paul here (as usual) blends
-the allegorical with the historical view of the passage referred to in
-the Old Testament.
+[^18]: See Exo. 34:35. St. Paul here (as usual) blends the allegorical
+with the historical view of the passage referred to in the Old
+Testament.
 
-[^19]: *In their synagogues* is implied in the term used
-here. Compare Acts 15:21.
+[^19]: *In their synagogues* is implied in the term used here. Compare
+Acts 15:21.
 
-[^20]: Perhaps there may be here an allusion to the
-Tallith, which (if we may assume this practice to be as old as the
-apostolic age) was worn in the synagogue by every worshipper, and was
-literally a veil hanging down over the breast.
+[^20]: Perhaps there may be here an allusion to the Tallith, which (if
+we may assume this practice to be as old as the apostolic age) was worn
+in the synagogue by every worshipper, and was literally a veil hanging
+down over the breast.
 
-[^21]: “From glory” indicates the origin of this
-transformation, namely, *the glory shining on us*; “to glory,” the
-effect; namely, *the reflection of that glory by us.* For the metaphor,
-compare 1 Cor. 13:12. We observe that in both passages that even the
-representation of divine truth given us by Christianity is only a
-*reflection* of the reality.
+[^21]: “From glory” indicates the origin of this transformation, namely,
+*the glory shining on us*; “to glory,” the effect; namely, *the
+reflection of that glory by us.* For the metaphor, compare 1 Cor. 13:12.
+We observe that in both passages that even the representation of divine
+truth given us by Christianity is only a *reflection* of the reality.
 
-[^22]: Referring to his conversion from a state of
-Jewish unbelief.
+[^22]: Referring to his conversion from a state of Jewish unbelief.
 
-[^23]: The whole of this passage, from this point to
-5:10, shows that St. Paul was suffering from bodily illness when he
-wrote. See also 12:7-9.
+[^23]: The whole of this passage, from this point to 5:10, shows that
+St. Paul was suffering from bodily illness when he wrote. See also
+12:7-9.
 
-[^24]: Literally, *while death works in me, life works
-in you.*i.e. the mortal peril to which St. Paul exposed himself was the
-instrument of bringing spiritual life to his converts.
+[^24]: Literally, *while death works in me, life works in you.*i.e. the
+mortal peril to which St. Paul exposed himself was the instrument of
+bringing spiritual life to his converts.
 
-[^25]: The literal translation would be, *that the favor
-which has abounded might, through the thanksgiving of the greater
-number, overflow to the praise of God.*
+[^25]: The literal translation would be, *that the favor which has
+abounded might, through the thanksgiving of the greater number, overflow
+to the praise of God.*
 
-[^26]: Literally, “Ifindeed I shall be found clad: and
-not stripped of my clothing”, I.e. If, at the Lord’s coming, I shall be
-found still living in the flesh. We know from other passages, that it
-was a matter of uncertainty with St. Paul whether he should survive to
-behold the second coming of Christ or not. Compare I Thess. 4:15, and 1
-Cor. 15:51. So, in the next verse, he expresses his desire that his
-fleshly body should be transformed into a spiritual body, without being
-‘unclad’ by death. The metaphor of ‘nakedness’ as combined with ‘tent’
-seems suggested by the Oriental practice of striking the tent very early
-in the morning, often before the travelers are dressed. So we read in
+[^26]: Literally, “Ifindeed I shall be found clad: and not stripped of
+my clothing”, I.e. If, at the Lord’s coming, I shall be found still
+living in the flesh. We know from other passages, that it was a matter
+of uncertainty with St. Paul whether he should survive to behold the
+second coming of Christ or not. Compare I Thess. 4:15, and 1 Cor. 15:51.
+So, in the next verse, he expresses his desire that his fleshly body
+should be transformed into a spiritual body, without being ‘unclad’ by
+death. The metaphor of ‘nakedness’ as combined with ‘tent’ seems
+suggested by the Oriental practice of striking the tent very early in
+the morning, often before the travelers are dressed. So we read in
 .McCheyne’s account of his journey through the desert, “When morning
 began to dawn, our tents were taken down. Often we have found ourselves
 shelterless before being fully dressed.’ (Life McCheyne, p. 92.) It
 should be observed that the original denotes simply dressed, clad, the
 antithesis to naked.
 
-[^27]: The original cannot mean *all were dead* (AV),
-but *all died*. The death of all for whom He died, was virtually
-involved in His death.
+[^27]: The original cannot mean *all were dead* (AV), but *all died*.
+The death of all for whom He died, was virtually involved in His death.
 
-[^28]: We agree [with other commentators] that this
-cannot refer to any actual knowledge which St. Paul had of our Lord when
-upon earth; it would probably have been “Jesus” had that been meant.
+[^28]: We agree [with other commentators] that this cannot refer to any
+actual knowledge which St. Paul had of our Lord when upon earth; it
+would probably have been “Jesus” had that been meant.
 
-[^29]: This passage is not to be found exactly in the
-Old Testament, although 2 Sam. 7:14 and Jer. 31:9 and 32:38, contain the
-substance of it.
+[^29]: This passage is not to be found exactly in the Old Testament,
+although 2 Sam. 7:14 and Jer. 31:9 and 32:38, contain the substance of
+it.
 
 [^30]: Indignation against the offender.
 
@@ -971,78 +928,75 @@ substance of it.
 
 [^32]: Zeal on behalf of right, and against wrong.
 
-[^33]: Namely, the father of the offender. We need not
-be perplexed at his wife’s forming another connection during his
-lifetime, when we consider the great laxity of the law of divorce among
-Greeks and Romans.
+[^33]: Namely, the father of the offender. We need not be perplexed at
+his wife’s forming another connection during his lifetime, when we
+consider the great laxity of the law of divorce among Greeks and Romans.
 
-[^34]: “Began before” namely, before the Macedonian
-churches. The meaning is, that the Corinthians had been the first not
-only to make the collection, but to propose it.
+[^34]: “Began before” namely, before the Macedonian churches. The
+meaning is, that the Corinthians had been the first not only to make the
+collection, but to propose it.
 
-[^35]: The reading of the best MSS, gives the sense as
-follows: *to promote my willingness of mind*, i.e. *to render me more
-willing to undertake the administration of the alms*, which St. Paul
-would have been unwilling to do without coadjutors elected by the
-contributors, lest he should incur unworthy suspicion.
+[^35]: The reading of the best MSS, gives the sense as follows: *to
+promote my willingness of mind*, i.e. *to render me more willing to
+undertake the administration of the alms*, which St. Paul would have
+been unwilling to do without coadjutors elected by the contributors,
+lest he should incur unworthy suspicion.
 
-[^36]: The quotation here is from Prov. 3:4, cited also
-in Rom. 12:17.
+[^36]: The quotation here is from Prov. 3:4, cited also in Rom. 12:17.
 
-[^37]: There is even less to guide us in our conjectures
-as to the person here indicated, than in the case of the other deputy
-mentioned above. Here, also, the emissary was elected by some of the
-Churches who had contributed to the collection. He may have been either
-Luke, Gaius, Tychicus, or Trophimus (Acts. 20:4).
+[^37]: There is even less to guide us in our conjectures as to the
+person here indicated, than in the case of the other deputy mentioned
+above. Here, also, the emissary was elected by some of the Churches who
+had contributed to the collection. He may have been either Luke, Gaius,
+Tychicus, or Trophimus (Acts. 20:4).
 
-[^38]: Literally, the word means, *the groundwork on
-which some superstructure is founded.* His appeal to the Macedonians was
-grounded on this readiness of the Corinthians. If (with the best MSS) we
-omit “of my boasting,” the meaning will be unaltered.
+[^38]: Literally, the word means, *the groundwork on which some
+superstructure is founded.* His appeal to the Macedonians was grounded
+on this readiness of the Corinthians. If (with the best MSS) we omit “of
+my boasting,” the meaning will be unaltered.
 
-[^39]: Psalm 110:9. The subject of the verb “scattered”
-in the psalm is “the good man” (in the 5<sup>th</sup> verse), which St.
-Paul leaves to be supplied by the memory of his readers. To represent
-the quotation accurately to an English reader, it is necessary to insert
-this word, otherwise it would seem as if “God” were the subject of the
-verb.
+[^39]: Psalm 110:9. The subject of the verb “scattered” in the psalm is
+“the good man” (in the 5<sup>th</sup> verse), which St.  Paul leaves to
+be supplied by the memory of his readers. To represent the quotation
+accurately to an English reader, it is necessary to insert this word,
+otherwise it would seem as if “God” were the subject of the verb.
 
-[^40]: These words are an exact quotation from Isaiah
-55:10. Ignorance of this fact has caused an inaccuracy in the A.V. The
-literal translation of the remainder of the verse is: *Furnish and make
+[^40]: These words are an exact quotation from Isaiah 55:10. Ignorance
+of this fact has caused an inaccuracy in the A.V. The literal
+translation of the remainder of the verse is: *Furnish and make
 plenteous your seed, and increase the fruits springing from your
 righteousness.*
 
-[^41]: We should notice in verses 3-6 the completeness
-of the military allegory. The image is that of a campaign against
-rebels: rock-forts (such as those on St. Paul’s own Cilician coast) must
-be case down; and when the general obedience of the country is secured,
-those who are still rebellious must be summarily punished. We should
-observe, too, the new turn given to one phrase (not *casting down* but
-*building up*) in verse 8, and even in 13:10.
+[^41]: We should notice in verses 3-6 the completeness of the military
+allegory. The image is that of a campaign against rebels: rock-forts
+(such as those on St. Paul’s own Cilician coast) must be case down; and
+when the general obedience of the country is secured, those who are
+still rebellious must be summarily punished. We should observe, too, the
+new turn given to one phrase (not *casting down* but *building up*) in
+verse 8, and even in 13:10.
 
-[^42]: Probably Timothy and Silvanus, who may have
-brought the contribution sent by the Philippians.
+[^42]: Probably Timothy and Silvanus, who may have brought the
+contribution sent by the Philippians.
 
-[^43]: The five Jewish scourgings, two of the three
-Roman beatings with rods (one being at Philippi), and the three
-shipwrecks, are all unrecorded in the Acts. The stoning was at Lystra.
-What a life of incessant adventure and peril is here disclosed to us.
-And when we remember that he who endured and dared all this was a man
-constantly suffering from infirm health, such heroic self-devotion seems
-almost superhuman.
+[^43]: The five Jewish scourgings, two of the three Roman beatings with
+rods (one being at Philippi), and the three shipwrecks, are all
+unrecorded in the Acts. The stoning was at Lystra.  What a life of
+incessant adventure and peril is here disclosed to us.  And when we
+remember that he who endured and dared all this was a man constantly
+suffering from infirm health, such heroic self-devotion seems almost
+superhuman.
 
-[^44]: We prefer the reading of the Textus Receptus
-(which is also adopted by Chrysostom and by Tischendorf) to that of the
-Vatican Manuscript, adopted by Lachmann. On the other hand, for what
-follows we take Lachmann’s reading, on the authority of the Codex
-Vaticanus, instead of the Textus Receptus, The whole passage is most
-perplexing, from the obscurity of its connection with what precedes and
-what follows. Why did St. Paul mention his escape from Damascus in so
-much detail? Was it merely as an event ignominious to himself? This
-seems the best view, but it is far from satisfactory. There is something
-most disappointing in his beginning thus to relate in detail the first
-in that series of wonderful escapes of which he had just before given a
+[^44]: We prefer the reading of the Textus Receptus (which is also
+adopted by Chrysostom and by Tischendorf) to that of the Vatican
+Manuscript, adopted by Lachmann. On the other hand, for what follows we
+take Lachmann’s reading, on the authority of the Codex Vaticanus,
+instead of the Textus Receptus, The whole passage is most perplexing,
+from the obscurity of its connection with what precedes and what
+follows. Why did St. Paul mention his escape from Damascus in so much
+detail? Was it merely as an event ignominious to himself? This seems the
+best view, but it is far from satisfactory. There is something most
+disappointing in his beginning thus to relate in detail the first in
+that series of wonderful escapes of which he had just before given a
 rapid sketch, and then suddenly and abruptly breaking off; leaving our
 curiosity roused and yet ungratified. We cannot agree with DeWette in
 considering the Damascene escape to be introduced as the climax of all
@@ -1051,9 +1005,9 @@ attestation of verse 31.
 
 [^45]: “Has its full development.”
 
-[^46]: In 2 Cor. 9:9 we find Philippi used as equivalent
-to Macedonia, and so it may be here. But it is not absolutely certain
-that 2 Cor. was written at Philippi. The churches in Macedonia were few,
-and communication among them was easy along the Via Egnatia; as when the
+[^46]: In 2 Cor. 9:9 we find Philippi used as equivalent to Macedonia,
+and so it may be here. But it is not absolutely certain that 2 Cor. was
+written at Philippi. The churches in Macedonia were few, and
+communication among them was easy along the Via Egnatia; as when the
 first contributions were sent from Philippi to St. Paul at Thessalonica.
 
