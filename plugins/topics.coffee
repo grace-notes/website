@@ -1,6 +1,12 @@
 spawn = require('child_process').spawn
 fs = require 'fs'
+async = require 'async'
 tmp = require 'tmp'
+
+q = async.queue((task, callback) =>
+  [pdf, env, locals, contents, templates] = task.args
+  pdf._getView env, locals, contents, templates, callback
+, 5)
 
 module.exports = (env, callback)->
 
@@ -27,7 +33,10 @@ module.exports = (env, callback)->
     getFilename: ->
       @topic.getFilename().replace /\.html$/, '.pdf'
 
-    getView: -> (env, locals, contents, templates, callback) =>
+    getView: => (env, locals, contents, templates, callback) =>
+      q.push { args: [@, env, locals, contents, templates] }, callback
+
+    _getView: (env, locals, contents, templates, callback) =>
       tmp.file { postfix: '.pdf' }, (err, path, fd, cleanupCallback)=>
         if err then throw err
         error = ''
@@ -58,10 +67,10 @@ module.exports = (env, callback)->
         do pandoc.stdin.end
 
   env.registerGenerator 'topicPDFs', (contents, callback)->
-    rv = {pdfs:{}}
+    rv = {topics:{pdf:{}}}
     for topic, i in env.helpers.getSortedTopics(contents)
       pdf = new TopicPdf topic
-      rv.pdfs[pdf.getFilename().split('/').pop()] = pdf
+      rv.topics.pdf[pdf.getFilename().split('/').pop()] = pdf
       topic.pdf = '/' + pdf.getFilename()
 
     callback null, rv
