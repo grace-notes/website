@@ -2,13 +2,13 @@
 title: "Reversionism"
 pdf: "reversionism.pdf"
 description: "a comprehensive study of the doctrine showing how the Lord deals with recalcitrant and implacable Christians."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 
 Portions of this study are taken from the teachings of Pastor R. B. Thieme, Jr., Berachah Church, Houston, Texas
 
-**Definition and Description**
+# Definition and Description
 
 Reversionism is an act of reversing or turning in the opposite way, or a state of being so turned. As believers we were designed to execute the plan of God. But in reversionism we turn the other way and cannot be distinguished from our pre-salvation status. We are believers thinking human viewpoint.
 
@@ -66,13 +66,11 @@ The reversionistic believer is under demon influence. The believer cannot be dem
 
 Reversionism is a simple means of explaining that there are degrees of failure in the Christian life, just as there are degrees of success.
 
-*_Reversionism and Carnality._*
+# Reversionism and Carnality
 
 Reversionism must be distinguished from carnality.
 
-Carnality is an absolute which describes the believer out of fellowship with God and in a state of sin under the control of the sin nature,
-
-Rom 7
+Carnality is an absolute which describes the believer out of fellowship with God and in a state of sin under the control of the sin nature, Rom. 7
 
 Reversionism is relative. It is a relative state of apostasy and decline described by the various categories of retrogression. In reversionism, you are perpetually carnal.
 
@@ -94,7 +92,7 @@ Carnality can be either a temporary or permanent setback in the execution of God
 
 * You walk in conformity with men when in the stages of reversionism, indistinguishable from unbelievers.
 
-*_categories of sinning related to reversionism._*
+# Categories of sinning related to reversionism
 
 Frequent sinning is the status quo of the believer who follows the pattern of implosion, explosion and the first four stages of reversionism. Frequent sinning is characterized by ignorance; therefore, failure to utilize the confession of sin technique.
 
@@ -104,9 +102,9 @@ Sporadic sinning is when the believer checks implosion, explosion and reversion 
 
 Occasional sinning is when the believer checks implosion, explosion and reversion through rebound and the other problem solving devices. This is the status of the believer in spiritual adulthood.
 
-**The Eight Stages of Reversionism.**
+# The Eight Stages of Reversionism
 
-*_1. Reaction and Distraction._*
+## Reaction and Distraction
 
 By the time the believer has gone through implosion (self-fragmentation) and explosion (polarized fragmentation), he has become negative toward the teaching of Bible doctrine.
 
@@ -171,7 +169,7 @@ The first stage of reversionism includes not only the arrogance of cosmic one, b
 
 Therefore, in stage one, distractions to Bible doctrine result in negative volition. Negative volition creates the vacuum in the soul that sucks in all the false doctrine.
 
-*_2, The Frantic Search for Happiness._*
+## The Frantic Search for Happiness
 
 Once you have become negative toward doctrine and created the vacuum of the soul, you begin to suck in false concepts which result in the frantic search for happiness.
 
@@ -252,7 +250,7 @@ The frantic search for happiness follows the trends of the sin nature in polariz
 
 The frantic search for happiness includes moving toward either moral or immoral degeneracy depending on the area of weakness of the sin nature, trying to find stimulating circumstances or people, and trying to be entertained as much as possible. In this stage, true objects of love are discarded for pseudo-love objects.
 
-*_3. Operation Boomerang_*
+## Operation Boomerang
 
 The boomerang, an Australian weapon used by the aborigines of Australia, is a missile-type weapon, shaped like an elbow. When thrown with accuracy, it can hit the target and kill the animal on the spot. But if they miss, the boomerang comes back to them so they can try again.
 
@@ -288,7 +286,7 @@ Operation boomerang destroys any use of the problem solving devices of the plan 
 
 * Success, prosperity, sex, or pleasure cannot make you happy. For in operation boomerang, they intensify your misery. This is because the reversionistic believer has neither capacity for success nor any use of the problem solving devices.
 
-*_4. Emotional Revolt of the Soul_*
+## Emotional Revolt of the Soul
 
 The soul is composed of certain characteristics.
 
@@ -388,7 +386,7 @@ Characteristics of negative volition toward doctrine.
 
 * Failure to understand your very own portfolio of invisible assets includes your very own palace, the place where you execute the plan of God.
 
-*_6. Blackout of the Soul_*
+## Blackout of the Soul
 
 **Eph 4:17** gives the technical Greek word for the blackout of the soul: MATAIOTES. MATAIOTES is a vacuum that sucks in false doctrine. Negative volition creates a vacuum in the soul. “_Therefore, I communicate this, and because of the Lord, I insist that you no longer walk as Gentiles_ [unbelievers] _walk in the vacuum of their mind._”
 
@@ -432,7 +430,7 @@ Even the unbeliever, by being negative toward the Gospel, has blackout of the so
 
 **2 Cor 4:3**, “_Even if our Gospel is hidden, it is hidden to those who are perishing, in whose case the god of this world_ [Satan] _has blinded the minds of those who are unbelieving that they might not see the light of the Gospel of the glory of Christ who is the image of God._”
 
-*_7. Scar Tissue of the Soul_*
+## Scar Tissue of the Soul
 
 **Eph 4:18**, “_They are darkened in their way of thinking; they have been alienated from the life of God because of ignorance which is in them, because of the scar tissue of their right lobes._”
 
@@ -472,7 +470,7 @@ The mechanics of the unbeliever’s scar tissue are described in
 
 **2 Thess.2**: “_And with every deception of evil for those who perish_ [unbelievers], _because they did not receive the love for the truth so as to be saved. And for this reason, God sends to them a deluding influence so that they might believe a lie, in order that they all might be condemned in judgment who do not believe the truth, but take pleasure in unrighteousness._”
 
-*_8. Reverse Process Reversionism*_
+## Reverse Process Reversionism
 
 This is the final stage of reversionism, a combination of the sixth and seventh stages.
 
@@ -508,49 +506,49 @@ Christian degeneracy blots out and reverses all of the mandates, all of the norm
 
 * The plan of God for the Church Age.
 
-*_Seven characteristics of reverse process reversionism*_
+### Seven characteristics of reverse process reversionism
 
 1. Prolonged residence in the cosmic system is the inevitable result of unchecked fragmentation, which is parlayed into reversionism.
 
 2. The believer in this stage is described in several ways.
 
-* The enemy of God, Jas 4:4.
+    * The enemy of God, Jas 4:4.
 
-* The enemy of the cross, Phil 3:18.
+    * The enemy of the cross, Phil 3:18.
 
-* A hater of God, Jn 15:23.
+    * A hater of God, Jn 15:23.
 
-* Spiritual schizophrenia, “double minded,” James 4:8.
+    * Spiritual schizophrenia, “double minded,” James 4:8.
 
-* Anti or against Christ, 1 Jn 2:18,22, 4:3; 2 Jn 7.
+    * Anti or against Christ, 1 Jn 2:18,22, 4:3; 2 Jn 7.
 
-* Disciple of the devil, 1 Jn 3:8,10.
+    * Disciple of the devil, 1 Jn 3:8,10.
 
 3. Reverse process reversionism is a status quo of unrestrained and perpetual sinfulness, fragmentation, reversionism, and extensive cosmic involvement. This believer is brainwashed by satanic propaganda.
 
 4. The manifestations of reverse process reversionism are many. The believer branches out into the various categories of reversionistic activity.
 
-* Legalistic fragmentation or polarized legalism becomes reversionism, Col 2:16-18; Heb 5:11-6:16.
+    * Legalistic fragmentation or polarized legalism becomes reversionism, Col 2:16-18; Heb 5:11-6:16.
 
-* Phallic fragmentation or polarized antinomianism becomes reversionism, 2 Cor 12:21; Eph 4:19, 5:5; Col 3:5; Rev 2:14, 20-23.
+    * Phallic fragmentation or polarized antinomianism becomes reversionism, 2 Cor 12:21; Eph 4:19, 5:5; Col 3:5; Rev 2:14, 20-23.
 
-* Ascetic fragmentation becoming reversionism is characterized by self-sacrifice and the Trappist monk syndrome, 1 Tim 4:5
+    * Ascetic fragmentation becoming reversionism is characterized by self-sacrifice and the Trappist monk syndrome, 1 Tim 4:5
 
-* Mental attitude arrogance becomes reversionism and locked-in arrogance, 1 Tim 6:4,17.
+    * Mental attitude arrogance becomes reversionism and locked-in arrogance, 1 Tim 6:4,17.
 
-* Monetary fragmentation becomes reversionism, Jas 4:13-14, 5:1-6; Rev 3:14-20; Eccl 5:10-16.
+    * Monetary fragmentation becomes reversionism, Jas 4:13-14, 5:1-6; Rev 3:14-20; Eccl 5:10-16.
 
-* Drug addiction and alcoholic fragmentation becomes reversionism, Isa 28:1, 7-9; Gal 5:20.
+    * Drug addiction and alcoholic fragmentation becomes reversionism, Isa 28:1, 7-9; Gal 5:20.
 
-* Anti-establishment fragmentation becoming reversionism is seen in those who reject such establishment principles as free enterprise, freedom through military victory, the divine institutions of family, home, and the true function of government. Such believers do not understand that freedom without authority is anarchy, and authority without freedom is tyranny, Rom 1:18-32.
+    * Anti-establishment fragmentation becoming reversionism is seen in those who reject such establishment principles as free enterprise, freedom through military victory, the divine institutions of family, home, and the true function of government. Such believers do not understand that freedom without authority is anarchy, and authority without freedom is tyranny, Rom 1:18-32.
 
-* Verbal fragmentation becomes reversionism, James 5:9,12.
+    * Verbal fragmentation becomes reversionism, James 5:9,12.
 
-* Psychotic fragmentation becomes reversionism, 1 Pet 2:15-19.
+    * Psychotic fragmentation becomes reversionism, 1 Pet 2:15-19.
 
-* National reversionism, Hos 4:1-6.
+    * National reversionism, Hos 4:1-6.
 
-**Biblical Nomenclature for Reversionism.**
+# Biblical Nomenclature for Reversionism
 
 **Gal 5:4**, “_drifting off course from grace._”
 
@@ -580,9 +578,7 @@ Christian degeneracy blots out and reverses all of the mandates, all of the norm
 
 **2 Tim 2:26**, “_they have entered the devil’s trap._”
 
-**Profile of the Reversionist,**
-
-Psalm 7:14-16.
+# Profile of the Reversionist - Psalm 7:14-16
 
 **Psalm 7:14**, "_Behold, he shall have labor pains of vanity because he has become pregnant with frustration. Therefore, he has given birth to a life of deceit_"
 
@@ -606,7 +602,7 @@ Falling into the pit or hold refers to believer degeneracy. He has made it himse
 
 **Psalm 7:16**, “_His frustration will return on his own head; and his violence will descend on the crown of his own head._”
 
-**Reversionism leads to the destruction of the client nation,**
+# Reversionism leads to the destruction of the client nation
 
 **Hos 4:1-6**.
 
@@ -630,7 +626,7 @@ Falling into the pit or hold refers to believer degeneracy. He has made it himse
 
 * This client nation of the Northern Kingdom of Israel was destroyed by the Assyrians in 721 B.C.
 
-**Evil is a major factor in the function of reversionism.**
+# Evil is a major factor in the function of reversionism
 
 Remember that God is holy, which means God has perfect integrity.
 
@@ -656,7 +652,7 @@ Therefore, evil is a major factor in the function of reversionism.
 
 See Topic: Evil
 
-**Illustrations of Reversionism.**
+# Illustrations of Reversionism
 
 In Rev 3:14-21, believers became involved in gnosticism and grew lukewarm toward the Lord.
 
@@ -674,7 +670,7 @@ David’s reversionism with Bathsheba and murder of her husband, Uriah the Hitti
 
 Elijah’s fear of being murdered and not trusting in the protection of the Lord was his manifestation of reversionism.
 
-**The Warnings and Mandates to Avoid Reversionism.**
+# The Warnings and Mandates to Avoid Reversionism
 
 The warning to avoid reversionism is found in
 
@@ -686,7 +682,7 @@ The mandate to avoid reversionism is found in
 
 **1 John 2:1**, “_Stop loving the cosmic system, or anything pertaining to the cosmic system._”
 
-**Characteristics of Reversionism.**
+# Characteristics of Reversionism
 
 Reversionism concentrates on false teaching, and therefore possesses the spirit of error, 1 Jn 4:5-People in reversionism will always believe the lie, false doctrine, gossip, or anything else that is untrue.
 
@@ -720,7 +716,7 @@ Hos 4:1-6.
 
 **Gal 5:4**, “_you have drifted off course from grace._”
 
-**Discipline for Reversionism**
+# Discipline for Reversionism
 
 In stages one through four of reversionism, the believer receives warning discipline. This discipline may come in the form of either adversity or prosperity. For example, you may have love and then have it removed. This is the warning discipline of Rev 3:20 and Jas 5:9.
 

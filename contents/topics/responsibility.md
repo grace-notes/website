@@ -1,14 +1,12 @@
 ---
-title: "Responsibility"
+title: "Responsibility of Those Who Wait for the Kingdom"
 pdf: "responsibility.pdf"
 description: "The present responsibilities of those who wait for the Kingdom of Christ."
 tableOfContents: true
 template: topic.jade
 ---
 
-##### Responsibility of Those Who Wait for the Kingdom
-
-Matthew 5:13-16
+# Matthew 5:13-16
 
 Translation: “13 You are the salt of the earth; but if the salt becomes
 foolish, how will it be salty?  It is useful for nothing further except
@@ -17,29 +15,31 @@ world.  A city is not able to hide while laying on a hill; 15 nor do
 they light a lamp and put it under the peck-measure, but they put it on
 the lampstand, and it illuminates all that is in the house. 16 So let
 your light shine before men, so that they might behold your good works
-and glorify your Father Who is in heaven.”  2.  Outline.
+and glorify your Father Who is in heaven.”
+
+## Outline
 
 The principle of salt, v.13.
 
-· The identification of the hearers with salt.
+* The identification of the hearers with salt.
 
-· The application of salt to witnessing.
+* The application of salt to witnessing.
 
-· The loss of saltiness due to foolishness.
+* The loss of saltiness due to foolishness.
 
-· The uselessness of saltless salt.
+* The uselessness of saltless salt.
 
 The principle of light, vv.14-16.
 
-· The identification of the hearers with light, v.14a.
+* The identification of the hearers with light, v.14a.
 
-· The unhideability principle, v.14b.
+* The unhideability principle, v.14b.
 
-· The foolishness of lighting and hiding, v.15a.
+* The foolishness of lighting and hiding, v.15a.
 
-· The usefulness of the fully exposed light, v.15b.
+* The usefulness of the fully exposed light, v.15b.
 
-· The application to the hearers, v.16.
+* The application to the hearers, v.16.
 
 This passage is not all what you might think, for it poses a
 dispensational variable exclusive to the dispensation of the hypostatic
@@ -49,18 +49,18 @@ Although there is a lot of application into the church age believer’s
 life, you should know from the top that the church age believer has
 more.
 
-Distinctions.
+# Distinctions
 
-· The Dispensation of Israel concentrated on corporate witnessing.  The
+* The Dispensation of Israel concentrated on corporate witnessing.  The
 nation itself was the prime element of light to the world.  There are
 only a couple of notable exceptions like Jonah.
 
-· The Dispensation of the Hypostatic Union required individual
+* The Dispensation of the Hypostatic Union required individual
 participation in the internal mission of witnessing to unbelieving
 Israel. But the followers of Christ also had an ambassadorial function
 to the whole world of unbelievers.
 
-· The Dispensation of the Church requires individual participation in
+* The Dispensation of the Church requires individual participation in
 the external mission of witnessing to the unbelieving world. Since this
 is an external mission, the Bible calls the church age believer an
 ambassador, 2 Corinthians 5:20.
@@ -93,7 +93,7 @@ Witnessing becomes more effective because of spiritual growth.
 
 Witnessing can be a roundabout motivation for spiritual growth.
 
-The principle of salt, v.13.
+# The principle of salt, v.13.
 
 Christ first identifies His hearers with salt. “You are the salt of the
 earth.” Remember that His hearers are the inner circle of His disciples,
@@ -219,7 +219,7 @@ lack of power in your evangelization.
 You are therefore useless to God in the realm of personal evangelism
 when you are out of fellowship.
 
-E. The principle of light, vv.14-16.
+# The principle of light, vv.14-16.
 
 Christ begins this passage in the same way as He did the preceding: He
 identifies His hearers with the inanimate object of His illustration.
@@ -238,40 +238,40 @@ golden lampstand.
 
 2. Description.
 
-a. It was on the South side of the Holy place.
+    a. It was on the South side of the Holy place.
 
-b. It was identical to the modern menora. It had a main shaft which had
-on each side three projecting branches.
+    b. It was identical to the modern menora. It had a main shaft which
+    had on each side three projecting branches.
 
-c. It had a system of oil-holding cups, which were under each of the
-lamps. These cups were shaped like almond blossoms and buds.
+    c. It had a system of oil-holding cups, which were under each of the
+    lamps. These cups were shaped like almond blossoms and buds.
 
-d. Even the wick trimmers and trays were made of pure gold.
+    d. Even the wick trimmers and trays were made of pure gold.
 
 3. Use.
 
-a. The lampstand was used to light the Holy place.
+    a. The lampstand was used to light the Holy place.
 
-b. The incense altar, and the table of showbread were lit by this
-lampstand.
+    b. The incense altar, and the table of showbread were lit by this
+    lampstand.
 
 4. Symbology.
 
-a. Note that this is made of pure gold only. It represented God the Holy
-Spirit. There was no wood, and therefore, no humanity.
+    a. Note that this is made of pure gold only. It represented God the
+    Holy Spirit. There was no wood, and therefore, no humanity.
 
-b. God the Holy Spirit provides the light for our daily lives. With
-light, we have true understanding. Human beings depend very much on
-sight for understanding. Light is very necessary for sight.
+    b. God the Holy Spirit provides the light for our daily lives. With
+    light, we have true understanding. Human beings depend very much on
+    sight for understanding. Light is very necessary for sight.
 
-c. The light is shed on the table of shewbread, and thus the Spirit
-provides light for understanding the Word.
+    c. The light is shed on the table of shewbread, and thus the Spirit
+    provides light for understanding the Word.
 
-d. The light is shed on the incense altar, and thus the Spirit provides
-light for the production of righteousness through the Word.
+    d. The light is shed on the incense altar, and thus the Spirit
+    provides light for the production of righteousness through the Word.
 
-e. Note that the Spirit provides light for the life and ministry of
-Jesus Christ.
+    e. Note that the Spirit provides light for the life and ministry of
+    Jesus Christ.
 
 Next, Christ relates the unhideability principle. A city is unable to
 hide while laying on a hill. The picture comes to mind of the modern
@@ -360,35 +360,25 @@ appropriate here.
 3. Works of outward beauty or good can be many: anything that you do
 under the power of the Spirit can be a part of this classification.
 
-a. Works of Christian service, including the function of your spiritual
-gift; charity; service related to citizenship.
+    a. Works of Christian service, including the function of your
+    spiritual gift; charity; service related to citizenship.
 
-b. Anything you do that imitates the character of God.
+    b. Anything you do that imitates the character of God.
 
 4. The point is that these works of outward good are visible before men.
 
-a. This is not something that you must try to do! This is simply what
-happens when you are under the doctrinal guidance of God the Holy
-Spirit.
+    a. This is not something that you must try to do! This is simply
+    what happens when you are under the doctrinal guidance of God the
+    Holy Spirit.
 
-b. You must not be shy when given the opportunity to let your light
-shine. To do so is to reject the authority of God the Holy Spirit, and
-that means sin.
+    b. You must not be shy when given the opportunity to let your light
+    shine. To do so is to reject the authority of God the Holy Spirit,
+    and that means sin.
 
 5. Lighting your light and displaying it for all to see has a purpose:
 it is so that men might glorify your Father Who is in heaven.
 
-a. Men glorify God by believing in Jesus Christ.
+    a. Men glorify God by believing in Jesus Christ.
 
-b. Men glorify God by fulfilling His plan.
-
-For an index of topics, or information about regular Bible studies,
-write to:
-
-Warren Doud  
-**Grace Notes**  
-1705 Aggie Lane  
-Austin, Texas 78757  
-E-Mail: wdoud@gracenotes.info  
-URL: http://www. gracenotes.info
+    b. Men glorify God by fulfilling His plan.
 

@@ -6,8 +6,6 @@ tableOfContents: false
 template: topic.jade
 ---
 
-Restoration of the Jews
-
 Recall that in 63 BC Pompey the Great of Rome, took military control of
 Palestine and Judea. Thus began the penultima, the next to the last
 phase, of the Jews punishment prior to the ‘dispersion,’ called the
@@ -41,7 +39,7 @@ reckoned.’ In other words, it is not the natural children who are God’s
 children, but it is the children of the promise (of salvation through
 Christ) who are regarded as Abraham’s offspring. 9 For this was how the
 promise was stated: ‘At the appointed time I will return, and Sarah will
-have a son.’" [1]
+have a son.’" [^1]
 
 The basis of the restoration of the Jews is the four unconditional
 covenants:
@@ -86,20 +84,20 @@ or may not be religious. The Knesset’s definition of a Jew states that
 Jewishness may be a matter of birth or a matter of belief. Thus one need
 not even be an ethnic Jew in order to be a religious Jew; one can be a
 proselyte (Matthew 23:15; Acts 2:10), or one can be both – racial and
-religious." [2]
+religious." [^2]
 
 All of the covenants, the Abrahamic, Palestinian, Davidic and New
 Covenants to Israel, have an eternal clause, i.e., they apply only to
 regenerate (Jews who accept Christ as their Savior) Jews. This, of
 course, would not include believing Jews of the present Church Age; for
 they become part of the Church, the Royal Family of God, when they
-accept Christ during the present dispensation. [3]
+accept Christ during the present dispensation. [^3]
 
 And Israel’s future as Israel depends upon the Second Advent of Christ.
 The Jews have no future until the final seven years of the Jewish Age,
 commonly called the Tribulation.
 
-The Restoration
+# The Restoration
 
 Israel’s future was declared at the institution of the race, Exodus
 6:2-8. And just as the Royal Family’s future is related to heaven, so
@@ -145,18 +143,15 @@ The Palestine of the ‘new earth’ will be the property of the Jews, also.
 And the home of the Bride of Christ, the Royal Family, is the new
 heavens, for they are a “heavenly people.”
 
-Note, then, that Israel’s future is assured. [4]
+Note, then, that Israel’s future is assured. [^4]
 
-Notes:
+[^1]: Thieme, Robert. Anti-Semitism; privately published.
 
-[1] Thieme, Robert. Anti-Semitism; privately published.
-
-[2] Thieme, Robert. Anti-Semitism; page 128-129. Privately published,
+[^2]: Thieme, Robert. Anti-Semitism; page 128-129. Privately published,
 1974.
 
-[3] Ibid.
+[^3]: Ibid.
 
-[4] Thieme, Robert. Joel; from notes, and Anti-Semitism; privately
-
+[^4]: Thieme, Robert. Joel; from notes, and Anti-Semitism; privately
 published, 1974.
 

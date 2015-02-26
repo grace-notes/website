@@ -2,12 +2,12 @@
 title: "Roman Law"
 pdf: "romanlaw.pdf"
 description: "The source of Roman law is the family or gens. The proprietary rights of the pater familias as head of this primitive unit of organization are fundamental in private law, and the scope of the criminal jurisdiction of the state was limited by the power of life and death exercised by the head of the family over those under his authority."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 
 
-I. Introduction
+# I. Introduction
 
 The source of Roman law is the family or *gens*. The proprietary rights
 of the *pater familias* as head of this primitive unit of organization
@@ -33,9 +33,11 @@ eliminated an individual’s or a family’s right directly to seek justice,
 which caused societal disorder. The parties to a disagreement were
 compelled to submit their claims to an arbitrator.
 
-II. Roman Private Law
+# II. Roman Private Law
 
-**A. The Twelve Tables**Roman private law was at first a body of
+## A. The Twelve Tables
+
+Roman private law was at first a body of
 unwritten usages handed down by tradition in the patrician families. The
 demands of the plebeians to know the laws by which they were governed
 and taxed resulted in the publication of the famous Twelve Tables (449
@@ -45,7 +47,9 @@ To meet the growing requirements of the republican community, its
 primitive form was expanded, chiefly by interpretation and the *jus
 honorarium*.
 
-**B. Civil Procedure**The *praetor*, or magistrate, listened to the
+## B. Civil Procedure
+
+The *praetor*, or magistrate, listened to the
 claims of the litigants and prepared an outline (*formula*) of the
 disputed issues. He submitted it to a *judex*, or arbitrator, a one-man
 jury, who decided the questions of fact involved. Neither *praetor* nor
@@ -55,7 +59,9 @@ formed a valuable commentary on the legal institutions of the time. The
 body of rules amassed by such interpretative adaptation would never have
 been recognized by the authors of the Twelve Tables.
 
-**C. Jus Honorarium***Jus honorarium* was so named because this law
+## C. Jus Honorarium*
+
+Jus honorarium* was so named because this law
 rested upon the authority of magistrates (*honor* = magistracy). It was
 composed of orders that had been issued in cases for which the existing
 law did not make adequate provision. This second agency for legal
@@ -68,14 +74,18 @@ and in time there arose a large and uniform body of rules which praetors
 issued in an edict before beginning their term of office. Thus Roman law
 maintained a proper balance between elasticity and rigidity.
 
-**D. Praetor Peregrinus**The institution of the *praetor peregrinus*
+## D. Praetor Peregrinus
+
+The institution of the *praetor peregrinus*
 (241 b.c.) to hear cases in which parties were foreigners led to a
 series of similar edicts. Since most of the foreigners were Greeks from
 southern Italy, these edicts formulated principles based on the spirit
 of Greek law, which became an important means for gradually broadening
 Roman law.
 
-**E. Imperial Ordinances**Under the empire direct legislation superseded
+## E. Imperial Ordinances
+
+Under the empire direct legislation superseded
 the other sources of law — enactments of the senate (*senatus
 consulta*), imperial ordinances, and occasional bills ratified by the
 people (*leges*). Imperial ordinances eventually superseded all other
@@ -85,7 +95,9 @@ the imperial tribunal, of force as precedents), and *rescripta* (replies
 by the emperor to requests for interpretation of the law). All these
 imperial acts were known as *constitutiones*.
 
-**F. Golden Age of Juristic Literature**In the 2nd cent a.d. Salvius
+## F. Golden Age of Juristic Literature
+
+In the 2nd cent a.d. Salvius
 Julianus was commissioned to invest the praetorian edict with definite
 form. The Institutes of Gaius that appeared around the same time became
 a model for subsequent textbooks on jurisprudence. This was the Golden
@@ -95,7 +107,9 @@ ii.4.3), applied to the incoherent mass of legal materials the methods
 of scientific investigation, developing a system of Roman law and
 establishing a science of jurisprudence.
 
-**G. Codification in the Later Empire**The emperor Justinian (a.d.
+## G. Codification in the Later Empire
+
+The emperor Justinian (a.d.
 527–565) finally codified the immense body of Roman law. The board of
 eminent jurists engaged in the great work published (1) the *Code* in
 twelve books, a selection of imperial enactments from Hadrian onward;
@@ -106,9 +120,11 @@ the Christian religion, it is the most plentiful source of the rules
 governing actual conduct in Western Europe (J. Bryce, *Studies in
 History and Jurisprudence* [1901]).
 
-III. Roman Criminal Law
+# III. Roman Criminal Law
 
-**A. Jurisdiction in the Royal Period**In the royal period criminal
+## A. Jurisdiction in the Royal Period
+
+In the royal period criminal
 jurisdiction, insofar as it was a function of secular administration,
 was the right of the king. The titles *quaestores parricidii*
 (“prosecutors of murderers” [lit “parent-murderers”]) and *duumviri
@@ -118,7 +134,9 @@ magistrates inherited the royal right to punish crimes and the power to
 compel obedience to their own decrees by means of penalties
 (*coercitio*).
 
-**B. Right of Appeal**The right of the people to final jurisdiction in
+## B. Right of Appeal
+
+The right of the people to final jurisdiction in
 cases involving the life or civil status of citizens was established by
 an enactment (perhaps 509 b.c.) granting the right of appeal to the
 assembly (*provocatio*) against a capital or other serious sentence
@@ -128,14 +146,18 @@ ii.8.2). This right of appeal was extended by subsequent enactments
 magistrates made no provisional sentence of their own but brought their
 charges directly before the people.
 
-**1. Penalties**The death penalty was practically abrogated in
+## 1. Penalties
+
+The death penalty was practically abrogated in
 republican times, for the accused was allowed to go into voluntary
 exile. The Romans rarely imposed imprisonment and granted the right to
 appeal heavy fines. A right of appeal was granted ca 300 b.c. against
 decisions of the dictator, who previously had held the power of life and
 death over the citizens (Livy xxvii.6.5).
 
-**2. Porcian Law**The right of appeal to the people was valid in Rome
+## 2. Porcian Law
+
+The right of appeal to the people was valid in Rome
 and as far as the first milestone from the city. The Porcian Law
 virtually secured this protection for all Roman citizens, wherever they
 might be, by establishing their right to a trial at Rome. Thus Roman
@@ -144,7 +166,9 @@ trial; other persons were subject to the criminal jurisdiction of the
 municipalities unless the governor summoned them before his own
 tribunal.
 
-**C. Popular Jurisdiction Curtailed**The exercise of this popular
+## C. Popular Jurisdiction Curtailed
+
+The exercise of this popular
 jurisdiction was gradually curtailed by the establishment of permanent
 courts. The people delegated their authority to judge certain classes of
 cases. The first of these courts (149 b.c.) was authorized for the trial
@@ -156,7 +180,9 @@ single juror. Sulla provided seven courts — each dealing exclusively
 with extortion, treason, embezzlement, corrupt electioneering, murder,
 fraud, or assault.
 
-**D. Jurors**Jurors were originally chosen from the senate, but C.
+## D. Jurors
+
+Jurors were originally chosen from the senate, but C.
 Gracchus transferred membership in all the juries to the equestrian
 class. Sulla admitted three hundred members of the equestrian class to
 the senate, to which he then restored the exclusive control of the
@@ -167,7 +193,9 @@ jurors. Augustus restored them but confined their action to civil cases
 of minor importance (Suetonius *Caesar* 41; *Augustus* 32). He excused
 senators from service as jurors.
 
-**E. Disappearance of Criminal Courts**The system of criminal courts
+## E. Disappearance of Criminal Courts
+
+The system of criminal courts
 diminished in importance under the empire and disappeared in the 2nd
 century. They were replaced by the senate, over which a consul presided,
 then by the emperor, and later by officials delegated by the emperor. At
@@ -181,7 +209,9 @@ courts to higher tribunals. The emperors and eventually their delegates
 (usually the two prefects) heard appeals from Roman and Italian
 magistrates and provincial governors.
 
-**F. Right of Trial at Rome**Under the early empire provincial governors
+## F. Right of Trial at Rome
+
+Under the early empire provincial governors
 were generally obligated to grant Roman citizens’ demand to be tried at
 Rome (Digest xlvii.6f), although this rule apparently had exceptions
 (Pliny Ep. ii.11; Digest xlviii.8, 16). Lysias, tribune of the cohort at

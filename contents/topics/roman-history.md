@@ -1,15 +1,15 @@
 ---
 title: "The Roman Empire - a short History"
 indexTitle: "Roman Empire, a short History"
+subtitle: The Wisdom of Divine Prearrangement
 pdf: "romanhistory.pdf"
 description: "Roman History -  An outline history of the period of time leading up to the birth of Christ; The Republic, the Punic Wars, the rise of the Caesars; the city of Rome in New Testament times; the Catacombs."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 
-“The Wisdom of Divine Prearrangement”
 
-**Introduction**
+# Introduction
 
 This phrase, “the wisdom of divine prearrangement”, is quoted from the
 book *The Life and Epistles of St. Paul* written by the Christian
@@ -20,7 +20,7 @@ activity in guiding the development of the world’s government and
 society in order to make perfect preparation for the birth of the Lord
 Jesus Christ and for the formation and growth of the early Christian
 Church. The Lord’s bringing about of the “fullness of time” included the
-introduction and spread of the  (koinei) Greek language and the
+introduction and spread of the κοινή (koinei) Greek language and the
 completion and maturity of the Roman Empire.
 
 At the time of Christ, all parts of the civilized world were bound
@@ -49,7 +49,7 @@ Christian, it stayed unified until, upon dividing up into the separate
 nations of the European continent, each fragment was closely tied to
 Christianity, at least in name, as part of the Holy Roman Empire.
 
-**The Origins of Rome**
+# The Origins of Rome
 
 While Greece was fighting the Persian wars and the Peloponnesian War, an
 obscure people was rising to power on the Italian peninsula. Rome had
@@ -79,9 +79,9 @@ destroyed itself in destructive civil wars, the Romans carried Greek
 culture to every part of the Western world; and for a time they brought
 peace and prosperity to every corner of the Mediterranean.
 
-**The Roman Republic: 508 to 30 B.C.**
+# The Roman Republic: 508 to 30 B.C.
 
-Patricians and Plebeians
+## Patricians and Plebeians
 
 The revolution against the Etruscan domination was led by the Patricians
 in 508 B.C. The patricians (from the Latin word *pater*, “father”) were
@@ -123,7 +123,7 @@ time period, high ranking officials who were trying to get elected or
 appointed to high office tried to curry favor with the plebs by offering
 land grants or by gifts of food during times of famine.
 
-The Constitution of the Republic
+## The Constitution of the Republic
 
 At the time of the revolution against the Etruscans, the king was
 replaced by two consuls, one to act as a check on the other. Consuls
@@ -159,7 +159,7 @@ which stripped the Senate of its veto power over the Assembly.
 The Twelve Tables remained the law of Rome for 900 years. Until the time
 of Cicero, every schoolboy had to memorize them.
 
-The Roman Army
+# The Roman Army
 
 From the very beginning the Romans were land hungry and intent upon
 expanding their territories. At the beginning of the 5th Century BC,
@@ -190,7 +190,7 @@ stones. In hand-to-hand combat the soldiers used the machaira, the
 famous Roman short sword (cf. military tactics of Dionysius of Syracuse,
 about. 400 BC).
 
-The Conquest of Italy
+# The Conquest of Italy
 
 Rome was always surrounded by fierce enemies. At first, the republic was
 just a weak city-state, with an area of about 350 square miles. The
@@ -283,7 +283,7 @@ whom child sacrifices were offered. Their religions had the worst
 features of the Canaanite worship. God eventually allowed great
 devastation to be brought upon Carthage at the hands of the Romans.
 
-The First Punic War (264 B.C.)
+# The First Punic War (264 B.C.)
 
 The First Punic War was fought at sea, where the Carthaginians had the
 advantage of being great seamen. The wealthy citizens of Rome, however,
@@ -296,7 +296,7 @@ sailing secretly, defeated the Carthaginian fleet at the Aegadian
 Islands off the west coast of Sicily. Carthage was forced to sue for
 peace and paid a heavy money payment to Rome.
 
-Interbellum
+# Interbellum
 
 Rome was near bankruptcy, in spite of the payments from Carthage.
 Currency was debased more than 90%. Carthage, meanwhile, was set up to
@@ -355,7 +355,7 @@ Rome more than ever. And Hannibal saw a great opportunity to enter Gaul
 from Spain (across the Pyrenees), raise an army of Gallic allies, cross
 the Alps and crush Italy.
 
-Hannibal
+# Hannibal
 
 [ from *The Story of Civilization*, Vol. III, Caesar and Christ, by Will
 Durant ]
@@ -505,7 +505,7 @@ Scipio, followed him in death. In a final war with Carthage lasting from
 151 to 146 B.C., Rome completely annihilated the Carthaginians and razed
 their cities to the ground, sowing them with salt.
 
-The Revolution, 145 to 30 B.C.
+# The Revolution, 145 to 30 B.C.
 
 Had Rome been able to avoid further war, she might have been able to
 concentrate her forces on the solution of her domestic problems. The
@@ -555,7 +555,7 @@ strong and popular leader. During the same years, Julius Caesar was
 conquering Gaul as far away as Belgium. For a time, Pompey and Julius
 Caesar cooperated in trying to take over the government.
 
-Julius Caesar 100 to 44 B.C.
+# Julius Caesar 100 to 44 B.C.
 
 In 68 B.C., Julius Caesar was elected quaestor (governor) and assigned
 to serve in Spain; he was 32 years old. He led military expeditions
@@ -620,7 +620,7 @@ Assembly, who voted in his favor. Pompey was impressed by Caesar’s
 keeping his promises. The voters were kept in good humor with amusements
 and games.
 
-The Conquest of Gaul
+## The Conquest of Gaul
 
 Caesar had himself appointed governor of Cisalpine and Transalpine Gaul
 in 58 B.C., and he shortly took up his duties there. The Germans had
@@ -670,7 +670,7 @@ was set. Territory twice the size of Italy was added to the Roman
 Empire, and 5,000,000 people became Rome’s customers. Gaul provided a
 buffer against the Germans for four centuries.
 
-THE PRINCIPATE, 30 B.C. TO 192 A.D.
+# THE PRINCIPATE, 30 B.C. TO 192 A.D.
 
 After the assassination of Julius Caesar in 44 B.C., Mark Antony
 (Caesar’s chief lieutenant), Octavian (Caesar’s 18 year old nephew), and
@@ -757,7 +757,7 @@ Christian church over the first three centuries A.D.:
     and established the principle that all Roman citizens, irrespective
     of social class, were equal before the law.
 
-The City of Rome in Bible Times
+# The City of Rome in Bible Times
 
 Rome was founded on the Tiber river in 753 B.C. It soon spread to cover
 seven hills, which were : Capitoline, Palatine, Aventine, Caelian,
