@@ -3,6 +3,11 @@ server {
   rewrite ^ http://www2.gracenotes.info$request_uri? permanent;
 }
 
+map $http_user_agent $ignore_ua {
+  default         0;
+  "~curl/.*"      1;
+}
+
 server {
   listen 80 default_server backlog=2048;
 
@@ -12,7 +17,15 @@ server {
   # Make site accessible from http://localhost/
   server_name localhost www2.gracenotes.info;
 
+  location ~* \.(js|css|png|jpg|jpeg|gif|ico)$ {
+    expires 1y;
+    log_not_found off;
+  }
+
   location / {
+    if ($ignore_ua) {
+      access_log off;
+    }
     try_files $uri $uri/ =404;
   }
 }
