@@ -4,6 +4,7 @@ fs = require 'fs'
 path = require 'path'
 url = require 'url'
 cheerio = require 'cheerio'
+deasync = require 'deasync'
 
 q = async.queue((page, callback) ->
   if page.metadata.tableOfContents
@@ -22,7 +23,7 @@ q = async.queue((page, callback) ->
     pandoc page.markdown, 'markdown', 'html5', ['--email-obfuscation=none', '--smart', '--section-divs'], (err, result) ->
       page._htmlraw = result
       callback err, page
-, 3)
+, 4)
 
 pandocRender = (page, callback) ->
   q.push page, (err, page) ->
@@ -33,8 +34,13 @@ module.exports = (env, callback) ->
   class PandocPage extends env.plugins.MarkdownPage
   
     getHtml: (base=env.config.baseUrl) ->
-      # TODO: cleaner way to achieve this?
-      # http://stackoverflow.com/a/4890350
+      unless @_rendered
+        pandocRender @, (err, page)=>
+          if err then console.log err
+          @_rendered = true
+        while not @_rendered
+          do deasync.runLoopOnce
+
       name = @getFilename()
       name = name[name.lastIndexOf('/')+1..]
       loc = @getLocation(base)
@@ -82,8 +88,6 @@ module.exports = (env, callback) ->
         {markdown, metadata} = result
         page = new this filepath, metadata, markdown
         callback null, page
-      (page, callback) =>
-        pandocRender page, callback
       (page, callback) =>
         callback null, page
     ], callback

@@ -27,9 +27,7 @@ ADD . /app
 
 RUN npm install
 
-RUN cp -r pandoc ~/.pandoc
-
 EXPOSE 80
 
 # VOLUMES_FROM
-CMD wintersmith build -o /srv/www && /app/build-pdf.sh /app /srv/www & nginx
+CMD wintersmith build -o /srv/www & nginx
