@@ -30,4 +30,4 @@ RUN npm install
 EXPOSE 80
 
 # VOLUMES_FROM
-CMD wintersmith build -o /srv/www & nginx
+CMD wintersmith build -v -o /srv/www & nginx
