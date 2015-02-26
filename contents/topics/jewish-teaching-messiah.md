@@ -13,11 +13,11 @@ the life and epistles of Paul the Apostle. [Warren Doud]*
 
 ##### Jewish Teaching: The Messiah (Moshiach)
 
-From the website Judaism 101 <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
+From the website Judaism 101 [^1]
 
 “I believe with perfect faith in the coming of the moshiach, and though
 he may tarry, still I await him every day.” Principle 12 of Rambam’s 13
-Principles of Faith. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+Principles of Faith. [^2]
 
 ###### The Messianic Idea in Judaism
 

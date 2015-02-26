@@ -98,6 +98,6 @@ who had been supernaturally summoned to a new field of labor, and who
 were patiently cultivating it with food success, were suddenly called
 away from it, silenced, and imprisoned.
 
-[1](#sdfootnote1anc) **Conybeare, W. J. and Howson, J. S.**, “The Life
+[^1]: **Conybeare, W. J. and Howson, J. S.**, “The Life
 and Epistles of St. Paul”, Chapter 9
 

@@ -42,7 +42,7 @@ the days of historical Greece, Salamis was the capital. Under the Roman
 Empire, if not the seat of the government, it was at least the most
 important mercantile town. We have the best reasons for believing that
 the harbor was convenient and capacious.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> Thus we can form to
+[^1] Thus we can form to
 ourselves some idea of the appearance of the place in the reign of
 Claudius. A large city by the seashore, a widespread plain with corn
 fields and orchards, and the blue distance of mountains beyond, composed
@@ -52,7 +52,7 @@ anchor in the bay of Salamis.
 The Jews, as we would have been prepared to expect, were numerous in
 Salamis. This fact is indicated to us in the sacred narrative; for we
 learn that this city has several synagogues, while other cities had
-often only one. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> The Jews
+often only one. [^2] The Jews
 had doubtless been established here in considerable numbers in the
 active period which succeeded the death of Alexander. The unparalleled
 productiveness of Cyprus, and its trade in fruit, wine, flax, and honey
@@ -61,7 +61,7 @@ copper mines by Augustus to Herod may probably have swelled their
 numbers. One of the most conspicuous passages in the history of Salamis
 was the insurrection of the Jews in the reign of Trajan, when a great
 part of the city was destroyed.
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> Its demolition was
+[^3] Its demolition was
 completed by an earthquake. It was rebuilt by a Christian emperor, from
 whom it received its medieval name of Constantia.
 
@@ -74,7 +74,7 @@ who were convinced by the preaching of the Apostles.
 
 From Salamis they traveled to Paphos at the other extremity of the
 island. The two towns were probably connected together by a
-well-traveled road. <sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> It is
+well-traveled road. [^4] It is
 indeed likely that even under the Empire the islands of the Greek part
 of the Mediterranean, as Crete and Cyprus, were not so completely
 provided with lines of internal communication as those which were nearer

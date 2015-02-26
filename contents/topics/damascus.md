@@ -9,7 +9,7 @@ template: topic.jade
 _from “The Life and Epistles of St. Paul” by Conybeare and Howson_
 
 Damascus is the oldest city in the world.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> Its fame begins with the
+[^1] Its fame begins with the
 earliest patriarchs and continues to modern times. While other cities of
 the East have risen and decayed, Damascus is still what it was. It was
 founded before Baalbec and Palmyra, and it has outlived them both. While
@@ -27,7 +27,7 @@ are familiar to everyone.
 
 And how close its relations continued to be with the Jews, we know from
 the chronicles of Jeroboam and Ahaz and the prophecies of Isaiah and
-Amos. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> Its mercantile
+Amos. [^2] Its mercantile
 greatness is indicated by Ezekiel in the remarkable words addressed to
 Tyre, “Syria was thy merchant by reason of the multitude of the wares of
 thy making; they occupied in this fairs with emeralds, purple, and
@@ -37,7 +37,7 @@ of all riches, in the wine of Helbon, and white wool.” (Eze. 27:16,18)
 Leaving the Jewish annals, we might follow its history through
 continuous centuries, from the time when Alexander sent Parmenio to take
 it, while the conqueror himself was marching from Tarsus to Tyre, to its
-occupation by Pompey, <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> to
+occupation by Pompey, [^3] to
 the letters of Julian the Apostate, who describes it as “the eye of the
 East,” and onward through its golden days, when it was the residence of
 the Ommiad Caliphs, and the metropolis of the Mahommedan world, and
@@ -85,7 +85,7 @@ same then as they are now. The same figures would be seen in the green
 approaches to the town, camels and mules, horses and asses, with Syrian
 peasants and Arabs from beyond Palmyra. We know the very time of the day
 when Saul was entering these shady avenues. It was at mid-day.
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> The birds were silent in
+[^4] The birds were silent in
 the trees. The hush of noon was in the city. The sun was burning
 fiercely in the sky. The persecutor’s companions were enjoying the cool
 refreshment of the shade after their journey; and his eyes rested with

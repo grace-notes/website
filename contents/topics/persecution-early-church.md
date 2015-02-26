@@ -38,7 +38,7 @@ those without hope; and now, at the very beginning of the Gospel, the
 grief of the Christians must have been great indeed, when the corpse of
 their champion and their brother lay at the feet of Saul the murderer.
 Yet, amidst the consternation of some and the fury of others, friends of
-the martyr were found, <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+the martyr were found, [^1]
 who gave him all the melancholy honors of a Jewish funeral, and
 carefully buried him, as Joseph buried his father, “with great and sore
 lamentation.” (Gen. 1:10)
@@ -59,7 +59,7 @@ powerful senate soon after, possibly as a reward for the zeal he had
 shown against the heretic. He himself says that in Jerusalem he not only
 exercised the power of imprisonment by commission from the High Priests,
 but also, when the Christians were put to death, gave his vote against
-them. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> From this
+them. [^2] From this
 expression it is natural to infer that he was a member of that supreme
 court of judicature.
 
@@ -82,10 +82,10 @@ three times repeated as a great aggravation of his cruelty (Acts 8:3;
 9:2; 22:4). These persecuted people were scourged “in many synagogues.”
 (Acts 26:10) Nor was Stephen the only one who suffered death, as we may
 infer from the apostle’s own
-confession.<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> And what was
+confession.[^3] And what was
 worse than scourging or than death itself, he used every effort to make
 them blaspheme that holy name whereby they were called.
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> His fame as an inquisitor
+[^4] His fame as an inquisitor
 was notorious far and wide. Even at Damascus Ananias had heard (Acts
 9:13) “how much evil he had done to Christ’s saints at Jerusalem.” He
 was known there (Acts 9:21) as “he that destroyed them which called on
@@ -95,7 +95,7 @@ Church of God and wasted it,” (Gal. 1:13; cf Phil. 3:6) how he had been
 a “blasphemer, a persecutor, and injurious,” (1 Tim. 1:13), and that he
 felt he was “not meet to be called an Apostle,” because he “had
 persecuted the Church of God.”
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup>
+[^5]
 
 From such cruelty, and such efforts to make them deny that Name which
 they honored about all names, the disciples naturally fled. In

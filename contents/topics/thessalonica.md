@@ -143,7 +143,7 @@ remains of its Hippodrome, which is for ever associated with the history
 of Theodosius and Ambrose,” can yet be traced among the Turkish houses.
 
 Its bishops have sat in great councils.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> The writings of its great
+[^1] The writings of its great
 preacher and scholar Eustathius (12<sup>th</sup> Century) are still
 preserved to us. It is true that the Christianity of Thessalonica, both
 medieval and modern, has been debased by humiliating superstition. The
@@ -574,6 +574,6 @@ Egnatia crosses the plain and ascends the mountains which have just been
 mentioned, forming a communication over a very rugged country between
 the Hellespont and the Adriatic.
 
-[1](#sdfootnote1anc) We find the bishop of Thessalonica in the Council
+[^1]: We find the bishop of Thessalonica in the Council
 of Sardis, AD 347; and a decree of the Council relates to the place.
 

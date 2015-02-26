@@ -66,7 +66,7 @@ realized, if due allowance be made for the change of costume, for those
 who have seen the Jews at their worship in the large towns of Modern
 Europe. On their entrance into the building, the four cornered Tallith
 was first placed like a veil over the head, or like a scarf over the
-shoulders. <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> The prayers
+shoulders. [^1] The prayers
 were then recited by an officer called the” Angel” or” Apostle,” of the
 assembly. The prayers were doubtless many of them identically the same
 with those which are found in the present service books of the German
@@ -85,7 +85,7 @@ as in use at present; but the same necessity for translation and
 explanation existed then as now. The Hebrew and English are now printed
 in parallel columns. Then, the reading of the Hebrew was elucidated by
 the Targum or the Septuagint, or followed by a paraphrase in the spoken
-language of the country. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+language of the country. [^2]
 
 The Reader stood while thus employed, and all the congregation sat
 around. The manuscript was rolled up and returned to the Chazan. (See
@@ -288,7 +288,7 @@ correct idea. Internally they were simply rectangular or round
 buildings, with a single or double colonnade, and more or less adorned
 by carvings. Externally they had generally some sacred symbol carved on
 the lintels–commonly the seven-branched candlestick, or perhaps the pot
-of manna. <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
+of manna. [^3]
 
 There is one remarkable instance of the use of the latter emblem, too
 important to be passed over. In Capernaum, our Lord’s “own city” (Matt
@@ -636,7 +636,7 @@ is, of course, not by Rabbis, who were merely teachers or doctors, but
 by lineal descendants of the house of Aaron. There was no service of
 “praise” in the synagogues.
 
-Public worship <sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> commenced
+Public worship [^4] commenced
 on ordinary occasions with the so-called “Shema,” which was preceded in
 the morning and evening by two “benedictions,” and succeeded in the
 morning by one, and in the evening by two, benedictions; the second
@@ -678,7 +678,7 @@ Your goodness day by day and every day renews the works of creation.
 Blessed be the Lord our God for the glory of His handiwork and for the
 light-giving lights which He has made for His praise. Selah! Blessed be
 the Lord our God, Who hath formed the lights.”
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup>
+[^5]
 
 2. “With great love hast You loved us, O Lord our God, and with much
 overflowing pity hast You pitied us, our Father and our King. For the
@@ -854,7 +854,7 @@ was called, repeated the words from the Scriptures in their connection.
 In giving the benediction, the priests elevated their hands up to the
 shoulders (Sotah, vii. 6); in the Temple, up to the forehead. Hence this
 rite is designated by the expression, “the lifting up of the hands.”
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>
+[^6]
 
 According to the present practice, the fingers of the two hands are so
 joined together and separated as to form five interstices; and a mystic

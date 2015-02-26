@@ -27,7 +27,7 @@ polhe**v, yet In other places he gives it the epithet of
 allowed to have had originally; but we must not let the term city
 deceive us, as in ancient times places were thus named which would rate
 with villages or hamlets only in these modern times.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+[^1]
 
 Few places in antiquity have been more celebrated than Crete: it was not
 only famous for its hundred cities, but for the arrival of Europa on a

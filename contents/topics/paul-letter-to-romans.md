@@ -12,7 +12,7 @@ that he was called upon to inflict the punishment which he had
 threatened upon those obstinate offenders who still defied his censures
 at Corinth. We have already seen that these were divided into two
 classes: the larger consisted of those who justified their immoral
-practice by antinomian <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+practice by antinomian [^2]
 doctrine, and, styling themselves ‘the Spiritual,’ considered the
 outward restrictions of morality as mere carnal ordinances, from which
 they were emancipated; the other and smaller (but more obstinate and
@@ -79,7 +79,7 @@ offender’s mind as to bring him to sincere repentance, ‘that his spirit
 might be saved in the day of the Lord Jesus.’ (1 Cor. 5:5) If it had
 this happy effect, and if he manifested true contrition, he was restored
 (as we have already seen in the case of the incestuous person
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>) to the love of the
+[^3]) to the love of the
 brethren and the communion of the Church.
 
 ##### Purification of the Corinthian Church
@@ -146,7 +146,7 @@ The Christians of Achaia from whose comparative wealth much seems to
 have been expected, had already prepared their contributions, by laying
 aside something for the fund on the first day of every week; (1 Cor.
 16:2) and, as this had been going on for more than a year,
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> the sum laid by must have
+[^4] the sum laid by must have
 been considerable. This was now collected from the individual
 contributors, and entrusted to certain treasurers elected by the whole
 Church, who were to carry it to Jerusalem in company with St. Paul.
@@ -194,7 +194,7 @@ Had any of the Apostles laid its first foundation, the fact could
 scarcely fail to have been recorded. It is therefore probable that it
 was formed in the first instance, of private Christians converted in
 Palestine, who had come from the eastern
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> parts of the Empire to
+[^5] parts of the Empire to
 reside at Rome, or who had brought back Christianity with them, from
 some of their periodical visits to Jerusalem, as the ‘Strangers of
 Rome,’ from the great Pentecost. Indeed, among the immense multitudes
@@ -231,7 +231,7 @@ Christian love; and to remove the stumbling blocks out of the way of
 both, by setting before them that grand summary of the doctrine and
 practice of Christianity which is contained in the following Epistle.
 
-##### Epistle to the Romans <sup>[<sup>6</sup>](#sdfootnote6sym)</sup>
+##### Epistle to the Romans [^6]
 
 ##### Romans 1
 
@@ -268,8 +268,8 @@ well as to others. For [even in the chief city of the world] I am not
 ashamed of the Glad tidings of Christ, seeing it is the mighty power
 whereby God brings salvation to every man that has faith therein, to the
 Jew first, and also to the Gentile.
-<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup> For therein God’s
-righteousness <sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup> is
+[^7] For therein God’s
+righteousness [^8] is
 revealed, a righteousness which springs from Faith, and which faith
 receives, as it is written: “By faith shall the righteous live.” (Hab.
 2:4)
@@ -339,7 +339,7 @@ no respect of persons with God.
 For they who have sinned without [the knowledge of] the Law, shall
 perish without [the punishment of] the Law; and they who have sinned
 under the Law, shall be judged by the Law. For not the hearers of the
-Law <sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> are righteous in
+Law [^9] are righteous in
 God’s sight, but the doers of the Law shall be counted righteous. For
 when the Gentiles, having not the Law, do by nature the works of the
 Law, they, though they have not the Law, are a Law to themselves; since
@@ -387,7 +387,7 @@ our unrighteousness [His faithfulness being more clearly seen by our
 faithlessness], must we not say that God is unjust,” (I speak as men
 do), “in sending the punishment?” That be far from us, for [if this
 punishment be unjust], how shall God judge the world? since
-<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> [of that judgment also
+[^10] [of that judgment also
 it might be said]: ‘If God’s truth has by the occasion of my falsehood
 more fully shown itself, to the greater manifestation of His glory, why
 am I still condemned as a sinner? and why should we not say’ (as I
@@ -466,12 +466,12 @@ them also; and father of circumcision to those who are not circumcised
 only in the flesh, but who also tread in the steps of that Faith which
 our father Abraham had while yet uncircumcised.
 
-For the promise <sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup> to
+For the promise [^11] to
 .Abraham and his seed that he should inherit the world came not by the
 Law, but by the righteousness of Faith. For, if this inheritance belong
 to the children of the Law, Faith is made of no account, and the promise
 is brought to nought; because the Law brings [not blessings but]
-punishment, <sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup> (for where
+punishment, [^12] (for where
 there is no law, there can be no law. breaking). Therefore the
 inheritance belongs to Faith, that it might be a free gift; that so the
 promise [not being capable of forfeiture] might stand firm to all the
@@ -483,7 +483,7 @@ who makes the dead to live, and calls the things that are not as though
 they were. For .Abraham had faith in hope beyond hope, that he might
 become “The father of many nations;” as it was said unto him, “Look
 toward heaven and tell the stars if thou be able to number them; even so
-shall thy seed by.” <sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> And
+shall thy seed by.” [^13] And
 having no feebleness in his faith, he regarded not his own body which
 was already dead (being about a hundred years old), nor the deadness of
 Sarah’s womb; at the promise of God (I say) he doubted not faithlessly,
@@ -558,7 +558,7 @@ fellowship with His death? With Him therefore we were buried by the
 baptism wherein we shared His death [when we sank beneath the waters];
 that even as Christ was raised up from the dead by the glory of the
 Father, so we likewise might walk in newness of life. For if we have
-been grafted <sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup> into the
+been grafted [^14] into the
 likeness of His death, so shall we also share His resurrection. For we
 know that our old man was crucified with Christ, that the sinful body
 [of the old man] might be destroyed, that we might no longer be the
@@ -663,10 +663,10 @@ Jesus; for the law of the Spirit of life in Christ Jesus has freed me
 from the law of sin and death. For God (which was impossible to the Law,
 because by the flesh it had no power), by sending His own Son in the
 likeness of sinful flesh. and on behalf of sin, overcame
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup> sin in the flesh; to
+[^15] sin in the flesh; to
 the end, that the decrees of the Law might be fulfilled in us, who walk
 not after the Flesh, but after the Spirit.
-<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup> For they who live after
+[^16] For they who live after
 the flesh, mind fleshly things; but they who live after the Spirit mind
 spiritual things, and the fleshly mind is death; but the spiritual mind
 is life and peace. Because the fleshly mind is enmity against God; for
@@ -703,7 +703,7 @@ together, and suffering the pangs of labor, which have not yet brought
 forth the birth. And not only they, but ourselves also, who have
 received the Spirit for the first fruits [of our inheritance], even we
 ourselves are groaning inwardly, longing for the adoption
-<sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup> which shall ransom our
+[^17] which shall ransom our
 body from its bondage. For our salvation lies in hope; but hope
 possessed is not hope, since a man cannot hope for what he sees in his
 possession; but if we hope for things not seen, we steadfastly endure
@@ -783,7 +783,7 @@ another. Thou wilt say to me, then, “Why does God still blame us? for
 who can resist His will?” Nay, rather, oh man, who art thou that
 disputes against God? “Shall the thing formed say to him that formed it,
 Why hast thou made me thus?” (Isa. 14:9) “Hath not the potter power over
-the clay?” <sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup> to make out
+the clay?” [^18] to make out
 of the same lump one vessel for honor and one for dishonor? But what if
 God (though willing to show forth His wrath, and to make known His
 power) endured with much long suffering vessels of wrath, fitted for
@@ -814,23 +814,23 @@ sought it not by faith, but thought to gain it by the works of the Law;
 for they stumbled against the stone of stumbling, as it is written,
 “Behold I lay in Zion a stone of stumbling, and a rock of offence; and
 no man that hath faith in Him shall be confounded.”
-<sup>**[<sup>19</sup>](#sdfootnote19sym)**</sup>
+[^19]
 
 ##### Romans 10
 
 Brethren, my heart’s desire and prayer to God for Israel is, that they
 may be saved; for I bear them witness that they have a zeal for God, yet
 not guided by knowledge of God;
-<sup>**[<sup>20</sup>](#sdfootnote20sym)**</sup> for because they knew
+[^20] for because they knew
 not the righteousness of God, and sought to establish their own
 righteousness, therefore they submitted not to the righteousness of God.
 
 For the end of the Law is Christ, that all may attain righteousness who
 have faith in Him. For Moses writes concerning the righteousness of the
 Law, saying, “The man that hath done these things shall live therein;”
-<sup>**[<sup>21</sup>](#sdfootnote21sym)**</sup> but the righteousness
+[^21] but the righteousness
 of faith speaks in this wise. Say not in thine heart, “Who shall ascend
-into heaven?” <sup>**[<sup>22</sup>](#sdfootnote22sym)**</sup> that is,
+into heaven?” [^22] that is,
 “Who can bring down Christ from heaven?”, nor say, “Who shall descend
 into the abyss?”, that is, “Who can raise up Christ from the dead?” But
 how speaks it? “The Word is nigh thee, even in thy mouth and in thy
@@ -840,52 +840,52 @@ faith in thy heart that God raised Him from the dead, thou shalt be
 saved.’ For faith unto righteousness is in the heart, and confession
 unto salvation is from the mouth. And so says the Scripture, “No man
 that hath faith in Him shall be confounded;”
-<sup>**[<sup>23</sup>](#sdfootnote23sym)**</sup> for there is no
+[^23] for there is no
 distinction between Jew and Gentile, because the same [Jesus] is Lord
 over all, and He gives richly to all who call upon Him; for “Every man
 who shall call upon the name of the Lord shall be saved.”
-<sup>**[<sup>24</sup>](#sdfootnote24sym)**</sup>
+[^24]
 
 How then shall they call on Him in whom they have put no faith? And how
 shall they put faith in Him whom they never heard? And how shall they
 hear of Him if no man bear the tidings? And who shall bear the tidings
 if no messengers be sent forth?
-<sup>**[<sup>25</sup>](#sdfootnote25sym)**</sup>
+[^25]
 
 As it is written, “How beautiful are the feet of them that bear glad
 tidings of peace, that bear glad tidings of good things.”
-<sup>**[<sup>26</sup>](#sdfootnote26sym)**</sup> Yet some have not
+[^26] Yet some have not
 hearkened to the glad tidings, as saith Esaias, “Lord, who hath given
-faith to our teaching?” <sup>**[<sup>27</sup>](#sdfootnote27sym)**</sup>
+faith to our teaching?” [^27]
 
 So then, faith comes by teaching;
-<sup>**[<sup>28</sup>](#sdfootnote28sym)**</sup> and our teaching comes
+[^28] and our teaching comes
 by the Word of God. But I say, have they not heard [the voices of the
 teachers]? Yea, “Their sound has gone forth into all the earth, and
 their words unto the ends of the earth.”
-<sup>**[<sup>29</sup>](#sdfootnote29sym)**</sup>
+[^29]
 
 Again I say, did not Israel know [the purpose of God]? yea, it is said
 first my Moses, “I will make you jealous against them which are no
 people, against a Gentile nation without understanding will I make you
-wrath.” <sup>**[<sup>30</sup>](#sdfootnote30sym)**</sup>
+wrath.” [^30]
 
 But Esaias speaks boldly, saying, “I was found of them that asked not
-after me.” <sup>**[<sup>31</sup>](#sdfootnote31sym)**</sup> But unto
+after me.” [^31] But unto
 Israel he says, “All day long have I spread forth my arms unto a
 disobedient and gainsaying people.”
-<sup>**[<sup>32</sup>](#sdfootnote32sym)**</sup>
+[^32]
 
 ##### Romans 11
 
 I say, then, must we think that God has cast off His people?
-<sup>**[<sup>33</sup>](#sdfootnote33sym)**</sup> That be far from us;
+[^33] That be far from us;
 for I am myself an Israelite, of the seed of Abraham, of the tribe of
 Benjamin. God has not cast off His people whom He foreknew. Yea, know ye
 not what is said in the scriptures of Elias, how he intercedes with God
 against Israel, saying, “Lord, they have killed thy prophets and digged
 down thine altars, and I only have been left, and they seek my life
-also.” <sup>**[<sup>34</sup>](#sdfootnote34sym)**</sup> But what says
+also.” [^34] But what says
 the answer of God to him? “I have yet left to myself a remnant, even
 seven thousand men, who have not bowed the knee to Baal.”
 
@@ -897,14 +897,14 @@ of grace; for work claims wages and not gifts. ’What follows then? That
 which Israel seeks, Israel has not won; but the chosen have won it, and
 the rest were blinded, as it is written, “God hath given them a spirit
 of slumber, eyes that they should not see, and ears that they should not
-hear, unto this way.” <sup>**[<sup>35</sup>](#sdfootnote35sym)**</sup>
+hear, unto this way.” [^35]
 And David   
 says, “Let their table be made a snare and a trap, and a stumbling block
 and a recompense unto them. Let their eyes be darkened that they may not
 see, and bow down their back always.”
-<sup>**[<sup>36</sup>](#sdfootnote36sym)**</sup>
+[^36]
 
-Shall we say, then, <sup>**[<sup>37</sup>](#sdfootnote37sym)**</sup>
+Shall we say, then, [^37]
 “they have stumbled to the end that they might fall?” That be far from
 us; but rather their stumbling has brought salvation to the Gentiles,
 “to provoke Israel in jealousy.” Now if their stumbling enriches the
@@ -943,9 +943,9 @@ should be wise in your own conceits; that blindness upon a part of
 Israel until the full body of the Gentiles shall have come in. And so
 all Israel shall be saved, as it is written, “Out of Zion shall come the
 deliverer, and He shall turn away ungodliness from Jacob. And this is my
-covenant with them.” <sup>**[<sup>38</sup>](#sdfootnote38sym)**</sup>
+covenant with them.” [^38]
 “When I shall take away their sins.”
-<sup>**[<sup>39</sup>](#sdfootnote39sym)**</sup>
+[^39]
 
 In respect of the Glad tidings [that it might be borne to the Gentiles],
 they are God’s enemies for your sakes; but in respect of God’s choice,
@@ -958,9 +958,9 @@ all together under disobedience, that He might have mercy upon all. O
 depth of the bounty, and the wisdom and the knowledge of God; how
 unfathomable are His judgments, and how unsearchable His paths ! Yea,
 “Who hath known the mind of the Lord, or who hath been His counselor?”
-<sup>**[<sup>40</sup>](#sdfootnote40sym)**</sup> Or, “Who hath first
+[^40] Or, “Who hath first
 given unto God, that he should deserve a recompense?”
-<sup>**[<sup>41</sup>](#sdfootnote41sym)**</sup>
+[^41]
 
 For from Him is the beginning, and by Him the life, and in Him the end
 of all things.
@@ -1004,12 +1004,12 @@ Be of one mind amongst yourselves. Set not your heart on high things,
 but suffer yourselves to be borne along with the lowly. Be not wise in
 your own conceits. Repay no man evil for evil. “Be provident of good
 report in the sight of all men.”
-<sup>**[<sup>42</sup>](#sdfootnote42sym)**</sup> If it be possible, as
+[^42] If it be possible, as
 far as lies in yourselves, keep peace with all men.
 
 Revenge not yourselves, beloved, but give place to the wrath [of
 God];for it is written, “Vengeance is mine, I will repay, saith the
-Lord.” <sup>**[<sup>43</sup>](#sdfootnote43sym)**</sup> Therefore, “If
+Lord.” [^43] Therefore, “If
 thine enemy hunger, feed him; if he thirst, give him drink; for in so
 doing, thou shalt heap coals of fire upon his head.” Be not overcome by
 evil, but overcome evil with good.
@@ -1038,7 +1038,7 @@ debt to any man, save the debt of love alone; for he who loves his
 neighbor has fulfilled the law. For the law which says, “Thou shalt not
 commit adultery; thou shalt do no murder; thou shalt not steal; thou
 shalt not bear false witness; thou shalt not covet.”
-<sup>**[<sup>44</sup>](#sdfootnote44sym)**</sup> Love works no ill to
+[^44] Love works no ill to
 his neighbor; therefore Love is the fulfillment of the Law.
 
 This do, knowing the season wherein we stand, and that for us it is high
@@ -1054,9 +1054,9 @@ no thought to please your fleshly lusts.
 
 Him who is weak in his faith receive into your fellowship, imposing no
 determinations of doubtful questions.
-<sup>**[<sup>45</sup>](#sdfootnote45sym)**</sup> Some have faith that
+[^45] Some have faith that
 they may eat all things; others, who are weak, eat herbs alone.
-<sup>**[<sup>46</sup>](#sdfootnote46sym)**</sup> Let not him who eats
+[^46] Let not him who eats
 despise him who abstains, nor let him who abstains judge him who eats,
 for God has received him among His people.
 
@@ -1080,7 +1080,7 @@ But thou, why judgest thou thy brother? Or thou, why despisest thou thy
 brother? for we shall all stand before the judgment seat of Christ. And
 so it is written, “As I live, saith the Lord, every knee shall bow to
 me, and every tongue shall acknowledge God.”
-<sup>**[<sup>47</sup>](#sdfootnote47sym)**</sup>
+[^47]
 
 So, then, everyone of us shall give account to God [not of his brethren,
 but] of himself. Let us then judge each other no more, but let this
@@ -1112,7 +1112,7 @@ And we, who are strong, ought to bear the infirmities of the weak, and
 not to please ourselves. Let each of us please his neighbor for good
 ends, to build him up. For so Christ pleased not Himself, but in Him was
 fulfilled that which is written, “The reproaches of them that reproached
-thee fell upon me.” <sup>**[<sup>48</sup>](#sdfootnote48sym)**</sup> For
+thee fell upon me.” [^48] For
 our instruction is the end of all which was written of old; that by
 steadfast endurance, and by the counsel of the Scriptures, we may hold
 fast our hope. Now may God, from whom both counsel and endurance come,
@@ -1127,14 +1127,14 @@ to maintain the truthfulness of God, and confirm the promises made to
 our fathers; and that the Gentiles should praise God for His mercy, as
 it is written, “For this cause I will acknowledge thee among the
 Gentiles, and will sing unto thy name.”
-<sup>**[<sup>49</sup>](#sdfootnote49sym)**</sup> And again it is said,
+[^49] And again it is said,
 “Rejoice, ye Gentiles, with His people;”
-<sup>**[<sup>50</sup>](#sdfootnote50sym)**</sup> and again, “Praise the
+[^50] and again, “Praise the
 Lord, all ye Gentiles, and laud Him, all ye peoples.”
-<sup>**[<sup>51</sup>](#sdfootnote51sym)**</sup> and again Esaias says,
+[^51] and again Esaias says,
 “There shall come the root of Jesse, and he that shall rise to reign
 over the Gentiles; in him shall the Gentiles hope.”
-<sup>**[<sup>52</sup>](#sdfootnote52sym)**</sup>
+[^52]
 
 Now may the God of hope fill you with all joy and peace in believing,
 that you may abound in hope, through the mighty working of the Holy
@@ -1148,7 +1148,7 @@ you [rather than to teach you], because of that gift of grace which God
 bestowed upon me that I should be a minister of Jesus Christ to the
 Gentiles, serving in the Glad tidings of God, that I might present the
 Gentiles to God, as a priest presents the offering,
-<sup>**[<sup>53</sup>](#sdfootnote53sym)**</sup> a sacrifice well
+[^53] a sacrifice well
 pleasing to Him, hallowed by the working of the Holy Spirit. I have
 therefore the power of boasting in Christ Jesus, concerning the things
 of God; for I will not date [as some do] to glorify myself for the
@@ -1162,7 +1162,7 @@ where the name of Christ was known (lest I should be building on another
 man’s foundation), but [where it was unheard] ; as it is written, “To
 whom He was not spoken of, they shall see; and the people who have not
 heard shall understand.”
-<sup>**[<sup>54</sup>](#sdfootnote54sym)**</sup>
+[^54]
 
 This is the cause why I have often been hindered from coming to you. But
 now that I have no longer room enough [for my labors] in these regions,
@@ -1274,21 +1274,21 @@ of the Prophets, by command of the eternal God; that the Gentiles might
 be led to the obedience of faith unto Him, the only wise God, I commend
 you through Jesus Christ; to whom be glory forever. AMEN
 
-[1](#sdfootnote1anc) This article is from Conybeare, W. J. and Howson,
+[^1]: This article is from Conybeare, W. J. and Howson,
 J. S, *The Life and Epistles of St. Paul, Chapter 19*
 
-[2](#sdfootnote2anc) In applying this term Antinomian to the ‘all things
+[^2]: In applying this term Antinomian to the ‘all things
 lawful’ party at Corinth, we do not of course mean that all their
 opinions were the same with those which have been held by modern
 (so-called) Antinomians. But their characteristic (which was a belief
 that the restraints of outward law were abolished for Christians) seems
 more accurately expressed by the term Antinomian, than by any other.
 
-[3](#sdfootnote3anc) 2 Cor. 2:6-8
+[^3]: 2 Cor. 2:6-8
 
-[4](#sdfootnote4anc) 2 Cor. 8:10 and 2 Cor. 9:2
+[^4]: 2 Cor. 8:10 and 2 Cor. 9:2
 
-[5](#sdfootnote5anc) We cannot, perhaps, infer anything as to the
+[^5]: We cannot, perhaps, infer anything as to the
 composition of the Church at Rome, from the fact that St. Paul writes to
 them in Greek instead of Latin; because Hellenistic Greek was (as we
 have seen, p.32) his own native tongue, in which he seems always to have
@@ -1303,7 +1303,7 @@ were of Oriental origin and Grecian speech. Yet it is certain that Greek
 remained the prevailing language in the Church of Rome for several
 centuries.
 
-[6](#sdfootnote6anc) The date of this Epistle is very precisely fixed by
+[^6]: The date of this Epistle is very precisely fixed by
 the following statements contained in it :
 
 (1.) St. Paul had never yet been to Rome (1:11, 13, 15).
@@ -1326,13 +1326,13 @@ with Timothy on the way to Corinth. Compare 1 Cor. 16:10, 11.
 (5.) Phoebe, a deaconess of the Corinthian port of Cenchrea, was the
 bearer of the Epistle (16:1) to Rome.
 
-[7](#sdfootnote7anc) St. Paul uses the word for ‘Greek’ as the singular
+[^7]: St. Paul uses the word for ‘Greek’ as the singular
 of the word for ‘Gentiles’ because the singular of the latter is not
 used in the sense *of a Gentile*. Also, the plural ‘Greeks’ is used when
 *individual Gentiles* are meant; ‘Gentiles’ when *Gentiles collectively*
 are spoken of.
 
-[8](#sdfootnote8anc) Not Righteousness, the attribute of God, but the
+[^8]: Not Righteousness, the attribute of God, but the
 righteousness which God considers such; and which must, therefore, be
 the perfection of man’s moral nature. This righteousness may be looked
 on under two aspects; 1. *in itself*, as a moral condition of man; 2.
@@ -1342,17 +1342,17 @@ disposition of mind called *faith*. Under the second aspect it is
 regarded as something reckoned by God to the account of man – *an
 acquittal of past offenses*.
 
-[9](#sdfootnote9anc) The Jews were “hearers of the Law’ in their
+[^9]: The Jews were “hearers of the Law’ in their
 synagogues, every Sabbath.
 
-[10](#sdfootnote10anc) In this most difficult passage we must bear in
+[^10]: In this most difficult passage we must bear in
 mind that tit. Paul is constantly referring to the arguments of his
 opponents, which were familial’ to his readers at Rome, but are not so
 to ourselves. Hence the apparently abrupt and elliptical character of
 the argument, and the necessity of supplying \~something to make the
 connection intelligible.
 
-[11](#sdfootnote11anc) The land which thou seest, to thee will I give
+[^11]: The land which thou seest, to thee will I give
 it, and to thy seed for ever,’ Gen. 13:15. St. Paul (according to his
 frequent practice in dealing with the Old Testament) allegorizes this
 promise. So that, as Abraham is (allegorically viewed) the type of
@@ -1360,10 +1360,10 @@ Christian faith, he is also the heir of the world, whereof the
 sovereignty belongs to his spiritual children, by virtue of their union
 with their Divine Head.
 
-[12](#sdfootnote12anc) Literally, “wrath”; i.e. the wrath of God
+[^12]: Literally, “wrath”; i.e. the wrath of God
 punishing the transgressions of the Law.
 
-[13](#sdfootnote13anc) Gen. xvii. 5. In such quotations, a few words
+[^13]: Gen. xvii. 5. In such quotations, a few words
 were sufficient to recall the whole passage to Jewish readers;
 therefore, to make them intelligible to modern readers, it is sometimes
 necessary to give the context. It should be observed that this quotation
@@ -1374,23 +1374,23 @@ that the Homan Christians had originally been Jewish proselytes, of
 Gentile birth, satisfies this condition. See the introductory remarks to
 this Epistle.
 
-[14](#sdfootnote14anc) Literally, *have become partakers of a vital
+[^14]: Literally, *have become partakers of a vital
 union* [as that of a graft with the tree into which it is grafted] *of
 the representation of his death* [in baptism]. The meaning appears to
 be, *if we have shared the reality of his death, whereof we have
 undergone the likeness*.
 
-[15](#sdfootnote15anc) Literally, *condemned*, i.e. *put it to rebuke,
+[^15]: Literally, *condemned*, i.e. *put it to rebuke,
 worsted it*. Compare Heb. 11:7
 
-[16](#sdfootnote16anc) The contrast between the victory thus obtained by
+[^16]: The contrast between the victory thus obtained by
 the spirit, with the previous subjection of the soul to the flesh, is
 thus beautifully described by Tertullian : “When the Soul is wedded to
 the Spirit, the Flesh follows-like the handmaid who follows her wedded
 mistress to the husband’s home-being thenceforward no longer the servant
 of the Soul, but of the Spirit.”
 
-[17](#sdfootnote17anc) Adoption to sonship; by which a slave was
+[^17]: Adoption to sonship; by which a slave was
 emancipated and made ‘no longer a slave but a son.’ (Gal. 4:7.) In one
 sense St. Paul taught that Christians had already received this adoption
 (compare Rom. 8:15, Gal. 4:5, Eph. 1:1) ; they were already made the
@@ -1401,7 +1401,7 @@ during the present life; there is still a higher sense, in which it is
 future, and the object of earnest longing to those who are already in
 the lower sense the sons of God.
 
-[18](#sdfootnote18anc) Jeremiah 18:6, not quoted literally, but
+[^18]: Jeremiah 18:6, not quoted literally, but
 according to the sense. In this and in other similar references to the
 Old Testament, a few words were sufficient to recall the whole passage
 to St. Paul’s Jewish readers (compare Rom. 4:18) ; therefore. to
@@ -1425,17 +1425,17 @@ passage of Isaiah was referred to here. Yet this from Jeremiah is so
 apposite to St. Paul’s argument, that he probably refers especially to
 it.
 
-[19](#sdfootnote19anc) Isaiah 28:16, apparently from LXX, but not
+[^19]: Isaiah 28:16, apparently from LXX, but not
 verbatim, “stone of stumbling and rock of offence” being interpolated
 and not found exactly anywhere in Isaiah. In Isa. 8:14 there are words
 that are nearly similar.
 
-[20](#sdfootnote20anc) The word for knowledge here is very forcible; and
+[^20]: The word for knowledge here is very forcible; and
 is the same which is used in 1 Cor 13:12 and Col. 1:10.
 
-[21](#sdfootnote21anc) Levit. 18:5 (LXX) ; quoted also Gal. 3:12.
+[^21]: Levit. 18:5 (LXX) ; quoted also Gal. 3:12.
 
-[22](#sdfootnote22anc) Deut. 30:12. St. Paul here, though he quotes from
+[^22]: Deut. 30:12. St. Paul here, though he quotes from
 the LXX. (verse 8 is verbatim), yet slightly alters it, so as to adapt
 it better to illustrate his meaning. His main statement is, , the
 Glad-tidings of salvation is offered, and needs only to be accepted; to
@@ -1452,24 +1452,24 @@ that thou shouldest say, who shall go over the sea for us and bring it
 unto us, that we may hear it and do it? But the word is very nigh unto
 thee, in thy mouth and in thy heart, that thou mayest do it.”
 
-[23](#sdfootnote23anc) Isa. 28:16. See 9:33.
+[^23]: Isa. 28:16. See 9:33.
 
-[24](#sdfootnote24anc) Joel 2:32, LXX.
+[^24]: Joel 2:32, LXX.
 
-[25](#sdfootnote25anc) This is a justification of the mission of the
+[^25]: This is a justification of the mission of the
 Apostles to the Gentiles, which was an offence to the Jews. See Acts
 22:22.
 
-[26](#sdfootnote26anc) Isa. 52:7, LXX
+[^26]: Isa. 52:7, LXX
 
-[27](#sdfootnote27anc) Isa. 53:7, apparently from the Hebrew and not
+[^27]: Isa. 53:7, apparently from the Hebrew and not
 from LXX.
 
-[28](#sdfootnote28anc) There is no English word which precisely
+[^28]: There is no English word which precisely
 represents **ajkoh**in its subjective as well as objective meaning. See
 note on 1 Thess. 2:13.
 
-[29](#sdfootnote29anc) Psalm 19:4 (LXX). In the psalm this is said of
+[^29]: Psalm 19:4 (LXX). In the psalm this is said of
 ‘the heavens’ which by their wonderful phenomena declare the glory of
 their Creator. There seems to be no comparison in the psalm between *the
 heavens* and *the word of God*. Paul here quotes the Old Testament, not
@@ -1479,46 +1479,46 @@ preaching of the Gospel, Dean Alford well observes that it is not made
 in a *geographical*but in ***a**religious* sense. The Gospel was now
 preached to all nations, and not to the Jews along.
 
-[30](#sdfootnote30anc) Deut 32:21, LXX
+[^30]: Deut 32:21, LXX
 
-[31](#sdfootnote31anc) Isa. 65:1 (LXX with transposition)
+[^31]: Isa. 65:1 (LXX with transposition)
 
-[32](#sdfootnote32anc) Isa. 65:2 (LXX)
+[^32]: Isa. 65:2 (LXX)
 
-[33](#sdfootnote33anc) Alluding to Psalm 94:14, *Jehovah shall not
+[^33]: Alluding to Psalm 94:14, *Jehovah shall not
 utterly cast out His people*. Perhaps Paul’s antagonists accused him of
 contradicting this prophecy.
 
-[34](#sdfootnote34anc) 1 Kings 19:10.
+[^34]: 1 Kings 19:10.
 
-[35](#sdfootnote35anc) This quotation seems to be compounded of Deut
+[^35]: This quotation seems to be compounded of Deut
 29:4 and Isaiah 29:10.
 
-[36](#sdfootnote36anc) Psalm 69:23, 24, almost verbatim.
+[^36]: Psalm 69:23, 24, almost verbatim.
 
-[37](#sdfootnote37anc) Literally, *I say then, shall we conclude that …*
+[^37]: Literally, *I say then, shall we conclude that …*
 
-[38](#sdfootnote38anc) Isaiah 59:20.
+[^38]: Isaiah 59:20.
 
-[39](#sdfootnote39anc) Isaiah 27:9
+[^39]: Isaiah 27:9
 
-[40](#sdfootnote40anc) Isaiah 40:13 (LXX, nearly verbatim)
+[^40]: Isaiah 40:13 (LXX, nearly verbatim)
 
-[41](#sdfootnote41anc) Job 41:11 (according to the sense of the Hebrew,
+[^41]: Job 41:11 (according to the sense of the Hebrew,
 but not the LXX)
 
-[42](#sdfootnote42anc) This is a quotation nearly verbatim from Prov.
+[^42]: This is a quotation nearly verbatim from Prov.
 3:4 (LXX).
 
-[43](#sdfootnote43anc) Deut. 30:35 (LXX)
+[^43]: Deut. 30:35 (LXX)
 
-[44](#sdfootnote44anc) Lev. 19:18
+[^44]: Lev. 19:18
 
-[45](#sdfootnote45anc) Literally, *not acting so as to make
+[^45]: Literally, *not acting so as to make
 distinctions*[or *determinations*]*which belong to disputatious
 reasoning.*
 
-[46](#sdfootnote46anc) These were probably Christians of Jewish birth,
+[^46]: These were probably Christians of Jewish birth,
 who so feared lest they should (without knowing it) eat meat which had
 been offered to idols or was otherwise ceremonially unclean (which might
 easily happen in such a place as Rome), that they abstained from meat
@@ -1529,23 +1529,23 @@ king’s meat and wine, and ate pulse alone, that they might not defile
 themselves (Dan. 1:8-12). The tone and precepts of this chapter of
 Romans correspond with 1 Cor. 8.
 
-[47](#sdfootnote47anc) Isaiah 45:23 (LXX)
+[^47]: Isaiah 45:23 (LXX)
 
-[48](#sdfootnote48anc) Psalm 69:9
+[^48]: Psalm 69:9
 
-[49](#sdfootnote49anc) Psalm 18:49
+[^49]: Psalm 18:49
 
-[50](#sdfootnote50anc) Deut. 32:43
+[^50]: Deut. 32:43
 
-[51](#sdfootnote51anc) Psalm 117:1
+[^51]: Psalm 117:1
 
-[52](#sdfootnote52anc) Isaiah 11:1o
+[^52]: Isaiah 11:1o
 
-[53](#sdfootnote53anc) Literally, *a minister of Jesus Christ unto the
+[^53]: Literally, *a minister of Jesus Christ unto the
 Gentiles, a priest presenting an offering in respect of the Glad-tidings
 of God, that the Gentiles might be offered up as an offering
 well-pleasing unto Him.* The same thing is said under a somewhat
 difference metaphor in 2 Cor. 11:2.
 
-[54](#sdfootnote54anc) Isaiah 52:15.
+[^54]: Isaiah 52:15.
 

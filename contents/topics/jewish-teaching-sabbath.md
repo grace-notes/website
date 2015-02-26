@@ -197,7 +197,7 @@ extending it to include forms of demarcation that are not so evident to
 the eye, but are no less real. The Tractate IRUVIN deals with this whole
 range of subjects about borders and such.
 
-[1](#sdfootnote1anc) This material is taken primarily from Adin
+[^1]: This material is taken primarily from Adin
 Steinsaltz’ excellent book, “The Essential Talmud,” Chapter 15, The
 Sabbath, Bantam Books, 1976.
 

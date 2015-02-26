@@ -6,7 +6,7 @@ tableOfContents: true
 template: topic.jade
 ---
 
-Paul pays a short Visit to Corinth <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
+Paul pays a short Visit to Corinth [^1]
 
 We have hitherto derived such information as we possess, concerning the
 proceedings of St. Paul at Ephesus, from the narrative in the Acts; but
@@ -15,7 +15,7 @@ silence, and which we know only from a few incidental allusions in the
 letters of the Apostle himself. This occurrence, which probably took
 place not later than the beginning of the second year of St. Paul’s
 residence at Ephesus, was a short visit which he paid to the Church at
-Corinth. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+Corinth. [^2]
 
 If we had not possessed any direct information that such a visit had
 been made, yet in itself it would have seemed highly probable that St.
@@ -49,7 +49,7 @@ their native city, even among the Heathen. We have before mentioned the
 peculiar licentiousness of manners which prevailed at Corinth. So
 notorious was this, that it had actually passed into the vocabulary of
 the Greek tongue; and the very word “to Corinthianize,” meant to play
-the wanton; <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> nay, the bad
+the wanton; [^3] nay, the bad
 reputation of the city had become proverbial, even in foreign languages,
 and is immortalized by the Latin poets.
 
@@ -72,7 +72,7 @@ and wantonness which they had committed.” (2 Cor. 12:21)
 But in the midst of his grief he showed the greatest tenderness for the
 individual offenders; he warned them of the heinous guilt which they
 were incurring; he showed them its inconsistency with their Christian
-calling; <sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> he reminded them
+calling; [^4] he reminded them
 how, at their baptism, they had died to sin, and risen again unto
 righteousness; but he did not at once exclude them from the Church which
 they had defiled. Yet he was compelled to threaten them with this
@@ -83,12 +83,12 @@ he said,” I will not spare.” 2 Cor. 13:2.
 It appears probable that, on this occasion, St. Paul remained but a very
 short time at Corinth. When afterwards, in writing to them, he says that
 he does not wish “*now* to pay them a passing visit,” he seems
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> to imply, that his last
+[^5] to imply, that his last
 visit had deserved that epithet. Moreover, had it occupied a large
 portion of the “space of three years,” which he describes himself to
 have spent at Ephesus (Acts 20:31), he would probably have expressed
 himself differently in that part of his address to the Ephesian
-presbyters; <sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup> and a long
+presbyters; [^6] and a long
 visit could scarcely have failed to furnish more allusions in the
 Epistles so soon after written to Corinth. The silence of St. Luke also,
 which is easily explained on the supposition of a short visit, would be
@@ -109,7 +109,7 @@ long before he received new intelligence that the profligacy which had
 infected the community was still increasing. Then it was that he felt
 himself compelled to resort to harsher measures; he wrote an Epistle
 (which has not been preserved to us)
-<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup> in which, as we learn
+[^7] in which, as we learn
 from himself, he ordered the Christians of Corinth, by virtue of his
 Apostolic authority,” to cease from all intercourse with fornicators.”
 
@@ -123,12 +123,12 @@ which they had to transact with their Heathen neighbors. Whether the
 lost Epistle contained any other topics, we cannot know with certainty;
 but we may conclude with some probability that it was very short, and
 directed to this” one subject;
-<sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup> otherwise it is not easy
+[^8] otherwise it is not easy
 to understand why it should not have been preserved together with the
 two subsequent Epistles.
 
 Soon after this short letter had been dispatched, Timothy, accompanied
-by Erastus, <sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> left Ephesus
+by Erastus, [^9] left Ephesus
 for Macedonia. St. Paul desired him, if possible, to continue his
 journey to Corinth; but did not feel certain that it would be possible
 for him to do so consistently with the other objects of his journey,
@@ -263,7 +263,7 @@ But while we rejoice that so many details of the deepest historical
 interest have been preserved to us by this Epistle, let us not forget to
 thank God who so inspired His Apostle, that in his answers to questions
 of transitory interest he has laid down principles of eternal
-obligation. <sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> Let us
+obligation. [^10] Let us
 trace with gratitude the providence of Him, who” out of darkness calls
 up light;” by whose mercy it was provided that the unchastity of the
 Corinthians should occasion the sacred laws of moral purity to be
@@ -272,16 +272,16 @@ the resurrection should cause those words to be recorded whereon
 reposes, as upon a rock that cannot be shaken, our sure and certain hope
 of immortality.
 
-First Epistle to the Corinthians <sup>[<sup>11</sup>](#sdfootnote11sym)</sup>
+First Epistle to the Corinthians [^11]
 
 ##### 1 Corinthians 1
 
 PAUL, a called Apostle of Jesus Christ by the will of God, and Sosthenes
 the Brother, TO THE CHURCH OF GOD AT CORINTH, hallowed in Christ Jesus,
-called Saints; <sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup> together
-with <sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> who can upon the
+called Saints; [^12] together
+with [^13] who can upon the
 name of Jesus Christ our Lord in every place which is their home and our
-home also. <sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup>
+home also. [^14]
 
 Grace be unto you and peace, from God our Father, and from our Lord
 Jesus Christ.
@@ -301,7 +301,7 @@ Lord.
 I exhort you brethren by the name of our Lord Jesus Christ, to shun
 disputes, and have no divisions among you, but to be knit together in
 the same mind, and the same judgment.
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup> For I have been
+[^15] For I have been
 
 informed concerning you, my brethren, by the members of Chloe’s
 household, that there are contentions among you. I mean, that one of you
@@ -314,12 +314,12 @@ Stephanas; besides these I know not that I baptized any other. For
 Christ sent me forth as His Apostle, not to baptize, but to publish the
 Glad tidings; and that, not with wisdom of word, lest thereby the cross
 of Christ should be made void. For the word of the cross,
-<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup> to those in the way of
+[^16] to those in the way of
 perdition, is folly; but to us in the way of salvation,
-<sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup> it is the power of God.
+[^17] it is the power of God.
 And so it is written, “I will destroy the wisdom of the wise, and bring
 to nothing the understanding of the prudent.”
-<sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup>
+[^18]
 
 Where is the Philosopher? Where is the Rabbi? Where is the reasoner of
 this world? Has not God turned the world’s wisdom into folly? for when
@@ -328,7 +328,7 @@ wisdom of God, it pleased God, by the folly of our preaching, to save
 those who believe. For the Jews require a sign [from heaven], and the
 Greeks demand philosophy; but we proclaim a Messiah crucified, to the
 Jews a stumbling block, and to the Greeks a folly; but to the called
-<sup>**[<sup>19</sup>](#sdfootnote19sym)**</sup> themselves, whether
+[^19] themselves, whether
 they be Jews or Greeks, Christ the power of God, and the wisdom of God.
 For the folly of God is wiser than man’s wisdom, and the weakness of God
 is stronger than man’s strength. For you see, brethren, how God has
@@ -341,7 +341,7 @@ world’s base things, and things despised, yea, things that have no
 being, God has chosen, to bring to nought the things that be; that no
 flesh should glory in His presence. But you are His children in Christ
 Jesus, whom God sent unto us as our wisdom,
-<sup>**[<sup>20</sup>](#sdfootnote20sym)**</sup> and righteousness, and
+[^20] and righteousness, and
 sanctification, and redemption; that it might be according as it is
 written, “He that boasts, let him boast in the Lord. (Jer. 9:23,24)
 
@@ -352,7 +352,7 @@ testimony of God, I came not with surpassing skill of speech or wisdom.
 For no knowledge did I purpose to display among you, but the knowledge
 of Jesus Christ along, and Him crucified. And in my intercourse with
 you, I was filled with weakness and fear and much trembling.
-<sup>**[<sup>21</sup>](#sdfootnote21sym)**</sup>
+[^21]
 
 And when I proclaimed my message, I used not persuasive words of human
 wisdom, but showed forth the working of God’s Spirit and power, that
@@ -361,15 +361,15 @@ the power of God.
 
 Nevertheless, among those who are ripe in understanding, I speak wisdom;
 albeit not the wisdom of this world, nor of its rulers, who will soon be
-nought. <sup>**[<sup>22</sup>](#sdfootnote22sym)**</sup> But it is God’s
+nought. [^22] But it is God’s
 wisdom that I speak, whereof the secret is made known to His people;
-<sup>**[<sup>23</sup>](#sdfootnote23sym)**</sup> even the hidden wisdom
+[^23] even the hidden wisdom
 which God ordained before the ages, that we might be glorified thereby.
 But the rulers of this world knew it not; for had they known it, they
 would not have crucified the Lord of Glory. But as it is written, “Eye
 hath not seen, nor ear heard, neither have entered into the heart of
 man, the things which God hath prepared for them that love Him.”
-<sup>**[<sup>24</sup>](#sdfootnote24sym)**</sup> Yet to us God has
+[^24] Yet to us God has
 revealed them by His Spirit. For the Spirit fathoms all things, even the
 depths of God. For who can know what belongs to man but the spirit of
 man which is within him? even so none can know what belongs to God, but
@@ -379,13 +379,13 @@ things which have been freely given us by God.
 
 These are the things whereof we speak, in words not taught by man’s
 wisdom, but by the Spirit; explaining spiritual things to spiritual men.
-But the natural <sup>**[<sup>25</sup>](#sdfootnote25sym)**</sup> man
+But the natural [^25] man
 rejects the teaching of God’s Spirit, for to him it is folly; and he
 cannot comprehend it because it is spiritually discerned. But the
 spiritual man judges all things truly, yet cannot himself be truly
 judged by others. For “Who hath known the mind of the Lord that he
 should instruct Him?” (Isa. 40:13, LXX) but we have the mind of the Lord
-<sup>**[<sup>26</sup>](#sdfootnote26sym)**</sup> [within us].
+[^26] [within us].
 
 ##### 1 Corinthians 3
 
@@ -410,11 +410,11 @@ God gave me the gift of grace whereby like a skilful architect I laid a
 foundation; and on this foundation another builds; but let each take
 heed what he builds thereon, [‘thereon,” I say,] for other foundation
 can no man lay, than that already laid, which is Jesus Christ.
-<sup>**[<sup>27</sup>](#sdfootnote27sym)**</sup> But on this foundation
+[^27] But on this foundation
 one may raise gold, and silver, and precious stones; another, wood, hay,
-and stubble. <sup>**[<sup>28</sup>](#sdfootnote28sym)**</sup> But each
+and stubble. [^28] But each
 man’s work will be made manifest; for The Day
-<sup>**[<sup>29</sup>](#sdfootnote29sym)**</sup> will make it known;
+[^29] will make it known;
 because that day will be revealed with fire, and the fire will test each
 builder’s work. He whose building stands unharmed, shall receive payment
 for his labor; he whose work is burned down, shall forfeit his reward:
@@ -423,7 +423,7 @@ through the flames.
 
 Know ye not that you are God’s temple, and that you form a shrine
 wherein God’s Spirit dwells? If any man ruin the temple of God, God
-shall ruin <sup>**[<sup>30</sup>](#sdfootnote30sym)**</sup> him; for the
+shall ruin [^30] him; for the
 temple of God is holy; and holy therefore are ye.
 
 Let none deceive himself; if any man is held wise among you in the
@@ -433,17 +433,17 @@ foolishness with God, as it is written, “He taketh the wise in their own
 craftiness.” (Job 5:13, from the LXX) And again, “The Lord knoweth the
 thoughts of the wise that they are vain.” (Psalm 94:11) Therefore let
 none of you make his boast in men;
-<sup>**[<sup>31</sup>](#sdfootnote31sym)**</sup> for all things are
+[^31] for all things are
 yours; both Paul and Apollos, and Cephas, and the whole world itself;
 both life and death, things present and things to come all are yours but
-<sup>**[<sup>32</sup>](#sdfootnote32sym)**</sup> you are Christ’s; and
+[^32] you are Christ’s; and
 Christ is God’s.
 
 ##### 1 Corinthians 4
 
 Let us be accounted as servants of Christ, and Christ’s and stewards of
 the mysteries of God.” Moreover, it is required in a steward to be found
-faithful. <sup>**[<sup>33</sup>](#sdfootnote33sym)**</sup> Yet to me it
+faithful. [^33] Yet to me it
 matters nothing that I be judged by you or by the doom of man; nay, I
 judge not even myself. For although I know not that I am guilty of
 unfaithfulness, yet this does not justify me; but I must be tried by the
@@ -456,7 +456,7 @@ But these things, brethren, I have represented under the persons of
 myself and Apollos, for your sakes; that by considering us you might
 learn not to think of yourselves above that which has been written, 9
 and that you may cease to puff yourselves up in the cause
-<sup>**[<sup>34</sup>](#sdfootnote34sym)**</sup> of one against another.
+[^34] of one against another.
 For who makes thee to differ from another? what hast thou that thou
 didst not receive? and how then canst thou boast, as if thou hadst won
 it for thyself? But ye forsooth have already eaten to the full [of
@@ -465,7 +465,7 @@ your throne, and have no need of me. Would that you were indeed
 enthroned, that I too might reign with you. For, I think, God has set
 forth us the Apostles last of all, like criminals condemned to die, to
 be gazed at in a theatre
-<sup>**[<sup>35</sup>](#sdfootnote35sym)**</sup> by the whole world,
+[^35] by the whole world,
 both men and angels. We for Christ’s sake are fools, while you are wise
 in Christ; we are weak, while you are strong; you are honorable, while
 we are outcasts; even to the present hour we bear hunger and thirst, and
@@ -475,7 +475,7 @@ railings with good works. We have been made as it were the refuse of the
 earth, the off scouring of all things, unto this day. I write not thus
 to reproach you, but as a father I chide the children whom I love. For
 though you may have ten thousand guardians
-<sup>**[<sup>36</sup>](#sdfootnote36sym)**</sup> to lead you towards the
+[^36] to lead you towards the
 school of Christ, you can have but one father; and it was I who begat
 you in Christ Jesus, by the Glad tidings which I brought. I beseech you,
 therefore, become followers of me.
@@ -506,22 +506,22 @@ to Satan 3 the man who has thus sinned, for the destruction of his
 fleshly lusts, that his spirit may be 6 saved in the day of the Lord
 Jesus. Unseemly is your boasting; know ye not that “a little leaven
 leavens the whole lump?”
-<sup>**[<sup>37</sup>](#sdfootnote37sym)**</sup> Cast out therefore the
+[^37] Cast out therefore the
 old leaven, that you may be an untainted mass, even as now
-<sup>**[<sup>38</sup>](#sdfootnote38sym)**</sup> you are without taint
+[^38] you are without taint
 of leaven; for our Paschal Lamb is Christ, who was slain for us;
 therefore let us keep the feast, not with the old leaven, nor the leaven
 of vice and wickedness, but with the unleavened bread of purity and
 truth.
 
 I enjoined you in my letter
-<sup>**[<sup>39</sup>](#sdfootnote39sym)**</sup> to keep no company with
+[^39] to keep no company with
 fornicators: not that you should utterly forego all intercourse with the
 men of this world who may be fornicators, or lascivious, or
 extortioners, or idolaters; for so you would need to go utterly out of
 the world. But my meaning was, that you should keep no company with any
 man who, bearing the name of a Brother, is either a fornicator, or a
-wanton, <sup>**[<sup>40</sup>](#sdfootnote40sym)**</sup> or an idolater,
+wanton, [^40] or an idolater,
 or a railer, or a drunkard, or an extortioner; with such a man, I say,
 you must not so much as eat. For what .need have I to judge those also
 that are without? Is it not your part to judge those that are within?
@@ -554,25 +554,25 @@ you have been hallowed, you have been justified, in the name of the Lord
 Jesus, and in the Spirit of our God.
 
 All things are lawful for me.
-<sup>**[<sup>41</sup>](#sdfootnote41sym)**</sup> But not all things are
+[^41] But not all things are
 good for me. Though all things are in my power, they shall not bring me
 under their power. “Meat is for the belly, and the belly for meat,”
 though God will soon put an end to both; but the body is not for
 fornication, but for the Lord; and the Lord for the body;
-<sup>**[<sup>42</sup>](#sdfootnote42sym)**</sup> and as God raised the
+[^42] and as God raised the
 Lord from the grave, so He will raise us also by His mighty power.
-<sup>**[<sup>43</sup>](#sdfootnote43sym)**</sup> Know ye not that your
+[^43] Know ye not that your
 bodies are members of Christ’s body? Shall I then take the members of
 Christ, and make them the members of an harlot? God forbid. Know ye not,
 that he who joins himself to an harlot becomes one body with her? For it
 is said “They twain shall be one flesh.” (Gen. 2:24) But he who joins
 himself to the Lord, becomes one spirit with Him. Flee fornication. The
 root of sin is not in the body,
-<sup>**[<sup>44</sup>](#sdfootnote44sym)**</sup> [but in the soul]; yet
+[^44] [but in the soul]; yet
 the fornicator sins against his own body. Know ye not that your bodies
 are temples of the Holy Spirit which dwells within you, which ye have
 received from God? And you are not your own, for you were bought with a
-price. <sup>**[<sup>45</sup>](#sdfootnote45sym)**</sup>Glorify God,
+price. [^45]Glorify God,
 therefore, not in your spirit only, but in your body also, since both
 are His.
 
@@ -609,11 +609,11 @@ now they are holy. But if the unbelieving husband or wife seeks for
 separation, let them be separated: for in such cases the believing
 husband or wife is not bound to remain under the yoke. But the call
 whereby God has called us, is a call of peace.
-<sup>**[<sup>46</sup>](#sdfootnote46sym)**</sup> For thou who art the
+[^46] For thou who art the
 wife of an unbeliever, how knowest thou whether thou mayest save thy
 husband? or thou who art the husband, whether thou mayest save thy wife?
 
-Only <sup>**[<sup>47</sup>](#sdfootnote47sym)**</sup> let each man walk
+Only [^47] let each man walk
 in the same path which God allotted to him, wherein the Lord has called
 him. This rule I give in all the churches. Thus, if any man, when he was
 called, bore the mark of circumcision, let him not efface it; if any man
@@ -622,36 +622,36 @@ circumcision. Circumcision is nothing, and uncircumcision is nothing;
 but obedience to the commands of God. Let each abide in the condition
 wherein he was called. Wast thou in slavery at the time of thy calling?
 Care not for it. Nay, though thou have power to gain thy freedom,
-<sup>**[<sup>48</sup>](#sdfootnote48sym)**</sup> rather make use of thy
+[^48] rather make use of thy
 condition. For the slave who has been called in the Lord is the Lord’s
 freedman; and so also, the freeman who has been called, is Christ’s
 slave. He has bought you all; beware lest you make yourselves the slaves
-of man. <sup>**[<sup>49</sup>](#sdfootnote49sym)**</sup> Brethren, in
+of man. [^49] Brethren, in
 the state wherein he was called, let each abide with God.
 
 Concerning your virgin daughters
-<sup>**[<sup>50</sup>](#sdfootnote50sym)**</sup> I have no command from
+[^50] I have no command from
 the Lord, but I give my judgment, as one who has been moved by the
 Lord’s mercy to be faithful. I think, then, that it is good, by
 marriage. reason of the present necessity, for all to be unmarried. Art
 thou bound to a wife? seek not separation; art thou free? seek not
 marriage; yet if thou marry, thou sin not.
-<sup>**[<sup>51</sup>](#sdfootnote51sym)**</sup> And if your virgin
+[^51] And if your virgin
 daughters marry, they sin not; but the married will have sorrows in the
 flesh, and these I would spare you.
-<sup>**[<sup>52</sup>](#sdfootnote52sym)**</sup> But this I say,
+[^52] But this I say,
 brethren, the time is short;
-<sup>**[<sup>53</sup>](#sdfootnote53sym)**</sup> that henceforth both
+[^53] that henceforth both
 they that have wives be as though they had none; and they that weep as
 though they wept not, and they that rejoice as though they rejoiced not,
 and they that buy as though they possessed not, and they that use this
-world as not abusing <sup>**[<sup>54</sup>](#sdfootnote54sym)**</sup>
+world as not abusing [^54]
 it; for the outward show of this world is passing away. But I would have
 you free from earthly care. The cares of the unmarried man are fixed
 upon the Lord, and he strives to please the Lord. But the cares of the
 husband are fixed upon worldly things, striving to please his wife. The
 wife also has this difference
-<sup>**[<sup>55</sup>](#sdfootnote55sym)**</sup> from the virgin; the
+[^55] from the virgin; the
 cares of the virgin are fixed upon the Lord, that she may be holy both
 in body and in spirit; but the cares of the wife are fixed upon worldly
 things, striving to please her husband.
@@ -678,7 +678,7 @@ have the Spirit of God.
 ##### 1 Corinthians 8
 
 As to the meats which have been sacrificed to idols, we know (for we all
-have knowledge) <sup>**[<sup>56</sup>](#sdfootnote56sym)**</sup> but
+have knowledge) [^56] but
 knowledge puffs up, while love builds. If any man prides himself on his
 knowledge, he knows nothing yet as he ought to know; but whosoever loves
 God, of him God hath knowledge as to eating the meats sacrificed to
@@ -687,14 +687,14 @@ no other God but one. For though there be some who are called gods,
 either celestial or terrestrial, and though men worship many gods and
 many lords, yet to us there is but one God, the Father, from whom are
 all things, and we for Him; and one Lord Jesus Christ, by whom are all
-things, and we by Him. <sup>**[<sup>57</sup>](#sdfootnote57sym)**</sup>
+things, and we by Him. [^57]
 But” all” have not this” knowledge;” on the contrary, there are some who
 still have a conscientious fear of the idol, and think the meat an
 idolatrous sacrifice, so that, if they eat it, their conscience being
 weak is defiled. Now our food cannot change our place in God’s sight;
 with Him we gain nothing by eating, nor lose by not eating. But beware
 lest, perchance, this exercise of your rights
-<sup>**[<sup>58</sup>](#sdfootnote58sym)**</sup> should become a
+[^58] should become a
 stumbling block to the weak. For if one of them see thee, who boastest
 of thy knowledge, 2 feasting in an idol’s temple, will not he be
 encouraged to eat the meat offered in sacrifice, notwithstanding the
@@ -703,7 +703,7 @@ weak brother perish, for whom Christ died. Nay, when you sin thus
 against your brethren, and wound their weak conscience, you sin against
 Christ. Wherefore, if my food cast a stumbling block in my brother’s
 path, I will eat no flesh while the world stands, lest thereby I cause
-my brother’s fall. <sup>**[<sup>59</sup>](#sdfootnote59sym)**</sup>
+my brother’s fall. [^59]
 
 ##### 1 Corinthians 9
 
@@ -717,7 +717,7 @@ right to carry a believing wife with me on my journeys, like the rest of
 the apostles, and the brothers of the Lord, and Cephas? Or do they think
 that I and Barnabas alone have no right to be maintained, except by the
 labor of our own hands? What soldier
-<sup>**[<sup>60</sup>](#sdfootnote60sym)**</sup> ever serves at his
+[^60] ever serves at his
 private cost? What husbandman plants a vineyard without sharing in its
 fruit? What shepherd tends a flock without partaking of their milk? Say
 I this on Man’s judgment only, or says not the Law the same? Yea, in the
@@ -730,7 +730,7 @@ seed of spiritual gifts, would it be much if I were to reap some harvest
 from your carnal gifts? If others share this right over you, how much
 more should I ? Yet I have not used my right, but forego every claim,
 lest I should by any means hinder the course of Christ’s Glad tidings.
-Know ye not that they <sup>**[<sup>61</sup>](#sdfootnote61sym)**</sup>
+Know ye not that they [^61]
 who perform the service of the temple, live upon the revenues of the
 temple, and they who minister at the altar share with it in the
 sacrifices? So also the Lord commanded (Matt. 10:9,10) those who publish
@@ -739,11 +739,11 @@ of these rights, nor do I write this that it may be practiced in my own
 case. For I had rather die than suffer any man to make void my boasting.
 For, although I proclaim the Glad tidings, yet this gives me no ground
 of boasting; for I am compelled to do so by order of my
-<sup>**[<sup>62</sup>](#sdfootnote62sym)**</sup> master. Yea, woe is me
+[^62] master. Yea, woe is me
 if I proclaim it not. For were my service of my own free choice, I might
 claim wages to reward my labor; but since I serve by compulsion, I am a
 slave entrusted with a stewardship.
-<sup>**[<sup>63</sup>](#sdfootnote63sym)**</sup>“
+[^63]“
 
 What then is my wage? It is to make the Glad tidings free of cost where
 I carry it, that I may forego my right as an Evangelist. Therefore,
@@ -762,7 +762,7 @@ therein with those who hear me. Know ye not that in the races of the
 stadium, though all run, yet but one can win the prize? (so run that you
 may win) and every man who strives in the matches, trains himself by all
 manner of self restraint. Yet they do it to win a fading crown,
-<sup>**[<sup>64</sup>](#sdfootnote64sym)**</sup> we, a crown that cannot
+[^64] we, a crown that cannot
 fade. I, therefore, run not like the racer who is uncertain of his goal;
 I fight, not as the pugilist who strikes out against the air; but I
 bruise my body and force it into bondage; lest, perchance, having called
@@ -775,7 +775,7 @@ were guarded by the cloud, and all passed safely through the sea. And
 all, in the cloud, and in the sea, were baptized unto Moses. And all of
 them alike ate the same spiritual food; and all drank of the same
 spiritual stream; for they drank from the spiritual rock which followed
-them; <sup>**[<sup>65</sup>](#sdfootnote65sym)**</sup> but that rock was
+them; [^65] but that rock was
 Christ. Yet most of them lost God’s favor, yea, they were struck down
 and perished in the wilderness. Now, these things were shadows of our
 own case, that we might learn not to lust after evil, as they lusted.
@@ -785,10 +785,10 @@ us commit fornication, as some of them committed, and fell in one day
 three and twenty thousand. (Num. 25:9) Neither let us try the
 longsuffering of Christ, as did some of them, who were destroyed by the
 serpents. (Num. 21:6) Nor murmur as some of them murmured, and were
-slain by the destroyer. <sup>**[<sup>66</sup>](#sdfootnote66sym)**</sup>
+slain by the destroyer. [^66]
 Now all these things befell them as shadows of things to come; and they
 were written for our warning, on whom the ends of the ages are come.
-<sup>**[<sup>67</sup>](#sdfootnote67sym)**</sup> Wherefore, let him who
+[^67] Wherefore, let him who
 thinks that he stands firm, beware lest he fall. No trial has come upon
 you beyond man’s power to bear; and God is faithful to His promises, and
 will not suffer you to be tried beyond your strength, but will with
@@ -799,7 +799,7 @@ Wherefore, my beloved, flee from idolatry. I speak as to men of
 understanding; use your own judgment upon my words. When we drink the
 cup of blessing, which we bless, are we not all partakers in the blood
 of Christ? When we break the bread, are we not all partakers in the body
-of Christ? <sup>**[<sup>68</sup>](#sdfootnote68sym)**</sup>
+of Christ? [^68]
 
 For as the bread is one, so we, the many, are one body; for of that one
 bread we all partake. If you look to the carnal Israel, do you not see
@@ -808,13 +808,13 @@ What would I say then? that an idol has any real being? or that meat
 offered to an idol is really changed thereby? Not so; but I say, that
 when the heathen offer their sacrifices, “They sacrifice to demons, and
 not to God.” (Deut. 32:17) and I would not have you become partners
-<sup>**[<sup>69</sup>](#sdfootnote69sym)**</sup> with the demons. You
+[^69] with the demons. You
 cannot drink the cup of the Lord, and the cup of demons; you cannot eat
 at the table of the Lord, and at the table of demons. Would we provoke
 the Lord to jealousy? Are we stronger than He?
 
 “All things are lawful,”
-<sup>**[<sup>70</sup>](#sdfootnote70sym)**</sup> but not all things are
+[^70] but not all things are
 expedient; “all things are lawful,” but not all things build up the
 church. Let no man seek his own, but every man his neighbor’s good.
 Whatever is sold in the market, you may eat, nor need you ask for
@@ -827,24 +827,24 @@ sake of him who pointed it out, and for the sake of conscience. Thy
 neighbor’s conscience, I say, not thine own; for [thou mayest truly
 say]” why is my freedom condemned by the conscience of another? and if I
 thankfully partake, why am I called a sinner for that which I eat with
-thanksgiving? <sup>**[<sup>71</sup>](#sdfootnote71sym)**</sup>
+thanksgiving? [^71]
 
 Therefore, whether you eat or drink, or whatsoever you do, do all for
-the glory of God. <sup>**[<sup>72</sup>](#sdfootnote72sym)**</sup> Give
+the glory of God. [^72] Give
 no cause of stumbling, either to Jews or Gentiles, or to the Church of
 God. For so I also strive to please all men in all things, not seeking
 my own good, but the good of all,
-<sup>**[<sup>73</sup>](#sdfootnote73sym)**</sup> that they may be saved.
+[^73] that they may be saved.
 I beseech you follow my example, as I follow the example of Christ.
 
 ##### 1 Corinthians 11
 
 I Praise you brethren, that
-<sup>**[<sup>74</sup>](#sdfootnote74sym)**</sup> “you are always mindful
+[^74] “you are always mindful
 of my teaching, and keep unchanged the rules which I delivered to you.”
 But I would have you know that Christ is the head of every man, and the
 man is the head of the woman, as God is the head of Christ. If a man
-should pray or prophesy <sup>**[<sup>75</sup>](#sdfootnote75sym)**</sup>
+should pray or prophesy [^75]
 in the congregation with a veil over his head, he would bring shame upon
 his head [by wearing the token of subjection]. But if a woman prays or
 prophesies with her head unveiled, she brings shame upon her head, as
@@ -858,14 +858,14 @@ was the man created for the sake of the woman, but the woman for the
 sake of the man. Therefore, the woman ought to wear a sign of subjection
 upon her head, because of the angels. Nevertheless, in their fellowship
 with the Lord, man and woman may not be separated the one from the
-other. <sup>**[<sup>76</sup>](#sdfootnote76sym)**</sup> For as woman was
+other. [^76] For as woman was
 made from man, so is man also borne by woman; and all things spring from
 God. Judge of this matter by your own feeling. Is it seemly for a woman
 to offer prayers to God unveiled? Or does not even nature itself teach
 you that long hair is a disgrace to a man, but a glory to a woman? for
 her hair has been given her for a veil. But if anyone thinks to be
 contentious in defense of such a custom, let him know that it is
-disallowed by me, <sup>**[<sup>77</sup>](#sdfootnote77sym)**</sup> and
+disallowed by me, [^77] and
 by all the Churches of God.
 
 [I said that I Praised you, for keeping the rules which were delivered
@@ -878,10 +878,10 @@ made known. Moreover, when you assemble yourselves together, it is not
 to eat the Lord’s Supper; for each begins to eat [what he has brought
 for] his own supper, before anything has been given to others; and while
 some are hungry, others are drunken.
-<sup>**[<sup>78</sup>](#sdfootnote78sym)**</sup> Have you then no houses
+[^78] Have you then no houses
 to eat and drink in? or do you come to show contempt for the
 congregation of God’s people, and to shame the poor?
-<sup>**[<sup>79</sup>](#sdfootnote79sym)**</sup> What can I say to you?
+[^79] What can I say to you?
 Shall I praise you in this? I praise you not. For I myself received from
 the Lord that which I delivered to you, that the Lord Jesus, in the
 night when He was betrayed, took bread, and when He had given thanks, He
@@ -919,7 +919,7 @@ they are wrought is various, but all are wrought in all by the working
 of the same God. But the gift whereby the Spirit becomes manifest, is
 given to each for the profit of all. To one is given by the Spirit the
 utterance of Wisdom, to another the utterance of Knowledge
-<sup>**[<sup>80</sup>](#sdfootnote80sym)**</sup> according to the
+[^80] according to the
 working of the same Spirit. To another Faith through the same Spirit. To
 another gifts of Healing through the same Spirit. To another the powers
 which work Miracles; to another Prophecy; to another the discernment of
@@ -972,14 +972,14 @@ faith, so that I could remove mountains; if I have not love, I am
 nothing.
 
 And though I sell all my goods to feed the poor, and though I give my
-body to be burned, <sup>[<sup>81</sup>](#sdfootnote81sym)</sup> if I
+body to be burned, [^81] if I
 have not love, it profits me nothing. Love is long suffering; love is
 kind; love envies not; love speaks no vaunts; love swells not with
 vanity; love offends not by rudeness; love seeks not her own; is not
 easily provoked ; bears no malice;
-<sup>[<sup>82</sup>](#sdfootnote82sym)</sup> rejoices not over
-<sup>[<sup>83</sup>](#sdfootnote83sym)</sup> iniquity, but rejoices in
-the victory of truth; <sup>[<sup>84</sup>](#sdfootnote84sym)</sup>
+[^82] rejoices not over
+[^83] iniquity, but rejoices in
+the victory of truth; [^84]
 foregoes all things, believes all things, hopes all things, endures all
 things.
 
@@ -989,8 +989,8 @@ imperfect, and our prophesying is imperfect. But when the perfect is
 come, the imperfect shall pass away. When I was a child, my words were
 childish, my desires were childish, my judgments were childish; but
 being grown a man, I have done with the things of childhood. So now we
-see darkly, <sup>[<sup>85</sup>](#sdfootnote85sym)</sup> by a mirror,
-<sup>[<sup>86</sup>](#sdfootnote86sym)</sup> but then face to face; now
+see darkly, [^85] by a mirror,
+[^86] but then face to face; now
 I know in part, but then shall I know, even as I now am known. Yet while
 other gifts shall pass away, these three, Faith, Hope, and Love, abide;
 and the greatest of these is Love.
@@ -1035,7 +1035,7 @@ ignorant of the meaning of thy words?
 
 Thou indeed fitly offer thanksgiving, but thy neighbors are not built
 up. I offer thanksgiving to God in private,
-<sup>**[<sup>87</sup>](#sdfootnote87sym)**</sup> speaking in Tongues [to
+[^87] speaking in Tongues [to
 Him], more than any of you. Yet in the congregation I would rather speak
 five words with my understanding so as to instruct others, than ten
 thousand words in a Tongue. Brethren, be not children in understanding;
@@ -1043,7 +1043,7 @@ but in malice be children, and in understanding be men. It is written in
 the Law, “With men of other tongues and other lips will I speak unto
 this people; and yet for all that they will not hear me, saith the
 Lord.” So that the gift of Tongues is a sign
-<sup>**[<sup>88</sup>](#sdfootnote88sym)**</sup> given rather to
+[^88] given rather to
 unbelievers than to believers; whereas the gift of Prophecy belongs to
 believers.
 
@@ -1051,7 +1051,7 @@ When, therefore, the whole congregation is assembled, if all the
 speakers speak in Tongues, and if any who take no part in your
 ministrations, or who are unbelievers, should enter your assembly, will
 they not say that you are mad?
-<sup>**[<sup>89</sup>](#sdfootnote89sym)**</sup> But if all exercise the
+[^89] But if all exercise the
 gift of Prophecy, then if any man who is an unbeliever, or who takes no
 part in your ministrations, should enter the place of meeting, he is
 convicted in conscience by every speaker, he feels himself judged by
@@ -1070,7 +1070,7 @@ no interpreter, let him who speaks in Tongues keep silence in the
 congregation, and speak in private to himself and God alone. Of those
 who have the gift of Prophecy, let two or three speak [in each
 assembly], and let the rest
-<sup>**[<sup>90</sup>](#sdfootnote90sym)**</sup> judge; but if another
+[^90] judge; but if another
 of them, while sitting as hearer, receives a revelation [calling him to
 prophesy], let the first cease to speak. For so you can each prophesy in
 turn, that all may receive teaching and exhortation; and the gift of
@@ -1085,7 +1085,7 @@ for it is disgraceful to women to speak in the congregation. [Whence is
 your claim to change the rules delivered to you ?] Was it from you that
 the word of God went forth; or, are you the only Church which it has
 reached? Nay, if any think that he has the gift of Prophecy, or that he
-is a spiritual <sup>**[<sup>91</sup>](#sdfootnote91sym)**</sup> man, let
+is a spiritual [^91] man, let
 him acknowledge the words which I write for commands of the Lord. But if
 any man refuse this acknowledgment, let him refuse it at his peril.
 
@@ -1100,12 +1100,12 @@ whereby also you are saved, if you still hold fast the words wherein I
 declared it to you; unless indeed you believed in vain. For the first
 thing I taught you was that which I had myself been taught, that Christ
 died for our sins, according to the Scriptures;
-<sup>**[<sup>92</sup>](#sdfootnote92sym)**</sup> and that He was buried,
+[^92] and that He was buried,
 and that He rose the third day from the dead, according to the
 Scriptures; and that he was seen by Cephas, and then by The Twelve;
 after that He was seen by about five hundred brethren at once, of whom
 the greater part are living at this present time, but some are fallen
-asleep. <sup>**[<sup>93</sup>](#sdfootnote93sym)**</sup> Next He was
+asleep. [^93] Next He was
 seen by James, and then by all the Apostles; and last of all he was seen
 by me also, who am placed among the rest as it were by an untimely
 birth; for I am the least of the Apostles, and am not worthy to be
@@ -1123,12 +1123,12 @@ faith with which you heard it. Moreover, we are found. guilty of false
 witness against God; because we bore witness of God that He raised
 Christ from the dead, whom He did not raise, if indeed the dead rise
 not. For if there be no resurrection of the dead, Christ himself
-<sup>**[<sup>94</sup>](#sdfootnote94sym)**</sup> is not risen. And if
+[^94] is not risen. And if
 Christ be not risen, your faith is vain, you are still in your sins.
 Moreover, if this be so, they who have fallen asleep in Christ, perished
 when they died. If in this life only we have hope in Christ, we are of
 all men most miserable. But now, Christ is risen from the dead; the
-first fruits <sup>**[<sup>95</sup>](#sdfootnote95sym)**</sup> of all who
+first fruits [^95] of all who
 sleep.
 
 For since by man came death, by man came also the resurrection of the
@@ -1137,7 +1137,7 @@ to life. But each in his own order; Christ, the first fruits; afterwards
 they who are Christ’s at His appearing; finally, the end shall come,
 when He shall give up His kingdom to God His Father, having destroyed
 all other dominion, and authority, and power.
-<sup>**[<sup>96</sup>](#sdfootnote96sym)**</sup> :For He must reign
+[^96] :For He must reign
 “till He hath put all enemies under His feet.” (Psalm 110:1)
 
 And last of His enemies, Death also shall be destroyed. For “He hath put
@@ -1148,7 +1148,7 @@ shall the Son also subject Himself to Him who made them subject, that
 God may be all in all.
 
 Again, what will become of those who cause themselves to be baptized for
-the Dead, <sup>**[<sup>97</sup>](#sdfootnote97sym)**</sup> if the dead
+the Dead, [^97] if the dead
 never rise again? Why then do they submit to baptism for the dead?
 
 And I too, why do I put my life to hazard every hour? I protest by my I
@@ -1157,12 +1157,12 @@ die daily. If I have fought (so to speak) with beasts at Ephesus, what
 am I profited if the dead rise not? “Let us eat and drink, for tomorrow
 we die.” (Isa. 22:13) Beware lest you be led astray; “Converse with evil
 men corrupts good
-manners.”<sup>**[<sup>98</sup>](#sdfootnote98sym)**</sup> Change your
+manners.”[^98] Change your
 drunken raveling into the sobriety of righteousness, and live no more in
 sin; for some of you know not God; I speak this to your shame.
 
 But some one will say,” How are the dead raised up? and with what body
-do they come?” <sup>**[<sup>99</sup>](#sdfootnote99sym)**</sup> Thou
+do they come?” [^99] Thou
 fool, the seed you sow is not quickened into life till it hath partaken
 of death. And that which you sow has not the same body with the plant
 which will spring from it, but it is mere grain, of wheat, or whatever
@@ -1190,7 +1190,7 @@ clay, the second man was the Lord from heaven. As is the earthly, such
 are they also that are earthly; and as is the heavenly, such are they
 also that are heavenly; and as we have borne the image of the earthly,
 we shall also bear the image of the heavenly. But this I say, brethren,
-that flesh and blood <sup>**[<sup>100</sup>](#sdfootnote100sym)**</sup>
+that flesh and blood [^100]
 cannot inherit the kingdom of God, neither can corruption inherit
 incorruption. Behold, I declare to you a mystery; we shall not all
 sleep, but we shall all be changed, in a moment, in the twinkling of an
@@ -1204,7 +1204,7 @@ is clothed with immortality, then shall be brought to pass the saying,
 which is written, “Death is swallowed up in victory.” (Isa. 25:8) “O
 death, where is thy sting? O grave, where is thy victory?” (Hosea 13:14)
 The sting of death is sin, and the strength of sin is the law;
-<sup>**[<sup>101</sup>](#sdfootnote101sym)**</sup> but thanks be to God,
+[^101] but thanks be to God,
 who giveth us the victory, through Our Lord Jesus Christ.
 
 Therefore, my beloved brethren, be ye steadfast, immovable, always
@@ -1290,10 +1290,10 @@ journey (Acts 19:22), he still resolved to stay till Pentecost (1 Cor.
 16:8). A” great door” was open to him, and there were” many
 adversaries,” against whom he had yet to contend.
 
-[1](#sdfootnote1anc) This article is from Conybeare, W. J. and Howson,
+[^1]: This article is from Conybeare, W. J. and Howson,
 J. S, *The Life and Epistles of St. Paul, Chapter 15*
 
-[2](#sdfootnote2anc) The occurrence of this visit is proved by the
+[^2]: The occurrence of this visit is proved by the
 following passages:
 
 (1) 2 Cor. 12:14
@@ -1335,42 +1335,42 @@ second visit. But a more careful examination of the passage shows that
 St. Paul is speaking of his original intention of paying them a double
 visit, on his way to Macedonia, and on his return from :Macedonia.
 
-[3](#sdfootnote3anc) It is so used by Aristophanes.
+[^3]: It is so used by Aristophanes.
 
-[4](#sdfootnote4anc) There can be no doubt that he urged upon them the
+[^4]: There can be no doubt that he urged upon them the
 same arguments which he was afterwards obliged to repeat at I Cor. 6:15.
 
-[5](#sdfootnote5anc) I Cor. 16:7. Yet this admits of another
+[^5]: I Cor. 16:7. Yet this admits of another
 explanation; for perhaps he only meant to say, “I will not *now* (at
 once) come to you (by the direct route) on my way to Macedonia for a
 passing visit,”
 
-[6](#sdfootnote6anc) Wieseler, however, gets over this, by supposing
+[^6]: Wieseler, however, gets over this, by supposing
 that when St. Paul mentions three years spent among his hearers, he
 means to address not only the Ephesian presbyters whom he had summoned,
 but also the compa­nions of his voyage (Acts 20:4) who had been with him
 in Macedonia and Achaia.
 
-[7](#sdfootnote7anc) In proof of this, see the note on I Cor. 5:9-12.
+[^7]: In proof of this, see the note on I Cor. 5:9-12.
 This lost Epistle must have been written *after* his second visit;
 otherwise he need not have explained it in the passage referred to.
 
-[8](#sdfootnote8anc) Probably it was in this lost letter that he gave
+[^8]: Probably it was in this lost letter that he gave
 them notice of his intention to visit them on his way to Macedonia; for
 altering which he was so much blamed by his opponents.
 
-[9](#sdfootnote9anc) Erastus was probably the “treasurer” of the city of
+[^9]: Erastus was probably the “treasurer” of the city of
 Corinth, mentioned in Rom. 16:23 and 2 Tim. 4:20, and therefore was most
 likely proceeding at any rate to Corinth.
 
-[10](#sdfootnote10anc) The contrast between the short-lived interest of
+[^10]: The contrast between the short-lived interest of
 the questions referred to him for solution, and the eternal principles
 by which they must be solved, was brought prominently before the mind of
 the Apostle himself by the Holy Spirit, under whose guidance he wrote;
 and he has expressed it in those sublime words which might serve as a
 motto for the whole Epistle (1 Cor. 7:29-31).
 
-[11](#sdfootnote11anc) The date of this Epistle can be fixed with more
+[^11]: The date of this Epistle can be fixed with more
 precision than that of any other. It gives us the means of ascertaining,
 not merely the year, but even (with great probability) the month and
 week, in which it was written.
@@ -1403,7 +1403,7 @@ Now it was at the close of his Ephesian residence (Acts 19:22) that he
 sent Timothy with Erastus (the Corinthian) from Ephesus to Macedonia,
 which was one way to Corinth, but not the shortest.
 
-[12](#sdfootnote12anc) The sense of the word for ‘Saints’ in the New
+[^12]: The sense of the word for ‘Saints’ in the New
 Testament is nearly equivalent to the modern’ Christians;’ but it would
 be an anachronism so to translate it here, since (in the time of St.
 Paul) the word ‘Christian’ was only used as a term of reproach. The
@@ -1414,11 +1414,11 @@ either the old rendering must be retained, or an awkward periphrasis
 employed. The English reader should bear in mind that St. Paul applies
 the term to all members of the Church.
 
-[13](#sdfootnote13anc) This is added to comprehend those Christians of
+[^13]: This is added to comprehend those Christians of
 the Church of Achaia who were not resident at Corinth, but in the
 neighboring places of the same province.
 
-[14](#sdfootnote14anc) The Authorized Version here appears scarcely
+[^14]: The Authorized Version here appears scarcely
 reconcilable with the order of the Greek, though it is defended by the
 opinions of Chrysostom, Billroth, Olshausen, etc. The translation of
 Meyer, “in every place under their and our dominion,” seems more like a
@@ -1428,26 +1428,26 @@ both of their and our abode,” is frigid. and adds nothing to the idea of
 converts to be also his own. Both sentiment and expression are the same
 as in Rom. 16:13: ‘His mother and mine.’
 
-[15](#sdfootnote15anc) “Mind” refers to the view taken by the
+[^15]: “Mind” refers to the view taken by the
 understanding; “judgment” to the practical decision arrived at.
 
-[16](#sdfootnote16anc) I.e., the tidings of a crucified Messiah.
+[^16]: I.e., the tidings of a crucified Messiah.
 
-[17](#sdfootnote17anc) For the present participle we may refer to Acts
+[^17]: For the present participle we may refer to Acts
 2:47, and to 2:6, below.
 
-[18](#sdfootnote18anc) (Isa. 29:14, not quite literally quoted from the
+[^18]: (Isa. 29:14, not quite literally quoted from the
 LXX).
 
-[19](#sdfootnote19anc) All who make an outward profession of
+[^19]: All who make an outward profession of
 Christianity are, in St. Paul’s language, the “called.” They have
 received a message from God which has called them to enter into His
 church.
 
-[20](#sdfootnote20anc) Literally, “who became wisdom to use from God,”
+[^20]: Literally, “who became wisdom to use from God,”
 the preposition implying “sent from.”
 
-[21](#sdfootnote21anc) St. Paul appears, on his first coming to Corinth,
+[^21]: St. Paul appears, on his first coming to Corinth,
 to have been suffering under great depression, perhaps caused by the
 bodily malady to which he was subject (cf. 2 Cor. 12:8), perhaps by the
 ill success of his efforts at Athens.
@@ -1459,52 +1459,52 @@ anxiety to perform a duty.” Thus, in Eph. 6:5, slaves are charged to
 obey their masters thus, and this “anxious conscientiousness” is opposed
 to “eye-service.”
 
-[22](#sdfootnote22anc) Literally, “passing away into nothingness.”
+[^22]: Literally, “passing away into nothingness.”
 
-[23](#sdfootnote23anc) “Wisdom in a mystery,” is a wisdom revealed to
+[^23]: “Wisdom in a mystery,” is a wisdom revealed to
 the *initiated*, to Christians, but hidden from the rest of the world.
 
-[24](#sdfootnote24anc) Isa. 64:4 is the nearest passage to this in the
+[^24]: Isa. 64:4 is the nearest passage to this in the
 Old Testament. The quotation is not to be found anywhere exactly.
 
-[25](#sdfootnote25anc) Properly, man considered as endowed with the
+[^25]: Properly, man considered as endowed with the
 *anima* (the living principle), as distinguished from the spiritual
 impulse.
 
-[26](#sdfootnote26anc) The best manuscripts are divided between the
+[^26]: The best manuscripts are divided between the
 readings of “Christ” and “Lord” here.
 
-[27](#sdfootnote27anc) The MSS vary here, but the same sense is
+[^27]: The MSS vary here, but the same sense is
 virtually involved in all three readings, namely that the Messiahship of
 Jesus was the foundation of the teaching of the Apostles.
 
-[28](#sdfootnote28anc) The image becomes much more vivid, if we remember
+[^28]: The image becomes much more vivid, if we remember
 the contrasted buildings of an ancient city, the sumptuous edifices of
 granite and marble, with ornaments of gold and silver, on the one hand,
 and the hovels of the poor on the other, with walls of wood and roof of
 thatch, and interstices stuffed with straw. See the description of Rome
 below, Chapter 22.
 
-[29](#sdfootnote29anc) The Day of Christ’s coming; cf. I Thess. 5:4.
+[^29]: The Day of Christ’s coming; cf. I Thess. 5:4.
 
-[30](#sdfootnote30anc) The verbal link is lost in the AV.
+[^30]: The verbal link is lost in the AV.
 
-[31](#sdfootnote31anc) The meaning is “Boast not of having this man or
+[^31]: The meaning is “Boast not of having this man or
 that as your leader; for all the Apostles, nay, all things in the
 universe, are ordained by God to co-operate for your good.”
 
-[32](#sdfootnote32anc) All things work together for the good of
+[^32]: All things work together for the good of
 Christians; all things conspire to do them service; but their work is to
 do Christ’s service, even ad He Himself came to do the will of His
 Father.
 
-[33](#sdfootnote33anc) Or rather, “Inquiry is made into a steward’s
+[^33]: Or rather, “Inquiry is made into a steward’s
 conduct in order that he may be proved faithful.”
 
-[34](#sdfootnote34anc) St. Paul probably means “in the cause of your
+[^34]: St. Paul probably means “in the cause of your
 party leaders;” but speaks with intentional indistinctness.
 
-[35](#sdfootnote35anc) Literally, because we have been made a theatrical
+[^35]: Literally, because we have been made a theatrical
 spectacle. Compare Heb. 10:33. The spectacle to which St. Paul here
 alludes was common in those times. Criminals condemned to death were
 exhibited for the amusement of the populace on the arena of the
@@ -1514,12 +1514,12 @@ spectacle as an exciting termination to the entertainment (“set forth
 last of all”). So Tertullian paraphrases the passage, *Nus Deus
 Apostolos novissimos elegit velut bestiarios*.
 
-[36](#sdfootnote36anc) This is the same word used in Gal 3:24 referring
+[^36]: This is the same word used in Gal 3:24 referring
 to “The guardian slave who led the child to school”
 
-[37](#sdfootnote37anc) The same proverb is quoted in Gal. 5:9.
+[^37]: The same proverb is quoted in Gal. 5:9.
 
-[38](#sdfootnote38anc) In spite of the opinion of some eminent modem
+[^38]: In spite of the opinion of some eminent modem
 commentators, which is countenanced by Chrysostom, we must adhere to the
 interpretation which considers these words as written at the Paschal
 season, and suggested by it. The words *leaven*, *lump*, *Paschal Lamb*,
@@ -1548,7 +1548,7 @@ unleavened bread’ at this period of his life, from Acts 20:6. Also, from
 what follows, we perceive how naturally this greatest of Jewish feasts
 changed into the greatest of Christian festivals.
 
-[39](#sdfootnote39anc) Literally, ‘I wrote to you in the letter,’ viz.
+[^39]: Literally, ‘I wrote to you in the letter,’ viz.
 the letter which I last wrote, or the letter to which you refer in your
 questions; for they had probably mentioned their perplexity about this
 direction in it. So in 2 Cor. 7:8 the present letter (1 Cor.) is
@@ -1574,7 +1574,7 @@ this view receives a strong confirmation from the words of St. Paul’s
 Corinthian opponents (spoken before 2 Cor. was written): ‘His letters
 are weighty,’ etc. (2 Cor. 10:10).
 
-[40](#sdfootnote40anc) The Greek word has the meaning of a concupiscent
+[^40]: The Greek word has the meaning of a concupiscent
 man in some passages of St. Paul’s writings. Compare Eph. 5:5 (where it
 is coupled with *unclean*). So the corresponding substantive, in St.
 Paul, almost. invariably means lasciviousness. See Eph. 4:19, 5:3, and
@@ -1586,7 +1586,7 @@ of concupiscence in English. Since the above was first published, Prof.
 Stanley and Prof. Jowett have both expressed their concurrence in this
 rendering of the word.
 
-[41](#sdfootnote41anc) See the explanation of this in Chapter 13; and
+[^41]: See the explanation of this in Chapter 13; and
 compare (for the true side of the phrase) Gal. 5:23, ‘Against such there
 is no law.’ Probably St. Paul had used the very words ‘All things are
 lawful for me’ in this true sense, and the immoral party at Corinth had
@@ -1597,11 +1597,11 @@ what follows it is evident that these Corinthian freethinkers argued
 that the existence of bodily appetites proved the lawfulness of their
 gratification.
 
-[42](#sdfootnote42anc) The body is for the Lord Jesus, to be consecrated
+[^42]: The body is for the Lord Jesus, to be consecrated
 by His indwelling to His service; and the Lord Jesus is for the body, to
 consecrate it by dwelling therein in the person of His Spirit.
 
-[43](#sdfootnote43anc) St.. Paul’s argument here is that sins of
+[^43]: St.. Paul’s argument here is that sins of
 unchastity, though bodily acts, yet injure a part of our nature (compare
 the phrase ‘spiritual body,’ I Cor. 15:11) which will not be destroyed
 by death, and which is closely connected with our moral well-being. And
@@ -1609,24 +1609,24 @@ it is a fact no less certain than mysterious, that moral and spiritual
 ruin is caused by such sins, which human wisdom (when untaught by
 Revelation) held to be actions as blameless as eating and drinking.
 
-[44](#sdfootnote44anc) Literally, “every sin which a man commits is
+[^44]: Literally, “every sin which a man commits is
 without (external to) the body.” The Corinthian freethinkers probably
 used this argument also; and perhaps availed themselves of our Lord’s
 words, Mark 7:18: ’Do ye not perceive that whatsoever thing from without
 enters into the man, it cannot defile him, because it enters not into
 his heart.
 
-[45](#sdfootnote45anc) The “price” is the blood of Christ. Compare Acts
+[^45]: The “price” is the blood of Christ. Compare Acts
 20:28 and Col. 1:14.
 
-[46](#sdfootnote46anc) The inference is, “therefore, the profession of
+[^46]: The inference is, “therefore, the profession of
 Christianity ought not to lead the believer to quarrel with the
 unbelieving members of his family.”
 
-[47](#sdfootnote47anc) Literally, “only, as God allotted to each, as the
+[^47]: Literally, “only, as God allotted to each, as the
 Lord has called each, so let him walk.”
 
-[48](#sdfootnote48anc) The Greek here is ambiguous, and might be so
+[^48]: The Greek here is ambiguous, and might be so
 rendered as to give directly opposite precepts; but the version given in
 the text (which is that advocated by Chrysostom, Meyer, and De Wette)
 agrees best with the order of the Greek words, and also with the
@@ -1634,10 +1634,10 @@ context. We must remember, with regard to this and other precepts here
 given, that they were given under the immediate anticipation of our
 Lord’s coming.
 
-[49](#sdfootnote49anc) Alluding to their servile adherence to part
+[^49]: Alluding to their servile adherence to part
 leaders. Compare 2 Cor. 11:20.
 
-[50](#sdfootnote50anc) We cannot help remarking, that the manner in
+[^50]: We cannot help remarking, that the manner in
 which a recent infidel writer has spoken of this passage, is one of the
 most striking proofs how far a candid and acute mind may be warped by a
 strong bias. In this case the desire of the writer is to disparage the
@@ -1649,24 +1649,24 @@ Jewish daughters in that age. We must suppose that this writer would (on
 the same grounds) require a modern missionary to Persia to preach the
 absolute incompatibility of despotic government with sound morality.
 
-[51](#sdfootnote51anc) Literally, “though thou shalt have married, thou
+[^51]: Literally, “though thou shalt have married, thou
 hast not sinned;” the aorist used for the perfect, as constantly by St.
 Paul.
 
-[52](#sdfootnote52anc) “I” is emphatic, *I, if you followed my advice*,
+[^52]: “I” is emphatic, *I, if you followed my advice*,
 also observe the *present, “I am sparing you*[by this advice],” or, in
 other words, *I would spare you.*
 
-[53](#sdfootnote53anc) We adopt Lachmann’s reading, “The object of this
+[^53]: We adopt Lachmann’s reading, “The object of this
 contraction of your earthly life is that you may henceforth set your
 affections on things above.
 
-[54](#sdfootnote54anc) Literally, the verb appears to mean *to use up*,
+[^54]: Literally, the verb appears to mean *to use up*,
 as distinguished from *to use*. Compare 9:18. It thus acquired the sense
 of *to abuse*, in which it is sometimes employed by Demosthenes and by
 the grammarians.
 
-[55](#sdfootnote55anc) The reading of Lachmann makes a considerable
+[^55]: The reading of Lachmann makes a considerable
 difference in the translation, which would thus run: ‘The husband
 strives to please his wife, and is divided [in mind]. Both the unmarried
 wife [i.e. the. widow] and the virgin care for the things of the Lord,’
@@ -1675,21 +1675,21 @@ Stanley); but on the other hand, the use of ‘unmarried wife’ for widow
 is unprecedented; and in this very chapter (verse 8) the word widows is
 opposed to unmarried.
 
-[56](#sdfootnote56anc) It is necessary, for the understanding of this
+[^56]: It is necessary, for the understanding of this
 Epistle, that we should remember that it is an answer to a letter
 received from the Corinthian Church (1 Cor. 7:1) and therefore
 constantly alludes to topics in that letter. it seems probable, from the
 way in which they are introduced, that these words ‘We all have
 knowledge,’ are quoted from that letter.
 
-[57](#sdfootnote57anc) That is, by whom the life of all things, and our
+[^57]: That is, by whom the life of all things, and our
 life also, is originated and sustained. So Col. 1”16: ‘By Him and for
 Him were all created, and in Him all things subsist;’ where it should be
 remarked that the ‘for Him’ is predicated of the Son, as in the present
 passage of the Father. Both passages show how fully St. Paul taught the
 doctrine of the Logos.
 
-[58](#sdfootnote58anc) This liberty of yours. Observe again the
+[^58]: This liberty of yours. Observe again the
 reference to the language of the self-styled Pauline party at Corinth.
 Compare’ all things are lawful for me ‘(6:12). The decrees of the
 Council of Jerusalem’ might seem to have a direct bearing on the
@@ -1700,22 +1700,22 @@ of temporary application; and in their terms they applied originally
 only to the churches of Syria and Cilicia (see Acts 15:23; also Chapter
 7.).
 
-[59](#sdfootnote59anc) The whole of this 8<sup>th</sup> chapter is
+[^59]: The whole of this 8<sup>th</sup> chapter is
 parallel to Romans 14.
 
-[60](#sdfootnote60anc) He means to say that to have this right of
+[^60]: He means to say that to have this right of
 maintenance, a man need not be an Apostle.
 
-[61](#sdfootnote61anc) Numbers 7 and Deut. 18\>
+[^61]: Numbers 7 and Deut. 18\>
 
-[62](#sdfootnote62anc) “Necessity” here is the compulsion exercised by a
+[^62]: “Necessity” here is the compulsion exercised by a
 master over a slave. In calling his service compulsory, St. Paul refers
 to the miraculous character of his conversion.
 
-[63](#sdfootnote63anc) This “stewardship” consisted in dispensing his
+[^63]: This “stewardship” consisted in dispensing his
 Master’s goods to his fellow-slaves.
 
-[64](#sdfootnote64anc) This was the crown made of the leaves of the
+[^64]: This was the crown made of the leaves of the
 pine, groves of which surrounded the Isthmian Stadium: the same tree
 still grows plentifully on the Isthmus of Corinth. It was the prize of
 the great Isthmian games. Throughout the passage St. Paul alludes to
@@ -1723,48 +1723,48 @@ these contests, which were so dear to the pride and patriotism of the
 Corinthians. Compare also 2 Tim. 2:5. And see the beginning of Chapter
 20 on the same subject.
 
-[65](#sdfootnote65anc) St. Paul’s meaning is, that, under the
+[^65]: St. Paul’s meaning is, that, under the
 allegorical representation of the Manna, the Water, and the Rock, are
 shadowed forth spiritual realities: for the Rock is Christ, the only
 source of living water (John 4), and the Manna also is Christ, the true
 bread from Heaven (John 6).
 
-[66](#sdfootnote66anc) See Num. 16:41. The murmuring of the Corinthians
+[^66]: See Num. 16:41. The murmuring of the Corinthians
 against the Apostle is compared to the murmuring of Korah against Moses.
 
-[67](#sdfootnote67anc) The coming of Christ was the “end of the ages,”
+[^67]: The coming of Christ was the “end of the ages,”
 i.e. the commencement of a new period of the world’s existence. So
 nearly the same phrase is used in Heb. 9:26. A similar expression occurs
 five times in St. Matthew, signifying *the coming of Christ to
 judgment*.
 
-[68](#sdfootnote68anc) Literally, *The cup of blessing which we bless,
+[^68]: Literally, *The cup of blessing which we bless,
 is it not a common participation in the blood of Christ/ The bread which
 we break, is it not a common participation in the body of Christ?*
 
-[69](#sdfootnote69anc) This is addressed to those who were in the habit
+[^69]: This is addressed to those who were in the habit
 of accepting invitations to feasts celebrated in the temples of heathen
 gods, “sitting in the idol’s temple” (8:10). These feasts were, in fact,
 acts of idolatrous worship; the wine was poured in libation to the gods
 (“the cup of demons”, verse 21), and the feast was given in honor of the
 gods.
 
-[70](#sdfootnote70anc) See 6:12 and note.
+[^70]: See 6:12 and note.
 
-[71](#sdfootnote71anc) Compare Rom 14:16: “Let not your good be evil
+[^71]: Compare Rom 14:16: “Let not your good be evil
 spoken of.” Here again the hypothesis is that St. Paul is quoting from
 the letter of the Corinthians removes all difficulty.
 
-[72](#sdfootnote72anc) i.e. *that the glory of God may be manifested to
+[^72]: i.e. *that the glory of God may be manifested to
 men.*
 
-[73](#sdfootnote73anc) The phrase denotes not *many*, but *the many, the
+[^73]: The phrase denotes not *many*, but *the many, the
 whole mass of mankind*.
 
-[74](#sdfootnote74anc) This statement was probably made in the letter
+[^74]: This statement was probably made in the letter
 sent by the Corinthian Church to St. Paul.
 
-[75](#sdfootnote75anc) It appears from this passage that the Tallith
+[^75]: It appears from this passage that the Tallith
 which the Jews put over their heads when they enter their synagogues was
 in the apostolic age removed by them when they officiated in the public
 worship. Otherwise, St. Paul could not, while writing to a church
@@ -1775,59 +1775,59 @@ uncovered at their religious rites, but this custom would not have
 affected the Corinthian synagogue, nor have influences the feelings of
 its members.
 
-[76](#sdfootnote76anc) In their relation to Christ, man and woman are
+[^76]: In their relation to Christ, man and woman are
 not to be severed the one from the other. Compare Gal. 3:28. St. Paul
 means to say that the distinction between the sexes is one which only
 belongs to this life.
 
-[77](#sdfootnote77anc) Literally, *that neither I, nor the churches of
+[^77]: Literally, *that neither I, nor the churches of
 God, admit of such a custom.*
 
-[78](#sdfootnote78anc) For the explanation of this, see Chapter 13. It
+[^78]: For the explanation of this, see Chapter 13. It
 should be observed that a common meal, to which each of the guests
 contributed his own share of the provisions, was a form of entertainment
 of frequent occurrence among the Greeks, and known by the name of
 **eranos**.
 
-[79](#sdfootnote79anc) Literally, *Those who have no houses to eat in*,
+[^79]: Literally, *Those who have no houses to eat in*,
 and who therefore ought to have received their portion at the
 love-feasts from their wealthier brethren.
 
-[80](#sdfootnote80anc) *Knowledge* (**gnosis**) is the term used
+[^80]: *Knowledge* (**gnosis**) is the term used
 throughout this epistle for *a deep insight into divine truth*; *Wisdom*
 is a more general term, but here (as being opposed to **gnosis**)
 probably means *practical wisdom**.***
 
-[81](#sdfootnote81anc) Some MSS have “give my body that I may boast,”
+[^81]: Some MSS have “give my body that I may boast,”
 which gives a satisfactory sense.
 
-[82](#sdfootnote82anc) Literally, *does not reckon the evil [against the
+[^82]: Literally, *does not reckon the evil [against the
 evildoer]*. Compare 2 Cor. 5:19, “not reckoning their sins.” The
 Authorized Version here, “thinketh no evil,” is so beautiful that one
 cannot but wish it had been a correct translation. The same disposition,
 however, is implied by the “believes all things” below.
 
-[83](#sdfootnote83anc) This verb sometimes means *to rejoice in the
+[^83]: This verb sometimes means *to rejoice in the
 misfortune*of another, and the characteristic of love here mentioned may
 bean that it does not exult in the punishment of iniquity; or may simply
 mean that it does not delight in the contemplation of wickedness.
 
-[84](#sdfootnote84anc) Literally, *rejoices when the Truth rejoices*.
+[^84]: Literally, *rejoices when the Truth rejoices*.
 
-[85](#sdfootnote85anc) Literally, *in an enigma*. Thus we see God in
+[^85]: Literally, *in an enigma*. Thus we see God in
 nature, while even revelation only shows us His reflected likeness.
 There is, no doubt, an allusion to Numbers 12:8.
 
-[86](#sdfootnote86anc) Not *through a glass*, but *by means of a
+[^86]: Not *through a glass*, but *by means of a
 mirror.*
 
-[87](#sdfootnote87anc) This is evidently the meaning of the verse.
+[^87]: This is evidently the meaning of the verse.
 Compare verse 2, “He who speaks in a tongue speaks not to himself but to
 God,” and verse 28, “Let him speak in private to himself and God alone.”
 
-[88](#sdfootnote88anc) That is, a condemnatory sign.
+[^88]: That is, a condemnatory sign.
 
-[89](#sdfootnote89anc) We must not be led, from any apparent analogy, to
+[^89]: We must not be led, from any apparent analogy, to
 confound the exercise of the gift of Tongues in the primitive Church
 with modern exhibitions of fanaticism, which bear a superficial
 resemblance to it. We must remember that such modern pretensions to this
@@ -1838,35 +1838,35 @@ ecstatic joy are followed (as they were in some of Wesley’s converts) by
 a life of devoted holiness, we should hesitate to say that they might
 not hear some analogy to those of the Corinthian Christians.
 
-[90](#sdfootnote90anc) i.e. let the rest of the prophets judge whether
+[^90]: i.e. let the rest of the prophets judge whether
 those who stand up to exercise the gift have really received it. This is
 parallel to the direction in I Thess. 5:21.
 
-[91](#sdfootnote91anc) “Spiritual,” the epithet on which the part of
+[^91]: “Spiritual,” the epithet on which the part of
 Apollos (the ultra-Pauline party) especially prided themselves.
 
-[92](#sdfootnote92anc) So our Lord quotes Isa. 53:12, in Luke 22:37.
+[^92]: So our Lord quotes Isa. 53:12, in Luke 22:37.
 
-[93](#sdfootnote93anc) Can we imagine it possible that St. Paul should
+[^93]: Can we imagine it possible that St. Paul should
 have said this without knowing it to be true? or without himself having
 seen some of these , five hundred brethren,’ of whom the ‘greater part’
 were alive when he wrote these words? The skeptical (but candid and
 honest) De Wette acknowledges this testimony as conclusive.
 
-[94](#sdfootnote94anc) This argument is founded on the union between
+[^94]: This argument is founded on the union between
 Christ and His members; they so share His life, that because He lives
 forever, they must live also, if we deny their immortality, we deny His.
 
-[95](#sdfootnote95anc) On the second day of the feast of Passover a
+[^95]: On the second day of the feast of Passover a
 sheaf of ripe corn was offered upon the altar as a consecration of the
 whole harvest. Till this was done it was considered unlawful to begin
 reaping. See Lev. 23:10, 11. The metaphor there is, “as the single sheaf
 of first fruits represents and consecrates all the harvest, so Christ’s
 resurrection represents and involves that of all who sleep in Him.”
 
-[96](#sdfootnote96anc) Compare Col. 2:15 and Eph. 1:21.
+[^96]: Compare Col. 2:15 and Eph. 1:21.
 
-[97](#sdfootnote97anc) The only meaning which the Greek seems to admit
+[^97]: The only meaning which the Greek seems to admit
 here is a reference to the practice of submitting to baptism instead of
 some person who had died unbaptized. Yet this explanation is liable to
 very great difficulties. (1) How strange that St. Paul should refer to
@@ -1888,13 +1888,13 @@ admit of no satisfactory explanation. It alludes to some practice of the
 Corinthians which has not been recorded elsewhere, and of which every
 other trace has perished.
 
-[98](#sdfootnote98anc) St. Paul here quotes a line from *The Thais*, a
+[^98]: St. Paul here quotes a line from *The Thais*, a
 comedy of Menander’s. The line had probably passed into a proverbial
 expression. We from this passage that the free-thinking party at Corinth
 joined immoral practices with their licentious doctrine; and that they
 were corrupted by the evil example of their heathen neighbors.
 
-[99](#sdfootnote99anc) The form of this objection is conclusive against
+[^99]: The form of this objection is conclusive against
 the hypothesis of those who suppose that these Corinthians only
 disbelieved the Resurrection of the body; and that they believed the
 Resurrection of the dead. St. Paul asserts the Resurrection of the dead;
@@ -1903,7 +1903,7 @@ body has perished? ’ This objection he proceeds to answer, by showing
 that individual existence may continue, without the continuance of the
 material body.
 
-[100](#sdfootnote100anc) The importance of the subject justifies our
+[^100]: The importance of the subject justifies our
 quoting at some length the admirable remarks of Dr. Burton (formerly
 Regius Professor of Divinity at Oxford) on this passage, in the hope
 that his high reputation for learning and for unblemished orthodoxy may
@@ -1947,7 +1947,7 @@ identical body*. St. Paul appears effectually to preclude this notion,
 when he says, *Flesh and blood cannot inherit the kingdom of God
 (15:30).”* Burton’s *Lectures*, pp. 429-431.
 
-[101](#sdfootnote101anc) Why is the law called “the strength of sin”?
+[^101]: Why is the law called “the strength of sin”?
 Because the Law of Duty, being acknowledged, gives to sin its power to
 wound the conscience; in fact, a moral law of precepts and penalties
 announces the fatal consequences of sin, without giving us any power on

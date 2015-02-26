@@ -25,7 +25,7 @@ Paul for his knowledge of the Scriptures (in the 1st century mostly the
 Septuagint, see Development of the New Testament canon\#Clement of
 Rome), and is said to have been acquainted with the Scriptures since
 childhood. Little is known about Timothy’s father; only that he was
-Greek. [<sup>1</sup>](#sdfootnote1sym)
+Greek. [^1]
 
 **From W. J. Conybeare and J. S. Howson,*****The Life and Epistles of
 St. Paul.***
@@ -246,13 +246,13 @@ by were St. Paul’s own converts, and the very \`brethren” who gave
 testimony to Timothy’s high character at Lystra and Iconium; that the
 \`prophecy” which designated him to his office was the same spiritual
 gift which had attested the commission of Barnabas and Saul at Antioch,
-[<sup>2</sup>](#sdfootnote2sym)and that the College of Presbyters (1
+[^2]and that the College of Presbyters (1
 Tim. 4:14), who, in conjunction with the Apostle, ordained the new
 minister of the Gospel, consisted of those who had been” ordained in,
 every church” at the close of that first journey.
 
-[1](#sdfootnote1anc)<sup>****</sup> Wikipedia article: *Saint Timothy*.
+[^1]:<sup>****</sup> Wikipedia article: *Saint Timothy*.
 
-[2](#sdfootnote2anc)<sup>****</sup> Compare 1 Tim. 1:18 with Acts 13:51
+[^2]:<sup>****</sup> Compare 1 Tim. 1:18 with Acts 13:51
 to 14:21.
 

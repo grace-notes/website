@@ -6,7 +6,7 @@ tableOfContents: true
 template: topic.jade
 ---
 
-**Introduction <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>**
+**Introduction [^1]**
 
 There are two biblical concepts which contribute to a Christian’s having a sure grasp of salvation.
 
@@ -206,6 +206,6 @@ children whom God has given Me.”
 As you placed your confidence in Christ for salvation, so place your
 confidence in God the Father for your eternal preservation in Christ.
 
-[1](#sdfootnote1anc) This article is compiled from notes taken from the
+[^1]: This article is compiled from notes taken from the
 teaching ministries of Chester McCalley, R. B. Thieme, Jr., and others.
 

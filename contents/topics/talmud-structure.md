@@ -381,7 +381,7 @@ Tract **Yadaim** – ritual uncleanness of the hands
 Tract **Uktzkin** – categorization of things that are susceptible to
 ritual uncleanness.
 
-Tractate Berakhot <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+Tractate Berakhot [^1]
 ================================================================
 
 As noted in the following outline, tractate Berakhot expounds the
@@ -3432,7 +3432,7 @@ Principal resources for this study are:
 4.  Neusner, Jacob (translation and commentary), “The Babylonian
     Talmud”.
 
-[1](#sdfootnote1anc) The following descriptions of the Tractates in the
+[^1]: The following descriptions of the Tractates in the
 Babylonian Talmud are taken from the translation and commentary on the
 Babylonian Talmud, by Jacob Nuesner.
 

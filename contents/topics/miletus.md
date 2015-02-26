@@ -78,5 +78,5 @@ to have been erected at Miletus, probably because of the close imperial
 surveillance kept on this strategic seaport. During the 5th cent,
 however, it became an independent archbishopric.
 
-[1](#sdfootnote1anc) International Standard Bible Encyclopedia
+[^1]: International Standard Bible Encyclopedia
 

@@ -49,7 +49,7 @@ Peter and the other apostles (Acts 5:34-40), and who had previously
 educated the future apostle St. Paul (Acts 22:3). His learning was so
 eminent, and his character so revered, that he is one of the seven who
 alone among Jewish doctors have been honored with the title of “Rabban.”
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> As Aquinas, among the
+[^1] As Aquinas, among the
 schoolmen, was called *Doctor Angelicus*, and Bonaventura *Doctor
 Seraphicus*, so Gamaliel was called “The Beauty of the Law;” and it is a
 saying of the Talmud that “since Rabban Gamaliel died, the glory of the
@@ -57,12 +57,12 @@ Law has ceased.”
 
 He was a Pharisee, but anecdotes are told of him which show that he was
 not trammeled by the narrow bigotry of the sect.
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> He had no antipathy to
+[^2] He had no antipathy to
 the Greek learning. He rose above the prejudices of his party. Our
 impulse is to class him with the best of the Pharisees, like Nicodemus
 and Joseph of Arimathea. Candor and wisdom seem to have been features of
 his character; and this agrees with what we read of him in the Acts of
-the Apostles, <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> that he was
+the Apostles, [^3] that he was
 “had in reputation of all the people,” and with his honest and
 intelligent argument when Peter was brought before the council. It has
 been imagined by some that he became a Christian; and why he did not
@@ -71,7 +71,7 @@ heart. But he lived and died a Jew; and a well known prayer against
 Christian “heretics” was composed or sanctioned by him.
 
 He died eighteen years before the destruction of Jerusalem,
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> about the time of St.
+[^4] about the time of St.
 Paul’s shipwreck at Malta, and was buried with great honor. Another of
 his pupils, Onkelos, the author of the celebrated Targum, raised to him
 such a funeral pile of rich materials as had never before been known
@@ -87,20 +87,20 @@ inquire into the manner of communicating instruction, and learn
 something concerning the place where instruction was communicated, in
 the schools of Jerusalem.
 
-[1](#sdfootnote1anc) This title is the same as *Rabboni*, addressed to
+[^1]: This title is the same as *Rabboni*, addressed to
 our Lord by Mary Magdalene.
 
-[2](#sdfootnote2anc) He bathed once at Ptolemais in an apartment where a
+[^2]: He bathed once at Ptolemais in an apartment where a
 statue was erected to a heathen goddess; and being asked how he could
 reconcile this with the Jewish law, he replied that the bath was there
 before the statue, that the bath was not made for the goddess, but the
 statue for the bath.
 
-[3](#sdfootnote3anc) Acts 5:34. Yet Nicodemus and Joseph declared
+[^3]: Acts 5:34. Yet Nicodemus and Joseph declared
 themselves the friends of Christ, which Gamaliel never did. And we
 should hardly expect to find a violent persecutor among the pupils of a
 really candid and unprejudiced man.
 
-[4](#sdfootnote4anc) His son Simeon, who succeeded him as president of
+[^4]: His son Simeon, who succeeded him as president of
 the Council, perished in the ruins of the city.
 

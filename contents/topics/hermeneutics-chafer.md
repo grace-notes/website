@@ -28,7 +28,7 @@ interpretation was too often forgotten.
 Terry does indeed draw a distinction between Hermeneutics as a *science*
 engaged with the study of the governing laws, on the one hand, and
 Hermeneutics as an *art* concerned with the concrete application of the
-laws, on the other hand;<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+laws, on the other hand;[^1]
 but the latter seems to me to be but another description of exegetical
 praxis. In the closing words of his first chapter Terry senses this when
 he says: “For if ever the divinely appointed ministry of reconciliation
@@ -38,7 +38,7 @@ faith and of the knowledge of the Son of God (Eph 4:12, 13), it must be
 done by a correct interpretation and efficient use of the word of God.
 The interpretation and application of that word must rest upon a sound
 and self-evidencing science of
-hermeneutics.”<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+hermeneutics.”[^2]
 
 Perhaps no widely quoted hermeneut has more consistently emphasized the
 essential fact that Biblical Hermeneutics is, first of all, a study of
@@ -101,7 +101,7 @@ of *Hermeneutics*.”
 Biblical interpreter enters upon his work. He reads, he analyzes, he
 develops, he comments on the Holy Word, line after line. He no longer
 constructs a science; he practices an art-*Exegetics*: he accomplishes a
-task - *Exegesis*.”<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
+task - *Exegesis*.”[^3]
 
 Although the word *Exposition* is often used as a synonym for
 *Exegesis*, in popular usage it is more often used to represent the
@@ -195,7 +195,7 @@ II. Historical Sketch
 
 Brief historical outlines of the development of Biblical Hermeneutics
 are found in several of the standard texts on this
-science.<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> These writers
+science.[^4] These writers
 agree that Hermeneutics as a formulated science had no existence before
 the Reformation. Comparatively speaking, it is a newcomer in the family
 of subjects constituting Theological Encyclopedia and Methodology.
@@ -252,7 +252,7 @@ Platonic system founded by Ammonius Saccus, his preceptor. Mosheim says:
 matter, emanated eternally from God, the source of all things. This
 first principle of the new Platonic school, derived from Egyptian
 wisdom, was the basis or foundation of Origen’s
-philosophy.”<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> Finding much
+philosophy.”[^5] Finding much
 in the literal statements of Scripture that was repugnant to his adopted
 philosophy, he introduced three principles of interpretation by which he
 attempted to harmonize the Bible to his preconceived ideas, always, it
@@ -339,7 +339,7 @@ sacred history which states actions or events that are either false, or
 absurd, or unbecoming of God and holy men, or useless or puerile, must
 be divested of all literal meaning, and be applied to moral and mystical
 things in both the spiritual
-worlds.”<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>
+worlds.”[^6]
 
 These are high-sounding words which have misled the unthinking all down
 the centuries since they were penned. The fallacy underlying these
@@ -388,7 +388,7 @@ Church there soon emerged a difference of opinion, which has subsisted
 with growing divergence ever since. The one principle of the singular
 and supreme authority of Scripture found its natural expression in the
 views of Calvin and his followers in the Reformed Churches, with respect
-to inspiration.”<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup> The
+to inspiration.”[^7] The
 return to the authority of the Scriptures opened the way for the
 recognition that the Bible is a self-interpreting book. It opened the
 way for the development of the principles which resulted from the
@@ -405,7 +405,7 @@ interpretation of the Scriptures, we are guilty of the fallacies of
 *petitio principii* and of reasoning in a circle. This would be the
 death of all examination, and of all Hermeneutics, and of all exegesis.
 Undisguised Popery could not be
-worse.”<sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup>
+worse.”[^8]
 
 Although Augustine first mentions this principle there could be no
 progress in its use until the church had thrown off the shackles of
@@ -415,7 +415,7 @@ and superstition of the Middle Ages, the Holy Scriptures were appealed
 to as the written revelation of God, containing all things necessary to
 salvation, and the doctrine of the justification by faith was magnified
 against priestly absolution and the saving meritoriousness of
-works.”<sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup>
+works.”[^9]
 
 This freedom to study the Scriptures inductively, resulting in the
 formularies which became crystallized as controversy arose, has not
@@ -449,7 +449,7 @@ perceive it, are *always bound* to fail in carrying the assault. This
 (from a philosophical standpoint) explains why the modernist so often
 takes refuge in affixing stupid and unmeaning labels on those who
 challenge him to show that the claims of Scriptures are not worthy of
-the highest credence.”<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup>
+the highest credence.”[^10]
 
 This also precisely explains why the creedal limitationist attaches
 stupid labels on those who do not follow the traditionalism which had
@@ -467,7 +467,7 @@ of comparing its different portions. Suffice it to remark that this new
 tendency, to compare Scripture with Scripture, did more than anything
 else to prepare a conscientious and logical exegesis, and began the work
 of placing Hermeneutics upon its true
-foundation.”<sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup> This
+foundation.”[^11] This
 comparative study of the Scriptures is included as a fundamental
 principle of Biblical interpretation by all standard works on
 Hermeneutics. An elaboration of it will be made in a later section,
@@ -546,7 +546,7 @@ methods and other principles were necessary. The historical school would
 have been useful if it had been inspired by a spirit of sound criticism
 and of pious prudence, and, in the exercise of this spirit, been
 contented with the modest character of an auxiliary, instead of aspiring
-to supremacy.”<sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup>
+to supremacy.”[^12]
 
 **(4)*****The Premillennial System***. Although there are writers who,
 either being unfamiliar with the facts of Church history or willing to
@@ -650,7 +650,7 @@ Students of the history of the growth of any language have no difficulty
 in accepting this axiom. Through usage words may in time change
 radically in meaning or become obsolete. On the subject of word usage in
 the New Testament Cellérier
-says,<sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> “The more perfect
+says,[^13] “The more perfect
 revelation of God’s will, as given in the New Testament, necessitated a
 more perfect usage of language. The thought and affections of men were
 to be drawn into new channels, hence it was necessary for language to
@@ -726,7 +726,7 @@ you free, you shall be free indeed’ (v. 36). The latter does not oppose
 the former. The truth and the Son are not mutually exclusive.”
 
 To those selections from Lockhart’s
-chapter<sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup> on the axioms of
+chapter[^14] on the axioms of
 Hermeneutics the following from Cellèrier is also added:
 
 **Axiom 8.*****One cannot interpret without understanding that which he
@@ -752,7 +752,7 @@ defensible, even on the grounds of common sense and logic.
 Part 5
 ======
 
-IV The Relation of Logic to Interpretation<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup>
+IV The Relation of Logic to Interpretation[^15]
 ------------------------------------------------------------------------------------------
 
 Accepting the prerequisite fundamental facts enumerated in the preceding
@@ -830,7 +830,7 @@ it necessary, the whole discussion being confined to certain fundamental
 principles of interpretation. The discussion of this section, therefore,
 will be confined to an outline of the fundamental principles, postulates
 and forms of logical process which are applicable to the study of the
-Scriptures.<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup>
+Scriptures.[^16]
 
 Logicians reduce the laws of logic to four fundamental principles:
 
@@ -1412,7 +1412,7 @@ accepting eternal life before they pass through natural death, they are
 judged already as to life and death, and are to be judged at the end
 only according to their unbelieving works, which brings us to the second
 class-the judgment of
-works.<sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup>
+works.[^17]
 
 Believers are to appear before the “judgment seat” of Christ (Cf. 1 Cor
 3:11–15 and 2 Cor 5:10. Note that the “any man” of the former and the
@@ -1516,7 +1516,7 @@ death of Lazarus, Grant says: “The Lord tests her at once with an
 assurance of a joy too great for her: ‘Thy brother shall rise again.’
 She sinks at once into mere orthodoxy. ‘I know that he shall rise again
 in the resurrection at the last
-day.’”<sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup> She voiced only
+day.’”[^18] She voiced only
 that which had been hitherto revealed to God’s people, but the reply of
 the Lord contains the fuller revelation on which the later disclosures
 concerning the separate resurrection of believers is based, namely, “I
@@ -1686,7 +1686,7 @@ Forgetfulness of this is the source of many and great errors in both
 Science and Philosophy.” This caution is of peculiar force when
 considering theological conclusions.
 
-Dr. G. Frederick Wright<sup>**[<sup>19</sup>](#sdfootnote19sym)**</sup>
+Dr. G. Frederick Wright[^19]
 illustrates this forcefully: “A Cretan once remarked that all Cretans
 were liars and knaves. A bystander interposed: ‘But you are a Cretan!’
 Whereupon a neighbor added, ‘Then, of course, he is a liar, and his
@@ -2072,10 +2072,10 @@ reveal Himself’” (quoted, Fairbairn, *Christ in Mod. Theo*., p. 496).
 Dr. Arthur T. Pierson defined revelation thus: “Revelation is the divine
 impartation and communication of truth to the mind of man, whatever be
 its mode or channel,” citing Rom 1:17; 16:25; Eph 3:3–5; Amos
-3:7.<sup>**[<sup>20</sup>](#sdfootnote20sym)**</sup> Angus-Green give
+3:7.[^20] Angus-Green give
 the following: “The word revelation (lit. *drawing back the veil*) is
 the Latin equivalent of the Greek apokalupsis (Apocalypse), an
-uncovering.”<sup>**[<sup>21</sup>](#sdfootnote21sym)**</sup>
+uncovering.”[^21]
 
 There are, among others, three facts the believing acceptance of which
 is necessary to an understanding, and therefore an interpretation, of
@@ -2095,7 +2095,7 @@ result, as the condition, of the highest knowledge. God sent Isaiah to
 say to Ahaz, ‘If ye will not believe, surely ye shall not be
 established’ (Isa 7:9). The deep meaning is that if they (Judah) *would
 not believe they would not be established in
-knowledge*.”<sup>**[<sup>22</sup>](#sdfootnote22sym)**</sup>
+knowledge*.”[^22]
 
 **(2)*****Progressiveness in the Divine Revelation***. Revelation had a
 beginning and ending in time. Between these termini, separated by many
@@ -2177,7 +2177,7 @@ proper sense, there be divine inspiration at all. As Dean Burgon has
 expressed it, what music would be without notes, a mathematical sum
 without figures, so would an inspired book be without words controlled
 by the inspiring
-Spirit.”<sup>**[<sup>23</sup>](#sdfootnote23sym)**</sup>
+Spirit.”[^23]
 
 If God by inspiration has transmitted His revelation accurately through
 the medium of language-and this accurate transmission by means of words
@@ -2216,7 +2216,7 @@ history-is a human as well as divine Book. It is *human* in that it is
 *to* and *for* man, and not to and for supernatural intelligences or the
 conceived populations of other planets; it is *divine* in that it is
 *of* God and *from*
-God.”<sup>**[<sup>24</sup>](#sdfootnote24sym)**</sup>
+God.”[^24]
 
 VI Four General Rules of Interpretation
 ---------------------------------------
@@ -2244,7 +2244,7 @@ The true meaning of any passage of Scripture, then, is not every sense
 which the words will bear, nor is it every sense which is true in
 itself, but that which is intended by the inspired writers, or even by
 the Holy Spirit, though imperfectly understood by the writers
-themselves.”<sup>**[<sup>25</sup>](#sdfootnote25sym)**</sup>
+themselves.”[^25]
 
 Out of the multitude of examples cited in the various texts, one from
 Lockhart on Ephesians 2:8 may be cited. “For by grace are ye saved
@@ -2262,7 +2262,7 @@ neuter.
 This exactly suits the case; and the meaning is, Ye are saved by grace
 through faith; but the salvation is not of yourselves, it is the gift of
 God. Here the interpretation that accords with the grammar is reasonable
-and satisfactory.”<sup>**[<sup>26</sup>](#sdfootnote26sym)**</sup> I
+and satisfactory.”[^26] I
 have pointed out before, however, that the observance of all grammatical
 requirements often leaves one short of the meaning of the doctrinal
 contents of the text. Cellérier has this in mind when he says: “Suppose
@@ -2270,14 +2270,14 @@ that he [an interpreter] undertakes to explain the words of Jesus to the
 paralytic: ‘My son, thy sins be forgiven thee’ (Mark 2:5), Grammatical
 Hermeneutics may readily do its work, but it will not fathom the depth
 of meaning which these words
-contain.”<sup>**[<sup>27</sup>](#sdfootnote27sym)**</sup>
+contain.”[^27]
 
 **The second rule of interpretation is: “Interpret according to the
 context.”**
 
 The meaning of a word will often be modified by the connection in which
 it is used. This rule is often of great theological
-importance.”<sup>**[<sup>28</sup>](#sdfootnote28sym)**</sup> (Examples:
+importance.”[^28] (Examples:
 Various meanings of *Faith*, *Flesh*, *Salvation*, *Grace*, etc.). “The
 study of the context is the most legitimate, efficacious, and
 trustworthy resource at the command of the interpreter. Nothing can be
@@ -2285,7 +2285,7 @@ more convenient than to explain an author by himself, and to have
 recourse to the entire train of thought. It is much less easy for
 sophism to abuse this mode of interpretation than that of dealing with
 etymology, philology, and exceptions of
-syntax.”<sup>**[<sup>29</sup>](#sdfootnote29sym)**</sup> Although these
+syntax.”[^29] Although these
 latter are often valuable aids, they may also be pushed to harmful
 effects. (Example: The etymological study of some words indicates that
 their significance has entirely departed from the root meaning.
@@ -2307,7 +2307,7 @@ expressions occur.”**
 
 Sometimes the context does not give all the light needed to determine
 the meaning of a word or a phrase. In such cases the third rule is
-necessary.<sup>**[<sup>30</sup>](#sdfootnote30sym)**</sup> The purpose
+necessary.[^30] The purpose
 in writing a book is often clearly mentioned, especially in the N.T.
 Epistles. This avowed purpose will often throw light on passages
 otherwise obscure. Terry gives the following example: “There can be no
@@ -2321,7 +2321,7 @@ expresses, in a happy personal way, the scope of the entire epistle.”
 After an analysis of the entire epistle, he says: “It will be found that
 a proper attention to this general plan and scope of the Epistle will
 greatly help to the understanding of its smaller
-sections.”<sup>**[<sup>31</sup>](#sdfootnote31sym)**</sup>
+sections.”[^31]
 
 **The fourth and most comprehensive rule of Biblical interpretation is:
 Compare Scripture with Scripture.**
@@ -2329,14 +2329,14 @@ Compare Scripture with Scripture.**
 A Scripture truth is really the consistent explanation of all that
 Scripture teaches in reference to the question examined; and a Scripture
 duty is the consistent explanation of all the precepts of Scripture on
-the duty.”<sup>**[<sup>32</sup>](#sdfootnote32sym)**</sup> As has
+the duty.”[^32] As has
 already been noted, this procedure was not employed until the
 Reformation; and sound hermeneutics was not developed until this method
 was adopted. It results in “the analogy of faith which regulates the
 interpretation of each passage in conformity with the whole tenor of
 revealed truth.” Under this general head Cellérier also says: “To admit
 a positive revelation and to reject things positively revealed is a
-great inconsistency.”<sup>**[<sup>33</sup>](#sdfootnote33sym)**</sup>
+great inconsistency.”[^33]
 This inconsistency is not uncommon. Some interpreters who claim to
 accept the Bible as the revealed Word of God, reject specific
 revelations in it because these do not fit into the framework of their
@@ -2353,7 +2353,7 @@ The Scriptures are no exception to this universal fact. In this
 connection Cellérier says: “It should be remembered, however, that this
 is no concession to those who deny the inspiration of the Word, since a
 figure or parable may be just as much inspired as a rigid
-syllogism.”<sup>**[<sup>34</sup>](#sdfootnote34sym)**</sup> Our Lord’s
+syllogism.”[^34] Our Lord’s
 speech was replete with all kinds of figures, including under tropical
 words and phrases, *metaphorical* (Ex. “I am the true vine.”),
 *synecdochical* (Ex. “Ye shall drink indeed of my cup.”), *metonymical*
@@ -2376,7 +2376,7 @@ characteristics of the church that would not better apply to the literal
 city of Jerusalem. This Psalm is a fine hymn of praise to the sacred
 capital of the Jewish nation; and a figurative view robs the piece of
 its beautiful
-patriotism.”<sup>**[<sup>35</sup>](#sdfootnote35sym)**</sup>
+patriotism.”[^35]
 
 These reasons for not taking the word as figurative are valid, but they
 are buttressed with other teachings of the Scriptures which make it very
@@ -2385,14 +2385,14 @@ Scofield says: “Zion and Jerusalem mean Zion and Jerusalem, not the
 church. The church is not in prophecy at all. His (Christ’s) purpose to
 form a church during His rejection by Israel is never disclosed until
 announced by Jesus Himself” (Matt 16:18; Eph
-3:3–10).<sup>**[<sup>36</sup>](#sdfootnote36sym)**</sup>
+3:3–10).[^36]
 
 ***Interpretation of Allegories***: “The great rule of interpretation of
 allegories is to ascertain the scope of the allegory either by reference
 to the context or to parallel passages; and to seize, the main truth
 which it is intended to set forth, interpreting, all accessories in
 harmony with the central
-truth.”<sup>**[<sup>37</sup>](#sdfootnote37sym)**</sup> In the study of
+truth.”[^37] In the study of
 allegories of various kinds, namely, parables, types and symbols, the
 interpreter must be careful not to treat plain statements of Scripture
 as is demanded of language couched in figurative expressions.
@@ -2420,7 +2420,7 @@ literal sense of the words. But even then there are not two senses, the
 literal and metaphorical. The metaphorical is alone the real sense; the
 literal does not exist as a sense; it is only the vehicle of the former;
 it contains in itself no result, no truth. There is therefore only one
-true sense.”<sup>**[<sup>38</sup>](#sdfootnote38sym)**</sup>
+true sense.”[^38]
 
 ***Parable***-“A short fictitious narrative from which a moral or
 spiritual truth is drawn; as, the *parables* of Christ” (Webster).
@@ -2467,13 +2467,13 @@ or fulfillment of the type, is found, usually, in the New Testament.
 
 ***Interpretation***: A type must never be used to teach a doctrine, but
 only to illustrate a doctrine elsewhere explicitly taught (Ex. John
-3:14-1 Cor 5:7).”<sup>**[<sup>39</sup>](#sdfootnote39sym)**</sup>
+3:14-1 Cor 5:7).”[^39]
 
 *Symbols*-“Other outward representations of spiritual truths are
 *Symbols*. Generally speaking, the Type is prefigurative, the Symbol
 illustrative of what already exists (Ex. of Symbols: Bread and wine
 served at the Lord’s Supper-His body and
-blood).<sup>**[<sup>40</sup>](#sdfootnote40sym)**</sup>
+blood).[^40]
 
 Kinds of Symbols
 
@@ -2539,7 +2539,7 @@ teachings respecting Miracles, vicarious and expiatory sacrifice, the
 resurrection, eternal judgment, and the existence of angels and demons,
 are to be regarded as an accommodation to the superstitious notions,
 prejudices, and ignorance of the time. The supernatural was thus set
-aside.”<sup>**[<sup>41</sup>](#sdfootnote41sym)**</sup>
+aside.”[^41]
 
 After reviewing the effects of such methods as applied to the N.T.,
 Cellérier says: “If by accommodation, in this connection, is meant that
@@ -2550,7 +2550,7 @@ itself has not impeached the rectitude and purity of the Savior. His
 life has always been reckoned the embodiment of absolute perfection. No
 one, after a careful perusal of the N.T. can point to any compromise
 between truth and
-error.”<sup>**[<sup>42</sup>](#sdfootnote42sym)**</sup>
+error.”[^42]
 
 The destructive critics and all modernists of our own days who reject
 the authority of the Scriptures join in the chorus that the Lord Jesus
@@ -2577,7 +2577,7 @@ utter them in forms that are suited to our capacity to receive them.
 
 There are two prominent classes of examples of this method of
 accommodation, pointed out by
-Lockhart:<sup>**[<sup>43</sup>](#sdfootnote43sym)**</sup>
+Lockhart:[^43]
 
 **(1)*****Anthropomorphism***. Example: “I will put thee in a cleft of a
 rock, and will cover thee with my hand until I have passed by: and I
@@ -2613,7 +2613,7 @@ testimony of the written word alone presents faithfully the future
 purposes of God and of Satan. To give room to fancy or to human wisdom
 and reasoning, is fatal in prophetical study. True prophetic teaching
 stands the test of time simply because it is
-Scriptural.”<sup>**[<sup>44</sup>](#sdfootnote44sym)**</sup>
+Scriptural.”[^44]
 
 Prophecy appears in the Bible with a two-fold purpose, the office of the
 prophet being designed to fulfill this two-fold purpose. The prophet was
@@ -2712,14 +2712,14 @@ on the path until the day dawn. Faith looks back to a finished work.
 Hope is tied to the sure word of prophecy, and dispels the gloom in the
 light of God’s own predictions.
 
-[1](#sdfootnote1anc) Biblical Hermeneutics. p. 20.
+[^1]: Biblical Hermeneutics. p. 20.
 
-[2](#sdfootnote2anc) *Ibid*, p.22.
+[^2]: *Ibid*, p.22.
 
-[3](#sdfootnote3anc) Cellérier. *Manuel d’Hermeneutique Biblique*.
+[^3]: Cellérier. *Manuel d’Hermeneutique Biblique*.
 Elliott and Harsha tr. p. 1f.
 
-[4](#sdfootnote4anc) Works to which I refer more frequently than other
+[^4]: Works to which I refer more frequently than other
 texts, namely, *Biblical Hermeneutics* by Terry, and *Manuel d’
 Hermeneutique* by Cellérier, trace the outline of this history. I am
 indebted to these comments, besides material on the subject in general
@@ -2727,102 +2727,102 @@ ecclesiastical histories, for the factual matter in this section of the
 Syllabus. Responsibility for the interpretative comments on these
 historical facts is mine.
 
-[5](#sdfootnote5anc) Historical Commentaries on the State of
+[^5]: Historical Commentaries on the State of
 Christianity. Tr. James Murdock. Vol. II., p. 150.
 
-[6](#sdfootnote6anc) Mosheim. *Historical Commentaries on the State of
+[^6]: Mosheim. *Historical Commentaries on the State of
 Christianity*. Tr. James Murdock, pp. 181,182, Vol. II.
 
-[7](#sdfootnote7anc) Quoted by Cellérier from *Bannerman on
+[^7]: Quoted by Cellérier from *Bannerman on
 Inspiration*, p. 135.
 
-[8](#sdfootnote8anc) Cellérier. *Man. d’ Her*. p. 17.
+[^8]: Cellérier. *Man. d’ Her*. p. 17.
 
-[9](#sdfootnote9anc) Terry. *Bib. Her*. p. 47.
+[^9]: Terry. *Bib. Her*. p. 47.
 
-[10](#sdfootnote10anc) Amos. The Vital Challenge of Biblical Certitude.
+[^10]: Amos. The Vital Challenge of Biblical Certitude.
 p. XIX.
 
-[11](#sdfootnote11anc) Cellérier. *Man. d’ Her*. p. 17.
+[^11]: Cellérier. *Man. d’ Her*. p. 17.
 
-[12](#sdfootnote12anc) M. Cellerier, *Man. d’ Her*. tr. p. 26.
+[^12]: M. Cellerier, *Man. d’ Her*. tr. p. 26.
 
-[13](#sdfootnote13anc) *Man. d’Her*. tr. p. 85.
+[^13]: *Man. d’Her*. tr. p. 85.
 
-[14](#sdfootnote14anc) Clinton Lockhart, Ph.D., LL.D., *Principles of
+[^14]: Clinton Lockhart, Ph.D., LL.D., *Principles of
 Interpretation*. p. 18ff.
 
-[15](#sdfootnote15anc) The writer is indebted to the following authors
+[^15]: The writer is indebted to the following authors
 of works on Logic for definitional matter quoted in this section:
 Gregory, Schuyler, Hamilton, Ueberweg and Mill.
 
-[16](#sdfootnote16anc) A thorough course in Logic is earnestly urged as
+[^16]: A thorough course in Logic is earnestly urged as
 a prerequisite to the study of Hermeneutics. At the Dallas Theological
 Seminary it is a required prerequisite.
 
-[17](#sdfootnote17anc) Only two of the judgments of this class are cited
+[^17]: Only two of the judgments of this class are cited
 here. An inductive study of all the judgments should be made.
 
-[18](#sdfootnote18anc) *Numerical Bible*. Vol. The Gospels, p. 555.
+[^18]: *Numerical Bible*. Vol. The Gospels, p. 555.
 
-[19](#sdfootnote19anc) *Logic of Christian Evidences*, Chapter II.
+[^19]: *Logic of Christian Evidences*, Chapter II.
 
-[20](#sdfootnote20anc) *Knowing The Scriptures*, p. 14.
+[^20]: *Knowing The Scriptures*, p. 14.
 
-[21](#sdfootnote21anc) *Cyclopedic Handbook of the Bible*, p. 125f.
+[^21]: *Cyclopedic Handbook of the Bible*, p. 125f.
 
-[22](#sdfootnote22anc) *The Making of a Sermon*, Intro., p. 9.
+[^22]: *The Making of a Sermon*, Intro., p. 9.
 
-[23](#sdfootnote23anc) Pierson, *Knowing the Scriptures*, p. 16f.
+[^23]: Pierson, *Knowing the Scriptures*, p. 16f.
 
-[24](#sdfootnote24anc) Sinks, *The Reign of the Manuscript*, p. 40f.  
+[^24]: Sinks, *The Reign of the Manuscript*, p. 40f.  
 Also lecture quotation from G. Frederick Wright, *Divine Authority of
 the Bible*, p. 103.
 
-[25](#sdfootnote25anc) Angus-Green, *Cyclopedic Handbook of the Bible*,
+[^25]: Angus-Green, *Cyclopedic Handbook of the Bible*,
 p. 180.
 
-[26](#sdfootnote26anc) *Principles of Interpretation*, p. 83f.
+[^26]: *Principles of Interpretation*, p. 83f.
 
-[27](#sdfootnote27anc) *Man. d’Hermen.*, p. 53.
+[^27]: *Man. d’Hermen.*, p. 53.
 
-[28](#sdfootnote28anc) Angus-Green, *Cyclopedic Handbook of the Bible*,
+[^28]: Angus-Green, *Cyclopedic Handbook of the Bible*,
 p. 186.
 
-[29](#sdfootnote29anc) Cellérier, *Man. d’Hermen*., p. 191.
+[^29]: Cellérier, *Man. d’Hermen*., p. 191.
 
-[30](#sdfootnote30anc) Angus-Green, *Cyclopedic Handbook of the Bible*,
+[^30]: Angus-Green, *Cyclopedic Handbook of the Bible*,
 p. 192.
 
-[31](#sdfootnote31anc) *Biblical Hermeneutics*, p. 111.
+[^31]: *Biblical Hermeneutics*, p. 111.
 
-[32](#sdfootnote32anc) Angus-Green, *Cyclopedic Handbook of the Bible*,
+[^32]: Angus-Green, *Cyclopedic Handbook of the Bible*,
 p. 195.
 
-[33](#sdfootnote33anc) Cellérier, *Man. d’Hermen*., p. 19.
+[^33]: Cellérier, *Man. d’Hermen*., p. 19.
 
-[34](#sdfootnote34anc) *Man. D’Hermen.*, p. 142.
+[^34]: *Man. D’Hermen.*, p. 142.
 
-[35](#sdfootnote35anc) *Principles of Inter*., pp. 157 and 159.
+[^35]: *Principles of Inter*., pp. 157 and 159.
 
-[36](#sdfootnote36anc) *Corres. Course*, Vol. I, p. 128.
+[^36]: *Corres. Course*, Vol. I, p. 128.
 
-[37](#sdfootnote37anc) *Cyclo. Handbook of the Bible*, p. 224.
+[^37]: *Cyclo. Handbook of the Bible*, p. 224.
 
-[38](#sdfootnote38anc) *Man. D*’*Hermen*., p. 41.
+[^38]: *Man. D*’*Hermen*., p. 41.
 
-[39](#sdfootnote39anc) Scofield *Corres. Course*, p. 44f.
+[^39]: Scofield *Corres. Course*, p. 44f.
 
-[40](#sdfootnote40anc) Angus-Green *Cyclo. Handbook of the Bible*, p.
+[^40]: Angus-Green *Cyclo. Handbook of the Bible*, p.
 221.
 
-[41](#sdfootnote41anc) *Biblical Hermeneutics,*Intro., p. 62.
+[^41]: *Biblical Hermeneutics,*Intro., p. 62.
 
-[42](#sdfootnote42anc) *Man. D’Hermen.*, p. 274.
+[^42]: *Man. D’Hermen.*, p. 274.
 
-[43](#sdfootnote43anc) *Principles of Interpretation*, p. 182.
+[^43]: *Principles of Interpretation*, p. 182.
 
-[44](#sdfootnote44anc) C. Fred Lincoln, *Bibliotheca Sacra*, Vol. 94, p.
+[^44]: C. Fred Lincoln, *Bibliotheca Sacra*, Vol. 94, p.
 503.
 
 ***Austin Bible Church***

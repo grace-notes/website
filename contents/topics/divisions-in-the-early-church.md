@@ -105,7 +105,7 @@ Judaizing emissaries were ready to flatter the prejudices of this
 influential body; nor did they abstain (as we know both from tradition
 and from his own letters) from insinuating the most scandalous charges
 against their great opponent.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> And thus, in every
+[^1] And thus, in every
 Christian church established by St. Paul, there sprang up, as we shall
 see, a schismatic party, opposed to his teaching and hostile to his
 person.
@@ -128,7 +128,7 @@ Church,” the brethren of the Lord and Cephas,” who were married. (1 Cor.
 persecutor,” born into the Church out of due time,” in” withstanding to
 the face” the chief of the Apostles. A still more violent section called
 themselves, by a strange misnomer, the party of Christ.
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+[^2]
 
 These appear to have laid great stress upon the fact, that Paul had
 never seen or known Our Lord while on earth; and they claimed for
@@ -188,7 +188,7 @@ the scrupulosity of their less enlightened brethren, and to have felt
 for them a contempt inconsistent with the spirit of Christian love.
 (Rom. 14;10) And in their opposition to the Judaizers, they showed a
 bitterness of feeling and violence of action,
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> too like that of their
+[^3] too like that of their
 opponents. Some of them, also, were inclined to exult over the fall of
 God’s ancient people, and to glory in their own position, as though it
 had been won by superior merit. These are rebuked by St. Paul for their”
@@ -234,7 +234,7 @@ necessary operation of the spiritual principle within them. For, as the
 law against theft might be said to be dead to a rich man (because he
 would feel no temptation to break it), so the whole moral law would be
 dead to a perfect Christian;
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> hence, to a real
+[^4] hence, to a real
 Christian, it might in one sense be truly said that prohibitions were
 abolished. But the heretics of whom we are speaking took this
 proposition in a sense the very opposite to that which it really
@@ -274,7 +274,7 @@ heretics), they had misunderstood the Christian doctrine, which teaches
 us to believe in the resurrection of a spiritual body, as though it had
 asserted the re animation of” this vile body” of” flesh and blood,”
 which” cannot inherit the kingdom of God;” or it is possible that a
-materialistic philosophy <sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup>
+materialistic philosophy [^5]
 led them to maintain that when the body had crumbled away in the grave,
 or been consumed on the funeral pyre, nothing of the man remained in
 being. In either case, they probably explained away the doctrine of the
@@ -324,7 +324,7 @@ already paved for the introduction of that most curious amalgam of
 Hellenic and Oriental speculation with Jewish superstition, which was
 afterwards called the Gnostic heresy. It is a disputed point at what
 time this heresy made its first appearance in the Church; some
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup> think that it had already
+[^6] think that it had already
 commenced in the Church of Corinth when St. Paul warned them to beware
 of the knowledge (Gnosis) which puffeth up; others maintain that it did
 not originate till the time of Basilides, long after the last Apostle
@@ -339,12 +339,12 @@ Gnostic to be one who claims the possession of a peculiar” Gnosis” (i.e.
 a deep and philosophic insight into the mysteries of theology,
 unattainable by the vulgar), then it is indisputable that Gnosticism had
 begun when St. Paul warned Timothy against those who laid claim to a
-knowledge (Gnosis) <sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup>
+knowledge (Gnosis) [^7]
 falsely so called. And, moreover, we find that, even in the Apostolic
 age, these arrogant speculators had begun to blend with their Hellenic
 philosophy certain fragments of Jewish superstition, which afterwards
 were incorporated into the Cabbala.
-<sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup> In spite, however of the
+[^8] In spite, however of the
 occurrence of such Jewish elements, those heresies which troubled the
 later years of St. Paul, and afterwards of St. John were essentially
 rather of Gentile 4 than of Jewish origin. So far as they agreed with
@@ -399,10 +399,10 @@ intruding into those things which they have not seen:” and so, in the
 Pastoral Epistles, the” self styled Gnostics” (1 Tim. vi. 20) are
 occupied with” endless genealogies,” which were probably fanciful myths,
 concerning the origin and emanation of spiritual beings.
-<sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> This latter is one of the
+[^9] This latter is one of the
 points in which Jewish superstition was blended with Gentile
 speculation; for we find in the Cabbala,
-<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> or collection of Jewish
+[^10] or collection of Jewish
 traditional theology, many fabulous statements concerning such
 emanations. It seems to be a similar superstition which is stigmatized
 in the Pastoral Epistles as consisting of” profane and old wives”
@@ -412,7 +412,7 @@ systematized this theory of emanations, and it became one of the most
 peculiar and distinctive features of their heresy. But this was not the
 only Jewish element in the teaching of these Colossian heretics; we find
 also that they made a point of conscience of observing the Jewish
-Sabbaths <sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup> and festivals,
+Sabbaths [^11] and festivals,
 and they are charged with clinging to outward rites (Col. 23:8, 20), and
 making distinctions between the lawfulness of different kinds of food.
 
@@ -421,9 +421,9 @@ a twofold direction. On one side was an ascetic tendency, such as we
 find at Colossae, showing itself by an arbitrarily invented worship of
 God, an affectation of self humiliation and mortification of the flesh.
 So, in the Pastoral Epistles, we find the prohibition of marriage,
-<sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup> the enforced abstinence
+[^12] the enforced abstinence
 from food, and other bodily mortifications, mentioned as characteristics
-of heresy. <sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> If this
+of heresy. [^13] If this
 asceticism originated from the Jewish element which has been mentioned
 above, it may be compared with the practice of the Essenes, whose
 existence shows that such asceticism was not inconsistent with Judaism,
@@ -442,7 +442,7 @@ Christianity, and even justified them by a perversion of its doctrines.
 Such teaching could not fail to find a ready audience wherever there
 were found vicious lives and hardened consciences. Accordingly it was in
 the luxurious and corrupt population of Asia Minor,
-<sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup> that this early
+[^14] that this early
 Gnosticism assumed its worst form of immoral practice defended by
 Antinomian doctrine. Thus, in the Epistle to the Ephesians, St. Paul
 warns his readers against the sophistical arguments by which certain
@@ -486,7 +486,7 @@ of them, who are called the followers of Balaam in the Epistles of Peter
 and Jude, and the Nicolaitans (an equivalent name) in the Apocalypse,
 taught their followers to indulge in the sensual impurities, and even in
 the idol feasts of the Heathen.
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup> We find, moreover, that
+[^15] We find, moreover, that
 these false disciples, with their licentiousness in morals, united
 anarchy in politics, and resistance to law and government. They” walked
 after the flesh in the lust of uncleanness, and despised governments.”

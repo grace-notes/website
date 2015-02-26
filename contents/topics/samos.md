@@ -42,5 +42,5 @@ Josephus Ant. 6.4 [161]). Trogyllium lay on the mainland opposite Samos;
 possibly some annotator, knowing the locality, suggested this as the
 night’s halting-place.
 
-[1](#sdfootnote1anc) International Standard Bible Encyclopedia
+[^1]: International Standard Bible Encyclopedia
 

@@ -96,7 +96,7 @@ spirit. The same firm resolve is seen in carrying out his principles to
 \\heir consequences, though he shows it not in persecuting but in
 suffering. The same restless energy, which carried him from Jerusalem to
 Damascus that he might extirpate heresy, now urges him from one end of
-the world to the other, <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+the world to the other, [^2]
 that he may bear the tidings of salvation.
 
 The painful anticipations which saddened his return to Corinth were not,
@@ -104,14 +104,14 @@ however, altogether unrelieved by happier thoughts. As he approached the
 well known gates, in the midst of that band of faithful friends who
 accompanied him from Macedonia, his memory could not but revert to the
 time when first he entered the same city, a friendless and lonely
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> stranger. He could not
+[^3] stranger. He could not
 but recall the feelings of extreme depression with which he first began
 his missionary work at Corinth, after his unsuccessful visit to Athens.
 
 The very firmness and bold confidence which now animated him, the
 assurance which he felt of victory over the opponents of truth, must
 have reminded him by contrast of the anxiety and self distrust
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> which weighed him down at
+[^4] which weighed him down at
 his first intercourse with the Corinthians, and which needed a
 miraculous vision (Acts 18:9) for its removal. How could he allow
 discouragement to overcome his spirit, when he remembered the fruits
@@ -149,7 +149,7 @@ intelligence had reached Corinth from Ephesus, by the direct route, of a
 more recent date than any which he had lately received; and the tidings
 brought by this channel concerning the state of the Galatian churches,
 excited both his astonishment and his indignation.
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> His converts there, whom
+[^5] His converts there, whom
 he seems to have regarded with peculiar affection, and whose love and
 zeal for himself had formerly been so conspicuous, were rapidly
 forsaking his teaching, and falling an easy prey to the arts of
@@ -300,7 +300,7 @@ been given me, James, Cephas, and John, who were accounted chief
 pillars, gave to me and Barnabas the right hand of fellowship, purposing
 that we should go to the Gentiles, and they to the Jews; provided only,
 that we should remember the poor,
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup> which I have accordingly
+[^6] which I have accordingly
 endeavored to do with diligence. But when Cephas came to Antioch, I
 withstood him to the face, because he had incurred reproach; :for before
 the coming of certain [brethren] from James, he was in the habit of
@@ -356,7 +356,7 @@ they who are children of Faith [whether they be Jews or Gentiles] are
 blessed with faithful Abraham.
 
 For all they who rest upon
-<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup> the works of the Law are
+[^7] the works of the Law are
 under a curse; for it is written, “Cursed is every one that continues
 not in all things which are written in the book of the Law to do them.”
 (Deut. 27:26) And it is manifest that no man is counted righteous in
@@ -375,7 +375,7 @@ Brethren, I speak in man’s language, nevertheless, a man’s covenant,
 when ratified, cannot by its giver be annulled, or set aside by a later
 addition. Now God’s promises were made to Abraham and to his seed; the
 scripture says not “and to thy seeds,” as if it spoke of many, but as of
-one, “and to thy seed;” <sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup>
+one, “and to thy seed;” [^8]
 and this seed is Christ. But this I say; a covenant which had been
 ratified before by God, to be fulfilled in Christ, the Law which was
 given four hundred and thirty years afterwards, cannot make void, to the
@@ -386,7 +386,7 @@ by promise.
 To what end, then, was the Law? it was added because of the
 transgressions of men, till the Seed should come, to whom belongs the
 promise; and it was enacted by the ministration of angels
-<sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> through the hands of
+[^9] through the hands of
 [Moses, who was] a mediator [between God and the people]. Now where a
 mediator is, there must be two parties. But God is one there is no
 second party to His promise].
@@ -430,9 +430,9 @@ rather, when God has acknowledged you, how is it that you are turning
 backwards to those childish lessons, weak and beggarly as they are;
 eager to place yourselves once more in bondage under their dominion? Are
 you observing days, and months,
-<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> and seasons,
-<sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup> and years.
-<sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup> I am fearful for you,
+[^10] and seasons,
+[^11] and years.
+[^12] I am fearful for you,
 lest I have spent my labor on you in vain. I beseech you, brethren, to
 become as I am, [and seek no more a place among the circumcised;] for I
 too have become as you 11 are [and have cast away the pride of my
@@ -440,13 +440,13 @@ circumcision] . You have never wronged me: on the contrary, although it
 was sickness (as you know) which caused me to preach the Glad tidings to
 you at my first visit, yet you neither scorned nor loathed the bodily
 infirmity which was my trial;
-<sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> but you welcomed me as
+[^13] but you welcomed me as
 an angel of God, yea, even as Christ Jesus. Why, then, did you think
 yourselves so happy? (for I bear you witness that, if it had been
 possible, you would have torn out your own eyes
-<sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup> and given them to me.)
+[^14] and given them to me.)
 Am I then become your enemy
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup> because I tell you the
+[^15] because I tell you the
 truth? They [who call me so] show zeal for you with no good intent; they
 would shut you out from others that your zeal may be for them alone. But
 it is good to be zealous in a good cause, and that at all times, and not
@@ -462,7 +462,7 @@ to him after the flesh: whereas the son of the free woman was born by
 virtue of the promise. Now, all this is allegorical; for these two women
 are the two covenants; the first given from Mount Sinai, whose children
 are born into bondage, which is Hagar (for the word Hagar
-<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup> in Arabia signifies
+[^16] in Arabia signifies
 :Mount Sinai): and she answers to the earthly Jerusalem, for she is in
 bondage with her children. But [Sarah is the second covenant in Christ,
 and answers to the heavenly Jerusalem; for] the heavenly Jerusalem is
@@ -521,7 +521,7 @@ tends to hinder you from doing what you wish to do. But, if you be led
 by the Spirit, you are not under the Law. Now, the works of the Flesh
 are manifest, which are such as these; fornication, impurity,
 lasciviousness; idolatry, witchcraft;
-<sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup> enmities, strife,
+[^17] enmities, strife,
 jealousy, passionate anger; intrigues, divisions, sectarian parties;
 envy, murder; drunkenness, revellings, and such like. Of which I
 forewarn you (as I told you also in times past), that they who do such
@@ -575,48 +575,48 @@ mark my bondage to the Lord Jesus.
 
 Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.
 
-[1](#sdfootnote1anc) This article is from Conybeare, W. J. and Howson,
+[^1]: This article is from Conybeare, W. J. and Howson,
 J. S, *The Life and Epistles of St. Paul, Chapter 18*
 
-[2](#sdfootnote2anc) He was at this very time intending to go first to
+[^2]: He was at this very time intending to go first to
 Jerusalem, thence to Rome, and thence to Spain; that is, to travel from
 the eastern to the Western extremities of the civilized world. See Rom.
 15:28
 
-[3](#sdfootnote3anc) He was left at Athens along (1 Thess. 3:1) and so
+[^3]: He was left at Athens along (1 Thess. 3:1) and so
 remained until Timothy and Silas rejoined him at Corinth.
 
-[4](#sdfootnote4anc) See 1 Cor. 2:1-3
+[^4]: See 1 Cor. 2:1-3
 
-[5](#sdfootnote5anc) This is on the assumption that the Epistle to the
+[^5]: This is on the assumption that the Epistle to the
 Galatians was written soon after St. Paul’s arrival at Corinth on the
 present occasion.
 
-[6](#sdfootnote6anc) Namely, the poor Christians in Judea.
+[^6]: Namely, the poor Christians in Judea.
 
-[7](#sdfootnote7anc) Literally, *who have their root in the works of the
+[^7]: Literally, *who have their root in the works of the
 Law*, or, according to the Hebrew image, *the children of the works of
 the Law*.
 
-[8](#sdfootnote8anc) Gen. 13:15. The meaning of the argument is that the
+[^8]: Gen. 13:15. The meaning of the argument is that the
 recipients of God’s promises are not to be looked on as an aggregate of
 different individuals, or of different races, but are all one body,
 whereof Christ is the head.
 
-[9](#sdfootnote9anc) Compare Acts 7:53.
+[^9]: Compare Acts 7:53.
 
-[10](#sdfootnote10anc) The seven months.
+[^10]: The seven months.
 
-[11](#sdfootnote11anc) The seasons of the great Jewish feasts.
+[^11]: The seasons of the great Jewish feasts.
 
-[12](#sdfootnote12anc) The Sabbatical and Jubilee years. From this it
+[^12]: The Sabbatical and Jubilee years. From this it
 has been supposed that this Epistle must have been written in a
 Sabbatical year. But this does not necessarily follow, because the word
 may be merely inserted to complete the sentence; and of course those who
 observed the Sabbaths, festivals, &c., would intend to observe also the
 Sabbatical years when they came. The plural’ years’ favors this view.
 
-[13](#sdfootnote13anc) This was probably the same disease mentioned 2
+[^13]: This was probably the same disease mentioned 2
 Cor. 12:7. It is very unfortunate that the word temptation has so
 changed its meaning in the last two hundred and fifty years, as to make
 the Authorized Version of this verse a great source of misapprehension
@@ -627,23 +627,23 @@ should. add that if, with some of the best MSS., we read’ your,’ it
 makes no very material difference in the sense; St. ’Paul’s sickness
 would then be called the trial of the Galatians.
 
-[14](#sdfootnote14anc) This certainly seems to confirm the view of those
+[^14]: This certainly seems to confirm the view of those
 who suppose St. Paul’s malady to have been some disease in the eyes. The
 “your” appears emphatic, as if he would say you would have torn out your
 own eyes to supply the lack of mine.
 
-[15](#sdfootnote15anc) The Judaizers accused St. Paul of desiring to
+[^15]: The Judaizers accused St. Paul of desiring to
 keep the Gentile converts in an inferior position, excluded (by want of
 circumcision) from full covenant with God; and called him, therefore,
 their enemy.
 
-[16](#sdfootnote16anc) The word “Hagar” in Arabic means ‘a rock,’ and
+[^16]: The word “Hagar” in Arabic means ‘a rock,’ and
 some authorities tell us that Mount Sinai is so called by the Arabs. The
 lesson to be drawn from this whole passage, as regards the Christian use
 of the Old Testament, is of an importance which can scarcely be
 overrated.
 
-[17](#sdfootnote17anc) The profession of magical arts. The history of
+[^17]: The profession of magical arts. The history of
 the times in which St. Paul lived is full of the crimes committed by
 those who professed such arts. We have seen him brought into contact
 with such persons as Ephesus already. They dealt in poisons also, which

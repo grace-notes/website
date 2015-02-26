@@ -334,15 +334,15 @@ eyewitness till the arrival at Rome, and the very close of the Acts. To
 explain and justify the remark here made, we need only ask the reader to
 contrast the detailed narrative of events at Philippi with the more
 general account of what happened at Thessalonica.
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> It might be inferred that
+[^2] It might be inferred that
 the writer of the Acts was an eye witness in the former city and not in
 the latter, even if the pronoun did not show us when he was present and
 when he was absent.
 
-[1](#sdfootnote1anc) **Conybeare, W. J. and Howson, J. S.**, “The Life
+[^1]: **Conybeare, W. J. and Howson, J. S.**, “The Life
 and Epistles of St. Paul”, Chapter 9
 
-[2](#sdfootnote2anc) Observe, for instance, his mention of running
+[^2]: Observe, for instance, his mention of running
 before the wind, and staying for the night at Samothrace. Again, he says
 that Philippi was the first city they came to, and that it was a colony.
 He tells us that the place of prayer was outside the gate and near a

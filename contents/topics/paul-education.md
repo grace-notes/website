@@ -44,7 +44,7 @@ the Cilician plain through the defiles of Mount Amanus to Antioch, and
 thence along the rugged Phoenician shore through Tyre and Sidon to
 Judea. The Jews, when they went to the festivals, or to carry
 contributions, like the Mahommedans of modern days, would follow the
-lines of natural traffic; <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+lines of natural traffic; [^1]
 and now that the Eastern Sea had been cleared of its pirates, the
 obvious course would be to travel by water. The Jews, though merchants,
 were not seamen. We may imagine Saul, therefore, setting sail from the
@@ -61,7 +61,7 @@ his mind as the vessel –moved on over the waves, and he gazed upon the
 furrowed flanks of the great Hebrew mountain! Had the voyage been taken
 fifty years earlier, the vessel would probably been bound for Ptolemais,
 which still bore the name of the Greek kings of Egypt;
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> but in the reign of
+[^2] but in the reign of
 Augustus or Tiberius it is more likely that she sailed round the
 headland of Carmel and came to anchor in the new harbor of Caesarea, the
 handsome city which Herod had rebuilt and named in honor of the Emperor.
@@ -142,7 +142,7 @@ in the streets, with bloodshed at sacred festivals, and with wholesale
 crucifixions; his reign of ten years was one continued season of
 disorder and discontent; and at last he was banished to Vienna on the
 Rhone, that Judea might be formally constituted into a Roman province.
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> We suppose Saul to have
+[^3] We suppose Saul to have
 come from Tarsus to Jerusalem when one of the four governors who
 preceded Pontius Pilate was in power, either Coponius, or Marcus
 Ambivius, or Annius Rufus, or Valerius Gratus. The governor resided in
@@ -187,7 +187,7 @@ fulfillment of Prophecy, to the practice of religion, to the
 interpretation of the Law. All else was now hopeless. The Pharisees, the
 Scribes, and the Lawyers were growing into a more important body even
 than the Priests and Levites;
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> and that system of
+[^4] and that system of
 Rabbinism was beginning which, supplanting the original religion of the
 Jews, became, after the ruin of the Temple and the extinction of the
 public worship, a new bond of national union, the great distinctive
@@ -276,11 +276,11 @@ seems only to allude, in the first case, to his vision on the road to
 Damascus, and in the second to his carnal opinions concerning the
 Messiah. It is hardly conceivable that if he had been at Jerusalem
 during our Lord’s public ministration there, he should never allude to
-the fact. <sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> In this case he
+the fact. [^5] In this case he
 would surely have been among the persecutors of Jesus and have referred
 to this as the ground of his remorse, instead of expressing his
 repentance for his opposition merely to the Savior’s followers.
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>
+[^6]
 
 If he returned to the banks of the Cydnus, he would find that many
 changes had taken place among his friends in the interval which had
@@ -292,17 +292,17 @@ opportunity for becoming acquainted with that Greek literature, the
 taste for which he had caught from –Gamaliel, and for studying the
 writings of Philo and the Hellenistic Jews.
 
-[1](#sdfootnote1anc) That he came from Tarsus at an early age is implied
+[^1]: That he came from Tarsus at an early age is implied
 by Acts 26:4, “My manner of life *from my youth*, which was *at the
 first* among my own nation at Jerusalem, know all the Jews, which knew
 me from the beginning.”
 
-[2](#sdfootnote2anc) See, for instance, 1 Macc. 5:15; 10:1. Ptolemais
+[^2]: See, for instance, 1 Macc. 5:15; 10:1. Ptolemais
 was still a busy seaport in St. Paul’s day, though Caesarea had become
 the more important harbor, and indeed, politically, the most important
 city in Palestine. See Acts 21:7.
 
-[3](#sdfootnote3anc) While the questions of succession was pending, the
+[^3]: While the questions of succession was pending, the
 Roman soldiers under Sabinus had a desperate conflict with the Jews.
 Fighting and sacrificing went on together. Varus, the governor of Syria,
 marched from Antioch to Jerusalem, and 2000 Jews were crucified. The
@@ -310,13 +310,13 @@ Herodian family, after their father’s death, had gone to Rome, where
 Augustus receive them in the Temple of Apollo. Archelaus had never the
 title of king, though his father had desired it.
 
-[4](#sdfootnote4anc) In earlier periods of Jewish history, the prophets
+[^4]: In earlier periods of Jewish history, the prophets
 seem often to have been a more influential body than the priests. It is
 remarkable that we do not read of “Schools of the Prophets” in any of
 the Levitical cities. In these schools some were Levites, as Samuel; and
 some belonged to other tribes, as did Saul and David.
 
-[5](#sdfootnote5anc) In the absence of more information it is difficult
+[^5]: In the absence of more information it is difficult
 to write with confidence concerning this part of St. Paul’s life. Benson
 thinks he was a young student during our Lord’s ministry, and places a
 considerable interval between the Ascension of Christ and the
@@ -324,5 +324,5 @@ persecution of Stephen. Lardner thinks that the restraint and retirement
 of a student might have kept him in ignorance of what was going on in
 the world.
 
-[6](#sdfootnote6anc) 1 Cor. 15:9; Acts 22:20.
+[^6]: 1 Cor. 15:9; Acts 22:20.
 

@@ -87,7 +87,7 @@ His was the benediction of the 128<sup>th</sup> Psalm, “The Lord shall
 bless thee out of Zion; thou shalt see the good of Jerusalem all the
 days of thy life,” From that time, whoever it might be who had watched
 over Saul’s infancy, whether, like king Lemuel,
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> he learned “the prophecy
+[^1] he learned “the prophecy
 that his mother taught him,’ or whether he was under the care of others,
 like those who were with the sons of king David and king Ahab (1 Chron.
 27:32; 2 Kings 10:1,5), we are at no loss to learn what the first ideas
@@ -116,11 +116,11 @@ praises of the Messiah, were the songs around his cradle.
 **The Tribe of Benjamin**
 
 Above all, he would be familiar with the destinies of his own
-illustrious tribe. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> The
+illustrious tribe. [^2] The
 life of the timid Patriarch, the father of the Twelve; the sad death of
 Rachel near the city where the Messiah was to be born; the loneliness of
 Jacob, who sought to comfort himself in Benoni “the son of her sorrow,”
-by calling him Benjamin <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
+by calling him Benjamin [^3]
 “the son of his right hand;” and then the youthful days of this youngest
 of the twelve brethren, the famine, and the journeys into Egypt, the
 severity of Joseph, and the wonderful story of the silver cup in the
@@ -168,7 +168,7 @@ Such were the influences which cradled the infancy of St. Paul; and such
 was the early teaching under which his mind gradually rose to the
 realization of his position as a Hebrew child in a city of Gentiles. Of
 the exact period of his birth we possess no authentic information.
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> From a passage in a
+[^4] From a passage in a
 sermon attributed to St. Chrysostom, it has been inferred (on the
 supposition that he died AD 66, at the age of 68) that he was born in
 the year 2 BC of our era. The date is not improbable; but the
@@ -198,7 +198,7 @@ history St. Paul was born.
 
 It was a pause, too, in the history of the sufferings of the Jews. That
 lenient treatment which had been begun by Julius Caesar was continued by
-Augustus; <sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> and the days of
+Augustus; [^5] and the days of
 severity were not yet come, when Tiberius and Claudius drove them into
 banishment, and Caligula oppressed them with every mark of contumely and
 scorn. We have good reason to believe that at the period of the
@@ -208,7 +208,7 @@ suppose that this citizenship was a privilege which belonged to the
 members of the family, as being natives of this city. Tarsus was not a
 *municipium*, nor was it a *colonia*, like Philippi in Macedonia, or
 Antioch in Pisidia; but it was a “free city,”
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup> like the Syrian Antioch
+[^6] like the Syrian Antioch
 and its neighbor city Seleucia on the sea. Such a city had the privilege
 of being governed by its own magistrates, and was exempted from the
 occupation of a Roman garrison, but its citizens did not necessarily
@@ -220,10 +220,10 @@ privilege had been granted to him, or had descended to him, as an
 individual right; he might have purchased it for a “large sum of money”
 (Acts 22:28); but it is more probable that it came to him as a reward
 for services rendered, during the civil wars, by some influential Roman.
-<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup> We should not be in
+[^7] We should not be in
 serious error if we were to say, in language suggested by the narrative
 of St. Stephen’s martyrdom (Acts 6:9), that St. Paul’s father was a
-Cilician *Libertinus*. <sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup>
+Cilician *Libertinus*. [^8]
 That Jews were not unfrequently Roman citizens we learn from Josephus,
 who mentions in the *Wars of the Jews* (II:14.9) some even of the
 equestrian order who were illegally scourged and crucified by Florus at
@@ -244,7 +244,7 @@ attention hereafter, when we come in the course of our narrative to that
 interview with Sergius Paulus in Cyprus, coincidentally with which the
 appellation in the Acts of the Apostles is suddenly changed. Many
 opinions have been held on this subject, both the ancient and modern
-theologians. <sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> At present
+theologians. [^9] At present
 it will be enough to say that, though we cannot overlook the
 coincidence, or believe it accidental, yet it is most probably that both
 names were borne by him in his childhood, that “Saul” was the name of
@@ -285,7 +285,7 @@ occur to him more naturally than the profitable occupation of the making
 of tents, the material of which was hair cloth, supplied by the goats of
 his native province and sold in the markets of the Levant by the
 well-known name of *cilicium*.
-<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> The most reasonable
+[^10] The most reasonable
 conjecture is that his father’s business was concerned with these
 markets and that, like many of his scattered countrymen, he was actively
 occupied in the traffic of the Mediterranean coasts; and the remote
@@ -314,7 +314,7 @@ scenery in the midst of which his childhood was spent. The plain, the
 mountains, the river, and the sea still remain to us. The rich harvests
 of corn still grow luxuriantly after the rains in spring. The same tents
 of goat’s hair are still seen covering the plains in the busy harvest.
-<sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup> There is the same
+[^11] There is the same
 solitude and silence in the intolerable heat and dust of the summer.
 Then, as now, the mothers and children of Tarsus went out in the cool
 evenings and looked from the gardens round the city, or from their
@@ -327,7 +327,7 @@ flows idly past it on the east.
 
 The channel, which floated the ships of Antony and Cleopatra, is now
 filled up; and wide unhealthy lagoons occupy the place of the ancient
-docks. <sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup> But its upper
+docks. [^12] But its upper
 waters still flow, as formerly, cold and clear from the snows of Taurus;
 and its waterfalls still break over the same rocks, when the snows are
 melting, like the Rhine at Schasshausen.
@@ -362,13 +362,13 @@ We have seen what his infancy was; we must now glance at his boyhood. It
 is usually the case that the features of a strong character display
 themselves early. His impetuous fiery disposition would sometimes need
 control. Flashes of indignation would reveal his impatience and his
-honesty. <sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> The
+honesty. [^13] The
 affectionate tenderness of his nature would not be without an object of
 attachment, if that sister, who was afterwards married (Acts 23:16), was
 his playmate at Tarsus. The work of tent-making, rather an amusement
 than a trade, might sometimes occupy those young hands, which were
 marked with the toil of years when he held them to the view of the
-Elders at Miletus. <sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup>
+Elders at Miletus. [^14]
 
 His education was conducted at home rather than at school; for though
 Tarsus was celebrated for its learning, the Hebrew boy would not lightly
@@ -378,12 +378,12 @@ with the synagogue, where a noisy class of Jewish children received the
 rudiments of instruction, seated on the ground with their teacher, after
 the manner of Mahomedan children in the east, who may be seen or heard
 at their lessons near the mosque.
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup>
+[^15]
 
 At such a school, it may be, he learned to read and write, going and
 returning under the care of some attendant, according to that custom
 which he afterwards used as an illustration in the Epistle to the
-Galatians <sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup> (and perhaps
+Galatians [^16] (and perhaps
 he remembered his own early days while he wrote the passage) when he
 spoke of the Law as the slave who conducts us to the School of Christ.
 His religious knowledge, as his years advanced, was obtained from
@@ -410,14 +410,14 @@ He was destined for the school of Jerusalem. The educational maxim of
 the Jews, at a later period, was as follows: “At five years of age, let
 children begin the Scripture; at ten, the Mishnah; at thirteen, let them
 be subjects of the Law.”
-<sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup>
+[^17]
 
 There is no reason to suppose that the general practice was very
 different before the floating maxims of the great doctors were brought
 together in the Mishnah. It may therefore be concluded, with a strong
 degree of probability, that Saul was sent to the Holy City between the
 ages of ten and thirteen.
-<sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup> Had it been later than
+[^18] Had it been later than
 the age of thirteen, he could hardly have said that he had been “brought
 up” in Jerusalem.
 
@@ -434,9 +434,9 @@ URL: [http://www.gracenotes.info](http://www.gracenotes.info/)
 There is no charge for Grace Notes materials. The work is supported by
 Christians who pray for the ministry and share in the expenses.
 
-[1](#sdfootnote1anc) Prov. 31:1; cf. 2 Tim. 3:15 with 1 Tim. 1:5.
+[^1]: Prov. 31:1; cf. 2 Tim. 3:15 with 1 Tim. 1:5.
 
-[2](#sdfootnote2anc) It may be thought that here too much prominence has
+[^2]: It may be thought that here too much prominence has
 been given to the attachment of a Jew in the Apostolic Age to his own
 particular tribe. It is difficult to ascertain how far the tribe-feeling
 of early times lingered on in combination with the national feeling
@@ -449,66 +449,66 @@ unnatural to believe that pious families of so famous a stock as that of
 Benjamin should retain the hereditary enthusiasm of their sacred
 clanship. See, moreover, Matt. 19:28; Rev. 5:5; 7:4-8.
 
-[3](#sdfootnote3anc)
+[^3]:
 
-[4](#sdfootnote4anc) As regards the chronology of St. Paul’s life, it is
+[^4]: As regards the chronology of St. Paul’s life, it is
 enough to refer to Chapter 4 and the chronology in the Appendix to this
 work.
 
-[5](#sdfootnote5anc) Caesar, like Alexander, treated the Jews with much
+[^5]: Caesar, like Alexander, treated the Jews with much
 consideration. Suetonius speaks in strong terms of their grief at his
 death. Augustus permitted he largess, when it fell on a Sabbath, to be
 put off until the next day.
 
-[6](#sdfootnote6anc) It appears that Antony gave Tarsus the privilege of
+[^6]: It appears that Antony gave Tarsus the privilege of
 an *urbs libera*, though it had previously taken the side of Augustus
 and been named Juliopolis.
 
-[7](#sdfootnote7anc) Great numbers of Jews were made slaved in the Civil
+[^7]: Great numbers of Jews were made slaved in the Civil
 Wars and then manumitted. A slave manumitted with due formalities became
 a Roman citizen. Thus it is natural to suppose that the apostle, with
 other Cilician Jews, may have been, like Horace, *libertino patre
 natus.*”
 
-[8](#sdfootnote8anc) This suggestion is due to Wieseler, who translates
+[^8]: This suggestion is due to Wieseler, who translates
 the verse which described Stephen’s great opponents, so as to mean
 “Libertines” from “Cyrene, Alexandria, Cilicia, and Asia.” We think that
 another view is more natural, but at least we should observe that we
 find Saul, a *Roman* citizen, actively operating in persecution with
 those who are called *Libertini.*
 
-[9](#sdfootnote9anc) Origen says that he had both names from the first,
+[^9]: Origen says that he had both names from the first,
 that he used one among the Jews and the other afterwards; Augustine,
 that he took the name when he began to preach; Chrysostom, that he
 received a new title, like Peter, at his ordination in Antioch; Bede,
 that he did not receive it till the Proconsul was converted; and Jerome,
 that it was meant to commemorate that victory.
 
-[10](#sdfootnote10anc) Hair cloth of this kind is manufactured at the
+[^10]: Hair cloth of this kind is manufactured at the
 present day in Asia Minor, and the word is still regained in French,
 Spanish, and Italian.
 
-[11](#sdfootnote11anc) “The plain presented the appearance of an immense
+[^11]: “The plain presented the appearance of an immense
 sheet of corn stubble, dotted with small camps of tents; these tents are
 made of hair cloth, and the peasantry reside in them at this season,
 while the harvest is reaping and the corn treading out.”, Beaufort’s
 *Karamania*, p. 273.
 
-[12](#sdfootnote12anc) In Strabo’s day there was an inconvenient “bar”
+[^12]: In Strabo’s day there was an inconvenient “bar”
 at the mouth of the Cydnus. Here (as in the case of the Pyramus and
 other rivers on that coast) the land has since that time encroached on
 the sea. The unhealthiness of the sea coast near the Gulf of Scanderoon
 is notorious, as can be testified by more than one of those who visited
 there.
 
-[13](#sdfootnote13anc) See Acts 9:1,2; 23:1-5. Compare Acts 13:13 and
+[^13]: See Acts 9:1,2; 23:1-5. Compare Acts 13:13 and
 15:38 with 2 Tim. 4:11.
 
-[14](#sdfootnote14anc) Acts 20:34, “Ye yourselves know that *these
+[^14]: Acts 20:34, “Ye yourselves know that *these
 hands* have ministered to my necessities, and to them that were with
 me.” Compare 28:3: 1 Cor. 4:12; 1 Thess. 2:9; 2 Thess. 3:8.
 
-[15](#sdfootnote15anc) This is written from the recollection of a
+[^15]: This is written from the recollection of a
 Mahomedan school at Bildah in Algeria, where the mosques can now be
 entered with impunity. The children, with the teacher, were on a kind of
 upper story like a shelf, within the mosque. All were seated on this
@@ -516,7 +516,7 @@ floor, in the way described by Maimonides. The children wrote on boards
 and recited what they wrote; the master addressed them in rapid
 succession; and the confused sound of voices was unceasing.
 
-[16](#sdfootnote16anc) Gal. 3:24, where the word inaccurately rendered
+[^16]: Gal. 3:24, where the word inaccurately rendered
 “schoolmaster” denotes the attendant slave who accompanied the child to
 the school. A Jewish illustration of a custom well known among the
 Greeks and Romans is given by Buxtorf. He describes the child as taken
@@ -524,13 +524,13 @@ to the preceptor under the skirt of a Rabbi’s cloak, and as provided
 with honey and honeycakes, symbolizing such passages as Deut. 32:13;
 Cant. 4:11; Ps. 19:10.
 
-[17](#sdfootnote17anc) We have learned from Buxtorf that at 13 there was
+[^17]: We have learned from Buxtorf that at 13 there was
 a ceremony something like Christian confirmation. The boy was then
 called a “Child of the Law” and the father declared in the presence of
 the Jews that his son fully understood the Law and was fully responsible
 for his sins.
 
-[18](#sdfootnote18anc) That he came from Tarsus at an early age is
+[^18]: That he came from Tarsus at an early age is
 implied in Acts 26:4, “My manner of life *from my youth*, which was at
 the first among mine own nation at Jerusalem, know all the Jews, which
 knew me from the beginning.”

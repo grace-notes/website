@@ -114,9 +114,9 @@ Acts (and in the entire NT apart from those performed by Jesus) is that
 performed by Paul in Acts 16:16–18. Harassed by a demon-possessed slave
 girl, he turned and said, “I charge you in the name of Jesus Christ to
 come out of her” (Acts
-16:18).<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+16:18).[^1]
 
-[1](#sdfootnote1anc) Bromiley, G. W. (1988; 2002). *Vol. 2*: *The
+[^1]: Bromiley, G. W. (1988; 2002). *Vol. 2*: *The
 International Standard Bible Encyclopedia, Revised* (244–245). Wm. B.
 Eerdmans.
 

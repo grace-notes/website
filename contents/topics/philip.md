@@ -65,7 +65,7 @@ interview with the woman at the well of Sychar. And now the time was
 come for both the “middle walls of partition” to be destroyed. The
 dispersion brought Philip, a companion of Stephen, the second of the
 seven, to a city of Samaria.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> He came with the power of
+[^1] He came with the power of
 miracles and with the message of salvation. The Samaritans were
 convinced by what they saw, they listened to what he said, and there was
 great joy in that city.
@@ -83,7 +83,7 @@ Once more we are permitted to see Philip on his labor of love. We obtain
 a glimpse of him on the road which leads down by Gaza to Egypt. The
 chamberlain of Queen Candace is passing southwards on his return from
 Jerusalem, and reading in his chariot the prophecies of Isaiah.
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> Ethiopia is “stretching
+[^2] Ethiopia is “stretching
 out her hands to God” (Psalm 68:31), and the suppliant is not unheard. A
 teacher is provided at the moment of anxious inquiry. The stranger goes
 on his way rejoicing, a proselyte who had found the Messiah, a Christian
@@ -93,7 +93,7 @@ of God. He proceeds to Caesarea and we hear of him no more, until, after
 the lapse of twenty years, he received under his roof in that city one
 who, like himself, had traveled in obedience to the Divine command
 “preaching in all the cities.”
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
+[^3]
 
 If eleven of the Twelve Apostles refused the work of administering the
 church’s welfare program, but one, for special reasons, accepted it, it

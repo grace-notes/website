@@ -56,7 +56,7 @@ Tigranes the Great from 82 until 69 BC when he was defeated by Lucullus,
 and in 65 BC Pompey finally incorporated it as part of the Roman
 province of Syria.
 
-Name <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
+Name [^1]
 -----------------------------------------------
 
 In modern historical use, Phoenicia designates the Syrian coast, and
@@ -563,6 +563,6 @@ Jerusalem and Samaria: Judges 10:6; 1 Kings 11:4–8, 33; 16:31f; 2 Kings
 which although late (and subject to some misunderstandings) have their
 interest.
 
-[1](#sdfootnote1anc) The following article is from the International
+[^1]: The following article is from the International
 Standard Bible Encyclopedia
 

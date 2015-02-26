@@ -333,6 +333,6 @@ apart from sin or infirmity, God is like His creature, man (**Gen.
 Old Testament points, is a revelation in and through a perfect man, the
 Lord Jesus Christ, God’s unique Son.
 
-[1](#sdfootnote1anc) Extracted from the notes in the Scofield Reference
+[^1]: Extracted from the notes in the Scofield Reference
 Bible.
 

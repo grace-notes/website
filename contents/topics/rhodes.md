@@ -79,5 +79,5 @@ In 1 Macc. 15:13 the city is mentioned as the destination of a letter
 sent by Lucius, the Roman consul, concerning an alliance between the
 Romans and the Maccabean state.
 
-[1](#sdfootnote1anc) International Standard Bible Encyclopedia
+[^1]: International Standard Bible Encyclopedia
 

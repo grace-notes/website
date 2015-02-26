@@ -19,7 +19,7 @@ with the Imperial dignity and military command, the other with the
 authority of the Senate and its civil administration. The first of these
 names was “Praetor,” the second was “Consul.” Both of them were retained
 in Italy, and both were reproduced in the Provinces as “Propraetor” and
-“Proconsul.”<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> He told the
+“Proconsul.”[^1] He told the
 Senate and people that he would relieve them of all the anxiety of
 military proceedings and that he would resign to them those provinces
 where soldiers were unnecessary to secure the fruits of a peaceful
@@ -31,7 +31,7 @@ perpetually needful.
 These were his professions to the Senate; but the real purpose of this
 ingenious arrangement was the disarming of the Republic and the securing
 to himself the absolute control of the whole standing army of the
-Empire. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> The scheme was
+Empire. [^2] The scheme was
 sufficiently transparent; but there was no sturdy national life in Italy
 to resist his despotic innovations, and no foreign civilized powers to
 arrest the advance of imperial aggrandizement. Thus it came to pass that
@@ -57,7 +57,7 @@ styled “Propraetor” or “ANTISTRATEIGOS”, but he is more properly
 “Legatus” or “PRESBUTEIS” – the representative or “Commissioner” or the
 Emperor. He goes out from Italy with all the pomp of a military
 commander, and he does not return until the Emperor recalls him.
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> And to complete the
+[^3] And to complete the
 symmetry and consistency of the system, the subordinate districts or
 these imperial provinces are regulated by the Emperor’s “Procurator”
 (EPITROPOS), or “High Steward.” The New Testament, in the strictest
@@ -70,7 +70,7 @@ us that Syria was an imperial province, and no such title as “Proconsul”
 is assigned by the sacred writers to “Cyrenius Governor of Syria,” (Luke
 2:2) or to Pilate, Festus, and Felix, the Procurators of Judea, which
 was a dependency of that great and unsettled province.
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup>
+[^4]
 
 Dio Cassius informs us, in the same passage where he tells us that Asia
 and Achaia were provinces of the Senate, that Cyprus was retained by the

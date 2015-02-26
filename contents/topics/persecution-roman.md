@@ -20,7 +20,7 @@ Christendom, and the Vatican hill the Golgotha of the West. Peter and
 Paul, like a new Romulus and Remus, laid the foundation of a spiritual
 empire vaster and more enduring than that of the Caesars. The cross was
 substituted for the sword as the symbol of conquest and power.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+[^1]
 
 But the change was effected at the sacrifice of precious blood. The
 Roman empire was at first, by its laws of justice, the protector of
@@ -32,9 +32,9 @@ conflict with the new religion, and opened, in the name of idolatry and
 patriotism, a series of intermittent persecutions, which ended at last
 in the triumph of the banner of the cross at the Milvian bridge.
 Formerly a restraining power that kept back for a while the outbreak of
-Antichrist, <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> it now openly
+Antichrist, [^2] it now openly
 assumed the character of Antichrist with fire and sword.
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
+[^3]
 
 Nero
 ----
@@ -65,7 +65,7 @@ and Poppaea), his teacher (Seneca), and many eminent Romans, was fitly
 followed by his suicide in the thirty-second year of his age. With him
 the family of Julius Caesar ignominiously perished, and the empire
 became the prize of successful soldiers and adventurers.
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup>
+[^4]
 
 The Conflagration in Rome
 -------------------------
@@ -76,12 +76,12 @@ a fearful conflagration of Rome, the most destructive and disastrous
 that ever occurred in history. It broke out in the night between the
 18th and 19th of July, among the wooden shops in the south-eastern end
 of the Great Circus, near the Palatine hill.
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> Lashed by the wind, it
+[^5] Lashed by the wind, it
 defied all exertions of the firemen and soldiers, and raged with
 unabated fury for seven nights and six days. Then it burst out again in
 another part, near the field of Mars, and in three days more laid waste
 two other districts of the city.
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>
+[^6]
 
 The calamity was incalculable. Only four of the fourteen regions into
 which the city was divided, remained uninjured; three, including the
@@ -1030,7 +1030,7 @@ newly discovered letter of Serapion, written about 75, as showing the
 effect which the destruction of Jerusalem exerted on thoughtful minds.
 See above, p. 171.
 
-[1](#sdfootnote1anc) Lange on Romans, p. 29 (Am. ed.): “As the light and
+[^1]: Lange on Romans, p. 29 (Am. ed.): “As the light and
 darkness of Judaism was centralized in Jerusalem, the theocratic city of
 God (the holy city, the murderer of the prophets), so was heathen Rome,
 the humanitarian metropolis of the world, the centre of all the elements
@@ -1043,7 +1043,7 @@ especially, stands forth as a shining light of the nations, which is
 turned into an idol of magical strength to those who are subject to its
 rule.”
 
-[2](#sdfootnote2anc) In 2 Thess. 2:6, 7, to; katevcon is the Roman
+[^2]: In 2 Thess. 2:6, 7, to; katevcon is the Roman
 empire, oJ katevcwn the emperor as its representative. This is the
 patristic interpretation to which some of the beat modern commentators
 have returned. Mediaeval sects and many Protestant writers found the
@@ -1054,17 +1054,17 @@ believe in a repeated and growing fulfilment of this and other
 prophecies on the historic basis of the apostolic age and the old Roman
 empire.
 
-[3](#sdfootnote3anc) It is so represented in Revelation 13 –18 after the
+[^3]: It is so represented in Revelation 13 –18 after the
 Neronian persecution.
 
-[4](#sdfootnote4anc) Comp. Renan’s portraiture of Nero, l.c. ch. I. He
+[^4]: Comp. Renan’s portraiture of Nero, l.c. ch. I. He
 thinks that there is no parallel to this monster, and calls him ‘un
 esprit prodigieusement déclamatoire, une mauvaise nature, hypocrite,
 légère, vaniteuse; un composé incroyable d’intelligence fausse, de
 méchanceté profonde, d’égoïsme atroce et sournois, avee des raffinements
 inouïs de subtilité.’
 
-[5](#sdfootnote5anc) For a description of the Circus Maximus see
+[^5]: For a description of the Circus Maximus see
 Friedländer, III. 293 sqq. The amphitheatrical rows of seats were eight
 stadia long, with accommodation for 150,000 persons. After Nero’s
 reconstruction the seats amounted to 250,000 under Vespasianum, and
@@ -1075,5 +1075,5 @@ of amusements. Nero was most extravagant in his expenditure for the
 circus and the theatre to gratify the people’s passion for Panem et
 Circenses, to use Juvenal’s words.
 
-[6](#sdfootnote6anc)
+[^6]:
 

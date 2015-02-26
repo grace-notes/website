@@ -177,7 +177,7 @@ sacrifices, tithes, first-fruits, Sabbatical and Jubilee years, must
 first set aside the Pentateuch, unless, as in Christianity, all these be
 regarded as blossoms designed to ripen into fruit, as types pointing to,
 and fulfilled in higher realities.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> Outside the land even the
+[^1] Outside the land even the
 people are no longer Israel: in view of the Gentiles they are Jews; in
 their own view, “the dispersed abroad.”
 
@@ -243,7 +243,7 @@ they cling to its ruins, and believe, hope, and pray–oh, how ardently!
 in almost every prayer–for the time that shall come, when the land, like
 Sarah of old, will, at the bidding of the Lord, have youth, beauty, and
 fruitfulness restored, and in Messiah the King “a horn of salvation
-shall be raised up” <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> to
+shall be raised up” [^2] to
 the house of David.
 
 Yet it is most true, as noticed by a recent writer, that no place could
@@ -442,10 +442,10 @@ exercised a decisive influence. Thus the environs of Ascalon, the wall
 of Caesarea, and that of Acco, were reckoned within the boundaries of
 Palestine, though the cities themselves were not. Indeed, viewing the
 question from this point, Palestine was to the Rabbis simply “the land,”
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> all other countries being
+[^3] all other countries being
 summed up under the designation of “outside the land.” In the Talmud,
 even the expression “Holy Land,” so common among later Jews and
-Christians, <sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> does not once
+Christians, [^4] does not once
 occur.
 
 It needed not that addition, which might have suggested a comparison
@@ -487,12 +487,12 @@ unto Amanah” (supposed to be a mountain near Antioch, in Syria); while
 the third, seemingly indicating certain ideal outlines, was probably
 intended to mark what “the land” would have been, according to the
 original promise of God, although it was never possessed to that extent
-by Israel. <sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> For our
+by Israel. [^5] For our
 present purpose, of course, only the first of these definitions must be
 applied to “the land.”
 
 We read in Menachoth vii. 1: "Every offering,
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup> whether of the
+[^6] whether of the
 congregation or of an individual (public or private), may come from ‘the
 land,’ or from ‘outside the land, be of the new product (of the year) or
 of old product, except the omer (the wave-sheaf at the Passover) and the
@@ -501,7 +501,7 @@ two loaves (at Pentecost), which may only be brought from new product
 land.’" To these two, the Mishnah adds in another passage (Chel. i. 6)
 also the Biccurim, or first-fruits in their fresh state, although
 inaccurately, since the latter were likewise brought from what is called
-by the Rabbis Syria, <sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup>
+by the Rabbis Syria, [^7]
 which seems to have been regarded as, in a sense, intermediate between
 “the land” and “outside the land.”
 
@@ -535,7 +535,7 @@ possessed before and after the Exile, while he also distinguishes
 between Egypt, Babylon, Moab, and Ammon, and other lands (Hilch. Ther.
 i. 6). In popular estimate other distinctions were likewise made. Thus
 Rabbi Jose of Galilee would have it (Bicc. i. 10), that Biccurim
-<sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup> were not to be brought
+[^8] were not to be brought
 from the other side of Jordan, “because it was not a land flowing with
 milk and honey.”
 
@@ -740,7 +740,7 @@ the educated classes in the country; it was necessary for intercourse
 with the Roman authorities, with the many civil and military officials,
 and with strangers; the “superscription” on the coins was in Greek, even
 though, to humour the Jews, none of the earlier Herods had his own image
-impressed on them. <sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup>
+impressed on them. [^9]
 Significantly enough, it was Herod Agrippa I, the murderer of St. James,
 and the would-be murderer of St. Peter, who introduced the un-Jewish
 practice of images on coins. Thus everywhere the foreign element was
@@ -767,7 +767,7 @@ soldiers. Everywhere the foreigner was in sight; his were the taxes
 levied, the soldiery, the courts of ultimate appeal, the government. In
 Jerusalem they hung over the Temple as a guard in the fortress of
 Antonia, and even kept in their custody the high-priest’s garments,
-<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> so that, before
+[^10] so that, before
 officiating in the Temple, he had actually always to apply for them to
 the procurator or his representative! They were only just more tolerable
 as being downright heathens than the Herodians, who mingled Judaism with
@@ -863,7 +863,7 @@ unclean! Assuredly, the history of nations chronicles their judgment;
 and it is strangely significant, that the authoritative collection of
 Jewish traditional law, known as the Mishnah, and the so-called
 Jerusalem Talmud, which is its Palestinian commentary,
-<sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup> should finally have
+[^11] should finally have
 issued from what was originally a heathen city, built upon the site of
 old forsaken graves.
 
@@ -1038,7 +1038,7 @@ Galilee, mentioned in the New Testament, may be of interest. Along the
 lake lay, north, Capernaum, a large city; and near it, Chorazin, so
 celebrated for its grain, that, if it had been closer to Jerusalem, it
 would have been used for the Temple; also Bethsaida,
-<sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup> the name, “house of
+[^12] the name, “house of
 fishes,” indicating its trade.
 
 Capernaum was the station where Matthew sat at the receipt of custom
@@ -1138,7 +1138,7 @@ Galileans as hard-working, manly, and brave; and even the Talmud admits
 
 But the district in Galilee to which the mind ever reverts, is that
 around the shores of its lake.
-<sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> Its beauty, its
+[^13] Its beauty, its
 marvellous vegetation, its almost tropical products, its wealth and
 populousness, have been often described. The Rabbis derive the name of
 Gennesaret either from a harp–because the fruits of its shores were as
@@ -1386,7 +1386,7 @@ strangers” (Jer 41:17), wrongly rendered “habitation” in our Authorised
 Version. In the Talmud their designations are either Greek or Latin, in
 Aramaic form–one of them being the same as that used in Luke
 10:34–proving that such places were chiefly provided by and for
-strangers. <sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup>
+strangers. [^14]
 
 In later times we also read of the oshpisa–evidently from hospitium, and
 showing its Roman origin–as a house of public entertainment, where such
@@ -1489,7 +1489,7 @@ up to the age of sixty-five–women being liable from the age of twelve
 and men from that of fourteen. Landed property was subject to a tax of
 one-tenth of all grain, and one-fifth of the wine and fruit grown,
 partly paid in product and partly commuted into money.
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup>
+[^15]
 
 Besides these, there was tax and duty on all imports and exports, levied
 on the great public highways and in the seaports. Then there was
@@ -1653,7 +1653,7 @@ the Rabbis had it, even the angel of death was shorn of his power. Then
 he stood on the plateau of Ramah, with the neighbouring heights of
 Gibeon and Gibeah, round which so many events in Jewish history had
 clustered. In Ramah Rachel died, and was buried.
-<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup>
+[^16]
 
 We know that Jacob set up a pillar on her grave. Such is the reverence
 of Orientals for the resting-places of celebrated historical personages,
@@ -1686,7 +1686,7 @@ Philistia. Turning thence to the south, beyond the capital was royal
 Bethlehem, and still farther the priest-city Hebron, with its caves
 holding Israel’s most precious dust. That highland plateau was the
 wilderness of Judaea, variously named from the villages which at long
-distances dotted it; <sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup>
+distances dotted it; [^17]
 desolate, lonely, tenanted only by the solitary shepherd, or the great
 proprietor, like Nabal, whose sheep pastured along it heights and in its
 glens.
@@ -1730,7 +1730,7 @@ Sea, seemingly almost reluctant to lose its waters in that slimy mass
 anchorites, wild fanatics, such were the figures to be met on that
 strange scene; and almost within hearing were the sacred sounds from the
 Temple-mount in the distance.
-<sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup>
+[^18]
 
 It might be so, as the heathen historian put it in regard to Judaea,
 that no one could have wished for its own sake to wage serious warfare
@@ -1873,13 +1873,13 @@ the well-known pages of Daniel. The popular apocalyptic literature of
 the period, especially the so-called “Book of Enoch,” not only kept this
 designation in popular memory, but enlarged on the judgment which He was
 to execute on Gentile kings and nations."
-<sup>**[<sup>19</sup>](#sdfootnote19sym)**</sup> “Wilt Thou at this time
+[^19] “Wilt Thou at this time
 restore the kingdom to Israel?” was a question out of the very heart of
 Israel.
 
 Even John the Baptist, in the gloom of his lonely prison, staggered not
 at the person of the Messiah, but at the manner in which He seemed to
-found His kingdom. <sup>**[<sup>20</sup>](#sdfootnote20sym)**</sup> He
+found His kingdom. [^20] He
 had expected to hear the blows of that axe which he had lifted fall upon
 the barren tree, and had to learn that the innermost secret of that
 kingdom–carried not in earthquake of wrath, nor in whirlwind of
@@ -2121,7 +2121,7 @@ blasphemously altered names. The statements are, in their present form,
 whether from ignorance, design, or in consequence of successive
 alterations, confused, and they mix up different events and persons in
 Gospel history; among other things representing our Lord as condemned at
-Lydda. <sup>**[<sup>21</sup>](#sdfootnote21sym)**</sup>
+Lydda. [^21]
 
 But there can be no reasonable question that they refer to our blessed
 Lord and His condemnation for supposed blasphemy and seduction of the
@@ -2151,7 +2151,7 @@ towards Lod with the spread of Christianity. Lydda must have been a very
 beautiful and a very busy place. The Talmud speaks in exaggerated terms
 of the honey of its dates (Cheth. iii. a), and the Mishnah (Baba M. iv.
 3) refers to its merchants as a numerous class, although their honesty
-is not extolled. <sup>**[<sup>22</sup>](#sdfootnote22sym)**</sup>
+is not extolled. [^22]
 
 Near Lydda, eastwards, was the village of Chephar Tabi. We might be
 tempted to derive from it the name of Tabitha (Acts 9:36), if it were
@@ -2166,7 +2166,7 @@ migration of men to distant parts of the earth? The exact location of
 Emmaus, for ever sacred to us by the manifestation of the Saviour to the
 two disciples (Luke 24:13), is matter of controversy. On the whole, the
 weight of evidence still inclines to the traditional site.
-<sup>**[<sup>23</sup>](#sdfootnote23sym)**</sup>
+[^23]
 
 If so, it had a considerable Jewish population, although it was also
 occupied by a Roman garrison. Its climate and waters were celebrated, as
@@ -2199,7 +2199,7 @@ here was the station where shepherd watched their flocks destined for
 sacrifices in the Temple. So well known was this, that if animals were
 found as far from Jerusalem as Migdal Eder, and within that circuit on
 every side, the males were offered as burnt-offerings, the females as
-peace-offerings. <sup>**[<sup>24</sup>](#sdfootnote24sym)**</sup>
+peace-offerings. [^24]
 
 R. Jehudah adds: “If suited for Paschal sacrifices, then they are
 Paschal sacrifices, provided it be not more than thirty days before the
@@ -2211,7 +2211,7 @@ as sacrifices in the Temple. There was the type, and here the reality.
 At all times Bethlehem was among “the least” in Judah–so small that the
 Rabbis do not even refer to it in detail. The small village-inn was
 over-crowded, and the guests from Nazareth found shelter only in the
-stable, \*<sup>**[<sup>25</sup>](#sdfootnote25sym)**</sup> whose manger
+stable, \*[^25] whose manger
 became the cradle of the King of Israel.
 
 It was here that those who tended the sacrificial flocks,
@@ -2243,7 +2243,7 @@ another verse which, as we may suggest, would find a fuller explanation
 in the fact that these shepherds tended the Temple flocks. When in Luke
 2:20 we read that “the shepherds returned, glorifying and praising God,”
 the meaning in that connection
-<sup>**[<sup>26</sup>](#sdfootnote26sym)**</sup> seems somewhat
+[^26] seems somewhat
 difficult till we realise that, after bringing their flocks to the
 Temple, they would return to their own homes, and carry with them,
 joyfully and gratefully, tidings of the great salvation.
@@ -2257,7 +2257,7 @@ to Jerusalem, and not regularly pasturing in the open at that season.
 And, secondly, the Mishnah evidently contemplates their being thus in
 the open thirty days before the Passover, or in the month of February,
 during which the average rainfall is quite the largest in the year.
-<sup>**[<sup>27</sup>](#sdfootnote27sym)**</sup>
+[^27]
 
 “Ten measures of beauty,” say the Rabbis, “hath God bestowed upon the
 world, and nine of these fall to the lot of Jerusalem”–and again, “A
@@ -2348,7 +2348,7 @@ remembering that the time to which it refers was in all probability the
 very year in which our Lord died on the cross, reads like an unwilling
 confirmation of the Gospel narrative: "Forty years before the
 destruction of the Temple, its doors opened of their own accord.
-Jochanan, <sup>**[<sup>28</sup>](#sdfootnote28sym)**</sup> the son of
+Jochanan, [^28] the son of
 Saccai, rebuked them, saying: O Temple, why openest thou of thine own
 accord? Ah! I perceive that thine end is at hand; for it is written
 (Zech 11:1): ‘Open thy doors, O Lebanon, that the fire may devour thy
@@ -2396,7 +2396,7 @@ time of Joshua, and those of later date. A township might be either
 “great,” if it had its synagogue, or small, if it wanted such; this
 being dependent on the residence of at least ten men, who could always
 be reckoned upon to form a quorum for the worship of the synagogue (the
-so-called Batlanin <sup>**[<sup>29</sup>](#sdfootnote29sym)**</sup> );
+so-called Batlanin [^29] );
 for service could not be celebrated with any less number of males.
 
 The villages had no synagogue; but their inhabitants were supposed to go
@@ -2509,10 +2509,10 @@ juridical purposes into five districts, each presided over by a council
 (Josephus, Ant. xiv, 91); but that arrangement was only of very short
 duration, and even while it lasted these councils seem to have been
 Jewish. Then every town had is Sanhedrin,
-<sup>**[<sup>30</sup>](#sdfootnote30sym)**</sup> consisting of
+[^30] consisting of
 twenty-three members if the place numbered at least one hundred and
 twenty men, or of three members if the population were smaller.
-<sup>**[<sup>31</sup>](#sdfootnote31sym)**</sup>
+[^31]
 
 These Sanhedrists were appointed directly by the supreme authority, or
 Great Sanhedrin, “the council,” at Jerusalem, which consisted of
@@ -2918,7 +2918,7 @@ understand what was taught, in however elementary language–before it
 would even take in the domestic rites of the recurring weekly festival,
 or those of the annual feasts–it must have been attracted by the
 so-called “Mesusah,” which was fastened at the door-post of every
-“clean” apartment, <sup>**[<sup>32</sup>](#sdfootnote32sym)**</sup> and
+“clean” apartment, [^32] and
 at the entrance of such houses as were inhabited by Jews exclusively.
 
 The “Mesusah” was a kind of phylactery for the house, serving a purpose
@@ -2927,7 +2927,7 @@ from a misunderstanding and misapplication of the Divine direction (Deu
 6:9, 11:20), taking in the letter what was meant for the spirit. But
 while we gladly concede that the earlier Jewish practice was free from
 some of the present almost semi-heathenish customs,
-<sup>**[<sup>33</sup>](#sdfootnote33sym)**</sup> and further, that many
+[^33] and further, that many
 houses in Palestine were without it, there can be little doubt that,
 even at the time of Christ, this “Mesusah” would be found wherever a
 family was at all Pharisaically inclined.
@@ -3107,13 +3107,13 @@ have been situate beyond Seir–that is, to the south-east of Palestine,
 in Northern Arabia. Whether the Ishmaelites of Massa had come to the
 knowledge of Jehovah, the true God; whether Massa was occupied by a
 Jewish colony, which there established the service of the Lord;
-<sup>**[<sup>34</sup>](#sdfootnote34sym)**</sup> or whether, through the
+[^34] or whether, through the
 influence of Hebrew immigrants, such a religious change had been brought
 about, certain it is, that the two last chapters of the book of Proverbs
 introduce the royal family of Massa as deeply imbued with the spiritual
 religion of the Old Testament, and the queen- mother as training the
 heir to the throne in the knowledge and fear of the Lord.
-<sup>**[<sup>35</sup>](#sdfootnote35sym)**</sup>
+[^35]
 
 Indeed, so much is this the case, that the instruction of the queen of
 Massa, and the words of her two royal sons, are inserted in the book of
@@ -3121,7 +3121,7 @@ Proverbs as part of the inspired records of the Old Testament. According
 to the best criticism, Proverbs 30:1 should be thus rendered: “The words
 of Agur, the son of her whom Massa obeys. Spake the man to
 God-with-me–God with me, and I was strong.”
-<sup>**[<sup>36</sup>](#sdfootnote36sym)**</sup>
+[^36]
 
 Then Proverbs 31 embodies the words of Augur’s royal brother, even “the
 words of Lemuel, king of Massa, with which his mother taught him.” If
@@ -3155,7 +3155,7 @@ The first of these presents a most touching instance of a mother’s
 faith, and prayers, and labour of love, to which the only parallel in
 later history is that of Monica, the mother of St. Augustine. How
 Eunice, the daughter of the pious Lois, had come to marry a heathen,
-<sup>**[<sup>37</sup>](#sdfootnote37sym)**</sup> we know as little as
+[^37] we know as little as
 the circumstances which may have originally led the family to settle at
 Lystra (Acts 16:1; compare 14:6, etc.), a place where there was not even
 a synagogue.
@@ -3184,7 +3184,7 @@ most powerful. It was that of “mother of Israel.” From the time that as
 a “taph” he clung to her–even before that, when a “gamul,” an “olel,”
 and a “jonek”–had Eunice trained Timothy in the nurture and admonition
 of the Lord. To quote again the forcible language of St. Paul, “From an
-infant” <sup>**[<sup>38</sup>](#sdfootnote38sym)**</sup> (or baby) “thou
+infant” [^38] (or baby) “thou
 hast known the Holy Scriptures, which are able to make thee wise unto
 salvation, through faith which is in Christ Jesus.”
 
@@ -3218,7 +3218,7 @@ Psalter, or a roll of one or more of the Prophets. Besides, we know from
 the Talmud that at a later period, and probably at the time of Christ
 also, there were little parchment rolls specially for the use of
 children, containing such portions of Scripture as the “Shema”
-<sup>**[<sup>39</sup>](#sdfootnote39sym)**</sup> (Deut 6:4-9, 11:13-21;
+[^39] (Deut 6:4-9, 11:13-21;
 Num 15:37-41), the “Hallel” (Psa 113-118), the history of the Creation
 to that of the Flood, and the first eight chapters of the book of
 Leviticus. Such means of instruction there would be at the disposal of
@@ -3343,7 +3343,7 @@ of Israel, it would be scarcely possible to speak with any propriety of
 family life, or even of the family, as we understand these terms. It is
 significant, that the Roman historian Tacitus should mark it as
 something special among the Jews
-<sup>**[<sup>40</sup>](#sdfootnote40sym)**</sup>–which they only shared
+[^40]–which they only shared
 with the ancient barbarian Germans–that they regarded it as a crime to
 kill their offspring!
 
@@ -3366,7 +3366,7 @@ tenderness, delicacy, and charity; the full picture under bright
 sunlight would have been scarcely susceptible of exhibition. For such a
 world there was only one alternative–either the judgment of Sodom, or
 the mercy of the Gospel and the healing of the Cross.
-<sup>**[<sup>41</sup>](#sdfootnote41sym)**</sup>
+[^41]
 
 When we pass from the heathen world into the homes of Israel, even the
 excess of their exclusiveness seems for the moment a relief. It is as if
@@ -3786,7 +3786,7 @@ his quotation of Genesis 18:12, and its application: “Even as Sara
 obeyed Abraham, calling him lord,” occur in precisely the same manner in
 Rabbinical writings (Tanch. 28, 6), where her respect and obedience are
 likewise set forth as a pattern to her daughters.
-<sup>**[<sup>42</sup>](#sdfootnote42sym)**</sup>
+[^42]
 
 Some further details may illustrate the matter better than arguments.
 The creation of woman from the rib of Adam is thus commented on (Shab.
@@ -3830,7 +3830,7 @@ Ish, his wife is Ishah, simply his equal; if the husband is Gever, the
 ruler, the woman is, in her own domain, Gevirah and Gevereth, the
 mistress (as frequently in the history of Sarah and in other passages),
 or else the dweller at home (Nevath bayith, Psa 68:12).
-<sup>**[<sup>43</sup>](#sdfootnote43sym)**</sup>
+[^43]
 
 Nor is it otherwise in New Testament times. The ministry of woman to our
 blessed Lord, and in the Church, has almost become proverbial. Her
@@ -4104,7 +4104,7 @@ already noted, a regular divorce was necessary.
 According to Rabbinical law certain formalities were requisite to make a
 betrothal legally valid. These consisted either in handing to a woman,
 directly or through messengers, a piece of money, however small, or else
-a letter, <sup>**[<sup>44</sup>](#sdfootnote44sym)**</sup> provided it
+a letter, [^44] provided it
 were in each case expressly stated before witnesses, that the man
 thereby intended to espouse the woman as his wife.
 
@@ -4241,9 +4241,9 @@ lamps, were in expectancy of the bridegroom (Matt 25:1), is founded on
 Jewish custom. For, according to Rabbinical authority, such lamps
 carried on the top of staves were frequently used, while ten is the
 number always mentioned in connection with public solemnities.
-<sup>**[<sup>45</sup>](#sdfootnote45sym)**</sup> The marriage
+[^45] The marriage
 festivities generally lasted a week, but the bridal days extended over a
-full month. <sup>**[<sup>46</sup>](#sdfootnote46sym)**</sup>
+full month. [^46]
 
 Having entered thus fully on the subject of marriage, a few further
 particulars may be of interest. The bars to marriage mentioned in the
@@ -4309,7 +4309,7 @@ had become heretical, or ceased to profess Judaism. But even so, there
 were at least checks to the danger of general lawlessness, such as the
 obligation of paying to a wife her portion, and a number of minute
 ordinances about formal letters of divorce, without which no divorce was
-legal, <sup>**[<sup>47</sup>](#sdfootnote47sym)**</sup> and which had to
+legal, [^47] and which had to
 be couched in explicit terms, handed to the woman herself, and that in
 presence of two witnesses, etc.
 
@@ -4806,7 +4806,7 @@ sharp two-edged destroying sword. He put within it sparks of fire and
 burning coals, to punish the wicked in the world to come, because they
 had not observed the commandments of the law in this world. For the law
 is the tree of life. Whosoever observeth it shall live and subsist as
-the tree of life. <sup>**[<sup>48</sup>](#sdfootnote48sym)**</sup>
+the tree of life. [^48]
 
 Paradise and hell were supposed to be contiguous, only separated–it was
 said, perhaps allegorically–by an handbreadth. But although we may here
@@ -5105,7 +5105,7 @@ that long afterwards, when he is writing of the deepest mysteries of
 Christianity, we catch again and again expressions that remind us of
 some that occur in the earliest record of that secret Jewish doctrine,
 which was only communicated to the most select of the select sages.
-<sup>**[<sup>49</sup>](#sdfootnote49sym)**</sup>
+[^49]
 
 And this same love of honest labour, the same spirit of manly
 independence, the same horror of trafficking with the law, and using it
@@ -5226,7 +5226,7 @@ this form it is attributed to a Rabbi who is stigmatised as an apostate,
 and as the type of apostasy, and who, as such, died under the ban. The
 inference seems to be, that if he did not profess some form of
 Christianity, he had at least derived this saying from his intercourse
-with Christians. <sup>**[<sup>50</sup>](#sdfootnote50sym)**</sup>
+with Christians. [^50]
 
 But irrespective of this, two things are plain on comparison of the
 saying in its Rabbinical and in its Christian form. First, in the
@@ -5995,7 +5995,7 @@ nothing new under the sun, we are not astonished to find mention of
 hair-pins and elegant combs, nor to read that some Jewish dandies had
 their hair regularly dressed! However, the business of hairdresser was
 not regarded as very respectable, any more than that of perfumer.
-<sup>**[<sup>51</sup>](#sdfootnote51sym)**</sup>
+[^51]
 
 As for ornaments, gentlemen generally wore a seal, either on the
 ring-finger or suspended round the neck. Some of them had also bracelets
@@ -6054,7 +6054,7 @@ so, it is as much as if thou sawest the throne of the Glory, which is
 like unto blue.” And thus believing, the pious Jew would cover in prayer
 his head with this mysterious fringed garment; in marked contrast to
 which St. Paul declares all such superstitious practices as dishonouring
-(1 Cor 11:4). <sup>**[<sup>52</sup>](#sdfootnote52sym)**</sup>
+(1 Cor 11:4). [^52]
 
 If the practice of wearing borders with fringes had Scriptural
 authority, we are well convinced that no such plea could be urged for
@@ -6330,7 +6330,7 @@ party, and, in the wider diffusion of their principles, to
 Ultramontanism as a tendency. Now, all this applies equally to the
 Pharisees and to Pharisaism. To make the analogy complete, the order of
 the Jesuits also consists of four degrees
-<sup>**[<sup>53</sup>](#sdfootnote53sym)**</sup> –curiously enough, the
+[^53] –curiously enough, the
 exact number of those in the fraternity of “the Pharisees!”
 
 Like that of the Jesuits, the order of the Pharisees originated in a
@@ -6369,11 +6369,11 @@ the Christian life as that of the true “chasid,” and therefore
 “Nivdal”–in opposition to the Pharisees of externalism–in such passages
 as 2 Corinthians 6:14-7:1, closing with this admonition to "cleanse
 ourselves from all filthiness
-<sup>**[<sup>54</sup>](#sdfootnote54sym)**</sup> of the flesh and
+[^54] of the flesh and
 spirit, perfecting holiness in the fear of God." And so St. Paul’s
 former life and thinking seem ever to have served him as the type of the
 spiritual realities of his new state.
-<sup>**[<sup>55</sup>](#sdfootnote55sym)**</sup>
+[^55]
 
 Two points in Jewish history here claim our special attention, without
 attempting to unravel the whole somewhat tangled web of events. The
@@ -6425,12 +6425,12 @@ or applying later terms to earlier circumstances, since there can be
 little doubt that the Essenes, whom he names at the same time, had not
 then any corporate existence. Without questioning that, to use a modern
 term, “the direction” existed at the time of Jonathan,
-<sup>**[<sup>56</sup>](#sdfootnote56sym)**</sup> we can put our finger
+[^56] we can put our finger
 on a definite event with which the origin of “the fraternity” of the
 Pharisees is connected. From Jewish writings we learn, that at the time
 of Hyrcanus a commission was appointed to inquire throughout the land,
 how the Divine law of religious contributions was observed by the
-people. <sup>**[<sup>57</sup>](#sdfootnote57sym)**</sup>
+people. [^57]
 
 The result showed that, while the “therumah,” (see The Temple) or
 priestly “heave-offerings,” was regularly given, neither the first or
@@ -6503,7 +6503,7 @@ a novitiate required for the higher grades, similar to that on first
 entering the order; but that, just as the garment of a non-“chaber”
 defiled a “Chaber” of the first degree, that of the latter equally
 defiled him of the second degree, and so on.
-<sup>**[<sup>58</sup>](#sdfootnote58sym)**</sup>
+[^58]
 
 To sum up then: the fraternity of the Pharisees were bound by these two
 vows–that of tithing and that in regard to purifications. As the most
@@ -7006,7 +7006,7 @@ correct idea. Internally they were simply rectangular or round
 buildings, with a single or double colonnade, and more or less adorned
 by carvings. Externally they had generally some sacred symbol carved on
 the lintels–commonly the seven-branched candlestick, or perhaps the pot
-of manna. <sup>**[<sup>59</sup>](#sdfootnote59sym)**</sup>
+of manna. [^59]
 
 There is one remarkable instance of the use of the latter emblem, too
 important to be passed over. In Capernaum, our Lord’s “own city” (Matt
@@ -7354,7 +7354,7 @@ is, of course, not by Rabbis, who were merely teachers or doctors, but
 by lineal descendants of the house of Aaron. There was no service of
 “praise” in the synagogues.
 
-Public worship <sup>**[<sup>60</sup>](#sdfootnote60sym)**</sup>
+Public worship [^60]
 commenced on ordinary occasions with the so-called “Shema,” which was
 preceded in the morning and evening by two “benedictions,” and succeeded
 in the morning by one, and in the evening by two, benedictions; the
@@ -7396,7 +7396,7 @@ and in Thy goodness day by day and every day renewest the works of
 creation. Blessed be the Lord our God for the glory of His handiwork and
 for the light-giving lights which He has made for His praise. Selah!
 Blessed be the Lord our God, Who hath formed the lights.”
-<sup>**[<sup>61</sup>](#sdfootnote61sym)**</sup>
+[^61]
 
 2. “With great love hast Thou loved us, O Lord our God, and with much
 overflowing pity hast Thou pitied us, our Father and our King. For the
@@ -7573,7 +7573,7 @@ was called, repeated the words from the Scriptures in their connection.
 In giving the benediction, the priests elevated their hands up to the
 shoulders (Sotah, vii. 6); in the Temple, up to the forehead. Hence this
 rite is designated by the expression, “the lifting up of the hands.”
-<sup>**[<sup>62</sup>](#sdfootnote62sym)**</sup>
+[^62]
 
 According to the present practice, the fingers of the two hands are so
 joined together and separated as to form five interstices; and a mystic
@@ -7769,7 +7769,7 @@ the Hebrews may refer to it, when he designates the Lord Jesus “the
 Apostle and High-Priest of our profession” (Heb 3:1). Besides these
 functionaries, we also read of “Gabaei Zedakah,” or collectors of
 charity, to whom the Talmud (B. Bathra, 8 b) by a jeu de mots
-<sup>**[<sup>63</sup>](#sdfootnote63sym)**</sup> applies the promise
+[^63] applies the promise
 that they “shall be as the stars for ever and ever” (Dan 12:3), since
 they lead many to “righteousness.”
 
@@ -7850,7 +7850,7 @@ certain month of a certain year, of a certain “week” of years, of a
 certain “Jubilee”-period. Another tendency of the book, which, however,
 it has in common with all similar productions, is to trace up all later
 institutions to the patriarchal period.
-<sup>**[<sup>64</sup>](#sdfootnote64sym)**</sup>
+[^64]
 
 Besides these works, another class of theological literature has been
 preserved to us, around which of late much and most serious controversy
@@ -7973,7 +7973,7 @@ value of the word “substance” (“Yesh”) in Proverbs 8:21 being 310. On
 the other hand, the canons for the deduction of a “Halakhah” from the
 text of Scripture were much more strict and logical. Seven such rules
 are ascribed to Hillel, which were afterwards enlarged to thirteen.
-<sup>**[<sup>65</sup>](#sdfootnote65sym)**</sup>
+[^65]
 
 Little objection can be taken to them; but unfortunately their practical
 application was generally almost as fanciful, and certainly as
@@ -8026,7 +8026,7 @@ Mishnah for which we have no Gemara, either in the Jerusalem or in the
 Babylon Talmud. Lastly, the Babylon Talmud is more than four times the
 size of that of Jerusalem. Obviously this is not the place for giving
 even the briefest outline of the contents of the Mishnah.
-<sup>**[<sup>66</sup>](#sdfootnote66sym)**</sup>
+[^66]
 
 Suffice it here to state that it consists of six books (“sedarim,”
 “orders”), which are subdivided into Tractates (“Massichthoth”), and
@@ -8179,7 +8179,7 @@ gate. That in the east was the gate of Nicanor, and two chambers
 belonged to it, one on the right hand, and one on the left–the one the
 chamber of Phineas, the wardrobe keeper, and the other the chamber of
 those who made the pancake offering.
-<sup>**[<sup>67</sup>](#sdfootnote67sym)**</sup>
+[^67]
 
 5. And that on the north was the gate Nitsuts, and it was after the form
 of an Exhedra, and an Alijah was built on the top of it; and the priests
@@ -8319,7 +8319,7 @@ for laying the sacrifices: 20 by 20. But when the children of the
 Captivity came up, they added to it 4 cubits on the south and 4 on the
 west like a gamma, because it is said, ‘And Ariel shall be 12 cubits
 long by 12 broad, square.’
-<sup>**[<sup>68</sup>](#sdfootnote68sym)**</sup> That does not mean that
+[^68] That does not mean that
 it was only 12 by 12, since it is added: ‘In the four corners thereof,’
 to teach that it measured from the middle 12 cubits in every direction."
 
@@ -8388,7 +8388,7 @@ the entrance to the Sanctuary, and was suspended on the top of beams.
 Every one who vowed a leaf, or a berry, or a bunch, brought it, and hung
 it up there. Rabbi Eliezer, the son of Rabbi Zadok, said: “It happened
 (that they had to remove it) and there were numbered for it 300
-priests.” <sup>**[<sup>69</sup>](#sdfootnote69sym)**</sup>
+priests.” [^69]
 
 Perek IV.
 
@@ -8400,7 +8400,7 @@ the thickness of the wall, and the inner doors opened inwards into the
 house, to cover behind the doors. For, the whole house was covered with
 gold, except behind the doors. Rabbi Jehudah said: "They [both pairs of
 doors] stood within the entrance, and were like Azteramita,
-<sup>**[<sup>70</sup>](#sdfootnote70sym)**</sup> and they folded
+[^70] and they folded
 backwards–these 2 1/2 cubits, and those 2 1/2 cubits. Half a cubit the
 door-post from this [corner], and half a cubit the doorpost from that,
 and so it is said: ‘And the doors had two leaves alike, two
@@ -8539,8 +8539,8 @@ Introduction.
 
 Mishnah–From what time is the “Shema” said in the evening? From the hour
 that the priests entered to eat of their therumah
-<sup>**[<sup>71</sup>](#sdfootnote71sym)**</sup> until the end of the
-first night watch. <sup>**[<sup>72</sup>](#sdfootnote72sym)**</sup>
+[^71] until the end of the
+first night watch. [^72]
 These are the words of Rabbi Eliezer. But the sages say: Till midnight.
 Rabban Gamaliel says: Until the column of the morning (the dawn) rises.
 It happened, that his sons came back from a banquet. They said to him:
@@ -8549,7 +8549,7 @@ morning has not come up, you are bound to say it.” And not only this
 have they said, but, wherever the sages have said “till midnight,” their
 command applies till the morning column rises. The burning of the fat
 and of the members (of sacrifices) is lawful till the morning column
-rise; <sup>**[<sup>73</sup>](#sdfootnote73sym)**</sup> and so everything
+rise; [^73] and so everything
 which is to be eaten on the same day (on which it has been offered) is
 allowed to be eaten till the rise of the morning column. If so, why do
 the sages say, “till midnight?” In order to keep a man far from
@@ -8605,7 +8605,7 @@ ruin, and I learned that one may pray on the road, and I learned that he
 that prays on the road should pray a short prayer. He also said to me,
 ‘My son, what voice hast thou heard in that ruin?’ And I said to him, ’I
 have heard the”Bath Kol,"
-<sup>**[<sup>74</sup>](#sdfootnote74sym)**</sup> which cooed like a
+[^74] which cooed like a
 dove, and said, “Woe to the children, because on account of their sins I
 have laid waste My House, and I have burned My Sanctuary, and I have
 driven them forth among the nations.”‘And he said to me, ’By thy life,
@@ -8620,13 +8620,13 @@ been driven forth from the table of their father.’"
 
 The Rabbis teach: On account of three things a ruin is not to be
 entered. On account of suspicion,
-<sup>**[<sup>75</sup>](#sdfootnote75sym)**</sup> and on account of
+[^75] and on account of
 falling in (of the wall), and on account of evil spirits. On account of
 suspicion–does it not suffice on account of falling in? (Would that not
 have been alone a sufficient ground?) Fol. 3 b. Not if it is recent.
-<sup>**[<sup>76</sup>](#sdfootnote76sym)**</sup> But would it not
+[^76] But would it not
 suffice: On account of evil spirits? Not when there are two.
-<sup>**[<sup>77</sup>](#sdfootnote77sym)**</sup> If there are two, does
+[^77] If there are two, does
 not the ground of suspicion cease? Not if the two are impudent.
 
 The Rabbis taught: The night has four watches. These are the words of
@@ -8649,7 +8649,7 @@ may be said); for this is the way of kings, to rise at three hours
 (after daybreak). Six hours of the night (from midnight to dawn are six
 hours) and two by day make together two night watches” (each of four
 hours). Rabbi Ashi says: “A night watch and a half might also be called
-night watches.” <sup>**[<sup>78</sup>](#sdfootnote78sym)**</sup>
+night watches.” [^78]
 
 Rabbi Serika also said, that Rabbi Ami said, that Rabbi Joshua, the son
 of Levi, said: “You must not speak before the dead anything but the
@@ -8705,15 +8705,15 @@ text), and Abiathar; and the general of the king’s army was Joab.’
 Ahithophel, he was the counsellor, and so it is said (2 Sam 16:23), ‘And
 the counsel of Ahithophel, which he counselled in those days, was as if
 a man had inquired at the oracle of God.’ Benajahu, the son of Jehoiada,
-that is the Sanhedrim, <sup>**[<sup>79</sup>](#sdfootnote79sym)**</sup>
+that is the Sanhedrim, [^79]
 and Abiathar; these are the Urim and Thummim. And so it is said (2 Sam
 20:23), ‘And Benaiah, the son of Jehoiada, was over the Cherethites, and
 over the Pelethites.’ And why was their name called Cherethites and
 Pelethites? Cherethites, because they cut short their words, and
 Pelethites, because they were wonderful in their words.
-<sup>**[<sup>80</sup>](#sdfootnote80sym)**</sup> And after these was
+[^80] And after these was
 Joab, the general of the king." Rabbi Isaac, the son of Idi, said, "Some
-say, what else <sup>**[<sup>81</sup>](#sdfootnote81sym)**</sup> means
+say, what else [^81] means
 the Scripture (Psa 57:8), ‘Awake up, my glory; awake, psaltery and harp;
 I myself will wake the morning?’" Rabbi Seria said, “Moses knew it (the
 midnight hour), and so also did David know it. But if David knew it, for
@@ -8744,7 +8744,7 @@ with hope, and place our portion in Paradise. Order us in good
 fellowship, and with the inclination for good in this world, that we may
 rise and find our hearts in the fear of Thy Name, and that the desire of
 our souls may come before Thee for good.”
-<sup>**[<sup>82</sup>](#sdfootnote82sym)**</sup>
+[^82]
 
 Rabbi Jochanan, after he had finished his prayer, said thus: “May it
 please Thee, O Lord our God, that Thou mayest look upon our shame and
@@ -8777,7 +8777,7 @@ accident, from the evil impulse, from an evil companion, from an evil
 neighbour, from Satan the destroyer, from a severe judgment, and from a
 severe opponent, whether he be a son of the covenant or not.” And this,
 although the officers stood around Rabbi.
-<sup>**[<sup>83</sup>](#sdfootnote83sym)**</sup>
+[^83]
 
 Rabbi Saphra, after he had finished his prayers, said thus: “May it
 please Thee, O Lord our God, that Thou wilt put peace among the family
@@ -8852,7 +8852,7 @@ pass, nor yet a bad dream in which everything comes to pass.” Also Rabbi
 Chisda said: “An evil dream is better than a good dream.” Also Rabbi
 Chisda said: “An evil dream, its sorrow is sufficient; a good dream, its
 pleasure is sufficient.” Rabbi Joseph said: “A good dream even the joy
-with me annuls it.” <sup>**[<sup>84</sup>](#sdfootnote84sym)**</sup>
+with me annuls it.” [^84]
 Rabbi Chisda also said: “An evil dream is heavier than a chastisement,
 for it is written (Eccl 3:14), ‘And God doeth it, that men should fear
 before Him.’” And Rabbah, the grandson of Chanah, said, Rabbi Jochanan
@@ -9073,7 +9073,7 @@ Talmud. They will show the necessity of discrimination, and how readily
 the Talmud, as a whole, may be either decried by enemies or unduly
 exalted by a judicious selection of passages.]
 
-[1](#sdfootnote1anc) This is not the place to explain what substitution
+[^1]: This is not the place to explain what substitution
 Rabbinism proposed for sacrifices, etc. I am well aware that modern
 Judaism tries to prove by such passages as 1 Sam 15:22; Psa 51:16, 17;
 Isa 1:11-13; Hosea 6:6, that, in the view of the prophets, sacrifices,
@@ -9085,21 +9085,21 @@ had intended by their teaching, not to explain or apply, but to set
 aside the law so solemnly given on Sinai. However, the device is not
 new.
 
-[2](#sdfootnote2anc) These are words of prayer taken from one of the
+[^2]: These are words of prayer taken from one of the
 most ancient fragments of the Jewish liturgy, and repeated, probably for
 two thousand years, every day by every Jew.
 
-[3](#sdfootnote3anc) So mostly; the expression also occurs “the land of
+[^3]: So mostly; the expression also occurs “the land of
 Israel.”
 
-[4](#sdfootnote4anc) The only passage of Scripture in which the term is
+[^4]: The only passage of Scripture in which the term is
 used is Zech 2:12, or rather 2:16 of the Hebrew original.
 
-[5](#sdfootnote5anc) The expressions in the original are so obscure as
+[^5]: The expressions in the original are so obscure as
 to render it difficult to form a quite definite judgment. In the text we
 have followed the views expressed by M. Neubauer.
 
-[6](#sdfootnote6anc) Neither of the English words: “sacrifice,”
+[^6]: Neither of the English words: “sacrifice,”
 “offering,” or “gift” quite corresponds to the Hebrew Korban, derived
 from a verb which in one mood means to be near, and in another to bring
 near. In the one case it would refer to the offerings themselves, in the
@@ -9107,20 +9107,20 @@ other to the offerers, as brought near, the offerings bringing them near
 to God. The latter seems to me both etymologically and theologically the
 right explanation. Aberbanel combines both in his definition of Korban.
 
-[7](#sdfootnote7anc) Syria sent Biccurim to Jerusalem, but was not
+[^7]: Syria sent Biccurim to Jerusalem, but was not
 liable to second tithes, nor for the fourth year’s product of plants
 (Lev 19:24).
 
-[8](#sdfootnote8anc) For a full explanation of the distinction between
+[^8]: For a full explanation of the distinction between
 Biccurim and Therumoth see my work on The Temple: Its Ministry and
 Services as they were at the time of Jesus Christ.
 
-[9](#sdfootnote9anc) The coin mentioned in Matthew 22:20, which bore an
+[^9]: The coin mentioned in Matthew 22:20, which bore an
 “image,” as well as a “superscription,” must therefore have been either
 struck in Rome, or else one of the tetrarch Philip, who was the first to
 introduce the image of Caesar on strictly Jewish coins.
 
-[10](#sdfootnote10anc) The practice commenced innocently enough. The
+[^10]: The practice commenced innocently enough. The
 high-priest Hyrcanus, who built the Tower of Baris, kept his dress
 there, and his sons continued the practice. When Herod seized the
 government, he retained, for reasons readily understood, this custody,
@@ -9132,35 +9132,35 @@ burning there. Vitellius, the successor of Pilate, restored to the Jews
 the custody of the high-priestly garments, when they were kept in a
 special apartment in the Temple.
 
-[11](#sdfootnote11anc) There are two Talmuds–the Jerusalem and the
+[^11]: There are two Talmuds–the Jerusalem and the
 Babylonian–to the text of the Mishnah. The Babylonian Talmud is
 considerably younger than that of Jerusalem, and its traditions far more
 deeply tinged with superstition and error of every kind. For historical
 purposes, also, the Jerusalem Talmud is of much greater value and
 authority than that of the Eastern Schools.
 
-[12](#sdfootnote12anc) Three were two places of that name, one east of
+[^12]: Three were two places of that name, one east of
 the Jordan, Bethsaida Julias, referred to in Luke 9:10; Mark 8:22; the
 other on the western shore of the Lake of Galilee, the birthplace of
 Andrew and Peter (John 1:44). See also Mark 6:45; Matthew 11:21; Luke
 10:13; John 12:21.
 
-[13](#sdfootnote13anc) The New Testament speaks so often of the
+[^13]: The New Testament speaks so often of the
 occupation of fishers by the Lake of Galilee, that it is interesting to
 know that fishing on the lake was free to all. The Talmud mentions this
 as one of the ten ordinances given by Joshua of old (Baba Kama, 80 b).
 
-[14](#sdfootnote14anc) In the ancient Latin Itineraries of Palestine,
+[^14]: In the ancient Latin Itineraries of Palestine,
 journeys are computed by mansiones (night-quarters) and mutationes
 (change of horses)–from five to eight such changes being computed for a
 day’s journey.
 
-[15](#sdfootnote15anc) Northern Africa alone (exclusive of Egypt)
+[^15]: Northern Africa alone (exclusive of Egypt)
 furnished Rome, by way of taxation, with sufficient corn to last eight
 months, and the city of Alexandria to last four months (Jewish War, ii,
 345-401).
 
-[16](#sdfootnote16anc) This appears, to me at least, the inevitable
+[^16]: This appears, to me at least, the inevitable
 inference from 1 Samuel 10:2, 3, and Jeremiah 31:15. Most writers have
 concluded from Genesis 35:16, 19, that Rachel was buried close by
 Bethlehem, but the passage does not necessarily imply this. The oldest
@@ -9169,16 +9169,16 @@ above in the text. M. Neubauer suggests that Rachel had died in the
 possession of Ephraim, and been buried at Bethlehem. The hypothesis is
 ingenious but fanciful.
 
-[17](#sdfootnote17anc) Such as Tekoah, Engedi, Ziph, Maon, and
+[^17]: Such as Tekoah, Engedi, Ziph, Maon, and
 Beersheba, which gave their names to districts in the wilderness of
 Judaea.
 
-[18](#sdfootnote18anc) According to the Jerusalem Talmud (Succ. v. 3)
+[^18]: According to the Jerusalem Talmud (Succ. v. 3)
 six different acts of ministry in the Temple were heard as far as
 Jericho, and the smell of the burning incense also could be perceived
 there. We need scarcely say that this was a gross exaggeration.
 
-[19](#sdfootnote19anc) The following as a specimen must suffice for the
+[^19]: The following as a specimen must suffice for the
 present: “And this Son of man, whom thou hast seen, shall stir up the
 kings and the mighty from their layers, and the powerful from their
 thrones, and shall loose the bridles of the mighty and break in pieces
@@ -9194,14 +9194,14 @@ homes of His congregation and of the faithful” (Book of Enoch, xlvi.
 of many kindred matters, must be reserved for a work on the Life and
 Times of our Lord.
 
-[20](#sdfootnote20anc) The passage above referred to has a most
+[^20]: The passage above referred to has a most
 important apologetic interest. None but a truthful history would have
 recorded the doubts of John the Baptist; especially when they brought
 forward the real difficulties which the mission of Christ raised in the
 popular mind; least of all would it have followed up the statement of
 these difficulties by such an encomium as the Saviour passed upon John.
 
-[21](#sdfootnote21anc) May there not perhaps be some historical
+[^21]: May there not perhaps be some historical
 foundation even for this statement? Could the secret gathering of “the
 chief priests and Pharisees,” mentioned in John 11:47, have taken place
 in Lydda (compare vers. 54, 55)? Was it there, that Judas “communed with
@@ -9211,110 +9211,110 @@ preliminary measures against Jesus; and we know that, while the Temple
 stood, Lydda was the only place out of Jerusalem which may be called a
 seat of the Rabbinical party.
 
-[22](#sdfootnote22anc) The Mishnah discusses how much profit a merchant
+[^22]: The Mishnah discusses how much profit a merchant
 is allowed to take on an article, and within what period a purchaser,
 who finds himself imposed upon, may return his purchase. The merchants
 of Lydda are certainly not placed in this discussion in the most
 advantageous light.
 
-[23](#sdfootnote23anc) Modern writers mostly identify it with the
+[^23]: Modern writers mostly identify it with the
 present Kulonieh, colonia, deriving the name from the circumstance that
 it was colonised by Roman soldiers. Lieut. Conder suggests the modern
 Khamasa, about eight miles from Jerusalem, as the site of Emmaus.
 
-[24](#sdfootnote24anc) Formerly those who found such animals had out of
+[^24]: Formerly those who found such animals had out of
 their own means to supply the necessary drink-offerings. But as this
 induced some not to bring the animals to the Temple, it was afterwards
 decreed to supply the cost of the drink-offerings from the Temple
 treasury (Shek. vii. 5).
 
-[25](#sdfootnote25anc) In Echa R. 72 a, there is a tradition that the
+[^25]: In Echa R. 72 a, there is a tradition that the
 Messiah was to be born “in the Castle Arba of Bethlehem Judah.” Caspari
 quotes this in confirmation that the present castellated monastery, in
 the cave of which is the traditional site of our Lord’s birth, marks the
 real spot. In the East such caves were often used as stables.
 
-[26](#sdfootnote26anc) Compare here verses 17, 18, which in point of
+[^26]: Compare here verses 17, 18, which in point of
 time precede verse 20. The term diagnorizo, rendered in the Authorised
 Version “make known abroad,” and by Wahl “ultro citroque narro,” does
 not seem exhausted by the idea of conversation with the party in the
 “stable,” or with any whom they might meet in “the field.”
 
-[27](#sdfootnote27anc) The average rainfall in Jerusalem for eight years
+[^27]: The average rainfall in Jerusalem for eight years
 amounts to fourteen inches in December, thirteen in January, and sixteen
 in February (Barclay, City of the Great King, p. 428).
 
-[28](#sdfootnote28anc) Caspari suggests that this was the same as the
+[^28]: Caspari suggests that this was the same as the
 high-priest Annas, the name having only the syllable indicating the name
 of Jehovah prefixed.
 
-[29](#sdfootnote29anc) From “betal,” to cease–as the glossary to Baba B.
+[^29]: From “betal,” to cease–as the glossary to Baba B.
 82 a explains: men without reproach, who gave up their work to give
 themselves wholly to the work of the synagogue. Such had a claim to
 support from the synagogue revenues.
 
-[30](#sdfootnote30anc) The name “Sanhedrin,” or “Sunedrion,” is
+[^30]: The name “Sanhedrin,” or “Sunedrion,” is
 undoubtedly of Greek derivation, although the Rabbis have tried to
 paraphrase it as “Sin” (=Sinai) “haderin,” those who repeat or explain
 the law, or to trace its etymology, as being “those who hate to accept
 the persons of men in judgment” (the name being supposed to be composed
 of the Hebrew equivalents of the words italicized).
 
-[31](#sdfootnote31anc) An ingenious attempt has lately been made to show
+[^31]: An ingenious attempt has lately been made to show
 that the Sanhedrin of three members was not a regular court, but only
 arbitrators chosen by the parties themselves. But the argument, so far
 as it tries to prove that such was always the case, seems to me not to
 meet all the facts.
 
-[32](#sdfootnote32anc) The “Mesusah” was not affixed to any that were
+[^32]: The “Mesusah” was not affixed to any that were
 not “diroth cavod”–dwellings of honour. Thus not to bath rooms,
 wash-houses, tanneries, dyeworks, etc. The “Mesusah” was only attached
 to dwelling-places, not to synagogues.
 
-[33](#sdfootnote33anc) The tractate Massecheth Mesusah cannot be
+[^33]: The tractate Massecheth Mesusah cannot be
 regarded as an authority for early times. But even the “Sohar” contains
 much that is little better than heathen superstition on the supposed
 efficacy of the “Mesusah.” Among later superstitions connected with it,
 are the writing of the name “Cuso bemuchsas cuso” (supposed to be that
 of Israel’s watching angel), the etymology of that name, etc.
 
-[34](#sdfootnote34anc) From 1 Chronicles 4:38-43 we infer colonisation
+[^34]: From 1 Chronicles 4:38-43 we infer colonisation
 in that direction, especially on the part of the tribe of Simeon.
 Utterances in the prophets (such as in Isa 21 and Micah 1) seem also to
 indicate a very wide spread of Jewish settlers. It is a remarkable fact
 that, according to mediaeval Jewish and Arab writers, the districts of
 Massa and Dumah were largely inhabited by Jews.
 
-[35](#sdfootnote35anc) There can be no question that the word rendered
+[^35]: There can be no question that the word rendered
 in the Authorised Version (Prov 30:1 and 31:1) by “prophecy” is simply
 the name of a district, “Massa.”
 
-[36](#sdfootnote36anc) Or, according to another rendering, “Spake the
+[^36]: Or, according to another rendering, “Spake the
 man: I diligently searched after God, and I am become weary.” This, of
 course, is not the place for critical discussion; but we may say that we
 have followed the general conclusions adopted alike by Delitzsch and
 Zockler, and by Ewald, Hitzig, and Bertheau.
 
-[37](#sdfootnote37anc) The language of the New Testament leads to the
+[^37]: The language of the New Testament leads to the
 inference that Timothy’s father was not only by birth, but continued a
 Greek–being not merely a heathen, but not even a Jewish proselyte.
 
-[38](#sdfootnote38anc) The Greek term means literally “a baby,” and is
+[^38]: The Greek term means literally “a baby,” and is
 so used, not only by classical writers, but in all the passages in which
 it occurs in the New Testament, which are as follows: Luke 1:41, 44,
 2:12, 16, 18:15; Acts 7:19; 2 Tim 3:15; and 1 Peter 2:2.
 
-[39](#sdfootnote39anc) The “Shema”–so called from the first word,
+[^39]: The “Shema”–so called from the first word,
 “Shema” (“Hear, O Israel”)–forms part of the regular prayers; as the
 section called “Hallel” (“praise”) was appointed to be sung at certain
 seasons.
 
-[40](#sdfootnote40anc) Tacitus, Hist. v. 5. In general this fifth book
+[^40]: Tacitus, Hist. v. 5. In general this fifth book
 is most interesting, as showing the strange mixture of truth and error,
 and the intense hatred of the Jewish race even on the part of such men
 as Tacitus.
 
-[41](#sdfootnote41anc) Let it not be thought that we have been guilty of
+[^41]: Let it not be thought that we have been guilty of
 the slightest exaggeration. The difficulty here is to tell the truth and
 yet find moderate terms in which to express it. That Christianity should
 have laid its hold on such a society, found there its brightest martyrs
@@ -9325,14 +9325,14 @@ heart from self-righteousness and externalism. In either case, to the
 student of history the miracle will seem greater than if “one rose from
 the dead.”
 
-[42](#sdfootnote42anc) The following illustration also occurs: A certain
+[^42]: The following illustration also occurs: A certain
 wise woman said to her daughter before her marriage: “My child, stand
 before thy husband and minister to him. If thou wilt act as his maiden
 he will be thy slave, and honour thee as his mistress; but if thou exalt
 thyself against him, he will be thy master, and thou shalt become vile
 in his eyes, like one of the maidservants.”
 
-[43](#sdfootnote43anc) Similar expressions are Sarah and Shiddah, both
+[^43]: Similar expressions are Sarah and Shiddah, both
 from roots meaning to rule. Nor is this inconsistent with the use of the
 word Baal, to marry, and Beulah, the married one, from Baal, a lord–even
 as Sarah “called Abraham lord” (1 Peter 3:6, the expression used of her
@@ -9342,45 +9342,45 @@ and Naarah, are either simply feminine terminations, or else, as
 Bethulah, Levush, Nekevah, Almah, Rachem, descriptive of their physical
 state.
 
-[44](#sdfootnote44anc) There was also a third mode of espousal–simply by
+[^44]: There was also a third mode of espousal–simply by
 cohabitation, but this was very strongly disapproved by the Rabbis.
 
-[45](#sdfootnote45anc) According to R. Simon (on Chel. ii. 8) it was an
+[^45]: According to R. Simon (on Chel. ii. 8) it was an
 Eastern custom that, when the bride was led to her future home, “they
 carried before the party about ten” such lamps.
 
-[46](#sdfootnote46anc) The practice of calling a wife a bride during the
+[^46]: The practice of calling a wife a bride during the
 first year of her marriage is probably based on Deuteronomy 24:5.
 
-[47](#sdfootnote47anc) The Jews have it that a woman “is loosed from the
+[^47]: The Jews have it that a woman “is loosed from the
 law of her husband” by only one of two things: death or a letter of
 divorce; hence Romans 7:2, 3.
 
-[48](#sdfootnote48anc) Other Rabbinical sayings have it, that seven
+[^48]: Other Rabbinical sayings have it, that seven
 things existed before the world–the law, repentance, paradise, hell, the
 throne of God, the name of the Messiah, and the Temple. At the same time
 the reader will observe that the quotation from the Targum given in the
 text attempts an allegorising, and therefore rationalistic
 interpretation of the narrative in Genesis 3:24.
 
-[49](#sdfootnote49anc) We mean the book Jezirah. It is curious that this
+[^49]: We mean the book Jezirah. It is curious that this
 should have never been noticed. The coincidences are not in substance,
 but in modes of expression.
 
-[50](#sdfootnote50anc) Elisha ben Abbuja, called Acher, “the other,” on
+[^50]: Elisha ben Abbuja, called Acher, “the other,” on
 account of his apostasy. The history of that Rabbi is altogether deeply
 interesting. We can only put the question: Was he a Christian, or merely
 tainted with Gnosticism? The latter seems to us the most probable. His
 errors are traced by the Jews to his study of the Kabbalah.
 
-[51](#sdfootnote51anc) The learned Lightfoot has expressed a doubt
+[^51]: The learned Lightfoot has expressed a doubt
 whether the name “Magdalene” is to be rendered “from Magdala” or “the
 hairdresser.” We have noted in a previous chapter, that the inhabitants
 of Magdala engaged in such and similar business. But the Rabbinical
 passages to which Lightfoot refers are not satisfactory, since they are
 evidently dictated by a special animus against Christ and Christianity.
 
-[52](#sdfootnote52anc) The practice of modern Jews is somewhat different
+[^52]: The practice of modern Jews is somewhat different
 from that of ancient times. Without entering into details, it is
 sufficient here to say that they wear underneath their garments a small
 square, with fringes, called the little tallith (from “talal,” to
@@ -9388,42 +9388,42 @@ overshadow or cover), or the “arbah canphoth” (four “corners”); while
 during prayer they wrap themselves in the great tallith, or so-called
 prayer-cloak.
 
-[53](#sdfootnote53anc) When speaking of the four degrees in the order of
+[^53]: When speaking of the four degrees in the order of
 Jesuits, we refer to those which are professed. We are, of course, aware
 of the existence of the so-called “professi trium votorum” of whom
 nothing definite is really known by the outside world, and whom we may
 regard as “the secret Jesuits,” and of that of lay and clerical
 “coadjutors,” whose services and vows are merely temporary.
 
-[54](#sdfootnote54anc) The Greek word for “filthiness” occurs in this
+[^54]: The Greek word for “filthiness” occurs in this
 passage only, but the verb from which it is derived seems to have a
 ceremonial allusion attaching to it in the three passages in which it is
 used: 1 Corinthians 8:7; Revelation 3:4, 14:4.
 
-[55](#sdfootnote55anc) If St. Paul was originally a Pharisee, the
+[^55]: If St. Paul was originally a Pharisee, the
 accounts given by the earliest tradition (Euseb. H. E. ii. 23), compared
 with that of Josephus (Ant. xx, 197-203), would almost lead us to infer
 that St. James was a “Chasid.” All the more significant would then be
 the part he took in removing the yoke of the law from the Gentile
 converts (Acts 15:13-21).
 
-[56](#sdfootnote56anc) In proof of this, it may be stated that before
+[^56]: In proof of this, it may be stated that before
 the formal institution of the “order,” R. Jose, the son of Joezer,
 declared all foreign glass vessels, and indeed the whole soil of heathen
 lands, “unclean,” thus “separating” Israel from all possible intercourse
 with Gentiles.
 
-[57](#sdfootnote57anc) It may be to the decrees then enacted by Hyrcanus
+[^57]: It may be to the decrees then enacted by Hyrcanus
 that Josephus refers (Ant. xiii, 293-298), when he speaks of their
 “abolition” after Hyrcanus broke with the Pharisaical party.
 
-[58](#sdfootnote58anc) It is impossible here to reproduce the Talmudical
+[^58]: It is impossible here to reproduce the Talmudical
 passages in evidence. But the two obligations of “making clean” and of
 “tithing,” together with the arrangement of the Pharisees into various
 grades, are even referred to in the Mishnah (Chag. ii. 5, 6 and , and
 Demai ii. 2,3).
 
-[59](#sdfootnote59anc) “Of the tabernacle in which the ark rested at
+[^59]: “Of the tabernacle in which the ark rested at
 Shiloh, from the time of Joshua to that of Samuel, no trace, of course,
 remains. But on the summit of a little knoll we find the remains of what
 was once a Jewish synagogue, afterwards used as a church, and
@@ -9436,85 +9436,85 @@ conjecture that the synagogue may have been erected on the sacred spot
 which for so many generations formed the centre of Jewish
 worship.”–Those Holy Fields.
 
-[60](#sdfootnote60anc) Our description here applies to the worship of
+[^60]: Our description here applies to the worship of
 the ancient, not of the modern synagogue; and we have thought it best to
 confine ourselves to the testimony of the Mishnah, so as to avoid the
 danger of bringing in practices of a later date.
 
-[61](#sdfootnote61anc) This “benediction,” while acknowledging the
+[^61]: This “benediction,” while acknowledging the
 Creator, has such frequent reference to God in connection with the
 “lights,” that it reads like a confession of Israel against the
 idolatries of Babylon. This circumstance may help to fix the time of its
 origination.
 
-[62](#sdfootnote62anc) The apostle may have had this in his mind when,
+[^62]: The apostle may have had this in his mind when,
 in directing the order of public ministration, he spoke of “the
 men…lifting up holy hands, without wrath or doubting” (1 Tim 2:8). At
 any rate, the expression is precisely the same as that used by the
 Rabbis.
 
-[63](#sdfootnote63anc) Zedakah means righteousness, but is also used for
+[^63]: Zedakah means righteousness, but is also used for
 “charity.”
 
-[64](#sdfootnote64anc) Although the “Book of Jubilees” seems most likely
+[^64]: Although the “Book of Jubilees” seems most likely
 of Pharisaic authorship, the views expressed in it are not always those
 of the Pharisees. Thus the resurrection is denied, although the
 immortality of the soul is maintained.
 
-[65](#sdfootnote65anc) It would be beyond the scope of this volume to
+[^65]: It would be beyond the scope of this volume to
 explain these “middoth,” or “measurements,” and to illustrate them by
 examples. Those who are interested in the matter are referred to the
 very full discussion on Rabbinical exegesis in my History of the Jewish
 Nation, pp. 570-580.
 
-[66](#sdfootnote66anc) In Appendix 1 we give as a specimen a translation
+[^66]: In Appendix 1 we give as a specimen a translation
 of one of the Mishnic Tractates; and in Appendix 2 translations of
 extracts from the Babylon Talmud.
 
-[67](#sdfootnote67anc) For the daily offering of the high priest.
+[^67]: For the daily offering of the high priest.
 
-[68](#sdfootnote68anc) Ezekiel 43:16, “Ariel” = the lion of God = the
+[^68]: Ezekiel 43:16, “Ariel” = the lion of God = the
 altar.
 
-[69](#sdfootnote69anc) To remove or to cleanse it.
+[^69]: To remove or to cleanse it.
 
-[70](#sdfootnote70anc) The term, which seems not to have been quite
+[^70]: The term, which seems not to have been quite
 understood even in Talmudical times, is rendered by Jost: twisted leaf,
 and derived from strepho.
 
-[71](#sdfootnote71anc) The heave-offering given to the priests, which
+[^71]: The heave-offering given to the priests, which
 they ate within the Temple.
 
-[72](#sdfootnote72anc) The Jews divided the night into three watches.
+[^72]: The Jews divided the night into three watches.
 
-[73](#sdfootnote73anc) That is, they may be left to consume on the altar
+[^73]: That is, they may be left to consume on the altar
 from the time of evening sacrifice till then.
 
-[74](#sdfootnote74anc) Literally “Daughter Voice”–the voice from heaven.
+[^74]: Literally “Daughter Voice”–the voice from heaven.
 
-[75](#sdfootnote75anc) Of secret sin.
+[^75]: Of secret sin.
 
-[76](#sdfootnote76anc) If it has only lately become a ruin, since then
+[^76]: If it has only lately become a ruin, since then
 there would be no immediate danger.
 
-[77](#sdfootnote77anc) Because where there are two, they need not fear
+[^77]: Because where there are two, they need not fear
 evil spirits.
 
-[78](#sdfootnote78anc) All this is intended to establish Rabbi Nathan’s
+[^78]: All this is intended to establish Rabbi Nathan’s
 view, that there are only three watches in the night.
 
-[79](#sdfootnote79anc) Whose chief he is supposed to have been.
+[^79]: Whose chief he is supposed to have been.
 
-[80](#sdfootnote80anc) There is here a play on the words
+[^80]: There is here a play on the words
 
-[81](#sdfootnote81anc) Referring again to the saying of Rabbi Simeon,
+[^81]: Referring again to the saying of Rabbi Simeon,
 the pious, mentioned earlier.
 
-[82](#sdfootnote82anc) This and the following are prayers at night.
+[^82]: This and the following are prayers at night.
 
-[83](#sdfootnote83anc) He was not deterred by their presence from so
+[^83]: He was not deterred by their presence from so
 praying.
 
-[84](#sdfootnote84anc) This Rabbi was blind.
+[^84]: This Rabbi was blind.
 
 *Grace Notes***1705 Aggie Lane, Austin, Texas 78757**

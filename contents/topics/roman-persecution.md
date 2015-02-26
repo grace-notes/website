@@ -22,7 +22,7 @@ Christendom, and the Vatican hill the Golgotha of the West. Peter and
 Paul, like a new Romulus and Remus, laid the foundation of a spiritual
 empire vaster and more enduring than that of the Caesars. The cross was
 substituted for the sword as the symbol of conquest and power.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+[^1]
 
 But the change was effected at the sacrifice of precious blood. The
 Roman empire was at first, by its laws of justice, the protector of
@@ -34,9 +34,9 @@ conflict with the new religion, and opened, in the name of idolatry and
 patriotism, a series of intermittent persecutions, which ended at last
 in the triumph of the banner of the cross at the Milvian bridge.
 Formerly a restraining power that kept back for a while the outbreak of
-Antichrist, <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> it now openly
+Antichrist, [^2] it now openly
 assumed the character of Antichrist with fire and sword.
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
+[^3]
 
 Nero
 
@@ -66,7 +66,7 @@ and Poppaea), his teacher (Seneca), and many eminent Romans, was fitly
 followed by his suicide in the thirty-second year of his age. With him
 the family of Julius Caesar ignominiously perished, and the empire
 became the prize of successful soldiers and adventurers.
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup>
+[^4]
 
 The Conflagration in Rome
 
@@ -76,12 +76,12 @@ a fearful conflagration of Rome, the most destructive and disastrous
 that ever occurred in history. It broke out in the night between the
 18th and 19th of July, among the wooden shops in the south-eastern end
 of the Great Circus, near the Palatine hill.
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> Lashed by the wind, it
+[^5] Lashed by the wind, it
 defied all exertions of the firemen and soldiers, and raged with
 unabated fury for seven nights and six days. Then it burst out again in
 another part, near the field of Mars, and in three days more laid waste
 two other districts of the city.
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>
+[^6]
 
 The calamity was incalculable. Only four of the fourteen regions into
 which the city was divided, remained uninjured; three, including the
@@ -102,7 +102,7 @@ The cause of the conflagration is involved in mystery. Public rumor
 traced it to Nero, who wished to enjoy the lurid spectacle of burning
 Troy, and to gratify his ambition to rebuild Rome on a more magnificent
 scale, and to call it Neropolis.
-<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup> When the fire broke out
+[^7] When the fire broke out
 he was on the seashore at Antium, his birthplace; he returned when the
 devouring element reached his own palace, and made extraordinary efforts
 to stay and then to repair the disaster by a reconstruction which
@@ -142,12 +142,12 @@ individual.
 Under this wanton charge of incendiarism, backed by the equally
 groundless charge of misanthropy and unnatural vice, there began a
 carnival of blood such as even heathen Rome never saw before or since.
-<sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup> It was the answer of the
+[^8] It was the answer of the
 powers of hell to the mighty preaching of the two chief apostles, which
 had shaken heathenism to its centre. A “vast multitude” of Christians
 was put to death in the most shocking manner. Some were crucified,
 probably in mockery of the punishment of Christ,
-<sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> some sewed up in the
+[^9] some sewed up in the
 skins of wild beasts and exposed to the voracity of mad dogs in the
 arena. The satanic tragedy reached its climax at night in the imperial
 gardens on the slope of the Vatican (which embraced, it is supposed, the
@@ -227,7 +227,7 @@ evening of the crucifixion, thirty-four years before. But the morning of
 the resurrection was not far distant, and the very spot of the martyrdom
 of St. Peter was to become the site of the greatest church in
 Christendom and the palatial residence of his reputed successors.
-<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup>
+[^10]
 
 The Apocalypse on the Neronian Persecution
 
@@ -237,7 +237,7 @@ accompanied Peter to Rome and escaped a fearful death in the Neronian
 gardens, if we are to credit the ancient tradition of his miraculous
 preservation from being burnt alive with his fellow-Christians in that
 hellish illumination on the Vatican hill.
-<sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup> At all events he was
+[^11] At all events he was
 himself a victim of persecution for the name of Jesus, and depicted its
 horrors, as an exile on the lonely island of Patmos in the vision of the
 Apocalypse.
@@ -308,15 +308,15 @@ quaesitissimis poenis affecit, quos per flagitia invisos vulgus
 put to death (supplicio affectus erat) by the procurator of Judaea,
 Pontius Pilate, in the reign of Tiberius; but the pernicious
 superstition (exitiabilis superstitio), repressed for a time,
-<sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup> broke out again, not
+[^12] broke out again, not
 only through Judaea, the source of this evil, but also through the city
 [of Rome], whither all things vile and shameful flow from all quarters,
 and are encouraged (quo cuncta undique atrocia aut pudenda confluunt
 celebranturque). Accordingly, first, those only were arrested who
-confessed. <sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> Next, on
+confessed. [^13] Next, on
 their information, a vast multitude (multitudo ingens), were convicted,
 not so much of the crime of incendiarism as of hatred of the human race
-(odio humani generis). <sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup>
+(odio humani generis). [^14]
 And in their deaths they were made the subjects of sport; for they were
 wrapped in the hides of wild beasts and torn to pieces by dogs, or
 nailed to crosses, or set on fire, and when day declined, were burned to
@@ -485,7 +485,7 @@ Jerusalem had lost its importance for that city. The hour of the “great
 tribulation” and fearful judgment drew near. The prophecy of the Lord
 approached its literal fulfilment: Jerusalem was razed to the ground,
 the temple burned, and not one stone was left upon another.
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup>
+[^15]
 
 Not long before the outbreak of the Jewish war, seven years before the
 siege of Jerusalem (a.d. 63), a peasant by the name of Joshua, or Jesus,
@@ -561,7 +561,7 @@ restored order and prosperity.
 
 His son, Titus, who himself ten years after became emperor, and highly
 distinguished himself by his mildness and philanthropy,
-<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup> then undertook the
+[^16] then undertook the
 prosecution of the Jewish war, and became the instrument in the hand of
 God of destroying the holy city and the temple. He had an army of not
 less than eighty thousand trained soldiers, and planted his camp on
@@ -602,7 +602,7 @@ work of architecture, as a trophy of victory, and perhaps from some
 superstitious fear; and when the flames threatened to reach the Holy of
 Holies he forced his way through flame and smoke, over the dead and
 dying, to arrest the fire.
-<sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup> But the destruction was
+[^17] But the destruction was
 determined by a higher decree. His own soldiers, roused to madness by
 the stubborn resistance, and greedy of the golden treasures, could not
 be restrained from the work of destruction. At first the halls around
@@ -694,7 +694,7 @@ the gladiatorial shows at Caesarea, Berytus, Antioch, and other cities.
 The strongest and handsomest men were selected for the triumphal
 procession in Rome, among them the chief defenders and leaders of the
 revolt, Simon Bar-Giora and John of Gischala.
-<sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup>
+[^18]
 
 Vespasian and Titus celebrated the dearly bought victory together (71).
 No expense was spared for the pageant. Crowned with laurel, and clothed
@@ -706,7 +706,7 @@ images of the gods, and the sacred furniture of the temple—the table of
 show-bread, the seven-armed candlestick, the trumpets which announced
 the year of jubilee, the vessel of incense, and the rolls of the
 Law—were borne along in the procession and deposited in the newly built
-Temple of Peace, <sup>**[<sup>19</sup>](#sdfootnote19sym)**</sup> except
+Temple of Peace, [^19] except
 the Law and the purple veils of the holy place, which Vespasian reserved
 for his palace. Simon Bar-Giora was thrown down from the Tarpeian Rock;
 John of Gischala doomed to perpetual imprisonment. Coins were cast with
@@ -716,7 +716,7 @@ lost its fatherland.
 
 Josephus saw the pompous spectacle of the humiliation and wholesale
 crucifixion of his nation, and described it without a tear.
-<sup>**[<sup>20</sup>](#sdfootnote20sym)**</sup> The thoughtful
+[^20] The thoughtful
 Christian, looking at the representation of the temple furniture borne
 by captive Jews on the triumphal arch of Titus, still standing between
 the Colosseum and the Forum, is filled with awe at the fulfilment of
@@ -787,7 +787,7 @@ destruction of Jerusalem, therefore, marks that momentous crisis at
 which the Christian church as a whole burst forth forever from the
 chrysalis of Judaism, awoke to a sense of its maturity, and in
 government and worship at once took its independent stand before the
-world. <sup>**[<sup>21</sup>](#sdfootnote21sym)**</sup>
+world. [^21]
 
 This breaking away from hardened Judaism and its religious forms,
 however, involved no departure from the spirit of the Old Testament
@@ -810,7 +810,7 @@ way to wind up the history of the apostolic church.
 This was the work of John, the apostle of completion
 
 
-[1](#sdfootnote1anc) Lange on Romans, p. 29 (Am. ed.): “As the light and
+[^1]: Lange on Romans, p. 29 (Am. ed.): “As the light and
 darkness of Judaism was centralized in Jerusalem, the theocratic city of
 God (the holy city, the murderer of the prophets), so was heathen Rome,
 the humanitarian metropolis of the world, the centre of all the elements
@@ -823,7 +823,7 @@ especially, stands forth as a shining light of the nations, which is
 turned into an idol of magical strength to those who are subject to its
 rule.”
 
-[2](#sdfootnote2anc) In 2 Thess. 2:6, 7, to; katevcon is the Roman
+[^2]: In 2 Thess. 2:6, 7, to; katevcon is the Roman
 empire, oJ katevcwn the emperor as its representative. This is the
 patristic interpretation to which some of the beat modern commentators
 have returned. Mediaeval sects and many Protestant writers found the
@@ -834,17 +834,17 @@ believe in a repeated and growing fulfilment of this and other
 prophecies on the historic basis of the apostolic age and the old Roman
 empire.
 
-[3](#sdfootnote3anc) It is so represented in Revelation 13 –18 after the
+[^3]: It is so represented in Revelation 13 –18 after the
 Neronian persecution.
 
-[4](#sdfootnote4anc) Comp. Renan’s portraiture of Nero, l.c. ch. I. He
+[^4]: Comp. Renan’s portraiture of Nero, l.c. ch. I. He
 thinks that there is no parallel to this monster, and calls him ‘un
 esprit prodigieusement déclamatoire, une mauvaise nature, hypocrite,
 légère, vaniteuse; un composé incroyable d’intelligence fausse, de
 méchanceté profonde, d’égoïsme atroce et sournois, avee des raffinements
 inouïs de subtilité.’
 
-[5](#sdfootnote5anc) For a description of the Circus Maximus see
+[^5]: For a description of the Circus Maximus see
 Friedländer, III. 293 sqq. The amphitheatrical rows of seats were eight
 stadia long, with accommodation for 150,000 persons. After Nero’s
 reconstruction the seats amounted to 250,000 under Vespasianum, and
@@ -855,7 +855,7 @@ of amusements. Nero was most extravagant in his expenditure for the
 circus and the theatre to gratify the people’s passion for Panem et
 Circenses, to use Juvenal’s words.
 
-[6](#sdfootnote6anc) The nine days’ duration is proved by an inscription
+[^6]: The nine days’ duration is proved by an inscription
 (Gruter, 61. 3). The great fire in London in 1666 lasted only four days
 and swept an area of 436 acres. Comp. Lambert’s Hist. of London,II. 91,
 quoted by Merivale. The fire in Chicago lasted only thirty-six hours,
@@ -863,7 +863,7 @@ October 8 and 9, 1871, but swept over nearly three and one-third square
 miles (2,114 square acres), and destroyed 17,450 buildings, the homes of
 98,500 people.
 
-[7](#sdfootnote7anc) Tacitus XV. 39: “Pervaserat rumor ipso tempore
+[^7]: Tacitus XV. 39: “Pervaserat rumor ipso tempore
 flagrantis urbis inisse eum domesticam scenam et cecinisse Troianum
 excedium.” Sueton. c. 38: “Quasi offensus deformitate veterum
 aedificiorum et angustiis flexurisque vicorum [Nero] incendit Urbem …
@@ -875,14 +875,14 @@ higher orders. The elder Pliny, Xiphilinus, and the author of the
 tragedy, Octavia, likewise charge Nero with incendiarism. But Schiller,
 l.c. 425 sqq., labors to relieve him of it.
 
-[8](#sdfootnote8anc) We do not know the precise date of the massacre.
+[^8]: We do not know the precise date of the massacre.
 Mosheim fixes it on November, Renan on August, a.d. 64. Several weeks or
 months at all events must have passed after the fire. If the traditional
 date of Peter’s crucifixion be correct there would be an interval of
 nearly a year between the conflagration, July 19, 64, and his martyrdom,
 June 29th.
 
-[9](#sdfootnote9anc) “Crucibus affixi,”says Tacitus. This would well
+[^9]: “Crucibus affixi,”says Tacitus. This would well
 apply to Peter, to whom our Lord had prophesied such a death, John
 21:18, 19. Tertullian says:“Romae Petrus passioni Dominicae
 adaequatur”(De Praescript. Haeret., c. 36; comp. Adv. Marc., IV. 5;
@@ -900,7 +900,7 @@ indicates a regular legal process before, or more probably at least a
 year after, the Neronian persecution in which his Roman citizenship
 would scarcely have been respected.
 
-[10](#sdfootnote10anc) “Those who survey,” says Gibbon (ch. XVI.).“with
+[^10]: “Those who survey,” says Gibbon (ch. XVI.).“with
 a curious eye the revolutions of mankind, may observe that the gardens
 and circus of Nero on the Vatican, which were polluted with the blood of
 the first Christians, have been rendered still more famous by the
@@ -918,7 +918,7 @@ possession de la colline Vatcane par ces triomphateurs d’un genre
 inconnu jusque-là … Rome, rendue responsable de tout le sang versé,
 devint comme Babylone une sorte de ville sacramentelle et symbolique.”
 
-[11](#sdfootnote11anc) Tertullian mentions it in connection with the
+[^11]: Tertullian mentions it in connection with the
 crucifixion of Peter and the decapitation of Paul as apparently
 occurring at the same time; De Praescript. Haer., c.36: “Ista quam felix
 ecclesia (the church of Rome) cui totam doctrinam apostoli sanguine suo
@@ -932,25 +932,25 @@ purpose, but saved by an accident or caprice. Thiersch (Die Kirche im
 Apost. Zeitalter, p. 227, third edition, 1879) likewise accepts the
 tradition of Tertullian, but assumes a miraculous deliverance.
 
-[12](#sdfootnote12anc) This refers either to the crucifixion, or more
+[^12]: This refers either to the crucifixion, or more
 probably to the edict of Claudius, who banished the Jews and Jewish
 Christians from Rome.
 
-[13](#sdfootnote13anc) Confessed what? Probably the Christian religion,
+[^13]: Confessed what? Probably the Christian religion,
 which was already regarded as a sort of crime. If they confessed to be
 guilty of incendiarism, they must have been either weak neophytes who
 could not stand the pain of the torture, or hired scoundrels.
 
-[14](#sdfootnote14anc) This is to be understood in the active sense of
+[^14]: This is to be understood in the active sense of
 the reputed enmity to mankind, with which Tacitus charges the Jews also
 in almost the same terms (“Adversus omnes alios hostile odium,” Hist. V.
 5). But Thiersch and others explain it of the hatred of mankind towards
 the Christians (comp. Matt. 10:22, “Ye shall be hated of all men for my
 name’s sake”).
 
-[15](#sdfootnote15anc) Matt. 24:1,2; Mark 13:1; Luke 19:43, 44; 21:6.
+[^15]: Matt. 24:1,2; Mark 13:1; Luke 19:43, 44; 21:6.
 
-[16](#sdfootnote16anc) The people called him Amor et Deliciae generis
+[^16]: The people called him Amor et Deliciae generis
 humani. He was born December 30, a.d. 40, and died September 13, 81. He
 ascended the throne 79, in the year when the towns of Herculaneum,
 Stabiae, and Pompeii were destroyed. His reign was marked by a series of
@@ -960,7 +960,7 @@ daily. He made earnest efforts to repair the injuries, and used to say,
 when a day passed without an act of philanthropy, “Amici, diem perdidi.”
 See Suetonius, Titus.
 
-[17](#sdfootnote17anc) Josephus is, however, not quite consistent; he
+[^17]: Josephus is, however, not quite consistent; he
 says first that Titus, perceiving that his endeavors to spare a foreign
 temple turned to the damage of his soldiers, commanded the gates to be
 set on fire (VI. 4, 1); and then, that on the next day he gave orders to
@@ -974,15 +974,15 @@ his account from the lost portion of the Histories of Tacitus, and that
 Titus neither ordered nor forbade the burning of the Temple, but left it
 to its fate, with a prudent reservation of his motives.
 
-[18](#sdfootnote18anc) Milman (II. 388) sums up the scattered statements
+[^18]: Milman (II. 388) sums up the scattered statements
 of Josephus, and makes out the total number of killed, from the
 beginning to the close of the war, to be 1,356,460, and the total number
 of prisoners 101,700.
 
-[19](#sdfootnote19anc) The Temple of Peace was afterwards burned under
+[^19]: The Temple of Peace was afterwards burned under
 Commodus, and it is not known what became of the sacred furniture.
 
-[20](#sdfootnote20anc) Josephus was richly rewarded for his treachery.
+[^20]: Josephus was richly rewarded for his treachery.
 Vespasian gave him a house in Rome, an annual pension, the Roman
 citizenship, and large possessions in Judaea. Titus and Domitian
 continued the favors. But his countrymen embittered his life and cursed
@@ -997,7 +997,7 @@ charms, and desired to raise her to the imperial throne, but the public
 dissatisfaction forced him to dismiss her, “invitus invitam.” Suet.,
 Tit. 7. Comp. Schürer, l. c. 321, 322.
 
-[21](#sdfootnote21anc) Dr. Richard Rothe (Die Anfänge der Christl.
+[^21]: Dr. Richard Rothe (Die Anfänge der Christl.
 Kirche, p. 341 sqq.). Thiersch (p. 225), Ewald (VII. 26), Renan
 (L’Antechr., p. 545), and Lightfoot (Gal., p. 301) ascribe the same
 significance to the destruction of Jerusalem. Ewald says: “As by one

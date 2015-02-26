@@ -143,13 +143,13 @@ the Incarnation. (3) God’s final judgment will be just — a warning to
 unbelievers and a comfort to believers. (4) Christ’s death overcomes the
 “sting” of death, and a future life is affirmed. (5) True peace is found
 in the present life within the Christian
-community.<sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
+community.[^1]
 
 **from Conybeare and Howson,*****The Life and Epistles of St. Paul***
 
 If Stoicism, in its full development, was utterly opposed to
 Christianity, the same may be said of the very primary principles of the
-Epicurean <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> school. If the
+Epicurean [^2] school. If the
 Stoics were Pantheists, the Epicureans were virtually Atheists. Their
 philosophy was a system of materialism, in the strictest sense of the
 word. In their view, the world was formed by an accidental concourse of

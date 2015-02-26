@@ -13,7 +13,7 @@ would have been the case had he been moving from Thessalonica to
 Philippi. His present journey took him from a quiet provincial town to
 the busy metropolis of a province, and from the seclusion of an ancient
 university to the seat of government and trade.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> Once there had been a
+[^1] Once there had been a
 time, in the flourishing age of the Greek republics, when Athens had
 been politically greater than Corinth; but now that the little
 territories of the Levantine cities were fused into the larger political
@@ -25,7 +25,7 @@ remained more entirely Greek than that of any other place, while the
 latter rose from its ruins, a new and splendid city, on the Isthmus
 between its two seas, where a multitude of Greeks and Jews gradually
 united themselves with the military colonists sent by Julius Caesar from
-Italy, <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> and were kept in
+Italy, [^2] and were kept in
 order by the presence of a Roman proconsul.
 
 The connection of Corinth with the life of St. Paul and the early
@@ -90,12 +90,12 @@ more favorable soil than among the Hebrew families at Corinth.
 
 At this particular time there was a greater number of Jews in the city
 than usual; for they had lately been banished from Rome by command of
-the Emperor Claudius. <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> The
+the Emperor Claudius. [^3] The
 history of this edict is involved in some obscurity. But there are
 abundant passages in the cotemporary Heathen writers which show the
 suspicion and dislike with which the Jews were regarded. Notwithstanding
 the general toleration, they were violently persecuted by three
-successive Emperors <sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> and
+successive Emperors [^4] and
 there is good reason for identifying the edict mentioned by St. Luke
 with that alluded to by Suetonius, who says that Claudius drove the Jews
 from Rome because they were incessantly raising tumults at the
@@ -112,29 +112,29 @@ but to the events which followed the actual appearance of the Christ.
 
 We have seen how the first progress of Christianity had been the
 occasion of tumult among the Jewish communities in the provinces
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> ; and there is no reason
+[^5] ; and there is no reason
 why the same might not have happened in the capital itself.
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup> Nor need we be surprised
+[^6] Nor need we be surprised
 at the inaccurate form in which the name occurs, when we remember how
 loosely more careful writers than Suetonius express themselves
 concerning the affairs of the Jews. Chrestus was a common name; Christus
 was not: and we have a distinct statement by Tertullian and Lactantius
-<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup> that in their day the
+[^7] that in their day the
 former was often used for the latter.
 
 Among the Jews who had been banished from Rome by Claudius and had
 settled for a time at Corinth, were two natives of Pontus, whose names
 were Aquila and Priscilla.
-<sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup> We have seen before
+[^8] We have seen before
 (Chapter 8) that Pontus denoted a province of Asia Minor on the shores
 of the Euxine, and we have noticed some political facts which tended to
 bring this province into relations with Judea. Though, indeed, it is
 hardly necessary to allude to this: for there were Jewish colonies over
 every part of Asia Minor, and we are expressly told that Jews from
 Pontus heard St. Peter’s first sermon (Acts 2:9) and read his first
-Epistle. <sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> Aquila and
+Epistle. [^9] Aquila and
 Priscilla were, perhaps, of that number. Their names have a Roman form;
-<sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> and we may conjecture
+[^10] and we may conjecture
 that they were brought into some connection with a Roman family, similar
 to that which we have supposed to have existed in the case of St. Paul
 himself. We find they were on the present occasion forced to leave Rome;
@@ -149,7 +149,7 @@ manner in which they are referred to as having Christian meetings in
 their houses, both at Ephesus and Rome, we should be inclined to
 conclude that they were possessed of some considerable wealth. The trade
 at which they labored, or which at least they superintended, was the
-manufacture of tents, <sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup>
+manufacture of tents, [^11]
 the demand for which must have been continual in that age of traveling,
 while the *cilicium,* or hair cloth, of which they were made, could
 easily be procured at every large town in the Levant.
@@ -163,7 +163,7 @@ reason why St. Paul came and attached himself to them (Acts 18:2) was
 not because they had a common religion, but because they had a common
 trade. There is no doubt, however, that the connection soon resulted in
 their conversion to Christianity.
-<sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup> The trade which St.
+[^12] The trade which St.
 Paul’s father had taught him in his youth was thus the means of
 procuring him invaluable associates in the noblest work in which man was
 ever engaged. No higher example can be found of the possibility of
@@ -202,11 +202,11 @@ Savior of the World.
 While these two employments were proceeding, the daily labor in the
 workshop, and the weekly discussions in the synagogue, Timothy and Silas
 returned from Macedonia.
-<sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup> The effect produced by
+[^13] The effect produced by
 their arrival seems to have been an instantaneous increase of the zeal
 and energy with which St. Paul resisted the opposition, which was even
 now beginning to hem in the progress of the truth.
-<sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup>
+[^14]
 
 The remarkable word which is used to describe the” pleasure” which he
 experienced at this moment in the course of his teaching at Corinth, is
@@ -273,7 +273,7 @@ equivalent to the denunciation of woe. He shook the dust off his
 garments, (Acts 18:6) and proclaimed himself innocent of the blood of
 those who refused to listen to the voice which offered them salvation. A
 proselyte, whose name was Justus,
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup> opened his door to the
+[^15] opened his door to the
 rejected Apostle; and that house became thenceforward the place of
 public teaching.
 
@@ -373,13 +373,13 @@ vouchsafed at this critical period (Acts 18?9,10). We have already had
 occasion to observe, that such timely visitations were granted to the
 Apostle, when he was most in need of supernatural aid. In the present
 instance, the Lord, who spoke to him in the night, gave him an assurance
-of His presence, <sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup> and a
+of His presence, [^16] and a
 promise of safety, along with a prophecy of good success at Corinth, and
 a command to speak boldly without fear, and not to keep silence. From
 this we may infer that his faith in Christ’s presence was failing, that
 fear was beginning to produce hesitation, and that the work of extending
 the Gospel was in danger of being arrested.
-<sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup> The servant of God
+[^17] The servant of God
 received conscious strength in the moment of trial and conflict; and the
 divine words were fulfilled in the formation of a large and flourishing
 church at Corinth, and in a safe and continued residence in that city,
@@ -391,7 +391,7 @@ had endeavored to allay by his first Epistle was not arrested, and the
 fanatical portion of the church had availed themselves of the impression
 produced by St. Paul’s personal teaching to increase it. It will be
 remembered that a subject on which he had especially dwelt while he was
-at Thessalonica, <sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup> and to
+at Thessalonica, [^18] and to
 which he had also alluded in his first Epistle (1 Thess. 5:1 11), was
 the second advent of Our Lord. We know that our Savior Himself had
 warned His disciples that” of that day and that hour knoweth no man, no,
@@ -421,7 +421,7 @@ had been remembered by all those who have extracted such numerous and
 discordant prophecies and anathemas from certain passages in the
 following Epistle.
 
-Second Epistle to the Thessalonians. <sup>**[<sup>19</sup>](#sdfootnote19sym)**</sup>
+Second Epistle to the Thessalonians. [^19]
 -------------------------------------------------------------------------------------
 
 ### 2 Thess 1
@@ -445,7 +445,7 @@ troubled, rest with me, when the Lord Jesus shall be revealed from
 heaven with the angels of His might, in flames of fire, taking vengeance
 on those who know not God, and will not hearken to the Glad tidings of
 our Lord Jesus Christ. And from
-<sup>**[<sup>20</sup>](#sdfootnote20sym)**</sup> the presence of the
+[^20] the presence of the
 Lord, and from the brightness of His glorious majesty, they shall
 receive their righteous doom, even an everlasting destruction; in that
 day, when He shall come to be glorified in His saints, and to be admired
@@ -453,9 +453,9 @@ in all believers; [and you are of that number], for you believed my
 testimony. To this end I pray continually on your behalf, that our God
 may count you worthy of the calling wherewith He has called you, and
 mightily perfect within you all the content of goodness
-<sup>**[<sup>21</sup>](#sdfootnote21sym)**</sup> and the work of faith.
+[^21] and the work of faith.
 That the name of our Lord Jesus may be glorified in you, and that you
-may be glorified <sup>**[<sup>22</sup>](#sdfootnote22sym)**</sup> in
+may be glorified [^22] in
 Him, according to the grace of our God, and of our Lord Jesus Christ.
 
 ### 1 Thess 2
@@ -463,7 +463,7 @@ Him, according to the grace of our God, and of our Lord Jesus Christ.
 But concerning the appearing of our Lord Jesus Christ, and our gathering
 together to meet Him, I beseech you, brethren, not rashly to be shaken
 from your soberness of mind, nor to be agitated either by spirit
-<sup>**[<sup>23</sup>](#sdfootnote23sym)**</sup>, or by rumor, or by
+[^23], or by rumor, or by
 letter attributed to me, saying that the day of the Lord is come. Let no
 one deceive you, by any means; for before that day, the falling away
 must first have come, and the man of sin be revealed, the son of
@@ -472,11 +472,11 @@ called God, and against all worship; even to seat himself in the temple
 of God, and openly declare himself a God. Do you not remember that when
 I was still with you, I often told you this? And now you know the
 hindrance why he is not yet revealed, in his own season. For the mystery
-of lawlessness <sup>**[<sup>24</sup>](#sdfootnote24sym)**</sup> is
+of lawlessness [^24] is
 already working, only he, who now hinders, will hinder till he be taken
 out of the way; and then the lawless one will be revealed, whom the Lord
 shall consume with the breath of His mouth,
-<sup>**[<sup>25</sup>](#sdfootnote25sym)**</sup> and shall destroy with
+[^25] and shall destroy with
 the brightness of His appearing. But the appearing of that lawless one
 shall be in the strength of Satan’s working, with all the might and
 signs and wonders of falsehood, and all the delusions of
@@ -541,7 +541,7 @@ correspondence now established, in addition to the political and
 commercial correspondence existing before, between the two capitals of
 Achaia and Macedonia. Along with the official documents which passed
 between the governors of the contiguous provinces
-<sup>**[<sup>26</sup>](#sdfootnote26sym)**</sup>, and the communications
+[^26], and the communications
 between the merchants of the Northern and Western Aegean, letters were
 now sent, which related to the establishment of a” kingdom not of this
 world,” and to” riches” beyond the discovery of human enterprise.

@@ -11,7 +11,7 @@ Introduction
 
 According to Numbers 19:2: “Speak unto the children of Israel, that they
 bring thee a red heifer without spot, wherein is no blemish, and upon
-which never came yoke”. <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+which never came yoke”. [^1]
 
 The Book of Numbers stipulates that the animal must not have hairs of
 any other color, must be in perfect health, and it must not have been
@@ -129,6 +129,6 @@ that the guilt of sin was to be borne by Christ in His sacrifice.
 Instead of losing hope, the convicted believer confesses the unworthy
 act and is forgiven and cleansed (John 13:3–10; 1 John 1:7–10).
 
-[1](#sdfootnote1anc) This introduction is from the Wikipedia article
+[^1]: This introduction is from the Wikipedia article
 “Red Heifer”.
 

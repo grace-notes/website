@@ -15,7 +15,7 @@ the Thessalonian Christians, and to encourage them under their
 persecutions; but it was also called for by some errors into which they
 had fallen. Many of the new converts were uneasy about the state of
 their relatives or friends, who had died since their conversion.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+[^1]
 
 They feared that these departed Christians would lose the happiness of
 witnessing their Lord’s second coming, which they expected soon to
@@ -30,7 +30,7 @@ opportunity for display. These reasons, and others which will appear in
 the letter itself, led St. Paul to write to the Thessalonians as
 follows:
 
-First Epistle to the Thessalonians. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+First Epistle to the Thessalonians. [^2]
 ----------------------------------------------------------------------------------
 
 ### I Thess. 1
@@ -44,7 +44,7 @@ I give continual thanks to God for you all, and make mention of you in
 my prayers without ceasing; remembering, in the presence of our God and
 Father, the working of your faith, and the labors of your love, and the
 steadfastness of your hope of our Lord Jesus Christ.
-<sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
+[^3]
 
 Brethren, beloved by God, I know how God has chosen you; for my Glad
 tidings came to you, not only in word, but also in power; with the might
@@ -73,14 +73,14 @@ fruitless; but after I had borne suffering and outrage (as you know) at
 Philippi, I trusted in my God, and boldly declared to you God’s Glad
 tidings, in the midst of great contention. For my exhortations are not
 prompted by imposture, nor by lasciviousness, nor do I speak in guile.
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup>
+[^4]
 
 But as God has proved my fitness for the charge of the Glad tidings, so
 I speak, not seeking to please men but God, who proves our hearts. For
 never did I use flattering words, as you know; nor hide covetousness
 under fair pretences (God is witness) ; nor did I seek honour from men,
 either from you or others; although I might have been burdensome, as
-Christ’s apostle. <sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> But I
+Christ’s apostle. [^5] But I
 behaved myself among you with gentleness; and as a nurse cherishes her
 own children, so in my fond affection it was my joy to give you not only
 the Glad tidings of God, but my own life also, because you were dear to
@@ -103,7 +103,7 @@ churches of God in Judea, which are in Christ Jesus, inasmuch as you
 suffered the like persecution from your own countrymen, which they
 endured from the Jews; who killed both the Lord Jesus, and the prophets,
 and who have driven me forth [from city to city]
-<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>; a people displeasing to
+[^6]; a people displeasing to
 God, and enemies to all mankind, who would hinder me from speaking to
 the Gentiles for their salvation: continuing always to fill up the
 measure of their sins; but the wrath [of God] has overtaken them to
@@ -141,7 +141,7 @@ render to God for you, for all the joy which you cause me in the
 presence of my God? Night and day, I pray exceeding earnestly to see you
 face to face, and to complete what is yet wanting in your faith. Now,
 may our God and Father Himself, and our Lord Jesus,
-<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup> direct my path towards
+[^7] direct my path towards
 you. Meantime, may the Lord cause you to increase and abound in love to
 one another and to all men; even as I to you. And so may He keep your
 hearts steadfast and unblameable in holiness, in the presence of our God
@@ -155,7 +155,7 @@ would do so more and more. For you know what commands I delivered to you
 by the authority of the Lord Jesus. This, then, is the will of God, even
 your sanctification; that you should keep yourselves from fornication,
 that each of you should learn to master his body,
-<sup>**[<sup>8</sup>](#sdfootnote8sym)**</sup> in sanctification and
+[^8] in sanctification and
 honour; not in lustful passions, like the Heathen who know not God; that
 no man wrong his brother in this matter by transgression. All such the
 Lord will punish, as I forewarned you by my testimony. For God called us
@@ -174,7 +174,7 @@ manifest to those without, and that you may need help from no man.
 But I would not have you ignorant, brethren, concerning those who are
 asleep, that you sorrow not like other men who have no hope. For if we
 believe that Jesus died and rose again, so also will God, through Jesus,
-<sup>**[<sup>9</sup>](#sdfootnote9sym)**</sup> bring back those who
+[^9] bring back those who
 sleep, together with Him. This I declare to you, in the word of the
 Lord, that we who are living, who survive to the appearing of the Lord,
 shall not come before those who sleep. For the Lord himself shall
@@ -182,7 +182,7 @@ descend from heaven with the shout of war, the Archangel’s voice, and
 the trumpet of God; and first the dead in Christ shall rise; then we the
 living, who remain, shall be caught up with them among the clouds to
 meet the Lord in the air; and so we shall be for ever with the Lord.
-Wherefore comfort <sup>**[<sup>10</sup>](#sdfootnote10sym)**</sup> one
+Wherefore comfort [^10] one
 another with these words.
 
 ### I Thess 5
@@ -193,7 +193,7 @@ as a robber in the night; and while men say Peace and Safety,
 destruction shall come upon them in a moment, as the pangs of travail
 upon a woman with child; and they shall find no escape. But you,
 brethren, are not in darkness, that The Day should come upon you as the
-robber on sleeping men; <sup>**[<sup>11</sup>](#sdfootnote11sym)**</sup>
+robber on sleeping men; [^11]
 for you are all the children of the light and of the day.
 
 We are not of the night, nor of darkness; therefore let us not sleep as
@@ -205,7 +205,7 @@ His wrath, but to obtain salvation, hath God ordained us, through our
 Lord Jesus Christ, who died for us, that whether we wake or sleep we
 should live together with Him. Wherefore exhort one another, and build
 one another up, 1 even as you already do.
-<sup>**[<sup>12</sup>](#sdfootnote12sym)**</sup>
+[^12]
 
 I beseech you, brethren, to acknowledge those who are laboring among
 you; who preside over you in the Lord’s name, and give you admonition. I
@@ -213,7 +213,7 @@ beseech you to esteem them very highly in love, for their work’s sake.
 And maintain peace among yourselves.
 
 POSTSCRIPT [ADDRESSED TO THE PRESBYTERS (?)].
-<sup>**[<sup>13</sup>](#sdfootnote13sym)**</sup>
+[^13]
 
 But you, brethren, I exhort; admonish the disorderly, encourage the
 timid, support the weak, be patient with all. Take heed that none of you
@@ -222,10 +222,10 @@ and to all men. Rejoice evermore; pray without ceasing; continue to give
 thanks whatever be your lot; for this is the will of God, in Christ
 Jesus concerning you. Quench not [the manifestation of] the Spirit;
 think not meanly of prophesying;
-<sup>**[<sup>14</sup>](#sdfootnote14sym)**</sup> try all [which the
+[^14] try all [which the
 prophets utter]; reject the false, but keep the good; hold yourselves
 aloof from every form of evil.
-<sup>**[<sup>15</sup>](#sdfootnote15sym)**</sup>
+[^15]
 
 2a Now may the God of peace Himself sanctify you wholly; and may your
 spirit and soul and body together be preserved blameless, at the
@@ -264,7 +264,7 @@ equivalent to the denunciation of woe. He shook the dust off his
 garments, (Acts 18:6) and proclaimed himself innocent of the blood of
 those who refused to listen to the voice which offered them salvation. A
 proselyte, whose name was Justus,
-<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup> opened his door to the
+[^16] opened his door to the
 rejected Apostle; and that house became thenceforward the place of
 public teaching.
 
@@ -370,13 +370,13 @@ vouchsafed at this critical period (Acts 18?9,10). We have already had
 occasion to observe, that such timely visitations were granted to the
 Apostle, when he was most in need of supernatural aid. In the present
 instance, the Lord, who spoke to him in the night, gave him an assurance
-of His presence, <sup>**[<sup>17</sup>](#sdfootnote17sym)**</sup> and a
+of His presence, [^17] and a
 promise of safety, along with a prophecy of good success at Corinth, and
 a command to speak boldly without fear, and not to keep silence. From
 this we may infer that his faith in Christ’s presence was failing, that
 fear was beginning to produce hesitation, and that the work of extending
 the Gospel was in danger of being arrested.
-<sup>**[<sup>18</sup>](#sdfootnote18sym)**</sup>
+[^18]
 
 The servant of God received conscious strength in the moment of trial
 and conflict; and the divine words were fulfilled in the formation of a
@@ -389,7 +389,7 @@ had endeavored to allay by his first Epistle was not arrested, and the
 fanatical portion of the church had availed themselves of the impression
 produced by St. Paul’s personal teaching to increase it. It will be
 remembered that a subject on which he had especially dwelt while he was
-at Thessalonica, <sup>**[<sup>19</sup>](#sdfootnote19sym)**</sup> and to
+at Thessalonica, [^19] and to
 which he had also alluded in his first Epistle (1 Thess. 5:1 11), was
 the second advent of Our Lord. We know that our Savior Himself had
 warned His disciples that” of that day and that hour knoweth no man, no,
@@ -421,7 +421,7 @@ period. It would have been well if this had been remembered by all those
 who have extracted such numerous and discordant prophecies and anathemas
 from certain passages in the following Epistle.
 
-Second Epistle to the Thessalonians. <sup>**[<sup>20</sup>](#sdfootnote20sym)**</sup>
+Second Epistle to the Thessalonians. [^20]
 -------------------------------------------------------------------------------------
 
 ### 2 Thess 1
@@ -445,7 +445,7 @@ troubled, rest with me, when the Lord Jesus shall be revealed from
 heaven with the angels of His might, in flames of fire, taking vengeance
 on those who know not God, and will not hearken to the Glad tidings of
 our Lord Jesus Christ. And from
-<sup>**[<sup>21</sup>](#sdfootnote21sym)**</sup> the presence of the
+[^21] the presence of the
 Lord, and from the brightness of His glorious majesty, they shall
 receive their righteous doom, even an everlasting destruction; in that
 day, when He shall come to be glorified in His saints, and to be admired
@@ -453,9 +453,9 @@ in all believers; [and you are of that number], for you believed my
 testimony. To this end I pray continually on your behalf, that our God
 may count you worthy of the calling wherewith He has called you, and
 mightily perfect within you all the content of goodness
-<sup>**[<sup>22</sup>](#sdfootnote22sym)**</sup> and the work of faith.
+[^22] and the work of faith.
 That the name of our Lord Jesus may be glorified in you, and that you
-may be glorified <sup>**[<sup>23</sup>](#sdfootnote23sym)**</sup> in
+may be glorified [^23] in
 Him, according to the grace of our God, and of our Lord Jesus Christ.
 
 ### 1 Thess 2
@@ -463,7 +463,7 @@ Him, according to the grace of our God, and of our Lord Jesus Christ.
 But concerning the appearing of our Lord Jesus Christ, and our gathering
 together to meet Him, I beseech you, brethren, not rashly to be shaken
 from your soberness of mind, nor to be agitated either by spirit
-<sup>**[<sup>24</sup>](#sdfootnote24sym)**</sup>, or by rumor, or by
+[^24], or by rumor, or by
 letter attributed to me, saying that the day of the Lord is come. Let no
 one deceive you, by any means; for before that day, the falling away
 must first have come, and the man of sin be revealed, the son of
@@ -472,11 +472,11 @@ called God, and against all worship; even to seat himself in the temple
 of God, and openly declare himself a God. Do you not remember that when
 I was still with you, I often told you this? And now you know the
 hindrance why he is not yet revealed, in his own season. For the mystery
-of lawlessness <sup>**[<sup>25</sup>](#sdfootnote25sym)**</sup> is
+of lawlessness [^25] is
 already working, only he, who now hinders, will hinder till he be taken
 out of the way; and then the lawless one will be revealed, whom the Lord
 shall consume with the breath of His mouth,
-<sup>**[<sup>26</sup>](#sdfootnote26sym)**</sup> and shall destroy with
+[^26] and shall destroy with
 the brightness of His appearing. But the appearing of that lawless one
 shall be in the strength of Satan’s working, with all the might and
 signs and wonders of falsehood, and all the delusions of
@@ -541,7 +541,7 @@ correspondence now established, in addition to the political and
 commercial correspondence existing before, between the two capitals of
 Achaia and Macedonia. Along with the official documents which passed
 between the governors of the contiguous provinces
-<sup>**[<sup>27</sup>](#sdfootnote27sym)**</sup>, and the communications
+[^27], and the communications
 between the merchants of the Northern and Western Aegean, letters were
 now sent, which related to the establishment of a” kingdom not of this
 world,” and to” riches” beyond the discovery of human enterprise.
@@ -572,16 +572,16 @@ withdrew the teacher so often from his anxious converts, have resulted
 in our possession of inspired Epistles, in all their freshness and
 integrity, and with all their lessons of wisdom and love.
 
-[1](#sdfootnote1anc) This article is from Conybeare, W. J. and Howson,
+[^1]: This article is from Conybeare, W. J. and Howson,
 J. S., *The Life and Epistles of St. Paul, Chapter 11.*
 
-[2](#sdfootnote2anc) translation by Conybeare and Howson
+[^2]: translation by Conybeare and Howson
 
-[3](#sdfootnote3anc) Paul is referring to the time when he first visited
+[^3]: Paul is referring to the time when he first visited
 and converted the Thessalonians, the “hope” spoken of was the hope of
 our Lord’s coming.
 
-[4](#sdfootnote4anc) In this and the following verses we have allusions
+[^4]: In this and the following verses we have allusions
 to the accusations brought against St. Paul by his Jewish opponents. He
 would of course have been accused of imposture, as the preacher of a
 miraculous revelation; the charge of impurity might also have been
@@ -589,7 +589,7 @@ suggested to impure minds, as connected with the conversion of female
 proselytes; the charge of seeking to please men, was repeated by the
 Judaizers in Galatia (cf. Gal. 1:10).
 
-[5](#sdfootnote5anc) One of the grounds upon which St. Paul’s Judaizing
+[^5]: One of the grounds upon which St. Paul’s Judaizing
 opponents denied his apostolic authority, was the fact that he (in
 general) refused to be maintained by his converts, whereas, our Lord had
 given to His apostles the right of being so maintained. St. Paul fully
@@ -598,26 +598,26 @@ passages, especially 1 Cor. 9; and he here takes care to allude to his
 possession of the right, while mentioning his renunciation of it. Cf. 2
 Thess. 3:9.
 
-[6](#sdfootnote6anc) Referring to his recent expulsion from Thessalonica
+[^6]: Referring to his recent expulsion from Thessalonica
 and Berea.
 
-[7](#sdfootnote7anc) The word for “Christ” is omitted by the best
+[^7]: The word for “Christ” is omitted by the best
 manuscripts, both here and in verse 15.
 
-[8](#sdfootnote8anc) The original means, to gain possession of; to
+[^8]: The original means, to gain possession of; to
 acquire for one’s own use. The use of ‘vessel’ for body is common, and
 found 2 Cor. 4:7. Now a man may be said to gain possession of his own
 body when he subdues those lusts which tend to destroy his mastery over
 it. Hence the interpretation which we have adopted.
 
-[9](#sdfootnote9anc) This connection is more natural than that of the
+[^9]: This connection is more natural than that of the
 Authorized Version.
 
-[10](#sdfootnote10anc) This verb, originally “to call to one’s side,”
+[^10]: This verb, originally “to call to one’s side,”
 thence “to comfort,” more usually “to exhort,” must be translated
 according to the context.
 
-[11](#sdfootnote11anc) There is some authority for the accusative plural
+[^11]: There is some authority for the accusative plural
 – “as the daylight surprises robbers;” and this sort of transition,
 where a word suggests a rapid change from one metaphor to another, is
 not unlike the style of St. Paul. We may add that the AV, in translating
@@ -625,14 +625,14 @@ the word “thief”, both here and elsewhere, gives an inadequate
 conception of the word. It is in fact the modern Greek which denotes a
 “bandit”, who comes to murder as well as to steal.
 
-[12](#sdfootnote12anc) The full meaning is, “build one another up, that
+[^12]: The full meaning is, “build one another up, that
 you may all together grow into a temple of God.” The word is frequently
 used by St. Paul in this sense, which is fully explained in 1 Cor.
 3:10-17. It is very difficult to express the meaning by any single word
 in English, and yet it would weaken the expression too much if it were
 diluted into a periphrasis fully expressing its meaning.
 
-[13](#sdfootnote13anc) It appears probably, as Chrysostom thought, that
+[^13]: It appears probably, as Chrysostom thought, that
 those who are here directed “to admonish” are the same who are described
 immediately before (verse 12) as “giving admonition.” Also they are very
 solemnly directed (verse 27) to see that the letter is read to all the
@@ -640,26 +640,26 @@ Christians in Thessalonica; which seems to imply that they presided over
 the Christian assemblies. At the same time it must be admitted that many
 of the duties here enjoined are duties of all Christians.
 
-[14](#sdfootnote14anc) We know, from 1<sup>st</sup> Corinthians, that
+[^14]: We know, from 1<sup>st</sup> Corinthians, that
 this warning was needed in the early church. (see 1 Cor. 14). The gift
 of prophesying (i.e., inspired preaching) had less the appearance of a
 supernatural gift than several of the other charismas; and hence it was
 thought little of by those who sought more for display that edification.
 
-[15](#sdfootnote15anc) Not “appearance,” but *species* under a *genus*.
+[^15]: Not “appearance,” but *species* under a *genus*.
 
-[16](#sdfootnote16anc) Nothing is known of Justus; his name is Latin.
+[^16]: Nothing is known of Justus; his name is Latin.
 
-[17](#sdfootnote17anc) Compare Matt. 28:20.
+[^17]: Compare Matt. 28:20.
 
-[18](#sdfootnote18anc) Observe the strong expressions which St. Paul
+[^18]: Observe the strong expressions which St. Paul
 himself uses (1 Cor. 2:3) of his own state of mind during this stay at
 Corinth.
 
-[19](#sdfootnote19anc) As he himself reminds his readers (2 Thess. 2:5),
+[^19]: As he himself reminds his readers (2 Thess. 2:5),
 and as we find in Acts 17:7.
 
-[20](#sdfootnote20anc) It is evident that this Epistle was written at
+[^20]: It is evident that this Epistle was written at
 the time here assigned to it, soon after the first, from the following
 considerations:
 
@@ -673,36 +673,36 @@ Compare 2 Thess. 3:6-14 with 1 Thess. 4:10-12, and 1 Thess. 2:9.
 be observed that Timothy was next with St. Paul at Ephesus; and that,
 before then, Silas disappears from the history.
 
-[21](#sdfootnote21anc) The preposition here has the sense of *proceeding
+[^21]: The preposition here has the sense of *proceeding
 from*.
 
-[22](#sdfootnote22anc) The same word is used in the sense of *good will,
+[^22]: The same word is used in the sense of *good will,
 good pleasure, satisfaction*, in Luke 2:14 and Rom. 10:1. The AV here
 would require a word to be supplied.
 
-[23](#sdfootnote23anc) The glory of our Lord at His coming will be
+[^23]: The glory of our Lord at His coming will be
 manifested in His people (see v. 10); that is, they, by virtue of their
 union with Him, will partake of His glorious likeness. (Cf. Rom.
 8:17-19) And, even in this world, this glorification takes place
 partially, by their moral conformity to His image. See Rom. 8:30 and 2
 Cor. 3:18.
 
-[24](#sdfootnote24anc) I.e., any pretended revelation of those who
+[^24]: I.e., any pretended revelation of those who
 claimed inspiration.
 
-[25](#sdfootnote25anc) The proper meaning of the Greek here is *one
+[^25]: The proper meaning of the Greek here is *one
 unrestrained by law*; hence it is often used as *a transgressor*, or,
 generally *a wicked man*; but in this passage it seems best to keep to
 the original meaning of the word.
 
-[26](#sdfootnote26anc) This appears to be an allusion to (although not
+[^26]: This appears to be an allusion to (although not
 an exact quotation of) Isaiah 11:4, “With the breath of His lips He
 shall destroy the impious man.” Some of the Rabbinical commentators
 applied this prophecy (which was probably in St. Paul’s thoughts) to the
 Messiah’s coming, and interpreted “the impious” to mean an individual
 opponent of the Messiah.
 
-[27](#sdfootnote27anc) Cicero’s *Cilician Correspondence* furnishes many
+[^27]: Cicero’s *Cilician Correspondence* furnishes many
 specimens of the letters which passed between the governors of
 neighboring provinces.
 

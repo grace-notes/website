@@ -21,7 +21,7 @@ entire Jewish bible (the body of scripture known to non-Jews as the Old
 Testament and to Jews as the Tanakh or Written Torah), or in its
 broadest sense, to the whole body of Jewish law and teachings.
 
-Written Torah (Tanakh <sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>)
+Written Torah (Tanakh [^1])
 
 To Jews, there is no “Old Testament.” The books that Christians call the
 New Testament are not part of Jewish scripture. The so-called Old
@@ -156,12 +156,12 @@ the entire first five books, divided up by the weekly parshiyot, with
 the haftarah portion inserted after each week’s parshah.
 
 From the website **Judaism 101**
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+[^2]
 
-[1](#sdfootnote1anc) Written Torah is often referred to as the
+[^1]: Written Torah is often referred to as the
 **Tanakh**, which is an acrostic of Torah, Nevi’im and Ketuvim.
 
-[2](#sdfootnote2anc) **http://www.jewfaq.org** . The site is created,
+[^2]: **http://www.jewfaq.org** . The site is created,
 written and maintained by Tracey Rich. Tracey says “I do not claim to be
 a rabbi or an expert on Judaism; I’m just a traditional, observant Jew
 who has put in a lot of research. I work as the Educational Director for

@@ -54,7 +54,7 @@ gate. That in the east was the gate of Nicanor, and two chambers
 belonged to it, one on the right hand, and one on the left–the one the
 chamber of Phineas, the wardrobe keeper, and the other the chamber of
 those who made the pancake offering.
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup>
+[^1]
 
 5. And that on the north was the gate Nitsuts, and it was after the form
 of an Exhedra, and an Alijah was built on the top of it; and the priests
@@ -194,7 +194,7 @@ for laying the sacrifices: 20 by 20. But when the children of the
 Captivity came up, they added to it 4 cubits on the south and 4 on the
 west like a gamma, because it is said, ‘And Ariel shall be 12 cubits
 long by 12 broad, square.’
-<sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup> That does not mean that
+[^2] That does not mean that
 it was only 12 by 12, since it is added: ‘In the four corners thereof,’
 to teach that it measured from the middle 12 cubits in every direction."
 
@@ -263,7 +263,7 @@ the entrance to the Sanctuary, and was suspended on the top of beams.
 Every one who vowed a leaf, or a berry, or a bunch, brought it, and hung
 it up there. Rabbi Eliezer, the son of Rabbi Zadok, said: “It happened
 (that they had to remove it) and there were numbered for it 300
-priests.” <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup>
+priests.” [^3]
 
 Perek IV.
 
@@ -275,7 +275,7 @@ the thickness of the wall, and the inner doors opened inwards into the
 house, to cover behind the doors. For, the whole house was covered with
 gold, except behind the doors. Rabbi Jehudah said: "They [both pairs of
 doors] stood within the entrance, and were like Azteramita,
-<sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> and they folded
+[^4] and they folded
 backwards–these 2 1/2 cubits, and those 2 1/2 cubits. Half a cubit the
 door-post from this [corner], and half a cubit the doorpost from that,
 and so it is said: ‘And the doors had two leaves alike, two

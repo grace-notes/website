@@ -397,6 +397,6 @@ Snyder, BA, 32 [1969], 2–24) — but with the later concern for relics
 Christians piously believed, for apologetical reasons, that his exact
 grave could be located (O’Connor, p. 209).
 
-[1](#sdfootnote1anc) This article is taken from the International
+[^1]: This article is taken from the International
 Standard Bible Encyclopedia
 

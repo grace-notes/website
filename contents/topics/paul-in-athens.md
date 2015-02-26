@@ -288,7 +288,7 @@ recollections of the past.
 The Agora
 
 On the south side is the Pnyx,
-<sup>**[<sup>1</sup>](#sdfootnote1sym)**</sup> a sloping hill partially
+[^1] a sloping hill partially
 leveled into an open area for political assemblies; on the north side is
 the more craggy eminence of the Areopagus; before us, towards the east,
 is the Acropolis, towering high above the scene of which it is the glory
@@ -495,7 +495,7 @@ could not have been forgotten, for a peculiarly affectionate feeling
 subsisted among the Epicureans towards their founder. He left this
 garden as a legacy to the school, on condition that philosophy should
 always be taught there, and that he himself should be annually
-commemorated. <sup>**[<sup>2</sup>](#sdfootnote2sym)**</sup>
+commemorated. [^2]
 
 The sect had dwindled into smaller numbers than their rivals, in the
 middle of the first century. But it is highly probable that, even then,
@@ -782,7 +782,7 @@ tells us that \`they who mourn are blessed,” and which commands us to
 
 If Stoicism, in its full development, was utterly opposed to
 Christianity, the same may be said of the very primary principles of the
-Epicurean <sup>**[<sup>3</sup>](#sdfootnote3sym)**</sup> school. If the
+Epicurean [^3] school. If the
 Stoics were Pantheists, the Epicureans were virtually Atheists. Their
 philosophy was a system of materialism, in the strictest sense of the
 word. In their view, the world was formed by an accidental concourse of
@@ -953,7 +953,7 @@ opinions.
 
 Two different impressions were produced by St. Paul’s words, according
 to the disposition of those who heard him. Some said that he was a mere”
-babbler,” <sup>**[<sup>4</sup>](#sdfootnote4sym)**</sup> and received
+babbler,” [^4] and received
 him with contemptuous derision. Others took a more serious view, and,
 supposing that he was endeavoring to introduce new objects of worship”
 had their curiosity excited, and were desirous to hear more. If we
@@ -990,7 +990,7 @@ immemorial, to pass sentence on the greatest criminals, and to decide
 the most solemn questions connected with religion. The judges sat in the
 open air, upon seats hewn out in the rock, on a platform which was
 ascended by a flight of stone steps immediately from the Agora.
-<sup>**[<sup>5</sup>](#sdfootnote5sym)**</sup> On this spot a long
+[^5] On this spot a long
 series of awful causes, connected with crime and religion, had been
 determined, beginning with the legendary trial of Mars, which gave to
 the place its name of \`Mars” Hill.” A temple of the god,” as we have
@@ -1116,7 +1116,7 @@ humiliating, inscription. And, using this inscription as a text,” he
 spoke to them, as follows, the Words of Eternal Wisdom.
 
 **22 Ye men of Athens, all things which. I behold bear witness to your
-carefulness in religion.**<sup>**[<sup>6</sup>](#sdfootnote6sym)**</sup>
+carefulness in religion.**[^6]
 
 **23 For as I passed through your city, and beheld the objects of your
 worship I found amongst them an altar with this inscription, TO THE
@@ -1139,7 +1139,7 @@ find Him, though He be not far from every one of us, for in Him we live
 and move and have our being;**
 
 **28 as certain also of your own poets have said.” For we are also His
-offspring.”**<sup>**[<sup>7</sup>](#sdfootnote7sym)**</sup>
+offspring.”**[^7]
 
 **29 Forasmuch, then, as we are the offspring of God, we ought not to
 think that the Godhead is like unto gold, or silver, or stone, graven by
