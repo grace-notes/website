@@ -37,7 +37,7 @@ module.exports = (env, callback)->
       q.push { args: [@, env, locals, contents, templates] }, callback
 
     _getView: (env, locals, contents, templates, callback) =>
-      tmp.file { postfix: '.pdf' }, (err, path, fd, cleanupCallback)=>
+      tmp.file { template: '/tmp/pandoc-XXXXXXX.pdf' }, (err, path, fd, cleanupCallback)=>
         if err then throw err
         error = ''
 
