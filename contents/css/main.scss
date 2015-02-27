@@ -3,10 +3,7 @@ body {
   font-family: "adobe-caslon-pro", "Times New Roman", serif;
   font-size: 26px;
   line-height: 1.52;
-  background-color: #ffffff;
-  background-image: url(../img/paper.jpg), url(../img/paper.jpg);
-  background-size: 60px 60px, auto;
-  background-blend-mode: soft-light, luminosity;
+  background-color: #fff;
   text-rendering: optimizeLegibility;
   position: relative;
   font-variant-ligatures: common-ligatures;
@@ -63,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5em;
+  font-size: 2.1em;
   margin-bottom: 0.2em;
   margin-top: 0.5em;
   clear: both;
@@ -324,7 +321,7 @@ footer .copy, footer .copy a {
 }
 
 article.listing {
-  padding: 15px;
+  padding: 30px;
   margin: 0 -15px;
   border: none;
   header {
@@ -357,12 +354,6 @@ article.listing {
   }
 }
 
-.btn-default {
-  background: rgba(255,255,245,0.5);
-  &:hover {
-    background: rgba(255,255,235,0.2);
-  }
-}
 
 .article header h2 a {
   text-decoration: none;
