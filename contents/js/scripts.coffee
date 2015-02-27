@@ -65,6 +65,18 @@ $(document).ready ->
         $(".topics-list li[data-letter='#{f}']").show()
         setTimeout -> $('.topics-list').css('min-height', 0)
 
+
+   # parallel verses
+
+   $('.parallel-verses').each ->
+     cols = $(this).find('[class*="col-"]').map ->
+       $(this).find('p')
+     .get()
+     for i in [0..cols[0].length]
+       height = Math.max.apply(null, ($(col.get(i)).outerHeight() for col in cols))
+       $(col.get(i)).css('min-height', height) for col in cols
+
+
 unique = (a)->
   o = {}
   r = []

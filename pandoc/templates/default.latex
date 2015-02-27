@@ -6,7 +6,7 @@ $else$
 $endif$
 \usepackage{fancyhdr}
 \usepackage{multicol}
-\setlength{\columnsep}{0.4in}
+\setlength{\columnsep}{$if(gutter)$$gutter$$else$0.4in$endif$}
 \usepackage{textcomp}
 $if(linestretch)$
 \usepackage{setspace}
@@ -196,7 +196,7 @@ $endif$
 
 $if(singleColumnPdf)$
 $else$
-\begin{multicols}{2}
+\begin{multicols}{$if(columns)$$columns$$else$2$endif$}
 $endif$
 
 $if(lot)$
