@@ -30,4 +30,5 @@ RUN npm install
 EXPOSE 80
 
 # VOLUMES_FROM
-CMD wintersmith build -v -o /srv/www & nginx
+
+CMD wintersmith preview -C /app -p 80 -d www2.gracenotes.info
