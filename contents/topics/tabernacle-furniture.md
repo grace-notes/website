@@ -7,11 +7,6 @@ tableOfContents: false
 template: topic.jade
 ---
 
-
-**Tabernacle Furniture 2**
-
-The Furniture of the Tabernacle
-
 Brazen Altar – this altar was the beginning of a person’s approach to
 God. Animal sacrifices made there taught that substitutionary sacrifice
 is the first step toward fellowship with God. When a person passed

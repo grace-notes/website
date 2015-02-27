@@ -1,7 +1,7 @@
 
 body {
-  font-family: 'Lora', serif;
-  font-size: 23px;
+  font-family: "adobe-caslon-pro", "Times New Roman", serif;
+  font-size: 26px;
   line-height: 1.52;
   background-color: #ffffff;
   background-image: url(../img/paper.jpg), url(../img/paper.jpg);
@@ -9,6 +9,12 @@ body {
   background-blend-mode: soft-light, luminosity;
   text-rendering: optimizeLegibility;
   position: relative;
+  font-variant-ligatures: common-ligatures;
+  font-variant-numeric: oldstyle-nums;
+  -moz-font-feature-settings: "liga", "clig", "onum";
+  -ms-font-feature-settings: "liga", "clig", "onum";
+  -webkit-font-feature-settings: "liga", "clig", "onum";
+  font-feature-settings: "liga", "clig", "onum";
 }
 
 .content-wrap {
@@ -59,6 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2.5em;
   margin-bottom: 0.2em;
+  margin-top: 0.5em;
   clear: both;
 }
 
@@ -520,14 +527,15 @@ p code {
 /* media queries */
 
 @media (min-width: 1600px) {
-  body { font-size: 26px; }
+  body { font-size: 30px; }
 }
 
 @media (max-width: 900px) {
-  body { font-size: 18px; }
+  body { font-size: 22px; }
 }
 
 @media (max-width: 690px) {
+  body { font-size: 18px; }
   .content-wrap {
     width: auto;
     padding: 0 1em;

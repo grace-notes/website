@@ -2,7 +2,7 @@
 title: "Stephen"
 pdf: "stephen.pdf"
 description: "an excellent study of the first martyr!"
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 
@@ -16,7 +16,7 @@ the early Church’s first martyr. His name means “crown.” In some
 churches, a saint’s day is celebrated for him on December 26, and some
 Christians regard him as the patron saint of stonemasons.
 
-**Stephen and Early Hellenistic Jewish Christianity**
+## Stephen and Early Hellenistic Jewish Christianity ##
 
 It is virtually certain that Stephen was a Hellenistic Jew, despite
 attempts to describe him as a Gentile (Blackman), an Essene (or
@@ -59,7 +59,7 @@ challenged his teaching (presumably about Jesus and the implications of
 what He had accomplished), but none could “withstand the wisdom and the
 Spirit with which he spoke” (6:10).
 
-**His View of the Law and the Temple**
+## His View of the Law and the Temple ##
 
 Luke reported in Acts neither the content of Stephen’s teaching nor the
 exact nature of his debate with the Hellenistic Jews. These must be
@@ -98,7 +98,7 @@ newness as Paul was later to do, he probably had begun to explore (in a
 more radical way than M. Simon allows) the implications of what Jesus
 had said and done.
 
-**His Trial and Speech**
+## His Trial and Speech ##
 
 Stephen was brought to a formal trial before the Sanhedrin (“council”),
 which included “the elders and the scribes” (6:12) as well as the high
@@ -152,7 +152,7 @@ Stephen does not articulate it in these terms, the reader of Luke-Acts
 will know that a new era in the history of salvation has been
 inaugurated.
 
-**His Martyrdom**
+## His Martyrdom ##
 
 Acts 7:54 notes the rage of the crowd at what Stephen was saying, and
 that “they ground their teeth against him.” At this point Stephen
@@ -193,7 +193,7 @@ Stephen was stoned (the penalty for blasphemy) outside the city by (at
 least to begin with) the witnesses against him (7:58; Lev. 24:14; Dt.
 17:5–7).
 
-**His Significance**
+## His Significance ##
 
 Stephen is a pivotal figure in the book of Acts and in the history of
 the early Church. Stephen and the other Hellenistic Christians provide
@@ -220,7 +220,7 @@ seems to hint by the note about Saul’s presence at Stephen’s execution
 hostility of his Jewish brethren and at the cost of his life was later
 to be mirrored in Paul’s own experience.
 
-**From Conybeare and Howson**
+## From Conybeare and Howson ##
 
 St. Stephen the Forerunner of St. Paul
 

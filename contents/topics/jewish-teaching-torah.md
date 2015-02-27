@@ -11,7 +11,7 @@ to provide context and comparison of Jewish ideas with Christian, in
 particular in relation to expositional teaching of the book of Acts and
 the life and epistles of Paul the Apostle. [Warren Doud]*
 
-##### The Torah
+# The Torah
 
 The word “Torah” is a tricky one, because it can mean different things
 in different contexts. In its most limited sense, “Torah” refers to the
@@ -37,7 +37,7 @@ although there are some occasional, slight differences in the numbering
 of verses and there are a few significant differences in the
 translations.
 
-##### TORAH (The Law)
+# TORAH (The Law)
 
 Bereishith (In the beginning…) (Genesis)
 
@@ -49,7 +49,7 @@ Bamidbar (In the wilderness…) (Numbers)
 
 Devarim (The words…) (Deuteronomy)
 
-##### NEVI’IM (The Prophets)
+# NEVI’IM (The Prophets)
 
 Yehoshua (Joshua)
 
@@ -65,7 +65,7 @@ Yirmyah (Jeremiah)
 
 Yechezqel (Ezekiel)
 
-##### The Twelve (treated as one book)
+# The Twelve (treated as one book)
 
 Hoshea (Hosea)
 
@@ -91,7 +91,7 @@ Zekharyah (Zechariah)
 
 Malakhi
 
-##### KETHUVIM (The Writings)
+# KETHUVIM (The Writings)
 
 Tehillim (Psalms)
 
@@ -115,7 +115,7 @@ Ezra & Nechemyah (Nehemiah) (treated as one book)
 
 Divrei Ha-Yamim (The words of the days) (Chronicles)
 
-##### Torah Scrolls
+# Torah Scrolls
 
 The scriptures used in services are written on parchment scrolls. They
 are always hand-written, in attractive Hebrew calligraphy with “crowns”
@@ -144,7 +144,7 @@ scroll is a valuable skill, and usually requires substantial advance
 preparation (reviewing the passage in a text with points). See Hebrew
 Alphabet for more on pointed and unpointed texts.
 
-##### Chumash
+# Chumash
 
 Jewish scriptures are sometimes bound in a form that corresponds to the
 division into weekly readings (called parshiyot in Hebrew). Scriptures
@@ -155,8 +155,7 @@ collection of the five books of the Torah. But often, a chumash contains
 the entire first five books, divided up by the weekly parshiyot, with
 the haftarah portion inserted after each week’s parshah.
 
-From the website **Judaism 101**
-[^2]
+From the website **Judaism 101**[^2]
 
 [^1]: Written Torah is often referred to as the
 **Tanakh**, which is an acrostic of Torah, Nevi’im and Ketuvim.

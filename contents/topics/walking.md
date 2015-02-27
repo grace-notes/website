@@ -1,5 +1,5 @@
 ---
-indexTitle: walk, christian
+indexTitle: Walking (The Christian Walk)
 title: "The Christian Walk"
 pdf: "walking.pdf"
 description: "obedience to the command to \"walk worthy of the calling wherewith you are called\"."

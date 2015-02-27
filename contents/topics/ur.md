@@ -35,8 +35,7 @@ copy of which was found in the excavations, probably formed the basis of
 Hammurabi’s code. Remains of this large city were discovered in the
 excavations.
 
-from the Thompson Chain Reference Bible
----------------------------------------
+### from the Thompson Chain Reference Bible
 
 Ur of the Chaldees, now known as Tell Mugheir (Mound of Bitumen), lies
 140 miles south of the site of ancient Babylon and 150 miles northwest

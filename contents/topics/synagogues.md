@@ -3,11 +3,10 @@ title: "Synagogues"
 pdf: "synagogues.pdf"
 description: "a discussion of the makeup and organization of synagogues in the times of the early church; from Sketches of Jewish Social Life, by Alfred Edersheim, Chapters 16 and 17; also from Conybeare and Howson, The Life and Epistles of St. Paul."
 tableOfContents: true
+subtitle: from Conybeare and Howson, “The Life and Epistles of St. Paul”, Chapter 6
 template: topic.jade
 ---
 
-from Conybeare and Howson, “The Life and Epistles of St. Paul”, Chapter
-6
 
 Along with this population of Greeks, Romans, and native Pisidians, a
 greater or smaller number of Jews was intermixed. They may not have been
@@ -114,7 +113,7 @@ emphatic gesture which he used on other occasions (Acts 26:1; 21:40:
 20:34), he beckoned with his hand (Acts 13:16).
 
 Synagogues: Their Origin, Structure and Outward Arrangements
-------------------------------------------------------------
+============================================================
 
 [from “Sketches of Jewish Social Life”, by Alfred Edersheim, Chapters 16
 and 17.]

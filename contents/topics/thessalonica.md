@@ -6,7 +6,7 @@ tableOfContents: false
 template: topic.jade
 ---
 
-**From**[**Thessalonica**](http://en.wikipedia.org/wiki/Thessalonica)**,
+**From *[Thessalonica](http://en.wikipedia.org/wiki/Thessalonica)*,
 an article in Wikipedia.**
 
 Thessaloniki (Greek: Θεσσαλονίκη), historically also known as

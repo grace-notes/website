@@ -1,11 +1,11 @@
 ---
 title: Talmud Shabbath
 pdf: "talmud_shabbath.pdf"
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 
-**Talmud - Mas. Sabbath 73a**
+# Talmud - Mas. Sabbath 73a #
 
 Surely then the first clause [dealing with the greater severity of the
 Sabbath] refers to idolatry, whilst the second treats of other precepts;
@@ -74,7 +74,7 @@ pulling down, extinguishing, kindling, striking with a hammer,18 [and]
 carrying out from one domain to another: these are the forty primary
 labors less one.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________
 
 (1) Thus it was unwitting, because he thought it permitted fat, and
 unintentional, since he had no intention of eating heleb. On the present
@@ -123,7 +123,7 @@ that tearing is a primary labor.
 
 (18) I.e., giving the finishing blow with the hammer.
 
-**Talmud - Mas. Shabbath 73b**
+# Talmud - Mas. Shabbath 73b #
 
 GEMARA. Why state the number? — Said R. Johanan: [To teach] that if one
 performs them all in one state of unawareness, he is liable on account
@@ -180,7 +180,7 @@ WINNOWING, SELECTING, GRINDING AND SIFTING. But winnowing, selecting,
 and sifting are identical?25 — Abaye and Raba both said: Whatever was
 performed in [connection with the erection of] the Tabernacle,
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________
 
 (1) Lit., ‘stands in’ — all the Tannaim, of course, were Palestinians.
 
@@ -242,7 +242,7 @@ refers to this action of directing the water into the trench.
 
 (25) All consist of separating fit from unfit food.
 
-**Talmud - Mas. Shabbath 74a**
+# Talmud - Mas. Shabbath 74a #
 
 even if there are [labors] similar thereto, is counted [separately].1
 Then let him also enumerate pounding [wheat]?2 — Said Abaye: Because a
@@ -299,7 +299,7 @@ husks22 is culpable. Shall we say that Hezekiah holds that it is
 forbidden to select the eatable from the non-eatable? [No.] Lupines are
 different,
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________
 
 (1) What constitutes primary labors is learnt from the Tabernacle (v.
 49b). All these labors were needed for the Tabernacle in the wilderness;
@@ -366,7 +366,7 @@ automatically through the force of his setting it down.
 
 (22) Lit., ‘refuse’.
 
-**Talmud - Mas. Shabbath 74b**
+# Talmud - Mas. Shabbath 74b #
 
 because they are boiled seven times, and if one does not remove it [the
 edible portion], it goes rancid, hence it is like [picking] the
@@ -432,7 +432,7 @@ in R. Johanan’s name: Providing that he knots them.24
 TEARING IN ORDER TO SEW TWO STITCHES. Was there any tearing in the
 Tabernacle? — Rabbah and R. Zera both say:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________
 
 (1) Which is forbidden.
 
@@ -515,7 +515,7 @@ permanent and entails no punishment.
 
 (24) After sewing, so that they will remain.
 
-**Talmud - Mas. Shabbath 75a**
+# Talmud - Mas. Shabbath 75a #
 
 A curtain which was attacked by a moth was torn [round the moth hole]
 and resewn.
@@ -562,7 +562,7 @@ AND SLAUGHTERING IT. As for him who slaughters, on what score is he
 culpable? — Rab said: On the score of dyeing;16 while Samuel said: On
 the score of taking life.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________
 
 (1) If the seam gapes, and he pulls the thread to draw the pieces
 together. This constitutes sewing.
@@ -609,7 +609,7 @@ to his desire.
 (16) The blood that gushes forth from its cut throat stains and dyes the
 flesh.
 
-**Talmud - Mas. Shabbath 75b**
+# Talmud - Mas. Shabbath 75b #
 
 On the score of dyeing but not on the score of taking life!1 Say, on the
 score of dyeing too. Rab said: As to this dictum of mine, I will make an
@@ -678,7 +678,7 @@ only in respect of those who put away.23
 
 AND THAT WHICH IS NOT FIT TO PUT AWAY.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________
 
 (1) Surely not!
 

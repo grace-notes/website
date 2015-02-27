@@ -3,98 +3,10 @@ title: "The Structure of the Talmud"
 indexTitle: "Talmud, Structure of"
 pdf: "talmud_structure.pdf"
 description: "The rabbis of the 2nd and 3rd centuries after Christ organized the Talmud in the form we find it today."
+subtitle: The Sections and Tracts of the Talmud
 tableOfContents: true
 template: topic.jade
 ---
-
-
-##### The Sections and Tracts of the Talmud
-
-[Seder Zeraim (Seeds) 3](#__RefHeading___Toc193120727)
-
-[Seder Moed (Festivals) 3](#__RefHeading___Toc193120728)
-
-[Seder Nashim (Women) 3](#__RefHeading___Toc193120729)
-
-[Seder Nezikin (Damages) 3](#__RefHeading___Toc193120730)
-
-[Seder Kodashim (Holy Things) 4](#__RefHeading___Toc193120731)
-
-[Seder Toharot (Purity) 4](#__RefHeading___Toc193120732)
-
-**[Tractate Berakhot 4](#__RefHeading___Toc193120733)**
-
-**[Tractate Shabbat 5](#__RefHeading___Toc193120734)**
-
-**[Tractate Erubin 6](#__RefHeading___Toc193120735)**
-
-**[Tractate Pesahim 7](#__RefHeading___Toc193120736)**
-
-**[Tractate Yoma 8](#__RefHeading___Toc193120737)**
-
-**[Tractate Sukkah 8](#__RefHeading___Toc193120738)**
-
-**[Tractate Besah 9](#__RefHeading___Toc193120739)**
-
-**[Tractate Rosh Hashanah 10](#__RefHeading___Toc193120740)**
-
-**[Tractate Ta’anit 11](#__RefHeading___Toc193120741)**
-
-**[Tractate Megillah 12](#__RefHeading___Toc193120742)**
-
-**[Tractate Mo’ed Qatan 12](#__RefHeading___Toc193120743)**
-
-**[Tractate Hagigah 13](#__RefHeading___Toc193120744)**
-
-**[Tractate Yebamot 14](#__RefHeading___Toc193120745)**
-
-**[Tractate Ketubot 15](#__RefHeading___Toc193120746)**
-
-**[Tractate Nedarim 16](#__RefHeading___Toc193120747)**
-
-**[Tractate Nazir 16](#__RefHeading___Toc193120748)**
-
-**[Tractate Sotah 17](#__RefHeading___Toc193120749)**
-
-**[Tractate Gittin 18](#__RefHeading___Toc193120750)**
-
-**[Tractate Qiddushin 19](#__RefHeading___Toc193120751)**
-
-**[Tractate Baba Qamma 20](#__RefHeading___Toc193120752)**
-
-**[Tractate Baba Mesi’a 20](#__RefHeading___Toc193120753)**
-
-**[Tractate Baba Batra 21](#__RefHeading___Toc193120754)**
-
-**[Tractate Sanhedrin 23](#__RefHeading___Toc193120755)**
-
-**[Tractate Makkot 24](#__RefHeading___Toc193120756)**
-
-**[Tractate Abodah Zarah 24](#__RefHeading___Toc193120757)**
-
-**[Tractate Horayot 25](#__RefHeading___Toc193120758)**
-
-**[Tractate Shebu’ot 26](#__RefHeading___Toc193120759)**
-
-**[Tractate Zebahim 27](#__RefHeading___Toc193120760)**
-
-**[Tractate Menahot 28](#__RefHeading___Toc193120761)**
-
-**[Tractate Hullin 28](#__RefHeading___Toc193120762)**
-
-**[Tractate Bekhorot 30](#__RefHeading___Toc193120763)**
-
-**[Tractate Arakhin 30](#__RefHeading___Toc193120764)**
-
-**[Tractate Temurah 31](#__RefHeading___Toc193120765)**
-
-**[Tractate Keritot 32](#__RefHeading___Toc193120766)**
-
-**[Tractate Me’ilah 33](#__RefHeading___Toc193120767)**
-
-**[Tractate Tamid 34](#__RefHeading___Toc193120768)**
-
-**[Tractate Niddah 34](#__RefHeading___Toc193120769)**
 
 The written scriptures comprise the **Torah**. In addition to the
 written scriptures there is an “Oral Torah,” a tradition explaining what
@@ -381,10 +293,10 @@ Tract **Yadaim** – ritual uncleanness of the hands
 Tract **Uktzkin** – categorization of things that are susceptible to
 ritual uncleanness.
 
-Tractate Berakhot [^1]
-================================================================
+Tractate Berakhot
+=================
 
-As noted in the following outline, tractate Berakhot expounds the
+[^1] As noted in the following outline, tractate Berakhot expounds the
 liturgical obligations of the Israelite, particularly the recitation of
 the creed, the Shema‘ (“Hear, Israel, the Lord our God, the Lord is
 one”) morning and evening, and the Prayer (the benedictions of
@@ -3432,7 +3344,7 @@ Principal resources for this study are:
 4.  Neusner, Jacob (translation and commentary), “The Babylonian
     Talmud”.
 
-[^1]: The following descriptions of the Tractates in the
-Babylonian Talmud are taken from the translation and commentary on the
-Babylonian Talmud, by Jacob Nuesner.
+[^1]: The following descriptions of the Tractates in the Babylonian
+Talmud are taken from the translation and commentary on the Babylonian
+Talmud, by Jacob Nuesner.
 

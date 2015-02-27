@@ -3,11 +3,9 @@ title: "Divine Guidance"
 pdf: "divineguidance.pdf"
 description: "The divine guidance of Christ; divine guidance for the Christian believer."
 tableOfContents: false
+author: Pastor Mark Perkins
 template: topic.jade
 ---
-
-Written by  
-Pastor Mark Perkins
 
 Jesus Christ functioned under a system of divine guidance that was both
 similar to and unique from that used by church age believers.
@@ -166,7 +164,7 @@ And so Christ obeyed the leadership of the Holy Spirit and entered the
 desert. The entrance was not by hocus pocus but by the recall of
 Messianic prophecy and application.
 
-**Divine Guidance and the Essence of God**
+## Divine Guidance and the Essence of God ##
 
 In order to remain in the direct will of God you must begin with
 humility based on the essence of God proper.

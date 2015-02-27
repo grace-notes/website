@@ -6,7 +6,7 @@ tableOfContents: false
 template: topic.jade
 ---
 
-**The Eruv**
+# The Eruv
 
 The Torah at Exodus 16:29 shows that keeping the Sabbath included all
 Israel going to their tents on that occasion. Rest involved being
@@ -27,7 +27,7 @@ and the admonition to remain in one’s place leaves no doubt that (1) one
 stays home, and that (2) home is where one eats. Here is the topical
 outline of the tractate.
 
-I. The delineation of a limited domain
+### I. The delineation of a limited domain
 
 A. Forming an alleyway into a single domain
 
@@ -36,7 +36,7 @@ Sabbath
 
 C. A well in public domain
 
-II. The **eruv** and the Sabbath-limit of a town
+### II. The **eruv** and the Sabbath-limit of a town
 
 A. The eruv: A symbolic meal for establishing joint ownership of a
 courtyard or for establishing symbolic residence for purposes of travel
@@ -46,7 +46,7 @@ B. The eruv and violating the Sabbath-limit
 
 C. Defining the Sabbath-limit of a town
 
-III. The eruv and commingling ownership of a courtyard or an alleyway
+### III. The eruv and commingling ownership of a courtyard or an alleyway
 
 A. The eruv and the courtyard
 
@@ -62,7 +62,7 @@ E. An eruv for more than one courtyard
 
 F. The eruv and the area of roofs
 
-IV. Public domain in general
+### IV. Public domain in general
 
 The tractate addresses the problems: How can Israelites on the Sabbath
 move about from one private domain to another? How can the community so
@@ -85,7 +85,7 @@ to the symbolic, shared meal or to the equally fictive demarcation line,
 as the case requires: a meal of commingling, or a boundary-marker for
 commingling ownership of private property.
 
-**from the Wikipedia article “Eruv”.**
+### from the Wikipedia article *Eruv*
 
 There are 39 categories of activity prohibited on Shabbat. On Shabbat
 (Jewish Sabbath), the Torah forbids moving an object from one domain to

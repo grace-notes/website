@@ -2,13 +2,15 @@
 title: "Temple: Description and Measurements"
 pdf: "templemeasurement.pdf"
 description: "from Edersheim, Alfred, \"Sketches of Jewish Social Life\", Appendix I."
+subtitle: "from Edersheim, Alfred, “Sketches of Jewish Social Life”, Appendix I."
 tableOfContents: true
 template: topic.jade
 ---
 
-[from Edersheim, Alfred, “Sketches of Jewish Social Life”, Appendix I.
 
-##### Massecheth Middoth: The Mishnah Tractate Describing the Measurements of the Temple
+# Massecheth Middoth
+
+**The Mishnah Tractate Describing the Measurements of the Temple**
 
 Middoth is the tenth Tractate of Seder V. (Kodashim) of the Mishnah. It
 has no Gemara either in the Jerusalem or the Babylon Talmud. In the
@@ -19,7 +21,7 @@ iii. 3, 5, 8; iv. 2, 5; v. 3, 4. Throughout the Mishnah the names of 128
 sages are introduced. Of those mentioned in this Tractate almost all
 witnessed the destruction of the Temple.
 
-Perek I.
+## Perek I.
 
 1. The priests kept watch in the Temple in three places: in the house
 Avtinas, and in the house Nitsuts, and in the house of Moked; and the
@@ -93,7 +95,7 @@ bath-house. Rabbi Eliezer, the son of Jacob, said: “By the winding
 stairs he passed under the Chel, and went out and had to go through
 Tadi.”
 
-Perek II.
+## Perek II.
 
 1. The Temple inclosure (the Temple Mount) was 500 cubits by 500 cubits;
 it was largest on the south; next largest on the east; then on the
@@ -180,7 +182,7 @@ captivity. That on the east was the gate of Nicanor, and it had two
 wickets, one on its right and the other on its left. And there were two
 [gates] to the west; they had no name.
 
-Perek III.
+## Perek III.
 
 1. The altar was 32 by 32 [cubits]. Upwards 1 cubit, and contract 1
 cubit: that was the base. Remain 30 by 30. Upwards 5, and contract 1
@@ -265,7 +267,7 @@ it up there. Rabbi Eliezer, the son of Rabbi Zadok, said: “It happened
 (that they had to remove it) and there were numbered for it 300
 priests.” [^3]
 
-Perek IV.
+## Perek IV.
 
 1. The entrance to the Sanctuary was 20 cubits high, and 10 cubits
 broad; and it had four doors [two folding-doors]: two within and two
@@ -355,7 +357,7 @@ to a lion, as it is said: “O Ariel, the lion of God, the city where
 David dwelt.” As the lion is narrow behind and wide in front, so is the
 Sanctuary narrow behind and wide in its front.
 
-Perek V.
+## Perek V.
 
 1. The whole court was 187 cubits long by 135 cubits broad. From the
 east to the west 187: the place for the tread of Israel 11 cubits; the
@@ -397,6 +399,3 @@ priest, and thus spake they: “Blessed be God, blessed be He, that there
 has not been found disqualification in the seed of Aaron, and blessed be
 He Who has chosen Aaron and his sons, to stand to serve before the face
 of the Lord in the Most Holy House.”
-
-====================
-

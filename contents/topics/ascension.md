@@ -1,6 +1,6 @@
 ---
 title: "The Ascension of Christ"
-indextitle: "Ascension of Christ"
+indexTitle: "Ascension of Christ, The"
 pdf: "ascension.pdf"
 description: "Scripture passages related to the ascension of the Lord Jesus Christ."
 tableOfContents: false
@@ -12,7 +12,7 @@ outside Jerusalem all the way to the third heaven. **Acts 1:1-11**
 
 Once He arrived in heaven, Jesus Christ was seated at the right hand of
 God the Father. This is called His session. Psalm 110:1; Rom. 8:34; Eph.
-1:20; Col. 3:1; Heb. 1:3,13: 8:1; 10:12; 12:2; 1 Pet. 3:22.
+1:20; Col. 3:1; Heb. 1:3,13; 8:1; 10:12; 12:2; 1 Pet. 3:22.
 
 The ascension and session of Christ form the basis for His total victory
 in the conflict with Satan. Heb. 1:3-13.

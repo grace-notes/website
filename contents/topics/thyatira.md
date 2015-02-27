@@ -54,7 +54,7 @@ well. The “deep things of Satan” (Rev. 2:24) is probably an allusion to
 one of the Gnostic sects that stressed “depth” and carried on secret
 rites in which only initiates participated. So serious was the
 temptation that the best hope was for survival of the remnant—hence, the
-exhortation “hold fast what you have, until I come” (Rev, 2L25).
+exhortation “hold fast what you have, until I come” (Rev. 2:25).
 
 Elwell, W. A., & Comfort, P. W. (2001). Tyndale Bible dictionary.
 Tyndale reference library (1256–1257).

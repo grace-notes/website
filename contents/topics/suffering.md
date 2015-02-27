@@ -2,13 +2,12 @@
 title: "Suffering"
 pdf: "suffering.pdf"
 description: "Suffering -  A discussion of the suffering experienced by believers and unbelievers; deserved and undeserved suffering; how to avoid some forms of suffering; suffering for blessing."
-tableOfContents: false
+subtitle: Peace of God in the Midst of Trouble
+tableOfContents: true
 template: topic.jade
 ---
 
-**Peace of God in the Midst of Trouble**
-
-**Introduction**
+# Introduction #
 
 This paper is an outline study to give you a start in thinking about the subject of suffering and to provide a catalogue to the many scripture passages relating to suffering. You would think that such a subject would be dreadful to study, but in the wonderful plan of God, the worst things are always the best things. As you read this article, look up the Bible passages that are indicated and ask the Lord to give you insight into His viewpoint on the issues raised.
 
@@ -16,7 +15,7 @@ We don’t have to look far to see that there is a lot of suffering going on in 
 
 But we are also aware that we are members of the human race, and that some disaster, small or great, can come at any time without warning, something that makes us one of the statistics. Auto accident, cancer, tornado, volcano, falling airplanes…in fact we can suffer a lot just worrying about all the things that could happen to us. The Fickle Finger of Fate can zero in at any time with some kind of prime suffering - loss of job, loss of money, house burns down, etc.
 
-**The Whole Human Race Suffers**
+# The Whole Human Race Suffers #
 
 It is a startling fact that part of God’s plan for every human being includes a certain amount of suffering. All people suffer: rich or poor, smart or dumb, American or African, Christian or non-Christian. Suffering of some kind is part of God’s Plan of Grace, if you can imagine that.
 
@@ -44,7 +43,7 @@ Suffering occurs by several means in human life, both for Christians and unbelie
 
 * Suffering caused by other people. As long as there are two people in the same location…well, you know what I mean.
 
-**What About My Rights?**
+# What About My Rights? #
 
 Many of our cares come from somebody’s trampling on our rights, or what we think of as our rights. Don’t you feel that you have a right to
 
@@ -80,7 +79,7 @@ We suffer needlessly because we demand our rights. We have no rights. We have on
 
 These passages indicate that the more relaxed a person is with regard to the details of life, the less he will experience the ill effects of some types of suffering. Often the amount of suffering can be limited through having a relxed mental attitude toward a person or situation. Even severe privation or emotional trauma caused by the sin or hatred of another person can be reduced remarkably by the use of principles of Faith Rest, forgiveness, by relying on the Father for all provision, by allowing God to protect your reputation, etc.
 
-**General Suffering in the World**
+# General Suffering in the World #
 
 An individual will have his allotted portion of suffering as a member of the human race as described above. Many people have no concept of “all things working together for good.” Their main goal in life is to reduce his own suffering to a minimum, even if it means making other people suffer to do it.
 
@@ -90,11 +89,11 @@ Think about it – where would you be today if everything had always been rosy, 
 
 What about people who are suffering great deprivation because of locale (Bangladesh or the Sahel), or because of war, or because of cruel ideologies? Are these things part of the grace of God? An important fact is that God knows the spiritual needs of every person in the world, and He knows every person’s mental makeup. Only He can decide what combination of blessing and suffering is the best recipe for encouraging a person to become a Christian. He does not force man’s volition; but He will allow circumstances to develop around a person which will direct his attention toward Himself.
 
-**Why Believers Suffer**
+# Why Believers Suffer #
 
 Christians suffer for many reasons, sometimes through no fault of their own. A Christian will experience a normal amount of suffering as part of human existence. But if a believer stays in fellowship with God and grows in Christ consistently, this type of suffering can be a great blessing and an opportunity to witness to other believers and to the unsaved.
 
-**Suffering that the Christian Can Avoid**
+# Suffering that the Christian Can Avoid #
 
 To the backslidden Christian who is out of fellowship and already quite miserable, however, suffering never brings blessing, and everything he touches turns to misery. Even the details of life don’t make him happy; and he wastes his years in empty living.
 
@@ -136,7 +135,7 @@ You can avoid suffering from failure to have your armor on.
 
 **Eph. 6.**
 
-**The Believer’s Undeserved Suffering is Intended for Blessing**
+# The Believer’s Undeserved Suffering is Intended for Blessing #
 
 The following is a list of reasons why believers in fellowship suffer undeservedly in order to bring blessing to themselves or others.
 
@@ -166,7 +165,7 @@ The following is a list of reasons why believers in fellowship suffer undeserved
 
 2. Suffering from involvement in spiritual battles, the angelic conflict: **Eph. 3:8–13**
 
-**Promises to Believers Who Suffer**
+# Promises to Believers Who Suffer #
 
 **Psalm 34:19,20; Isa. 43:2; 2 Cor. 4:17 and 12:9; 1 Peter 5:10**
 

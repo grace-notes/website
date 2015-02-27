@@ -2,11 +2,11 @@
 title: "Stoicism"
 pdf: "stoicism.pdf"
 description: "the only direct reference to the Stoics in the Bible occurs in Acts 17:18, where Paul is reported to have addressed Epicurean and Stoic philosophers in Athens."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 
-**from Conybeare and Howson,*****The Life and Epistles of St. Paul***
+# from Conybeare and Howson, *The Life and Epistles of St. Paul*
 
 Zeno, the founder of the Stoic school, was a native of the same part of
 the Levant with St. Paul himself. He came from Cyprus to Athens at a
@@ -74,9 +74,9 @@ which looks down with contempt on human weakness, to the religion which
 tells us that \`they who mourn are blessed,” and which commands us to
 \`rejoice with them that rejoice. and to weep with them that weep!’
 
-**from The International Standard Bible Encyclopedia**
+# from *The International Standard Bible Encyclopedia*
 
-**Stoics in the NT**
+## Stoics in the NT ##
 
 The only direct reference to the Stoics in the Bible occurs in Acts
 17:18, where Paul is reported to have addressed Epicurean and Stoic
@@ -99,7 +99,7 @@ lists of virtues are similar to Stoic lists. Paul’s contentment in Phil.
 concept of the Logos offers a point of contact in a formal sense. Even
 stylistcally Paul perhaps shows the influence of the Stoic diatribe.
 
-**Stoic Thinkers**
+## Stoic Thinkers ##
 
 Stoicism was founded in Athens by Zeno (332–260 B.C.) and acquired its
 name from the painted porch (Stoa) in the Agora where its proponents
@@ -116,7 +116,7 @@ Diogenes and fragments. In contrast, the works of the Roman Stoics
 provide rich documentation and show why Stoicism could enjoy such
 popularity in the educated circles of antiquity.
 
-**Stoic Teaching**
+## Stoic Teaching ##
 
 Fundamental to the Stoic view of reality was the postulate of an
 all-determinative cosmic force which could be popularly identified as
@@ -140,7 +140,7 @@ relation to the cosmos that identified them with universal reason,
 lifted them above human conflicts and distinctions, and thus fashioned
 them into a cosmopolitan society.
 
-**Stoic Influence**
+## Stoic Influence ##
 
 For all the obvious parallels to Christian doctrine, Stoicism differs
 from the gospel at essential points. It has no concept of a personal

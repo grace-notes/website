@@ -3,41 +3,38 @@ title: "Talmud: On Christ"
 pdf: "talmud_onchrist.pdf"
 author: Rev. I. B. Pranaitis
 description: "what the Talmud teaches about Jesus Christ, the founder of Christianity; and about his followers, the Christians."
-tableOfContents: false
+tableOfContents: true
+subtitle: The Teachings of the Talmud Concerning Christ and Christians
 template: topic.jade
 ---
-
-The Teachings of the Talmud Concerning Christ and Christians
 
 By Rev. I. B. Pranaitis, Roman Catholic Priest; Master of Theology and
 Professor of the Hebrew Language at the Imperial Ecclesiastical Academy
 of the Roman Catholic Church in St. Petersburg.
 
-PART ONE
-
-THE TEACHING OF THE TALMUD CONCERNING CHRISTIANS
+# THE TEACHING OF THE TALMUD CONCERNING CHRISTIANS
 
 First we shall see what the Talmud teaches about Jesus Christ, the
 founder of Christianity; and secondly, about his followers, the
 Christians.
 
-CHAPTER I
-
-JESUS CHRIST IN THE TALMUD
+## Chapter I - JESUS CHRIST IN THE TALMUD
 
 Many passages in the Talmudic books treat of the birth, life, death, and
 teachings of Jesus Christ. He is not always referred to by the same
 name, however, but is diversely called “That Man,” “A Certain One,” “The
 Carpenter’s Son,” “The One Who Was Hanged,” etc.
 
-Article I. - CONCERNING THE NAMES OF JESUS CHRIST 1. The real name of
-Christ in Hebrew is Jeschua Hanotsri - Jesus the Nazarene. He is called
-Notsri from the city of Nazareth in which he was brought up. Thus in the
-Talmud Christians also are called Notsrim- Nazarenes. Since the word
-Jeschua means “Savior,” the name Jesus rarely occurs in the Jewish
-books. It is almost always abbreviated to Jeschu, which is maliciously
-taken as if it were composed of the initial letters of the three words
-Immach SCHemo Vezikro - “May his name and memory be blotted out.”
+### Article I - CONCERNING THE NAMES OF JESUS CHRIST
+
+1. The real name of Christ in Hebrew is Jeschua Hanotsri - Jesus the
+Nazarene. He is called Notsri from the city of Nazareth in which he was
+brought up. Thus in the Talmud Christians also are called Notsrim-
+Nazarenes. Since the word Jeschua means “Savior,” the name Jesus rarely
+occurs in the Jewish books. It is almost always abbreviated to Jeschu,
+which is maliciously taken as if it were composed of the initial letters
+of the three words Immach SCHemo Vezikro - “May his name and memory be
+blotted out.”
 
 2. In the Talmud Christ is called Otho Isch - “That man,” i.e. the one
 who is known to all. In the tract Abhodah Zarah, 6a, we read: “He is
@@ -63,11 +60,12 @@ whose image the Emperor Constantine reproduced on his banner. “…in the
 days of Constantine, who made a change of religion and placed the figure
 of the one who was hanged on his banner.”
 
-Article II. - THE LIFE OF CHRIST The Talmud teaches that Jesus Christ
-was illegitimate and was conceived during menstruation; that he had the
-soul of Esau; that he was a fool, a conjurer, a seducer; that he was
-crucified, buried in hell and set up as an idol ever since by his
-followers.
+### Article II - THE LIFE OF CHRIST
+
+The Talmud teaches that Jesus Christ was illegitimate and was conceived
+during menstruation; that he had the soul of Esau; that he was a fool, a
+conjurer, a seducer; that he was crucified, buried in hell and set up as
+an idol ever since by his followers.
 
 1. ILLEGITIMATE AND CONCEIVED DURING MENSTRUATION …
 
@@ -130,9 +128,7 @@ Gentiles among whom they lived at that time, when no idols were
 worshipped, they clearly meant the Christian “idol,” namely, the image
 of Christ on the crucifix and the Holy Communion.
 
-CHAPTER II
-
-THE CHRISTIANS
+## Chapter II - THE CHRISTIANS
 
 There are three things to be considered in this chapter:
 
@@ -198,7 +194,7 @@ Article II. - What the Talmud Teaches About Christians
 
 14. AFTER DEATH THEY GO DOWN TO HELL
 
-Article III. - About Christian Rites and Worship
+### Article III. - About Christian Rites and Worship
 
 Since Christians are regarded by the Jews as idolaters, all their forms
 of worship are idolatrous. Their priests are called priests of Baal;
@@ -218,9 +214,7 @@ Tilfah, a house of vanity and foolishness, in place of Beth Tefilah, a
 house of prayer; (2) Beth Abhodha Zarah, a House of Idolatry; (3) Beth
 Hatturapi Schel Letsim, a house of Evil Laughter.
 
-PART TWO
-
-PRECEPTS OF THE TALMUD CONCERNING CHRISTIANS
+# PRECEPTS OF THE TALMUD CONCERNING CHRISTIANS
 
 From what has been shown thus far, it is clear that, according to the
 teaching of the Talmud, Christians are idolaters and hateful to Jews. As
@@ -231,9 +225,7 @@ who lived amongst them and those in nearby countries. A Jew is therefore
 required to (1) To avoid Christians; (2) To do all he can to exterminate
 them.
 
-CHAPTER I
-
-CHRISTIANS MUST BE AVOIDED
+## Chapter I - CHRISTIANS MUST BE AVOIDED
 
 1. A JEW MUST NOT SALUTE A CHRISTIAN
 
@@ -271,11 +263,9 @@ does not serve them.”
 
 5. NOT AS AN OBSTETRICIAN
 
-CHAPTER II
+## Chapter II - CHRISTIANS MUST BE EXTERMINATED
 
-CHRISTIANS MUST BE EXTERMINATED
-
-ARTICLE I. - HARM MUST BE DONE TO CHRISTIANS
+### ARTICLE I - HARM MUST BE DONE TO CHRISTIANS
 
 A Jew is commanded to harm Christians wherever he can, both indirectly
 by not helping them in any way, and also directly by wrecking their
@@ -297,7 +287,7 @@ THEIR IDOLATROUS WORSHIP
 
 6. IT IS FORBIDDEN TO TEACH A TRADE TO CHRISTIANS
 
-**II. HARM MUST BE DONE TO THE WORK OF CHRISTIANS**
+II. HARM MUST BE DONE TO THE WORK OF CHRISTIANS
 
 Since the Goim minister to Jews like beasts of burden, they belong to a
 Jew together with his life and all his faculties: “The life of a Goi and
@@ -326,7 +316,7 @@ III. CHRISTIANS TO BE HARMED IN LEGAL MATTERS
 
 2. A JEW MAY PERJURE HIMSELF WITH A CLEAR CONSCIENCE
 
-**IV. CHRISTIANS MUST BE HARMED IN THINGS NECESSARY FOR LIFE**
+IV. CHRISTIANS MUST BE HARMED IN THINGS NECESSARY FOR LIFE
 
 1. A JEW MUST ALWAYS TRY TO DECEIVE CHRISTIANS
 
@@ -334,16 +324,17 @@ III. CHRISTIANS TO BE HARMED IN LEGAL MATTERS
 
 3. A CHRISTIAN WOMAN IN CHILDBIRTH MUST NOT BE HELPED
 
-4. A CHRISTIAN IN DANGER OF DEATH MUST NOT BE HELPED In Choschen
-Hamm.(425, 5) it says: “If you see a heretic, who does not believe in
-the Torah, fall into a well in which there is a ladder, hurry at once
-and take it away and say to him ‘I have to go and take my son down from
-a roof; I will bring the ladder back to you at once’ or something else.
-The Kuthaei, however, who are not our enemies, who take care of the
-sheep of the Israelites, are not to be killed directly, but they must
-not be saved from death.”
+4. A CHRISTIAN IN DANGER OF DEATH MUST NOT BE HELPED
 
-ARTICLE II. - CHRISTIANS ARE TO BE KILLED
+In Choschen Hamm.(425, 5) it says: “If you see a heretic, who does not
+believe in the Torah, fall into a well in which there is a ladder, hurry
+at once and take it away and say to him ‘I have to go and take my son
+down from a roof; I will bring the ladder back to you at once’ or
+something else.  The Kuthaei, however, who are not our enemies, who take
+care of the sheep of the Israelites, are not to be killed directly, but
+they must not be saved from death.”
+
+### ARTICLE II - CHRISTIANS ARE TO BE KILLED
 
 I. RENEGADES TO BE KILLED Even a Christian who is found studying the Law
 of Israel merits death. In Sanhedrin(59a) it says: “Rabbi Jochanan says:
@@ -354,12 +345,10 @@ II. BAPTIZED JEWS ARE TO BE PUT TO DEATH"
 III. CHRISTIANS ARE TO BE KILLED BECAUSE THEY ARE TYRANTS
 
 IV. LASTLY, ALL CHRISTIANS, INCLUDING THE BEST OF THEM, ARE TO BE KILLED
+
 In Abhodah Zarah (26b,Tosephoth) it says: “Even the best of the Goim
 should be killed” The Schulchan Arukh, after the words of Iore Dea (158,
 1) that those of the Akum who do no harm to Jews are not to be killed,
 namely those who do not wage war against Israel, thus explains the word
 Milchamah- war: “But in time of war the Akum are to be killed, for it is
 written: ‘The good among the Akum deserve to be killed, etc.’”
-
-====================
-

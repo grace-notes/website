@@ -2,11 +2,11 @@
 title: "Substitution"
 pdf: "substitution.pdf"
 description: "Substitution -  The unlimited substitutionary atonement for sin. Christ bore our sins in His own body..."
+author: Chester McCalley
 tableOfContents: false
 template: topic.jade
 ---
 
-by Chester McCalley
 
 God’s righteousness and justice demand that he execute the sentence He
 has decreed upon sin. ”The soul that sinneth it shall die . . .”
@@ -29,32 +29,32 @@ and the method God uses in providing salvation for all of us. The guilt
 of the sinner is never denied. Substitution is taught in the Bible in a
 variety of ways.
 
-Substitution is Taught by Old Testament Sacrifices
+### Substitution is Taught by Old Testament Sacrifices
 
 There are six steps involved in making a sacrifice. The first three
 steps were taken by the sinner for whom the sacrifice was being made.
 
-• He selected and presented the proper sacrificial animal, Lev. 1:2
+* He selected and presented the proper sacrificial animal, Lev. 1:2
 
-• He identified with the sacrifice by placing his hand on its head,
+* He identified with the sacrifice by placing his hand on its head,
 Lev. 1:4
 
-• Then, he killed the animal, Lev. 1:9
+* Then, he killed the animal, Lev. 1:9
 
 Three actions were then performed by the priest:
 
-• He skinned the animal sacrifice and cut it into pieces, Lev. 1:6
+* He skinned the animal sacrifice and cut it into pieces, Lev. 1:6
 
-• He prepared the altar, Lev. 1:7
+* He prepared the altar, Lev. 1:7
 
-• He burned the sacrifice on the altar, Lev. 1:9
+* He burned the sacrifice on the altar, Lev. 1:9
 
 The purpose of the sacrifice was to gain the sinner’s acceptance. The
 sacrifice was made that it may be accepted for him to make atonement on
 his behalf. The sacrifice made a covering and gained acceptance before
 the Lord.
 
-Substitution is Taught by Direct Prophecy
+### Substitution is Taught by Direct Prophecy
 
 The portion of Isaiah from chapter 40 to chapter 66 is the heart of the
 Old Testament teaching about the Messiah. It begins with a prophecy of
@@ -62,7 +62,7 @@ the ministry of John the Baptist in Isa. 40:3-5, and it concludes with
 the new heavens and new earth in Isa. 66:22. The general lines of truth
 are as follows.
 
-Summary of the Messiah’s Work, Isa. 52:13-15
+### Summary of the Messiah’s Work, Isa. 52:13-15
 
 Jehovah (one name for God) introduces the Messiah with the words
 “Behold, my servant…” The word behold calls out attention to important
