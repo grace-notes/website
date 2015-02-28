@@ -1,7 +1,7 @@
 
 body {
-  font-family: "adobe-caslon-pro", "Times New Roman", serif;
-  font-size: 26px;
+  font-family: "Merriweather", "Times New Roman", serif;
+  font-size: 24px;
   line-height: 1.52;
   background-color: #fff;
   text-rendering: optimizeLegibility;
@@ -518,15 +518,15 @@ p code {
 /* media queries */
 
 @media (min-width: 1600px) {
-  body { font-size: 30px; }
+  body { font-size: 26px; }
 }
 
 @media (max-width: 900px) {
-  body { font-size: 22px; }
+  body { font-size: 20px; }
 }
 
 @media (max-width: 690px) {
-  body { font-size: 18px; }
+  body { font-size: 16px; }
   .content-wrap {
     width: auto;
     padding: 0 1em;

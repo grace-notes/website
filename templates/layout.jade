@@ -13,6 +13,7 @@ html(lang='en')
           = locals.name
 
       link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
+      link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Merriweather:400,900italic,700italic,400italic,300italic,300,700,900&subset=latin,latin-ext')
       link(rel='stylesheet', href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css')
       link(rel='stylesheet', href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css')
       link(rel='stylesheet', href='/css/main.css')
@@ -23,9 +24,6 @@ html(lang='en')
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
         ga('create', 'UA-3622200-1', 'auto');
         ga('send', 'pageview');
-      script(src="//use.typekit.net/ubn2mdh.js")
-      script.
-        try{Typekit.load();}catch(e){}
   body(class=bodyclass)
     include partials/menu
     div.header.container
