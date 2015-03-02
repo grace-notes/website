@@ -86,7 +86,6 @@ $(document).ready ->
       pageWidth = wrapper.outerWidth() + parseFloat(wrapper.css('column-gap'))
       page = 1 + Math.round wrapper.scrollLeft() / pageWidth
       count = Math.ceil wrapper.get(0).scrollWidth / pageWidth
-      console.log page, count, pageWidth
       go page
 
     go = (page, cb)->
