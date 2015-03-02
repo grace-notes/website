@@ -10,8 +10,7 @@
     "./node_modules/wintersmith-sass",
     "./node_modules/wintersmith-coffee",
     "./plugins/pandoc.coffee",
-    "./plugins/topics.coffee",
-    "./plugins/pdf.coffee"
+    "./plugins/topics.coffee"
   ],
   "require": {
     "moment": "moment",
