@@ -141,31 +141,37 @@ h5 {
     }
   }
 }
-@media (min-width: 600px) {
-  #TOC {
+.fullscreen #TOC {
     font-size: 90%;
     position: fixed;
     top: 0;
     bottom: 0;
-    left: 100%;
+    right: 100%;
+    left: -100%;
     min-width: 20%;
-    max-width: 80%;
+    max-width: 60%;
+    width: 300px;
     transition: all 300ms;
     overflow: visible;
-    &:hover {
-      left: 80%;
-    }
     &:after {
       z-index: 100;
       content: 'TOC';
       font-weight: 900;
       display: block;
       position: fixed;
-      right: 0;
-      top: 0;
-      border-radius: 10px 0 0 10px;
+      left: 0;
+      top: 5px;
+      border-radius: 0 10px 10px 0;
       padding: 10px;
       background: #ddd;
+      transition: 400ms ease-in;
+    }
+    &:hover, &.active {
+      left: 0;
+      right: 0;
+      &:after {
+        left: -100px;
+      }
     }
     overflow-y: auto;
     background: #fdfdfd;
@@ -197,7 +203,6 @@ h5 {
         text-decoration: underline;
       }
     }
-  }
 }
 
 blockquote {
@@ -638,7 +643,7 @@ p code {
     z-index: 999;
     visibility: visible !important;
     top: 0;
-    left: 0;
+    right: 0;
   }
   .container {
     width: auto;
@@ -656,5 +661,24 @@ p code {
     left: 45px;
     right: 45px;
     overflow-x: hidden;
+  }
+  @media (max-width: 767px) {
+    .booknav {
+      left: auto;
+      right: 0;
+      .btn {
+        font-size: 20px;
+        &.next-page, &.prev-page {
+          display: none;
+        }
+      }
+    }
+    .wrapper-inner {
+      top: 45px;
+      left: 15px;
+      right: 15px;
+      bottom: 15px;
+      font-size: 90%;
+    }
   }
 }

@@ -101,6 +101,21 @@ $(document).ready ->
     $('body').on 'click', '.btn.prev-page', ->
       if page > 1
         go --page
+
+    $('body').on 'swipeleft', ->
+      if page < count
+        go ++page
+
+    $('body').on 'swiperight', ->
+      if page > 1
+        go --page
+
+    $('body').on 'taphold', (e)->
+      e.preventDefault()
+      $('#TOC').addClass('active')
+
+    $('body').on 'tap', (e)->
+      $('#TOC').removeClass('active')
      
     $('body').on 'click', '.btn.full-screen', ->
       do enterFullpage
