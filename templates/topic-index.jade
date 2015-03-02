@@ -38,7 +38,7 @@ block content
       footer.clearfix
         div.btn-group.topic-links
           a( href=topic.url, title="html view of "+topic.title).btn.btn-default.btn-sm view online
-          a( href=topic.pdf, title="pdf download of "+topic.title).btn.btn-default.btn-sm
+          a( href=topic.url.replace(/\.html$/, '.pdf'), title="pdf download of "+topic.title).btn.btn-default.btn-sm
             i.fa.fa-file-pdf-o
             | &nbsp; view pdf
 

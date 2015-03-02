@@ -26,12 +26,13 @@ block header
 
 block content
   .btn-group.article-buttons
-    a( href=page.pdf, title="pdf download of "+page.title).btn.btn-default.btn-lg
+    a( href=page.url.replace(/\.html$/, ".pdf"), title="pdf download of "+page.title).btn.btn-default.btn-lg
       i.fa.fa-file-pdf-o
       | &nbsp; pdf download
     button.btn.btn-default.btn-lg.full-screen
       i.fa.fa-expand
       | &nbsp; fullscreen
+
   .booknav.hidden.btn-group
     a.btn.prev-page.btn-default &lsaquo;
     button.btn
