@@ -5,18 +5,10 @@ description: The supreme fertility-god of the Canaanites. [FEB 2013]
 tableOfContents: true
 ---
 
-**From International Standard Bible Encyclopedia**
+*from International Standard Bible Encyclopedia*
 
 > **Baal** bāʹəl [Heb *ba‘al* \< Bab *Belu*. or *Bel*—‘lord’; Gk *Baal*].
 The supreme fertility-god of the Canaanites.
-
-I. Name
-
-II. Character
-
-III. Worship
-
-IV. Various Forms of Baal
 
 ## I. Name
 
