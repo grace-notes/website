@@ -66,15 +66,72 @@ $(document).ready ->
         setTimeout -> $('.topics-list').css('min-height', 0)
 
 
-   # parallel verses
+  # parallel verses
 
-   $('.parallel-verses').each ->
-     cols = $(this).find('[class*="col-"]').map ->
-       $(this).find('p')
-     .get()
-     for i in [0..cols[0].length]
-       height = Math.max.apply(null, ($(col.get(i)).outerHeight() for col in cols))
-       $(col.get(i)).css('min-height', height) for col in cols
+  $('.parallel-verses').each ->
+    cols = $(this).find('[class*="col-"]').map ->
+      $(this).find('p')
+    .get()
+    for i in [0..cols[0].length]
+      height = Math.max.apply(null, ($(col.get(i)).outerHeight() for col in cols))
+      $(col.get(i)).css('min-height', height) for col in cols
+
+  do ->
+    page = 1
+    wrapper = $('.wrapper-inner')
+    count = 0
+    pageWidth = wrapper.outerWidth()
+
+    refreshPageCount = ->
+      pageWidth = wrapper.outerWidth() + parseFloat(wrapper.css('column-gap'))
+      page = 1 + Math.round wrapper.scrollLeft() / pageWidth
+      count = Math.ceil wrapper.get(0).scrollWidth / pageWidth
+      console.log page, count, pageWidth
+      go page
+
+    go = (page, cb)->
+      if typeof cb isnt 'function' then cb = ->
+      scroll = (page - 1) * pageWidth
+      wrapper.animate {scrollLeft: scroll}, 100, cb
+      $('.current-page').html(page)
+      $('.page-count').html(count)
+
+    $('body').on 'click', '.btn.next-page', ->
+      if page < count
+        go ++page
+    $('body').on 'click', '.btn.prev-page', ->
+      if page > 1
+        go --page
+     
+    $('body').on 'click', '.btn.full-screen', ->
+      do enterFullpage
+
+    $('body').on 'click', '.btn.exit-full-screen', ->
+      do exitFullpage
+
+    $(window).resize refreshPageCount
+
+    exitFullpage = ->
+      $('body').removeClass 'fullscreen'
+
+    enterFullpage = ->
+      $('body').addClass 'fullscreen'
+      do refreshPageCount
+
+    $(document).keydown (e)->
+      if event.which is 27
+        $('body').removeClass 'fullscreen'
+      if event.which is 37
+        if page > 1 then go --page
+      if event.which is 39
+        if page < count then go ++page
+
+    $('#TOC').on 'click', 'a', (e)->
+      if $('body').hasClass('fullscreen')
+        e.preventDefault()
+        target = $('section'+$(this).attr('href'))
+        page = 1 + Math.floor( ( wrapper.scrollLeft() + target.children().first().position().left ) / pageWidth )
+        go page
 
 
 unique = (a)->

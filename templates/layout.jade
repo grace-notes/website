@@ -26,14 +26,15 @@ html(lang='en')
         ga('send', 'pageview');
   body(class=bodyclass)
     include partials/menu
-    div.header.container
-      block header
-        h1= locals.name
-        p.description= locals.description
-    div#content
-      div.container
-        block content
-          h2 Welcome to Grace Notes!
+    div.wrapper: div.wrapper-inner
+      div.header.container
+        block header
+          h1= locals.name
+          p.description= locals.description
+      div#content
+        div.container
+          block content
+            h2 Welcome to Grace Notes!
     footer
       div.container
         block footer
