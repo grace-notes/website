@@ -91,6 +91,7 @@ $(document).ready ->
     go = (page, cb)->
       if typeof cb isnt 'function' then cb = ->
       scroll = (page - 1) * pageWidth
+      wrapper.stop()
       wrapper.animate {scrollLeft: scroll}, 100, cb
       $('.current-page').html(page)
       $('.page-count').html(count)
