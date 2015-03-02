@@ -30,4 +30,4 @@ RUN npm install
 EXPOSE 80
 
 # VOLUMES_FROM
-CMD nginx & wintersmith build -v -c config.nopdf.json -o /srv/www/ && wintersmith build -v -o /srv/www
+CMD wintersmith build -v -c config.nopdf.json -o /srv/www/ & wintersmith build -v -o /srv/www & nginx
