@@ -119,11 +119,11 @@ $(document).ready ->
       do refreshPageCount
 
     $(document).keydown (e)->
-      if event.which is 27
+      if e.which is 27
         $('body').removeClass 'fullscreen'
-      if event.which is 37
+      if e.which is 37
         if page > 1 then go --page
-      if event.which is 39
+      if e.which is 39
         if page < count then go ++page
 
     $('#TOC').on 'click', 'a', (e)->
