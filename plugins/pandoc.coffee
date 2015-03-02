@@ -12,7 +12,7 @@ q = async.queue((page, callback) ->
     pandoc page.markdown, 'markdown+definition_lists+footnotes', 'html5', ['--smart', '--email-obfuscation=none', '--section-divs', '--toc-depth='+depth, '--table-of-contents', '--standalone'], (err, result) ->
       $ = cheerio.load(result)
       $('#TOC ul').addClass('nav')
-      $("h1,h2,h3").first().before($("#TOC").prepend("<h2>Table of Contents</h2>"))
+      $("section").first().before($("#TOC").prepend("<h2>Table of Contents</h2>"))
       $('[id*="\."]').attr 'id', (a)->
         $(this).attr('id').replace /\./g, ''
       $('a[href^="#"]').attr 'href', (a)->
