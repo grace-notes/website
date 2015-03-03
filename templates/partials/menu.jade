@@ -1,14 +1,14 @@
 div.navbar.navbar-default
   div.container
     div.navbar-header
-      span.brand
-        span.sitename: a(href="http://www.gracenotes.info/")= locals.name
-        span.tag= locals.description
       button(type='button', data-toggle='collapse', data-target='.navbar-collapse').navbar-toggle.collapsed
         span.sr-only Toggle navigation
         span.icon-bar
         span.icon-bar
         span.icon-bar 
+      span.brand
+        span.sitename: a(href="http://www.gracenotes.info/")= locals.name
+        span.tag= locals.description
     div.collapse.navbar-collapse
       ul.nav.navbar-nav
         li: a.dropdown-toggle(

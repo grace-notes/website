@@ -41,6 +41,9 @@ block content
           a( href=topic.url.replace(/\.html$/, '.pdf'), title="pdf download of "+topic.title).btn.btn-default.btn-sm
             i.fa.fa-file-pdf-o
             | &nbsp; view pdf
+          a( href=topic.url.replace(/\.html$/, '.epub'), title="epub download of "+topic.title).btn.btn-default.btn-sm
+            i.fa.fa-book
+            | &nbsp; download epub
 
 block append footer-scripts
   script(src="/topics/toc.js")
