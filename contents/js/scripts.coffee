@@ -83,8 +83,8 @@ $(document).ready ->
     pageWidth = wrapper.outerWidth()
 
     refreshPageCount = ->
-      pageWidth = wrapper.outerWidth() + parseFloat(wrapper.css('column-gap'))
-      page = 1 + Math.round wrapper.scrollLeft() / pageWidth
+      pageWidth = wrapper.outerWidth() + Number(wrapper.css('column-gap').replace(/[^[0-9\.]/g, ''))
+      page = 1 + Math.floor wrapper.scrollLeft() / pageWidth
       count = Math.ceil wrapper.get(0).scrollWidth / pageWidth
       go page
 
@@ -110,13 +110,6 @@ $(document).ready ->
     $('body').on 'swiperight', ->
       if page > 1
         go --page
-
-    $('body').on 'taphold', (e)->
-      e.preventDefault()
-      $('#TOC').addClass('active')
-
-    $('body').on 'tap', (e)->
-      $('#TOC').removeClass('active')
      
     $('body').on 'click', '.btn.full-screen', ->
       do enterFullpage
@@ -147,6 +140,7 @@ $(document).ready ->
         target = $('section'+$(this).attr('href'))
         page = 1 + Math.floor( ( wrapper.scrollLeft() + target.children().first().position().left ) / pageWidth )
         go page
+      
 
 
 unique = (a)->
