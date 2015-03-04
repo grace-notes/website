@@ -27,7 +27,7 @@ right hand, I shall not be moved.
 remember the name of the Lord our God. They are brought down and fallen;
 but we are risen, and stand upright.
 
-#### Our being able to stand strong in the faith depends on the Lord.
+# Our being able to stand strong in the faith depends on the Lord.
 
 **Psalm 55:22.** Cast thy burden on the Lord and He shall sustain thee;
 he shall never suffer the righteous to be moved.
@@ -35,19 +35,19 @@ he shall never suffer the righteous to be moved.
 **Psalm 125:1.**They that trust in the Lord shall be as Mount Zion,
 which cannot be removed, but abides forever.
 
-#### Those who stand do not fall back into the ways of the world.
+# Those who stand do not fall back into the ways of the world.
 
 **Gal. 5:1.**Stand fast therefore in the liberty wherewith Christ has
 made us free, and do not be entangled again with the yoke of bondage.
 
-#### Those who stand have a testimony of a strong witness for the Lord.
+# Those who stand have a testimony of a strong witness for the Lord.
 
 **Phil. 1:27.**Only conduct yourselves in a manner worthy of the gospel
 of Christ, so that whether I come and see you or remain absent, I will
 hear of you that you are standing firm in one spirit, with one mind
 striving together for the faith of the gospel;
 
-#### The Christian who is standing is in unity with other believers
+# The Christian who is standing is in unity with other believers
 
 **Phil. 2:1,2.**Therefore if there is any encouragement in Christ, if
 there is any consolation of love, if there is any fellowship of the
@@ -60,7 +60,7 @@ love, united in spirit, intent on one purpose.
 knowledge of the Son of God, to a mature man, to the measure of the
 stature which belongs to the fullness of Christ.
 
-#### The standing Christians form the core of a productive local church.
+# The standing Christians form the core of a productive local church.
 
 **Eph. 4:14-16.**As a result, we are no longer to be children, tossed
 here and there by waves and carried about by every wind of doctrine, by
@@ -73,12 +73,12 @@ from whom the whole body, being fitted and held together by what every
 joint supplies, according to the proper working of each individual part,
 causes the growth of the body for the building up of itself in love.
 
-#### The standing Christian has confidence in the Lord, expressed in his prayer life.
+# The standing Christian has confidence in the Lord, expressed in his prayer life.
 
 **Phil 4:6.** Be anxious for nothing, but in everything by prayer and
 supplication with thanksgiving let your requests be made known to God.
 
-#### The standing Christian is always wearing his spiritual armor.
+# The standing Christian is always wearing his spiritual armor.
 
 **Eph. 6:10-17.**Finally, be strong in the Lord and in the strength of
 His might.

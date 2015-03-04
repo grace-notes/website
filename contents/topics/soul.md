@@ -3,24 +3,23 @@ title: "Doctrine of the Soul"
 indexTitle: "Soul, Doctrine of"
 pdf: "soul.pdf"
 description: "Man is aware of his own existence and is able to relate to both animate and inanimate life on earth."
+subtitle: The Essence of the Soul
 tableOfContents: true
 template: topic.jade
 ---
 
 Compiled from transcriptions of recorded teachings of Pastor R. B. Thieme, Jr.
 
-**The Essence of the Soul**  
 
-_*Self-Consciousness*_
+# Self-Consciousness #
 
 Man is aware of his own existence and is able to relate to both animate and inanimate life on earth.
 
-* Acts 20:10, _But Paul went down and fell upon him, and after embracing him, he said, “Do not be troubled, for his life is in him.”_
+* Acts 20:10, But Paul went down and fell upon him, and after embracing him, he said, “Do not be troubled, for his life is in him.”
 
 Animals have consciousness, but not self-consciousness.
 
-*Mentality*  
-*---------*
+# Mentality #
 
 Self-consciousness requires mentality. Mentality is the thinking part of man and is itself composed of two parts.
 
@@ -30,116 +29,182 @@ Self-consciousness requires mentality. Mentality is the thinking part of man and
 
 Romans 1:20-22 and Proverbs 19:2 teach that all thought originates in these two parts of the soul. The soul is the source of all sin. It is the battleground between the sin nature and the Holy Spirit.
 
-* Romans 1: 20-22. _For since the creation of the world His invisible attributes, His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. For even though they knew God, they did not honor Him as God or give thanks, but they became futile in their speculations, and their foolish heart was darkened. Professing to be wise, they became fools,_
+> Romans 1: 20-22. For since the creation of the world His invisible
+> attributes, His eternal power and divine nature, have been clearly
+> seen, being understood through what has been made, so that they are
+> without excuse. For even though they knew God, they did not honor Him
+> as God or give thanks, but they became futile in their speculations,
+> and their foolish heart was darkened. Professing to be wise, they
+> became fools,
 
-* Matthew 10:28. _Do not fear those who kill the body but are unable to kill the soul; but rather fear Him who is able to destroy both soul and body in hell._
+> Matthew 10:28. Do not fear those who kill the body but are unable to
+> kill the soul; but rather fear Him who is able to destroy both soul
+> and body in hell.
 
-* Ephesians 4:17-19. _So this I say, and affirm together with the Lord, that you walk no longer just as the Gentiles also walk, in the futility of their mind, being darkened in their understanding, excluded from the life of God because of the ignorance that is in them, because of the hardness of their heart; and they, having become callous, have given themselves over to sensuality for the practice of every kind of impurity with_ greediness.
+> Ephesians 4:17-19. So this I say, and affirm together with the Lord,
+> that you walk no longer just as the Gentiles also walk, in the
+> futility of their mind, being darkened in their understanding,
+> excluded from the life of God because of the ignorance that is in
+> them, because of the hardness of their heart; and they, having become
+> callous, have given themselves over to sensuality for the practice of
+> every kind of impurity with greediness.
 
-* Proverbs 19:2. _Also it is not good for a person to be without knowledge, And he who hurries his footsteps errs._
+> Proverbs 19:2. Also it is not good for a person to be without
+> knowledge, And he who hurries his footsteps errs.
 
 READ Psalm 143
 
-*Volition*  
-*--------*
+# Volition #
 
-Man has the ability to be negative or positive to anything in life. This is why man was created to resolve the angelic conflict.
+Man has the ability to be negative or positive to anything in life. This
+is why man was created to resolve the angelic conflict.
 
-*Emotion*  
-*-------*
+# Emotion #
 
-Emotion is the appreciator of the soul. Emotion responds or reacts to whatever thoughts are in the soul. Normally the emotion is dominated by the right lobe of the soul.
+Emotion is the appreciator of the soul. Emotion responds or reacts to
+whatever thoughts are in the soul. Normally the emotion is dominated by
+the right lobe of the soul.
 
-Luke 12:19. _And I will say to my soul, “Soul, you have many goods laid up for many years to come; take your ease, eat, drink and be merry.”’_
+> Luke 12:19. And I will say to my soul, “Soul, you have many goods laid
+> up for many years to come; take your ease, eat, drink and be merry.”’
 
-*Conscience*  
-*----------*
+# Conscience #
 
-Conscience is the evaluator of the soul. It contains the norms and standards,
+Conscience is the evaluator of the soul. It contains the norms and
+standards,
 
-Acts 24:16. In view of this, I also do my best to maintain always a blameless conscience both before God and before men.
+Acts 24:16. In view of this, I also do my best to maintain always a
+blameless conscience both before God and before men.
 
 **The sin nature is not part of the soul.** 
 
-It is formed as part of the creation of the body. It battles for control of the soul through sin, human good and evil. Because we have an sin nature, we are said to be totally depraved. Without Bible doctrine in the soul, a Christian tends to run loose with the sin nature’s areas of strength and to link this
-activity with pride. We use our mentality to say we are something we are not. We set up our systems of standards and compare ourselves to others to bolster our pride.
+It is formed as part of the creation of the body. It battles for control
+of the soul through sin, human good and evil. Because we have an sin
+nature, we are said to be totally depraved. Without Bible doctrine in
+the soul, a Christian tends to run loose with the sin nature’s areas of
+strength and to link this activity with pride. We use our mentality to
+say we are something we are not. We set up our systems of standards and
+compare ourselves to others to bolster our pride.
 
 The soul must be distinguished from the human spirit.
 
 Originally man was *trichotomous*, having a body, soul, and spirit,
 
-* Genesis 2:7. _Then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being._
+> Genesis 2:7. Then the Lord God formed man of dust from the ground, and
+> breathed into his nostrils the breath of life; and man became a living
+> being.
 
-After the Fall, man has always been born *dichotomous*, having only a body and soul.
+After the Fall, man has always been born *dichotomous*, having only a
+body and soul.
 
-* 1 Corinthians 2:14. _But a natural man does not accept the things of the Spirit of God, for they are foolishness to him; and he cannot understand them, because they are spiritually appraised_
+> 1 Corinthians 2:14. But a natural man does not accept the things of
+> the Spirit of God, for they are foolishness to him; and he cannot
+> understand them, because they are spiritually appraised
 
-* Jude 19. _These are the ones who cause divisions, worldly-minded, devoid of the Spirit._
+> Jude 19. These are the ones who cause divisions, worldly-minded,
+> devoid of the Spirit.
 
-The believer, however, is said to be trichotomous, to have a body, soul, and spirit.
+The believer, however, is said to be trichotomous, to have a body, soul,
+and spirit.
 
-* 1 Thessalonians 5:23. _Now may the God of peace Himself sanctify you entirely; and may your spirit and soul and body be preserved complete, without blame at the coming of our Lord Jesus Christ._
+> 1 Thessalonians 5:23. Now may the God of peace Himself sanctify you
+> entirely; and may your spirit and soul and body be preserved complete,
+> without blame at the coming of our Lord Jesus Christ.
 
 The human spirit is regenerated by God the Holy Spirit at salvation.
 
-Only the soul, not the body, is saved at the time a person is born again.
+Only the soul, not the body, is saved at the time a person is born
+again.
 
-* Psalm 19:7. _The law of the Lord is perfect, restoring the soul; The testimony of the Lord is sure, making wise the simple._
+> Psalm 19:7. The law of the Lord is perfect, restoring the soul; The
+> testimony of the Lord is sure, making wise the simple.
 
-* Psalm 34:22. _The Lord redeems the soul of His servants, And none of those who take refuge in Him will be condemned._
+> Psalm 34:22. The Lord redeems the soul of His servants, And none of
+> those who take refuge in Him will be condemned.
 
-* Mark 8:36-37. _For what does it profit a man to gain the whole world, and forfeit his soul? For what will a man give in exchange for his soul?_
+> Mark 8:36-37. For what does it profit a man to gain the whole world,
+> and forfeit his soul? For what will a man give in exchange for his
+> soul?
 
-* 1 Peter 1:9. _obtaining as the outcome of your faith the salvation of your souls._
+> 1 Peter 1:9. obtaining as the outcome of your faith the salvation of
+> your souls.
 
-* Hebrews 10:39. _But we are not of those who shrink back to destruction, but of those who have faith to the preserving of the soul._
+> Hebrews 10:39. But we are not of those who shrink back to destruction,
+> but of those who have faith to the preserving of the soul.
 
-*Conclusions*  
-*-----------*
+# Conclusions #
 
-There is no “healing in the atonement.” The body is not saved because the sin nature resides there. In eternity the soul is given a perfect body minus an sin nature or any human good.
+There is no “healing in the atonement.” The body is not saved because
+the sin nature resides there. In eternity the soul is given a perfect
+body minus an sin nature or any human good.
 
-To have a soul, a human spirit, and a resurrection body is strictly a matter of grace.
+To have a soul, a human spirit, and a resurrection body is strictly a
+matter of grace.
 
-Those in eternity who glorify God will be those who had maximum Bible doctrine in the soul during time.
+Those in eternity who glorify God will be those who had maximum Bible
+doctrine in the soul during time.
 
 Only the soul, not the body, was made in the image of God.
 
-* Genesis 1:26,27. _Then God said, “Let Us make man in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky and over the cattle and over all the earth, and over every creeping thing that creeps on the earth.” God created man in His own image, in the image of God He created him; male and female He created them._
+> Genesis 1:26,27. Then God said, “Let Us make man in Our image,
+> according to Our likeness; and let them rule over the fish of the sea
+> and over the birds of the sky and over the cattle and over all the
+> earth, and over every creeping thing that creeps on the earth.” God
+> created man in His own image, in the image of God He created him; male
+> and female He created them.
 
-* Genesis 2:7. _Then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being._
+> Genesis 2:7. Then the Lord God formed man of dust from the ground, and
+> breathed into his nostrils the breath of life; and man became a living
+> being.
 
 God is not material but spiritual.
 
 The soul is the area of the worst sins, the sins of mental attitude.
 
-The content of the soul is seen when a person speaks. What you truly are is only revealed when you speak.
+The content of the soul is seen when a person speaks. What you truly are
+is only revealed when you speak.
 
-Sins of the tongue reveal mental attitude sins. If you are guilty, arrogant, bitter, or full of revenge, you will talk a certain way that reveals the content of your soul.
+Sins of the tongue reveal mental attitude sins. If you are guilty,
+arrogant, bitter, or full of revenge, you will talk a certain way that
+reveals the content of your soul.
 
 Therefore, the soul sponsors all overt sins and sins of the tongue.
 
-The soul becomes the seat of misery because of the residuals of sin in the soul.
+The soul becomes the seat of misery because of the residuals of sin in
+the soul.
 
-* Psalm 6:3. _And my soul is greatly dismayed; But You, O Lord—how long?_
+> Psalm 6:3. And my soul is greatly dismayed; But You, O Lord—how long?
 
-* Psalm 106:15. _He gave them their request, But sent a wasting disease among them._
+> Psalm 106:15. He gave them their request, But sent a wasting disease
+> among them.
 
-* Psalm 119:25, 28, 81. _My soul cleaves to the dust; Revive me according to Your word. My soul weeps because of grief; Strengthen me according to Your word. My soul languishes for Your salvation; I wait for Your word._
+> Psalm 119:25, 28, 81. My soul cleaves to the dust; Revive me according
+> to Your word. My soul weeps because of grief; Strengthen me according
+> to Your word. My soul languishes for Your salvation; I wait for Your
+> word.
 
 The soul is the area for all capacities, good or bad.
 
-Inside the divine dynasphere, the mature believer has maximum capacity for life, love and happiness. Inside the world’s system, the backslider has maximum capacity for sin, human good, evil, and self-induced misery.
+Inside the divine dynasphere, the mature believer has maximum capacity
+for life, love and happiness. Inside the world’s system, the backslider
+has maximum capacity for sin, human good, evil, and self-induced misery.
 
-* 1 Samuel 18:1. _Now it came about when he had finished speaking to Saul, that the soul of Jonathan was knit to the soul of David, and Jonathan loved him as himself._
+> 1 Samuel 18:1. Now it came about when he had finished speaking to
+> Saul, that the soul of Jonathan was knit to the soul of David, and
+> Jonathan loved him as himself.
 
-* 1 Peter 1:22. _Since you have in obedience to the truth purified your souls for a sincere love of the brethren, fervently love one another from the heart,_
+> 1 Peter 1:22. Since you have in obedience to the truth purified your
+> souls for a sincere love of the brethren, fervently love one another
+> from the heart,
 
 In physical death, the soul departs from the body,
 
-* Job 27:8. _For what is the hope of the godless when he is cut off, When God requires his life?_
+> Job 27:8. For what is the hope of the godless when he is cut off, When
+> God requires his life?
 
-* Psalm 16:10. _For You will not abandon my soul to Sheol; Nor will You allow Your Holy One to undergo decay._
+> Psalm 16:10. For You will not abandon my soul to Sheol; Nor will You
+> allow Your Holy One to undergo decay.
 
-* 2 Corinthians 5:8. _we are of good courage, I say, and prefer rather to be absent from the body and to be at home with the Lord._
+> 2 Corinthians 5:8. we are of good courage, I say, and prefer rather to
+> be absent from the body and to be at home with the Lord.
 
