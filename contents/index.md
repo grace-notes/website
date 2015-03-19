@@ -42,8 +42,6 @@ Grace Notes for their basic training curriculum for
 educating pastors, evangelists, teachers of adults and
 children, and church administrators.
 
-- [Grace Notes Africa Trip 2014 - Bob Bolender
-    Journal](http://www.gracenotes.info/documents/BolenderJournal_Final.pdf)
 - [Ministry Training - Program
     Status](http://www.gracenotes.info/MinistryTrainingStatus.shtml)
 - [Grace Notes
