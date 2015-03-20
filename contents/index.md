@@ -54,15 +54,6 @@ help in preparation for teaching and for use in classes held
 in Sunday schools, home schools, cell churches, and other
 venues where the Word of God is taught.
 
-An example of this application is seen in the Grace
-Notes-sponsored ministry of the Kabwe Central Baptist Church
-in Zambia. Pastor Gabriel Nsofwa uses Grace Notes in his
-teaching ministry of the church, and he conducts Bible
-College classes for local pastors, church leaders, and
-student teachers, using Grace Notes for the core curriculum.
-Click on the link to the Kabwe church's web site: Grace
-Bible College of Kabwe (Zambia)
-
 Grace Notes offers twelve (12) Units of course work, each
 unit roughly analogous to a semester of Bible College
 instruction. Students can earn certificates for each course
