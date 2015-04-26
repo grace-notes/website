@@ -29,13 +29,13 @@ block content
     if initial != id
       - id = initial
       - attributes.id = id
-    article.listing&attributes(attributes)
-      header.clearfix
+    article.listing.row&attributes(attributes)
+      header.clearfix.col-lg-8
         h2
           a(href=topic.url)= title
-      if topic.metadata && topic.metadata.description
-        p.description= topic.metadata.description
-      footer.clearfix
+        if topic.metadata && topic.metadata.description
+          p.description= topic.metadata.description
+      footer.clearfix.col-lg-4
         div.btn-group.topic-links
           a( href=topic.url, title="html view of "+topic.title).btn.btn-default.btn-sm view online
           a( href=topic.url.replace(/\.html$/, '.pdf'), title="pdf download of "+topic.title).btn.btn-default.btn-sm
