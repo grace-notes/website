@@ -9,7 +9,9 @@ tableOfContents: true
 template: topic.jade
 ---
 
-##### Introduction[^1]
+*Bishop J. B. Lightfoot [^1]*
+
+# Introduction
 
 [Please read the Epistle to the Colossians before continuing with this
 study.]
@@ -40,7 +42,7 @@ evidence that he is addressing two different groups; but it is generally
 agreed that many Christians at Colosse were being taught false doctrine
 that was based on these two major heresies.
 
-##### Gnosticism
+# Gnosticism
 
 A Gnostic is a person who considers himself as having “knowledge” beyond
 that which the ordinary person has. He thinks of himself as a member of
@@ -150,9 +152,9 @@ Christ as Creator
 5.  A distributed divine essence (Father, Son, Holy Spirit) VS the
 divine essence is totally in Christ Jesus.
 
-##### The Essenes[^2]
+# The Essenes
 
-The Essenes were a Jewish religious community which was first mentioned
+The Essenes[^2] were a Jewish religious community which was first mentioned
 in history in the writings of Josephus (Antiquities, XIII, 5, 9), who
 mentions them as flourishing in the time of Jonathan Maccabaeus, in
 about 150 B.C., where he speaks of Judas, an Essene.
@@ -175,7 +177,7 @@ knowledge of the early Christian sects; and the Essenes may have been
 the group which produced the scrolls. The bibliography of this article
 provides references for further study.
 
-###### Essene Organization
+# Essene Organization
 
 The community of the Essenes was organized as a single body, with a
 president at the head. The members had to obey the president
@@ -194,7 +196,7 @@ says that the Essenes were divided into four classes. The children
 formed the first class, the first and second stages of novices were the
 next classes, and the fourth class were the full members.
 
-###### Essene Discipline
+# Essene Discipline
 
 Discipline was carried out by trial, and guilt was never decided unless
 at least one hundred members voted for it. After that, the decision was
@@ -210,7 +212,7 @@ Those who were needy, such as the aged and infirm, were cared for at the
 common expense; and special officers were assigned in each town to take
 care of traveling brethren.
 
-###### Essene Ethics and Customs
+# Essene Ethics and Customs
 
 The daily labor of the members was strictly regulated. After group
 prayer, the members were dismissed to work by their president. They
@@ -261,7 +263,7 @@ The following special customs were observed by the Essenes:
   food was prepared by priests with the observance of certain rites of
   purification; and an Essene could not eat any food but this.
 
-###### Essene Theology
+# Essene Theology
 
 The Essene theology was basically Jewish, with an absolute belief in
 God. Next to God, the name of Moses the lawgiver was an object of great
