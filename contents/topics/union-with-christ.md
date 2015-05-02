@@ -24,29 +24,29 @@ The Christian is “in Christ” and has become a “new creature” in that he 
 
 Union with Christ has several immediate results for every believer:
 
-**Regeneration**
+##### Regeneration
 
-**Titus 3:5**, “_Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;_"
+> **Titus 3:5**, “Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;"
 
-**John 3:5,6**, “Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.”
+> John 3:5,6**, “Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.”
 
-**The Indwelling Holy Spirit**
+#####  The Indwelling Holy Spirit
 
-* 1 Cor. 6:19
+> 1 Cor. 6:19
 
-**The Sealing of the Holy Spirit**
+##### The Sealing of the Holy Spirit
 
-* Eph. 1:13
+> Eph. 1:13
 
-* Eph. 4:30
+> Eph. 4:30
 
-**The Baptism of the Holy Spirit**
+##### The Baptism of the Holy Spirit
 
-* 1 Cor. 12:13
+> 1 Cor. 12:13
 
-**Spiritual Gifts**
+##### Spiritual Gifts
 
-* 1 Cor. 12:11
+> 1 Cor. 12:11
 
 The following is a list of the characteristics of the believer’s Union with Christ:
 
@@ -90,7 +90,7 @@ Union with Christ makes every believer equal at the point of salvation, Gal. 3:2
 
 Union with Christ makes the believer perfect in the sight of God, Col. 2:9,10.
 
-**Bible illustrations of Union with Christ:**
+##### Bible illustrations of Union with Christ:
 
 * Vine and Branches, John 15:1-17
 
