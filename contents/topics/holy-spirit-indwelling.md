@@ -7,26 +7,15 @@ tableOfContents: false
 template: topic.jade
 ---
 
-**Definition and Description**
+# Definition and Description
 
-The Holy Spirit indwells the body of the believer at the moment of
-salvation, 1 Cor. 6:19-20, 3:16.
+The Holy Spirit indwells the body of the believer at the moment of salvation, 1 Cor. 6:19-20, 3:16.
 
-This indwelling provides the divine power to offset the continued
-presence of the sin nature which also indwells the body after salvation.
-In addition to the indwelling Spirit, the filling of the Holy Spirit is
-required to provide the control and power for Christian living.
+This indwelling provides the divine power to offset the continued presence of the sin nature which also indwells the body after salvation. In addition to the indwelling Spirit, the filling of the Holy Spirit is required to provide the control and power for Christian living.
 
-The sin nature continues its disruptive tactics and seeks to frustrate
-the plan of God for the believer’s inner life. When the sin nature
-controls through sin then the believer is carnal. The carnal believer
-behavior leads to backsliding (reversion). When the Holy Spirit controls
-the soul, that is the filling of the Holy Spirit. In the life of every
-believer, human ability must be superseded by divine ability.
+The sin nature continues its disruptive tactics and seeks to frustrate the plan of God for the believer’s inner life. When the sin nature controls through sin then the believer is carnal. The carnal believer behavior leads to backsliding (reversion). When the Holy Spirit controls the soul, that is the filling of the Holy Spirit. In the life of every believer, human ability must be superseded by divine ability.
 
-The indwelling of the Holy Spirit is also a sign of royal family status
-on earth. In the Millennium, all believers will continue to be indwelt
-by the Holy Spirit.
+The indwelling of the Holy Spirit is also a sign of royal family status on earth. In the Millennium, all believers will continue to be indwelt by the Holy Spirit.
 
 No indwelling of the Holy Spirit in a Christian occurred until the
 church age. Therefore, we are royal family who complement Christ’s
