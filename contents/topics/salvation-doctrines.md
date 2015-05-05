@@ -37,10 +37,9 @@ with the Lord; a good knowledge of these doctrines can be of great help
 to you in solving problems and making decisions according to God’s
 viewpoint.
 
-You are **in the eternal plan of God**, sharing the destiny of the Lord
-Jesus Christ. As such you are:
+You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Christ. As such you are:
 
-##### Foreknown
+# Foreknown
 
 > **Acts 2:23**. "this Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put Him to death."
 
@@ -48,7 +47,7 @@ Jesus Christ. As such you are:
 
 > **1 Peter 1:2**. "according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure."
 
-##### Elect
+# Elect
 
 > **Romans 8:33**. "Who will bring a charge against God’s elect? God is the one who justifies;"
 
@@ -60,7 +59,7 @@ Jesus Christ. As such you are:
 
 > **1 Peter 1:1, 2**. "Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen"
 
-##### Predestined
+# Predestined
 
 > **Romans 8:29, 30**. "For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that *He would be the firstborn among many brethren; and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified."
 
@@ -68,25 +67,25 @@ Jesus Christ. As such you are:
 
 > **Ephesians 1:11**. "also we have obtained an inheritance, having been predestined according to His purpose who works all things after the counsel of His will,"
 
-##### Chosen in Christ
+# Chosen in Christ
 
 > **Matthew 22:14**. "For many are called, but few are chosen."
 
 > **1 Peter 2:4**. "And coming to Him as to a living stone which has been rejected by men, but is choice and precious in the sight of God"
 
-##### Called
+# Called
 
 > **1 Thessalonians 5:24**. "Faithful is He who calls you, and He also will bring it to pass."
 
-You have been **reconciled** …
+# You have been **reconciled** …
 
-##### Reconciled by God
+# Reconciled by God
 
 > **2 Corinthians 5:18**. "Now all these things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation,"
 
 > **Colossians 1:20**. "and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven."
 
-##### Reconciled to God
+# Reconciled to God
 
 > **Romans 5:10**. "For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life."
 
@@ -94,7 +93,7 @@ You have been **reconciled** …
 
 > **Ephesians 2:14-16**. "For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall, by abolishing in His flesh the enmity, which is the Law of commandments contained in ordinances, so that in Himself He might make the two into one new man, thus establishing peace, and might reconcile them both in one body to God through the cross, by it having put to death the enmity."
 
-##### **You have been _redeemed_** (purchased from the slave market of sin).
+# **You have been _redeemed_** (purchased from the slave market of sin).
 
 > **Romans 3:24**. "being justified as a gift by His grace through the redemption which is in Christ Jesus;"
 
@@ -104,7 +103,7 @@ You have been **reconciled** …
 
 > **Ephesians 1:7**. "In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace"
 
-##### You have been _removed from condemnation_.**
+# You have been _removed from condemnation_.**
 
 > **John 3:18**. "He who believes in Him is not judged; he who does not believe has been judged already, because he has not believed in the name of the only begotten Son of God."
 
@@ -112,13 +111,13 @@ You have been **reconciled** …
 
 > **Romans 8:1**. "Therefore there is now no condemnation for those who are in Christ Jesus."
 
-##### You are **under grace** _and not under judgment (doctrine of propitiation)._
+# You are **under grace** _and not under judgment (doctrine of propitiation)._
 
 > **Romans 3:24–28**. "being justified as a gift by His grace through the redemption which is in Christ Jesus; whom God displayed publicly as a propitiation in His blood through faith. This was to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; for the demonstration, I say, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus. Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. For we maintain that a man is justified by faith apart from   works of the Law."
 
 > **1 John 2:2**. "and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world."
 
-##### Your _sins have been judged_ by the spiritual death of Christ on the cross:
+# Your _sins have been judged_ by the spiritual death of Christ on the cross:
 
 > **Romans 4:25**. "He who was delivered over because of our transgressions, and was raised because of our justification."
 
@@ -126,15 +125,15 @@ You have been **reconciled** …
 
 > **1 Peter 2:24**. "and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed."
 
-##### You have been made _dead to the old life and alive unto God_. You are:
+# You have been made _dead to the old life and alive unto God_. You are:
 
-##### Crucified with Christ
+# Crucified with Christ
 
 > **Romans 6:6**. "knowing this, that our old self was crucified with Him, in order that our body of sin might be done away with, so that we would no longer be slaves to sin;"
 
 > **Galatians 2:20**. "I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me."
 
-##### Dead with Christ
+# Dead with Christ
 
 > **Romans 6:8**. "Now if we have died with Christ, we believe that we shall also live with Him,"
 
@@ -142,19 +141,19 @@ You have been **reconciled** …
 
 > **1 Peter 2:24**. "and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed."
 
-##### Buried with Christ
+# Buried with Christ
 
 > **Romans 6:4**. "Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life."
 
 > **Colossians 2:12**. "having been buried with Him in baptism, in which you were also raised up with Him through faith in the working of God, who raised Him from the dead."
 
-##### Risen with Christ
+# Risen with Christ
 
 > **Romans 6:4**. "Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life."
 
 > **Colossians 3:1**. "Therefore if you have been raised up with Christ, keep seeking the things above, where Christ is, seated at the right hand of God."
 
-##### You are **free from the law**.
+# You are **free from the law**.
 
 > **Romans 6:14**. "For sin shall not be master over you, for you are not under law but under grace."
 
@@ -164,7 +163,7 @@ You have been **reconciled** …
 
 > **Galatians 3:25**. "But now that faith has come, we are no longer under a tutor [the Law]."
 
-##### You have been _adopted_ (placed as an adult heir in the family of God)
+# You have been _adopted_ (placed as an adult heir in the family of God)
 
 > **Romans 8:15**. "For you have not received a spirit of slavery leading to fear again, but you have received a spirit of adoption as sons by which we cry out, 'Abba! Father!'"
 
@@ -172,7 +171,7 @@ You have been **reconciled** …
 
 > **Ephesians 1:5**. "He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His   will,"
 
-##### You have been _justified_ (declared righteous).
+# You have been _justified_ (declared righteous).
 
 > **Romans 3:24**. "being justified as a gift by His grace through the redemption which is in Christ Jesus;"
 
@@ -186,7 +185,7 @@ You have been **reconciled** …
 
 > **Titus 3:7**. "so that being justified by His grace we would be made heirs according to *the* hope of eternal life."
 
-##### You have been _regenerated_ (born spiritually into the family of God)
+# You have been _regenerated_ (born spiritually into the family of God)
 
 > **John 13:10**. "Jesus said to him, “He who has bathed needs only to wash his feet, but is completely clean; and you are clean, but not all of you."
 
@@ -194,19 +193,19 @@ You have been **reconciled** …
 
 > **Titus 3:5**. "He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,"
 
-##### By regeneration you are:
+# By regeneration you are:
 
-##### Born Again
+# Born Again
 
 > **John 3:7.** "Do not be amazed that I said to you, ‘You must be born again."
 
 > **1 Peter 1:23**. "for you have been born again not of seed which is perishable but imperishable, that is, through the living and enduring word of God."
 
-##### Children of God
+# Children of God
 
 > **Galatians 3:26**. "For you are all sons of God through faith in Christ Jesus."
 
-##### Sons of God
+# Sons of God
 
 > **John 1:12**. "But as many as received Him, to them He gave the right to become children of God, even to those who believe in His name,"
 
@@ -214,7 +213,7 @@ You have been **reconciled** …
 
 > **1 John 3:2**. "Beloved, now we are children of God, and it has not appeared as yet what we will be. We know that when He appears, we will be like Him, because we will see Him just as He is."
 
-##### New Creations
+# New Creations
 
 > **2 Corinthians 5:17**. "Therefore if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come."
 
@@ -222,15 +221,15 @@ You have been **reconciled** …
 
 > **Ephesians 2:10**. "For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we would walk in them."
 
-##### You have been made _acceptable to God_.
+# You have been made _acceptable to God_.
 
 > **Ephesians 1:6**. "to the praise of the glory of His grace, which He freely bestowed on us in the Beloved."
 
 > **1 Peter 2:5**. "you also, as living stones, are being built up as a spiritual house for a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ."
 
-#####To make a believer acceptable to Himself, God sees to it that you have been:
+# To make a believer acceptable to Himself, God sees to it that you have been:
 
-##### Made righteous
+# Made righteous
 
 > **Romans 3:22**. "even the righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction;"
 
@@ -242,22 +241,22 @@ You have been **reconciled** …
 > **Philippians 3:9**. "and may be found in Him, not having a righteousness of my own derived from the Law, but that which is
   through faith in Christ, the righteousness which comes from God on the basis of faith,"
 
-##### Sanctified positionally
+# Sanctified positionally
 
 > **1 Corinthians 1:30**. "But by His doing you are in Christ Jesus, who became to us wisdom from God, and righteousness and
   sanctification, and redemption,"
 
 > **1 Corinthians 6:11**. "Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God."
 
-##### Perfected forever
+# Perfected forever
 
 > **Hebrews 10:14**. "For by one offering He has perfected for all time those who are sanctified._"
 
-##### Made qualified
+# Made qualified
 
 > **Colossians 1:12**. "giving thanks to the Father, who has qualified us to share in the inheritance of the saints in Light."
 
-##### You have been _forgiven all trespasses_ or _sins_
+# You have been _forgiven all trespasses_ or _sins_
 
 > **Ephesians 1:7**. "In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace."
 
@@ -269,7 +268,7 @@ You have been **reconciled** …
 
 > **Colossians 3:13**. "bearing with one another, and forgiving each other, whoever has a complaint against anyone; just as the Lord forgave you, so also should you."
 
-##### You have been made a _heavenly citizen_ based on reconciliation.
+# You have been made a _heavenly citizen_ based on reconciliation.
 
 > **Luke 10:20**. "Nevertheless do not rejoice in this, that the spirits are subject to you, but rejoice that your names are recorded in heaven.”
 
@@ -277,17 +276,17 @@ You have been **reconciled** …
 
 > **Philippians 3:20**. "For our citizenship is in heaven, from which also we eagerly wait for a Savior, the Lord Jesus Christ;"
 
-##### You have been _delivered from the kingdom of Satan_
+# You have been _delivered from the kingdom of Satan_
 
 > **Colossians 1:13**. "For He rescued us from the domain of darkness, and transferred us to the kingdom of His beloved Son,"
 
 > **Colossians 2:15**. "When He had disarmed the rulers and authorities, He made a public display of them, having triumphed over them through Him."
 
-##### You have been _transferred into God’s kingdom_.
+# You have been _transferred into God’s kingdom_.
 
 > **Colossians 1:13**. "For He rescued us from the domain of darkness, and transferred us to the kingdom of His beloved Son,
 
-##### You have been placed on a _secure foundation_.
+# You have been placed on a _secure foundation_.
 
 > **1 Corinthians 3:11**. "For no man can lay a foundation other than the one which is laid, which is Jesus Christ."
 
@@ -295,11 +294,11 @@ You have been **reconciled** …
 
 > **Ephesians 2:20**. "having been built on the foundation of the apostles and prophets, Christ Jesus Himself being the corner stone,"
 
-##### You are a _gift from God the Father_ to the Lord Jesus Christ.
+# You are a _gift from God the Father_ to the Lord Jesus Christ.
 
 > **John 17:2, 6, 9, 11, 12, 24**. "even as You gave Him authority over all flesh, that to all whom You have given Him, He may give eternal life." **6** "I have manifested Your name to the men whom You gave Me out of the world; they were Yours and You gave them to Me, and they have kept Your word." **9** "I ask on their behalf; I do not ask on behalf of the world, but of those whom You have given Me; for they are Yours." **11** "I am no longer in the world; and yet they themselves are in the world, and I come to You. Holy Father, keep them in Your name, the name which You have given Me, that they may be one even as We are." **12** "While I was with them, I was keeping them in Your name which You have given Me; and I guarded them and not one of them perished but the son of perdition, so that the Scripture would be fulfilled." **24** "Father, I desire that they also, whom You have given Me, be with Me where I am, so that they may see My glory which You have given Me, for You loved Me before the foundation of the world."
 
-##### You have been _delivered from the power of the sin nature_.
+# You have been _delivered from the power of the sin nature_.
 
 > **Romans 2:29**. "But he is a Jew who is one inwardly; and circumcision is that which is of the heart, by the Spirit, not by the letter; and his praise is not from men, but from God."
 
@@ -307,19 +306,19 @@ You have been **reconciled** …
 
 > **Colossians 2:11**. "and in Him you were also circumcised with a circumcision made without hands, in the removal of the body of the flesh by the circumcision of Christ;"
 
-##### You have been _appointed as a priest_ unto God.
+# You have been _appointed as a priest_ unto God.
 
 > **1 Peter 2:5,9**. "you also, as living stones, are being built up as a spiritual house for a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ." **9** "But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light;"
 
 > **Revelation 1:6**. "and He has made us to be a kingdom, priests to His God and Father—to Him be the glory and the dominion forever and ever."
 
-##### You are _under the care of God_ as a chosen generation and a protected people.
+# You are _under the care of God_ as a chosen generation and a protected people.
 
 > **Titus 2:14**. "who gave Himself for us to redeem us from every lawless deed, and to purify for Himself a people for His own possession, zealous for good deeds."
 
 > **1 Peter 2:9**. "But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light;"
 
-##### You have been given _access to God_.
+# You have been given _access to God_.
 
 > **Romans 5:2**. "through whom also we have obtained our introduction by faith into this grace in which we stand; and we exult in hope of the glory of God."
 
@@ -329,15 +328,15 @@ You have been **reconciled** …
 
 > **Hebrews 10:19,20**. "Therefore, brethren, since we have confidence to enter the holy place by the blood of Jesus, by a new and living way which He inaugurated for us through the veil, that is, His flesh,"
 
-##### You are _within the much more care of God._
+# You are _within the much more care of God._
 
-##### Objects of His love
+# Objects of His love
 
 > **Ephesians 2:4**. "But God, being rich in mercy, because of His great love with which He loved us,"
 
 > **Ephesians 5:2**. "and walk in love, just as Christ also loved you and gave Himself up for us, an offering and a sacrifice to God as a fragrant aroma."
 
-##### Objects of His grace
+# Objects of His grace
 
 > **For salvation**, **Ephesians 2:8,9**. "For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works, so that no one may boast."
 
@@ -351,27 +350,27 @@ You have been **reconciled** …
 
 > **For instruction**, **Titus 2:12**. "instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age,"
 
-##### Objects of His power
+# Objects of His power
 
 > **Ephesians 1:19**. "and what is the surpassing greatness of His power toward us who believe. These are in accordance with the working of the strength of His might"
 
 > **Philippians 2:13**. "for it is God who is at work in you, both to will and to work for His good pleasure."
 
-##### Objects of His faithfulness
+# Objects of His faithfulness
 
 > **Philippians 1:6**. "For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus."
 
 > **Hebrews 13:5**. "Make sure that your character is free from the love of money, being content with what you have; for He Himself has said, “I will never desert you, nor will I ever forsake you,'”
 
-##### Objects of His peace
+# Objects of His peace
 
 > **John 14:27**. "Peace I leave with you; My peace I give to you; not as the world gives do I give to you. Do not let your heart be troubled, nor let it be fearful."
 
-##### Objects of His consolation
+# Objects of His consolation
 
 > **2 Thessalonians 2:16**. "Now may our Lord Jesus Christ Himself and God our Father, who has loved us and given us eternal comfort and good hope by grace,"
 
-##### Objects of His intercession
+# Objects of His intercession
 
 > **Romans 8:34**. "who is the one who condemns? Christ Jesus is He who died, yes, rather who was raised, who is at the right hand of God, who also intercedes for us."
 
@@ -379,7 +378,7 @@ You have been **reconciled** …
 
 > **Romans 9:24**. "even us, whom He also called, not from among Jews only, but also from among Gentiles."
 
-##### You are a beneficiary of the inheritance from God (_an heir of God and a joint-heir with the Lord Jesus Christ_).
+# You are a beneficiary of the inheritance from God (_an heir of God and a joint-heir with the Lord Jesus Christ_).
 
 > **Romans 8:17**. "and if children, heirs also, heirs of God and fellow heirs with Christ, if indeed we suffer with Him so that we may also be glorified with Him."
 
@@ -391,7 +390,7 @@ You have been **reconciled** …
 
 > **1 Peter 1:4**. "to obtain an inheritance which is imperishable and undefiled and will not fade away, reserved in heaven for you,"
 
-##### You have a _new position in Christ_.
+# You have a _new position in Christ_.
 
 > **Ephesians 2:6**. "and raised us up with Him, and seated us with Him in the heavenly places in Christ Jesus,"
 
@@ -407,7 +406,7 @@ You have been **reconciled** …
 
 > **2 Corinthians 6:1,4**. "And working together with Him, we also urge you not to receive the grace of God in vain" **4** "but in everything commending ourselves as servants of God, in much endurance, in afflictions, in hardships, in distresses,"
 
-##### You are the _recipient of eternal life_.
+# You are the _recipient of eternal life_.
 
 > **John 3:15**. "so that whoever believes will in Him have eternal life."
 
@@ -417,69 +416,69 @@ You have been **reconciled** …
 
 > **1 John 5:11,12**. "And the testimony is this, that God has given us eternal life, and this life is in His Son. He who has the Son has the life; he who does not have the Son of God does not have the life."
 
-##### You are a _member of the family of God_.
+# You are a _member of the family of God_.
 
 > **Galatians 6:10**. "So then, while we have opportunity, let us do good to all people, and especially to those who are of the household of the faith."
 
 > **Ephesians 2:19**. "So then you are no longer strangers and aliens, but you are fellow citizens with the saints, and are of God’s household,"
 
-##### You are _Light in the Lord_.
+# You are _Light in the Lord_.
 
 > **Ephesians 5:8**. "for you were formerly darkness, but now you are Light in the Lord; walk as children of Light"
 
 > **1 Thessalonians 5:4**. "But you, brethren, are not in darkness, that the day would overtake you like a thief;"
 
-##### You are _united with the Father_.
+# You are _united with the Father_.
 
 > **1 Thessalonians 1:1**. "Paul and Silvanus and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace."
 
 > cf **Ephesians 4:6**. "one God and Father of all who is over all and through all and in all."
 
-##### United with Christ
+# United with Christ
 
 > **John 14:20**. "In that day you will know that I am in My Father, and you in Me, and I in you."
 
 > cf. **Colossians 1:27**. "to whom God willed to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory."
 
-##### A member of His body
+# A member of His body
 
 > **1 Corinthians 12:13**. "For by one Spirit we were all baptized into one body, whether Jews or Greeks, whether slaves or free, and we were all made to drink of one Spirit."
 
-##### A branch in the vine
+# A branch in the vine
 
 > **John 15:5**. "I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing."
 
-##### A stone in the building
+# A stone in the building
 
 > **Ephesians 2:21,22**. "in whom the whole building, being fitted together, is growing into a holy temple in the Lord, in whom you also are being built together into a dwelling of God in the Spirit."
 
-##### A part of His bride
+# A part of His bride
 
 > **Ephesians 5:25-27**. "Husbands, love your wives, just as Christ also loved the church and gave Himself up for her, so that He might sanctify her, having cleansed her by the washing of water with the word, that He might present to Himself the church in all her glory, having no spot or wrinkle or any such thing; but that she would be holy and blameless."
 
-##### A priest in His kingdom
+# A priest in His kingdom
 
 > **1 Peter 2:9**. "But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light;"
 
-##### A saint of the new species
+# A saint of the new species
 
 > **2 Corinthians 5:17**. "Therefore if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come."
 
-##### United with the Holy Spirit
+# United with the Holy Spirit
 
 > **Romans 8:9‑11**. "However, you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. But if anyone does not have the Spirit of Christ, he does not belong to Him. If Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness. But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit who dwells in you."
 
-##### You are the _recipient of the ministry of the Holy Spirit._
+# You are the _recipient of the ministry of the Holy Spirit._
 
-##### Born of the spirit
+# Born of the spirit
 
 > **John 3:6**. "That which is born of the flesh is flesh, and that which is born of the Spirit is spirit."
 
-##### Baptized by the spirit
+# Baptized by the spirit
 
 > **1 Corinthians 12:13**. "For by one Spirit we were all baptized into one body, whether Jews or Greeks, whether slaves or free, and we were all made to drink of one Spirit."
 
-##### Indwelt by the spirit
+# Indwelt by the spirit
 
 > **John 7:39**. "_But this He spoke of the Spirit, whom those who
   believed in Him were to receive; for the Spirit was not yet given,
@@ -497,13 +496,13 @@ You have been **reconciled** …
 
 > **1 John 3:24**. "The one who keeps His commandments abides in Him, and He in him. We know by this that He abides in us, by the Spirit whom He has given us."
 
-##### Sealed by the spirit
+# Sealed by the spirit
 
 > **2 Corinthians 1:22**. "who also sealed us and gave us the Spirit in our hearts as a pledge."
 
 > **Ephesians 4:30**. "Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."
 
-##### Recipient of spiritual gifts
+# Recipient of spiritual gifts
 
 > **1 Corinthians 12:11**. "But one and the same Spirit works all these things, distributing to each one individually just as He wills."
 
@@ -511,19 +510,19 @@ You have been **reconciled** …
 
 > **1 Corinthians 13:1,2**. "If I speak with the tongues of men and of angels, but do not have love, I have become a noisy gong or a clanging cymbal. If I have the gift of prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but do not have love, I am nothing."
 
-##### You have been _glorified in Christ_.
+# You have been _glorified in Christ_.
 
 > **Romans 3:20**. "because by the works of the Law no flesh will be justified in His sight; for through the Law comes the knowledge of sin."
 
-##### You have been made _complete in Christ_.
+# You have been made _complete in Christ_.
 
 > **Colossians 2:10**. "and in Him you have been made complete, and He is the head over all rule and authority;"
 
-##### You are the _possessor of every spiritual blessing_.
+# You are the _possessor of every spiritual blessing_.
 
 > **Ephesians 1:3**. "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,"
 
-##### You are the _recipient of a human spirit_.
+# You are the _recipient of a human spirit_.
 
 > **Romans 8:16**. "The Spirit Himself testifies with our spirit that we are children of God,"
 
@@ -535,7 +534,7 @@ You have been **reconciled** …
 
 > **Ephesians 2:5**. "even when we were dead in our transgressions, made us alive together with Christ (by grace you have been saved),"
 
-##### You have _access to all Bible truth_ through the grace system for Bible understanding and Christian growth
+# You have _access to all Bible truth_ through the grace system for Bible understanding and Christian growth
 
 READ **Colossians 2** and **Ephesians 4**.
 
