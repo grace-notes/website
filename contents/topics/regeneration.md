@@ -38,7 +38,7 @@ John 1:13 eliminates all human aspects of regeneration. The phrase “_not of bl
 
 # The Power of Regeneration - The Resurrection
 
-We are “_born again…by the resurrection of Jesus Christ_”, 1 Pet. 1:3. This shows us the kind of power needed for regeneration. According to Eph. 1:19, 20 the power that raised Christ from the dead is the greatest power ever displayed. This same power is applied in bringing regeneration to us.
+We are “_born again…by the resurrection of Jesus Christ_”, 1 Pet. 1:3. This shows us the kind of power needed for regeneration. According to Eph. 1:19-20 the power that raised Christ from the dead is the greatest power ever displayed. This same power is applied in bringing regeneration to us.
 
 # The Instrument of Regeneration - Faith
 
@@ -46,7 +46,7 @@ Gal. 3:26 explains that faith is the hand by which we receive the gift of eterna
 
 # The Basis of Regeneration - Blood
 
-Those who call on the Father, 1 Pet. 1:17­19, the family concept of regeneration. It is the blood of Christ that makes this possible (v. 19).
+Those who call on the Father, 1 Pet. 1:17-19, the family concept of regeneration. It is the blood of Christ that makes this possible (v. 19).
 
 # The Agent of Regeneration - The Holy Spirit
 
