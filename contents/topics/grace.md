@@ -6,7 +6,7 @@ tableOfContents: false
 template: topic.jade
 ---
 
-**Introduction**
+# Introduction
 
 God the Father always thinks grace. Whether He is dealing with nations or individuals, whether he is exercising His divine justice, wrath, love, or mercy, in whatever dispensation or time frame, at all times and in all circumstances, the grace of God influences His thoughts and actions.
 
@@ -32,7 +32,7 @@ Mastery of the Bible’s teaching about grace is the most important goal of the 
 
 The goal of this study, then, is to learn how God thinks and how we can have “divine viewpoint” in our own thinking. With Jesus Christ as the “chief cornerstone”, we develop the “foundation” of the doctrine of grace, from the “apostles and prophets” by studying the Bible vocabulary dealing with grace, by developing principles of the doctrine of grace, and by illustration and application.
 
-**Etymology: Bible Vocabulary Related to Grace**
+## Etymology: Bible Vocabulary Related to Grace
 
 This study contains a thorough review of all words in the Bible which are related to the topic of grace. The context of each verse was studied, especially considering it with respect to etymology, doctrine, and application. Word study and doctrinal source materials include the following:
 
@@ -52,29 +52,29 @@ The Grace vocabulary of the Bible begins with the Greek word (**chara**), “joy
 
 In the Oxyrhyncus Papyrii [P Oxy VIII, 1162], a Christian man’s personal letter included the greeting, “Leon, elder, to the elders and deacons, beloved brothers in the Lord, fullness of joy (**chara**).” The word (**chara**) is used in the following Bible passages:
 
-* **Matt. 2:10.** “_When they saw the star, they rejoiced with exceeding great joy_ (chara).”
+> **Matt. 2:10.** “When they saw the star, they rejoiced with exceeding great joy (chara).”
 
-* **Matt. 5:12.** “_Rejoice and be exceeding glad (chara): for great is your reward in heaven…_”
+> **Matt. 5:12.** “Rejoice and be exceeding glad (chara): for great is your reward in heaven…”
 
-* **Matt. 13:44.** “_Again, the kingdom of heaven is like treasure hid in a field; when a man has found it, he hides, and for joy (chara) thereof goes and sells all that he has, and buys that field._”
+> **Matt. 13:44.** “Again, the kingdom of heaven is like treasure hid in a field; when a man has found it, he hides, and for joy (chara) thereof goes and sells all that he has, and buys that field.”
 
-* **Matt. 18:13** describes the Lord’s joy (chara) at finding the lost sheep.
+> **Matt. 18:13** describes the Lord’s joy (chara) at finding the lost sheep.
 
-* **Matt. 25:21, 23.** “_His lord said unto him, Well done, good and faithful servant: you have been faithful over a few things, I will make thee ruler over many things: enter into the joy (chara) of thy lord._”
+> **Matt. 25:21, 23.** “_His lord said unto him, Well done, good and faithful servant: you have been faithful over a few things, I will make thee ruler over many things: enter into the joy (chara) of thy lord._”
 
 We begin to see the relationship between joy and that which causes joy, namely, the favor and bounty which we receive from the Lord.
 
-* **Luke 2:10. .** "_Behold, I bring you good tidings of great joy (chara), which shall be to all people._" This emphasizes the idea of CHARA as an occasion of rejoicing.
+> **Luke 2:10. .** "Behold, I bring you good tidings of great joy (chara), which shall be to all people._" This emphasizes the idea of CHARA as an occasion of rejoicing.
 
-* **Phil. 4:1.** "_Therefore, my brethren dearly beloved and longed for, my joy (chara) and crown, so stand fast in the Lord**…_"
+> **Phil. 4:1.** "Therefore, my brethren dearly beloved and longed for, my joy (chara) and crown, so stand fast in the Lord**…"
 
-* **1 Thess. 2:19, 20.** "_For what is our hope, or joy (chara), or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his Coming? For ye are our glory and hope._"
+> **1 Thess. 2:19, 20.** "For what is our hope, or joy (chara), or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his Coming? For ye are our glory and hope."
 
 Related words are the verb (**chairo**), “to rejoice; to be glad; to be joyful” and the word , (**chaire**), used as a greeting “Hail! or Health!” upon meeting or separating and used widely as a salutation or closing of letters.
 
-* **Acts 15:23.** "_And they wrote letters by them after this manner: The apostles and elders and brethren send greeting (chairo) unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia._"
+> **Acts 15:23.** "And they wrote letters by them after this manner: The apostles and elders and brethren send greeting (chairo) unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia."
 
-* **Matt. 26:49.** "_Judas…came to Jesus and said, HAIL, master; and kissed him._"
+> **Matt. 26:49.** "Judas…came to Jesus and said, HAIL, master; and kissed him."
 
 * **Matt. 27:29.** “_HAIL, King of the Jews…_” was shouted in derision at Christ before His crucifixion.
 
@@ -84,17 +84,17 @@ A curious use of **chairo** is seen in 2 John 10,11, "_If there come any unto yo
 
 The verb Greek letters (**charidzomai**) is used several ways in the Bible. It means “to gratify; to bestow in kindness; to grant as a free favor.” In each of the Bible passages below, try to determine what it is that shows the Lord’s grace mental attitude.
 
-* **Luke 7:21.** "_And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave (charidzomai) sight._"
+> **Luke 7:21.** "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave (charidzomai) sight."
 
-* **Rom. 8:32.** "_He that spared not His own Son, but delivered Him up for us all, how shall He not with Him also freely give us all things?_"
+> **Rom. 8:32.** "He that spared not His own Son, but delivered Him up for us all, how shall He not with Him also freely give us all things?"
 
 **Charidzomai** also has the meaning of “to remit; to forgive”.
 
-* **Luke 7:42.** "_ A creditor had two debtors…And when they had nothing to pay, he frankly forgave (charidzomai) them both…_"
+> **Luke 7:42.** "_A creditor had two debtors…And when they had nothing to pay, he frankly forgave (charidzomai) them both…"
 
-* **2 Cor 2:7,10.** "_To whom you forgive anything, I also: for if I forgave (charidzomai) any thing, to whom I forgave it, for your sakes I forgave it in the person of Christ._"
+> **2 Cor 2:7,10.** "To whom you forgive anything, I also: for if I forgave (charidzomai) any thing, to whom I forgave it, for your sakes I forgave it in the person of Christ."
 
-**Application: Forgiveness**
+# Application: Forgiveness
 
 The word “forgive” is a Grace word, in the English as well as in the Greek (**charidzomai**). An early meaning in English was “to give or to grant”. Then, forgive came to mean “to remit a debt; to give up resentment or claim for requital; to pardon an offense.”
 
@@ -113,29 +113,29 @@ Wherever in your life you find that someone else owes you something, you have th
 
 Another grace word is the (Greek) noun (**charisma**), “a free gift; a benefit; a spiritual gift.” An interesting use is seen in Romans 1:11, “_For I long to see you, that I may impart unto you some spiritual gift (**charisma**), to the end you may be established._” This is not a spiritual gift from the Holy Spirit, but a spiritual benefit which Paul wished to share with the Roman Christians. [ For the uses of **charisma** as “spiritual gift”, see 1 Cor. 12:4,9,28,30,30 and Romans 12. ]
 
-* **Rom. 6:23.** "_For the wages of sin is death, but the gift (charisma) of God is eternal life through Jesus Christ our Lord._"
+> **Rom. 6:23.** "For the wages of sin is death, but the gift (charisma) of God is eternal life through Jesus Christ our Lord."
 
 But how did this happen? How can God give such a gift to us?
 
-* **Rom. 5:15.** "_But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many._"
+> **Rom. 5:15.** "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many."
 
-To comprehend this fully, you must study the context. The complete context of Romans 5:15 ranges from Romans 2:1 to 6:2 (at least)!
+To comprehend this fully, you must study the context. The complete context of Romans 5:15 ranges from Romans 2:1-6:2 (at least)!
 
 A very important grace word is the Greek (**charis**), which has a variety of translations in the New Testament, including “favor; pleasure; gift; benefit; liberality; and gratitude” as illustrated in the following Scriptures.
 
-* **Luke 1:30.** "_And the angel said unto her, Fear not, Mary: for you have found favor (charis) with God._"
+> **Luke 1:30.** "And the angel said unto her, Fear not, Mary: for you have found favor (charis) with God."
 
-* **Luke 2:52.** "_And Jesus increased in wisdom and stature, and in favor (charis) with God and man._"
+> **Luke 2:52.** "And Jesus increased in wisdom and stature, and in favor (charis) with God and man."
 
 Acts 24:27 and 25:9 use (**charis**) with respect to pleasure.
 
-* **2 Cor. 8:4.** "_Praying us with much entreaty that we would receive the gift (charis), and take upon us the fellowship of ministering to the saints._"
+> **2 Cor. 8:4.** "Praying us with much entreaty that we would receive the gift (charis), and take upon us the fellowship of ministering to the saints."
 
-* **2 Cor. 1:14,15.** "_As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are out’s in the day of the Lord Jesus. And in this confidence I was minded to come unto you before, that ye might have a second benefit_ (charis)."
+> **2 Cor. 1:14,15.** "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are out’s in the day of the Lord Jesus. And in this confidence I was minded to come unto you before, that ye might have a second benefit (charis)."
 
 This usage emphasizes that the benefit, or gift, is the effect of the gracious disposition of the benefactor.
 
-* **1 Cor. 16:3.** "_And when I come, whomever you shall approve by your letters, them will I send to bring you liberality (charis) to Jerusalem._"
+> **1 Cor. 16:3.** "And when I come, whomever you shall approve by your letters, them will I send to bring you liberality (charis) to Jerusalem."
 
 It is in the idea of gratitude, as the response of the one who receives a grace benefit, that we begin to see the means by which God causes the correct response in people. A free gift brings a joyous, thankful response.
 
