@@ -4,28 +4,28 @@ template: page.jade
 ---
 
 > Grace notes helped me not to focus on my strength like
-fasting and prayer for security and deliverance but I was
-refocused on Jesus, it became easy to live a christian
-life even after a such a hostile back ground.
-
+> fasting and prayer for security and deliverance but I was
+> refocused on Jesus, it became easy to live a christian
+> life even after a such a hostile back ground.
+>
 > My leadership team was afraid to serve God, prior to that
-the were busy breaking deviles. Which kept in for years in
-every service. I started teaching our congregation
-systematically thru Grace Notes.
-
+> the were busy breaking deviles. Which kept in for years in
+> every service. I started teaching our congregation
+> systematically thru Grace Notes.
+>
 > **Martin Wandira, Team Leader at Truth Gospel Church, Seguku
-Uganda** [See full video of Pastor Martin's
-testimony](https://www.youtube.com/watch?v=mn1oAOEqn14)
+> Uganda** [See full video of Pastor Martin's
+> testimony](https://www.youtube.com/watch?v=mn1oAOEqn14)
 
 <!-- -->
 
 > Grace Notes has done a great work in Zimbabwe and Africa at
-large. It has empowered ministers and churches. This program
-has made me full of the Word and be able to teach what they
-know. Also GN has provided Bibles to many of which some are
-poor that they could not afford it. We are happy that we met
-GN.
-
+> large. It has empowered ministers and churches. This program
+> has made me full of the Word and be able to teach what they
+> know. Also GN has provided Bibles to many of which some are
+> poor that they could not afford it. We are happy that we met
+> GN.
+>
 > **Pastor Mesuli Nkomo, Harare Zimbabwe**
 
 <!-- -->
@@ -33,7 +33,7 @@ GN.
 > The Christian who does not understand what God has done in
 > the past, and who does not have faith in what God will do
 > in the future, will be overwhelmed by today's crisis.
-
+>
 > **Chester McCalley**
 
 Grace Notes supports Ministry Training in many countries of
