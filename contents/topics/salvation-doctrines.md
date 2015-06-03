@@ -37,9 +37,9 @@ with the Lord; a good knowledge of these doctrines can be of great help
 to you in solving problems and making decisions according to God’s
 viewpoint.
 
-You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Christ. As such you are:
+# You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Christ. As such you are:
 
-# Foreknown
+## Foreknown
 
 > **Acts 2:23**. "this Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put Him to death."
 
@@ -47,7 +47,7 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > **1 Peter 1:2**. "according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure."
 
-# Elect
+## Elect
 
 > **Romans 8:33**. "Who will bring a charge against God’s elect? God is the one who justifies;"
 
@@ -59,7 +59,7 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > **1 Peter 1:1, 2**. "Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen"
 
-# Predestined
+## Predestined
 
 > **Romans 8:29, 30**. "For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that *He would be the firstborn among many brethren; and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified."
 
@@ -67,25 +67,25 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > **Ephesians 1:11**. "also we have obtained an inheritance, having been predestined according to His purpose who works all things after the counsel of His will,"
 
-# Chosen in Christ
+## Chosen in Christ
 
 > **Matthew 22:14**. "For many are called, but few are chosen."
 
 > **1 Peter 2:4**. "And coming to Him as to a living stone which has been rejected by men, but is choice and precious in the sight of God"
 
-# Called
+## Called
 
 > **1 Thessalonians 5:24**. "Faithful is He who calls you, and He also will bring it to pass."
 
 # You have been **reconciled** …
 
-# Reconciled by God
+## Reconciled by God
 
 > **2 Corinthians 5:18**. "Now all these things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation,"
 
 > **Colossians 1:20**. "and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven."
 
-# Reconciled to God
+## Reconciled to God
 
 > **Romans 5:10**. "For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life."
 
@@ -103,7 +103,7 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > **Ephesians 1:7**. "In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace"
 
-# You have been _removed from condemnation_.**
+# You have been _removed from condemnation_.
 
 > **John 3:18**. "He who believes in Him is not judged; he who does not believe has been judged already, because he has not believed in the name of the only begotten Son of God."
 
@@ -127,13 +127,13 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 # You have been made _dead to the old life and alive unto God_. You are:
 
-# Crucified with Christ
+## Crucified with Christ
 
 > **Romans 6:6**. "knowing this, that our old self was crucified with Him, in order that our body of sin might be done away with, so that we would no longer be slaves to sin;"
 
 > **Galatians 2:20**. "I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me."
 
-# Dead with Christ
+## Dead with Christ
 
 > **Romans 6:8**. "Now if we have died with Christ, we believe that we shall also live with Him,"
 
@@ -141,13 +141,13 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > **1 Peter 2:24**. "and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed."
 
-# Buried with Christ
+## Buried with Christ
 
 > **Romans 6:4**. "Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life."
 
 > **Colossians 2:12**. "having been buried with Him in baptism, in which you were also raised up with Him through faith in the working of God, who raised Him from the dead."
 
-# Risen with Christ
+## Risen with Christ
 
 > **Romans 6:4**. "Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life."
 
@@ -195,17 +195,17 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 # By regeneration you are:
 
-# Born Again
+## Born Again
 
 > **John 3:7.** "Do not be amazed that I said to you, ‘You must be born again."
 
 > **1 Peter 1:23**. "for you have been born again not of seed which is perishable but imperishable, that is, through the living and enduring word of God."
 
-# Children of God
+## Children of God
 
 > **Galatians 3:26**. "For you are all sons of God through faith in Christ Jesus."
 
-# Sons of God
+## Sons of God
 
 > **John 1:12**. "But as many as received Him, to them He gave the right to become children of God, even to those who believe in His name,"
 
@@ -213,7 +213,7 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > **1 John 3:2**. "Beloved, now we are children of God, and it has not appeared as yet what we will be. We know that when He appears, we will be like Him, because we will see Him just as He is."
 
-# New Creations
+## New Creations
 
 > **2 Corinthians 5:17**. "Therefore if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come."
 
@@ -229,7 +229,7 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 # To make a believer acceptable to Himself, God sees to it that you have been:
 
-# Made righteous
+## Made righteous
 
 > **Romans 3:22**. "even the righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction;"
 
@@ -241,18 +241,18 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 > **Philippians 3:9**. "and may be found in Him, not having a righteousness of my own derived from the Law, but that which is
   through faith in Christ, the righteousness which comes from God on the basis of faith,"
 
-# Sanctified positionally
+## Sanctified positionally
 
 > **1 Corinthians 1:30**. "But by His doing you are in Christ Jesus, who became to us wisdom from God, and righteousness and
   sanctification, and redemption,"
 
 > **1 Corinthians 6:11**. "Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God."
 
-# Perfected forever
+## Perfected forever
 
 > **Hebrews 10:14**. "For by one offering He has perfected for all time those who are sanctified._"
 
-# Made qualified
+## Made qualified
 
 > **Colossians 1:12**. "giving thanks to the Father, who has qualified us to share in the inheritance of the saints in Light."
 
@@ -330,13 +330,13 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 # You are _within the much more care of God._
 
-# Objects of His love
+## Objects of His love
 
 > **Ephesians 2:4**. "But God, being rich in mercy, because of His great love with which He loved us,"
 
 > **Ephesians 5:2**. "and walk in love, just as Christ also loved you and gave Himself up for us, an offering and a sacrifice to God as a fragrant aroma."
 
-# Objects of His grace
+## Objects of His grace
 
 > **For salvation**, **Ephesians 2:8,9**. "For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works, so that no one may boast."
 
@@ -350,27 +350,27 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > **For instruction**, **Titus 2:12**. "instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age,"
 
-# Objects of His power
+## Objects of His power
 
 > **Ephesians 1:19**. "and what is the surpassing greatness of His power toward us who believe. These are in accordance with the working of the strength of His might"
 
 > **Philippians 2:13**. "for it is God who is at work in you, both to will and to work for His good pleasure."
 
-# Objects of His faithfulness
+## Objects of His faithfulness
 
 > **Philippians 1:6**. "For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus."
 
 > **Hebrews 13:5**. "Make sure that your character is free from the love of money, being content with what you have; for He Himself has said, “I will never desert you, nor will I ever forsake you,'”
 
-# Objects of His peace
+## Objects of His peace
 
 > **John 14:27**. "Peace I leave with you; My peace I give to you; not as the world gives do I give to you. Do not let your heart be troubled, nor let it be fearful."
 
-# Objects of His consolation
+## Objects of His consolation
 
 > **2 Thessalonians 2:16**. "Now may our Lord Jesus Christ Himself and God our Father, who has loved us and given us eternal comfort and good hope by grace,"
 
-# Objects of His intercession
+## Objects of His intercession
 
 > **Romans 8:34**. "who is the one who condemns? Christ Jesus is He who died, yes, rather who was raised, who is at the right hand of God, who also intercedes for us."
 
@@ -434,51 +434,51 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > cf **Ephesians 4:6**. "one God and Father of all who is over all and through all and in all."
 
-# United with Christ
+## United with Christ
 
 > **John 14:20**. "In that day you will know that I am in My Father, and you in Me, and I in you."
 
 > cf. **Colossians 1:27**. "to whom God willed to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory."
 
-# A member of His body
+## A member of His body
 
 > **1 Corinthians 12:13**. "For by one Spirit we were all baptized into one body, whether Jews or Greeks, whether slaves or free, and we were all made to drink of one Spirit."
 
-# A branch in the vine
+## A branch in the vine
 
 > **John 15:5**. "I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing."
 
-# A stone in the building
+## A stone in the building
 
 > **Ephesians 2:21,22**. "in whom the whole building, being fitted together, is growing into a holy temple in the Lord, in whom you also are being built together into a dwelling of God in the Spirit."
 
-# A part of His bride
+## A part of His bride
 
 > **Ephesians 5:25-27**. "Husbands, love your wives, just as Christ also loved the church and gave Himself up for her, so that He might sanctify her, having cleansed her by the washing of water with the word, that He might present to Himself the church in all her glory, having no spot or wrinkle or any such thing; but that she would be holy and blameless."
 
-# A priest in His kingdom
+## A priest in His kingdom
 
 > **1 Peter 2:9**. "But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light;"
 
-# A saint of the new species
+## A saint of the new species
 
 > **2 Corinthians 5:17**. "Therefore if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come."
 
-# United with the Holy Spirit
+## United with the Holy Spirit
 
 > **Romans 8:9‑11**. "However, you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. But if anyone does not have the Spirit of Christ, he does not belong to Him. If Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness. But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit who dwells in you."
 
 # You are the _recipient of the ministry of the Holy Spirit._
 
-# Born of the spirit
+## Born of the spirit
 
 > **John 3:6**. "That which is born of the flesh is flesh, and that which is born of the Spirit is spirit."
 
-# Baptized by the spirit
+## Baptized by the spirit
 
 > **1 Corinthians 12:13**. "For by one Spirit we were all baptized into one body, whether Jews or Greeks, whether slaves or free, and we were all made to drink of one Spirit."
 
-# Indwelt by the spirit
+## Indwelt by the spirit
 
 > **John 7:39**. "_But this He spoke of the Spirit, whom those who
   believed in Him were to receive; for the Spirit was not yet given,
@@ -496,13 +496,13 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 > **1 John 3:24**. "The one who keeps His commandments abides in Him, and He in him. We know by this that He abides in us, by the Spirit whom He has given us."
 
-# Sealed by the spirit
+## Sealed by the spirit
 
 > **2 Corinthians 1:22**. "who also sealed us and gave us the Spirit in our hearts as a pledge."
 
 > **Ephesians 4:30**. "Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."
 
-# Recipient of spiritual gifts
+## Recipient of spiritual gifts
 
 > **1 Corinthians 12:11**. "But one and the same Spirit works all these things, distributing to each one individually just as He wills."
 
