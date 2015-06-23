@@ -40,7 +40,7 @@ It is used in Romans 4:4; 4:6; and 4:11 in the sense of “crediting.”
 
 It means “to credit something to someone” in Romans 4:3, 5, 9 and 22; Gal. 3:16; James 2:23 (cf. Romans 4:10, 23 ff; Gen. 15:6; Ps. 106:31).
 
-In the commercial world of New Testament times, **logizomai**was a technical term “to charge to someone’s account” and was so used in 2 Cor. 12:6. (Other references: Orientis Graeci Inscriptiones Selectae, edited by Dittenberger, 1903; and Fayum Towns and Their Papyri, by Grenfell, Hunt, et al.)
+In the commercial world of New Testament times, **logizomai** was a technical term “to charge to someone’s account” and was so used in 2 Cor. 12:6. (Other references: Orientis Graeci Inscriptiones Selectae, edited by Dittenberger, 1903; and Fayum Towns and Their Papyri, by Grenfell, Hunt, et al.)
 
 The idea of calculation is seen in other places in the concepts of “to evaluate, to estimate, to consider, to look upon as, something, as a result of calculation”. You will see this in Acts 19:27 (cf. Isa. 40:17) and Rom. 9:8; 2:26.
 
