@@ -26,7 +26,7 @@ In the second type of imputation, God the Father imputes to the Lord Jesus Chris
 
 The third type of imputation occurs when God imputes (credits) to the sinner what is not actually his. Again, 2 Cor. 5:21, “that we might be made the righteousness of God in Him.” Here, the actual perfect righteousness of God is credited to us. This righteousness, which is placed on the credit side of our ledger, is known as imputed righteousness or justification.
 
-God declares men to be righteous on the basis of faith. Read Romans 4:3. “_Abraham believed God and it was counted to him_ (**logizomai**) _for righteousness_”. God makes men righteous on the basis of practice by the Word (John 17:17) and the filling of the Holy Spirit. (See Topic: Sanctification)
+God declares men to be righteous on the basis of faith. Read Romans 4:3. “_Abraham believed God and it was counted to him_ (**logizomai**) _for righteousness_”. God makes men righteous on the basis of practice by the Word (John 17:17) and the filling of the Holy Spirit. 
 
 # logizomai from the Lexicons
 
