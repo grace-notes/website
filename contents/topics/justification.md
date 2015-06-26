@@ -6,7 +6,7 @@ tableOfContents: false
 template: topic.jade
 ---
 
-**Definition:**Justification is God’s act of grace by which He pardons a sinner and accepts him as righteous on account of the atoning work of Jesus Christ on the cross. Remission of sin, absolution from guilt, and freedom from punishment are part of justification.
+> **Definition:**Justification is God’s act of grace by which He pardons a sinner and accepts him as righteous on account of the atoning work of Jesus Christ on the cross. Remission of sin, absolution from guilt, and freedom from punishment are part of justification.
 
 In order to be justified, a person must be given a righteousness equivalent to God’s perfect righteousness. Hence, imputation precedes justification. Imputation is the charging to the account of one person something which properly belongs to another. The Lord Jesus Christ shares his perfect righteousness with the believer, **Rom. 3:22; 4:11; 9:30-32; 4:4, 5.**
 
