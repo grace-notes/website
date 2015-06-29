@@ -97,63 +97,37 @@ See also 2 Pet. 2:1; Rev. 14:3.
 The word (**exagoradzo**) means “to buy out of the hands of a person; to
 redeem; to set free.”
 
-**Gal. 3:13, “Christ has redeemed us from the curse of the law, being
-made a curse for us: for it is written, Cursed is every one that hangs
-on a tree.”**
+> **Gal. 3:13**, “Christ has redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree.”
 
-The word (**apolutrosis**) means “to dismiss for ransom paid;
-redemption”.
+The word (**apolutrosis**) means “to dismiss for ransom paid; redemption”.
 
-**1 Cor. 1:30, “But of him are ye in Christ Jesus, who of God is made
-unto us wisdom, and righteousness, and sanctification, and
-redemption.”**
+> **1 Cor. 1:30**, “But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption.”
 
-**Rom. 3:23,24, “For all have sinned and come short of the glory of God;
-being justified freely by his grace through the redemption that is in
-Christ Jesus.”**
+> **Rom. 3:23-24, “For all have sinned and come short of the glory of God; being justified freely by his grace through the redemption that is in Christ Jesus.”
 
-**Eph. 1:7, “In whom we have redemption through His blood, the
-forgiveness of sins according to the riches of His grace.”**
+> **Eph. 1:7**, “In whom we have redemption through His blood, the forgiveness of sins according to the riches of His grace.”
 
-**Heb. 9:15, “And for this cause he is the mediator of the new
-testament, that by means of death, for the redemption of the
-transgressions that were under the first testament, they which are
-called might receive the promise of eternal inheritance.”**
+> **Heb. 9:15**, “And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.”
 
-**Rom. 8:22,23, “For we know that the whole creation groans and travails
-in pain together until not. And not only they, but ourselves also, which
-have the firstfruits of the Spirit, even we ourselves groan within
-ourselves, waiting for the adoption, the redemption of our body.”**
+> **Rom. 8:22-23**, “For we know that the whole creation groans and travails in pain together until not. And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, the redemption of our body.”
 
-**Eph. 1:13,14, “In whom you also trusted, after that you heard the word
-of truth, the gospel of your salvation: in whom after you believed, you
-were sealed with that Holy Spirit of promise, which is the earnest of
-our inheritance until the redemption of the purchased possession, unto
-the praise of his glory.”**
+> **Eph. 1:13-14, “In whom you also trusted, after that you heard the word of truth, the gospel of your salvation: in whom after you believed, you were sealed with that Holy Spirit of promise, which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.”
 
-Some Implications of the Doctrine of Redemption
+## Some Implications of the Doctrine of Redemption
 
-Redemption is the basis of our eternal inheritance. See Eph. 1:13,14 and
-Heb. 9:15 above.
+Redemption is the basis of our eternal inheritance. See Eph. 1:13,14 and Heb. 9:15 above.
 
 Redemption is the basis of justification. Rom. 3:23, 24 (above).
 
 Redemption includes the total forgiveness of sins; Eph. 1:7; Col. 1:14.
 
-Redemption results in adoption.
+## Redemption results in adoption.
 
-**Gal. 4:4–6, “But when the fullness of time was come, God sent forth
-His Son, made of a woman, made under the Law, To redeem them that were
-under the Law, that we might receive the adoption of sons. And because
-you are sons, God has sent forth the Spirit of His Son into your hearts,
-crying, Abba, Father.”**
+> **Gal. 4:4–6**, “But when the fullness of time was come, God sent forth His Son, made of a woman, made under the Law, To redeem them that were under the Law, that we might receive the adoption of sons. And because you are sons, God has sent forth the Spirit of His Son into your hearts, crying, Abba, Father.”
 
-The doctrine of redemption is used to orient believers in time of
-stress.
+## The doctrine of redemption is used to orient believers in time of stress.
 
 **Job 19:25, “I know that my Redeemer liveth…”**
 
-At the point of redemption we can have peace of mind, stability, a
-relaxed mental attitude by knowing the doctrine and that God has paid
-for and provided for everything.
+At the point of redemption we can have peace of mind, stability, a relaxed mental attitude by knowing the doctrine and that God has paid for and provided for everything.
 
