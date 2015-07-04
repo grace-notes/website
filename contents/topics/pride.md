@@ -104,7 +104,7 @@ Pride transformed into self righteousness produces legalism.
 
 Occupation with Christ is the ultimate problem solving device regarding pride. Refer to the Grace Notes on Occupation with Christ.
 
-**Prov 8:13,** “The respect for the Lord is to hate evil, to hate pride and pride and the evil way. And I hate a perverted mouth.”
+> **Prov 8:13,** “The respect for the Lord is to hate evil, to hate pride and pride and the evil way. And I hate a perverted mouth.”
 
 Daily attention to the techniques of the Christian way of Life will give you a grace mental attitude that becomes more and more free of pride as you grow in Christ and in the knowledge of His word.
 
