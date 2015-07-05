@@ -128,7 +128,7 @@ PTOCHOS can mean poor, miserable, beggarly, impotent, Gal. 4:9, cf 1 Cor. 15:10.
 ### **PTOCHEUO** (verb)
 > "_to be extremely poor, to become poor_". In 2 Cor. 8:9, used figuratively of Jesus Christ.
 
-# The Bible’s Teaching about the Poor**  
+# The Bible’s Teaching about the Poor
 
 Until the Millennial reign of Jesus Christ, there will always be poverty on the earth; we will have war and poverty throughout the Church Age and the Tribulation.
 
