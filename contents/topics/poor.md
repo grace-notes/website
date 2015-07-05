@@ -17,7 +17,7 @@ There are many Hebrew and Greek words in the Bible which deal with the condition
 
 ## Hebrew Words Related to Poverty
 
-### **DAL** (noun)
+### DAL (noun)
 > “_scanty; helpless because of poverty; powerless; insignificant; poor; oppressed; dejected_” DAL is used for “poor” both in both the literal and figurative senses.
 
 In Gen. 41:19 DAL is used of scrawny cows. “And behold, seven other kine came up after them, poor [DAL] and very ill-favored…”
