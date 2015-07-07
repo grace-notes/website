@@ -7,8 +7,7 @@ tableOfContents: true
 template: topic.jade
 ---
 
-Definition
-----------
+* Definition
 
 The Greek preposition “anti” has a dual connotation:
 
@@ -16,9 +15,7 @@ a. Against.
 
 b. Instead of, in place of.
 
-The connotation for this study is that it means conflict; therefore
-against is the primary meaning. Therefore, an **antichrist** is someone
-against the Lord.
+The connotation for this study is that it means conflict; therefore against is the primary meaning. Therefore, an **antichrist** is someone against the Lord.
 
 Antichrist in the Church Age.
 -----------------------------
