@@ -17,7 +17,7 @@ b. Instead of, in place of.
 
 The connotation for this study is that it means conflict; therefore against is the primary meaning. Therefore, an **antichrist** is someone against the Lord.
 
-## Antichrist in the Church Age.
+# Antichrist in the Church Age.
 
 In the Church Age, antichrist refers to any believer who resides and functions in the world system of Satan. The Church Age is the only time to use the divine system to avoid being an antichrist.
 
