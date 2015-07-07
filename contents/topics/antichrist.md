@@ -45,23 +45,17 @@ The Antichrist is one of two great dictators who emerge in the Tribulation. He i
 
 1.  “The man of sin, the son of perdition,” 2 Thess 2:3.
 
-2.  “The beast from the sea,” Rev 13:1-10 (his political title); “the beast,” Rev 17:8-13 (his religious title); and “the beast on whom the     scarlet woman rides.”
+2.  “The beast from the sea,” Rev 13:1-10 (his political title); “the beast,” Rev 17:8-13 (his religious title); and “the beast on whom the scarlet woman rides.”
 
 2.  “The little horn,”
 
     Dan 7:8-9; 19-26.
 
-2.  “The abomination of desolation,”
+2.  “The abomination of desolation,” **Matt 24:15**. A statue of him is put up in the temple at Jerusalem, a sign for all believers to flee to the mountains.
 
-> Matt 24:15. A statue of him is put up in the temple at Jerusalem, a     sign for all believers to flee to the mountains.
+2.  “The prince that shall come,” **Dan 9:26-7.**
 
-2.  “The prince that shall come,”
-
-    Dan 9:26-7.
-
-2.  “The prince of Tyre,”
-
-> Ezekiel 28:1-10. He is given this title because of the Phoenician     Satan worship.
+2.  “The prince of Tyre,” **Ezekiel 28:1-10**. He is given this title because of the Phoenician     Satan worship.
 
 2.  “The feet of the image,”
 
