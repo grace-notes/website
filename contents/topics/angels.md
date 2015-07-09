@@ -6,254 +6,88 @@ template: topic.jade
 tableOfContents: true
 ---
 
-## Introduction
+# Introduction
 
-Theologians have often viewed angels as a very difficult subject.[^1]
-Why? Because, while there is abundant mention of angels in the Bible,
-the nature of this revelation is without the same kind of explicit
-description we often find with other subjects developed in Scripture:
+Theologians have often viewed angels as a very difficult subject.[^1] Why? Because, while there is abundant mention of angels in the Bible, the nature of this revelation is without the same kind of explicit description we often find with other subjects developed in Scripture:
 
-Every reference to angels is incidental to some other topic. They are
-not treated in themselves. God’s revelation never aims at informing us
-regarding the nature of angels. When they are mentioned, it is always in
-order to inform us further about God, what he does, and how he does it.
-Since details about angels are not significant for that purpose, they
-tend to be omitted.[^2]
+Every reference to angels is incidental to some other topic. They are not treated in themselves. God’s revelation never aims at informing us regarding the nature of angels. When they are mentioned, it is always in order to inform us further about God, what he does, and how he does it. Since details about angels are not significant for that purpose, they tend to be omitted.[^2]
 
-Though theologians have been cautious in their study of angels we have
-been bombarded in recent years by what could easily be called
-*Angelmania*. In fact, this is the title of an article by Dr. Kenneth
-Gangel in “Kindred Spirit” on the widespread discussion and fascination
-with angels in our time by the secular
-world.[^3] Gangel writes,
+Though theologians have been cautious in their study of angels we have been bombarded in recent years by what could easily be called *Angelmania*. In fact, this is the title of an article by Dr. Kenneth Gangel in “Kindred Spirit” on the widespread discussion and fascination with angels in our time by the secular world.[^3] Gangel writes,
 
-> In his 1990 book, *Angels: An Endangered Species*, Malcolm Godwin
-> estimates that over the last 30 years one in every ten pop songs
-> mentions an angel. But that was just romantic fun.
-> 
-> Now our culture takes angels seriously, if not accurately. In the last
-> few years *Time, Newsweek, Ladies’ Home Journal, Redbook,* and a host
-> of other popular magazines have carried articles about angels. In
-> mid-1994, ABC aired a two-hour, prime time special titled “Angels: the
-> Mysterious Messengers.” In *Newsweek’s*November 28, 1994 issue an
-> article titled “In Search of the Sacred” observed that “20% of
-> Americans have had a revelation from God in the last year, and 13%
-> have seen or sensed the presence of an angel” (p. 54).
-> 
-> *Newsweek* is right; modern society, so seemingly secular and
-> hopelessly materialistic, desperately searches for some spiritual and
-> supernatural meaning. If angels can provide it, then angels it will
-> be.[^4]
+> In his 1990 book, *Angels: An Endangered Species*, Malcolm Godwin estimates that over the last 30 years one in every ten pop songs mentions an angel. But that was just romantic fun.
 
-The bookstores abound with books on this subject. These books not only
-claim encounters with angels, but instruct people on how to contact
-them. We now have a weekly program on one of the major networks entitled
-“Touched By An Angel.” Certainly, one might argue, this is just a story
-for entertainment. However, this show not only demonstrates our
-fascination with this topic, but a illustrates a very poor grasp of what
-the Bible really teaches about angels and about God along with some very
-definite distortions of Scripture. By these comments I do not mean to
-discount all the so-called encounters with angels that we occasionally
-read or hear about. Why? Because, as will be discussed in more detail
-later, angels are servants of God and described by the author of Hebrews
-as, “ministering spirits, sent out to render service for the sake of
-those who will inherit salvation?” See also Psalm 91:11 and Matthew
-4:11. So certainly, for those who believe the record of Scripture, we
-can trust completely in the Bible’s teaching on angels and, “with a
-perhaps lesser degree of certainty, consider the personal accounts of
-reputable Christians.” [^5]
+> Now our culture takes angels seriously, if not accurately. In the last few years *Time, Newsweek, Ladies’ Home Journal, Redbook,* and a host of other popular magazines have carried articles about angels. In mid-1994, ABC aired a two-hour, prime time special titled “Angels: the Mysterious Messengers.” In *Newsweek’s*November 28, 1994 issue an article titled “In Search of the Sacred” observed that “20% of Americans have had a revelation from God in the last year, and 13% have seen or sensed the presence of an angel” (p. 54).
 
-A good illustration of the latter can be found in an article by Sue
-Bohlin entitled, “The Good, The Bad, and The Ugly.” She writes:
+> *Newsweek* is right; modern society, so seemingly secular and hopelessly materialistic, desperately searches for some spiritual and supernatural meaning. If angels can provide it, then angels it will be.[^4]
 
-> I was about thirteen years old when I had my first encounter with an
-> angel. I was going upstairs to my room, pulling my entire weight on
-> the handrail, when it suddenly came off in my hand. I fell backwards,
-> head first. Halfway into a terrible fall, I felt a strong hand on my
-> back push me upright. There was nobody there—well, nobody *visible*!
+The bookstores abound with books on this subject. These books not only claim encounters with angels, but instruct people on how to contact them. We now have a weekly program on one of the major networks entitled “Touched By An Angel.” Certainly, one might argue, this is just a story for entertainment. However, this show not only demonstrates our fascination with this topic, but a illustrates a very poor grasp of what the Bible really teaches about angels and about God along with some very
+definite distortions of Scripture. By these comments I do not mean to discount all the so-called encounters with angels that we occasionally read or hear about. Why? Because, as will be discussed in more detail later, angels are servants of God and described by the author of Hebrews as, “ministering spirits, sent out to render service for the sake of those who will inherit salvation?” See also Psalm 91:11 and Matthew 4:11. So certainly, for those who believe the record of Scripture, we
+can trust completely in the Bible’s teaching on angels and, “with a perhaps lesser degree of certainty, consider the personal accounts of reputable Christians.” [^5]
 
-Angel stories are always fascinating, and in this essay I address
-angels: the good, the bad, and the ugly. The good angels are the holy
-ones, the bad angels are the evil ones, which the Bible calls demons,
-and the ugly angels are demons disguising themselves as good angels.
-These ugly angels have deceived many people in a culture that has
-embraced “angel mania.” [^6]
+A good illustration of the latter can be found in an article by Sue Bohlin entitled, “The Good, The Bad, and The Ugly.” She writes:
 
-While many details about angels are omitted in the Bible, it is
-important to keep in mind three important elements about the biblical
-revelation God has given us.
+> I was about thirteen years old when I had my first encounter with an angel. I was going upstairs to my room, pulling my entire weight on the handrail, when it suddenly came off in my hand. I fell backwards, head first. Halfway into a terrible fall, I felt a strong hand on my back push me upright. There was nobody there—well, nobody *visible*!
 
-(1) The mention of angels is inclusive in Scripture. Depending on the
-Bible translation searched, these celestial beings are referred to from
-294 to 305 times in the Bible. References to angels occur at least 116
-times in the Old Testament and 175 times in the New Testament.
+Angel stories are always fascinating, and in this essay I address angels: the good, the bad, and the ugly. The good angels are the holy ones, the bad angels are the evil ones, which the Bible calls demons, and the ugly angels are demons disguising themselves as good angels. These ugly angels have deceived many people in a culture that has embraced “angel mania.” [^6]
 
-(2) These many references are found in at least 34 books from the very
-earliest books (whether Job or Genesis) to the last book of the Bible
-(Revelation).
+While many details about angels are omitted in the Bible, it is important to keep in mind three important elements about the biblical revelation God has given us.
 
-(3) Finally, there are numerous references to angels by the Lord Jesus,
-whom Scripture declares to be the creator of all things, which includes
-angelic beings. Paul wrote, “For by Him all things were created, *both*
-in the heavens and on earth, visible and invisible, whether thrones or
-dominions or rulers or authorities (a reference to angels)—all things
-have been created by Him and for Him” (Col. 1:16).
+1. The mention of angels is inclusive in Scripture. Depending on the Bible translation searched, these celestial beings are referred to from 294 to 305 times in the Bible. References to angels occur at least 116 times in the Old Testament and 175 times in the New Testament.
 
-It is out of the this extended body of Scripture that the study
-presented here will be developed. The Bible will be the authority for
-this study and not the speculations of men nor their experiences nor
-what people think sounds logical.
+2. These many references are found in at least 34 books from the very earliest books (whether Job or Genesis) to the last book of the Bible (Revelation).
 
-#### A Simple Definition
+2. Finally, there are numerous references to angels by the Lord Jesus, whom Scripture declares to be the creator of all things, which includes angelic beings. Paul wrote, “For by Him all things were created, *both* in the heavens and on earth, visible and invisible, whether thrones or dominions or rulers or authorities (a reference to angels)—all things have been created by Him and for Him” (Col. 1:16).
 
-Angels are spiritual beings created by God to serve Him, though created
-higher than man. Some, the good angels, have remained obedient to Him
-and carry out His will, while others, fallen angels, disobeyed, fell
-from their holy position, and now stand in active opposition to the work
-and plan of God.
+It is out of the this extended body of Scripture that the study presented here will be developed. The Bible will be the authority for this study and not the speculations of men nor their experiences nor what people think sounds logical.
 
-## The Nature of Angels
+## Simple Definition
 
-### Angels are created beings
+Angels are spiritual beings created by God to serve Him, though created higher than man. Some, the good angels, have remained obedient to Him and carry out His will, while others, fallen angels, disobeyed, fell from their holy position, and now stand in active opposition to the work and plan of God.
 
-**The fact of their creation** is brought out in Psalm 148. There the
-psalmist calls upon all in the celestial heavens, including the angels,
-to praise God. The reason given is, “For He commanded and they were
-created” (Ps. 148:1-5).
+# The Nature of Angels
 
-**The time of their creation** is never stated, however, we know they
-were created before the creation of the world. From the book of Job we
-are told that they were present when the earth was created (Job 38:4-7)
-so their creation was prior to the creation of the earth as described in
-Genesis one.
+## Angels are created beings
 
-**The agent of their creation** is specifically stated to be Christ as
-the One who created all things (cf. John 1:1-3 with Col.
-1:16).[^7]
+**The fact of their creation** is brought out in Psalm 148. There the psalmist calls upon all in the celestial heavens, including the angels, to praise God. The reason given is, “For He commanded and they were created” (Ps. 148:1-5).
 
-**The nature of their creation** is as a host or a company,
-simultaneously. Unlike human beings and the animal kingdom created in
-pairs and who procreate, angels were created simultaneously as a
-company, a countless host of myriads (Col. 1:16; Neh 9:6). This is
-suggested by the fact they are not subject to death and they do not or
-were not to propagate. They are nevertheless an innumerable host created
-before the creation of the earth (cf. Job. 38:7; Neh. 9:6; Ps 148:2, 5;
-Heb 12:22; Dan 7:10; Matt 26:53; Rev. 5:11; with Matt. 22:28-30; Luke
-20:20-36).
+**The time of their creation** is never stated, however, we know they were created before the creation of the world. From the book of Job we are told that they were present when the earth was created (Job 38:4-7) so their creation was prior to the creation of the earth as described in Genesis one.
 
-### Angels are spirit creatures
+**The agent of their creation** is specifically stated to be Christ as the One who created all things (cf. John 1:1-3 with Col. 1:16).[^7]
 
-(1) Angels are ***spirit beings***. Though at times they have been given
-    the ability to reveal themselves in the form of human bodies as in
-    Genesis 18:3, they are described as “spirits” in Hebrews 1:14. This
-    suggests they do not have material bodies as we do. Hence, they do
-    not function as human beings in terms of marriage and procreation
-    (Mark 12:25) nor are they subject to death (Luke 20:36).
+**The nature of their creation** is as a host or a company, simultaneously. Unlike human beings and the animal kingdom created in pairs and who procreate, angels were created simultaneously as a company, a countless host of myriads (Col. 1:16; Neh 9:6). This is suggested by the fact they are not subject to death and they do not or were not to propagate. They are nevertheless an innumerable host created before the creation of the earth (cf. Job. 38:7; Neh. 9:6; Ps 148:2, 5; Heb 12:22; Dan 7:10; Matt 26:53; Rev. 5:11; with Matt. 22:28-30; Luke 20:20-36).
 
-    Mankind, including our incarnate Lord, is “lower than the angels”
-    (Heb.  2:7). Angels are not subject to the limitations of man,
-    especially since they are incapable of death (Luke 20:36). Angels
-    have greater wisdom than man (2 Sam. 14:20), yet it is limited
-    (Matt. 24:36). Angels have greater power than man (Matt. 28:2; Acts
-    5:19; 2 Pet. 2:11), yet they are limited in power (Dan. 10:13).
+## Angels are spirit creatures
 
-    Angels, however, have limitations compared to man, particularly in
-    future relationships. Angels are not created in the image of God,
-    therefore, they do not share man’s glorious destiny of redemption in
-    Christ. At the consummation of the age, redeemed man will be exalted
-    above angels (1 Cor. 6:3).[^8]
+1. Angels are ***spirit beings***. Though at times they have been given the ability to reveal themselves in the form of human bodies as in Genesis 18:3, they are described as “spirits” in Hebrews 1:14. This suggests they do not have material bodies as we do. Hence, they do not function as human beings in terms of marriage and procreation (Mark 12:25) nor are they subject to death (Luke 20:36).
 
-    This also means they are not omnipresent. They cannot be everywhere
-    at once.
+    Mankind, including our incarnate Lord, is “lower than the angels” (Heb.  2:7). Angels are not subject to the limitations of man, especially since they are incapable of death (Luke 20:36). Angels have greater wisdom than man (2 Sam. 14:20), yet it is limited (Matt. 24:36). Angels have greater power than man (Matt. 28:2; Acts 5:19; 2 Pet. 2:11), yet they are limited in power (Dan. 10:13).
 
-(2) All angels were created ***holy***, without sin, and in a state of
-    perfect holiness.
+    Angels, however, have limitations compared to man, particularly in future relationships. Angels are not created in the image of God, therefore, they do not share man’s glorious destiny of redemption in Christ. At the consummation of the age, redeemed man will be exalted above angels (1 Cor. 6:3).[^8]
 
-    Originally all angelic creatures were created holy. God pronounced
-    His creation good (Gen. 1:31), and, of course, He could not create
-    sin. Even after sin entered the world, God’s good angels, who did
-    not rebel against Him, are called holy (Mark 8:38). These are the
-    elect angels (1 Tim. 5:21) in contrast to the evil angels who
-    followed Satan in his rebellion against God (Matt.  25:41).[^9]
+    This also means they are not omnipresent. They cannot be everywhere at once.
 
-(3) As created beings, they are ***mere*** ***creatures***. They are not
-    divine and are not to be worshipped (see Rev. 19:10; 22:9). As a
-    separate order of creatures, they are both distinct from human
-    beings and higher than humans with powers far beyond our abilities
-    in this present age (1 Cor. 6:3; Heb. 1:14; 2:7). But as creatures
-    they are limited in their powers, knowledge, and activities (1 Peter
-    1:11-12; Rev. 7:1). Like all of creation, angels are under God’s
-    authority and subject to His judgment (1 Cor. 6:3; Matt. 25:41).
+2. All angels were created ***holy***, without sin, and in a state of perfect holiness.
 
-## The Types of Angels (Good and Evil)
+    Originally all angelic creatures were created holy. God pronounced His creation good (Gen. 1:31), and, of course, He could not create sin. Even after sin entered the world, God’s good angels, who did not rebel against Him, are called holy (Mark 8:38). These are the elect angels (1 Tim. 5:21) in contrast to the evil angels who followed Satan in his rebellion against God (Matt.  25:41).[^9]
 
-While all the angels were originally created holy and without sin, there
-was a rebellion by Satan, who, being lifted up by his own beauty, sought
-to exalt himself above God and rebelled. In his rebellion, he took with
-him one-third of the angels (Rev. 12:4). This rebellion and fall is
-probably described for us in Isaiah 14:12-14 and Ezekiel 28:15 embodied
-in the kings of Babylon and Tyre.[^10] Prophesying of a future angelic
-conflict that will occur in the middle of the Tribulation, John wrote,
-“And there was war in heaven, Michael and his angels waging war with the
-dragon. And the dragon and his angels waged war” (Rev. 12:7). In other
-words, there are good angels and there are evil angels.
+2. As created beings, they are ***mere*** ***creatures***. They are not divine and are not to be worshipped (see Rev. 19:10; 22:9). As a separate order of creatures, they are both distinct from human beings and higher than humans with powers far beyond our abilities in this present age (1 Cor. 6:3; Heb. 1:14; 2:7). But as creatures they are limited in their powers, knowledge, and activities (1 Peter 1:11-12; Rev. 7:1). Like all of creation, angels are under God’s authority and subject to His judgment (1 Cor. 6:3; Matt. 25:41).
 
-As is clear from Revelation 12:7 and many other passages, the leader of
-these fallen angels (or demons as they are also called) is Satan (cf.
-Matt. 12:25-27). Satan, the leader of unholy angels, is a liar, a
-murderer, and a thief (John 10:10). As God’s great antagonist, He hates
-God and God’s people. Scripture teaches us that he prowls about like a
-roaring lion in search of those whom he may devour by his nefarious
-schemes (1 Peter 5:8). As an angelic being, Satan, along with his
-demon-like angels who operate under his authority, is supernaturally
-powerful and brilliant, and he uses all his powers against humanity. Not
-only is he a liar, a thief, and a distorer, but that which characterizes
-him above all else is deception. John describes him as the one “who
-deceives the whole world” (John 12:9). In his cunning, he disguises
-himself as an angel of light (2 Cor. 11:14). So, in view of this, the
-Apostle Paul wrote, “Therefore it is not surprising if his servants also
-disguise themselves as servants of righteousness . . .” (2 Cor. 11:15).
-More will be said on this below.
+# The Types of Angels (Good and Evil)
 
-### The Ministry of Good Angels
+While all the angels were originally created holy and without sin, there was a rebellion by Satan, who, being lifted up by his own beauty, sought to exalt himself above God and rebelled. In his rebellion, he took with him one-third of the angels (Rev. 12:4). This rebellion and fall is probably described for us in Isaiah 14:12-14 and Ezekiel 28:15 embodied in the kings of Babylon and Tyre.[^10] Prophesying of a future angelic conflict that will occur in the middle of the Tribulation, John wrote, “And there was war in heaven, Michael and his angels waging war with the dragon. And the dragon and his angels waged war” (Rev. 12:7). In other words, there are good angels and there are evil angels.
 
-The good and loyal angels are the mighty servants of God who constantly
-serve him always doing His will. The Psalmist described them as, “Bless
-the LORD, you His angels, Mighty in strength, who perform His word,
-Obeying the voice of His word! Bless the LORD, all you His hosts, You
-who serve Him, doing His will” (Ps. 103:20-21). It is no wonder, then,
-that the author of Hebrews, in showing the superiority of Christ to even
-the mighty angels, asked (the question here demands a positive answer
-both in the Greek text and contextually), “Are they not all ministering
-spirits, sent out to render service for the sake of those who will
-inherit salvation?” (Heb. 1:14). The answer is “Yes!” Though God can
-always act independently without the use of agents, He has chosen to use
-both angelic and human instruments to accomplish His will. In keeping
-with this, over and over again in the Bible, we find angels acting as
-God’s servants involved in variegated ministry to people.
+As is clear from Revelation 12:7 and many other passages, the leader of these fallen angels (or demons as they are also called) is Satan (cf. Matt. 12:25-27). Satan, the leader of unholy angels, is a liar, a murderer, and a thief (John 10:10). As God’s great antagonist, He hates God and God’s people. Scripture teaches us that he prowls about like a roaring lion in search of those whom he may devour by his nefarious schemes (1 Peter 5:8). As an angelic being, Satan, along with his
+demon-like angels who operate under his authority, is supernaturally powerful and brilliant, and he uses all his powers against humanity. Not only is he a liar, a thief, and a distorer, but that which characterizes him above all else is deception. John describes him as the one “who deceives the whole world” (John 12:9). In his cunning, he disguises himself as an angel of light (2 Cor. 11:14). So, in view of this, the Apostle Paul wrote, “_Therefore it is not surprising if his servants also disguise themselves as servants of righteousness . . ._” (2 Cor. 11:15). More will be said on this below.
 
-#### Angels Protect
+## The Ministry of Good Angels
 
-Perhaps no aspect of their ministry to man is more talked about than the
-idea of a “guardian angel.” Over the years, I have often been asked,
-“Does everyone have a guardian angel?” While no passage specifically
-states that every person has a guardian angel, the Bible does teach that
-angels do guard or protect as Psalm 91:11 declares. In addition, Matthew
-18:10 may suggest a guardian angel because of the statement Christ made
-regarding little children when He said, “See that you do not despise one
-of these little ones, for I say to you, that their angels in heaven
-continually behold the face of My Father who is in heaven.” But it
-should also be pointed out that Psalm 91:11 is directed to those who
-make the Lord their refuge.
+The good and loyal angels are the mighty servants of God who constantly serve him always doing His will. The Psalmist described them as, “Bless the LORD, you His angels, Mighty in strength, who perform His word, Obeying the voice of His word! Bless the LORD, all you His hosts, You who serve Him, doing His will” (Ps. 103:20-21). It is no wonder, then, that the author of Hebrews, in showing the superiority of Christ to even the mighty angels, asked (the question here demands a positive answer both in the Greek text and contextually), “_Are they not all ministering spirits, sent out to render service for the sake of those who will inherit salvation?_” (Heb. 1:14). The answer is “Yes!” Though God can always act independently without the use of agents, He has chosen to use both angelic and human instruments to accomplish His will. In keeping with this, over and over again in the Bible, we find angels acting as God’s servants involved in variegated ministry to people.
 
-The psalmist explained that **no harm** or **disaster** can **befall**
-those who have made **theLord** their **refuge** (mah£seh, “shelter from
-danger”; . . . ) because He has commissioned **angels** to care for
-them. angels protect from physical harm and give believers strength to
-overcome difficulties, pictured here as wild lions and dangerous snakes.
-Satan, in tempting Christ, quoted 91:11-12 (Matt. 4:6), which shows that
-even God’s most marvelous promises can be foolishly
-applied.[^11]
+### Angels Protect
+
+Perhaps no aspect of their ministry to man is more talked about than the idea of a “guardian angel.” Over the years, I have often been asked, “Does everyone have a guardian angel?” While no passage specifically states that every person has a guardian angel, the Bible does teach that angels do guard or protect as Psalm 91:11 declares. In addition, Matthew 18:10 may suggest a guardian angel because of the statement Christ made regarding little children when He said, “See that you do not despise one of these little ones, for I say to you, that their angels in heaven continually behold the face of My Father who is in heaven.” But it should also be pointed out that Psalm 91:11 is directed to those who make the Lord their refuge.
+
+The psalmist explained that **no harm** or **disaster** can **befall** those who have made **theLord** their **refuge** (mah£seh, “shelter from danger”; . . . ) because He has commissioned **angels** to care for them. angels protect from physical harm and give believers strength to overcome difficulties, pictured here as wild lions and dangerous snakes. Satan, in tempting Christ, quoted 91:11-12 (Matt. 4:6), which shows that even God’s most marvelous promises can be foolishly applied.[^11]
 
 Some would claim that this Old Testament passage should not be applied
 in modern times, but the author of Hebrews does not seem to draw that
