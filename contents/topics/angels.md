@@ -81,7 +81,7 @@ demon-like angels who operate under his authority, is supernaturally powerful an
 
 ## The Ministry of Good Angels
 
-The good and loyal angels are the mighty servants of God who constantly serve him always doing His will. The Psalmist described them as, “Bless the LORD, you His angels, Mighty in strength, who perform His word, Obeying the voice of His word! Bless the LORD, all you His hosts, You who serve Him, doing His will” (Ps. 103:20-21). It is no wonder, then, that the author of Hebrews, in showing the superiority of Christ to even the mighty angels, asked (the question here demands a positive answer both in the Greek text and contextually), “_Are they not all ministering spirits, sent out to render service for the sake of those who will inherit salvation?_” (Heb. 1:14). The answer is “Yes!” Though God can always act independently without the use of agents, He has chosen to use both angelic and human instruments to accomplish His will. In keeping with this, over and over again in the Bible, we find angels acting as God’s servants involved in variegated ministry to people.
+The good and loyal angels are the mighty servants of God who constantly serve him always doing His will. The Psalmist described them as, “_Bless the LORD, you His angels, Mighty in strength, who perform His word, Obeying the voice of His word! Bless the LORD, all you His hosts, You who serve Him, doing His will_” (Ps. 103:20-21). It is no wonder, then, that the author of Hebrews, in showing the superiority of Christ to even the mighty angels, asked (the question here demands a positive answer both in the Greek text and contextually), “_Are they not all ministering spirits, sent out to render service for the sake of those who will inherit salvation?_” (Heb. 1:14). The answer is “Yes!” Though God can always act independently without the use of agents, He has chosen to use both angelic and human instruments to accomplish His will. In keeping with this, over and over again in the Bible, we find angels acting as God’s servants involved in variegated ministry to people.
 
 ### Angels Protect
 
@@ -89,494 +89,175 @@ Perhaps no aspect of their ministry to man is more talked about than the idea of
 
 The psalmist explained that **no harm** or **disaster** can **befall** those who have made **theLord** their **refuge** (mah£seh, “shelter from danger”; . . . ) because He has commissioned **angels** to care for them. angels protect from physical harm and give believers strength to overcome difficulties, pictured here as wild lions and dangerous snakes. Satan, in tempting Christ, quoted 91:11-12 (Matt. 4:6), which shows that even God’s most marvelous promises can be foolishly applied.[^11]
 
-Some would claim that this Old Testament passage should not be applied
-in modern times, but the author of Hebrews does not seem to draw that
-distinction. That they are ministering spirits who minister to the
-saints is presented as a general truth of the Bible and should not be
-restricted to Bible times. Also, Scripture suggests that Michael, the
-archangel, is particularly involved in ministry to Israel. Concerning
-the reference to Michael in Daniel 10:13, Ryrie writes:
+Some would claim that this Old Testament passage should not be applied in modern times, but the author of Hebrews does not seem to draw that distinction. That they are ministering spirits who minister to the saints is presented as a general truth of the Bible and should not be restricted to Bible times. Also, Scripture suggests that Michael, the archangel, is particularly involved in ministry to Israel. Concerning the reference to Michael in Daniel 10:13, Ryrie writes:
 
-> Michael, which means “who is like God?” (v. 21; 12:1; Jude 9; Rev.
-> 12:7), is the special guardian of the affairs of Israel (12:1) and is
-> designated the archangel (Jude 9). One of the chief princes shows a
-> hierarchy among the angels (cf. Eph. 1:21). *I had been left there
-> with the kings of Persia*. The good angel (cf. vv. 5-6), with
-> Michael’s help, was left in a place of preeminence in influencing
-> Persia. But the battle between good and evil angels over the control
-> of nations continues (see v. 20 and Rev. 20:3).
+> Michael, which means “who is like God?” (v. 21; 12:1; Jude 9; Rev. 12:7), is the special guardian of the affairs of Israel (12:1) and is designated the archangel (Jude 9). One of the chief princes shows a hierarchy among the angels (cf. Eph. 1:21). *I had been left there with the kings of Persia*. The good angel (cf. vv. 5-6), with Michael’s help, was left in a place of preeminence in influencing Persia. But the battle between good and evil angels over the control of nations continues (see v. 20 and Rev. 20:3).
 
-Regarding accounts of angelic protection, Dr. Kenneth Gangel gives the
-following account which is similar to others I have heard about,
-especially with missionaries:
+Regarding accounts of angelic protection, Dr. Kenneth Gangel gives the following account which is similar to others I have heard about, especially with missionaries:
 
-> A veteran missionary friend of mine (now retired) tells the story
-> about a woman missionary alone on a compound in northern Africa during
-> a riot by one of the local tribes. She hid in a closet and prayed as
-> warriors advanced along the dusty road toward the houses where the
-> white intruders lived. Amazingly, she never heard them. No one ever
-> entered her building, and there was no evidence of any turmoil. My
-> friend learned later that the warriors, who intended to kill everyone
-> at the missionary compound and burn it to the ground, instead
-> retreated when they found the compound guarded by tall warriors
-> dressed in white and carrying large swords. Angels?
+> A veteran missionary friend of mine (now retired) tells the story about a woman missionary alone on a compound in northern Africa during a riot by one of the local tribes. She hid in a closet and prayed as warriors advanced along the dusty road toward the houses where the white intruders lived. Amazingly, she never heard them. No one ever entered her building, and there was no evidence of any turmoil. My friend learned later that the warriors, who intended to kill everyone at the missionary compound and burn it to the ground, instead retreated when they found the compound guarded by tall warriors dressed in white and carrying large swords. Angels?
 
-Another and similar account was also reported by a medical missionary at
-his home church in Michigan:
+Another and similar account was also reported by a medical missionary at his home church in Michigan:
 
-> While serving at a small field hospital in Africa, I traveled every
-> two weeks by bicycle through the jungle to a nearby city for supplies.
-> This required camping overnight half way. On one of these trips, I saw
-> two men fighting in the city. One was seriously injured, so I treated
-> him and witnessed to him of the Lord Jesus Christ. I then returned
-> home without incident.
-> 
-> Upon arriving in the city several weeks later, I was approached by the
-> man I had treated earlier. He told me he had known that I carried
-> money and medicine. He said, “some friends and I followed you into the
-> jungle knowing you would camp overnight. We waited for you to go to
-> sleep and planned to kill you and take your money and drugs. Just as
-> we were about to move into your campsite, we saw that you were
-> surrounded by 26 armed guards.”
-> 
-> I laughed at this and said I was certainly all alone out in that
-> jungle campsite. The young man pressed the point, “No, sir, I was not
-> the only one to see the guards. My Jave friends also saw them and we
-> all counted them. It was because of those guards that we were afraid
-> and left you alone.”
-> 
-> At this point in the church presentation in Michigan, one of the men
-> in the church jumped up and interrupted the missionary, and asked,
-> “Can you tell me the exact date when this happened?” The missionary
-> thought for a while and recalled the date.
-> 
-> The man in the congregation told this side of the story: “On that
-> night in Africa it was morning here. I was preparing to play golf. As
-> I put my bag in the car, I felt the Lord leading me to pray for you.
-> In fact, the urging was so strong that I called the men of this church
-> together to pray for you. Will all of those men who met with me that
-> day please stand?”
-> 
-> The men who had met that day to pray together stood—there were 26 of
-> them!
+> While serving at a small field hospital in Africa, I traveled every two weeks by bicycle through the jungle to a nearby city for supplies. This required camping overnight half way. On one of these trips, I saw two men fighting in the city. One was seriously injured, so I treated him and witnessed to him of the Lord Jesus Christ. I then returned home without incident.
 
-Again we ask, were these angels? While I cannot verify this story, I
-have no doubt whatsoever that it could be true.
+> Upon arriving in the city several weeks later, I was approached by the man I had treated earlier. He told me he had known that I carried money and medicine. He said, “some friends and I followed you into the jungle knowing you would camp overnight. We waited for you to go to sleep and planned to kill you and take your money and drugs. Just as we were about to move into your campsite, we saw that you were surrounded by 26 armed guards.”
 
-#### Angels Provide
+> I laughed at this and said I was certainly all alone out in that jungle campsite. The young man pressed the point, “No, sir, I was not the only one to see the guards. My Jave friends also saw them and we all counted them. It was because of those guards that we were afraid and left you alone.”
 
-As angels were sent by God to provide sustenance for the Lord at the end
-of his forty days in the wilderness (Matt. 4:1-11), so he has
-undoubtedly on occasion done so for believers in our day. Some would
-include the provision of bread and water for Elijah (1 Kings 19:5-6),
-but this was a ministry of “the Angel of the Lord” which could simply
-mean, angel sent from the Lord, but it’s probably best to understand
-this as a reference a theophany, a manifestation of God to
-Elijah.[^12]
+> At this point in the church presentation in Michigan, one of the men in the church jumped up and interrupted the missionary, and asked, “Can you tell me the exact date when this happened?” The missionary thought for a while and recalled the date.
+ 
+> The man in the congregation told this side of the story: “On that night in Africa it was morning here. I was preparing to play golf. As I put my bag in the car, I felt the Lord leading me to pray for you. In fact, the urging was so strong that I called the men of this church together to pray for you. Will all of those men who met with me that day please stand?”
 
-As an illustration of possible angelic provision, Sue Bohlin gives the
-following account:
+> The men who had met that day to pray together stood—there were 26 of them!
 
-In 1944, the penniless wife of a pastor and evangelist in Switzerland,
-Susie Ware prayed, “God, I need five pounds of potatoes, two pounds of
-pastry flour, apples, pears, a cauliflower, carrots, veal cutlets for
-Saturday, and beef for Sunday.” A few hours later, someone knocked on
-the door, and there was a young man carrying a basket, who said, “Mrs.
-Ware, I am bringing what you asked for.” It was precisely what she’d
-prayed for—down to the exact brand of pastry flour she wanted. The young
-man slipped away, and even though Rev. and Mrs. Ware watched at the
-window to their building, the man never exited. He just disappeared
-(Anderson, Joan Wester. *Where Angels Walk*, New York: Ballantine Books,
+Again we ask, were these angels? While I cannot verify this story, I have no doubt whatsoever that it could be true.
+
+### Angels Provide
+
+As angels were sent by God to provide sustenance for the Lord at the end of his forty days in the wilderness (Matt. 4:1-11), so he has undoubtedly on occasion done so for believers in our day. Some would include the provision of bread and water for Elijah (1 Kings 19:5-6), but this was a ministry of “the Angel of the Lord” which could simply mean, angel sent from the Lord, but it’s probably best to understand this as a reference a theophany, a manifestation of God to Elijah.[^12]
+
+As an illustration of possible angelic provision, Sue Bohlin gives the following account:
+
+> In 1944, the penniless wife of a pastor and evangelist in Switzerland, Susie Ware prayed, “God, I need five pounds of potatoes, two pounds of pastry flour, apples, pears, a cauliflower, carrots, veal cutlets for Saturday, and beef for Sunday.” A few hours later, someone knocked on the door, and there was a young man carrying a basket, who said, “Mrs. Ware, I am bringing what you asked for.” It was precisely what she’d prayed for—down to the exact brand of pastry flour she wanted. The young man slipped away, and even though Rev. and Mrs. Ware watched at the window to their building, the man never exited. He just disappeared (Anderson, Joan Wester. *Where Angels Walk*, New York: Ballantine Books,
 1992, pp. 60-62).[^13]
 
-My wife’s sister, Connie Griffith, had an experience about 15 years ago
-which is recorded in Jodie Berndt’s book*, Celebration of
-Miracles*.[^14] Connie, and her husband Geoff, were missionaries in
-Africa working with Hindu people and had an opportunity to visit
-missionaries in India. The trip involved a 38-hour train ride from New
-Delhi to an orphanage in the south. They had been warned not to eat the
-food on the train, but they had taken very little food with them and
-Connie was so famished she decided to take her chances. She ate some
-curried mutton, and was soon extremely ill.
+My wife’s sister, Connie Griffith, had an experience about 15 years ago which is recorded in Jodie Berndt’s book*, Celebration of Miracles*.[^14] Connie, and her husband Geoff, were missionaries in Africa working with Hindu people and had an opportunity to visit missionaries in India. The trip involved a 38-hour train ride from New Delhi to an orphanage in the south. They had been warned not to eat the food on the train, but they had taken very little food with them and Connie was so famished she decided to take her chances. She ate some curried mutton, and was soon extremely ill.
 
-After arriving at the orphanage, Connie went to bed where she remained
-for three days. Geoff was traveling during that time and the
-missionaries thinking she was reacting to the miserable poverty of their
-surroundings thought she didn’t want to be bothered and left her alone.
-It was not until it was time to move on to the next orphanage that they
-realized she was desperately ill. They realized she needed to get to a
-hospital fast so they set out for the nearest one which was three hours
-away. About fifteen minutes into the ride Connie’s muscles began to
-cramp. First her fingers then her knees and toes curled inward and her
-facial muscles contracted so she was unable to speak. Finally she found
-herself paralyzed as the jeep bounced along the primitive road.
+After arriving at the orphanage, Connie went to bed where she remained for three days. Geoff was traveling during that time and the missionaries thinking she was reacting to the miserable poverty of their surroundings thought she didn’t want to be bothered and left her alone. It was not until it was time to move on to the next orphanage that they realized she was desperately ill. They realized she needed to get to a hospital fast so they set out for the nearest one which was three hours away. About fifteen minutes into the ride Connie’s muscles began to cramp. First her fingers then her knees and toes curled inward and her facial muscles contracted so she was unable to speak. Finally she found herself paralyzed as the jeep bounced along the primitive road.
 
-They were concerned, thinking she might not make it because she was so
-dehydrated. Geoff cried out to God, “please do a miracle! Do
-*something*!” Suddenly the missionary who was driving spotted a small
-Red Cross building just off the trail. As the jeep pulled to a stop,
-Connie tried to protest. She was concerned about the rampant AIDS
-epidemic in these remote areas and the practice of reusing needles. As
-the group made their way into the building which was well lit and very
-clean, an Indian man, dressed in white shirt and baggy pants, greeted
-them in perfect English. He said, “I know what’s wrong with her. She’s
-dehydrated. I have some electrolytes here in this packet. This water has
-already been boiled.” He mixed the electrolytes with the water and
-handed Geoff an eye dropper encased in a plastic bag. “It’s sterile,” he
-said, looking right at Connie.
+They were concerned, thinking she might not make it because she was so dehydrated. Geoff cried out to God, “please do a miracle! Do *something*!” Suddenly the missionary who was driving spotted a small Red Cross building just off the trail. As the jeep pulled to a stop, Connie tried to protest. She was concerned about the rampant AIDS epidemic in these remote areas and the practice of reusing needles. As the group made their way into the building which was well lit and very clean, an Indian man, dressed in white shirt and baggy pants, greeted them in perfect English. He said, “I know what’s wrong with her. She’s dehydrated. I have some electrolytes here in this packet. This water has already been boiled.” He mixed the electrolytes with the water and handed Geoff an eye dropper encased in a plastic bag. “It’s sterile,” he said, looking right at Connie.
 
-Geoff was given instructions to put one drop at a time in Connie’s mouth
-(which had locked open) until they reached the hospital. When they
-reached the hospital an hour-and-a-half later, her muscles had relaxed
-and she was able to walk into the hospital. The doctor said it was the
-worst case of dehydration he’d ever seen. Her body had literally sucked
-the water out of the cells and she’d come within hours of dying.
+Geoff was given instructions to put one drop at a time in Connie’s mouth (which had locked open) until they reached the hospital. When they reached the hospital an hour-and-a-half later, her muscles had relaxed and she was able to walk into the hospital. The doctor said it was the worst case of dehydration he’d ever seen. Her body had literally sucked the water out of the cells and she’d come within hours of dying.
 
-A few weeks later, after returning to Africa, they received a letter
-from the missionary couple in India. They said, “You won’t believe this,
-but when we returned to our village via the route we had taken to get
-you to the hospital, that Red Cross building was gone. There was nothing
-there in the place where it was.” Was this the work of one of God’s
-ministering spirits? One day we will know, but in the meantime, we can
-certainly give praise to the Lord.
+A few weeks later, after returning to Africa, they received a letter from the missionary couple in India. They said, “You won’t believe this, but when we returned to our village via the route we had taken to get you to the hospital, that Red Cross building was gone. There was nothing there in the place where it was.” Was this the work of one of God’s ministering spirits? One day we will know, but in the meantime, we can certainly give praise to the Lord.
 
-#### Angels Proclaim God’s Truth
+### Angels Proclaim God’s Truth
 
-Throughout the Bible we find angels involved in communicating God’s
-truth or message as the Spirit of God directed them. This is, of course,
-is very much in keeping with the basic meaning of the word angel. Both
-the Hebrew word for angel (*mal\`ak*,) and the Greek word
-(*aggelos,*pronounced *angelos*) mean “messenger.” In a number of
-passages we are told that angels were instruments God used to reveal His
-Word (cf. Acts 7:38, 53; Gal. 3:19; Heb. 2:2). But that is only half the
-story. Numbers of times they appeared to announce an important message.
-They announced the birth of John the Baptist and Jesus (Luke 1:11f, 26f;
-Matt. 1:20f). In the Tribulation, God will use them to announce key
-events (cf. Rev. 14:6). Today, however, God’s canon of Scripture, the
-Bible, is complete. Beware, therefore, of anyone claiming to have new
-revelation as given by an angel or of anyone claiming to be an angel
-with new revelation. Remember, Satan is a deceiver with his own angels
-of deceit promoting false doctrine (2 Cor. 11:1-4, 12-13; 1 Tim. 4:1).
+Throughout the Bible we find angels involved in communicating God’s truth or message as the Spirit of God directed them. This is, of course, is very much in keeping with the basic meaning of the word angel. Both the Hebrew word for angel (*mal\`ak*,) and the Greek word (*aggelos,*pronounced *angelos*) mean “messenger.” In a number of passages we are told that angels were instruments God used to reveal His Word (cf. Acts 7:38, 53; Gal. 3:19; Heb. 2:2). But that is only half the
+story. Numbers of times they appeared to announce an important message. They announced the birth of John the Baptist and Jesus (Luke 1:11f, 26f; Matt. 1:20f). In the Tribulation, God will use them to announce key events (cf. Rev. 14:6). Today, however, God’s canon of Scripture, the Bible, is complete. Beware, therefore, of anyone claiming to have new revelation as given by an angel or of anyone claiming to be an angel with new revelation. Remember, Satan is a deceiver with his own angels of deceit promoting false doctrine (2 Cor. 11:1-4, 12-13; 1 Tim. 4:1).
 
-#### Angels Punish or Carry Out God’s Judgments
+### Angels Punish or Carry Out God’s Judgments
 
-With their enormous God-given power, they can carry out anything God
-sends them to do. It is no wonder then that we find them as vital agents
-in pouring out the awful judgments of the Tribulation as described in
-Revelation and even in doing battle with Satan and his evil angels to
-restrict them from any access to heaven, confining them to the realm of
-this earth and its immediate atmosphere in the middle of the Tribulation
-(Rev. 12:7f). This will be done in anticipation of Satan’s bondage and
-final defeat as described in Revelation 12 and 20.
+With their enormous God-given power, they can carry out anything God sends them to do. It is no wonder then that we find them as vital agents in pouring out the awful judgments of the Tribulation as described in Revelation and even in doing battle with Satan and his evil angels to restrict them from any access to heaven, confining them to the realm of this earth and its immediate atmosphere in the middle of the Tribulation (Rev. 12:7f). This will be done in anticipation of Satan’s bondage and final defeat as described in Revelation 12 and 20.
 
-But such is not the picture we find in our modern day fascination with
-angels. As Gangel writes, “I doubt that many figurines of punishing
-angels found their way into gift boxes last Christmas, but the Bible
-doesn’t hesitate to describe this part of their activity.”
-[^15]
+But such is not the picture we find in our modern day fascination with angels. As Gangel writes, “I doubt that many figurines of punishing angels found their way into gift boxes last Christmas, but the Bible doesn’t hesitate to describe this part of their activity.” [^15]
 
-#### Final Thoughts on the Ministry of Angels
+### Final Thoughts on the Ministry of Angels
 
-Surely it is comforting to know that God may protect, provide, and
-encourage us is supernatural ways, but this does always guarantee such
-deliverance and certainly and we should never presume on this provision
-of God. So having consider the various ways angels minister, we should
-keep in mind that God does not always deliver us from danger or supply
-our needs in such miraculous ways whether by angels or by His direct
-intervention. For His own sovereign purposes in His plan for using
-suffering (a tool of growth, to manifest the character of Christ, to
-witness to others, etc.), the opposite is sometimes His will, as life
-clearly illustrates and Scripture declares (see Heb. 11:36-40).
+Surely it is comforting to know that God may protect, provide, and encourage us is supernatural ways, but this does always guarantee such deliverance and certainly and we should never presume on this provision of God. So having consider the various ways angels minister, we should keep in mind that God does not always deliver us from danger or supply our needs in such miraculous ways whether by angels or by His direct intervention. For His own sovereign purposes in His plan for using
+suffering (a tool of growth, to manifest the character of Christ, to witness to others, etc.), the opposite is sometimes His will, as life clearly illustrates and Scripture declares (see Heb. 11:36-40).
 
-### The Deception of Evil, Fallen Angels
+## The Deception of Evil, Fallen Angels
 
-Just as people usually do not think of the punitive ministry of angels,
-so here is another area that is completely ignored by the popular ideas
-of angels, but that it is ignored is not without reason. The reason lies
-in Satan’s deception and in the vacuum of man’s heart as he seeks
-answers apart from God and His revelation of Himself and His plan of
-salvation as it is revealed in the Bible. As the arch deceiver and
-antagonist to God, the church, and mankind as whole, Satan is the master
-of disguise. It is clearly his masquerade as an angel of light with his
-servant angels ,who also disguise themselves in one way or another, that
-are behind the current *Angelmania* in our society today. As Bohlin
-points out:
+Just as people usually do not think of the punitive ministry of angels, so here is another area that is completely ignored by the popular ideas of angels, but that it is ignored is not without reason. The reason lies in Satan’s deception and in the vacuum of man’s heart as he seeks answers apart from God and His revelation of Himself and His plan of salvation as it is revealed in the Bible. As the arch deceiver and antagonist to God, the church, and mankind as whole, Satan is the master
+of disguise. It is clearly his masquerade as an angel of light with his servant angels ,who also disguise themselves in one way or another, that are behind the current *Angelmania* in our society today. As Bohlin points out:
 
-> . . . there are many books, publications, and seminars that are filled
-> with demonic deception of the ugliest kind. Because when you start
-> talking to angels, you end up dealing with demons.[^16]
+> . . . there are many books, publications, and seminars that are filled > with demonic deception of the ugliest kind. Because when you start talking to angels, you end up dealing with demons.[^16]
 
-Sue Bohlin has an excellent discussion of what to look for to discern
-the activity of these demonic, evil angels. She writes:
+Sue Bohlin has an excellent discussion of what to look for to discern the activity of these demonic, evil angels. She writes:
 
-> You know you’re around “ugly angels,” or demons masquerading as angels
-> of light and holiness, when you see or hear these terms:
+> You know you’re around “ugly angels,” or demons masquerading as angels of light and holiness, when you see or hear these terms:
 > 
 > 1. Contacting or communing with angels.
 > 
-> There are now books available with titles like *Ask Your Angels*
-> (Daniel, Alma, Timothy Wyllie, and Andrew Ramer, *Ask your Angels*,
-> New York: Ballantine, 1992) and *100 Ways to Attract Angels*(Sharp,
-> Sally, *100 Ways to Attract Angels*, Minnesota: Trust Publications,
-> 1994). But the Bible gives neither permission nor precedent for
-> contacting angels.  When people start calling on angels, it’s not the
-> holy angels who answer. They’re demons, disguising themselves as good
-> angels to people who don’t know how to tell the difference.
+> There are now books available with titles like *Ask Your Angels* (Daniel, Alma, Timothy Wyllie, and Andrew Ramer, *Ask your Angels*, New York: Ballantine, 1992) and *100 Ways to Attract Angels*(Sharp, Sally, *100 Ways to Attract Angels*, Minnesota: Trust Publications, 1994). But the Bible gives neither permission nor precedent for contacting angels.  When people start calling on angels, it’s not the holy angels who answer. They’re demons, disguising themselves as good angels to people who don’t know how to tell the difference.
 > 
 > 2. Loving our angels, praying to our angels.
 > 
-> Some self-styled “angel experts” instruct their followers to love
-> their angels and call upon them for health, healing, prosperity, and
-> guidance.  But angels are God’s servants, and all this attention and
-> emphasis and glory should go to God, not His servants. God says, “I
-> will not share my glory with another” (Isaiah 42:8). Scripture makes
-> no mention of loving angels—only God, His word, and people. And it
-> never tells us to pray to angels, only to the Lord Himself.
+> Some self-styled “angel experts” instruct their followers to love their angels and call upon them for health, healing, prosperity, and guidance.  But angels are God’s servants, and all this attention and emphasis and glory should go to God, not His servants. God says, “_I will not share my glory with another_” (Isaiah 42:8). Scripture makes no mention of loving angels—only God, His word, and people. And it never tells us to pray to angels, only to the Lord Himself.
 > 
-> 3. Instruction, knowledge, or insight from angels, particularly ones
-> with names.
+> 3. Instruction, knowledge, or insight from angels, particularly ones with names.
 > 
-> Some angel teachers are proclaiming that angels are trying very hard
-> to contact us, so they can give us deeper knowledge of the spiritual
-> (Karyn Martin-Kuri, in an interview with *Body, Mind and Spirit*
-> Journal, May/June 1993. Also, Albright, Naomi, *Angel Walk*,
-> Tuscaloosa, Alabama: Portals Press, 1990). Invariably, this “angel
-> knowledge” is a mixture of truth and lies, and never stands up to the
-> absolute truth of Scripture.
+> Some angel teachers are proclaiming that angels are trying very hard to contact us, so they can give us deeper knowledge of the spiritual (Karyn Martin-Kuri, in an interview with *Body, Mind and Spirit* Journal, May/June 1993. Also, Albright, Naomi, *Angel Walk*, Tuscaloosa, Alabama: Portals Press, 1990). Invariably, this “angel knowledge” is a mixture of truth and lies, and never stands up to the absolute truth of Scripture.
 > 
-> There are four angel names that keep popping up in the angel
-> literature: Michael, Gabriel, Uriel, and Raphael. Michael and Gabriel
-> are the only angels mentioned by name in the Bible. The other two show
-> up in the apocryphal *First Book of Enoch*, which includes a fanciful
-> account of the actions of these four beings. Those who report modern
-> day angel teachings are actually channeling information from demons.
+> There are four angel names that keep popping up in the angel literature: Michael, Gabriel, Uriel, and Raphael. Michael and Gabriel are the only angels mentioned by name in the Bible. The other two show up in the apocryphal *First Book of Enoch*, which includes a fanciful account of the actions of these four beings. Those who report modern day angel teachings are actually channeling information from demons.
 > 
 > 4. Special knowledge or teachings from angels.
 > 
-> Naomi Albright distributes teachings about the deep meanings of
-> colors, and numbers and letters of the alphabet which she claims is
-> “knowledge given from above and brought forth in more detail by the
-> High Angelic Master Sheate, Lady Master Cassandra, and Angel
-> Carpelpous, and the Master Angel, One on High.” (*Paths of Light*
-> newsletter, Angel Walk F.O.L., Followers of Light, No. 24, July 1994,
-> p. 6-10). These same beings told Mrs. Albright to stress two main
-> teachings: first, that God accepts all religions, and second,
-> Reincarnation.(Albright, *Angel Walk*, p. 77-78). These two teachings
-> keep showing up in much of the New Age angel literature, which
-> shouldn’t be surprising since they are heretical lies that come from
-> the pit of hell, which is where the angel teachers are from.
+> Naomi Albright distributes teachings about the deep meanings of colors, and numbers and letters of the alphabet which she claims is “knowledge given from above and brought forth in more detail by the High Angelic Master Sheate, Lady Master Cassandra, and Angel Carpelpous, and the Master Angel, One on High.” (*Paths of Light* newsletter, Angel Walk F.O.L., Followers of Light, No. 24, July 1994, p. 6-10). These same beings told Mrs. Albright to stress two main teachings: first, that God accepts all religions, and second, Reincarnation.(Albright, *Angel Walk*, p. 77-78). These two teachings keep showing up in much of the New Age angel literature, which shouldn’t be surprising since they are heretical lies that come from the pit of hell, which is where the angel teachers are from.
 > 
-> Other angel teachings are that all is a part of God (pantheism); the
-> learner is set apart from others by the “deep” knowledge that the
-> angels give (this is a basic draw to the occult); and that eventually,
-> the one who pursues contact with these angels will be visited by an
-> Ascended Master or a Shining Angel (which is a personal encounter with
-> a demon).
+> Other angel teachings are that all is a part of God (pantheism); the learner is set apart from others by the “deep” knowledge that the angels give (this is a basic draw to the occult); and that eventually, the one who pursues contact with these angels will be visited by an Ascended Master or a Shining Angel (which is a personal encounter with a demon).
 > 
-> We need to remember that God’s angels are not teachers. God’s word
-> says they are messengers—that’s what “angel” means—and they minister
-> to us.  God has revealed to us everything we need for life and
-> godliness (2 Peter 1:3), so any hidden knowledge that spirit beings
-> try to impart is by nature occultic and demonic.
+> We need to remember that God’s angels are not teachers. God’s word says they are messengers—that’s what “angel” means—and they minister to us.  God has revealed to us everything we need for life and godliness (2 Peter 1:3), so any hidden knowledge that spirit beings try to impart is by nature occultic and demonic.
 > 
 > 5. Human divinity
 > 
-> The message of the ugly angels is that we need to recognize that we
-> are one with the divine, we are divine. . . we are God. In Karen
-> Goldman’s *The Angel Book: A Handbook for Aspiring Angels*, she says
-> things like, “Angels don’t fall out of the sky; they emerge from
-> within.” (Goldman, Karen, *The Angel Book—A Handbook for Aspiring
-> Angels*, New York: Simon & Shuster, 1988, p. 20). And, “The whole
-> purpose in life is to know your Angel Self, accept it and be it. In
-> this way we finally experience true oneness.” (Ibid., p. 95).
+> The message of the ugly angels is that we need to recognize that we are one with the divine, we are divine. . . we are God. In Karen Goldman’s *The Angel Book: A Handbook for Aspiring Angels*, she says things like, “Angels don’t fall out of the sky; they emerge from within.” (Goldman, Karen, *The Angel Book—A Handbook for Aspiring Angels*, New York: Simon & Shuster, 1988, p. 20). And, “The whole purpose in life is to know your Angel Self, accept it and be it. In this way we finally experience true oneness.” (Ibid., p. 95).
 > 
-> The following bit of heretical garbage was channeled from a demon
-> posing an angel named Daephrenocles: “The wondrous light of the
-> Angels, from the Elohim to the Archangels to the Devas and Nature
-> Spirits, are all bringing to you the realization that you are
-> magnificent—you are divine **now** and divine first.” (*These
-> Celestial Times* newsletter, Vol. 3, No. 1, Gaithersburg, Maryland, p.
-> 4).
+> The following bit of heretical garbage was channeled from a demon posing an angel named Daephrenocles: “The wondrous light of the > Angels, from the Elohim to the Archangels to the Devas and Nature Spirits, are all bringing to you the realization that you are magnificent—you are divine **now** and divine first.” (*These Celestial Times* newsletter, Vol. 3, No. 1, Gaithersburg, Maryland, p. > 4).
 > 
-> Much of the angel literature refers to “the angel within.” But angels
-> are a separate part of the creation. They were created before man as a
-> different kind. They are not within us. The movie “It’s a Wonderful
-> Life” notwithstanding, when we hear a bell ring it does not mean that
-> an angel is getting his wings. Nor do good people, especially
-> children, become angels when they die. We remain human beings—not
-> angels, and certainly not God.
+> Much of the angel literature refers to “the angel within.” But angels are a separate part of the creation. They were created before man as a different kind. They are not within us. The movie “It’s a Wonderful Life” notwithstanding, when we hear a bell ring it does not mean that an angel is getting his wings. Nor do good people, especially children, become angels when they die. We remain human beings—not angels, and certainly not God.
 > 
-> What our culture needs in response to the angel craze is strong
-> discernment built on the foundation of God’s word. We need to
-> remember, and share with others, three truths about angels:
+> What our culture needs in response to the angel craze is strong discernment built on the foundation of God’s word. We need to remember, and share with others, three truths about angels:
 > 
 > 1. The ministry of holy angels will never contradict the Bible.
 > 
-> 2. The actions of holy angels will always be consistent with the
-> character of Christ.
+> 2. The actions of holy angels will always be consistent with the character of Christ.
 > 
-> 3. A genuine encounter with a holy angel will glorify God, not the
-> angel. Holy angels never draw attention to themselves. They typically
-> do their work and disappear.
+> 3. A genuine encounter with a holy angel will glorify God, not the angel. Holy angels never draw attention to themselves. They typically do their work and disappear.
 > 
-> It’s very true that many have “entertained angels unaware” (Hebrews
-> 13:2). But we need to make sure we’re entertaining the right kind of
-> angels![^17]
+> It’s very true that many have “entertained angels unaware” (Hebrews 13:2). But we need to make sure we’re entertaining the right kind of angels![^17]
 
-Some Warnings (Things to Do and Not to Do)
-------------------------------------------
+# Some Warnings (Things to Do and Not to Do)
 
-In addition to the above warnings and in view of the deceptions of
-Satan, we need to be on our guard. In this regard, here are a number of
-things that I would like to suggest.
+In addition to the above warnings and in view of the deceptions of Satan, we need to be on our guard. In this regard, here are a number of things that I would like to suggest.
 
-### Never Worship Angels
+## Never Worship Angels
 
-As pointed out in the introduction to this study, everywhere we find
-angels mentioned in the Bible, the reference to angels is incidental to
-some other issue. They are not the primary subject of the passage. God’s
-love and grace is. When they are mentioned, it is always in order to
-inform us further about God, what He does, and how He does it. This very
-fact should teach us that not only are angels not the focus, but they
-should certainly not be worshipped.
+As pointed out in the introduction to this study, everywhere we find angels mentioned in the Bible, the reference to angels is incidental to some other issue. They are not the primary subject of the passage. God’s love and grace is. When they are mentioned, it is always in order to inform us further about God, what He does, and how He does it. This very fact should teach us that not only are angels not the focus, but they should certainly not be worshipped.
 
-In two places in the book of Revelation, John was so awed by the
-revelation he had received from God through an angel, a very glorious
-creature, that he bowed down to worship the angel.
+In two places in the book of Revelation, John was so awed by the revelation he had received from God through an angel, a very glorious creature, that he bowed down to worship the angel.
 
-Revelation 19:10 And I fell at his feet to worship him. And he said to
-me, “Do not do that; I am a fellow servant of yours and your brethren
-who hold the testimony of Jesus; worship God. For the testimony of Jesus
-is the spirit of prophecy.”
+Revelation 19:10 And I fell at his feet to worship him. And he said to me, “Do not do that; I am a fellow servant of yours and your brethren who hold the testimony of Jesus; worship God. For the testimony of Jesus is the spirit of prophecy.”
 
 And then again in Revelation 22 we are told:
 
-Revelation 22:8-9And I, John, am the one who heard and saw these things.
-And when I heard and saw, I fell down to worship at the feet of the
-angel who showed me these things. 9 And he said to me, “Do not do that;
-I am a fellow servant of yours and of your brethren the prophets and of
-those who heed the words of this book; worship God.”
+> **Revelation 22:8-9** "and I, John, am the one who heard and saw these things. And when I heard and saw, I fell down to worship at the feet of the angel who showed me these things. 9 And he said to me, “Do not do that; I am a fellow servant of yours and of your brethren the prophets and of those who heed the words of this book; worship God.”
 
-We told not to worship angels, but why? First, they are but “fellow
-servants” with believers called upon to serve the Lord. Then he was told
-to “worship God.” Angels are powerful and awesome in many ways, but,
-like us, they are only creatures and servants of the living God who
-alone deserves our worship. This means we don’t pray to them or trust in
-them, even though God may use them as our guardian. Our trust is to be
-in God, not angels. They minister at His bidding.
+We told not to worship angels, but why? First, they are but “_fellow servants_” with believers called upon to serve the Lord. Then he was told to “worship God.” Angels are powerful and awesome in many ways, but, like us, they are only creatures and servants of the living God who alone deserves our worship. This means we don’t pray to them or trust in them, even though God may use them as our guardian. Our trust is to be in God, not angels. They minister at His bidding.
 
-Remember, the church at Colossae had been invaded by false teachers who
-were teaching a false humility and the worship of angels, claiming
-special mystic insights by way of visions in connection with their
-worship of angels (Co. 2:18). This was demonic because it was usurping
-the preeminent place and sufficiency of Christ as Savior and Lord. The
-claim was, He is not enough for salvation and spirituality. What you
-need is to worship angels, etc.
+Remember, the church at Colossae had been invaded by false teachers who were teaching a false humility and the worship of angels, claiming special mystic insights by way of visions in connection with their worship of angels (Co. 2:18). This was demonic because it was usurping the preeminent place and sufficiency of Christ as Savior and Lord. The claim was, He is not enough for salvation and spirituality. What you need is to worship angels, etc.
 
-### Do Not Participate in Angel Gimmickry
+## Do Not Participate in Angel Gimmickry
 
-Closely associated with the worship of angels, but in a more subtle way,
-is all the angel gimmickry going on in our culture today. Sometimes this
-is not just a matter of collecting and enjoying angel figurines much as
-someone would collect and enjoy figurines and pictures of eagles.
-Regarding this, Gangel has a word of advice:
+Closely associated with the worship of angels, but in a more subtle way, is all the angel gimmickry going on in our culture today. Sometimes this is not just a matter of collecting and enjoying angel figurines much as someone would collect and enjoy figurines and pictures of eagles. Regarding this, Gangel has a word of advice:
 
-Of course there is nothing wrong with enjoying angel figurines on the
-coffee table as long as they do not become icons that somehow replace
-our dependence upon God’s Word and the role of the indwelling Holy
-Spirit in our lives.[^18]
+Of course there is nothing wrong with enjoying angel figurines on the coffee table as long as they do not become icons that somehow replace our dependence upon God’s Word and the role of the indwelling Holy Spirit in our lives.[^18]
 
-### Do Not Become Critical of the Reports of Angels
+## Do Not Become Critical of the Reports of Angels
 
-When we hear of reports of angels, it is only natural for us to be
-skeptical, but and there is the need for a certain amount of skepticism,
-what Gangel calls “healthy skepticism.” The reasons a healthy skepticism
-is needed are the deceptions of Satan referred above and the spiritually
-bankrupt condition of our culture and its willingness to accept anything
+When we hear of reports of angels, it is only natural for us to be skeptical, but and there is the need for a certain amount of skepticism, what Gangel calls “healthy skepticism.” The reasons a healthy skepticism is needed are the deceptions of Satan referred above and the spiritually bankrupt condition of our culture and its willingness to accept anything
 but the truth.
 
-The gullibility of people today is due in part to pendulum swings of
-society. Society had swung from the gross mystical speculations of the
-middle ages to the rationalism of the late 1800s and early 1900s. Now
-due in part to the failure of rationalism, the vacuum that naturally
-occurs in the minds of people, and the rise of demonism and the occult
-in these last days, the pendulum has swung back to mysticism seen so
-prominently in the New Age movement, the occult, and in the cults. So
-belief in Satan, demons and angels is more and more common place, not
-because people are believing the Bible, but because of the rise of their
-spiritual emptiness. Angels have become an easy substitute, a handy
-compromise to the reality of the Living God as He is revealed in
-Scripture.
+The gullibility of people today is due in part to pendulum swings of society. Society had swung from the gross mystical speculations of the middle ages to the rationalism of the late 1800s and early 1900s. Now due in part to the failure of rationalism, the vacuum that naturally occurs in the minds of people, and the rise of demonism and the occult in these last days, the pendulum has swung back to mysticism seen so prominently in the New Age movement, the occult, and in the cults. So
+belief in Satan, demons and angels is more and more common place, not because people are believing the Bible, but because of the rise of their spiritual emptiness. Angels have become an easy substitute, a handy compromise to the reality of the Living God as He is revealed in Scripture.
 
-> When asked “Do you believe in angels?” Jamal Mashburn, star forward of
-> the Dallas Mavericks, responded, “Yes. For me it is like an inner
-> voice that tells me what to do and what not to do, where to go and
-> where not to go. It’s somebody like God that protects and cares for
-> me” (*Dallas Morning News*, 18 December 1994). Why not? God seems so
-> distant and austere. Angels seem so friendly.[^19]
+> When asked “Do you believe in angels?” Jamal Mashburn, star forward of the Dallas Mavericks, responded, “Yes. For me it is like an inner voice that tells me what to do and what not to do, where to go and where not to go. It’s somebody like God that protects and cares for me” (*Dallas Morning News*, 18 December 1994). Why not? God seems so distant and austere. Angels seem so friendly.[^19]
 
-On the other hand, angels are the ministering spirits of God and He can
-send them to anyone whom he pleases. I have never seen an angel or had
-an experience where I was sure an angel was involved, but I do believe
-many reports are true.
+On the other hand, angels are the ministering spirits of God and He can send them to anyone whom he pleases. I have never seen an angel or had an experience where I was sure an angel was involved, but I do believe many reports are true.
 
-A good friend of ours who has gone through a whole series of very
-difficult health problems told me last Sunday that at one point he was
-so low that he’d given up hope of ever getting well again. During the
-night a nurse came into his hospital room to check his IV and she said
-to him, “You seem to be really down and are without hope, aren’t you?”
-He responded with, “Yes, I am.” She knelt down, took his hand, and
-prayed for him. Afterward, his spirits picked up and he quickly began to
-improve physically. He never saw this nurse again, though he asked about
-her and watched for her. He told his doctor about this, who happened to
-be a Christian, and he asked my friend if he had considered that this
-might have been an angel. Was this angel? Perhaps. We simply don’t know,
-but it certainly could be.
+A good friend of ours who has gone through a whole series of very difficult health problems told me last Sunday that at one point he was so low that he’d given up hope of ever getting well again. During the night a nurse came into his hospital room to check his IV and she said to him, “You seem to be really down and are without hope, aren’t you?” He responded with, “Yes, I am.” She knelt down, took his hand, and prayed for him. Afterward, his spirits picked up and he quickly began to improve physically. He never saw this nurse again, though he asked about her and watched for her. He told his doctor about this, who happened to be a Christian, and he asked my friend if he had considered that this might have been an angel. Was this angel? Perhaps. We simply don’t know, but it certainly could be.
 
-In addition, we need to avoid the critical spirit that questions and
-belittles the claims of others, especially those who do not know the
-Scripture. Laughing at or belittling their claims will only close the
-door to opportunities to witness and point them to the truth of the
-Gospel and the Bible.
+In addition, we need to avoid the critical spirit that questions  belittles the claims of others, especially those who do not know the Scripture. Laughing at or belittling their claims will only close the door to opportunities to witness and point them to the truth of the Gospel and the Bible.
 
-### Some Positive Things to Do
+## Some Positive Things to Do
 
-First, when confronted with claims of angels about which we are
-skeptical, let us seek ways to use these claims to show interest in the
-person and to engage them in discussion about the realities of the
-Savior or the truths of God’s Word.
+First, when confronted with claims of angels about which we are skeptical, let us seek ways to use these claims to show interest in the person and to engage them in discussion about the realities of the Savior or the truths of God’s Word.
 
-Second, let’s be thankful to God for the ministry of angels and for
-those reports that do not contradict Scripture and may very well be
-genuine cases of angelic ministry. Even though we may not be able to
-validate that it was an angel, we can and should certainly praise God
-for the aid or encouragement experienced, as with my friend in the
-hospital.
+Second, let’s be thankful to God for the ministry of angels and for those reports that do not contradict Scripture and may very well be genuine cases of angelic ministry. Even though we may not be able to validate that it was an angel, we can and should certainly praise God for the aid or encouragement experienced, as with my friend in the hospital.
 
-Finally, let’s know what the Bible teaches about God, Jesus Christ,
-salvation, true spirituality, and the ministry of angels that we might
-not fall for the satanic counterfeits that seek to cause people to
-bypass the sufficiency of the person and work of Jesus Christ. The book
-of Colossians is an excellent commentary on this.
+Finally, let’s know what the Bible teaches about God, Jesus Christ, salvation, true spirituality, and the ministry of angels that we might not fall for the satanic counterfeits that seek to cause people to bypass the sufficiency of the person and work of Jesus Christ. The book of Colossians is an excellent commentary on this.
 
 Gangel closes his article on angels with the following fitting comment:
 
-> So you’ve never seen or heard an angel? Be patient—I guarantee it will
-> happen. Like John we’ll all someday see and hear “the voice of many
-> angels, numbering thousands upon thousands, and ten thousand times ten
-> thousand.” With them we will praise the Savior singing, “Worthy is the
-> Lamb, who was slain, to receive power and wealth and wisdom and
-> strength and honor and glory and praise!” (Rev.  5:11-12).[^20]
+> So you’ve never seen or heard an angel? Be patient—I guarantee it will happen. Like John we’ll all someday see and hear “the voice of many angels, numbering thousands upon thousands, and ten thousand times ten thousand.” With them we will praise the Savior singing, “Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!” (Rev.  5:11-12).[^20]
 
-Angelology: The Doctrine of Angels
-----------------------------------
+# Angelology: The Doctrine of Angels
 
-### Introduction
+## Introduction
 
-The fact that God has created a realm of personal beings other than
-mankind is a fitting topic for systematic theological studies for it
-naturally broadens our understanding of God, of what He is doing, and
-how He works in the universe.
+The fact that God has created a realm of personal beings other than mankind is a fitting topic for systematic theological studies for it naturally broadens our understanding of God, of what He is doing, and how He works in the universe.
 
 We are not to think that man is the highest form of created being. As
 the distance between man and the lower forms of life is filled with
