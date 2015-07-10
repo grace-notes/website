@@ -159,21 +159,21 @@ Sue Bohlin has an excellent discussion of what to look for to discern the activi
 
 > You know you’re around “ugly angels,” or demons masquerading as angels of light and holiness, when you see or hear these terms:
 > 
-> 1. Contacting or communing with angels.
+> (1) Contacting or communing with angels.
 > 
 > There are now books available with titles like *Ask Your Angels* (Daniel, Alma, Timothy Wyllie, and Andrew Ramer, *Ask your Angels*, New York: Ballantine, 1992) and *100 Ways to Attract Angels*(Sharp, Sally, *100 Ways to Attract Angels*, Minnesota: Trust Publications, 1994). But the Bible gives neither permission nor precedent for contacting angels.  When people start calling on angels, it’s not the holy angels who answer. They’re demons, disguising themselves as good angels to people who don’t know how to tell the difference.
 > 
-> 2. Loving our angels, praying to our angels.
+> (2) Loving our angels, praying to our angels.
 > 
 > Some self-styled “angel experts” instruct their followers to love their angels and call upon them for health, healing, prosperity, and guidance.  But angels are God’s servants, and all this attention and emphasis and glory should go to God, not His servants. God says, “_I will not share my glory with another_” (Isaiah 42:8). Scripture makes no mention of loving angels—only God, His word, and people. And it never tells us to pray to angels, only to the Lord Himself.
 > 
-> 3. Instruction, knowledge, or insight from angels, particularly ones with names.
+> (3) Instruction, knowledge, or insight from angels, particularly ones with names.
 > 
 > Some angel teachers are proclaiming that angels are trying very hard to contact us, so they can give us deeper knowledge of the spiritual (Karyn Martin-Kuri, in an interview with *Body, Mind and Spirit* Journal, May/June 1993. Also, Albright, Naomi, *Angel Walk*, Tuscaloosa, Alabama: Portals Press, 1990). Invariably, this “angel knowledge” is a mixture of truth and lies, and never stands up to the absolute truth of Scripture.
 > 
 > There are four angel names that keep popping up in the angel literature: Michael, Gabriel, Uriel, and Raphael. Michael and Gabriel are the only angels mentioned by name in the Bible. The other two show up in the apocryphal *First Book of Enoch*, which includes a fanciful account of the actions of these four beings. Those who report modern day angel teachings are actually channeling information from demons.
 > 
-> 4. Special knowledge or teachings from angels.
+> (4) Special knowledge or teachings from angels.
 > 
 > Naomi Albright distributes teachings about the deep meanings of colors, and numbers and letters of the alphabet which she claims is “knowledge given from above and brought forth in more detail by the High Angelic Master Sheate, Lady Master Cassandra, and Angel Carpelpous, and the Master Angel, One on High.” (*Paths of Light* newsletter, Angel Walk F.O.L., Followers of Light, No. 24, July 1994, p. 6-10). These same beings told Mrs. Albright to stress two main teachings: first, that God accepts all religions, and second, Reincarnation.(Albright, *Angel Walk*, p. 77-78). These two teachings keep showing up in much of the New Age angel literature, which shouldn’t be surprising since they are heretical lies that come from the pit of hell, which is where the angel teachers are from.
 > 
@@ -181,7 +181,7 @@ Sue Bohlin has an excellent discussion of what to look for to discern the activi
 > 
 > We need to remember that God’s angels are not teachers. God’s word says they are messengers—that’s what “angel” means—and they minister to us.  God has revealed to us everything we need for life and godliness (2 Peter 1:3), so any hidden knowledge that spirit beings try to impart is by nature occultic and demonic.
 > 
-> 5. Human divinity
+> (5) Human divinity
 > 
 > The message of the ugly angels is that we need to recognize that we are one with the divine, we are divine. . . we are God. In Karen Goldman’s *The Angel Book: A Handbook for Aspiring Angels*, she says things like, “Angels don’t fall out of the sky; they emerge from within.” (Goldman, Karen, *The Angel Book—A Handbook for Aspiring Angels*, New York: Simon & Shuster, 1988, p. 20). And, “The whole purpose in life is to know your Angel Self, accept it and be it. In this way we finally experience true oneness.” (Ibid., p. 95).
 > 
