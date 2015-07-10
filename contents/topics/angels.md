@@ -494,1008 +494,327 @@ Today believers are experientially lower than the angels, yet positionally highe
 
 By His essential nature and being, Christ is higher because He is God the Creator (cf. Heb 1:4ff with Col. 1:15-17). By Christ’s incarnation He became lower for a little while (Heb 2:9), but this only applied to His humanity. By Christ’s death, burial, resurrection, and ascension He became far superior to angels as the last Adam and the second man (cf. 1Cor. 15:45-48; Eph. 1:20-22; 1 Pet. 3:18-22; Col. 2:15). As the glorified and exalted God-man He became the last Adam. Adam was the head of the first race of men, but Christ became the head of the second race of regenerated men. He is called last because there will never be another fall, and because He, as the glorified and exalted Savior, is a life-giving Spirit. As the second man from heaven He is viewed as the head and beginning of a new and exalted race of people.
 
-The Division of Angels—Good and Evil
-------------------------------------
+# The Division of Angels—Good and Evil
 
-While all the angels were originally created holy and without sin, there
-was a rebellion by Satan, who, being lifted up by his own beauty,
-rebelled and sought to exalt himself above God. In his rebellion, he
-took with him one-third of the angels (Rev. 12:4). This rebellion and
-fall is probably described for us in Isaiah 14:12-15 and Ezekiel 28:15
-embodied in the kings of Babylon and Tyre.[^42] Prophesying of a future
-angelic conflict that will occur in the middle of the Tribulation, John
-wrote, “And there was war in heaven, Michael and his angels waging war
-with the dragon. And the dragon and his angels waged war” (Rev. 12:7).
-In other words, there are good angels and there are evil angels.
-Regarding their fall, Bushwell writes:
+While all the angels were originally created holy and without sin, there was a rebellion by Satan, who, being lifted up by his own beauty, rebelled and sought to exalt himself above God. In his rebellion, he took with him one-third of the angels (Rev. 12:4). This rebellion and fall is probably described for us in Isaiah 14:12-15 and Ezekiel 28:15 embodied in the kings of Babylon and Tyre.[^42] Prophesying of a future angelic conflict that will occur in the middle of the Tribulation, John
+wrote, “And there was war in heaven, Michael and his angels waging war with the dragon. And the dragon and his angels waged war” (Rev. 12:7). In other words, there are good angels and there are evil angels. Regarding their fall, Bushwell writes:
 
-> We infer that the angels which sinned did so in full knowledge of all
-> the issues involved. They chose self-corruption, knowing exactly what
-> they were doing. They sinned without remedy, and there is no atonement
-> for them (II Peter 2:4; Jude 6). On the other hand, it seems that the
-> holy angels, being faced with the same ethical choice and possessing
-> the same God-given ability to choose, remained and are confirmed in
-> their state of holiness. They have never known the experience of
-> sin.[^43]
+> We infer that the angels which sinned did so in full knowledge of all the issues involved. They chose self-corruption, knowing exactly what they were doing. They sinned without remedy, and there is no atonement for them (II Peter 2:4; Jude 6). On the other hand, it seems that the holy angels, being faced with the same ethical choice and possessing the same God-given ability to choose, remained and are confirmed in their state of holiness. They have never known the experience of sin.[^43]
 
-As is clear from Revelation 12:7 and many other passages, the leader of
-these fallen angels, or demons as they are also called, is Satan (cf.
-Matt. 12:25-27). As the leader of these unholy angels, Satan is a liar,
-a murderer, and a thief (John 10:10). As God’s great antagonist, Satan
-hates God and His people and is constantly on the prowl like a roaring
-lion in search of those he may devour by his nefarious schemes (1 Peter
-5:8). As an angelic being, Satan, along with his demon-like angels, is
-supernaturally powerfully and brilliant, and uses all his powers against
-humanity. Not only is he a liar, a thief, and a distorer, but one of his
-chief characterizations is deception. John describes him as the one “who
-deceives the whole world” (John 12:9). In his cunning, he disguises
-himself as an angel of light (2 Cor. 11:14). In view of this, the
-Apostle Paul wrote, “Therefore it is not surprising if his servants also
-disguise themselves as servants of righteousness …” (2 Cor. 11:15).
+As is clear from Revelation 12:7 and many other passages, the leader of these fallen angels, or demons as they are also called, is Satan (cf. Matt. 12:25-27). As the leader of these unholy angels, Satan is a liar, a murderer, and a thief (John 10:10). As God’s great antagonist, Satan hates God and His people and is constantly on the prowl like a roaring lion in search of those he may devour by his nefarious schemes (1 Peter 5:8). As an angelic being, Satan, along with his demon-like angels, is supernaturally powerfully and brilliant, and uses all his powers against humanity. Not only is he a liar, a thief, and a distorer, but one of his chief characterizations is deception. John describes him as the one “who deceives the whole world” (John 12:9). In his cunning, he disguises himself as an angel of light (2 Cor. 11:14). In view of this, the
+Apostle Paul wrote, “_Therefore it is not surprising if his servants also disguise themselves as servants of righteousness …_” (2 Cor. 11:15).
 
-The Organization of Angels
---------------------------
+# The Organization of Angels
 
-### The Fact of Angelic Organization
+## The Fact of Angelic Organization
 
-While the Bible’s revelation on the organization of angels is rather
-meager, it says enough to show us there does seem to be organization in
-the angelic world. They appear to be organized into various ranks and
-orders and positions. This is suggested by the fact Michael is called
-the Archangel or chief angel (Jude 9). Then, in Daniel 10:13 he is
-called one of the chief princes. Other ranks and orders are suggested by
-the terms used of angels in Ephesians 3:10; 6:12, and 1 Peter 3:22.
+While the Bible’s revelation on the organization of angels is rather meager, it says enough to show us there does seem to be organization in the angelic world. They appear to be organized into various ranks and orders and positions. This is suggested by the fact Michael is called the Archangel or chief angel (Jude 9). Then, in Daniel 10:13 he is called one of the chief princes. Other ranks and orders are suggested by the terms used of angels in Ephesians 3:10; 6:12, and 1 Peter 3:22.
 Ryrie writes:
 
-> The Scriptures speak of the “assembly” and “council” of the angels
-> (Ps.  89:5, 7), of their organization for battle (Rev. 12:7), and of a
-> king over the demon-locusts (9:11). They are also given governmental
-> classifications which indicate organization and ranking (Eph. 3:10,
-> good angels; and 6:12, evil angels). Unquestionably God has organized
-> the elect angels and Satan has organized the evil angels.
+> The Scriptures speak of the “assembly” and “council” of the angels (Ps.  89:5, 7), of their organization for battle (Rev. 12:7), and of a king over the demon-locusts (9:11). They are also given governmental classifications which indicate organization and ranking (Eph. 3:10, good angels; and 6:12, evil angels). Unquestionably God has organized the elect angels and Satan has organized the evil angels.
 > 
-> A very important practical point emerges from this. Angels are
-> organized; demons are organized; yet Christians, individually and in
-> groups, often feel that it is unnecessary that they be organized. This
-> is especially true when it comes to fighting evil. Believers sometimes
-> feel that they can “go it alone” or expect victory without any prior,
-> organized preparation and discipline. It is also true when it comes to
-> promoting good. Believers sometimes miss the best because they do not
-> plan and organize their good works.[^44]
+> A very important practical point emerges from this. Angels are organized; demons are organized; yet Christians, individually and in groups, often feel that it is unnecessary that they be organized. This is especially true when it comes to fighting evil. Believers sometimes feel that they can “go it alone” or expect victory without any prior, organized preparation and discipline. It is also true when it comes to promoting good. Believers sometimes miss the best because they do not plan and organize their good works.[^44]
 
-This is further supported by Jude’s statement regarding the angels who
-left their “domain” (NASB) or “positions of authority” (NIV) in Jude 6.
-“Domain” is the Greek arch, which can mean, “domain, rule, authority,”
-or “sphere of influence.”[^45]
+This is further supported by Jude’s statement regarding the angels who left their “domain” (NASB) or “positions of authority” (NIV) in Jude 6. “Domain” is the Greek arch, which can mean, “domain, rule, authority,” or “sphere of influence.”[^45]
 
-### The Classifications of Angels
+## The Classifications of Angels
 
-Paul Enns provides us with an excellent overview of most of the various
-rankings or classifications of the organized angelic world.
+Paul Enns provides us with an excellent overview of most of the various rankings or classifications of the organized angelic world.
 
-> ***Angels who are governmental rulers.***Ephesians 6:12 refers to
-> “ranking of fallen angels”: *rulers* are “those who are first or high
-> in rank”; *powers* are “those invested with authority”; *world-forces
-> of this darkness*“expresses the power or authority which they exercise
-> over the world”; *spiritual forces of wickedness*describes the wicked
-> spirits, “expressing their character and nature.” Daniel 10:13 refers
-> to the “prince of the kingdom of Persia” opposing Michael. This was
-> not the king of Persia but rather a fallen angel under Satan’s
-> control; he was a demon “of high rank, assigned by the chief of
-> demons, Satan, to Persia as his special area of activity” (cf. Rev.
-> 12:7).
+> ***Angels who are governmental rulers.***Ephesians 6:12 refers to “ranking of fallen angels”: *rulers* are “those who are first or high in rank”; *powers* are “those invested with authority”; *world-forces of this darkness*“expresses the power or authority which they exercise over the world”; *spiritual forces of wickedness*describes the wicked spirits, “expressing their character and nature.” Daniel 10:13 refers to the “prince of the kingdom of Persia” opposing Michael. This was not the king of Persia but rather a fallen angel under Satan’s control; he was a demon “of high rank, assigned by the chief of demons, Satan, to Persia as his special area of activity” (cf. Rev. 12:7).
 > 
-> ***Angels who are highest ranking.*** Michael is called the
-> *archangel*in Jude 9 and the great prince in Daniel 12:1. Michael is
-> the only angel designated archangel, and may possibly be the only one
-> of this rank. The mission of the archangel is protector of Israel. (He
-> is called “Michael your prince” in Dan. 10:21.) There were *chief
-> princes*(Dan. 10:13), of whom Michael was one, as the highest ranking
-> angels of God. *Ruling angels* (Eph. 3:10) are also mentioned, but no
-> further details are given.
+> ***Angels who are highest ranking.*** Michael is called the *archangel* in Jude 9 and the great prince in Daniel 12:1. Michael is the only angel designated archangel, and may possibly be the only one of this rank. The mission of the archangel is protector of Israel. (He is called “Michael your prince” in Dan. 10:21.) There were *chief princes*(Dan. 10:13), of whom Michael was one, as the highest ranking angels of God. *Ruling angels* (Eph. 3:10) are also mentioned, but no further details are given.
 > 
-> ***Angels who are prominent individuals.*** (1) Michael (Dan. 10:13;
-> 12:1; Jude 9). The name *Michael*means “who is like God?” and
-> identifies the only one classified as an archangel in Scripture.
-> Michael is the defender of Israel who will wage war on behalf of
-> Israel against Satan and his hordes in the Tribulation (Rev. 12:7–9).
-> Michael also disputed with Satan about the body of Moses, but Michael
-> refrained from judgment, leaving that to God (Jude 9). Jehovah’s
-> Witnesses and some Christians identify Michael as Christ; this view,
-> however, would suggest Christ has less authority than Satan, which is
-> untenable.
+> ***Angels who are prominent individuals.*** (1) Michael (Dan. 10:13; 12:1; Jude 9). The name *Michael*means “who is like God?” and identifies the only one classified as an archangel in Scripture. Michael is the defender of Israel who will wage war on behalf of Israel against Satan and his hordes in the Tribulation (Rev. 12:7–9). Michael also disputed with Satan about the body of Moses, but Michael refrained from judgment, leaving that to God (Jude 9). Jehovah’s Witnesses and some Christians identify Michael as Christ; this view, however, would suggest Christ has less authority than Satan, which is untenable.
 > 
-> (2) Gabriel (Dan. 9:21; Luke 1:26). His name means “man of God” or
-> “God is strong.” “Gabriel seems to be God’s special messenger of His
-> kingdom program in each of the four times he appears in the Bible
-> record … He reveals and interprets God’s purpose and program
-> concerning Messiah and His kingdom to the prophets and people of
-> Israel.” In a highly significant passage, Gabriel explained the events
-> of the seventy weeks for Israel (Dan. 9:21–27). In Luke 1:26–27
-> Gabriel told Mary that the One born to her would be great and rule on
-> the throne of David. In Daniel 8:15–16 Gabriel explained to Daniel the
-> succeeding kingdoms of Medo-Persia and Greece as well as the untimely
-> death of Alexander the Great. Gabriel also announced the birth of John
-> the Baptist to Zacharias (Luke 1:11–20).
+> (2) Gabriel (Dan. 9:21; Luke 1:26). His name means “man of God” or “God is strong.” “Gabriel seems to be God’s special messenger of His kingdom program in each of the four times he appears in the Bible record … He reveals and interprets God’s purpose and program concerning Messiah and His kingdom to the prophets and people of Israel.” In a highly significant passage, Gabriel explained the events of the seventy weeks for Israel (Dan. 9:21–27). In Luke 1:26–27 Gabriel told Mary that the One born to her would be great and rule on the throne of David. In Daniel 8:15–16 Gabriel explained to Daniel the
+> succeeding kingdoms of Medo-Persia and Greece as well as the untimely death of Alexander the Great. Gabriel also announced the birth of John the Baptist to Zacharias (Luke 1:11–20).
 > 
-> (3) Lucifer (Isa. 14:12) means “shining one” or “star of the morning.”
-> He may have been the wisest and most beautiful of all God’s created
-> beings who was originally placed in a position of authority over the
-> cherubim surrounding the throne of God.
+> (3) Lucifer (Isa. 14:12) means “shining one” or “star of the morning.” He may have been the wisest and most beautiful of all God’s created beings who was originally placed in a position of authority over the cherubim surrounding the throne of God.
 > 
-> ***Angels who are divine attendants.*** (1) *Cherubim* are “of the
-> highest order or class, created with indescribable powers and beauty …
-> Their main purpose and activity might be summarized in this way: they
-> are proclaimers and protectors of God’s glorious presence, His
-> sovereignty, and His holiness.” They stood guard at the gate of the
-> Garden of Eden, preventing sinful man from entering (Gen. 3:24); were
-> the golden figures covering the mercy seat above the ark in the Holy
-> of Holies (Exod. 25:17–22); and attended the glory of God in Ezekiel’s
-> vision (Ezek. 1). Cherubim had an extraordinary appearance with four
-> faces—that of a man, lion, ox, and eagle. They had four wings and feet
-> like a calf, gleaming like burnished bronze. In Ezekiel 1 they
-> attended the glory of God preparatory for judgment.
+> ***Angels who are divine attendants.*** (1) *Cherubim* are “of the highest order or class, created with indescribable powers and beauty … Their main purpose and activity might be summarized in this way: they are proclaimers and protectors of God’s glorious presence, His sovereignty, and His holiness.” They stood guard at the gate of the Garden of Eden, preventing sinful man from entering (Gen. 3:24); were the golden figures covering the mercy seat above the ark in the Holy of Holies (Exod. 25:17–22); and attended the glory of God in Ezekiel’s vision (Ezek. 1). Cherubim had an extraordinary appearance with four faces—that of a man, lion, ox, and eagle. They had four wings and feet like a calf, gleaming like burnished bronze. In Ezekiel 1 they attended the glory of God preparatory for judgment.
 > 
-> (2) *Seraphim*, meaning “burning ones,” are pictured surrounding the
-> throne of God in Isaiah 6:2. They are described as each having six
-> wings. In their threefold proclamation, “holy, holy, holy” (Isa. 6:3),
-> it means “to recognize God as extremely, perfectly holy. Therefore,
-> they praise and proclaim the perfect holiness of God. The seraphim
-> also express the holiness of God in that they proclaim that man must
-> be cleansed of sin’s moral defilement before he can stand before God
-> and serve Him.”[^46]
+> (2) *Seraphim*, meaning “burning ones,” are pictured surrounding the throne of God in Isaiah 6:2. They are described as each having six wings. In their threefold proclamation, “holy, holy, holy” (Isa. 6:3), it means “to recognize God as extremely, perfectly holy. Therefore, they praise and proclaim the perfect holiness of God. The seraphim also express the holiness of God in that they proclaim that man must be cleansed of sin’s moral defilement before he can stand before God and serve Him.”[^46]
 
 Regarding the governmental rulers in the angelic world, Ryrie described
 this as follows:
 
-> 1. *Rulers or principalities.* These words, used seven times by Paul,
-> indicate an order of angels both good and evil involved in governing
-> the universe (Rom. 8:38; Eph. 1:21; 3:10; 6:12; Col. 1:16; 2:10, 15).
+> 1. *Rulers or principalities.* These words, used seven times by Paul, indicate an order of angels both good and evil involved in governing > the universe (Rom. 8:38; Eph. 1:21; 3:10; 6:12; Col. 1:16; 2:10, 15).
 > 
-> 2. *Authorities or powers.* This likely emphasizes the superhuman
-> authority of angels and demons exercised in relation to the affairs of
-> the world (Eph. 1:21; 2:2; 3:10; 6:12; Col. 1:16; 2:10, 15; 1 Peter
-> 3:22).
+> 2. *Authorities or powers.* This likely emphasizes the superhuman authority of angels and demons exercised in relation to the affairs of > the world (Eph. 1:21; 2:2; 3:10; 6:12; Col. 1:16; 2:10, 15; 1 Peter > 3:22).
 > 
-> 3. *Powers.* This word underscores the fact that angels and demons
-> have greater power than humans (2 Peter 2:11). See Ephesians 1:21 and
-> 1 Peter 3:22.
+> 3. *Powers.* This word underscores the fact that angels and demons have greater power than humans (2 Peter 2:11). See Ephesians 1:21 and 1 Peter 3:22.
 > 
-> 4. *Place of rule.* In one place demons are designated as world rulers
-> of this darkness (Eph. 6:12).
+> 4. *Place of rule.* In one place demons are designated as world rulers of this darkness (Eph. 6:12).
 > 
-> 5. *Thrones or dominions.* This designation emphasizes the dignity and
-> authority of angelic rulers in God’s use of them in His government
-> (Eph.  1:21; Col. 1:16; 2 Peter 2:10; Jude 8).[^47]
+> 5. *Thrones or dominions.* This designation emphasizes the dignity and authority of angelic rulers in God’s use of them in His government (Eph.  1:21; Col. 1:16; 2 Peter 2:10; Jude 8).[^47]
 
-Some question whether the Seraphim and Cherubim are actually angels
-since they are never clearly identified as angels, but due to the nature
-of angels and their service as superhuman servants of God, this is the
-most logical place to classify them. It would be helpful to also
-consider Ryrie’s explanation of these angelic beings:
+Some question whether the Seraphim and Cherubim are actually angels since they are never clearly identified as angels, but due to the nature of angels and their service as superhuman servants of God, this is the most logical place to classify them. It would be helpful to also consider Ryrie’s explanation of these angelic beings:
 
-> ***Cherubim*****:**Cherubim constitute another order of angels,
-> evidently of high rank since Satan was a cherub (Ezek. 28:14, 16).
-> They seem to function as guardians of the holiness of God, having
-> guarded the way to the tree of life in the Garden of Eden (Gen. 3:24).
-> The use of cherubim in the decoration of the tabernacle and temple may
-> also indicate their guarding function (Ex. 26:1ff.; 36:8ff.; 1 Kings
-> 6:23-29). They also bore the throne-chariot which Ezekiel saw (Ezek.
-> 1:4-5; 10:15-20). Some also identify the four living ones of
-> Revelation 4:6 as cherubim, though others feel these represent the
-> attributes of God. Representations of the cherubim will also be a part
-> of the millennial temple (Ezek. 41:18-20).
+> ***Cherubim*****:**Cherubim constitute another order of angels, evidently of high rank since Satan was a cherub (Ezek. 28:14, 16). They seem to function as guardians of the holiness of God, having guarded the way to the tree of life in the Garden of Eden (Gen. 3:24). The use of cherubim in the decoration of the tabernacle and temple may also indicate their guarding function (Ex. 26:1ff.; 36:8ff.; 1 Kings 6:23-29). They also bore the throne-chariot which Ezekiel saw (Ezek.
+> 1:4-5; 10:15-20). Some also identify the four living ones of Revelation 4:6 as cherubim, though others feel these represent the attributes of God. Representations of the cherubim will also be a part of the millennial temple (Ezek. 41:18-20).
 > 
-> ***Seraphim*****:** All we know about this rank of angelic beings is
-> found in Isaiah 6:2, 6. Apparently the seraphim were an order similar
-> to the cherubim. They acted as attendants at the throne of God and
-> agents of cleansing. Their duty also was to praise God. Their
-> description suggests a six-winged humanlike creature. The word may be
-> derived from a root meaning “to burn” or possibly from a root which
-> means “to be noble.”[^48]
+> ***Seraphim*****:** All we know about this rank of angelic beings is found in Isaiah 6:2, 6. Apparently the seraphim were an order similar to the cherubim. They acted as attendants at the throne of God and agents of cleansing. Their duty also was to praise God. Their description suggests a six-winged humanlike creature. The word may be derived from a root meaning “to burn” or possibly from a root which means “to be noble.”[^48]
 
 Three other classification of angels remain:
 
-1.  **Elect Angels:** In 1 Timothy 5:21, Paul speaks of “the elect
-    angels.” These are the holy angels who are somehow included in the
-    elect purposes of God. These are angels who did not follow after
-    Satan in his rebellion. There is little revealed about their
-    election, but apparently there was a probationary period for the
-    angelic world and these, being the elect of God, remained faithful
-    and are confirmed in their holy state in the service of the Lord. As
-    Chafer writes, “The fall of some angels is no more unanticipated by
-    God than the fall of man. It may be implied, also that angels have
-    passed a period of probation.”[^49]
+1.  **Elect Angels:** In 1 Timothy 5:21, Paul speaks of “the elect angels.” These are the holy angels who are somehow included in the elect purposes of God. These are angels who did not follow after Satan in his rebellion. There is little revealed about their election, but apparently there was a probationary period for the angelic world and these, being the elect of God, remained faithful and are confirmed in their holy state in the service of the Lord. As Chafer writes, “The fall of some angels is no more unanticipated by God than the fall of man. It may be implied, also that angels have passed a period of probation.”[^49]
 
-2.  **The Living Creatures:** These are angelic creatures who seem to be
-    involved with revealing the glory of the God of Israel in His
-    omniscience, omnipotence, and omnipresence (Ezek. 1:5f; Rev. 4:6;
-    6:1). Ezekiel 10:15, 20 reveal them as cherubim. Through the four
-    faces, they may also anticipate what God would do to bring salvation
-    to man through His Son: (a) The face of the man suggests wisdom,
-    compassion, intelligence and pictures Christ’s humanity as the Son
-    of man, the special focus found in the gospel of Luke; (b) the face
-    of a lion speaks of kingly appearance and pictures Christ as King
-    which is Matthew’s emphasis; (c) the face of a bull or ox portrays a
-    servant, the emphasis seen in Mark; and (d) the face of an eagle
-    speaks of heavenly action and portrays the deity Christ, which is
-    John’s emphasis.
+2.  **The Living Creatures:** These are angelic creatures who seem to be involved with revealing the glory of the God of Israel in His omniscience, omnipotence, and omnipresence (Ezek. 1:5f; Rev. 4:6; 6:1). Ezekiel 10:15, 20 reveal them as cherubim. Through the four faces, they may also anticipate what God would do to bring salvation to man through His Son: (a) The face of the man suggests wisdom, compassion, intelligence and pictures Christ’s humanity as the Son of man, the special focus found in the gospel of Luke; (b) the face of a lion speaks of kingly appearance and pictures Christ as King which is Matthew’s emphasis; (c) the face of a bull or ox portrays a servant, the emphasis seen in Mark; and (d) the face of an eagle speaks of heavenly action and portrays the deity Christ, which is John’s emphasis.
 
-3.  **Watchers:** “Watchers” is an Aramaic word which means, “vigilant,
-    waking, watchful.” Verse 17 may infer this is a special type of
-    angel (if a special class is intended). It seems to describe holy
-    angels who are constantly vigilant to serve the Lord and who watch
-    over the rulers of the world and the affairs of men (Dan. 4:13, 17,
-    23). The added description, “a holy one” in verse 13 may imply there
-    are unholy watchers, i.e., demonic forces who are watching the
-    affairs of men and seeking to influence and destroy.
+3.  **Watchers:** “Watchers” is an Aramaic word which means, “vigilant, waking, watchful.” Verse 17 may infer this is a special type of angel (if a special class is intended). It seems to describe holy angels who are constantly vigilant to serve the Lord and who watch over the rulers of the world and the affairs of men (Dan. 4:13, 17, 23). The added description, “a holy one” in verse 13 may imply there are unholy watchers, i.e., demonic forces who are watching the affairs of men and seeking to influence and destroy.
 
-### Special Angels
+## Special Angels
 
-#### Angels Associated With the Tribulation
+### Angels Associated With the Tribulation
 
-In Revelation a number of angels are specifically associated with
-certain judgments that will be poured out on the earth like the seven
-trumpets and the seven last plagues (Rev. 8-9; 16). In addition, some
-angels are related to special functions given to them, at least in these
-last days. There is the angel who has power over fire (Rev. 14:18), the
-angel of the waters (9:11), the angel of the abyss who will bind Satan
-(20:1-2).
+In Revelation a number of angels are specifically associated with certain judgments that will be poured out on the earth like the seven trumpets and the seven last plagues (Rev. 8-9; 16). In addition, some angels are related to special functions given to them, at least in these last days. There is the angel who has power over fire (Rev. 14:18), the angel of the waters (9:11), the angel of the abyss who will bind Satan (20:1-2).
 
-#### Angels Associated With the Church
+### Angels Associated With the Church
 
-In Revelation 2-3, each of the seven letters to the seven churches is
-addressed to “the angel of the church of …” In addition, they are each
-seen to be in the right hand of Christ in the vision of chapter one
-(Rev. 1:16, 20). However, since the term for angel means “messenger” and
-is also used of men, there is debate over whether these references refer
-to angelic beings or to the human leaders of the seven churches. It
-could refer to a guardian angel over these churches or to those men who
-function in the capacity of teachers of the Word, like the human pastors
-or elders.
+In Revelation 2-3, each of the seven letters to the seven churches is addressed to “the angel of the church of …” In addition, they are each seen to be in the right hand of Christ in the vision of chapter one (Rev. 1:16, 20). However, since the term for angel means “messenger” and is also used of men, there is debate over whether these references refer to angelic beings or to the human leaders of the seven churches. It could refer to a guardian angel over these churches or to those men who function in the capacity of teachers of the Word, like the human pastors or elders.
 
-The Ministry of Angels
-----------------------
+# The Ministry of Angels
 
-The most basic characteristic of the good angels is seen in the way they
-are described in Hebrews 1:14 as ministering spirits and in the accounts
-of their many and varied activities of ministry as described in
-Scripture. Essentially, they function as priestly messengers
-(*leitourgika pneumatata*) in the temple-universe of God.[^50] From the
-account of their activities in the Bible, their service can be
-summarized as that of (1) the worship of God (Isa. 6:3; Rev. 4:8), (2)
-as messengers of God (Dan. 9:22; Luke 1:11, 26; 2:9; Rev. 1:1), (3) as
-soldiers in spiritual combat (Dan. 10:13f; Rev. 12:7), and (4) as
-ministers to God’s people (Heb. 1:14). Regarding their activity as
-ministering spirits, Bushwell comments:
+The most basic characteristic of the good angels is seen in the way they are described in Hebrews 1:14 as ministering spirits and in the accounts of their many and varied activities of ministry as described in Scripture. Essentially, they function as priestly messengers (*leitourgika pneumatata*) in the temple-universe of God.[^50] From the account of their activities in the Bible, their service can be summarized as that of (1) the worship of God (Isa. 6:3; Rev. 4:8), (2) as messengers of God (Dan. 9:22; Luke 1:11, 26; 2:9; Rev. 1:1), (3) as soldiers in spiritual combat (Dan. 10:13f; Rev. 12:7), and (4) as ministers to God’s people (Heb. 1:14). Regarding their activity as ministering spirits, Bushwell comments:
 
-> The question may be asked, if we are not to worship the angels, or in
-> any way pray to them, what is the value of the doctrine that they are
-> “ministering spirits”? In answer we can say at least that the
-> Scriptural teaching in regard to the ministry of the angels is a
-> beautiful enrichment of our conception of God’s government of the
-> world.[^51]
+> The question may be asked, if we are not to worship the angels, or in any way pray to them, what is the value of the doctrine that they are “ministering spirits”? In answer we can say at least that the Scriptural teaching in regard to the ministry of the angels is a beautiful enrichment of our conception of God’s government of the world.[^51]
 
-As God’s celestial servants who carry out His purposes, we may observe
-that their ministry falls into several different
+As God’s celestial servants who carry out His purposes, we may observe that their ministry falls into several different
 relationships:[^52]
 
-***In Relation to God:*** In their service to God, they are seen as
-attendants around His throne, waiting to serve Him and do His bidding
-(Ps. 103:20; Isa. 6:1f; Job 1:6; 2:1; Rev. 5:11; 8:1f), as worshippers
-in praise of Him (Isa. 6:3; Ps. 148:1-2; Heb. 1:6; Rev. 5:12), as
-observers who rejoice over what He does (Job 38:6-7; Luke 2:12-13;
-15:10), as soldiers in battle with Satan (Rev. 12:7), and as instruments
-of His judgments (Rev. 7:1; 8:2).
+***In Relation to God:*** In their service to God, they are seen as attendants around His throne, waiting to serve Him and do His bidding (Ps. 103:20; Isa. 6:1f; Job 1:6; 2:1; Rev. 5:11; 8:1f), as worshippers in praise of Him (Isa. 6:3; Ps. 148:1-2; Heb. 1:6; Rev. 5:12), as observers who rejoice over what He does (Job 38:6-7; Luke 2:12-13; 15:10), as soldiers in battle with Satan (Rev. 12:7), and as instruments of His judgments (Rev. 7:1; 8:2).
 
-***In Relation to the Nations:*** In relation to the nation of Israel,
-Michael, the archangel, seems to have a very important ministry as their
-guardian (Dan. 10:13, 21; 12:1; Jude 9). In relation to other nations,
-they watch over rulers and nations (Dan. 4:17) and seek to influence
-their human leaders (Dan. 10:21; 11:1). In the Tribulation they will be
-the agents God uses to pour out His judgments (see Rev. 8-9 and 16).
+***In Relation to the Nations:*** In relation to the nation of Israel, Michael, the archangel, seems to have a very important ministry as their guardian (Dan. 10:13, 21; 12:1; Jude 9). In relation to other nations, they watch over rulers and nations (Dan. 4:17) and seek to influence their human leaders (Dan. 10:21; 11:1). In the Tribulation they will be the agents God uses to pour out His judgments (see Rev. 8-9 and 16).
 
-***In Relation to Christ:*** with the plan of God centering in the
-person of His Son, Jesus Christ, they naturally perform many services
-for the Savior.
+***In Relation to Christ:*** with the plan of God centering in the person of His Son, Jesus Christ, they naturally perform many services for the Savior.
 
--   **In relation to His birth**, they predicted it (Matt. 1:20; Luke
-    1:26-28) and then announced his birth (Luke 2:8-15). An angel warned
-    Joseph to take Mary and the baby Jesus and flee into Egypt (Matt.
-    2:13-15), and an angel directed the family to return to Israel after
-    Herod died (vv. 19-21).
+* **In relation to His birth**, they predicted it (Matt. 1:20; Luke 1:26-28) and then announced his birth (Luke 2:8-15). An angel warned Joseph to take Mary and the baby Jesus and flee into Egypt (Matt. 2:13-15), and an angel directed the family to return to Israel after Herod died (vv. 19-21).
 
--   **In relation to His suffering**, angels ministered to Him after His
-    temptation (4:11), in His stress in the Garden of Gethsemane (Luke
-    22:43), and Jesus said He could have called a legion of angels who
-    stood ready to come to His defense if He so desired (Matt. 26:53).
+* **In relation to His suffering**, angels ministered to Him after His temptation (4:11), in His stress in the Garden of Gethsemane (Luke 22:43), and Jesus said He could have called a legion of angels who stood ready to come to His defense if He so desired (Matt. 26:53).
 
--   **In relation to His resurrection**, an angel rolled away the stone
-    from the tomb (28:1-2), angels announced His resurrection to the
-    women on Easter morning (vv. 5-6; Luke 24:5-7), and angels were
-    present at His ascension and gave instruction to the disciples (Acts
-    1:10-11).
+* **In relation to His resurrection**, an angel rolled away the stone from the tomb (28:1-2), angels announced His resurrection to the women on Easter morning (vv. 5-6; Luke 24:5-7), and angels were present at His ascension and gave instruction to the disciples (Acts 1:10-11).
 
--   **In relation to His coming again**, the voice of the archangel will
-    be heard at the translation of the church (1 Thess. 4:16), they will
-    accompany Him in His glorious return to earth (Matt. 25:31; 2 Thess.
-    1:7) and they will separate the wheat from the tares at Christ’s
-    second coming (Matt. 13:39-40).
+* **In relation to His coming again**, the voice of the archangel will be heard at the translation of the church (1 Thess. 4:16), they will accompany Him in His glorious return to earth (Matt. 25:31; 2 Thess. 1:7) and they will separate the wheat from the tares at Christ’s second coming (Matt. 13:39-40).
 
-***In Relation to the Unrighteous:*** Angels not only announce and
-inflict judgment (Gen. 19:13; Rev. 14:6-7; Acts 12:23; Rev. 16:1), but
-they will separate the righteous from the unrighteous (Matt. 13:39-40).
+* **In Relation to the Unrighteous:*** Angels not only announce and inflict judgment (Gen. 19:13; Rev. 14:6-7; Acts 12:23; Rev. 16:1), but they will separate the righteous from the unrighteous (Matt. 13:39-40).
 
-***In Relation to the Church:*** Hebrews 1:14 describes their ministry
-as “ministering spirits, sent out to render service for the sake of
-those who will inherit salvation.” In this, however, Scripture points to
-a number of specific ministries: they bring answers to prayer (Acts
-12:5-10), they help in bringing people to the Savior (Acts 8:26; 10:3),
-they may encourage in times of danger (Acts 27:23-24), and they care for
-God’s people at the time of death (Luke 16:22).
+* **In Relation to the Church:*** Hebrews 1:14 describes their ministry as “ministering spirits, sent out to render service for the sake of those who will inherit salvation.” In this, however, Scripture points to a number of specific ministries: they bring answers to prayer (Acts 12:5-10), they help in bringing people to the Savior (Acts 8:26; 10:3), they may encourage in times of danger (Acts 27:23-24), and they care for God’s people at the time of death (Luke 16:22).
 
-***In Relation to New Epochs:*** Ryrie points out that angels appear to
-be unusually active when God institutes a new epoch in the sweep of
-history and then outlines this for us:
+* **In Relation to New Epochs:*** Ryrie points out that angels appear to be unusually active when God institutes a new epoch in the sweep of history and then outlines this for us:
 
 A. They Joined in Praise When the Earth Was Created (Job 38:6-7)
 
-B. They Were Involved in the Giving of the Mosaic Law (Gal. 3:19; Heb.
-2:2)
+B. They Were Involved in the Giving of the Mosaic Law (Gal. 3:19; Heb. 2:2)
 
 C. They Were Active at the First Advent of Christ (Matt. 1:20; 4:11)
 
-D. They Were Active During the Early Years of the Church (Acts 8:26;
-10:3, 7; 12:11)
+D. They Were Active During the Early Years of the Church (Acts 8:26; 10:3, 7; 12:11)
 
-E. They Will Be Involved in Events Surrounding the Second Advent of
-Christ (Matt. 25:31; 1 Thes.
-4:1)[^53]
+E. They Will Be Involved in Events Surrounding the Second Advent of Christ (Matt. 25:31; 1 Thes. 4:1)[^53]
 
-Of course, the ministry of angels occurred at other times, but the
-question naturally arises, especially in view of our present day
-fascination with angels, is there biblical evidence these varied
-ministries of angels continue to function in the present age of the
-church?
+Of course, the ministry of angels occurred at other times, but the question naturally arises, especially in view of our present day fascination with angels, is there biblical evidence these varied ministries of angels continue to function in the present age of the church?
 
-> Whether angels continue to function in all these ways throughout the
-> present age is uncertain. But they did perform these ministries and
-> may well continue to do so even though we are not aware of them. Of
-> course, God is not obliged to use angels; He can do all these things
-> directly.  But seemingly He chooses to employ the intermediate
-> ministry of angels on many occasions. Nevertheless, the believer
-> recognizes that it is the Lord who does these things whether directly
-> through using angels (notice Peter’s testimony that the Lord delivered
-> him from the prison though God actually used an angel to accomplish
-> it, Acts 12:7-10 compared with vv.  11 and 17).
+> Whether angels continue to function in all these ways throughout the present age is uncertain. But they did perform these ministries and may well continue to do so even though we are not aware of them. Of course, God is not obliged to use angels; He can do all these things directly.  But seemingly He chooses to employ the intermediate ministry of angels on many occasions. Nevertheless, the believer recognizes that it is the Lord who does these things whether directly through using angels (notice Peter’s testimony that the Lord delivered him from the prison though God actually used an angel to accomplish
+it, Acts 12:7-10 compared with vv.  11 and 17).
 > 
-> Perhaps an inscription I once saw in an old church in Scotland states
-> the balance well.
+> Perhaps an inscription I once saw in an old church in Scotland states the balance well.
 > 
-> “Though God’s Power Be Sufficient to Govern Us,  Yet for Man’s
-> Infirmity He appointed His Angels to Watch over Us.”[^54]
+> “Though God’s Power Be Sufficient to Govern Us,  Yet for Man’s Infirmity He appointed His Angels to Watch over Us.”[^54]
 
-Hebrews 13:2 reads, “Do not neglect to show hospitality to strangers,
-for by this some have entertained angels without knowing it” (NIV).
-Entertaining angels unawares brings to mind Abraham (Gen. 18:1ff.) and
-Lot (Gen. 19:1ff.), but even this statement does not prove angels
-function today as in Old and New Testament times. As Ryrie points out,
-‘The word “angel” may refer to superhuman beings (see Gen. 18:1-8 for an
-example of such entertaining) or it may refer to a human being who is a
-messenger from God (see James 2:25 for an example of such
-entertaining).’[^55]
+Hebrews 13:2 reads, “_Do not neglect to show hospitality to strangers, for by this some have entertained angels without knowing it_” (NIV). Entertaining angels unawares brings to mind Abraham (Gen. 18:1ff.) and Lot (Gen. 19:1ff.), but even this statement does not prove angels function today as in Old and New Testament times. As Ryrie points out, ‘The word “angel” may refer to superhuman beings (see Gen. 18:1-8 for an example of such entertaining) or it may refer to a human being who is a
+messenger from God (see James 2:25 for an example of such entertaining).’[^55]
 
-Perhaps no aspect of their ministry to man is more talked about than the
-idea of “a guardian angel.” People often ask, “Does everyone have a
-guardian angel?” The concept that every person has a specific guardian
-angel is only by implication from the statement that angels do guard or
-protect as Psalm 91:11 declares. But this passage is directed to those
-who make the Lord their refuge.
+Perhaps no aspect of their ministry to man is more talked about than the idea of “a guardian angel.” People often ask, “Does everyone have a guardian angel?” The concept that every person has a specific guardian angel is only by implication from the statement that angels do guard or protect as Psalm 91:11 declares. But this passage is directed to those who make the Lord their refuge.
 
-> The psalmist explained that **no harm** or **disaster** can **befall**
-> those who have made **theLord** their **refuge** (mah£seh, “shelter
-> from danger”;) because He has commissioned **angels** to care for
-> them.  Angels protect from physical harm and give believers strength
-> to overcome difficulties, pictured here as wild lions and dangerous
-> snakes.  Satan, in tempting Christ, quoted 91:11-12 (Matt. 4:6), which
-> shows that even God’s most marvelous promises can be foolishly
+> The psalmist explained that **no harm** or **disaster** can **befall** those who have made **the Lord** their **refuge** (mah£seh, “shelter from danger”;) because He has commissioned **angels** to care for them.  Angels protect from physical harm and give believers strength to overcome difficulties, pictured here as wild lions and dangerous snakes.  Satan, in tempting Christ, quoted 91:11-12 (Matt. 4:6), which shows that even God’s most marvelous promises can be foolishly
 > applied.[^56]
 
-Some would claim that this Old Testament passage should not be applied
-in modern times, but in Hebrews 1:14 the author of Hebrews does not seem
-to draw that distinction. That they are ministering spirits who minister
-to the saints is presented as a general truth of the Bible and should
-not be restricted to Bible times.
+Some would claim that this Old Testament passage should not be applied in modern times, but in Hebrews 1:14 the author of Hebrews does not seem to draw that distinction. That they are ministering spirits who minister to the saints is presented as a general truth of the Bible and should not be restricted to Bible times.
 
-Surely it is comforting to know that God may protect, provide, and
-encourage us through His angels, but this fact does not always guarantee
-such deliverance, and certainly we should never presume on this
-provision of God. So having considered the various ways angels minister,
-we should keep in mind that God does not always deliver us from danger
-or supply our needs in miraculous ways whether by angels or by His
-direct intervention. For His own sovereign and wise purposes, the
-opposite is sometimes His will as life clearly illustrates and Scripture
-declares (see Heb. 11:36-40).
+Surely it is comforting to know that God may protect, provide, and encourage us through His angels, but this fact does not always guarantee such deliverance, and certainly we should never presume on this provision of God. So having considered the various ways angels minister, we should keep in mind that God does not always deliver us from danger or supply our needs in miraculous ways whether by angels or by His direct intervention. For His own sovereign and wise purposes, the opposite is sometimes His will as life clearly illustrates and Scripture declares (see Heb. 11:36-40).
 
-But there is another truth regarding angels that needs to be kept in
-view. Just as people usually do not think of the punitive ministry of
-angels, so people, in their popular ideas about angels, often ignore the
-Scripture’s teaching about the deception of Satan’s evil angels (2 Cor.
-11:14-15). That society is ignorant of this is not without reason. The
-reason lies in Satan’s deception and in the vacuum of man’s heart as he
-continues to seek answers apart from God and Scripture’s revelation of
-God and His plan of salvation in Christ. As the arch deceiver and
-antagonist to God, to the church, and to mankind as whole, Satan is the
-master of disguise. Much of how society thinks today in its enchantment
-with angels is clearly a product of his masquerade as an angel of light
-with his angels who also disguise themselves in keeping with his
-purposes. Investigate what is being written in books and said in
-seminars and you will find numerous publications and teaching filled
-with what is nothing less than pure demonic deception. For more on this
-whole issue as it applies to today’s fascination with angels, see the
-study, “Angels, God’s Ministering Spirits” on our web page in the
-theology section.
+But there is another truth regarding angels that needs to be kept in view. Just as people usually do not think of the punitive ministry of angels, so people, in their popular ideas about angels, often ignore the Scripture’s teaching about the deception of Satan’s evil angels (2 Cor. 11:14-15). That society is ignorant of this is not without reason. The reason lies in Satan’s deception and in the vacuum of man’s heart as he continues to seek answers apart from God and Scripture’s revelation of God and His plan of salvation in Christ. As the arch deceiver and antagonist to God, to the church, and to mankind as whole, Satan is the master of disguise. Much of how society thinks today in its enchantment with angels is clearly a product of his masquerade as an angel of light with his angels who also disguise themselves in keeping with his
+purposes. Investigate what is being written in books and said in seminars and you will find numerous publications and teaching filled with what is nothing less than pure demonic deception. For more on this whole issue as it applies to today’s fascination with angels, see the study, “Angels, God’s Ministering Spirits” on our web page in the theology section.
 
-The Watchfulness of Angels
---------------------------
+# The Watchfulness of Angels
 
-#### The Fact of Their Watchfulness
+## The Fact of Their Watchfulness
 
-Significantly, a number of passages speak of the angels as observers.
-Some are surprised by this truth, but the Bible teaches us that angels
-are spectators of God’s activities in the world and that they are
-especially keen on observing the unfolding of His plan of redemption.
-Since a number of passages specifically address the fact angels are
-spectators of what God does, we would be remiss to ignore this biblical
-truth for there is certainly a reason and a lesson to be learned from
-this (Job 38:7; Luke 15:10; 1 Cor. 4:9; 11:10; Eph. 3:10; Tim. 3:16; 1
-Pet. 1:12).
+Significantly, a number of passages speak of the angels as observers. Some are surprised by this truth, but the Bible teaches us that angels are spectators of God’s activities in the world and that they are especially keen on observing the unfolding of His plan of redemption. Since a number of passages specifically address the fact angels are spectators of what God does, we would be remiss to ignore this biblical truth for there is certainly a reason and a lesson to be learned from
+this (Job 38:7; Luke 15:10; 1 Cor. 4:9; 11:10; Eph. 3:10; Tim. 3:16; 1 Pet. 1:12).
 
-#### The Objects of Their Watchfulness
+## The Objects of Their Watchfulness
 
-As indicated previously, they observed God’s creation and rejoiced (Ps.
-38:7). At seeing the birth of Christ, the angels rejoiced in praise to
-God (Luke 2:13-14) and they witnessed the entirety of Jesus’ life on
-earth (1 Tim. 3:16). They also observe God’s joy when a sinner repents
-(Luke 15:10).[^57] Angels are
-keenly interested in man’s salvation in Christ and carefully observe
-God’s manifold wisdom in the unfolding of His redemptive plan (1 Pet.
-1:12; Eph. 3:10). In the statement, “things into which the angels long
-to look,” “things” are those things that belong to our salvation (vs.
-10), and “long to look” is the same word used of the actions of John and
-Peter and Mary when they stooped down to peer into the empty tomb (Luke
-24:12; John 20:5, 11). The verb, parakuptw, “to bend over,” conveys the
-idea of bending over to see something more clearly or to look intently
-(see also Jam. 1:24).
+As indicated previously, they observed God’s creation and rejoiced (Ps. 38:7). At seeing the birth of Christ, the angels rejoiced in praise to God (Luke 2:13-14) and they witnessed the entirety of Jesus’ life on earth (1 Tim. 3:16). They also observe God’s joy when a sinner repents (Luke 15:10).[^57] Angels are keenly interested in man’s salvation in Christ and carefully observe God’s manifold wisdom in the unfolding of His redemptive plan (1 Pet. 1:12; Eph. 3:10). In the statement, “things into which the angels long to look,” “things” are those things that belong to our salvation (vs. 10), and “long to look” is the same word used of the actions of John and Peter and Mary when they stooped down to peer into the empty tomb (Luke 24:12; John 20:5, 11). The verb, parakuptw, “to bend over,” conveys the idea of bending over to see something more clearly or to look intently (see also Jam. 1:24).
 
-### The Reasons for Their Watchfulness
+## The Reasons for Their Watchfulness
 
-#### The Two Kingdoms and the Angelic Conflict
+### The Two Kingdoms and the Angelic Conflict
 
-A question that naturally arises is why are angels so deeply interested
-and observant of what is happening on this earth? First, as holy
-creatures they are concerned for the worship and glory of God that is
-His due as the holy and infinite Creator. This is clearly evident in
-Isaiah 6:3 where, in antiphonal chorus, seraphim sing of God’s holiness,
-“Holy, Holy, Holy, is the Lord of hosts, The whole earth is full of His
-glory.” John states that in their devotion to God’s worship the living
-creatures never stop saying: “Holy, holy, holy is the Lord God Almighty,
-who was, and is, and is to come” (NIV). Their devotion to God’s glory
-becomes exceedingly prominent and specific in Revelation. In Revelation
-4:8-11, their continuous praise evokes the praise of the twenty-four
-elders which is aimed at God’s worthiness as the Sovereign Creator. Then
-in chapter 5:8-14, angels, accompanied by the twenty-four elders
-(representatives of the church), direct their praise toward God’s
-gracious work of salvation through the Lamb in view of His worthiness to
-open the seven seals. He alone is found worthy to open the seven-sealed
-book and break its seals (cf. Rev. 5:1 with 5:9f).
+A question that naturally arises is why are angels so deeply interested and observant of what is happening on this earth? First, as holy creatures they are concerned for the worship and glory of God that is His due as the holy and infinite Creator. This is clearly evident in Isaiah 6:3 where, in antiphonal chorus, seraphim sing of God’s holiness, “Holy, Holy, Holy, is the Lord of hosts, The whole earth is full of His glory.” John states that in their devotion to God’s worship the living creatures never stop saying: “Holy, holy, holy is the Lord God Almighty, who was, and is, and is to come” (NIV). Their devotion to God’s glory becomes exceedingly prominent and specific in Revelation. In Revelation 4:8-11, their continuous praise evokes the praise of the twenty-four elders which is aimed at God’s worthiness as the Sovereign Creator. Then in chapter 5:8-14, angels, accompanied by the twenty-four elders (representatives of the church), direct their praise toward God’s gracious work of salvation through the Lamb in view of His worthiness to open the seven seals. He alone is found worthy to open the seven-sealed book and break its seals (cf. Rev. 5:1 with 5:9f).
 
-Though we are not told the exact contents of the seven-sealed book,
-written inside and on the back, it undoubtedly contains the story of
-man’s loss of his lordship over the earth (Gen. 1:26) to Satan, the
-usurper, and its recovery through the God-man Savior, the Lion who is
-also the Lamb. This Lamb is alone able to accomplish what no one else in
-the universe is qualified and able to do. The following three truths
-form an important element of God’s revelation:
+Though we are not told the exact contents of the seven-sealed book, written inside and on the back, it undoubtedly contains the story of man’s loss of his lordship over the earth (Gen. 1:26) to Satan, the usurper, and its recovery through the God-man Savior, the Lion who is also the Lamb. This Lamb is alone able to accomplish what no one else in the universe is qualified and able to do. The following three truths form an important element of God’s revelation:
 
-(1)***God’s Purpose Declared:*** It was God’s intention that man would
-rule over this earth under God’s authority (Gen. 1:26; Ps. 8:4-6; Heb.
-2:5-8a).
+1. **God’s Purpose Declared:** It was God’s intention that man would rule over this earth under God’s authority (Gen. 1:26; Ps. 8:4-6; Heb. 2:5-8a).
 
-(2)***God’s Purpose Delayed:*** Because of the fall, as recorded in
+2. **God’s Purpose Delayed:** Because of the fall, as recorded in
 Genesis 3, Satan wrested the rule away from man (cf. Heb. 2:5 with
 2:8b). God’s intention was for man to rule over this earth, never
 angels, much less the fallen angels.
 
-(3)***God’s Purpose Fulfilled:*** But as promised in Genesis 3:15, the
-Lamb breaks Satan’s hold by means of His incarnation, sinless life,
-death, resurrection, ascension (see Heb. 2:9-14) and will one day
-recover that which was lost through the judgments of the seven seals as
-described in Revelation 6-19.
+2. **God’s Purpose Fulfilled:** But as promised in Genesis 3:15, the Lamb breaks Satan’s hold by means of His incarnation, sinless life, death, resurrection, ascension (see Heb. 2:9-14) and will one day recover that which was lost through the judgments of the seven seals as described in Revelation 6-19.
 
-One of the key features of Revelation concerns the two kingdoms: the
-kingdom of the world (Satan’s kingdom) and the kingdom of God. The words
-“king, kings, kingdom,” etc., occur thirty times in twenty-five verses
-in this book. In view of the struggle between the two kingdoms, there is
-a joyous celebration of voices raised in heaven at the sounding of the
-seventh trumpet in anticipation of what the seventh trumpet would
-accomplish.[^58] This surely
-includes the holy angels:
+One of the key features of Revelation concerns the two kingdoms: the kingdom of the world (Satan’s kingdom) and the kingdom of God. The words “king, kings, kingdom,” etc., occur thirty times in twenty-five verses in this book. In view of the struggle between the two kingdoms, there is a joyous celebration of voices raised in heaven at the sounding of the seventh trumpet in anticipation of what the seventh trumpet would accomplish.[^58] This surely includes the holy angels:
 
-> **Revelation 11:15** And the seventh angel sounded; and there arose
-> loud voices in heaven, saying, “The kingdom of the world has become
-> *the kingdom*of our Lord, and of His Christ; and He will reign forever
-> and ever.”
+> **Revelation 11:15** And the seventh angel sounded; and there arose loud voices in heaven, saying, “The kingdom of the world has become *the kingdom* of our Lord, and of His Christ; and He will reign forever and ever.”
 
-The issue of Satan’s rebellion to God’s authority may well explain
-Paul’s statement in 1 Corinthians 11:10 that a woman is to have a symbol
-of authority on her head because of the angels. This suggests that one
-of the areas angels observe is that of submission to authority.
-Submission glorifies God while rebellion dishonors God and promotes
-Satan’s goals. At the root of the angels’ keen interest in what God is
-doing today is the rebellion and fall of Satan. As observers, all the
-angels were present when Satan, in his quest to be like the Most High,
-sought to usurp God’s sovereign rule (see Isa. 14:12-15). This was an
-offense to the glory of God. It appears from Revelation 12:3-4 that
-one-third of the angelic hosts chose to follow Satan. Because of Satan’s
-sin, he was thrust out of his exalted place and became the great
-adversary of God and God’s people (see Ezek.  28:11-19).[^59] In
-addition, the Lord also explicitly tells us that the lake of fire was
-prepared for Satan and his angels (Matt. 25:41). Though a defeated foe
-(cf. Col.  2:15), Satan is not confined there now, but he and his fallen
-angels will be and this is a great point of anticipation in the Bible
-(cf. Rom.  16:20; Rev. 20:10).
+The issue of Satan’s rebellion to God’s authority may well explain Paul’s statement in 1 Corinthians 11:10 that a woman is to have a symbol of authority on her head because of the angels. This suggests that one of the areas angels observe is that of submission to authority. Submission glorifies God while rebellion dishonors God and promotes Satan’s goals. At the root of the angels’ keen interest in what God is doing today is the rebellion and fall of Satan. As observers, all the angels were present when Satan, in his quest to be like the Most High, sought to usurp God’s sovereign rule (see Isa. 14:12-15). This was an offense to the glory of God. It appears from Revelation 12:3-4 that one-third of the angelic hosts chose to follow Satan. Because of Satan’s sin, he was thrust out of his exalted place and became the great adversary of God and God’s people (see Ezek.  28:11-19).[^59] In addition, the Lord also explicitly tells us that the lake of fire was prepared for Satan and his angels (Matt. 25:41). Though a defeated foe (cf. Col.  2:15), Satan is not confined there now, but he and his fallen angels will be and this is a great point of anticipation in the Bible (cf. Rom.  16:20; Rev. 20:10).
 
-#### Satan’s Characterization as the Slanderer
+### Satan’s Characterization as the Slanderer
 
-An understanding of one of Satan’s names is helpful here and is loaded
-with implications. The term, *devil*, as used so often of Satan, means,
-“slanderer, defamer, one who accuses falsely.”[^60] This name reveals
-him in one of his key characterizations in Scripture. As “the
-slanderer,” he is one who defames the character of God and one of the
-ways he seeks to do this is by accusing believers (Rev. 12:10). The book
-of Job gives us a good illustration of his defaming accusations against
-believers and how, at the same time, he seeks to malign the character of
-God. When you read the first two chapters of Job, the true purpose of
-Satan’s accusations become quickly evident. Satan’s claim was that Job
-only worshipped God because of all God had given to him; it was not
-because Job loved God for who He was or because God deserved to be
-worshipped as the Holy and Sovereign Creator. Just take away all that he
-has and he will curse you, was the essence of Satan’s accusation (cf.
-Job 1:6-11; 2:1-6).
+An understanding of one of Satan’s names is helpful here and is loaded with implications. The term, *devil*, as used so often of Satan, means, “slanderer, defamer, one who accuses falsely.”[^60] This name reveals him in one of his key characterizations in Scripture. As “the slanderer,” he is one who defames the character of God and one of the ways he seeks to do this is by accusing believers (Rev. 12:10). The book of Job gives us a good illustration of his defaming accusations against believers and how, at the same time, he seeks to malign the character of God. When you read the first two chapters of Job, the true purpose of Satan’s accusations become quickly evident. Satan’s claim was that Job only worshipped God because of all God had given to him; it was not because Job loved God for who He was or because God deserved to be worshipped as the Holy and Sovereign Creator. Just take away all that he has and he will curse you, was the essence of Satan’s accusation (cf. Job 1:6-11; 2:1-6).
 
-#### Satan’s Characterization of God
+### Satan’s Characterization of God
 
-From the Bible’s characterization of Satan as “adversary” (1 Pet.
-5:8)[^61] and “the devil,”[^62] and from his activities as seen in
-Scripture, it seems only logical that Satan may have argued that God was
-unloving and that His judgment of Satan and his angels to the lake of
-fire was unfair and unjust. Shortly after the creation of Adam and Eve,
-the devil’s attack on the character of God as unfair becomes immediately
-evident in the slanderous nature of his questions and statements to Eve
-in the temptation (Gen. 3:1-5). So today, from a world that lies under
-his deception (see John 12:31; 16:11; Eph. 2:2; 2 Cor. 4:3-4), there is
-a common sentiment echoed among many who, rejecting God’s Word, may say,
-“The God of the Bible is vengeful. How could a loving God send people to
-hell? I refuse to believe in a God like that.”
+From the Bible’s characterization of Satan as “adversary” (1 Pet. 5:8)[^61] and “the devil,”[^62] and from his activities as seen in Scripture, it seems only logical that Satan may have argued that God was unloving and that His judgment of Satan and his angels to the lake of fire was unfair and unjust. Shortly after the creation of Adam and Eve, the devil’s attack on the character of God as unfair becomes immediately evident in the slanderous nature of his questions and statements to Eve in the temptation (Gen. 3:1-5). So today, from a world that lies under his deception (see John 12:31; 16:11; Eph. 2:2; 2 Cor. 4:3-4), there is a common sentiment echoed among many who, rejecting God’s Word, may say, “_The God of the Bible is vengeful. How could a loving God send people to hell? I refuse to believe in a God like that._”
 
-#### A Reason for Man
+### A Reason for Man
 
-Part of the reason for man’s creation and for God’s plan of salvation in
-Christ is to demonstrate the truth of God’s character as wise, holy,
-just, loving, gracious, merciful, and good. In His holiness and justice,
-God had no other choice but to judge Satan and his angels to the lake of
-fire. The same is true with sinful man. But God is also merciful,
-gracious, and loving, so He provided a solution through the cross so
-that man could have eternal life. This gracious plan of love was not
-only anticipated in the Old Testament, but was actually first announced
-to the serpent (the devil in disguise) in Genesis 3:16, which is
-significant in view of the angelic conflict and the slanderous
-accusations of Satan. Man’s redemption and the recovery of paradise lost
-has always been based on what God would do through the seed of the
-woman, the Messiah Savior who would die as man’s substitute, but also
-defeat Satan and, by implication, demonstrate Satan’s slander as false
+Part of the reason for man’s creation and for God’s plan of salvation in Christ is to demonstrate the truth of God’s character as wise, holy, just, loving, gracious, merciful, and good. In His holiness and justice, God had no other choice but to judge Satan and his angels to the lake of fire. The same is true with sinful man. But God is also merciful, gracious, and loving, so He provided a solution through the cross so that man could have eternal life. This gracious plan of love was not only anticipated in the Old Testament, but was actually first announced to the serpent (the devil in disguise) in Genesis 3:16, which is significant in view of the angelic conflict and the slanderous accusations of Satan. Man’s redemption and the recovery of paradise lost has always been based on what God would do through the seed of the woman, the Messiah Savior who would die as man’s substitute, but also defeat Satan and, by implication, demonstrate Satan’s slander as false
 (cf. Isa. 53; Rom. 3:21-26; Col. 2:10-15; Heb. 2:14-16).
 
-The Scriptures disclose the truth that the angels learn much about God
-from His activities through the person and work of Christ and through
-the church, especially in the unfolding of God’s plan of redemption.
-Concerning the sufferings of Christ, the glories that will follow, and
-the things announced to believers through those who preached the gospel
-by the Holy Spirit, Peter declared, “things into which angels long to
-look” (see 1 Pet. 1:11-12). Then, along a similar line Paul wrote,
+The Scriptures disclose the truth that the angels learn much about God from His activities through the person and work of Christ and through the church, especially in the unfolding of God’s plan of redemption. Concerning the sufferings of Christ, the glories that will follow, and the things announced to believers through those who preached the gospel by the Holy Spirit, Peter declared, “things into which angels long to look” (see 1 Pet. 1:11-12). Then, along a similar line Paul wrote,
 
-> Ephesians 3:8-11 To me, the very least of all saints, this grace was
-> given, to preach to the Gentiles the unfathomable riches of Christ, 9
-> and to bring to light what is the administration of the mystery which
-> for ages has been hidden in God, who created all things; 10 in order
-> that the manifold wisdom of God might now be made known through the
-> church to the rulers and the authorities in the heavenly places. 11
-> This was in accordance with the eternal purpose which He carried out
-> in Christ Jesus our Lord.
+> **Ephesians 3:8-11** To me, the very least of all saints, this grace was given, to preach to the Gentiles the unfathomable riches of Christ, 9 and to bring to light what is the administration of the mystery which for ages has been hidden in God, who created all things; 10 in order that the manifold wisdom of God might now be made known through the church to the rulers and the authorities in the heavenly places. 11 This was in accordance with the eternal purpose which He carried out in Christ Jesus our Lord.
 
 Consequently, the church becomes a means of unveiling both the manifold
 wisdom and grace of God to angels, for in Ephesians 2:4-7 Paul wrote:
 
-> But God, being rich in mercy, because of His great love with which He
-> loved us, 5 even when we were dead in our transgressions, made us
-> alive together with Christ (by grace you have been saved), 6 and
-> raised us up with Him, and seated us with Him in the heavenly places,
-> in Christ Jesus, 7 in order that in the ages to come He might show the
-> surpassing riches of His grace in kindness toward us in Christ Jesus.
+> **Ephesians 2:4-7** But God, being rich in mercy, because of His great love with which He loved us, 5 even when we were dead in our transgressions, made us alive together with Christ (by grace you have been saved), 6 and raised us up with Him, and seated us with Him in the heavenly places, in Christ Jesus, 7 in order that in the ages to come He might show the surpassing riches of His grace in kindness toward us in Christ Jesus.
 
 Chafer quotes Otto Von Gerlach who pointed out:
 
-> By the revelation of Himself in Christ, by the institution of the
-> Christian Church on earth, God after a manner hitherto unknown
-> glorifies Himself before the heavenly principalities. They who until
-> now had, filled with awe, been praising Him for the wonder of
-> creation, now see His wisdom glorified in a new form in the Christian
-> communion through the manifold ways by which lost men are saved.
-> Entirely new and inexhaustible wealth of divine wisdom was manifested
-> in redemption.[^63]
+> By the revelation of Himself in Christ, by the institution of the Christian Church on earth, God after a manner hitherto unknown glorifies Himself before the heavenly principalities. They who until now had, filled with awe, been praising Him for the wonder of creation, now see His wisdom glorified in a new form in the Christian communion through the manifold ways by which lost men are saved. Entirely new and inexhaustible wealth of divine wisdom was manifested in redemption.[^63]
 
-#### Victory Anticipated
+### Victory Anticipated
 
-Revelation 4-5 sets forth heaven’s perspective in preparation for the
-judgments that will follow on earth as described in chapters 6-19. It is
-these judgments that defeat Satan and his world system and establish
-God’s Son on His throne on earth. In these two chapters, however, there
-is a strong emphasis on the holiness of God, His worthiness to receive
-glory and honor, and on the worthiness of the Lamb, the Lord Jesus, to
-open and pour out the seals and to reign and receive glory and honor.
-And who are also prominent in these two chapters? The angels!
+Revelation 4-5 sets forth heaven’s perspective in preparation for the judgments that will follow on earth as described in chapters 6-19. It is these judgments that defeat Satan and his world system and establish God’s Son on His throne on earth. In these two chapters, however, there is a strong emphasis on the holiness of God, His worthiness to receive glory and honor, and on the worthiness of the Lamb, the Lord Jesus, to open and pour out the seals and to reign and receive glory and honor. And who are also prominent in these two chapters? The angels!
 
-In view of this scenario, we can see why God’s holy angels are so keenly
-interested in our salvation because in it they observe the manifold
-wisdom, love, grace, and holiness of God (Eph. 3:10; 1 Pet. 1:12). This
-becomes even more of an issue when one considers the rebellion and
-accusations of Satan in light of the condescension of Christ whose
-entire life they witnessed (1 Tim. 3:16). To witness the submission and
-condescension of God incarnate, even to the death of the cross, was an
-awesome declaration of God’s character as holy and immutable.
+In view of this scenario, we can see why God’s holy angels are so keenly interested in our salvation because in it they observe the manifold wisdom, love, grace, and holiness of God (Eph. 3:10; 1 Pet. 1:12). This becomes even more of an issue when one considers the rebellion and accusations of Satan in light of the condescension of Christ whose entire life they witnessed (1 Tim. 3:16). To witness the submission and condescension of God incarnate, even to the death of the cross, was an awesome declaration of God’s character as holy and immutable.
 
-> What amazing condescension! *Obeying his own law as if he were a mere
-> creature, and in the attitude of a servant!* This was new. They had
-> seen him as the governor of the universe; but never till now as a
-> subject!  *Encountering Satan in conflict and prolonged temptation!*
-> This was new.[^64]
+> What amazing condescension! *Obeying his own law as if he were a mere creature, and in the attitude of a servant!* This was new. They had seen him as the governor of the universe; but never till now as a subject!  *Encountering Satan in conflict and prolonged temptation!* > This was new.[^64]
 
-Think of this! They had seen Satan cast down from his exalted position
-and sentenced to the lake of fire because of his pride and rebellion,
-but in Christ’s incarnation and submissive life, even to the cross, they
-have the ultimate example of God’s holiness, love, grace, and mercy and
-the justness of Satan’s sentence.
+Think of this! They had seen Satan cast down from his exalted position and sentenced to the lake of fire because of his pride and rebellion, but in Christ’s incarnation and submissive life, even to the cross, they have the ultimate example of God’s holiness, love, grace, and mercy and the justness of Satan’s sentence.
 
-But what about the fallen angels? Evidently, there was a time of grace
-and testing for the angels before Satan’s fall, but they now remain
-confirmed in their fallen state just as those who die without Christ
-will remain in their fallen state to face the Great White Throne
-Judgment and eternal separation from God.
+But what about the fallen angels? Evidently, there was a time of grace and testing for the angels before Satan’s fall, but they now remain confirmed in their fallen state just as those who die without Christ will remain in their fallen state to face the Great White Throne Judgment and eternal separation from God.
 
-The Angelic Conflict and the Moral Problem of Evil
---------------------------------------------------
+# The Angelic Conflict and the Moral Problem of Evil
 
-Understanding the above scenario provides us with part of the answer to
-the age old question of how a God who is good could permit evil,
-especially if He is omniscient and omnipotent. Contrary to Scripture,
-which declares the omnipotence and omniscience of God, some have sought
-to answer the problem by claiming that though God is good, He was
-helpless to stop evil from happening. Though it is only by implication,
-the Bible alone gives us an answer to the problem of evil, which lies,
-in part at least, in the angelic conflict briefly described in the
-preceding paragraphs. Certain things are basic to a discussion of this
-issue.
+Understanding the above scenario provides us with part of the answer to the age old question of how a God who is good could permit evil, especially if He is omniscient and omnipotent. Contrary to Scripture, which declares the omnipotence and omniscience of God, some have sought to answer the problem by claiming that though God is good, He was helpless to stop evil from happening. Though it is only by implication, the Bible alone gives us an answer to the problem of evil, which lies,
+in part at least, in the angelic conflict briefly described in the preceding paragraphs. Certain things are basic to a discussion of this issue.
 
-Scripture reveals God to be perfect in holiness, love, benevolence,
-grace, and mercy. This means God cannot do evil because evil is contrary
-to His Holy character. For instance, God cannot lie (Tit. 1:2). Further,
-He cannot tempt the creature to sin (Jam. 1:13). He cannot be the author
-of sin because He has judged all evil and to author sin would be
-contrary to His perfect justice and righteousness. God could not judge
-sin in the creature if He was the author of the creature’s sin.
-Therefore, though allowed by God, evil did not originate from God. It
-originated from something outside of God.
+Scripture reveals God to be perfect in holiness, love, benevolence, grace, and mercy. This means God cannot do evil because evil is contrary to His Holy character. For instance, God cannot lie (Tit. 1:2). Further, He cannot tempt the creature to sin (Jam. 1:13). He cannot be the author of sin because He has judged all evil and to author sin would be contrary to His perfect justice and righteousness. God could not judge sin in the creature if He was the author of the creature’s sin.
+Therefore, though allowed by God, evil did not originate from God. It originated from something outside of God.
 
-According to the Bible, the original human sin as recorded in Genesis 3
-is not the first sin in the universe. The Bible reveals the moral
-problem is related to: (1) the fall of Satan and his angels into sin;
-(2) Satan’s characterization as the slandering adversary of God; (3)
-God’s purpose for man to rule on the earth with the loss of that rule
-through man’s temptation and fall into sin; and (4) man’s redemption and
-the recovery of that rule through the sinless God-man Savior who bore
-the penalty for our sin.
+According to the Bible, the original human sin as recorded in Genesis 3 is not the first sin in the universe. The Bible reveals the moral problem is related to: (1) the fall of Satan and his angels into sin; (2) Satan’s characterization as the slandering adversary of God; (3) God’s purpose for man to rule on the earth with the loss of that rule through man’s temptation and fall into sin; and (4) man’s redemption and the recovery of that rule through the sinless God-man Savior who bore the penalty for our sin.
 
-> In the study of this moral problem certain facts emerge. It is clear
-> that God in creating angels and men created them as moral creatures
-> with the power of choice. The sin problem is present when a moral
-> creature chooses sin instead of righteousness. This is the explanation
-> for the fall of angels and the fall of men.[^65]
+> In the study of this moral problem certain facts emerge. It is clear that God in creating angels and men created them as moral creatures with the power of choice. The sin problem is present when a moral creature chooses sin instead of righteousness. This is the explanation for the fall of angels and the fall of men.[^65]
 
-Scripture’s revelation of Satan’s fall, man’s fall, and the ensuing
-angelic conflict envelops us in things far beyond our comprehension.
-Nevertheless, the Bible teaches that God created the angels and man. As
-suggested by the fellowship that can be observed in the Trinity between
-the Father, Son, and Holy Spirit, God’s very being necessitated that He
-bring forth creatures for fellowship, but He did not create these
-creatures as robots who have no choice. There would be no fellowship or
-glory with a mechanical robot that had no choice. God gave both angels
-and human beings personalities with intellect, emotion, and volition. By
-the exercise of this personality, both mankind and angels could have
-fellowship with God and bring glory to Him. But, though created perfect
-and without sin, freedom of choice also meant the possibility, known
-from eternity by God, that Satan and mankind could choose against God,
-which both did. So why did God allow it? Perhaps the answer lies in the
-aftermath of sin since God’s glory is displayed even more. Just as
-nothing displays the splendor of a diamond in the light more than a
-backdrop of black velvet, so nothing could display the glory of God’s
-mercy, goodness, grace, and love as much as the blackness of man’s sin.
+Scripture’s revelation of Satan’s fall, man’s fall, and the ensuing angelic conflict envelops us in things far beyond our comprehension. Nevertheless, the Bible teaches that God created the angels and man. As suggested by the fellowship that can be observed in the Trinity between the Father, Son, and Holy Spirit, God’s very being necessitated that He bring forth creatures for fellowship, but He did not create these creatures as robots who have no choice. There would be no fellowship or glory with a mechanical robot that had no choice. God gave both angels and human beings personalities with intellect, emotion, and volition. By the exercise of this personality, both mankind and angels could have fellowship with God and bring glory to Him. But, though created perfect and without sin, freedom of choice also meant the possibility, known from eternity by God, that Satan and mankind could choose against God, which both did. So why did God allow it? Perhaps the answer lies in the aftermath of sin since God’s glory is displayed even more. Just as nothing displays the splendor of a diamond in the light more than a backdrop of black velvet, so nothing could display the glory of God’s mercy, goodness, grace, and love as much as the blackness of man’s sin.
 
-Because this perplexes the human mind, many reject the whole idea of God
-or postulate weakness to God or in some way find fault with God. But the
-Bible has some important words of warning regarding such a response and
-the story of Job, his trials, the activity of Satan and the good angels
-as mentioned in Job are instructive here. The book of Job is significant
-to questions regarding the moral problem of evil and the presence of
-suffering because of the insight it gives us into the adversarial
-activity of Satan and the activities of angels called “sons of God” (see
-Job 1:6-13; 2:1-7; 38:4-6).
+Because this perplexes the human mind, many reject the whole idea of God or postulate weakness to God or in some way find fault with God. But the Bible has some important words of warning regarding such a response and the story of Job, his trials, the activity of Satan and the good angels as mentioned in Job are instructive here. The book of Job is significant
+to questions regarding the moral problem of evil and the presence of suffering because of the insight it gives us into the adversarial activity of Satan and the activities of angels called “sons of God” (see Job 1:6-13; 2:1-7; 38:4-6).
 
-Angels are mentioned as present and giving praise to God when God
-created the earth (Job 38:7), but in Job 1:6 and 2:1, the “sons of God”
-appear before God, undoubtedly as His attendants and submissive servants
-in adoration and praise of the Almighty. But then Satan is suddenly
-introduced into the picture as the slandering accuser. Though the
-specific reason for Satan’s appearance is not stated, the questions God
-asks of Satan makes the reason clear. He is there to carry on his
-slanderous activity in his ongoing conflict against the character of
-God.
+Angels are mentioned as present and giving praise to God when God created the earth (Job 38:7), but in Job 1:6 and 2:1, the “sons of God” appear before God, undoubtedly as His attendants and submissive servants in adoration and praise of the Almighty. But then Satan is suddenly introduced into the picture as the slandering accuser. Though the specific reason for Satan’s appearance is not stated, the questions God asks of Satan makes the reason clear. He is there to carry on his
+slanderous activity in his ongoing conflict against the character of God.
 
-Briefly, then, what the Bible teaches us about Satan and sin and
-suffering provides us with an answer to this moral dilemma. The book of
-Job with its revelation about Satan, the angels, Job’s trials and his
-responses to his suffering add important insight to our understanding
-and response to the moral problem of evil.
+Briefly, then, what the Bible teaches us about Satan and sin and suffering provides us with an answer to this moral dilemma. The book of Job with its revelation about Satan, the angels, Job’s trials and his responses to his suffering add important insight to our understanding and response to the moral problem of evil.
 
-Job was a man who suffered tremendously. His losses and pain were awful.
-So along came three friends who sought to counsel him, but with friends
-like these, who needs enemies? In essence, their counsel was that his
-suffering was caused by sin. And, of course, sometimes that is the cause
-of suffering, but personal sin is only one of the reasons Scripture
-gives for suffering. In the process of Job’s dialogue with his three
-friends, Job sought to vindicate himself against their accusations. He
-sought to show he was innocent of any wrong that had caused his pain.
-And in essence, he was. But as this dialogue and Job’s suffering
-continued over a prolonged period, Job began to become angry with God
-and he developed a demanding spirit. This seems evident by God’s words
-to Job seen in chapters 38-40, but especially in the following verses:
+Job was a man who suffered tremendously. His losses and pain were awful. So along came three friends who sought to counsel him, but with friends like these, who needs enemies? In essence, their counsel was that his suffering was caused by sin. And, of course, sometimes that is the cause of suffering, but personal sin is only one of the reasons Scripture gives for suffering. In the process of Job’s dialogue with his three friends, Job sought to vindicate himself against their accusations. He sought to show he was innocent of any wrong that had caused his pain. And in essence, he was. But as this dialogue and Job’s suffering continued over a prolonged period, Job began to become angry with God and he developed a demanding spirit. This seems evident by God’s words to Job seen in chapters 38-40, but especially in the following verses:
 
-Job 38:2-4 Who is this that darkens counsel By words without knowledge?
-3 Now gird up your loins like a man, And I will ask you, and you
-instruct Me! 4 Where were you when I laid the foundation of the earth?
-Tell Me, if you have understanding,
+Job 38:2-4 Who is this that darkens counsel By words without knowledge? 3 Now gird up your loins like a man, And I will ask you, and you instruct Me! 4 Where were you when I laid the foundation of the earth? Tell Me, if you have understanding,
 
-In other words, how absurd to think that a creature should become the
-critic of the Creator or of what He is doing as the Sovereign Lord of
-the universe. The next two chapters, then, develop this theme of God’s
-wisdom and power.
+In other words, how absurd to think that a creature should become the critic of the Creator or of what He is doing as the Sovereign Lord of the universe. The next two chapters, then, develop this theme of God’s wisdom and power.
 
-> Job 40:1-2 Then the LORD said to Job, “Will the faultfinder contend with
-the Almighty? Let him who reproves God answer it.”
+> **Job 40:1-2** Then the LORD said to Job, “Will the faultfinder contend with the Almighty? Let him who reproves God answer it.”
 
 Job then answered and said,
 
-> Job 40:4-5 Behold, I am insignificant; what can I reply to You? I lay my
-hand on my mouth. 5 Once I have spoken, and I will not answer; Even
-twice, and I will add no more.
+> **Job 40:4-5** Behold, I am insignificant; what can I reply to You? I lay my hand on my mouth. 5 Once I have spoken, and I will not answer; Even twice, and I will add no more.
 
-Though this was a start in the right direction, it is clear from what
-followed that Job was humbled but not yet repentant so God questioned
-him further. Why? May I suggest that when Job criticized God’s ways or
-became demanding toward God he was in effect following in the footsteps
-of Satan in both finding fault and usurping God’s position as governor
-of the world. In the next paragraph (vss. 6-14), one full of irony, God
-asks if Job can really perform those things that only God is able to do.
-Note verses 7-9:
+Though this was a start in the right direction, it is clear from what followed that Job was humbled but not yet repentant so God questioned him further. Why? May I suggest that when Job criticized God’s ways or became demanding toward God he was in effect following in the footsteps of Satan in both finding fault and usurping God’s position as governor of the world. In the next paragraph (vss. 6-14), one full of irony, God asks if Job can really perform those things that only God is able to do. Note verses 7-9:
 
-> Job 40:7-9. Then the LORD answered Job out of the storm, and said, 7
-> “Now gird up your loins like a man; I will ask you, and you instruct
-> Me.  8 Will you really annul My judgment? Will you condemn Me that you
-> may be justified? 9 Or do you have an arm like God, And can you
-> thunder with a voice like His?”
+> **Job 40:7-9**. Then the LORD answered Job out of the storm, and said, 7 “Now gird up your loins like a man; I will ask you, and you instruct Me.  8 Will you really annul My judgment? Will you condemn Me that you may be justified? 9 Or do you have an arm like God, And can you thunder with a voice like His?”
 
-Though the problem of evil and Satan baffles the human mind, only God’s
-Word gives us a reasonable explanation as to the cause, course, and
-ultimate destiny of evil. Our need is to recognize that God is not only
-sovereign and infinitely wise, but submit in faith to the plan of God.
-The book of Revelation, a book filled with references to angels, gives
-us the end result—the final defeat of sin, death, and Satan with his
-fallen angels, and with paradise regained. Then God will wipe away every
-tear and the universe will know permanent joy and peace beyond our
-wildest dreams.
+Though the problem of evil and Satan baffles the human mind, only God’s Word gives us a reasonable explanation as to the cause, course, and ultimate destiny of evil. Our need is to recognize that God is not only sovereign and infinitely wise, but submit in faith to the plan of God. The book of Revelation, a book filled with references to angels, gives us the end result—the final defeat of sin, death, and Satan with his fallen angels, and with paradise regained. Then God will wipe away every tear and the universe will know permanent joy and peace beyond our wildest dreams.
 
-The very nature of the complexity of creation not only demands an
-adequate cause, a Creator, but it demonstrates His infinite wisdom and
-power (Ps. 19:1-6; Rom. 1:18-21). God is infinitely wise. He is the
-omniscient One in whom are hidden all the treasures of wisdom and
-knowledge. And though God has revealed some things to us, He has
-obviously left much that is not revealed. We would simply not have the
-ability to grasp it in our present state (cf. Deut. 29:29). Regardless,
-it is vital for faith and practice that we come to the point where we
-not only recognize our thoughts and ways are far different from His, but
-that in faith we accept what He has revealed. Note the focus in the
-passage below.
+The very nature of the complexity of creation not only demands an adequate cause, a Creator, but it demonstrates His infinite wisdom and power (Ps. 19:1-6; Rom. 1:18-21). God is infinitely wise. He is the omniscient One in whom are hidden all the treasures of wisdom and knowledge. And though God has revealed some things to us, He has obviously left much that is not revealed. We would simply not have the ability to grasp it in our present state (cf. Deut. 29:29). Regardless, it is vital for faith and practice that we come to the point where we not only recognize our thoughts and ways are far different from His, but that in faith we accept what He has revealed. Note the focus in the passage below.
 
-> Isaiah 55:6-9 Seek the Lord while He may be found; Call upon Him while
-He is near. 7 Let the wicked forsake his way, And the unrighteous man
-his thoughts; And let him return to the Lord, And He will have
-compassion on him; And to our God, For He will abundantly pardon. 8 “For
-My thoughts are not your thoughts, Neither are your ways My ways,”
-declares the Lord. 9 “For *as*the heavens are higher than the earth, So
-are My ways higher than your ways, And My thoughts than your thoughts.”
+> Isaiah 55:6-9 Seek the Lord while He may be found; Call upon Him while He is near. 7 Let the wicked forsake his way, And the unrighteous man his thoughts; And let him return to the Lord, And He will have compassion on him; And to our God, For He will abundantly pardon. 8 “For My thoughts are not your thoughts, Neither are your ways My ways,” declares the Lord. 9 “For *as*the heavens are higher than the earth, So are My ways higher than your ways, And My thoughts than your thoughts.”
 
-Does this mean we should not ask questions and look for answers to the
-mysteries of the universe? Of course not. But where God has given us
-revelation or where we find God’s answers in the Bible, whether by
-explicit statement or by strong implicit arguments, our need is to
-humbly submit to what it teaches and put the things that still perplex
-us on the top shelf for later understanding. This, of course, is the
-crucial issue. What does the Bible really teach on any of these
-questions? Our tendency is to look at the Bible’s answers through human
-reason and logic. Then, when it seems contrary to human reason, our
-tendency is to reject it or at least question it or twist the truth to
-suit our human logic. For instance, the doctrine of the trinity is *not*
-*explicitly* taught in the Bible, but it is *clearly taught implicitly*
-in Scripture. Other doctrines, like the incarnation, are beyond our
-ability to grasp but it is a doctrine *explicitly* stated in the Bible.
-So Isaiah wrote, “But to this one I will look, To him who is humble and
-contrite of spirit, and who trembles at My word” (Isa. 66:3b).
+Does this mean we should not ask questions and look for answers to the mysteries of the universe? Of course not. But where God has given us revelation or where we find God’s answers in the Bible, whether by explicit statement or by strong implicit arguments, our need is to humbly submit to what it teaches and put the things that still perplex us on the top shelf for later understanding. This, of course, is the crucial issue. What does the Bible really teach on any of these questions? Our tendency is to look at the Bible’s answers through human reason and logic. Then, when it seems contrary to human reason, our
+tendency is to reject it or at least question it or twist the truth to suit our human logic. For instance, the doctrine of the trinity is *not* *explicitly* taught in the Bible, but it is *clearly taught implicitly* in Scripture. Other doctrines, like the incarnation, are beyond our ability to grasp but it is a doctrine *explicitly* stated in the Bible. So Isaiah wrote, “But to this one I will look, To him who is humble and contrite of spirit, and who trembles at My word” (Isa. 66:3b).
 
-Lessons From the Angels
------------------------
+# Lessons From the Angels
 
-A study of the angels, both good and bad, furnishes us with a number of
-lessons as to how we should and should not live both negatively and
-positively. The apostle Paul provides a precedent for this in his
-warning regarding selecting novices for elders in 1 Timothy 3:6-7.
+A study of the angels, both good and bad, furnishes us with a number of lessons as to how we should and should not live both negatively and positively. The apostle Paul provides a precedent for this in his warning regarding selecting novices for elders in 1 Timothy 3:6-7.
 
-### Negative Lessons
+## Negative Lessons
 
-Satan, as the anointed cherub, was not only created perfect, but he was
-exceedingly beautiful. His high position and beauty, of course, were the
-products of God’s grace and creative powers, not Satan’s. Nevertheless,
-he became puffed up with pride over his own beauty and power. He forgot
-his creatureliness and wanted to become like God (cf. Ezek. 28:11-15;
-Isa. 14:12-13). For his pride and rebellion, he was judged and cast from
-his exalted position as the anointed cherub and sentenced to the lake of
-fire, the place of his eventual doom. As such, Satan not only becomes
-the classic illustration of the temptation and foolishness of pride in
-the creature, but pride becomes one of his chief snares by which he
-seeks to cause trouble among the people of God who are so prone to
-become puffed up over their own abilities or roles or over the abilities
-and roles of others, all of which are gifts of God. In view of this ever
-present danger, Paul warned against selecting a new convert to a
-position of authority, “lest he become conceited and fall into the
-condemnation incurred by the devil. And he must have a good reputation
-with those outside *the church,*so that he may not fall into reproach
-and the snare of the devil” (1 Tim. 3:6-7).
+Satan, as the anointed cherub, was not only created perfect, but he was exceedingly beautiful. His high position and beauty, of course, were the products of God’s grace and creative powers, not Satan’s. Nevertheless, he became puffed up with pride over his own beauty and power. He forgot his creatureliness and wanted to become like God (cf. Ezek. 28:11-15; Isa. 14:12-13). For his pride and rebellion, he was judged and cast from his exalted position as the anointed cherub and sentenced to the lake of fire, the place of his eventual doom. As such, Satan not only becomes the classic illustration of the temptation and foolishness of pride in the creature, but pride becomes one of his chief snares by which he seeks to cause trouble among the people of God who are so prone to become puffed up over their own abilities or roles or over the abilities and roles of others, all of which are gifts of God. In view of this ever present danger, Paul warned against selecting a new convert to a position of authority, “lest he become conceited and fall into the condemnation incurred by the devil. And he must have a good reputation with those outside *the church,*so that he may not fall into reproach and the snare of the devil” (1 Tim. 3:6-7).
 
-Satan and his fallen angels also warn us against the evil nature and the
-dangers of rebellion in contrast with submission and obedience. Perhaps
-there is no place where this is more clearly stated than in 1 Samuel
-15:22-23. Here the seriousness of disobedience (vs. 22), which is
-essentially defined as rebellion (vs. 23), is underscored by the
-comparisons made to divination and idolatry. Samuel compares it to
-divination (Hebrew, *qesem*, a general term for various occult practices
-or spiritism. For some of the various forms of divination see
-Deuteronomy 18:10-11.). Divination like idolatry is demonic (see 1 Cor.
-10:19-22). Behind the occult and idolatry is the work of Satan, the
-rebel of rebels.
+Satan and his fallen angels also warn us against the evil nature and the dangers of rebellion in contrast with submission and obedience. Perhaps there is no place where this is more clearly stated than in 1 Samuel 15:22-23. Here the seriousness of disobedience (vs. 22), which is essentially defined as rebellion (vs. 23), is underscored by the comparisons made to divination and idolatry. Samuel compares it to divination (Hebrew, *qesem*, a general term for various occult practices
+or spiritism. For some of the various forms of divination see Deuteronomy 18:10-11.). Divination like idolatry is demonic (see 1 Cor. 10:19-22). Behind the occult and idolatry is the work of Satan, the rebel of rebels.
 
-Ultimately, Satan and his evil angels, the demons, furnish examples of
-all that is evil along with the hideous consequences of evil. Satan is a
-rebel, a liar, a murderer, a deceiver, a slanderer, a tempter, a
-distorter, and one who opposes all that is good, righteous, and holy. As
-a murderer from the beginning and the father of lies (John 8:44) who
-tempted Eve in Eden, he ultimately becomes the father of all that is
-evil.
+Ultimately, Satan and his evil angels, the demons, furnish examples of all that is evil along with the hideous consequences of evil. Satan is a rebel, a liar, a murderer, a deceiver, a slanderer, a tempter, a distorter, and one who opposes all that is good, righteous, and holy. As a murderer from the beginning and the father of lies (John 8:44) who tempted Eve in Eden, he ultimately becomes the father of all that is evil.
 
-This, of course, does not abdicate man from his responsibility to choose
-what is good nor can we blame Satan for our own sin, though he is always
-on the prowl to promote sin and to deceive and tempt us. Though Satan
-tempts us constantly, our temptation to sin ultimately stems from our
-own lusts that wage war in our souls (Jam. 1:14; 1 Pet. 2:11; Eph. 2:3).
+This, of course, does not abdicate man from his responsibility to choose what is good nor can we blame Satan for our own sin, though he is always on the prowl to promote sin and to deceive and tempt us. Though Satan tempts us constantly, our temptation to sin ultimately stems from our own lusts that wage war in our souls (Jam. 1:14; 1 Pet. 2:11; Eph. 2:3).
 
-### Positive Lessons
+## Positive Lessons
 
-The many references to God’s holy angels in the Bible are chiefly
-records of their many activities, but two things quickly standout. They
-are constantly seen in the activities of worshipful adoration of God and
-in humble service, totally submissive to the will of God. If these
-celestial beings, with all their strength, holiness, and knowledge of
-God are so committed, should they not be a motivation and an example to
-us?
+The many references to God’s holy angels in the Bible are chiefly records of their many activities, but two things quickly standout. They are constantly seen in the activities of worshipful adoration of God and in humble service, totally submissive to the will of God. If these celestial beings, with all their strength, holiness, and knowledge of God are so committed, should they not be a motivation and an example to us?
 
-It was after Isaiah saw the holy seraphim in worship and humility
-(suggested by the covering of their feet) exalting the Lord, that he
-then saw and confessed his own sinfulness and became a willing servant.
-It was then, in answer to the Lord’s question, “Whom shall I send?” that
-the prophet said, “Here am I, send me” (see Isa. 6:1-8). Following the
-joyous news of Messiah’s birth, the experience of seeing Jesus in
-Bethlehem, and hearing the heavenly hosts of angels praising God, it was
-the shepherds who, following the example of the angels, went back
-“glorifying and praising God for all that they had heard and seen, just
-as had been told them” (Luke 2:20).
+It was after Isaiah saw the holy seraphim in worship and humility (suggested by the covering of their feet) exalting the Lord, that he then saw and confessed his own sinfulness and became a willing servant. It was then, in answer to the Lord’s question, “Whom shall I send?” that the prophet said, “Here am I, send me” (see Isa. 6:1-8). Following the joyous news of Messiah’s birth, the experience of seeing Jesus in Bethlehem, and hearing the heavenly hosts of angels praising God, it was
+the shepherds who, following the example of the angels, went back “glorifying and praising God for all that they had heard and seen, just as had been told them” (Luke 2:20).
 
-A consciousness of the reality of the vast hosts of angelic being—the
-benefit derived from the good, and the opposition of the bad—can be
-gained only through meditation upon the Scriptures that record these
-truths, and through
-prayer.[^66]
+A consciousness of the reality of the vast hosts of angelic being—the benefit derived from the good, and the opposition of the bad—can be gained only through meditation upon the Scriptures that record these truths, and through prayer.[^66]
 
-[^1]: The following is a short study on angels in view of the
-present day fascination with angels. It will be followed by an in
-depth study on the doctrine of angelology, the study of angels
-as it is developed in the Bible.
+# Footnotes
 
-[^2]: Millard J. Erickson, Christian Theology, Baker Book House,
-Grand Rapids, 1983, p. 434.
+[^1]: The following is a short study on angels in view of the present day fascination with angels. It will be followed by an in depth study on the doctrine of angelology, the study of angels as it is developed in the Bible.
 
-[^3]: “Kindred Spirit,” a magazine published quarterly by Dallas
-Theological Seminary, Summer 1995, pp. 5-7. 
+[^2]: Millard J. Erickson, Christian Theology, Baker Book House, Grand Rapids, 1983, p. 434.
+
+[^3]: “Kindred Spirit,” a magazine published quarterly by Dallas Theological Seminary, Summer 1995, pp. 5-7. 
 
 [^4]: Gangel, p. 5. 
 
 [^5]: Gangel, p. 7.
 
-[^6]: Sue Bohlin, “The Good, The Bad, and The Ugly,” Probe
-Ministries (http://www.probe.org/). Probe is an excellent
+[^6]: Sue Bohlin, “The Good, The Bad, and The Ugly,” Probe Ministries (http://www.probe.org/). Probe is an excellent
 Christian resource and I highly recommend it.
 
-[^7]: The Son’s Creation includes “all” things in heaven and on
-earth, visible and invisible. These indicate the entire universe,
-both material and immaterial. A highly organized hierarchy of
-angelic beings is referred to with the word “thrones” (qronoi),
-“powers” (kuriothtes), “rulers” (arcai), and “authorities” (exousiai).
-This not only indicates a highly organized dominion in the
-spirit world of angels, but shows that Paul was writing to
-refute an incipient form of Gnosticism that promoted the
-worship of angels in place of the worship of Christ (cf. Col.
-2:18). In this, Paul demonstrates superiority and rightful place
-of worship as supreme (cf. Eph. 1:21; 3:10; 6:12; Phil. 2:9-10; Col.
-2:10, 15). 
+[^7]: The Son’s Creation includes “all” things in heaven and on earth, visible and invisible. These indicate the entire universe, both material and immaterial. A highly organized hierarchy of angelic beings is referred to with the word “thrones” (qronoi), “powers” (kuriothtes), “rulers” (arcai), and “authorities” (exousiai). This not only indicates a highly organized dominion in the spirit world of angels, but shows that Paul was writing to refute an incipient form of Gnosticism that promoted the worship of angels in place of the worship of Christ (cf. Col. 2:18). In this, Paul demonstrates superiority and rightful place of worship as supreme (cf. Eph. 1:21; 3:10; 6:12; Phil. 2:9-10; Col. 2:10, 15). 
 
-[^8]: Paul Enns, The Moody Handbook of Theology, Moody Press,
-Chicago, 1996, electronic media.
+[^8]: Paul Enns, The Moody Handbook of Theology, Moody Press, Chicago, 1996, electronic media.
 
-[^9]: Charles C. Ryrie, Basic Theology, Victor Books, Wheaton, IL,
-1987, electronic media. 
+[^9]: Charles C. Ryrie, Basic Theology, Victor Books, Wheaton, IL, 1987, electronic media. 
 
-[^10]: The terms and descriptions given there certainly go far
-beyond that of any human monarch. Further, other passages
-clearly teach us that there are often angelic or demonic forces
-behind the reign of human kings or kindgoms (cf. Dan. 10; and
+[^10]: The terms and descriptions given there certainly go far beyond that of any human monarch. Further, other passages
+clearly teach us that there are often angelic or demonic forces behind the reign of human kings or kindgoms (cf. Dan. 10; and
 Eph. 6:10-12). 
 
-[^11]: The Bible Knowledge Commentary, OT, John F. Walvoord
-Roy B. Zuck, Editors, Victor Books, 1983, 1985, electronic
+[^11]: The Bible Knowledge Commentary, OT, John F. Walvoord Roy B. Zuck, Editors, Victor Books, 1983, 1985, electronic
 media. 
 
-[^12]: Regarding the mention of “the angel of the LORD” in
-Genesis 16:9, Ryrie writes: “A theophany, a self-manifestation
-of God. He here speaks as God, identifies Himself with God,
-and claims to exercise the prerogatives of God. See 16:7-14;
-21:17-21; 22:11-18; 31:11, 13; Ex. 3:2; Judg. 2:1-4; 5:23; 6:11-24;
-13:3-22; 2 Sam. 24:16; Zech. 1:12; 3:1; 12:8. Because the angel of
-the Lord ceases to appear after the incarnation, it is often
-inferred that the angel in the OT is a preincarnate appearance
-of the second person of the Trinity” (Charles Caldwell Ryrie,
-Ryrie Study Bible, Expanded Edition, 1986, 1995, Moody, p. 27).
+[^12]: Regarding the mention of “the angel of the LORD” in Genesis 16:9, Ryrie writes: “A theophany, a self-manifestation
+of God. He here speaks as God, identifies Himself with God, and claims to exercise the prerogatives of God. See 16:7-14;
+21:17-21; 22:11-18; 31:11, 13; Ex. 3:2; Judg. 2:1-4; 5:23; 6:11-24; 13:3-22; 2 Sam. 24:16; Zech. 1:12; 3:1; 12:8. Because the angel of the Lord ceases to appear after the incarnation, it is often inferred that the angel in the OT is a preincarnate appearance of the second person of the Trinity” (Charles Caldwell Ryrie, Ryrie Study Bible, Expanded Edition, 1986, 1995, Moody, p. 27).
 
 [^13]: Bohlin.
 
-[^14]: Jodie Berndt, Celebration of Miracles, Thomas Nelson,
-Nashville, 1995, p. 105-112. 
+[^14]: Jodie Berndt, Celebration of Miracles, Thomas Nelson, Nashville, 1995, p. 105-112. 
 
 [^15]: Gangel, p. 7.
 
@@ -1509,47 +828,34 @@ Nashville, 1995, p. 105-112.
 
 [^20]: Gangel, p. 7. 
 
-[^21]: William Evans, The Great Doctrines of the Bible, Moody
-Press, Chicago, 1912, p. 215.
+[^21]: William Evans, The Great Doctrines of the Bible, Moody Press, Chicago, 1912, p. 215.
 
-[^22]: Charles C. Ryrie, Basic Theology, Victor Books, Wheaton,
-IL, 1987, chapter 17, electronic media. 
+[^22]: Charles C. Ryrie, Basic Theology, Victor Books, Wheaton, IL, 1987, chapter 17, electronic media. 
 
-[^23]: Millard J. Erickson, Christian Theology, Baker Book House,
-Grand Rapids, 1983, p. 434. 
+[^23]: Millard J. Erickson, Christian Theology, Baker Book House, Grand Rapids, 1983, p. 434. 
 
-[^24]: “Kindred Spirit,” a quarterly publication of Dallas
-Theological Seminary, Summer 1995, pp. 5-7.
+[^24]: “Kindred Spirit,” a quarterly publication of Dallas Theological Seminary, Summer 1995, pp. 5-7.
 
 [^25]: Gangel, p. 5. 
 
 [^26]: Gangel, p. 7. 
 
-[^27]: For an excellent discussion and support for this view, see
-Deffinbaugh’s study on Genesis 6 in his study of the book of
-Genesis on our web site. 
+[^27]: For an excellent discussion and support for this view, see Deffinbaugh’s study on Genesis 6 in his study of the book of Genesis on our web site. 
 
-[^28]: The Bible Knowledge Commentary, OT, John F. Walvoord,
-Roy B. Zuck, Editors, Victor Books, Electronic Media. 
+[^28]: The Bible Knowledge Commentary, OT, John F. Walvoord, Roy B. Zuck, Editors, Victor Books, Electronic Media. 
 
-[^29]: Lewis Sperry Chafer, Systematic Theology, Vol. 2, Kregel
-Publications, 1993, p. 3.
+[^29]: Lewis Sperry Chafer, Systematic Theology, Vol. 2, Kregel Publications, 1993, p. 3.
 
-[^30]: The Bible Knowledge Commentary, NT, John F. Walvoord
-and Roy B. Zuck, Editors, Victor Books, 1983, electronic media. 
+[^30]: The Bible Knowledge Commentary, NT, John F. Walvoord and Roy B. Zuck, Editors, Victor Books, 1983, electronic media. 
 
-[^31]: Lewis Sperry Chafer, Lewis Sperry Chafer Systematic
-Theology, Vol. 1, Part 3, Abridged Edition, John F. Walvoord,
-Editor, Donald K. Campbell, Roy B. Zuck, Consulting Editors,
-Victor Books, Wheaton, Ill., 1988, p. 284. 
+[^31]: Lewis Sperry Chafer, Lewis Sperry Chafer Systematic Theology, Vol. 1, Part 3, Abridged Edition, John F. Walvoord,
+Editor, Donald K. Campbell, Roy B. Zuck, Consulting Editors, Victor Books, Wheaton, Ill., 1988, p. 284. 
 
 [^32]: Ryrie, p. 159.
 
-[^33]: Frank E. Gaebelein, General Editor, The Expositors’ Bible
-Commentary, Zondervan, Grand Rapids, electronic media, 1997. 
+[^33]: Frank E. Gaebelein, General Editor, The Expositors’ Bible Commentary, Zondervan, Grand Rapids, electronic media, 1997. 
 
-[^34]: Paul Enns, The Moody Handbook of Theology, Moody Press,
-Chicago, 1996, electronic media.
+[^34]: Paul Enns, The Moody Handbook of Theology, Moody Press, Chicago, 1996, electronic media.
 
 [^35]: Erickson, p. 439. 
 
@@ -1557,8 +863,7 @@ Chicago, 1996, electronic media.
 
 [^37]: Ryrie, p. 124. 
 
-[^38]: Lewis Sperry Chafer, Systematic Theology, Vol. 2, Kregel
-Publications, 1993, p. 8.
+[^38]: Lewis Sperry Chafer, Systematic Theology, Vol. 2, Kregel Publications, 1993, p. 8.
 
 [^39]: Gabelein, Expositor’s Bible Commentary, electronic media. 
 
@@ -1566,25 +871,18 @@ Publications, 1993, p. 8.
 
 [^41]: Ryrie, p. 125. 
 
-[^42]: The terms and descriptions given there certainly go far
-beyond that of any human monarch. Further, other passages
-clearly teach us that there are often angelic or demonic forces
-behind the reign of human kings or kingdoms (cf. Dan. 10; and
+[^42]: The terms and descriptions given there certainly go far beyond that of any human monarch. Further, other passages
+clearly teach us that there are often angelic or demonic forces behind the reign of human kings or kingdoms (cf. Dan. 10; and
 Eph. 6:10-12).
 
-[^43]: James Oliver Bushwell Jr., A Systematic Theology of the
-Christian Religion, Vol. 1, Zondervan, Grand Rapids, 1962, p.
-134. 
+[^43]: James Oliver Bushwell Jr., A Systematic Theology of the Christian Religion, Vol. 1, Zondervan, Grand Rapids, 1962, p. 134. 
 
 [^44]: Ryrie, p. 128.
 
-[^45]: Walter Bauer, Wilbur F. Gingrich, and Frederick W.
-Danker, A Greek-English Lexicon of the New Testament and Other
-Early Christian Literature, Chicago: University of Chicago Press,
-1979, electronic media. 
+[^45]: Walter Bauer, Wilbur F. Gingrich, and Frederick W. Danker, A Greek-English Lexicon of the New Testament and Other
+Early Christian Literature, Chicago: University of Chicago Press, 1979, electronic media. 
 
-[^46]: Paul Enns, The Moody Handbook of Theology, Chicago, Ill.:
-Moody Press, 1996.
+[^46]: Paul Enns, The Moody Handbook of Theology, Chicago, Ill.: Moody Press, 1996.
 
 [^47]: Ryrie, p. 129. 
 
@@ -1594,64 +892,42 @@ Moody Press, 1996.
 
 [^50]: Ryrie, p. 131.
 
-[^51]: James Oliver Bushwell Jr., A Systematic Theology of the
-Christian Religion, Vol. 1, Zondervan, Grand Rapids, 1962, p.
+[^51]: James Oliver Bushwell Jr., A Systematic Theology of the Christian Religion, Vol. 1, Zondervan, Grand Rapids, 1962, p.
 133.
 
-[^52]: The material covering the ministry of angels in their
-various relationships is adapted from Ryries, Basic Theology, pp.
-131-132. 
+[^52]: The material covering the ministry of angels in their various relationships is adapted from Ryries, Basic Theology, pp. 131-132. 
 
 [^53]: Ryie, p. 131. 
 
 [^54]: Ryrie, p. 133.
 
-[^55]: Charles Caldwell Ryrie, Ryrie Study Bible, Expanded
-Edition, Moody Press, Chicago, 1995, p. 1964.
+[^55]: Charles Caldwell Ryrie, Ryrie Study Bible, Expanded Edition, Moody Press, Chicago, 1995, p. 1964.
 
-[^56]: The Bible Knowledge Commentary, OT, John F. Walvoord,
-Roy B. Zuck, Editors, Victor Books, 1983, 1985, electronic
+[^56]: The Bible Knowledge Commentary, OT, John F. Walvoord, Roy B. Zuck, Editors, Victor Books, 1983, 1985, electronic
 media. 
 
-[^57]: The main point of verse 10 is that there is great joy in
-heaven (cf. vs. 7) when a sinner repents. Some would argue that
-the text does not say that angels rejoice, only that there is joy in
-their presence. They observe God’s joy, but surely, angels who
-are devoted to God’s will, also rejoice as we see them praising
-God in Luke 2 at the birth of Christ. 
+[^57]: The main point of verse 10 is that there is great joy in heaven (cf. vs. 7) when a sinner repents. Some would argue that the text does not say that angels rejoice, only that there is joy in their presence. They observe God’s joy, but surely, angels who are devoted to God’s will, also rejoice as we see them praising God in Luke 2 at the birth of Christ. 
 
-[^58]: The seven trumpets proceed out of the seven seals and
-immediately following this final trumpet are the seven bowl
-judgments that result in Christ’s return to earth, defeat of
-Satan’s kingdom, and the establishment of Christ’s rule on
+[^58]: The seven trumpets proceed out of the seven seals and immediately following this final trumpet are the seven bowl
+judgments that result in Christ’s return to earth, defeat of Satan’s kingdom, and the establishment of Christ’s rule on
 earth.
 
-[^59]: “This section, with its superhuman references, apparently
-describes someone other than the human king of Tyre, namely,
-Satan. If so, Satan's unique privileges before his fall are
-described in verses 12-15 and the judgment on him in verses
-16-19. You had the seal of perfection (v. 12). I.e., Satan was the
-consummation of perfection in his original wisdom and
-beauty.” (Charles Caldwell Ryrie, Ryrie Study Bible, Expanded
-Edition, Moody Press, Chicago, 1995, p. 1306).
+[^59]: “This section, with its superhuman references, apparently describes someone other than the human king of Tyre, namely,
+Satan. If so, Satan's unique privileges before his fall are described in verses 12-15 and the judgment on him in verses
+16-19. You had the seal of perfection (v. 12). I.e., Satan was the consummation of perfection in his original wisdom and
+beauty.” (Charles Caldwell Ryrie, Ryrie Study Bible, Expanded Edition, Moody Press, Chicago, 1995, p. 1306).
 
-[^60]: Greek, diabolos, “an accuser, a slanderer,” from diabollw, “to
-accuse, malign.” 
+[^60]: Greek, diabolos, “an accuser, a slanderer,” from diabollw, “to accuse, malign.” 
 
-[^61]: “Adversary,” the Greek antidikos, was used of a legal
-adversary, “an opponent in a lawsuit.”
+[^61]: “Adversary,” the Greek antidikos, was used of a legal adversary, “an opponent in a lawsuit.”
 
-[^62]: For more details on Satan, his origin, titles, etc., see the
-doctrine of Satanology on our web site. 
+[^62]: For more details on Satan, his origin, titles, etc., see the doctrine of Satanology on our web site. 
 
 [^63]: Chafer, p. 25.
 
-[^64]: Chafer, p. 22, cites Dr. William Cooke, Christian Theology,
-pp. 622-23. 
+[^64]: Chafer, p. 22, cites Dr. William Cooke, Christian Theology, pp. 622-23. 
 
-[^65]: Lewis Sperry Chafer, Lewis Sperry Chafer Systematic
-Theology, Vol. 1, Abridged Edition, John F. Walvoord, Editor,
-Donald K. Campbell, Roy B. Zuck, Consulting Editors, Victor
-Books, Wheaton, Ill., 1988, p. 289.
+[^65]: Lewis Sperry Chafer, Lewis Sperry Chafer Systematic Theology, Vol. 1, Abridged Edition, John F. Walvoord, Editor,
+Donald K. Campbell, Roy B. Zuck, Consulting Editors, Victor Books, Wheaton, Ill., 1988, p. 289.
 
 [^66]: Chafer, p. 27. 
