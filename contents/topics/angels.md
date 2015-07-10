@@ -259,668 +259,240 @@ Gangel closes his article on angels with the following fitting comment:
 
 The fact that God has created a realm of personal beings other than mankind is a fitting topic for systematic theological studies for it naturally broadens our understanding of God, of what He is doing, and how He works in the universe.
 
-We are not to think that man is the highest form of created being. As
-the distance between man and the lower forms of life is filled with
-beings of various grades, so it is possible that between man and God
-there exist creatures of higher than human intelligence and power.
-Indeed, the existence of lesser deities in all heathen mythologies
-presumes the existence of a higher order of beings between God and man,
-superior to man and inferior to God. This possibility is turned into
-certainty by the express and explicit teaching of the Scriptures. It
-would be sad indeed if we should allow ourselves to be such victims of
-sense perception and so materialistic that we should refuse to believe
-in an order of spiritual beings simply because they were beyond our
-sight and touch.[^21]
+We are not to think that man is the highest form of created being. As the distance between man and the lower forms of life is filled with beings of various grades, so it is possible that between man and God there exist creatures of higher than human intelligence and power. Indeed, the existence of lesser deities in all heathen mythologies presumes the existence of a higher order of beings between God and man, superior to man and inferior to God. This possibility is turned into certainty by the express and explicit teaching of the Scriptures. It would be sad indeed if we should allow ourselves to be such victims of sense perception and so materialistic that we should refuse to believe in an order of spiritual beings simply because they were beyond our sight and touch.[^21]
 
-The study of angels or the doctrine of *angelology* is one of the ten
-major categories of theology developed in many systematic theological
-works. The tendency, however, has been to neglect it. As Ryrie writes,
+The study of angels or the doctrine of *angelology* is one of the ten major categories of theology developed in many systematic theological works. The tendency, however, has been to neglect it. As Ryrie writes,
 
-> One has only to peruse the amount of space devoted to angelology in
-> standard theologies to demonstrate this. This disregard for the
-> doctrine may simply be neglect or it may indicate a tacit rejection of
-> this area of biblical teaching. Even Calvin was cautious in discussing
-> this subject (*Institutes*, I, xiv, 3).[^22]
+> One has only to peruse the amount of space devoted to angelology in standard theologies to demonstrate this. This disregard for the doctrine may simply be neglect or it may indicate a tacit rejection of this area of biblical teaching. Even Calvin was cautious in discussing this subject (*Institutes*, I, xiv, 3).[^22]
 
-Though the doctrine of angels holds an important place in the Word of
-God, it is often viewed as a difficult subject because, while there is
-abundant mention of angels in the Bible, the nature of this revelation
-is without the same kind of explicit description we often find with
-other subjects developed in the Bible:
+Though the doctrine of angels holds an important place in the Word of God, it is often viewed as a difficult subject because, while there is abundant mention of angels in the Bible, the nature of this revelation is without the same kind of explicit description we often find with other subjects developed in the Bible:
 
-Every reference to angels is incidental to some other topic. They are
-not treated in themselves. God’s revelation never aims at informing us
-regarding the nature of angels. When they are mentioned, it is always in
-order to inform us further about God, what he does, and how he does it.
-Since details about angels are not significant for that purpose, they
-tend to be omitted.[^23]
+Every reference to angels is incidental to some other topic. They are not treated in themselves. God’s revelation never aims at informing us regarding the nature of angels. When they are mentioned, it is always in order to inform us further about God, what he does, and how he does it. Since details about angels are not significant for that purpose, they tend to be omitted.[^23]
 
-While many details about angels are omitted, it is important to keep in
-mind three important elements about the biblical revelation God has
-given us about angels.
+While many details about angels are omitted, it is important to keep in mind three important elements about the biblical revelation God has given us about angels.
 
-(1) The mention of angels is inclusive in Scripture. In the NASB
-translation these celestial beings are referred to 196 times, 103 times
-in the Old Testament and 93 times in the New Testament.
+1. The mention of angels is inclusive in Scripture. In the NASB translation these celestial beings are referred to 196 times, 103 times in the Old Testament and 93 times in the New Testament.
 
-(2) Further, these many references are scattered throughout the Bible
-being found in at least 34 books from the very earliest books (whether
-Job or Genesis) to the last book of the Bible (Revelation).
+2. Further, these many references are scattered throughout the Bible being found in at least 34 books from the very earliest books (whether Job or Genesis) to the last book of the Bible (Revelation).
 
-(3) Finally, there are numerous references to angels by the Lord Jesus,
-who is declared to be the Creator of all things, which includes the
-angelic beings. Paul wrote, “For by Him all things were created, *both*
-in the heavens and on earth, visible and invisible, whether thrones or
-dominions or rulers or authorities (a reference to angels)—all things
-have been created by Him and for Him.”
+3.  Finally, there are numerous references to angels by the Lord Jesus, who is declared to be the Creator of all things, which includes the angelic beings. Paul wrote, “For by Him all things were created, *both* in the heavens and on earth, visible and invisible, whether thrones or dominions or rulers or authorities (a reference to angels)—all things have been created by Him and for Him.”
 
-So while the mention of angels may seem incidental to some other subject
-contextually, it is an important element of divine revelation and should
-not be neglected, especially in view of the present craze and many
-misconceptions about angels. It is out of this extended body of
-Scripture, therefore, that the doctrine of angels, as presented in this
-study, will be developed. The objective is to make the Bible our
-authority rather than the speculations of men or their experiences or
+So while the mention of angels may seem incidental to some other subject contextually, it is an important element of divine revelation and should not be neglected, especially in view of the present craze and many misconceptions about angels. It is out of this extended body of Scripture, therefore, that the doctrine of angels, as presented in this study, will be developed. The objective is to make the Bible our authority rather than the speculations of men or their experiences or
 what may sound logical to people.
 
-Though theologians have been cautious in their study of angels, in
-recent years we have been bombarded by what could easily be called
-*Angelmania*. In “Kindred Spirit” Dr. Kenneth Gangel has written an
-article on the widespread discussion and fascination with angels even by
-the secular world which he entitled, *Angelmania*.[^24] Gangel writes,
+Though theologians have been cautious in their study of angels, in recent years we have been bombarded by what could easily be called *Angelmania*. In “Kindred Spirit” Dr. Kenneth Gangel has written an article on the widespread discussion and fascination with angels even by the secular world which he entitled, *Angelmania*.[^24] Gangel writes,
 
-> In his 1990 book *Angels: An Endangered Species*, Malcolm Godwin
-> estimates that over the last 30 years one in every ten pop songs
-> mentions an angel. But that was just romantic fun.
+> In his 1990 book *Angels: An Endangered Species*, Malcolm Godwin > estimates that over the last 30 years one in every ten pop songs > mentions an angel. But that was just romantic fun.
 > 
-> Now our culture takes angels seriously, if not accurately. In the last
-> two years *Time, Newsweek, Ladies’ Home Journal, Redbook,* and a host
-> of other popular magazines have carried articles about angels. In
-> mid-1994, ABC aired a two-hour, prime time special titled “Angels: the
-> Mysterious Messengers.” In *Newsweek’s*November 28, 1994 issue an
-> article titled “In Search of the Sacred” observed that “20% of
-> Americans have had a revelation from God in the last year, and 13%
-> have seen or sensed the presence of an angel” (p. 54).
+> Now our culture takes angels seriously, if not accurately. In the last two years *Time, Newsweek, Ladies’ Home Journal, Redbook,* and a host of other popular magazines have carried articles about angels. In mid-1994, ABC aired a two-hour, prime time special titled “Angels: the Mysterious Messengers.” In *Newsweek’s*November 28, 1994 issue an article titled “In Search of the Sacred” observed that “20% of Americans have had a revelation from God in the last year, and 13% have seen or sensed the presence of an angel” (p. 54).
 > 
-> *Newsweek* is right; modern society, so seemingly secular and
-> hopelessly materialistic, desperately searches for some spiritual and
-> supernatural meaning. If angels can provide it, then angels it will
-> be. Certainly they are more cheerful and brighter than our
-> long-standing infatuation with movies about demons and evil spirits,
-> along with endless Dracula revivals[^25]
+> *Newsweek* is right; modern society, so seemingly secular and hopelessly materialistic, desperately searches for some spiritual and supernatural meaning. If angels can provide it, then angels it will be. Certainly they are more cheerful and brighter than our long-standing infatuation with movies about demons and evil spirits, along with endless Dracula revivals[^25]
 
-The bookstores abound with books on angels and many claim encounters
-with angels. One of the major networks has a popular program entitled
-“Touched By An Angel.” Certainly, this is just a story to entertain, but
-it does illustrate our fascination with this topic. In addition, it
-illustrates the very poor grasp of what the Bible really teaches about
-angels and about God. By these comments I do not mean to discount all
-the so-called encounters with angels that we occasionally read or hear
-about. Why? Because, as will be discussed in more detail later, angels
-are servants of God, described by the author of Hebrews as, “ministering
-spirits, sent out to render service for the sake of those who will
-inherit salvation.” See also Psalm 91:11 and Matthew 4:11. So certainly,
-due to the inspired and inerrant character of Scripture, we can trust
-completely in the Bible’s teaching on angels and, “with a perhaps lesser
-degree of certainty, consider the personal accounts of reputable
-Christians.”[^26]
+The bookstores abound with books on angels and many claim encounters with angels. One of the major networks has a popular program entitled “Touched By An Angel.” Certainly, this is just a story to entertain, but it does illustrate our fascination with this topic. In addition, it illustrates the very poor grasp of what the Bible really teaches about angels and about God. By these comments I do not mean to discount all the so-called encounters with angels that we occasionally read or hear
+about. Why? Because, as will be discussed in more detail later, angels are servants of God, described by the author of Hebrews as, “_ministering spirits, sent out to render service for the sake of those who will inherit salvation._” See also Psalm 91:11 and Matthew 4:11. So certainly, due to the inspired and inerrant character of Scripture, we can trust completely in the Bible’s teaching on angels and, “with a perhaps lesser degree of certainty, consider the personal accounts of reputable Christians.”[^26]
 
-There is an important question that needs to be asked. Why all the
-fascination of our culture with angels? First, there is always a bent in
-man for the miraculous or supernatural, for that which lifts him out of
-the mundane and pain of life, even if for a moment, but there is more to
-this issue. The interest in angels is due in part to pendulum swings of
-society. In the past, society had swung from the gross mystical
-speculations of the middle ages to the rationalism of the late 1800s and
-early 1900s. Now, due in part to the failure of rationalism and
-materialism to give answers and meaning to life, the emptiness of man’s
-heart along with the futility of his pursuits has given rise to his
-interest in the mystical, in the supernatural, and in the spiritual. The
-tragedy is that our culture continues to pursue this independently of
-God’s revelation, the Bible. The pendulum has swung back to mysticism as
-it is seen so prominently in the New Age movement, the occult, and in
-the cults. So belief in Satan, demons, and angels is more and more
-common place today and used as a substitute for a relationship with God
-through Christ. This predisposition is not because people are believing
-the Bible, but because of the rise of occult phenomena and the futility
-of life without God (see Eph. 2:12 and 4:17-19).
+There is an important question that needs to be asked. Why all the fascination of our culture with angels? First, there is always a bent in man for the miraculous or supernatural, for that which lifts him out of the mundane and pain of life, even if for a moment, but there is more to this issue. The interest in angels is due in part to pendulum swings of society. In the past, society had swung from the gross mystical speculations of the middle ages to the rationalism of the late 1800s and
+early 1900s. Now, due in part to the failure of rationalism and materialism to give answers and meaning to life, the emptiness of man’s heart along with the futility of his pursuits has given rise to his interest in the mystical, in the supernatural, and in the spiritual. The tragedy is that our culture continues to pursue this independently of God’s revelation, the Bible. The pendulum has swung back to mysticism as it is seen so prominently in the New Age movement, the occult, and in the cults. So belief in Satan, demons, and angels is more and more common place today and used as a substitute for a relationship with God through Christ. This predisposition is not because people are believing the Bible, but because of the rise of occult phenomena and the futility of life without God (see Eph. 2:12 and 4:17-19).
 
-### A Simple Definition
+## A Simple Definition
 
-Angels are spiritual beings created by God to serve Him, though created
-higher than man. Some, the good angels, have remained obedient to Him
-and carry out His will, while others, fallen angels, disobeyed, fell
-from their holy position, and now stand in active opposition to the work
-and plan of God.
+Angels are spiritual beings created by God to serve Him, though created higher than man. Some, the good angels, have remained obedient to Him and carry out His will, while others, fallen angels, disobeyed, fell from their holy position, and now stand in active opposition to the work and plan of God.
 
-The Terms Used of Angels
-------------------------
+# The Terms Used of Angels
 
-### General Terms
+## General Terms
 
-#### Angel
+### Angel
 
-Though other words are used for these spiritual beings, the primary word
-used in the Bible is *angel*. Three other terms undoubtedly referring to
-angels are *seraphim* (Isa. 6:2), *cherubim* (Ezek. 10:1-3), and
-*ministering spirits*, which is perhaps more of a description than a
-name (Heb. 1:13). More will be said on this later when dealing with the
-classification of angels.
+Though other words are used for these spiritual beings, the primary word used in the Bible is *angel*. Three other terms undoubtedly referring to angels are *seraphim* (Isa. 6:2), *cherubim* (Ezek. 10:1-3), and *ministering spirits*, which is perhaps more of a description than a name (Heb. 1:13). More will be said on this later when dealing with the classification of angels.
 
-The Hebrew word for angel is *mal\`ach*, and the Greek word is
-*angelos*. Both words mean “messenger” and describe one who executes the
-purpose and will of the one whom they serve. The context must determine
-if a human messenger is in view, or one of the celestial beings called
-“angels,” or if it is being used of the second Person of the Trinity as
-will be discussed below. The holy angels are messengers of God, serving
-Him and doing His bidding. The fallen angels serve Satan, the god of
+The Hebrew word for angel is *mal\`ach*, and the Greek word is *angelos*. Both words mean “messenger” and describe one who executes the purpose and will of the one whom they serve. The context must determine if a human messenger is in view, or one of the celestial beings called “angels,” or if it is being used of the second Person of the Trinity as will be discussed below. The holy angels are messengers of God, serving Him and doing His bidding. The fallen angels serve Satan, the god of
 this world (aiwn, “age”) (2 Cor. 4:4).
 
 Illustrations of uses that do not refer to celestial beings:
 
-(1) For human messengers from one human to another (Luke 7:24; Jam.
-2:25).
+1. For human messengers from one human to another (Luke 7:24; Jam. 2:25).
 
-(2) For human messengers bearing a divine message (Hag. 1:13; Gal.
-4:14).
+2. For human messengers bearing a divine message (Hag. 1:13; Gal. 4:14).
 
-(3) For an impersonal agent, Paul’s thorn in the flesh described as “a
-messenger of Satan” (2 Cor. 12:7).
+2. For an impersonal agent, Paul’s thorn in the flesh described as “a messenger of Satan” (2 Cor. 12:7).
 
-(4) For the messengers of the seven churches (Rev. 2-3). It is also used
-in connection with the seven churches of Asia, “To the angel of the
-church in …” Some take this to mean a special messenger or delegation to
-the church as a teaching elder, others take it to refer to a guardian
-angel.
+2. For the messengers of the seven churches (Rev. 2-3). It is also used in connection with the seven churches of Asia, “To the angel of the church in …” Some take this to mean a special messenger or delegation to the church as a teaching elder, others take it to refer to a guardian angel.
 
-Thus, the term *angelos* is not only a generic term, pertaining to a
-special order of beings (i.e., angels), but it is also descriptive and
-expressive of their office and service. So when we read the word “angel”
-we should think of it in this way.
+Thus, the term *angelos* is not only a generic term, pertaining to a special order of beings (i.e., angels), but it is also descriptive and expressive of their office and service. So when we read the word “angel” we should think of it in this way.
 
-#### Holy Ones
+### Holy Ones
 
-The unfallen angels are also spoken of as “holy ones” (Ps. 89:5, 7). The
-reason is twofold. First, being the creation of a holy God, they were
-created perfect without any flaw or sin. Second, they are called holy
-because of their purpose. They were “set apart” by God and for God as
-His servants and as attendants to His holiness (cf. Isa. 6).
+The unfallen angels are also spoken of as “holy ones” (Ps. 89:5, 7). The reason is twofold. First, being the creation of a holy God, they were created perfect without any flaw or sin. Second, they are called holy because of their purpose. They were “set apart” by God and for God as His servants and as attendants to His holiness (cf. Isa. 6).
 
-#### Host
+### Host
 
-“Host” is the Hebrew *tsaba*, “army, armies, hosts.” It is a military
-term and carries the idea of warfare. Angels are referred to as the
-“host,” which calls our attention to two ideas. First, it is used to
-describe God’s angels as the “armies of heaven” who serve in the army of
-God engaged in spiritual warfare (Ps. 89:6, 8; 1 Sam. 1:11; 17:45).
-Second, it calls our attention to angels as a multitude of heavenly
-beings who surround and serve God as seen in the phrase “Lord of hosts”
-(Isa. 31:4). In addition, *tsaba* sometimes includes the host of
-heavenly bodies, the stars of the universe.
+“Host” is the Hebrew *tsaba*, “army, armies, hosts.” It is a military term and carries the idea of warfare. Angels are referred to as the “host,” which calls our attention to two ideas. First, it is used to describe God’s angels as the “armies of heaven” who serve in the army of God engaged in spiritual warfare (Ps. 89:6, 8; 1 Sam. 1:11; 17:45). Second, it calls our attention to angels as a multitude of heavenly beings who surround and serve God as seen in the phrase “Lord of hosts”
+(Isa. 31:4). In addition, *tsaba* sometimes includes the host of heavenly bodies, the stars of the universe.
 
-### Difficult Terms
+## Difficult Terms
 
-#### Sons of God
+### Sons of God
 
-In their holy state, unfallen angels are called “sons of God” in the
-sense that they were brought into existence by the creation of God (Job
-1:6; 38:7). Though they are never spoken of as created in the image of
-God, they may also be called “sons of God” because they possess
-personality like God. This will be demonstrated later in this study.
-This term is also used in Genesis 6:2 which tells us the “sons of God”
-took wives from among the “daughters of men.” Some scholars understand
-“the sons of God” of Genesis 6:2 to refer to the sons of the godly line
-of Seth and the “daughters of men” to refer to the ungodly line of the
-Cainites. Others, in keeping with the use of “sons of God” in Job,
-believe the term refers to fallen angels who mated with the daughters of
-men to produce an extremely wicked and powerful progeny that led to the
-extreme wickedness of Noah’s day. Most who hold to this latter view find
-further support in 2 Peter 2:4-6 and Jude
-6-7.[^27] Still others
-believe they refer to despots, powerful rulers. Ross writes:
+In their holy state, unfallen angels are called “sons of God” in the sense that they were brought into existence by the creation of God (Job 1:6; 38:7). Though they are never spoken of as created in the image of God, they may also be called “sons of God” because they possess personality like God. This will be demonstrated later in this study. This term is also used in Genesis 6:2 which tells us the “sons of God” took wives from among the “daughters of men.” Some scholars understand
+“the sons of God” of Genesis 6:2 to refer to the sons of the godly line of Seth and the “daughters of men” to refer to the ungodly line of the Cainites. Others, in keeping with the use of “sons of God” in Job, believe the term refers to fallen angels who mated with the daughters of men to produce an extremely wicked and powerful progeny that led to the extreme wickedness of Noah’s day. Most who hold to this latter view find further support in 2 Peter 2:4-6 and Jude 6-7.[^27] Still others believe they refer to despots, powerful rulers. Ross writes:
 
-> The incident is one of hubris, the proud overstepping of bounds. Here
-> it applies to “the sons of God,” a lusty, powerful lot striving for
-> fame and fertility. They were probably powerful rulers who were
-> controlled (indwelt) by fallen angels. It may be that fallen angels
-> left their habitation and inhabited bodies of human despots and
-> warriors, the mighty ones of the earth.[^28]
+> The incident is one of hubris, the proud overstepping of bounds. Here it applies to “the sons of God,” a lusty, powerful lot striving for fame and fertility. They were probably powerful rulers who were controlled (indwelt) by fallen angels. It may be that fallen angels left their habitation and inhabited bodies of human despots and warriors, the mighty ones of the earth.[^28]
 
-#### The Angel of the Lord
+### The Angel of the Lord
 
-The second difficulty concerns the identity of “the angel of the Lord”
-as it is used in the Old Testament. A careful study of the many passages
-using this term suggests that this is no ordinary angel, but a
-Theophany, or better, a Christophany, a preincarnate appearance of
-Christ. The angel is identified as God, speaks as God, and claims to
-exercise the prerogatives of God. Still, in some passages He
-distinguishes Himself from Yahweh (Gen. 16:7-14; 21:17-18; 22:11-18;
-31:11-13, Ex. 3:2; Judg. 2:1-4; 5:23; 6:11-22; 13:3-22; 2 Sam. 24:16;
-Zech. 1:12; 3:1; 12:8). That the Angel of the Lord is a Christophany is
-suggested by the fact a clear reference to “the Angel of the Lord”
-ceases after the incarnation. References to an angel of the Lord in Luke
-1:11; and 2:8 and Acts 5:19 lack the Greek article which would suggest
-an ordinary angel.
+The second difficulty concerns the identity of “the angel of the Lord” as it is used in the Old Testament. A careful study of the many passages using this term suggests that this is no ordinary angel, but a Theophany, or better, a Christophany, a preincarnate appearance of Christ. The angel is identified as God, speaks as God, and claims to exercise the prerogatives of God. Still, in some passages He distinguishes Himself from Yahweh (Gen. 16:7-14; 21:17-18; 22:11-18; 31:11-13, Ex. 3:2; Judg. 2:1-4; 5:23; 6:11-22; 13:3-22; 2 Sam. 24:16; Zech. 1:12; 3:1; 12:8). That the Angel of the Lord is a Christophany is
+suggested by the fact a clear reference to “the Angel of the Lord” ceases after the incarnation. References to an angel of the Lord in Luke 1:11; and 2:8 and Acts 5:19 lack the Greek article which would suggest an ordinary angel.
 
-The Origin, Nature, and Number of Angels
-----------------------------------------
+# The Origin, Nature, and Number of Angels
 
-### Angels Are Created Beings
+## Angels Are Created Beings
 
-#### The Fact of Their Creation
+### The Fact of Their Creation
 
-That angels are created beings and not the spirits of departed or
-glorified human beings is brought out in Psalm 148. There the Psalmist
-calls on all in the celestial heavens, including the angels, to praise
-God. The reason given is, “For He commanded and they were created” (Ps.
-148:1-5). The angels as well as the celestial heavens are declared to be
-created by God.
+That angels are created beings and not the spirits of departed or glorified human beings is brought out in Psalm 148. There the Psalmist calls on all in the celestial heavens, including the angels, to praise God. The reason given is, “For He commanded and they were created” (Ps. 148:1-5). The angels as well as the celestial heavens are declared to be created by God.
 
-Since God is Spirit (John 4:24) it is natural to assume that there are
-created beings who more closely resemble God than do the mundane
-creatures who combine both the material and immaterial. There is a
-material kingdom, an animal kingdom, and a human kingdom; So it may be
-assumed, there is an angelic or spirit kingdom. However, Angelology
-rests not upon reason or supposition, but upon
-revelation.[^29]
+Since God is Spirit (John 4:24) it is natural to assume that there are created beings who more closely resemble God than do the mundane creatures who combine both the material and immaterial. There is a material kingdom, an animal kingdom, and a human kingdom; So it may be assumed, there is an angelic or spirit kingdom. However, Angelology rests not upon reason or supposition, but upon revelation.[^29]
 
-#### The Time of Their Creation
+### The Time of Their Creation
 
-Though the exact time of their creation is never stated, we know they
-were created before the creation of the world. From the book of Job we
-are told that they were present when the earth was created (Job 38:4-7)
-so their creation was prior to the creation of the earth as described in
-Genesis one.
+Though the exact time of their creation is never stated, we know they were created before the creation of the world. From the book of Job we are told that they were present when the earth was created (Job 38:4-7) so their creation was prior to the creation of the earth as described in Genesis one.
 
-#### The Agent of Their Creation
+### The Agent of Their Creation
 
-Scripture specifically states that Christ, as the one who created all
-things, is the creator of angels (cf. John 1:1-3 with Col. 1:16).
+Scripture specifically states that Christ, as the one who created all things, is the creator of angels (cf. John 1:1-3 with Col. 1:16).
 
-The Son’s Creation includes “all” things in heaven and on earth, visible
-and invisible. These indicate the *entire*universe, both material and
-immaterial. A highly organized hierarchy of angelic beings is referred
-to with the word “thrones” (*qronoi*), “powers” (*kuriothtes*), “rulers”
-(*arcai*), and “authorities” (*exousiai*). This not only indicates a
-highly organized dominion in the spirit world of angels, but shows that
-Paul was writing to refute an incipient form of Gnosticism that promoted
-the worship of angels in place of the worship of Christ (cf. Col. 2:18).
-In this, Paul demonstrates superiority and rightful place of worship as
-supreme (cf. Eph. 1:21; 3:10; 6:12; Phil. 2:9-10; Col. 2:10,
-15).[^30]
+The Son’s Creation includes “all” things in heaven and on earth, visible and invisible. These indicate the *entire*universe, both material and immaterial. A highly organized hierarchy of angelic beings is referred to with the word “thrones” (*qronoi*), “powers” (*kuriothtes*), “rulers” (*arcai*), and “authorities” (*exousiai*). This not only indicates a highly organized dominion in the spirit world of angels, but shows that Paul was writing to refute an incipient form of Gnosticism that promoted the worship of angels in place of the worship of Christ (cf. Col. 2:18). In this, Paul demonstrates superiority and rightful place of worship as supreme (cf. Eph. 1:21; 3:10; 6:12; Phil. 2:9-10; Col. 2:10, 15).[^30]
 
-#### The Nature and Number of Their Creation
+### The Nature and Number of Their Creation
 
-The angels were created simultaneously as a host or a company. God
-created man and the animal kingdom in pairs with the responsibility and
-ability to procreate. Angels, however, were created simultaneously as a
-company, a countless host of myriads (Col. 1:16; Neh. 9:6). This is
-suggested by the fact they are not subject to death or any form of
-extinction and they do not propagate or multiply themselves as with
-humans. Hebrews 9:27 says, “… it is appointed for men to die once and
-after this *comes* judgment.” While fallen angels will be judged in the
-future and permanently confined to the lake of fire (Matt. 25:41; 1 Cor.
-6:4; 2 Pet. 2:4; Jude 6), there is never any mention of the death of
-angels (see Luke 20:36). Nevertheless, they are an innumerable host
-created before the creation of the earth (cf. Job 38:7; Neh. 9:6; Ps.
-148:2, 5; Heb. 12:22; Dan. 7:10; Matt. 26:53; Rev. 5:11; with Matt.
-22:28-30; Luke 20:20-36).
+The angels were created simultaneously as a host or a company. God created man and the animal kingdom in pairs with the responsibility and ability to procreate. Angels, however, were created simultaneously as a company, a countless host of myriads (Col. 1:16; Neh. 9:6). This is suggested by the fact they are not subject to death or any form of extinction and they do not propagate or multiply themselves as with humans. Hebrews 9:27 says, “… it is appointed for men to die once and
+after this *comes* judgment.” While fallen angels will be judged in the future and permanently confined to the lake of fire (Matt. 25:41; 1 Cor. 6:4; 2 Pet. 2:4; Jude 6), there is never any mention of the death of angels (see Luke 20:36). Nevertheless, they are an innumerable host created before the creation of the earth (cf. Job 38:7; Neh. 9:6; Ps. 148:2, 5; Heb. 12:22; Dan. 7:10; Matt. 26:53; Rev. 5:11; with Matt. 22:28-30; Luke 20:20-36).
 
-### Angels Are Spirit Beings
+## Angels Are Spirit Beings
 
-#### Their Abode
+### Their Abode
 
-Statements like, “the angels which are in heaven” (Mark 13:32) and “an
-angel from heaven” suggest that angels have fixed abodes or centers for
-their activities. However, due to the ministry and abilities given to
-them in the service of God, they have access to the entire universe.
-They are described as serving in heaven and on earth (cf. Isa. 6:1f;
-Dan. 9:21; Rev. 7:2; 10:1).
+Statements like, “the angels which are in heaven” (Mark 13:32) and “an angel from heaven” suggest that angels have fixed abodes or centers for their activities. However, due to the ministry and abilities given to them in the service of God, they have access to the entire universe. They are described as serving in heaven and on earth (cf. Isa. 6:1f; Dan. 9:21; Rev. 7:2; 10:1).
 
-Though fallen angels seem to have an abode other than heaven itself, no
-specific location is given except that Satan will be bound in the
-“Abyss” for the thousand years after the Second Coming before he is
-released (Rev. 20:3). Likewise the plague which seems to be demonic is
-spoken of as coming from the Abyss (9:1-30). Fallen angels also have a
-king who is referred to as “the angel of the Abyss” (vs. 11). The
-destiny of fallen angels is the lake of fire (Matt. 25:41). The holy
-angels will dwell in the new heavens and new earth described in
-Revelation 21-22.[^31]
+Though fallen angels seem to have an abode other than heaven itself, no specific location is given except that Satan will be bound in the “Abyss” for the thousand years after the Second Coming before he is released (Rev. 20:3). Likewise the plague which seems to be demonic is spoken of as coming from the Abyss (9:1-30). Fallen angels also have a king who is referred to as “the angel of the Abyss” (vs. 11). The destiny of fallen angels is the lake of fire (Matt. 25:41). The holy angels will dwell in the new heavens and new earth described in Revelation 21-22.[^31]
 
-The reference to “the Abyss” brings up another important element
-regarding the abode of the fallen angels. Ryrie writes:
+The reference to “the Abyss” brings up another important element regarding the abode of the fallen angels. Ryrie writes:
 
-> The Scriptures clearly indicate two groups of fallen angels, one
-> consisting of those who have some freedom to carry out Satan’s plans,
-> and the other who are confined. Of those who are confined, some are
-> temporarily so, while others are permanently confined in Tartarus (2
-> Peter 2:4 and Jude 6). The Greeks thought of Tartarus as a place of
-> punishment lower than hades. *Those temporarily confined are in the
-> abyss* (Luke 8:31; Rev. 9:1-3, 11), some apparently consigned there to
-> await final judgment while others will be loosed to be active on the
-> earth (vv. 1-3, 11, 14; 16:14).[^32] (emphasis mine)
+> The Scriptures clearly indicate two groups of fallen angels, one consisting of those who have some freedom to carry out Satan’s plans, and the other who are confined. Of those who are confined, some are temporarily so, while others are permanently confined in Tartarus (2 Peter 2:4 and Jude 6). The Greeks thought of Tartarus as a place of punishment lower than hades. *Those temporarily confined are in the abyss* (Luke 8:31; Rev. 9:1-3, 11), some apparently consigned there to await final judgment while others will be loosed to be active on the earth (vv. 1-3, 11, 14; 16:14).[^32] (emphasis mine)
 
 Jude also speaks of an abode for angels:
 
-> Jude 1:6 And angels who did not keep their own domain, but abandoned
-their proper abode, He has kept in eternal bonds under darkness for the
-judgment of the great day.
+> Jude 1:6 And angels who did not keep their own domain, but abandoned their proper abode, He has kept in eternal bonds under darkness for the judgment of the great day.
 
-While the meaning of this passage is debated, it does show us that
-angels not only have a domain or area of authority assigned to them, but
-a dwelling place.
+While the meaning of this passage is debated, it does show us that angels not only have a domain or area of authority assigned to them, but a dwelling place.
 
-The most likely reference here is to the angels (“sons of God,” cf. Gen.
-6:4; Job 1:6; 2:1) who came to earth and mingled with women. This
-interpretation is expounded in the pseudepigraphical Book of Enoch (7,
-9.8, 10.11; 12.4), from which Jude quotes in v. 14, and is common in the
-intertestamental literature and the early church fathers (e.g., Justin
-Apology 2.5). These angels “did not keep their positions of authority”
-(*ten heauton archen*). The use of the word *arche* for “rule,”
-“dominion,” or “sphere” is uncommon but appears to be so intended here
-(cf. BAG, p. 112). The implication is that God assigned angels
-stipulated responsibilities (*arche*, “dominion”) and a set place
-(*oiketerion*). But because of their rebellion, God has kept or reserved
-(*tetereken* perfect tense) these fallen angels in darkness and in
-eternal chains awaiting final judgment. Apparently some fallen angels
-are in bondage while others are unbound and active among mankind as
+The most likely reference here is to the angels (“sons of God,” cf. Gen. 6:4; Job 1:6; 2:1) who came to earth and mingled with women. This interpretation is expounded in the pseudepigraphical Book of Enoch (7, 9.8, 10.11; 12.4), from which Jude quotes in v. 14, and is common in the intertestamental literature and the early church fathers (e.g., Justin Apology 2.5). These angels “did not keep their positions of authority” (*ten heauton archen*). The use of the word *arche* for “rule,”
+“dominion,” or “sphere” is uncommon but appears to be so intended here (cf. BAG, p. 112). The implication is that God assigned angels stipulated responsibilities (*arche*, “dominion”) and a set place (*oiketerion*). But because of their rebellion, God has kept or reserved (*tetereken* perfect tense) these fallen angels in darkness and in eternal chains awaiting final judgment. Apparently some fallen angels are in bondage while others are unbound and active among mankind as
 demons.[^33]
 
-#### Their Immaterialness
+### Their Immaterialness
 
-Though at times they have revealed themselves in the form of human
-bodies (angelophanies) as in Genesis 18:3, they are described as
-“spirits” in Hebrews 1:14. This suggests they do not have material
-bodies as humans do. This is further supported by the fact they do not
-function as human beings in terms of marriage and procreation (Mark
-12:25) nor are they subject to death (Luke 20:36).
+Though at times they have revealed themselves in the form of human bodies (angelophanies) as in Genesis 18:3, they are described as “spirits” in Hebrews 1:14. This suggests they do not have material bodies as humans do. This is further supported by the fact they do not function as human beings in terms of marriage and procreation (Mark 12:25) nor are they subject to death (Luke 20:36).
 
-Mankind, including our incarnate Lord, is “lower than the angels” (Heb.
-2:7). Angels are not subject to the limitations of man, especially since
-they are incapable of death (Luke 20:36). Angels have greater wisdom
-than man (2 Sam. 14:20), yet it is limited (Matt. 24:36). Angels have
-greater power than man (Matt. 28:2; Acts 5:19; 2 Pet. 2:11), yet they
-are limited in power (Dan. 10:13).
+Mankind, including our incarnate Lord, is “lower than the angels” (Heb. 2:7). Angels are not subject to the limitations of man, especially since they are incapable of death (Luke 20:36). Angels have greater wisdom than man (2 Sam. 14:20), yet it is limited (Matt. 24:36). Angels have greater power than man (Matt. 28:2; Acts 5:19; 2 Pet. 2:11), yet they are limited in power (Dan. 10:13).
 
-Angels, however, have limitations compared to man, particularly in
-future relationships. Angels are not created in the image of God,
-therefore, they do not share man’s glorious destiny of redemption in
-Christ. At the consummation of the age, redeemed man will be exalted
-above angels (1 Cor.
-6:3).[^34]
+Angels, however, have limitations compared to man, particularly in future relationships. Angels are not created in the image of God, therefore, they do not share man’s glorious destiny of redemption in Christ. At the consummation of the age, redeemed man will be exalted above angels (1 Cor. 6:3).[^34]
 
 Millard Erickson writes:
 
-> That angels are spirits may also be inferred from the following
-> considerations:
+> That angels are spirits may also be inferred from the following considerations:
 > 
-> Demons (fallen angels) are described as spirits (Matt. 8:16; 12:45;
-> Luke 7:21; 8:2; 11:26; Acts 19:12; Rev. 16:14).
+> Demons (fallen angels) are described as spirits (Matt. 8:16; 12:45; Luke 7:21; 8:2; 11:26; Acts 19:12; Rev. 16:14).
 > 
-> We are told that our struggle is not against “flesh and blood, but
-> against the principalities, against the powers, against the world
-> rulers of this present darkness, against the spiritual hosts of
-> wickedness in heavenly places” (Eph. 6:12).
+> We are told that our struggle is not against “flesh and blood, but against the principalities, against the powers, against the world rulers of this present darkness, against the spiritual hosts of wickedness in heavenly places” (Eph. 6:12).
 > 
-> Paul, in Colossians 1:16, seems to identify the heavenly forces as
-> invisible.
+> Paul, in Colossians 1:16, seems to identify the heavenly forces as invisible.
 > 
-> That angels are spirits seems to follow (although not necessarily from
-> Jesus’ assertions that angels do not marry (Matt. 22:30) and do not
-> die (Luke 20:36).[^35]
+> That angels are spirits seems to follow (although not necessarily from Jesus’ assertions that angels do not marry (Matt. 22:30) and do not die (Luke 20:36).[^35]
 
-Angels, though spirit beings and very powerful, are not omnipotent,
-omniscient, nor omnipresent. They cannot be everywhere at once.
+Angels, though spirit beings and very powerful, are not omnipotent, omniscient, nor omnipresent. They cannot be everywhere at once.
 
-#### Their Appearance
+### Their Appearance
 
-Since they are spirit beings, they are usually not seen, unless God
-gives the ability to see them or unless they manifest themselves. Balaam
-could not see the angel standing in his way until the Lord opened his
-eyes (Num. 22:31) and Elisha’s servant could not see the host of angels
-surrounding him until Elisha prayed for his eyes to be opened (2 Kings
-6:17). When angels have been seen as recorded in Scripture, they were
-often mistaken as men because they were manifested in a man-like
-appearance (Gen. 18:2, 16, 22; 19:1, 5, 10, 12, 15, 16; Judg. 13:6; Mark
-16:5; Luke 24:4). Sometimes, they appear in a way that either manifests
-God’s glory (Luke 2:9; 9:26) or in some form of brilliant apparel (cf.
-Matt. 28:3; John 20:12; Acts 1:10 with Ezek. 1:13; Dan. 10:6).
-Consistently, they have appeared as real men, never as ghosts, or as
-winged animals (cf. Gen. 18:2; 19:1; Mark 16:3; Luke 24:4).
+Since they are spirit beings, they are usually not seen, unless God gives the ability to see them or unless they manifest themselves. Balaam could not see the angel standing in his way until the Lord opened his eyes (Num. 22:31) and Elisha’s servant could not see the host of angels surrounding him until Elisha prayed for his eyes to be opened (2 Kings 6:17). When angels have been seen as recorded in Scripture, they were often mistaken as men because they were manifested in a man-like
+appearance (Gen. 18:2, 16, 22; 19:1, 5, 10, 12, 15, 16; Judg. 13:6; Mark 16:5; Luke 24:4). Sometimes, they appear in a way that either manifests God’s glory (Luke 2:9; 9:26) or in some form of brilliant apparel (cf. Matt. 28:3; John 20:12; Acts 1:10 with Ezek. 1:13; Dan. 10:6). Consistently, they have appeared as real men, never as ghosts, or as winged animals (cf. Gen. 18:2; 19:1; Mark 16:3; Luke 24:4).
 
-They are occasionally pictured in other forms and in other
-manifestations as with wings, and as a combination of man, beast, and
-birds as in Ezekiel 1:5f and Isaiah 6:6. But apparently such
-manifestations only occurred by way of a vision or special revelation
-from God. No angel literally appeared in such form.
+They are occasionally pictured in other forms and in other manifestations as with wings, and as a combination of man, beast, and birds as in Ezekiel 1:5f and Isaiah 6:6. But apparently such manifestations only occurred by way of a vision or special revelation from God. No angel literally appeared in such form.
 
-They also seem to always have appeared as youthful or mature men (Mark
-16:5), but never as old men, perhaps because they neither age nor die
-(Luke 20:36).
+They also seem to always have appeared as youthful or mature men (Mark 16:5), but never as old men, perhaps because they neither age nor die (Luke 20:36).
 
-In the present fascination of our culture, previously referred to as
-*angelmania*, the common conception of angels is that of winged
-creatures and most times as female.
+In the present fascination of our culture, previously referred to as *angelmania*, the common conception of angels is that of winged creatures and most times as female.
 
-> Some of the commonly held conceptions are not supported by the
-> scriptural witness. There are no indications of angels appearing in
-> female form. Nor is there explicit reference to them as winged,
-> although Daniel 9:21 and Revelation 14:6 speak of them as flying. The
-> cherubim and seraphim are represented as winged (Exod. 25:20; Isa.
-> 6:2), as are the symbolic creatures of Ezekiel 1:6 (cf. Rev. 4:8).
-> However, we have no assurance that what is true of cherubim and
-> seraphim is true of angels in general. Since there is no explicit
-> reference indicating that angels as a whole are winged, we must regard
-> this as at best an inference, but not a necessary inference, from the
-> biblical passages which describe them as flying.[^36]
+> Some of the commonly held conceptions are not supported by the scriptural witness. There are no indications of angels appearing in female form. Nor is there explicit reference to them as winged, although Daniel 9:21 and Revelation 14:6 speak of them as flying. The cherubim and seraphim are represented as winged (Exod. 25:20; Isa. 6:2), as are the symbolic creatures of Ezekiel 1:6 (cf. Rev. 4:8). However, we have no assurance that what is true of cherubim and seraphim is true of angels in general. Since there is no explicit reference indicating that angels as a whole are winged, we must regard this as at best an inference, but not a necessary inference, from the biblical passages which describe them as flying.[^36]
 
-While angels generally appear as men in Scripture, Zechariah 5:9 may
-suggest this is not always the case. The two women mentioned in this
-passage are not specifically called angels, but they are clearly agents
-of God or forces of Satan, like angels, good or evil.
+While angels generally appear as men in Scripture, Zechariah 5:9 may suggest this is not always the case. The two women mentioned in this passage are not specifically called angels, but they are clearly agents of God or forces of Satan, like angels, good or evil.
 
-#### Their Holiness
+### Their Holiness
 
-All angels were created ***holy***, without sin, and in a state of
-perfect holiness.
+All angels were created ***holy***, without sin, and in a state of perfect holiness.
 
-> Originally all angelic creatures were created holy. God pronounced His
-> creation good (Gen. 1:31), and, of course, He could not create sin.
-> Even after sin entered the world, God’s good angels, who did not rebel
-> against Him, are called holy (Mark 8:38). These are the elect angels
-> (1 Tim. 5:21) in contrast to the evil angels who followed Satan in his
-> rebellion against God (Matt.  25:41).[^37]
+> Originally all angelic creatures were created holy. God pronounced His creation good (Gen. 1:31), and, of course, He could not create sin. Even after sin entered the world, God’s good angels, who did not rebel against Him, are called holy (Mark 8:38). These are the elect angels (1 Tim. 5:21) in contrast to the evil angels who followed Satan in his rebellion against God (Matt.  25:41).[^37]
 
-#### Their Creatureliness
+### Their Creatureliness
 
-As created beings, they are of course mere ***creatures***. They are not
-divine and their worship is explicitly forbidden (see Col. 2:18; Rev.
-19:10; 22:9). As a separate order of creatures, they are both distinct
-from human beings and higher than humans with powers far beyond human
-abilities in this present age (cf. 1 Cor. 6:3; Heb. 1:14; 2:7). But as
-creatures they are limited in their powers, knowledge, and activities (1
-Peter 1:11-12; Rev. 7:1). Like all of creation, angels are under God’s
-authority and subject to His judgment (1 Cor. 6:3; Matt. 25:41).
+As created beings, they are of course mere ***creatures***. They are not divine and their worship is explicitly forbidden (see Col. 2:18; Rev. 19:10; 22:9). As a separate order of creatures, they are both distinct from human beings and higher than humans with powers far beyond human abilities in this present age (cf. 1 Cor. 6:3; Heb. 1:14; 2:7). But as creatures they are limited in their powers, knowledge, and activities (1 Peter 1:11-12; Rev. 7:1). Like all of creation, angels are under God’s authority and subject to His judgment (1 Cor. 6:3; Matt. 25:41).
 
-Following the revelation given to John, on two occasions the apostle
-fell on his face in worship, but the angel quickly told John not to
-worship him and then gave the reason. Angels are but “fellow servants”
-and called upon to serve God as all God’s creatures should. So John was
-told to “worship God.” The worship of angels (as with any other object
-of worship) distracts from the worship of God and attributes godlike
-powers to the object of worship. Angels are powerful and awesome in many
-ways, but, like us, they are only creatures and servants of the living
-God who alone deserves our worship. This means we are not to pray to
-them or trust in them even though God may use them to minister to our
-needs in various ways. Our trust is to be in God, not angels. They
-minister to us at His bidding under His authority and power. Though
-sometimes the instrument of aid or deliverance was an angel, New
-Testament believers recognized it was the Lord who delivered them (see
-Acts 12:11).
+Following the revelation given to John, on two occasions the apostle fell on his face in worship, but the angel quickly told John not to worship him and then gave the reason. Angels are but “fellow servants” and called upon to serve God as all God’s creatures should. So John was told to “worship God.” The worship of angels (as with any other object of worship) distracts from the worship of God and attributes godlike powers to the object of worship. Angels are powerful and awesome in many
+ways, but, like us, they are only creatures and servants of the living God who alone deserves our worship. This means we are not to pray to them or trust in them even though God may use them to minister to our needs in various ways. Our trust is to be in God, not angels. They minister to us at His bidding under His authority and power. Though sometimes the instrument of aid or deliverance was an angel, New Testament believers recognized it was the Lord who delivered them (see Acts 12:11).
 
-In Acts 27:23-25, Luke recounted Paul’s experience with an angel who
-brought him a message from the Lord, but there was no worship of the
-angel. Instead, Paul’s faith was in the God he served.
+In Acts 27:23-25, Luke recounted Paul’s experience with an angel who brought him a message from the Lord, but there was no worship of the angel. Instead, Paul’s faith was in the God he served.
 
-> 23 For this very night an angel of the God to whom I belong and whom I
-> serve stood before me, 24 saying, ‘Do not be afraid, Paul; you must
-> stand before Caesar; and behold, God has granted you all those who are
-> sailing with you.’ 25 "Therefore, keep up your courage, men, for I
-> believe God, that it will turn out exactly as I have been told.
+> 23 For this very night an angel of the God to whom I belong and whom I serve stood before me, 24 saying, ‘Do not be afraid, Paul; you must stand before Caesar; and behold, God has granted you all those who are sailing with you.’ 25 "Therefore, keep up your courage, men, for I believe God, that it will turn out exactly as I have been told.
 
-Though writing about their invisibility to mankind, Chafer has an
-interesting comment:
+Though writing about their invisibility to mankind, Chafer has an interesting comment:
 
-> One reason angels are rendered invisible to human sight may be that,
-> if they were seen, they would be worshiped. Man, who is so prone to
-> idolatry as to worship the works of his own hands, would hardly be
-> able to resist the worship of angels were they before his eyes.[^38]
+> One reason angels are rendered invisible to human sight may be that, if they were seen, they would be worshiped. Man, who is so prone to idolatry as to worship the works of his own hands, would hardly be able to resist the worship of angels were they before his eyes.[^38]
 
-The church at Colossae had been invaded by false teachers who were
-teaching a false humility and the worship of angels as a part of the
-means to spirituality. It seems these teachers were claiming special
-mystic insights by way of visions in connection with their worship of
-angels. Concerning this, Paul wrote:
+The church at Colossae had been invaded by false teachers who were teaching a false humility and the worship of angels as a part of the means to spirituality. It seems these teachers were claiming special mystic insights by way of visions in connection with their worship of angels. Concerning this, Paul wrote:
 
-> Colossians 2:18 Do not let anyone who delights in false humility and
-> the worship of angels disqualify you for the prize. Such a person goes
-> into great detail about what he has seen, and his unspiritual mind
-> puffs him up with idle notions (NIV).
+> Colossians 2:18 Do not let anyone who delights in false humility and the worship of angels disqualify you for the prize. Such a person goes into great detail about what he has seen, and his unspiritual mind puffs him up with idle notions (NIV).
 > 
-> The person attempting to make such judgment is described as one “who
-> delights in false humility and the worship of angels.” The context
-> suggests that he seeks to impose these things on the Colossians and
-> that this is the means by which he attempts to disqualify them for
-> their prize.[^39]
+> The person attempting to make such judgment is described as one “who delights in false humility and the worship of angels.” The context suggests that he seeks to impose these things on the Colossians and that this is the means by which he attempts to disqualify them for their prize.[^39]
 
-This was demonic because it was an attempt to usurp the preeminent place
-and sufficiency of Christ as Savior and Lord (cf. Col. 2:10). It is no
-wonder, then, that the author of Hebrews, in the most extended passage
-on angels in the New Testament (Heb. 1:5-29), demonstrates the
-superiority of Christ to even the mighty angels (Heb. 1:2-4, 13). In
-this he concludes his argument with a question designed to show that
-Christ, God’s very Son and the radiance of His glory who sits at God’s
-right hand, is superior to angels for he asked, “Are they not all
-ministering spirits, sent out to render service for the sake of those
-who will inherit salvation?” (Heb. 1:14).
+This was demonic because it was an attempt to usurp the preeminent place and sufficiency of Christ as Savior and Lord (cf. Col. 2:10). It is no wonder, then, that the author of Hebrews, in the most extended passage on angels in the New Testament (Heb. 1:5-29), demonstrates the superiority of Christ to even the mighty angels (Heb. 1:2-4, 13). In this he concludes his argument with a question designed to show that Christ, God’s very Son and the radiance of His glory who sits at God’s right hand, is superior to angels for he asked, “_Are they not all ministering spirits, sent out to render service for the sake of those who will inherit salvation?_” (Heb. 1:14).
 
-#### Their Personalities
+### Their Personalities
 
-There are several qualities common to personality all of which angels
-possess—personal existence, intellect, emotion, and will. As
-personalities we see them interacted with over and over again through
-the Bible. Ryrie writes:
+There are several qualities common to personality all of which angels possess—personal existence, intellect, emotion, and will. As personalities we see them interacted with over and over again through the Bible. Ryrie writes:
 
-> Angels then qualify as personalities because they have these aspects
-> of intelligence, emotions, and will. This is true of both the good and
-> evil angels. Good angels, Satan, and demons possess intelligence
-> (Matt. 8:29; 2 Cor. 11:3; 1 Peter 1:12). Good angels, Satan, and
-> demons show emotions (Luke 2:13; James 2:19; Rev. 12:17). Good angels,
-> Satan, and demons demonstrate that they have wills (Luke 8:28-31; 2
-> Tim. 2:26; Jude 6).  Therefore, they can be said to be persons. The
-> fact that they do not have human bodies does not affect their being
-> personalities (any more than it does with God).[^40]
+> Angels then qualify as personalities because they have these aspects of intelligence, emotions, and will. This is true of both the good and evil angels. Good angels, Satan, and demons possess intelligence (Matt. 8:29; 2 Cor. 11:3; 1 Peter 1:12). Good angels, Satan, and demons show emotions (Luke 2:13; James 2:19; Rev. 12:17). Good angels, Satan, and demons demonstrate that they have wills (Luke 8:28-31; 2 Tim. 2:26; Jude 6).  Therefore, they can be said to be persons. The fact that they do not have human bodies does not affect their being personalities (any more than it does with God).[^40]
 
-The fallen angels are even described by actions of personality like
-lying and sinning (John 8:44; 1 John 3:8-10). Some have considered
-angels, including Satan, as merely the abstract personification of good
-and evil, but such is not at all in keeping with the teaching of
-Scripture.
+The fallen angels are even described by actions of personality like lying and sinning (John 8:44; 1 John 3:8-10). Some have considered angels, including Satan, as merely the abstract personification of good and evil, but such is not at all in keeping with the teaching of Scripture.
 
-#### Their Abilities and Powers
+### Their Abilities and Powers
 
-**Their Knowledge:**Jesus said, “But of that day and hour no one knows,
-not even the angels of heaven, nor the Son, but the Father alone” (Matt.
-24:36). This comment by the Lord suggest two things: (1) The phrase,
-“not even the angels” implies that angels have superhuman knowledge, but
-(2) the main statement of this verse shows they are limited in their
-knowledge, they are not omniscient. That their knowledge is greater is
-also suggested by the fact they were present at some of the heavenly
-counsels, were involved in conveying revelation (Gal. 3:19), and were
-used of God to interpret visions as with Daniel and Zechariah.
+**Their Knowledge:**Jesus said, “_But of that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father alone_” (Matt. 24:36). This comment by the Lord suggest two things: (1) The phrase, “not even the angels” implies that angels have superhuman knowledge, but (2) the main statement of this verse shows they are limited in their knowledge, they are not omniscient. That their knowledge is greater is also suggested by the fact they were present at some of the heavenly counsels, were involved in conveying revelation (Gal. 3:19), and were used of God to interpret visions as with Daniel and Zechariah.
 
 Ryrie suggests three reasons for their superior knowledge:
 
-> (1) Angels were created as a higher order of creatures in the universe
-> than humans are. Therefore, innately they possess greater knowledge.
-> (2) Angels study the Bible more thoroughly than some humans do and
-> gain knowledge from it (James 2:19; Rev. 12:12). (3) Angels gain
-> knowledge through long observation of human activities. Unlike humans,
-> angels do not have to study the past; they have experienced it.
-> Therefore, they know how others have acted and reacted in situations
-> and can predict with a greater degree of accuracy how we may act in
-> similar circumstances. The experiences of longevity give them greater
-> knowledge.[^41]
+> (1) Angels were created as a higher order of creatures in the universe than humans are. Therefore, innately they possess greater knowledge. (2) Angels study the Bible more thoroughly than some humans do and gain knowledge from it (James 2:19; Rev. 12:12). (3) Angels gain knowledge through long observation of human activities. Unlike humans, angels do not have to study the past; they have experienced it. Therefore, they know how others have acted and reacted in situations and can predict with a greater degree of accuracy how we may act in similar circumstances. The experiences of longevity give them greater knowledge.[^41]
 
-**Their Strength:** Since man is created lower than the angels with
-limitations angels do not have, we would expect them to possess
-superhuman strength as well. That angels have greater strength than man
-is evident from at least two considerations:
+**Their Strength:** Since man is created lower than the angels with limitations angels do not have, we would expect them to possess superhuman strength as well. That angels have greater strength than man is evident from at least two considerations:
 
-**(1) Specific Statements in Scripture:** Scripture specifically speaks
-of their greater power. Psalm 103:20 at least implies their greater
-strength in the statement, “Bless the Lord, O you his angels, you mighty
-ones who do his word.” Then, 2 Thessalonians 1:7 refers to the return of
-the Lord with His mighty angels in flaming fire. Further, 2 Peter 2:11
-reads, “whereas angels who are greater in might and power do not bring a
-reviling judgment against them before the Lord.” The only question here
-is who is being compared? The major subject of the context is that of
-the false teachers (humans beings), however, due to verse 10, some
-believe the comparison is being made between the “angelic majesties” of
-verse 10, good angels and evil angels. If so, then the verse is stating
-that the good angels are more powerful than the evil ones.
+1. **Specific Statements in Scripture:** Scripture specifically speaks of their greater power. Psalm 103:20 at least implies their greater strength in the statement, “Bless the Lord, O you his angels, you mighty ones who do his word.” Then, 2 Thessalonians 1:7 refers to the return of the Lord with His mighty angels in flaming fire. Further, 2 Peter 2:11 reads, “_whereas angels who are greater in might and power do not bring a reviling judgment against them before the Lord._” The only question here is who is being compared? The major subject of the context is that of the false teachers (humans beings), however, due to verse 10, some believe the comparison is being made between the “angelic majesties” of verse 10, good angels and evil angels. If so, then the verse is stating that the good angels are more powerful than the evil ones.
 
-**(2) Their Activities as Described in Scripture:**Though their great
-power is always a derived power from God, the mighty works they
-accomplish, as in the execution of God’s judgments, demonstrate their
-superhuman strength (cf. 2 Chron. 32:21; Acts 12:7-11; and the many
-references to angelic activities in Revelation). In this regard,
-Elisha’s confidence and prayer for his servant to see the myriad of
-angels surrounding them in the face of the human forces, suggests their
-greater power (2 Kings 6:15-17). His confidence was certainly not simply
-in their greater numbers. Illustrations of their power are seen in Acts
-5:19; 12:7, 23; Matthew 28:2 (the stone rolled away by the angel weighed
-about 4 tons).
+2. **Their Activities as Described in Scripture:** Though their great power is always a derived power from God, the mighty works they accomplish, as in the execution of God’s judgments, demonstrate their superhuman strength (cf. 2 Chron. 32:21; Acts 12:7-11; and the many references to angelic activities in Revelation). In this regard, Elisha’s confidence and prayer for his servant to see the myriad of angels surrounding them in the face of the human forces, suggests their greater power (2 Kings 6:15-17). His confidence was certainly not simply in their greater numbers. Illustrations of their power are seen in Acts 5:19; 12:7, 23; Matthew 28:2 (the stone rolled away by the angel weighed about 4 tons).
 
-The Psalmist exclaimed, “Blessed be the LORD God, the God of Israel, Who
-alone works wonders” (Ps. 72:18). All miraculous power has its source in
-God. As angelic creatures, they are subject to the limitations of their
-creatureliness. They are mighty, but not almighty. Even Satan, a fallen
-angel, with his angelic powers must operate under the permissive will of
+The Psalmist exclaimed, “Blessed be the LORD God, the God of Israel, Who alone works wonders” (Ps. 72:18). All miraculous power has its source in God. As angelic creatures, they are subject to the limitations of their creatureliness. They are mighty, but not almighty. Even Satan, a fallen angel, with his angelic powers must operate under the permissive will of
 God (Job 1:12; 2:6).
 
-### Their Position
+## Their Position
 
-#### In Regard to Man
+### In Regard to Man
 
-By creation man is lower than the angels (Heb. 2:7-9). Angels are higher
-in intelligence, power, and movement, yet angels serve men as
-ministering spirits (Heb. 1:14) sent forth to serve the saints
-regardless of their high position and power. As mentioned, men are
-warned to never worship angels for they are only creatures.
+By creation man is lower than the angels (Heb. 2:7-9). Angels are higher in intelligence, power, and movement, yet angels serve men as ministering spirits (Heb. 1:14) sent forth to serve the saints regardless of their high position and power. As mentioned, men are warned to never worship angels for they are only creatures.
 
-Today believers are experientially lower than the angels, yet
-positionally higher because of their union in Christ (cf. Eph 1:20-22;
-with Eph 2:4-6 and Heb 2:9). Christians share Christ’s seat at God’s
-right hand. One day, however, believers will be both positionally and
-experientially higher and will judge angels (1 Cor 6:3). This
-undoubtedly refers to some kind of governmental direction believers will
-have over angels.
+Today believers are experientially lower than the angels, yet positionally higher because of their union in Christ (cf. Eph 1:20-22; with Eph 2:4-6 and Heb 2:9). Christians share Christ’s seat at God’s right hand. One day, however, believers will be both positionally and experientially higher and will judge angels (1 Cor 6:3). This undoubtedly refers to some kind of governmental direction believers will have over angels.
 
-#### With Reference to Christ
+### With Reference to Christ
 
-By His essential nature and being, Christ is higher because He is God
-the Creator (cf. Heb 1:4ff with Col. 1:15-17). By Christ’s incarnation
-He became lower for a little while (Heb 2:9), but this only applied to
-His humanity. By Christ’s death, burial, resurrection, and ascension He
-became far superior to angels as the last Adam and the second man (cf. 1
-Cor. 15:45-48; Eph. 1:20-22; 1 Pet. 3:18-22; Col. 2:15). As the
-glorified and exalted God-man He became the last Adam. Adam was the head
-of the first race of men, but Christ became the head of the second race
-of regenerated men. He is called last because there will never be
-another fall, and because He, as the glorified and exalted Savior, is a
-life-giving Spirit. As the second man from heaven He is viewed as the
-head and beginning of a new and exalted race of people.
+By His essential nature and being, Christ is higher because He is God the Creator (cf. Heb 1:4ff with Col. 1:15-17). By Christ’s incarnation He became lower for a little while (Heb 2:9), but this only applied to His humanity. By Christ’s death, burial, resurrection, and ascension He became far superior to angels as the last Adam and the second man (cf. 1Cor. 15:45-48; Eph. 1:20-22; 1 Pet. 3:18-22; Col. 2:15). As the glorified and exalted God-man He became the last Adam. Adam was the head of the first race of men, but Christ became the head of the second race of regenerated men. He is called last because there will never be another fall, and because He, as the glorified and exalted Savior, is a life-giving Spirit. As the second man from heaven He is viewed as the head and beginning of a new and exalted race of people.
 
 The Division of Angels—Good and Evil
 ------------------------------------
