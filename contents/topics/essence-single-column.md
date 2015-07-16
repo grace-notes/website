@@ -142,27 +142,27 @@ In the application of the concept of God’s righteousness (+R) to the unbelieve
 
 God is Just, and cannot be unfair. His justice demands that disobedience against His laws be punished. Justice administers the penalty that right-eousness demands.
 
-*Psalm 19:9 …the judgments of the Lord are true and righteous altogether.
+> **Psalm 19:9** …the judgments of the Lord are true and righteous altogether.
 
-*Psalm 50:6 …for God is judge himself.
+> **Psalm 50:6** …for God is judge himself.
 
-*Psalm 58:11 …verily he is a God that judgeth in the earth.
+> **Psalm 58:11** …verily he is a God that judgeth in the earth.
 
-*Rom. 3:26 To declare at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.
+> **Rom. 3:26* To declare at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.
 
-*Heb. 10:30,31 For we know him that hath said, Vengeance belongs unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people. It is a fearful thing to fall into the hands of the living God.
+> **Heb. 10:30-31* For we know him that hath said, Vengeance belongs unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people. It is a fearful thing to fall into the hands of the living God.
 
-Heb. 12:23
+> Heb. 12:23
 
-1 John 1:9
+> 1 John 1:9
 
-Rev. 15:3
+> Rev. 15:3
 
 God’s justice is satisfied because of His grace provision of redemption. The Lord Jesus Christ, through his substitutionary, effective death on the Cross, transferred the guilt of the sinner onto Himself, thus satisfying the justice of God. God is now free to pardon the sinner and justify the one who accepts His saving grace. God is equally free to justly condemn all who reject salvation. The basis of their indictment is works, never sins.
 
-1 Pet. 2:24
+> 1 Pet. 2:24
 
-Rom. 5:12; 6:23; 3:21-28; 4:5; 8:1
+> Rom. 5:12; 6:23; 3:21-28; 4:5; 8:1
 
 John 3:18,36; 5:28-30.
 
@@ -172,113 +172,113 @@ Grace always precedes judgment.
 
 ## God is eternal and unchangeable love.
 
-*Jer. 31:3 The Lord has appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.
+> **Jer. 31:3** The Lord has appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.
 
 God, in His sovereignty, decided to treat man in grace. It is His love that motivates His grace. Righteousness and Justice stood in the way because of the sin barrier between man and God. In Love, God the Father sent His Son to the cross to die for the sins of the whole world. Righteousness and Justice are thus satisfied, the barrier is removed, and love and grace can be given to men.
 
-Eph. 2:8,9
+> Eph. 2:8,9
 
-Isa. 59:2
+> Isa. 59:2
 
-John 3:16.
+> John 3:16.
 
 # ETERNAL LIFE
 
 ## God is absolute existence.
 
-*Ex. 3:14 And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.*
+> **Ex. 3:14** And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.
 
-*John 8:58 Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.*
+> **John 8:58** Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.*
 
 ## God has neither beginning nor end.
 
 God existed in eternity past, and He will exist forever.
 
-*Gen. 1:1 In the beginning, God…*
+> **Gen. 1:1** In the beginning, God…
 
-*Isa. 43:13 Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?*
+> **Isa. 43:13** Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?
 
-*Col. 1:17 And He is before all things, and by him all things consist.*
+> **Col. 1:17** And He is before all things, and by him all things consist.*
 
-Deut. 32:40; 33:27
+> Deut. 32:40; 33:27
 
-Job 36:26
+> Job 36:26
 
-Psa. 9:7; 90:2; 102:37: 135:13
+> Psa. 9:7; 90:2; 102:37: 135:13
 
-Lam. 5:19
+> Lam. 5:19
 
-Hab. 3:6
+> Hab. 3:6
 
-John 1:1-4
+> John 1:1-4
 
-1 Tim. 1:17
+> 1 Tim. 1:17
 
-1 John 5:11
+> 1 John 5:11
 
-Rev. 1:8; 21:6; 22:16
+> Rev. 1:8; 21:6; 22:16
 
 ## The believer in Christ has everlasting life.
 
-*John 3:16 For God so loved the world that he gave his only begotten Son, that whosoever believeth on him should not perish, but have everlasting life.
+> **John 3:16** For God so loved the world that he gave his only begotten Son, that whosoever believeth on him should not perish, but have everlasting life.
 
-*John 10:28,29 And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand. My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.
+> **John 10:28-29** And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand. My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.
 
-1 John 5:11
+> 1 John 5:11
 
-John 8:51: 14:1-3
+> John 8:51: 14:1-3
 
 ## The unbeliever will experience everlasting punishment.
 
-*Matt 25:46 And these shall go away into everlasting punishment: but the righteous into life eternal.*
+> **Matt 25:46** And these shall go away into everlasting punishment: but the righteous into life eternal.*
 
 # OMNISCIENCE
 
 ## God is all-knowledge.
 
-*1 Sam. 2:3 Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed.
+> **1 Sam. 2:3** Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed.
 
-*Job 26:6 Hell is naked before him, and destruction hath no covering.*
+> **Job 26:6** Hell is naked before him, and destruction hath no covering.
 
-*Job 31:4 Doth he not see my ways, and count all my steps?*
+> **Job 31:4** Doth he not see my ways, and count all my steps?
 
-*Job 34:21 For his eyes are upon the ways of man, and he seeth all his goings.*
+> **Job 34:21** For his eyes are upon the ways of man, and he seeth all his goings.
 
-Psalm 139:1-12
+> Psalm 139:1-12
 
-*Psalm 147:4 He telleth the number of the stars; he calleth them all by their names.
+> **Psalm 147:4** He telleth the number of the stars; he calleth them all by their names.
 
-*Jer. 16:17 For mine eyes are upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes.
+> **Jer. 16:17** For mine eyes are upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes.
 
-*Matt. 10:29,30 Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father. But the very hairs of your head are all numbered.
+> **Matt. 10:29-30** Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father. But the very hairs of your head are all numbered.
 
-*Heb. 4:13 Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.*
+> **Heb. 4:13** Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.*
 
-Job 37:16; 42:2
+> Job 37:16; 42:2
 
-Eze. 11:5
+> Eze. 11:5
 
 ## God is infinite in wisdom and understanding.
 
-*1 Sam. 16:7 …for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the Lord looketh on the heart.
+> **1 Sam. 16:7** …for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the Lord looketh on the heart.
 
-*Psalm 44:21 Shall not God search this out? for he knoewth the secrets of the heart.
+> **Psalm 44:21** Shall not God search this out? for he knoewth the secrets of the heart.
 
-*Prov. 3:19 The Lord by wisdom hath founded the earth; by understanding hath he established the heavens.
+> **Prov. 3:19** The Lord by wisdom hath founded the earth; by understanding hath he established the heavens.
 
-*Jer. 17:10 I the Lord search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings.
+> **Jer. 17:10** I the Lord search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings.
 
-*Jer. 51:15 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heaven by his understanding.
+> **Jer. 51:15** He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heaven by his understanding.
 
-*Matt. 6:8 …for your Father knoweth what things ye have need of, before ye ask him.
+> **Matt. 6:8** …for your Father knoweth what things ye have need of, before ye ask him.
 
-*Rom. 8:27 And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.
+> **Rom. 8:27** And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.
 
-Psalm 147:5
+> Psalm 147:5
 
-Prov. 17:3
+> Prov. 17:3
 
-Isa. 40:13,14
+> Isa. 40:13,14
 
 Nahum 1:7
 
