@@ -148,9 +148,9 @@ God is Just, and cannot be unfair. His justice demands that disobedience against
 
 > **Psalm 58:11** …verily he is a God that judgeth in the earth.
 
-> **Rom. 3:26* To declare at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.
+> **Rom. 3:26** To declare at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.
 
-> **Heb. 10:30-31* For we know him that hath said, Vengeance belongs unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people. It is a fearful thing to fall into the hands of the living God.
+> **Heb. 10:30-31** For we know him that hath said, Vengeance belongs unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people. It is a fearful thing to fall into the hands of the living God.
 
 > Heb. 12:23
 
@@ -164,7 +164,7 @@ God’s justice is satisfied because of His grace provision of redemption. The L
 
 > Rom. 5:12; 6:23; 3:21-28; 4:5; 8:1
 
-John 3:18,36; 5:28-30.
+> John 3:18,36; 5:28-30.
 
 Grace always precedes judgment.
 
@@ -280,189 +280,189 @@ God existed in eternity past, and He will exist forever.
 
 > Isa. 40:13,14
 
-Nahum 1:7
+> Nahum 1:7
 
-Rom. 11:33
+> Rom. 11:33
 
-1 John 3:20
+> 1 John 3:20
 
 ## God knows the end from the beginning (foreknowledge).
 
-Isa. 41:26; 42:9; 43:9
+> Isa. 41:26; 42:9; 43:9
 
-Isa. 46:10
+> Isa. 46:10
 
-Acts 2:23; 15:18
+> Acts 2:23; 15:18
 
-1 Pet. 1:2
+> 1 Pet. 1:2
 
 ## As God, the Lord Jesus Christ knew all things and all men.
 
-Matt. 9:4
+> Matt. 9:4
 
-John 2:24; 19:28; 21:17
+> John 2:24; 19:28; 21:17
 
 ## Application to believers:
 
 *Job 23:10 But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.*
 
-*Matt. 6:31-33 Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed? (For after all these things do the Gentiles seek:) for your heavenly Father knoewth that ye have need of all these things. But seek ye first the kingdom of God and his righteousness, and all these things shall be added unto you.
+> **Matt. 6:31-33** Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed? (For after all these things do the Gentiles seek:) for your heavenly Father knoewth that ye have need of all these things. But seek ye first the kingdom of God and his righteousness, and all these things shall be added unto you.
 
-*James 1:5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
+> **James 1:5** If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
-*James 3:17 But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.
+> **James 3:17** But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.
 
 # OMNIPRESENCE
 
-God is ever-present, neither limited by time nor space, immanent and transcendant.
+## God is ever-present, neither limited by time nor space, immanent and transcendant.
 
-Jer. 23:24
+> Jer. 23:24
 
-Acts 17:27
+> Acts 17:27
 
 ## The heavens cannot contain God.
 
-1 Kings 8:27
+> 1 Kings 8:27
 
-Acts 17:24
+> Acts 17:24
 
 ## Heaven is His throne, the earth His footstool.
 
-Deut. 4:39
+> Deut. 4:39
 
-Isa. 66:1
+> Isa. 66:1
 
 ## Man cannot escape the presence of God.
 
-Job. 34:21,22
+> Job. 34:21,22
 
-Psalm 139:7-10
+> Psalm 139:7-10
 
-Prov. 15:3
+> Prov. 15:3
 
 ## The Christian can take great comfort in the presence of God.
 
-*Gen. 28:15 And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land/ for I will not leave thee, until I have done that which I have spoken to thee of.
+> **Gen. 28:15** And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land/ for I will not leave thee, until I have done that which I have spoken to thee of.
 
-*Josh. 1:9 Have not I commanded thee? Be strong and of a good courage: be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.
+> **Josh. 1:9** Have not I commanded thee? Be strong and of a good courage: be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.
 
-Ex. 33:14
+> Ex. 33:14
 
-Psalm 121:3,4
+> Psalm 121:3,4
 
-Matt. 18:20
+> Matt. 18:20
 
-1 Cor. 3:16
+> 1 Cor. 3:16
 
-Heb. 13:5
+> Heb. 13:5
 
 # OMNIPOTENCE
 
-God is all-powerful and limitless in ability.
+## God is all-powerful and limitless in ability.
 
-Gen. 17:1; 18:14
+> Gen. 17:1; 18:14
 
-Job 26:7; 42:2
+> Job 26:7; 42:2
 
-Psa. 24:8; 93:1; 147:5
+> Psa. 24:8; 93:1; 147:5
 
-Isa. 40:26; 50:2
+> Isa. 40:26; 50:2
 
-Jer. 27:5; 32:27
+> Jer. 27:5; 32:27
 
-Matt. 19:26
+> Matt. 19:26
 
-Mark 14:36
+> Mark 14:36
 
-Luke 1:37
+> Luke 1:37
 
-Rev. 4:8
+> Rev. 4:8
 
-God is limitless in authority.
+## God is limitless in authority.
 
-Psa. 33:9
+> Psa. 33:9
 
-Rom. 13:1
+> Rom. 13:1
 
-Heb. 1:3 He upholds all things by the word of His power.
+> Heb. 1:3 He upholds all things by the word of His power.
 
-Rev. 19:6
+> Rev. 19:6
 
-Scriptures show the manifestation of God’s power.
+## Scriptures show the manifestation of God’s power.
 
-2 Chron. 16:9; 25:8
+> 2 Chron. 16:9; 25:8
 
-Psa. 74:13
+> Psa. 74:13
 
-The power of God’s Son.
+## The power of God’s Son.
 
-Matt. 9:6; 28:18
+> Matt. 9:6; 28:18
 
-John 10:18; 17:2,3
+> John 10:18; 17:2,3
 
-The application of God’s omnipotence to the Christian Way of Life.
+## The application of God’s omnipotence to the Christian Way of Life.
 
-1 Sam. 17:47
+> 1 Sam. 17:47
 
-Psa. 27:1
+> Psa. 27:1
 
-Isa. 26:4; 40:29
+> Isa. 26:4; 40:29
 
-Jer. 33:3
+> Jer. 33:3
 
-Acts 1:8
+> Acts 1:8
 
-1 Cor. 15:43
+> 1 Cor. 15:43
 
-2 Cor. 9:8
+> 2 Cor. 9:8
 
-Eph. 1:19; 3:20
+> Eph. 1:19; 3:20
 
-Phil. 4:13
+> Phil. 4:13
 
-2 Tim. 1:12
+> 2 Tim. 1:12
 
-Heb. 7:25
+> Heb. 7:25
 
-1 Peter 1:5
+> 1 Peter 1:5
 
 # IMMUTABILITY
 
-God is neither capable of nor susceptible to change.
+## God is neither capable of nor susceptible to change.
 
-Psa. 102:26,27; Mal. 3:6; Heb. 1:12
+> Psa. 102:26,27; Mal. 3:6; Heb. 1:12
 
-God is absolute stability.
+## God is absolute stability.
 
-Isa. 40:28
+> Isa. 40:28
 
-James 1:17
+> James 1:17
 
-God’s Word and His works are unchanging.
+## God’s Word and His works are unchanging.
 
-Psa. 119:89
+> Psa. 119:89
 
-Eccl. 3:14
+> Eccl. 3:14
 
-Isa. 40:8
+> Isa. 40:8
 
-God’s great faithfulness is a product of His immutability.
+## God’s great faithfulness is a product of His immutability.
 
-Psa. 36:5; 89:33; 119:90
+> Psa. 36:5; 89:33; 119:90
 
-Lam. 3:23
+> Lam. 3:23
 
-He is faithful to keep His promises.
+## He is faithful to keep His promises.
 
-Num. 23:19
+> Num. 23:19
 
-1 Kings 8:56
+> 1 Kings 8:56
 
-2 Cor. 1:20
+> 2 Cor. 1:20
 
-Tit. 1:2
+> Tit. 1:2
 
-Heb. 10:23; 11:11
+> Heb. 10:23; 11:11
 
 He is faithful to forgive, 1 John 1:9.
 
@@ -476,11 +476,11 @@ He is faithful to provide in eternity, 1 Thess. 5:24.
 
 He is faithful to stabilize the believer, 2 Thess. 3:3
 
-The faithfulness of Christ.
+## The faithfulness of Christ.
 
-Heb. 3:1,2; 13:8
+> Heb. 3:1,2; 13:8
 
-Rev. 1:5; 19:11
+> Rev. 1:5; 19:11
 
 # VERACITY
 
@@ -488,69 +488,69 @@ God is absolute Truth, Deut. 32:4
 
 God’s truth is manifested:
 
-- in His ways.
+* in His ways.
 
-Psa. 25:10; 86:15
+> Psa. 25:10; 86:15
 
-Rev. 15:3
+> Rev. 15:3
 
-- in His works
+* in His works
 
-Psa. 33:4; 111:7,8
+> Psa. 33:4; 111:7,8
 
-Dan. 4:37
+> Dan. 4:37
 
-- in His Word
+* in His Word
 
-2 Sam. 7:28
+> 2 Sam. 7:28
 
-1 Kings 17:24
+> 1 Kings 17:24
 
-Psa. 19:9; 119:142,151; 138:2
+> Psa. 19:9; 119:142,151; 138:2
 
-John 8:45; 17:17
+> John 8:45; 17:17
 
-2 Cor. 6:7
+> 2 Cor. 6:7
 
-Eph. 1:13
+> Eph. 1:13
 
-The Veracity of the Godhead:
+## The Veracity of the Godhead:
 
-The Father -
+### The Father -
 
-Psa. 31:5
+> Psa. 31:5
 
-Isa. 65:16
+> Isa. 65:16
 
-Jer. 10:10
+> Jer. 10:10
 
-John 3:33; 17:3
+> John 3:33; 17:3
 
-Rom. 3:4
+> Rom. 3:4
 
-The Son -
+### The Son -
 
-John 1:14; 8:32; 14:6
+> John 1:14; 8:32; 14:6
 
-1 John 5:20
+> 1 John 5:20
 
-Rev. 16:7; 19:11
+> Rev. 16:7; 19:11
 
-The Holy Spirit -
+### The Holy Spirit -
 
-John 14:17; 15:26; 16:13
+> John 14:17; 15:26; 16:13
 
-1 John 5:6
+> 1 John 5:6
 
-Application of God’s Veracity to the Christian.
+## Application of God’s Veracity to the Christian.
 
-Prov. 6:16,17
+> Prov. 6:16,17
 
-Matt. 5:37
+> Matt. 5:37
 
-2 Tim. 2:15
+> 2 Tim. 2:15
 
-1 John 4:6
+> 1 John 4:6
 
 # The Trinity
 
