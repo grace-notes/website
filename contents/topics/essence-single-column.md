@@ -6,58 +6,25 @@ tableOfContents: false
 template: topic.jade
 ---
 
-The phrase “Essence of God” is a theological term used to refer to God’s
-personal characteristics, or to the facets of His personality. Sometimes
-the term “Attributes of God” is used to refer to God’s essence. The
-“attributes”, or the “essence”, of God are His primary characteristics,
-so they cannot be completely communicated to man. They can be described
-to a degree, but they cannot be fully defined.
+The phrase “Essence of God” is a theological term used to refer to God’s personal characteristics, or to the facets of His personality. Sometimes the term “Attributes of God” is used to refer to God’s essence. The “attributes”, or the “essence”, of God are His primary characteristics, so they cannot be completely communicated to man. They can be described to a degree, but they cannot be fully defined.
 
-Finite man cannot define the infinite. The Bible is the Word of God, and
-as such it reveals those facts about the Creator that He has seen fit to
-reveal about Himself.
+Finite man cannot define the infinite. The Bible is the Word of God, and as such it reveals those facts about the Creator that He has seen fit to reveal about Himself.
 
-Man supposes that God thinks like a man. We think God wants revenge,
-because when we’re insulted, we want revenge. When we are cheated, we
-want immediate justice and retribution. We are indignant and shocked at
-the behavior of others, so we expect God to be shocked.
+Man supposes that God thinks like a man. We think God wants revenge, because when we’re insulted, we want revenge. When we are cheated, we want immediate justice and retribution. We are indignant and shocked at the behavior of others, so we expect God to be shocked.
 
-But God does not feel insulted. He does not feel cheated - He owns
-everything. He is not indignant, temperamental, or emotional. He does
-not throw tantrums (or lightning bolts). He is not surprised or shocked
-by anything. He is never depressed or moody.
+But God does not feel insulted. He does not feel cheated - He owns everything. He is not indignant, temperamental, or emotional. He does not throw tantrums (or lightning bolts). He is not surprised or shocked by anything. He is never depressed or moody.
 
-God is not arrogant or egotistical. He knows Himself, is self-assured,
-and is humble.
+God is not arrogant or egotistical. He knows Himself, is self-assured, and is humble.
 
-God is a rational, logical, stable-minded, patient; and all of His
-thinking is backed up by His omniscience. He approaches every issue from
-the basis of His perfect character, the subject of this study.
+God is a rational, logical, stable-minded, patient; and all of His thinking is backed up by His omniscience. He approaches every issue from the basis of His perfect character, the subject of this study.
 
-God approaches every issue regarding human beings out of His love for
-all men. His thinking toward man takes all of His attributes into
-consideration - but Love is always present. It is God’s thinking about
-us, in love, that is His perfect Grace thinking. He is always gracious,
-always thinks Grace.
+God approaches every issue regarding human beings out of His love for all men. His thinking toward man takes all of His attributes into consideration - but Love is always present. It is God’s thinking about us, in love, that is His perfect Grace thinking. He is always gracious, always thinks Grace.
 
-Spirituality is one of God’s primary attributes. God is immaterial, in a
-universe that is made up of both material and immaterial. God has
-revealed something of what He is in the Word, but only He knows Himself
-fully. We must rely on what is written in the Bible for any
-understanding of what God is like.
+Spirituality is one of God’s primary attributes. God is immaterial, in a universe that is made up of both material and immaterial. God has revealed something of what He is in the Word, but only He knows Himself fully. We must rely on what is written in the Bible for any understanding of what God is like.
 
-The fact that God is a spiritual being means that He lives. Spirituality
-implies life. Jer. 10:10 and 1 Th. 1:9 tell us that God is alive and
-well. The life of God has no beginning and no ending. God is eternal.
-The Christian shares God’s eternal life, but since his eternal life has
-a beginning at the time he accepted Jesus Christ as Saviour, his eternal
-life is properly called “everlasting life”.
+The fact that God is a spiritual being means that He lives. Spirituality implies life. Jer. 10:10 and 1 Th. 1:9 tell us that God is alive and well. The life of God has no beginning and no ending. God is eternal. The Christian shares God’s eternal life, but since his eternal life has a beginning at the time he accepted Jesus Christ as Saviour, his eternal life is properly called “everlasting life”.
 
-All of the characteristics of the divine essence are present in God at
-all times, but not all are manifest at the same time, just as while all
-colors are present in a ray of white light, the individual colors can be
-seen only under certain conditions of reflection or refraction. Various
-attributes of God can be seen in certain situations. For example:
+All of the characteristics of the divine essence are present in God at all times, but not all are manifest at the same time, just as while all colors are present in a ray of white light, the individual colors can be seen only under certain conditions of reflection or refraction. Various attributes of God can be seen in certain situations. For example:
 
 • In salvation, God’s love and eternal life are apparent.
 
