@@ -26,118 +26,78 @@ The fact that God is a spiritual being means that He lives. Spirituality implies
 
 All of the characteristics of the divine essence are present in God at all times, but not all are manifest at the same time, just as while all colors are present in a ray of white light, the individual colors can be seen only under certain conditions of reflection or refraction. Various attributes of God can be seen in certain situations. For example:
 
-• In salvation, God’s love and eternal life are apparent.
+* In salvation, God’s love and eternal life are apparent.
 
-• In judgment, His righteousness and justice are manifested.
+* In judgment, His righteousness and justice are manifested.
 
-• In God’s faithfulness, His immutability and veracity are shown.
+* In God’s faithfulness, His immutability and veracity are shown.
 
-• In God’s Plan, His omniscience and sovereignty are seen.
+* In God’s Plan, His omniscience and sovereignty are seen.
 
-• In God’s will, sovereignty is paramount.
+* In God’s will, sovereignty is paramount.
 
-• In God’s revelation, veracity, love, and omniscience are obvious.
+* In God’s revelation, veracity, love, and omniscience are obvious.
 
-The rest of this paper is devoted to a description of the ten
-characteristics of the Essence of God as seen in the various Bible
-passages that describe them.
+The rest of this paper is devoted to a description of the ten characteristics of the Essence of God as seen in the various Bible passages that describe them.
 
-Sovereignty
+# Sovereignty
 
-God is the supreme being of the universe.
+## God is the supreme being of the universe.
 
-*Deut. 4:39 Know therefore this day, and consider it in thine heart,
-that the Lord, he is God in heaven above, and upon the earth beneath;
-there is none else.*
+> **Deut. 4:39** Know therefore this day, and consider it in thine heart, that the Lord, he is God in heaven above, and upon the earth beneath; there is none else.
 
-*I Sam. 2:6-8 The Lord killeth, and maketh alive; he bringeth down to
-Sheol, and bringeth up. The Lord maketh poor, and maketh rich; he
-bringeth low, and lifteth up. He raiseth up the poor out of the dust,
-and lifteth up the beggar from the refuse, to set them among princes,
-and to make them inherit the throne of glory; for the pillars of the
-earth are the Lord’s, and he hath set the world upon them.*
+> **I Sam. 2:6-8** The Lord killeth, and maketh alive; he bringeth down to Sheol, and bringeth up. The Lord maketh poor, and maketh rich; he bringeth low, and lifteth up. He raiseth up the poor out of the dust, and lifteth up the beggar from the refuse, to set them among princes, and to make them inherit the throne of glory; for the pillars of the earth are the Lord’s, and he hath set the world upon them.
 
-*I Chron. 29:11 Thine, O Lord, is the greatness, and the power, and the
-glory, and the victory, and the majesty; for all that is in the heaven
-and in the earth is thine. This is the kingdom, O Lord, and thou art
-exalted as head above all.*
+> **I Chron. 29:11** Thine, O Lord, is the greatness, and the power, and the glory, and the victory, and the majesty; for all that is in the heaven and in the earth is thine. This is the kingdom, O Lord, and thou art exalted as head above all.
 
-*II Chron. 20:6 And said, O Lord God of our fathers, art not thou God in
-heaven? And rulest not thou over all the kingdoms of the nations? And in
-thine hand is there not power and might, so that none is able to
-withstand thee?*
+> **II Chron. 20:6 And said, O Lord God of our fathers, art not thou God in heaven? And rulest not thou over all the kingdoms of the nations? And in thine hand is there not power and might, so that none is able to withstand thee?
 
-*Psalm 83:18 That men may know that thou, whose name alone is the Lord,
+> **Psalm 83:18 That men may know that thou, whose name alone is the Lord,
 are the Most High over all the earth.*
 
-*Isaiah 45:5,6 I am the Lord, and there is none else, there is no God
-beside me: I girded thee, though thou hast not known me. That they may
-know from the rising of the sun, and from the west, that there is none
-beside me. I am the Lord, and there is none else.*
+> **Isaiah 45:5-6** I am the Lord, and there is none else, there is no God beside me: I girded thee, though thou hast not known me. That they may know from the rising of the sun, and from the west, that there is none beside me. I am the Lord, and there is none else.
 
-*Acts 17:24 God, who made the world and all things in it, seeing that he
-is the Lord of heaven and earth, dwelleth not in temples made with
-hands.*
+> **Acts 17:24** God, who made the world and all things in it, seeing that he is the Lord of heaven and earth, dwelleth not in temples made with hands.
 
-God has a will. He is eternal, infinite, and self-determining. He makes
-decisions, policies, sets up principles. This is divine volition.
+God has a will. He is eternal, infinite, and self-determining. He makes decisions, policies, sets up principles. This is divine volition.
 
-*Daniel 4:35 And all the inhabitants of the earth are reputed as
-nothing; and he doeth according to his will in the army of heaven, and
-among the inhabitants of the earth, and none can stay his hand, or say
-unto him, What doest thou?*
+> **Daniel 4:35** And all the inhabitants of the earth are reputed as nothing; and he doeth according to his will in the army of heaven, and among the inhabitants of the earth, and none can stay his hand, or say unto him, What doest thou?
 
-*Heb. 6:13 For when God made a promise to Abraham, because he could
-swear by no greater, he swore by himself.*
+> **Heb. 6:13** For when God made a promise to Abraham, because he could swear by no greater, he swore by himself.*
 
-*Psalm 47:7 For God is the King of all the earth; sing ye praises with
-understanding.*
+> **Psalm 47:7** For God is the King of all the earth; sing ye praises with understanding.
 
-*Psa 115:3 But our God is in the heavens; he hath done whatsoever he
-pleased.*
+> **Psa 115:3** But our God is in the heavens; he hath done whatsoever he pleased.*
 
-In His sovereignty, God decided to give man a free will. The meeting
-place of Man’s will and God’s will is the Cross. (John 3:16)
+In His sovereignty, God decided to give man a free will. The meeting place of Man’s will and God’s will is the Cross. (John 3:16)
 
-God’s sovereign plan for the human race is first, salvation, “Believe on
-the Lord Jesus Christ” (Acts 16:31); second, during life on earth as a
-believer, to be filled with the Holy Spirit and to grow in Christ (Eph
-5:18; I Peter 3:18); and third, to have eternal life in heaven, in a
-resurrection body.
+God’s sovereign plan for the human race is first, salvation, “Believe on the Lord Jesus Christ” (Acts 16:31); second, during life on earth as a believer, to be filled with the Holy Spirit and to grow in Christ (Eph 5:18; I Peter 3:18); and third, to have eternal life in heaven, in a resurrection body.
 
-RIGHTEOUSNESS
+# RIGHTEOUSNESS
 
-God is absolutely holy, or righteous.
+## God is absolutely holy, or righteous.
 
-*Psalm 145:17 The Lord is righteous in all his ways, and holy in all his
-works.*
+> **Psalm 145:17** The Lord is righteous in all his ways, and holy in all his works.
 
-*Lev. 19:2b Ye shall be holy; for I, the Lord your God, am holy.*
+> **Lev. 19:2b** Ye shall be holy; for I, the Lord your God, am holy.
 
-*I Sam. 2:2 There is none holy like the Lord; for there is none beside
-thee, neither is there any rock like our God.*
+> **I Sam. 2:2** There is none holy like the Lord; for there is none beside thee, neither is there any rock like our God.
 
-*Psalm 22:3 But thou art holy, O thou who inhabitest the praises of
-Israel.*
+> **Psalm 22:3** But thou art holy, O thou who inhabitest the praises of Israel.
 
-*Ps. 111:9 He sent redemption unto his people; he hath commanded his
-covenant forever; holy and reverend is his name.*
+> **Ps. 111:9** He sent redemption unto his people; he hath commanded his covenant forever; holy and reverend is his name.
 
-*Isaiah 6:3 And one cried unto another, and said, Holy, holy, holy, is
-the Lord of hosts; the whole earth is full of his glory.*
+> **Isaiah 6:3** And one cried unto another, and said, Holy, holy, holy, is the Lord of hosts; the whole earth is full of his glory.
 
-God is good.
+## God is good.
 
-*Ps. 25:8 Good and upright is the Lord; therefore will he teach sinners
-in the way.*
+> **Ps. 25:8** Good and upright is the Lord; therefore will he teach sinners in the way.
 
-*Ps. 34:8 Oh, taste and see that the Lord is good; blessed is the man
-who trusteth in him.*
+> **Ps. 34:8** Oh, taste and see that the Lord is good; blessed is the man who trusteth in him.
 
-*Ps. 86:5 For thou, Lord, are good, and ready to forgive, and plenteous
-in mercy unto all those who call upon thee.*
+> **Ps. 86:5** For thou, Lord, are good, and ready to forgive, and plenteous in mercy unto all those who call upon thee.
 
-God is free from sin.
+## God is free from sin.
 
 *II Cor. 5:21 For he hath made him, who knew no sin, to be sin for us,
 that we might be made the righteousness of God in him.*
