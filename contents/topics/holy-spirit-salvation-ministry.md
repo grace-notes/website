@@ -3,17 +3,17 @@ title: "The Holy Spirit's Salvation Ministry"
 indexTitle: "Holy Spirit, Salvation Ministry of the"
 pdf: "holyspirit_salvationministry.pdf"
 description: "Holy Spirit - Salvation Ministry -  God the Holy Spirit did seven things for each Church Age believer at the time of salvation."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 
-**Introduction.**
+# Introduction.
 
 God the Holy Spirit does seven things for each church age believer when he accepts Jesus Christ as Savior. None of these ministries make you feel better or any differently. There is no emotional experience with the Holy Spirit’s activities. All emotional experiences have a human source.
 
 These seven things done for the believer by the Holy Spirit at salvation form the basis for unity among Christian believers.
 
-**Efficacious Grace**
+# Efficacious Grace**
 
 Efficacious grace is the enabling power of the Holy Spirit to the believer in Christ, or the work of the Holy Spirit which enables the believer to have an effective faith in Christ as Savior. It is the Holy Spirit picking up a person’s positive signals of faith in Christ and carrying them to the point of salvation.
 
@@ -43,7 +43,7 @@ Being spiritually dead, we cannot understand what we hear as unbelievers. Theref
 
 Effectual faith means the power to produce the intended effect and purpose, i.e., salvation.
 
-Ephesians 2:8, “_For you have been saved by grace_ [efficacious grace] _through faith [effectual faith], and this_ [matter of being saved] _is not from yourselves; it is a gift from God, not from works, lest any man should boast._”
+> Ephesians 2:8, “For you have been saved by grace_ [efficacious grace] _through faith [effectual faith], and this_ [matter of being saved] _is not from yourselves; it is a gift from God, not from works, lest any man should boast.”
 
 So in our salvation, there are two acts of sovereign grace:
 
@@ -53,17 +53,19 @@ So in our salvation, there are two acts of sovereign grace:
 
 For those who reject the gospel there is no efficacious grace.
 
-Matthew 22:14, "_For many are called_ [the entire human race], _but few are chosen_ [i.e., elected, become believers].”
+> Matthew 22:14, "_For many are called_ [the entire human race], _but few are chosen_ [i.e., elected, become believers].”
 
 Efficacious grace is a part of the sealing ministry of the Holy Spirit, Ephesians 1:13-14.
 
 **God the Holy Spirit makes your faith effective for salvation and then guarantees it, seals it.**
 
-**Regeneration**
+# Regeneration
 
 The second ministry of the Holy Spirit at salvation is called regeneration. It is taught in Tit. 3:5; 1 Pet. 1:23.
 
-Regeneration is the technical term for being born again, because that is the way it is described in John 3:1-18, in our Lord’s discussion with Nicodemus. John 3: 6-7, “_-That which is born of flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I say to you: you must be born again. -_”
+Regeneration is the technical term for being born again, because that is the way it is described in John 3:1-18, in our Lord’s discussion with Nicodemus. 
+
+> John 3: 6-7, “_-That which is born of flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I say to you: you must be born again. -_”
 
 Being born again is a result of faith in Jesus Christ and occurs at the instant you personally believe in Jesus Christ.
 
@@ -75,7 +77,7 @@ Remember that any kind of life must have a place to reside. The human soul is wh
 
 Soul life exists forever. The believer will live forever in heaven; the unbeliever will live forever in the lake of fire.
 
-John 3:36, “_For he that believes on the Son has everlasting life. But he that does not believe on the Son shall not see life, but the wrath of God abides on him._”
+> John 3:36, “_For he that believes on the Son has everlasting life. But he that does not believe on the Son shall not see life, but the wrath of God abides on him._”
 
 So regeneration means the creation of a human spirit for the imputation of eternal life. The soul is the residence of human life; the human spirit is the residence of eternal life.
 
@@ -85,7 +87,7 @@ Just as the soul is the residence for soul or human life, so the human spirit is
 
 Conception is the origin of the human body; this is biological life. When biological life emerges from the womb, God creates human life and imputes it to the human soul.
 
-**The Baptism of the Holy Spirit**
+# The Baptism of the Holy Spirit
 
 The baptism of the Holy Spirit was prophesied in Acts 1:5. It is mentioned in principle and mechanics in 1 Cor. 12:13; Gal. 3:26-28; Eph. 4:5.
 
@@ -109,11 +111,11 @@ Once you are put into union with Christ also called positional sanctification, y
 
 The baptism of the Holy Spirit is the basis for the new spiritual species and the royal family of God. This is a unifying factor in the body of Christ. We have equal privilege and opportunity to execute God’s plan.
 
-**The Indwelling of the Holy Spirit**
+# The Indwelling of the Holy Spirit
 
 At the moment you believe in Christ, God the Holy Spirit indwells your body, 1 Cor. 3:16, 6:19-20; 2 Cor. 6:16.
 
-1 Cor. 6:19-20, “_Your body is a temple of the Holy Spirit who is in you . . ._”
+> 1 Cor. 6:19-20, “_Your body is a temple of the Holy Spirit who is in you . . ._”
 
 The purpose of the indwelling of the Holy Spirit is to provide a temple for the indwelling of Jesus Christ as the shekinah glory. This is necessary because we all have the old sin nature resident in the cell structure of our bodies, with a predilection to sin in certain areas.
 
@@ -132,7 +134,7 @@ So the indwelling of the Holy Spirit and the filling of the Holy Spirit are not 
 
 The indwelling of the Holy Spirit has nothing to do with your personal life, how you act, or how you conduct your life. It is permanent. The filling of the Holy Spirit, however, is affected by our thinking or behavior, because personal sin is a factor, as shown in the next section.
 
-**The Filling of the Holy Spirit**
+# The Filling of the Holy Spirit
 
 The filling of the Holy Spirit is taught in Eph. 5:18; Gal. 5:16.
 
@@ -144,7 +146,7 @@ When we sin, we lose the filling of the Holy Spirit. We grieve the Holy Spirit. 
 
 To recover the filling of the Holy Spirit after sinning, we must use confession, which is described in 1 John 1:9.
 
-**The Sealing Ministry of the Holy Spirit.**
+# The Sealing Ministry of the Holy Spirit.
 
 The sealing ministry of the Holy Spirit is found in Eph 1:13-14, 4:30.
 
@@ -162,7 +164,7 @@ This is His ministry whereby the Holy Spirit signs the guarantee of our salvatio
 
 Both the indwelling of Christ and the sealing of the Holy Spirit guarantee our blessings.
 
-**The Sovereign Distribution of Spiritual Gifts to each Believer**
+# The Sovereign Distribution of Spiritual Gifts to each Believer
 
 All three members of the trinity are actually involved in the distribution of our spiritual gifts.
 
@@ -176,7 +178,7 @@ At the very moment you believed in Jesus Christ, you were given a spiritual gift
 
 The distribution of spiritual gifts at the moment of salvation is the manifestation of team action in the body of Christ. It is the basis for administration and service in the royal family. It is the expression of the modus operandi of the church age believer, both as a royal priest and as a royal ambassador.
 
-**The Two Post Salvation Ministries of the Holy Spirit.**
+# The Two Post Salvation Ministries of the Holy Spirit.
 
 After salvation, the Holy Spirit has two post salvation ministries.
 
@@ -186,7 +188,7 @@ The teaching ministry of the Holy Spirit can only occur when a believer is in fe
 
 Therefore, the post salvation ministries of the Holy Spirit are related to our understanding of Bible doctrine, John 14:26, 16:12-14; 1 Cor. 2:9-16.
 
-**Bibliography** (principal sources):
+# Bibliography (principal sources):
 
 **Chafer, Lewis Sperry**, “Systematic Theology”
 
