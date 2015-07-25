@@ -21,7 +21,9 @@ Matthew 1:18-20; Heb 10:5.
 
 The Holy Spirit is the source or agent of conception. The Father planned Christ’s human body. The Holy Spirit was the agent carrying out the mechanics of the virgin birth. He provided the perfect chromosomes which fertilized the female ovum. The Holy Spirit is thus the agent in the execution of the hypostatic union.
 
-# The ministry of the Holy Spirit begins at the Incarnation: John 3:34.
+# The ministry of the Holy Spirit begins at the Incarnation: 
+
+John 3:34.
 
 1.  Not only does the Holy Spirit indwell the body of Christ, but He also filled His soul.
 
@@ -39,11 +41,15 @@ The Holy Spirit is the source or agent of conception. The Father planned Christ�
 
 2.  Thus, the total ministry of the Holy Spirit to the incarnate Christ has been continued in the church.
 
-# The Ministry of the Holy Spirit Related to the Baptism of Jesus Christ: Matthew 3:13-17.
+# The Ministry of the Holy Spirit Related to the Baptism of Jesus Christ: 
+
+Matthew 3:13-17.
 
 The dove speaks of the omnipotence of the Holy Spirit. Water represents the kingdom of God. Christian converts identified themselves with the kingdom of God by being baptized. They were testifying to the fact that they no longer had any responsibility to Judaism. Our Lord in the water represented the plan of God for our Incarnation in Christ. Christ in the water represented to others His dedication to the plan of God.
 
-# The Ministry of the Holy Spirit Related to the Public Ministry of Christ: Matthew 12:18.
+# The Ministry of the Holy Spirit Related to the Public Ministry of Christ: 
+
+Matthew 12:18.
 
 Jesus quotes the prophesy of the Holy Spirit’s sustaining ministry of Isa 42:1. In the same context, He says that His miracles were performed in the power of the sustaining ministry of the Holy Spirit.
 
