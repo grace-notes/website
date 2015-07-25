@@ -2,7 +2,7 @@
 title: "Holy Spirit - Sustaining Ministry"
 pdf: "holyspirit_sustainingministry.pdf"
 description: "Holy Spirit - Sustaining Ministry -  The Holy Spirit sustained Christ during His time on earth, and the Holy Spirit sustains believers in the Christian life."
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
 ---
 
@@ -11,17 +11,17 @@ Berachah Church, Houston, Texas
 
 During the period of the first advent, the humanity of Christ was sustained by the indwelling and filling of the Holy Spirit. The humanity of Christ had to be sustained by God the Holy Spirit, just as the members of the royal family, the church, would be sustained by the enabling power of the Holy Spirit during the Christian life.
 
-**The Prophesy of this Ministry**
+# The Prophesy of this Ministry
 
 Isa. 11:1-3, 42:1, 61:1a.
 
-**The sustaining ministry of the Holy Spirit occurs first at the virgin birth,**
+# The sustaining ministry of the Holy Spirit occurs first at the virgin birth,
 
 Matthew 1:18-20; Heb 10:5.
 
 The Holy Spirit is the source or agent of conception. The Father planned Christ’s human body. The Holy Spirit was the agent carrying out the mechanics of the virgin birth. He provided the perfect chromosomes which fertilized the female ovum. The Holy Spirit is thus the agent in the execution of the hypostatic union.
 
-**The ministry of the Holy Spirit begins at the Incarnation:** John 3:34.
+# The ministry of the Holy Spirit begins at the Incarnation: John 3:34.
 
 1.  Not only does the Holy Spirit indwell the body of Christ, but He also filled His soul.
 
@@ -39,21 +39,25 @@ The Holy Spirit is the source or agent of conception. The Father planned Christ�
 
 2.  Thus, the total ministry of the Holy Spirit to the incarnate Christ has been continued in the church.
 
-**The Ministry of the Holy Spirit Related to the Baptism of Jesus Christ:** Matthew 3:13-17.
+# The Ministry of the Holy Spirit Related to the Baptism of Jesus Christ: Matthew 3:13-17.
 
 The dove speaks of the omnipotence of the Holy Spirit. Water represents the kingdom of God. Christian converts identified themselves with the kingdom of God by being baptized. They were testifying to the fact that they no longer had any responsibility to Judaism. Our Lord in the water represented the plan of God for our Incarnation in Christ. Christ in the water represented to others His dedication to the plan of God.
 
-**The Ministry of the Holy Spirit Related to the Public Ministry of Christ:** Matthew 12:18.
+# The Ministry of the Holy Spirit Related to the Public Ministry of Christ: Matthew 12:18.
 
 Jesus quotes the prophesy of the Holy Spirit’s sustaining ministry of Isa 42:1. In the same context, He says that His miracles were performed in the power of the sustaining ministry of the Holy Spirit.
 
 Lk 4:14-21 tells us that the teaching ministry of our Lord was also performed in the power of the Holy Spirit.
 
-**The Holy Spirit had a part in the resurrection of Christ**: Rom 8:11.
+# The Holy Spirit had a part in the resurrection of Christ: 
 
-**The permanent indwelling of the Holy Spirit is a guarantee of resurrection for the royal family**: 1 Pet 3:18-19.
+Rom 8:11.
 
-**The sustaining ministry of the Holy Spirit is transferred to the royal family.**
+# The permanent indwelling of the Holy Spirit is a guarantee of resurrection for the royal family: 
+
+1 Pet 3:18-19.
+
+# The sustaining ministry of the Holy Spirit is transferred to the royal family.
 
 * Just as the Holy Spirit sustained the humanity of Christ during the incarnation, so now the Holy Spirit sustains the believer during his life.
 
@@ -73,7 +77,7 @@ Lk 4:14-21 tells us that the teaching ministry of our Lord was also performed in
 
 * The filling of the Holy Spirit sets aside the lust pattern of the old sin nature which distracts from the perception and application of Bible doctrine.
 
-**The Royal Family’s Glorification of Christ through the Ministry of the Holy Spirit.**
+# The Royal Family’s Glorification of Christ through the Ministry of the Holy Spirit.
 
 The purpose of the sustaining ministry of the Holy Spirit in the church age is to glorify Christ, John 7:38-39. Rivers of living water means the permanent indwelling of the Holy Spirit. Compare John 16:13-14 to the previous verse.
 
@@ -87,5 +91,5 @@ At this point Christ is formed in you, Gal 4:19, and the indwelling of the Holy 
 
 The fulfillment of the transitional ministry of the Holy Spirit and its results in the life of the believer are found in Phil. 1:20-21.
 
-“_For me to live is Christ and to die is gain._”
+> “_For me to live is Christ and to die is gain._”
 
