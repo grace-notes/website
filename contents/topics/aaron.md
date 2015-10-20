@@ -19,6 +19,7 @@ Miriam was several years older, since she was set to watch the bulrush
 boat of the infant Moses, at whose birth Aaron was three years old (Ex.
 7:7).
 
+
 When Moses fled from Egypt, Aaron remained to share the hardships of his
 people, and possibly to render them some service; for we are told that
 Moses pleaded inability and God sent Aaron to aid in his mission to
