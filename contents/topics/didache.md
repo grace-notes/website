@@ -6,7 +6,7 @@ description: "The Didache, meaning “teaching” is the short name of a Christi
 tableOfContents: true
 template: topic.jade
 ---
-##The Didache
+##The Didache  
  
 ###The Teaching of the Twelve Apostles (The Didache)
 ###Introduction   
