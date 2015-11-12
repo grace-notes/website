@@ -634,13 +634,12 @@ p code {
 
 
 .fullscreen .wrapper {
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
-  bottom: 0;
+  bottom: auto;
   left: 0;
   background: #fff;
-  overflow: hidden;
   max-height: 100%;
   padding: 15px 30px;
   .next-prev {
@@ -660,14 +659,6 @@ p code {
   .container {
     width: auto;
   }
-  .wrapper-inner {
-    position: absolute;
-    top: 60px;
-    bottom: 45px;
-    left: 45px;
-    right: 45px;
-    overflow: auto;
-  }
   @media (max-width: 767px) {
     .booknav {
       left: auto;
@@ -678,13 +669,6 @@ p code {
           display: none;
         }
       }
-    }
-    .wrapper-inner {
-      top: 45px;
-      left: 15px;
-      right: 15px;
-      bottom: 15px;
-      font-size: 90%;
     }
   }
 }

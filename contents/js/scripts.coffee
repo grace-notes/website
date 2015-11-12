@@ -134,13 +134,6 @@ $(document).ready ->
         if page > 1 then go --page
       if e.which is 39
         if page < count then go ++page
-
-    $('#TOC').on 'click', 'a', (e)->
-      if $('body').hasClass('fullscreen')
-        e.preventDefault()
-        target = $('section'+$(this).attr('href'))
-        page = 1 + Math.floor( ( wrapper.scrollLeft() + target.children().first().position().left ) / pageWidth )
-        go page
       
 
 
