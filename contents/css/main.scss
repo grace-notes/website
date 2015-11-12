@@ -661,18 +661,12 @@ p code {
     width: auto;
   }
   .wrapper-inner {
-    -webkit-column-width: 30em;
-    -moz-column-width: 30em;
-    column-width: 30em;
-    -webkit-column-gap: 30px;
-    -moz-column-gap: 30px;
-    column-gap: 30px;
     position: absolute;
     top: 60px;
     bottom: 45px;
     left: 45px;
     right: 45px;
-    overflow-x: hidden;
+    overflow: auto;
   }
   @media (max-width: 767px) {
     .booknav {
