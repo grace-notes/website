@@ -2,7 +2,8 @@ $ = jQuery
 
 $(document).ready ->
 
-  $('p,li,em,i,strong,b,u,span').hyphenate('en-us')
+  if $.fn.hyphenate
+    $('p,li,em,i,strong,b,u,span').hyphenate('en-us')
 
   # Track pdf links
   
