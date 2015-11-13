@@ -1,7 +1,7 @@
 ---
-title: "Pilgrim Church by Broadbent"
-indexTitle: "Pilgrm Church"
-description: "by E. H. Broadbent.  A concise history of the Church compared with the principles taught in the New Testament."
+title: "Ecumenical Council"
+indexTitle: "Ecumenical Council"
+description: "An ecumenical council is a conference of ecclesiastical dignitaries and theological experts convened to discuss and settle matters of Church doctrine and practice in which those entitled to vote are convoked from the whole world (οικυμενει) and which secures the approbation of the whole Church."
 template: topic.jade
 tableOfContents: false
 author: Warren Doud
@@ -9,8 +9,8 @@ author: Warren Doud
 
 **Click on link to view or download the PDF file.**
 
-**[Pilgrim Church, E. H. Broadbent]  
-(http://www.gracenotes.info/documents/topics_doc/pilgrim-church-broadbent.pdf)**
+**[Ecumenical Council]  
+(http://www.gracenotes.info/documents/topics_doc/ecumenical-council.pdf)**
 
 
 

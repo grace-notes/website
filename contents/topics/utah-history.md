@@ -1,7 +1,7 @@
 ---
-title: "Pilgrim Church by Broadbent"
-indexTitle: "Pilgrm Church"
-description: "by E. H. Broadbent.  A concise history of the Church compared with the principles taught in the New Testament."
+title: "Utah, History of"
+indexTitle: "Utah, History of"
+description: "by Hubert Howe Bancroft. A unique historical document, with superb treatment of the history of the Mormons."
 template: topic.jade
 tableOfContents: false
 author: Warren Doud
@@ -9,8 +9,8 @@ author: Warren Doud
 
 **Click on link to view or download the PDF file.**
 
-**[Pilgrim Church, E. H. Broadbent]  
-(http://www.gracenotes.info/documents/topics_doc/pilgrim-church-broadbent.pdf)**
+**[The History of Utah]  
+(http://www.gracenotes.info/documents/topics_doc/utah.history.pdf)**
 
 
 
