@@ -1,7 +1,7 @@
 ---
-title: "Nelson, Horatio, Biography"
-indexTitle: "Nelson, Horatio"
-description: "Biography – by Sir William Beechy, a contemporary of the great British hero of the Battle of Trafalgar."
+title: "Plan of God, The"
+indexTitle: "Plan of God"
+description: "God’s plan is ultimately to sum up all things in Christ, to use all of the created universe to physically and spiritually manifest the glory of His Son. This includes you and me."
 template: topic.jade
 tableOfContents: false
 author: Warren Doud
@@ -9,8 +9,8 @@ author: Warren Doud
 
 **Click on link to view or download the PDF file.**
 
-**[Horatio Nelson Biography]  
-(http://www.gracenotes.info/documents/topics_doc/nelson_horatio_biography.pdf)**
+**[The Plan of God]  
+(http://www.gracenotes.info/documents/topics_doc/plan-of-god-bolender.pdf)**
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: "Nelson, Horatio, Biography"
-indexTitle: "Nelson, Horatio"
-description: "Biography – by Sir William Beechy, a contemporary of the great British hero of the Battle of Trafalgar."
+title: "Spirituality and Carnality"
+indexTitle: "Spirituality and Carnality"
+description: "at any given time, a Christian is either filled with the Holy Spirit (in fellowship), or not.  He is either spiritual or carnal."
 template: topic.jade
 tableOfContents: false
 author: Warren Doud
@@ -9,8 +9,8 @@ author: Warren Doud
 
 **Click on link to view or download the PDF file.**
 
-**[Horatio Nelson Biography]  
-(http://www.gracenotes.info/documents/topics_doc/nelson_horatio_biography.pdf)**
+**[Spirituality and Carnality]  
+(http://www.gracenotes.info/documents/topics_doc/spirituality-carnality.pdf)**
 
 
 
