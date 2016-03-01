@@ -38,23 +38,21 @@ human hearts.”
 
 **Principles**
 
-1. The law of the Spirit of life is a law found not on tablets of stone
-but on the heart of the believer.
+<ol>
+<li>The law of the Spirit of life is a law found not on tablets of stone but on the heart of the believer.</li>
 
-2. It is a law possessed by the Holy Spirit.
+<li>It is a law possessed by the Holy Spirit.</li>
 
-3. While normally a law regulates and controls, this law sets free.
+<li>While normally a law regulates and controls, this law sets free.</li>
 
 <blockquote><strong>II Corinthians 3:17 “Now the Lord is the Spirit; and where the Spirit of
 the Lord is, there is liberty.”</blockquote></strong>
 
-4. Since the Law of the Spirit is the Holy Spirit himself that law is
-not to be limited by a ridged system of law of legalism:
+<li value=4>Since the Law of the Spirit is the Holy Spirit himself that law is not to be limited by a ridged system of law of legalism:</li>
 
 <blockquote><strong>II Corinthians 3:6 “Who (God) also made us adequate as servants of a new covenant, not of the letter, but of the Spirit; for the letter kills, but the Spirit gives life.”</blockquote></strong>
 
-5. The Law of the Spirit of life for the believer works in the believer
-at all times.
+<li value=5>The Law of the Spirit of life for the believer works in the believer at all times.</li>
 
 We too often think that the Holy Spirit is totally idle when we are out
 of fellowship and that is not the case:
@@ -63,12 +61,10 @@ of fellowship and that is not the case:
 
 <blockquote><strong>Galatians 5:17 “For the flesh sets its desire against the Spirit, and the Spirit against the flesh; for these are in opposition to one another, so that you may not do the things that you please.”</blockquote></strong>
 
-6. We are always free, we are always indwelled by the Holy Spirit, but
-to enjoy the benefits of freedom and the power and ministries of the
-Spirit we must be in fellowship, F/HS.
+<li value=6>We are always free, we are always indwelled by the Holy Spirit, but to enjoy the benefits of freedom and the power and ministries of the Spirit we must be in fellowship, F/HS.</li>
 
-7. And we are the Holy Spirit works in us continually cleansing us,
-conforming us, to the image and character of Christ.
+<li>And we are the Holy Spirit works in us continually cleansing us, conforming us, to the image and character of Christ.</li>
+</ol>
 
 As Paul comes out of the struggle of Romans 7, the great declaration of
 this new Law of the Spirit of life is . . . FREEDOM.
@@ -145,22 +141,19 @@ serving others.
 
 Jesus Christ set the precedent for our freedom:
 
-1. Jesus Christ set the precedent at the cross. He was free to reject
-the cross, but He recognized the Father’s authority and became obedient
-even unto death,
+<ol>
+<li>Jesus Christ set the precedent at the cross. He was free to reject the cross, but He recognized the Father’s authority and became obedient even unto death,</li>
 
 <blockquote><strong>Hebrews 5:8 “Although He was a Son, He learned obedience from the things which He suffered.”</blockquote></strong>
 
-Philippians 2:8 “And being found in appearance as a man, He humbled
+<blockquote><strong>Philippians 2:8 “And being found in appearance as a man, He humbled</blockquote></strong>
 Himself by becoming obedient to the point of death, even death on a
 cross”.
 
-2. The Lord Jesus Christ was totally obedient. His obedience at the
-cross results in our spiritual freedom.
+<li value=2>The Lord Jesus Christ was totally obedient. His obedience at the cross results in our spiritual freedom.</li>
 
-3. The application to us is that we need to exercise our volition
-towards self-discipline and consistently use our freedom for the
-learning, thinking, and applying of Bible doctrine.
+<li>The application to us is that we need to exercise our volition towards self-discipline and consistently use our freedom for the
+learning, thinking, and applying of Bible doctrine.</li>
 
 We are free in the Spirit and that means we are free to live the Christ
 Centered life in freedom, not bondage, serving God and others out of our
