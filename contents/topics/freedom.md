@@ -154,6 +154,7 @@ cross”.
 
 <li>The application to us is that we need to exercise our volition towards self-discipline and consistently use our freedom for the
 learning, thinking, and applying of Bible doctrine.</li>
+</ol>
 
 We are free in the Spirit and that means we are free to live the Christ
 Centered life in freedom, not bondage, serving God and others out of our
