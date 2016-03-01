@@ -23,20 +23,13 @@ message about a way to be free.
 The LAW OF THE SPIRIT OF LIFE is the same higher principle of law that
 James referred to:
 
-James 1:25 “But one who looks intently at the perfect law, the law of
-liberty, and abides by it, not having become a forgetful hearer but an
-effectual doer, this man shall be blessed in what he does.”
+<blockquote><strong>James 1:25 “But one who looks intently at the perfect law, the law of liberty, and abides by it, not having become a forgetful hearer but aneffectual doer, this man shall be blessed in what he does.”</blockquote><strong>
 
-James 2:8 “However, you are fulfilling the royal law, according to the
-Scripture, You shall love your neighbor as yourself, you are doing
-well.”
+<blockquote><strong>James 2:8 “However, you are fulfilling the royal law, according to the Scripture, You shall love your neighbor as yourself, you are doing well.”</blockquote><strong>
 
 In Hebrews it is seen as that better hope:
 
-Hebrews 7:18-19 “For, on the one hand, there is a setting aside of a
-former commandment because of its weakness and uselessness (for the Law
-made nothing perfect), and on the other hand there is a bringing in of a
-better hope, through which we draw near to God.”
+<blockquote><strong>Hebrews 7:18-19 “For, on the one hand, there is a setting aside of a former commandment because of its weakness and uselessness (for the Law made nothing perfect), and on the other hand there is a bringing in of a better hope, through which we draw near to God.”</blockquote></strong>
 
 In II Corinthians 3:3 we find where this law is written: “You are a
 letter of Christ, cared for by us, written not with ink, but with the
@@ -68,12 +61,9 @@ at all times.
 We too often think that the Holy Spirit is totally idle when we are out
 of fellowship and that is not the case:
 
-James 4:5 “Or do you think that the Scripture speaks to no purpose: He
-jealously desires the Spirit which He has made to dwell in us?”
+<blockquote><strong>James 4:5 “Or do you think that the Scripture speaks to no purpose: He jealously desires the Spirit which He has made to dwell in us?”</blockquote></strong>
 
-Galatians 5:17 “For the flesh sets its desire against the Spirit, and
-the Spirit against the flesh; for these are in opposition to one
-another, so that you may not do the things that you please.”
+<blockquote><strong>Galatians 5:17 “For the flesh sets its desire against the Spirit, and the Spirit against the flesh; for these are in opposition to one another, so that you may not do the things that you please.”</blockquote></strong>
 
 6. We are always free, we are always indwelled by the Holy Spirit, but
 to enjoy the benefits of freedom and the power and ministries of the
