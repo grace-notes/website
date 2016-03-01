@@ -45,15 +45,13 @@ but on the heart of the believer.
 
 3. While normally a law regulates and controls, this law sets free.
 
-II Corinthians 3:17 “Now the Lord is the Spirit; and where the Spirit of
-the Lord is, there is liberty.”
+<blockquote><strong>II Corinthians 3:17 “Now the Lord is the Spirit; and where the Spirit of
+the Lord is, there is liberty.”</blockquote></strong>
 
 4. Since the Law of the Spirit is the Holy Spirit himself that law is
 not to be limited by a ridged system of law of legalism:
 
-II Corinthians 3:6 “Who (God) also made us adequate as servants of a new
-covenant, not of the letter, but of the Spirit; for the letter kills,
-but the Spirit gives life.”
+<blockquote><strong>II Corinthians 3:6 “Who (God) also made us adequate as servants of a new covenant, not of the letter, but of the Spirit; for the letter kills, but the Spirit gives life.”</blockquote></strong>
 
 5. The Law of the Spirit of life for the believer works in the believer
 at all times.
@@ -98,9 +96,7 @@ God.
 
 **Some Passages that Describe our Freedom:**
 
-Romans 8:21 “That the creation itself also will be set free from its
-slavery to corruption into the freedom of the glory of the children of
-God.”
+<blockquote><strong>Romans 8:21 “That the creation itself also will be set free from its slavery to corruption into the freedom of the glory of the children of God.”</blockquote></strong>
 
 Nature, the environment, will one day be as free as you, the believer. I
 toss that in because we think of being as free as nature? Nature, to
@@ -109,8 +105,7 @@ personify it, wants to be as free as we are.
 Since the beginning of the church there are those who cannot stand the
 freedom the believer has:
 
-I Corinthians 10:29 “For why is my freedom judged by another’s
-conscience?”
+<blockquote><strong>I Corinthians 10:29 “For why is my freedom judged by another’s conscience?”</blockquote></strong>
 
 Also Galatians 2:4 the Jerusalem Council: But it was because of the
 false brethren who had sneaked in to spy out our liberty which we have
@@ -119,8 +114,7 @@ in Christ Jesus, in order to bring us into bondage.
 We are to maintain freedom so as to not be brought back into any ridged
 system:
 
-Galatians 5:1 It was for freedom that Christ set us free; therefore keep
-standing firm and do not be subject again to a yoke of slavery.
+<blockquote><strong>Galatians 5:1 It was for freedom that Christ set us free; therefore keep standing firm and do not be subject again to a yoke of slavery.</blockquote></strong>
 
 We are to use our freedom to minister to others: Galatians 5:13 For you
 were called to freedom, brethren; only do not turn your freedom into an
@@ -155,8 +149,7 @@ Jesus Christ set the precedent for our freedom:
 the cross, but He recognized the Father’s authority and became obedient
 even unto death,
 
-Hebrews 5:8 “Although He was a Son, He learned obedience from the things
-which He suffered.”
+<blockquote><strong>Hebrews 5:8 “Although He was a Son, He learned obedience from the things which He suffered.”</blockquote></strong>
 
 Philippians 2:8 “And being found in appearance as a man, He humbled
 Himself by becoming obedient to the point of death, even death on a
