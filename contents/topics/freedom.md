@@ -23,7 +23,7 @@ message about a way to be free.
 The LAW OF THE SPIRIT OF LIFE is the same higher principle of law that
 James referred to:
 
-<blockquote><strong>James 1:25 “But one who looks intently at the perfect law, the law of liberty, and abides by it, not having become a forgetful hearer but aneffectual doer, this man shall be blessed in what he does.”</blockquote><strong>
+<blockquote><strong>James 1:25 “But one who looks intently at the perfect law, the law of liberty, and abides by it, not having become a forgetful hearer but aneffectual doer, this man shall be blessed in what he does.”</blockquote></strong>
 
 <blockquote><strong>James 2:8 “However, you are fulfilling the royal law, according to the Scripture, You shall love your neighbor as yourself, you are doing well.”</blockquote><strong>
 
