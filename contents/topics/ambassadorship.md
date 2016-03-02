@@ -6,11 +6,9 @@ tableOfContents: false
 template: topic.jade
 ---
 
-“Now then, we are ambassadors for Christ, as though God did beseech you
-by us: we pray you in Christ’s stead, be reconciled to God.” 2 Cor. 5:20
+<blockquote><strong>“Now then, we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be reconciled to God.” 2 Cor. 5:20</blockquote></strong>
 
-“For which I am an ambassador in bonds: that therein I may speak boldly,
-as I ought to speak.” Eph. 6:20
+<blockquote><strong>“For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.” Eph. 6:20</blockquote></strong>
 
 The following are comments regarding the concept of a Christian’s
 position as an ambassador of Christ.
