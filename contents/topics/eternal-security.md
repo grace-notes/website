@@ -66,9 +66,9 @@ God’s purpose is introduced in Rom. 8:28, then explained in verses 29 and 30. 
 
 and I give eternal life to them, and they will never perish; and no one will snatch them out of My hand.
 
-My Father, who has given *them*to Me, is greater than all; and no one is able to snatch *them* out of the Father’s hand.
+My Father, who has given *them*to Me, is greater than all; and no one is able to snatch *them* out of the Father’s hand. </blockquote></strong>
 
-A believer is held by (1) God the Son’s hand, and (2) God the Father’s hand; we can never be let go.</blockquote></strong>
+A believer is held by (1) God the Son’s hand, and (2) God the Father’s hand; we can never be let go.
 
 This passage refers to people who have accepted Christ, the Lord says “_My sheep…_”. In verse 29 we wee that security rests in God’s ability to “hold on” to believers, **not** in a person’s ability to “hold on” to God. To question that security is to question this promise, and to question God’s ability.
 
