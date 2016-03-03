@@ -52,7 +52,7 @@ Our salvation is based on the **divine purpose** of God. The Father, the Son, an
 
 *_It is the Father’s purpose to save us._*
 
-<blockquote><strong>**Rom. 8:28-30.** And we know that God causes all things to work together for good to those who love God, to those who are called according to *His*purpose.
+<blockquote><strong>**Rom. 8:28-30.** And we know that God causes all things to work together for good to those who love God, to those who are called according to *His*purpose.</blockquote></strong>
 
 For those whom He foreknew, He also predestined *to become*conformed to the image of His Son, so that He would be the firstborn among many brethren;
 
