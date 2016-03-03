@@ -166,9 +166,9 @@ another and to Christ, such as “born again”, “children”, “brothers”.
 
 saying, “I will proclaim Your name to My brethren, In the midst of the congregation I will sing Your praise.”
 
-And again, “I will put My trust in Him.” And again, “Behold, I and the children whom God has given Me.”
+And again, “I will put My trust in Him.” And again, “Behold, I and the children whom God has given Me.”</blockquote></strong>
 
-As you placed your confidence in Christ for salvation, so place your confidence in God the Father for your eternal preservation in Christ.</blockquote></strong>
+As you placed your confidence in Christ for salvation, so place your confidence in God the Father for your eternal preservation in Christ.
 
 [^1]: This article is compiled from notes taken from the teaching ministries of Chester McCalley, R. B. Thieme, Jr., and others.
 
