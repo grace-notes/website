@@ -138,9 +138,9 @@ just as He chose us in Him before the foundation of the world, that we would be 
 
 He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,
 
-to the praise of the glory of His grace, which He freely bestowed on us in the Beloved.
+to the praise of the glory of His grace, which He freely bestowed on us in the Beloved.</blockquote></strong>
 
-Union with Christ (positional truth) is irreversible. It is ludicrous to think that believers can somehow pop in and out of our position in Christ.</blockquote></strong>
+Union with Christ (positional truth) is irreversible. It is ludicrous to think that believers can somehow pop in and out of our position in Christ.
 
 ### Topic: Union with Christ
 
