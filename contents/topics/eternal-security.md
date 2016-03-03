@@ -149,11 +149,11 @@ Union with Christ (positional truth) is irreversible. It is ludicrous to think t
 God did the most for us when we were His enemies, how “much more” will
 He do for us now that we are in His family?
 
-<blockquote><strong>**Rom. 5:9,10.**Much more then, having now been justified by His blood, we shall be saved from the wrath *of God* through Him.
+<blockquote><strong>**Rom. 5:9,10.**Much more then, having now been justified by His blood, we shall be saved from the wrath *of God* through Him.</blockquote></strong>
 
 For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life.
 
-**Rom. 5:17.**For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.
+<blockquote><strong>**Rom. 5:17.**For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.
 
 **Rom. 8:32.** He who did not spare His own Son, but delivered Him over for us all, how will He not also with Him freely give us all things?</blockquote></strong>
 
