@@ -16,30 +16,23 @@ Man’s relationship to God is one of creature to Creator. God is
 sovereign over the whole human race by virtue of creation, whether this
 is acknowledged by people or not.
 
-**Jer. 32:27.**Behold, I am the Lord, the God of all flesh; is anything
-too difficult for Me?
+<blockquote><strong>**Jer. 32:27.**Behold, I am the Lord, the God of all flesh; is anything too difficult for Me?</blockquote></strong>
 
 However, God is **not** the Father of the human race, only of those who
 believe.
 
-**Gal. 3:26.** For you are all sons of God through faith in Christ
-Jesus.
+<blockquote><strong>**Gal. 3:26.** For you are all sons of God through faith in Christ Jesus.</blockquote></strong>
 
 **Man is a living soul; and all souls belong to God.**
 
-**Gen. 2:7.**Then the Lord God formed man of dust from the ground, and
-breathed into his nostrils the breath of life; and man became a living
-being.
+<blockquote><strong>**Gen. 2:7.**Then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being.</blockquote></strong>
 
-**Ezek. 18:4.**Behold, all souls are Mine; the soul of the father as
-well as the soul of the son is Mine.
+<blockquote><strong>**Ezek. 18:4.**Behold, all souls are Mine; the soul of the father as well as the soul of the son is Mine.</blockquote></strong>
 
 A person’s eternal relationship to God is based on that person’s
 response to God’s offer of salvation by faith in Jesus Christ.
 
-**John 3:36.** He who believes in the Son has eternal life; but he who
-does not obey the Son will not see life, but the wrath of God abides on
-him.
+<blockquote><strong>**John 3:36.** He who believes in the Son has eternal life; but he who does not obey the Son will not see life, but the wrath of God abides on him.</blockquote></strong>
 
 Therefore, there are two types of people in the human race: believers
 and unbelievers; saved souls and unsaved souls. And there are two
