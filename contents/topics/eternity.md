@@ -60,11 +60,10 @@ A place of torment:
 
 **A resurrection to life.**
 
-**John 5:28,29.**Do not marvel at this; for an hour is coming, in which
+<blockquote><strong>**John 5:28,29.**Do not marvel at this; for an hour is coming, in which
 all who are in the tombs will hear His voice,
 
-and will come forth; those who did the good *deeds*to a resurrection of
-life, those who committed the evil *deeds*to a resurrection of judgment.
+and will come forth; those who did the good *deeds*to a resurrection of life, those who committed the evil *deeds*to a resurrection of judgment.</blockquote></strong>
 
 **A “far better place”.**
 
@@ -78,7 +77,7 @@ life, those who committed the evil *deeds*to a resurrection of judgment.
 
 <blockquote><strong>**1 Peter 1:3,4.** Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has caused us to be born again to a living hope through the resurrectio
 
-to *obtain*an inheritance *which is* imperishable and undefiled and will not fade away, reserved in heaven for you, <blockquote><strong>
+to *obtain*an inheritance *which is* imperishable and undefiled and will not fade away, reserved in heaven for you, </blockquote></strong>
 
 **Reunion with loved ones in the Lord.**
 
