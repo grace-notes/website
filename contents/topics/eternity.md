@@ -40,8 +40,7 @@ destinations for people in eternity.
 
 A place of bliss:
 
-**John 14:1-3.**Do not let your heart be troubled; believe in God,
-believe also in Me.
+<blockquote><strong>**John 14:1-3.**Do not let your heart be troubled; believe in God, believe also in Me. </blockquote></strong>
 
 In My Father’s house are many dwelling places; if it were not so, I
 would have told you; for I go to prepare a place for you.
@@ -53,8 +52,7 @@ to Myself, that where I am, *there*you may be also.
 
 A place of torment:
 
-**Rev. 20:15.**And if anyone’s name was not found written in the book of
-life, he was thrown into the lake of fire.
+<blockquote><strong>**Rev. 20:15.**And if anyone’s name was not found written in the book of life, he was thrown into the lake of fire. </blockquote></strong>
 
 **Luke 16:19-31**
 
@@ -70,28 +68,21 @@ life, those who committed the evil *deeds*to a resurrection of judgment.
 
 **A “far better place”.**
 
-**Phil. 1:23.**But I am hard-pressed from both *directions,* having the
-desire to depart and be with Christ, for *that*is very much better;
+<blockquote><strong>**Phil. 1:23.**But I am hard-pressed from both *directions,* having the desire to depart and be with Christ, for *that*is very much better; </blockquote></strong>
 
 **Eternity in the presence of God.**
 
-**2 Cor. 5:8.** we are of good courage, I say, and prefer rather to be
-absent from the body and to be at home with the Lord.
+<blockquote><strong>**2 Cor. 5:8.** we are of good courage, I say, and prefer rather to be absent from the body and to be at home with the Lord. </blockquote></strong>
 
 **An inheritance reserved in heaven.**
 
-**1 Peter 1:3,4.** Blessed be the God and Father of our Lord Jesus
-Christ, who according to His great mercy has caused us to be born again
-to a living hope through the resurrection of Jesus Christ from the dead,
+<blockquote><strong>**1 Peter 1:3,4.** Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has caused us to be born again to a living hope through the resurrectio
 
-to *obtain*an inheritance *which is* imperishable and undefiled and will
-not fade away, reserved in heaven for you,
+to *obtain*an inheritance *which is* imperishable and undefiled and will not fade away, reserved in heaven for you, <blockquote><strong>
 
 **Reunion with loved ones in the Lord.**
 
-**1 Thess. 4:16,17.**For the Lord Himself will descend from heaven with
-a shout, with the voice of *the*archangel and with the trumpet of God,
-and the dead in Christ will rise first.
+<blockquote><strong>**1 Thess. 4:16,17.**For the Lord Himself will descend from heaven with a shout, with the voice of *the*archangel and with the trumpet of God, and the dead in Christ will rise first. </blockquote></strong>
 
 Then we who are alive and remain will be caught up together with them in
 the clouds to meet the Lord in the air, and so we shall always be with
@@ -103,20 +94,15 @@ An eternity without Christ (separation from God).
 
 **The “resurrection of damnation”.**
 
-**John 5:28,29.**Do not marvel at this; for an hour is coming, in which
-all who are in the tombs will hear His voice,
+<blockquote><strong>**John 5:28,29.**Do not marvel at this; for an hour is coming, in which all who are in the tombs will hear His voice, 
 
-and will come forth; those who did the good *deeds*to a resurrection of
-life, those who committed the evil *deeds*to a resurrection of judgment.
+and will come forth; those who did the good *deeds*to a resurrection of life, those who committed the evil *deeds*to a resurrection of judgment.</blockquote></strong>
 
 **The Lake of Fire**
 
-**Matt. 25:41. T**hen He will also say to those on His left, ‘Depart
-from Me, accursed ones, into the eternal fire which has been prepared
-for the devil and his angels;
+<blockquote><strong>**Matt. 25:41. T**hen He will also say to those on His left, ‘Depart from Me, accursed ones, into the eternal fire which has been prepared for the devil and his angels; </blockquote></strong>
 
-**Rev. 20:15.**And if anyone’s name was not found written in the book of
-life, he was thrown into the lake of fire.
+<blockquote><strong>**Rev. 20:15.**And if anyone’s name was not found written in the book of life, he was thrown into the lake of fire. </blockquote></strong>
 
 **Rev. 21:8**
 
@@ -139,9 +125,7 @@ residence of the Lord Jesus Christ. The New Jerusalem fulfills a promise
 to Abraham that is still outstanding. Abraham lived in a tent, died in a
 tent, and was promised a city in the future.
 
-**Heb. 11:9,10.** By faith he lived as an alien in the land of promise,
-as in a foreign *land*, dwelling in tents with Isaac and Jacob, fellow
-heirs of the same promise;
+<blockquote><strong>**Heb. 11:9,10.** By faith he lived as an alien in the land of promise, as in a foreign *land*, dwelling in tents with Isaac and Jacob, fellow heirs of the same promise; </blockquote></strong>
 
 for he was looking for the city which has foundations, whose architect
 and builder is God.
@@ -156,29 +140,23 @@ The believer’s hope is based on the fact that we know facts concerning
 eternity. For example, we will be absent from the body and face-to-face
 with the Lord.
 
-**2 Cor. 5:7,8.** for we walk by faith, not by sight
+<blockquote><strong>**2 Cor. 5:7,8.** for we walk by faith, not by sight
 
-we are of good courage, I say, and prefer rather to be absent from the
-body and to be at home with the Lord.
+we are of good courage, I say, and prefer rather to be absent from the body and to be at home with the Lord.</blockquote></strong>
 
 **There is no judgment for the sins of believers.**
 
-**Rom. 8:1.**Therefore there is now no condemnation for those who are in
-Christ Jesus.
+**Rom. 8:1.**Therefore there is now no condemnation for those who are in Christ Jesus.
 
 **The appointment of the 2**<sup>**nd**</sup>**Death is cancelled.**
 
-**Heb. 9:27,28.**And inasmuch as it is appointed for men to die once and
-after this *comes*judgment,
+<blockquote><strong>**Heb. 9:27,28.**And inasmuch as it is appointed for men to die once and after this *comes*judgment,
 
-so Christ also, having been offered once to bear the sins of many, will
-appear a second time for salvation without *reference to*sin, to those
-who eagerly await Him.
+so Christ also, having been offered once to bear the sins of many, will appear a second time for salvation without *reference to*sin, to those who eagerly await Him. </blockquote></strong>
 
 **We have a new home; a new dwelling place.**
 
-**John 14:1-3.** Do not let your heart be troubled; believe in God,
-believe also in Me.
+<blockquote><strong>**John 14:1-3.** Do not let your heart be troubled; believe in God, believe also in Me. </blockquote></strong>
 
 In My Father’s house are many dwelling places; if it were not so, I
 would have told you; for I go to prepare a place for you.
@@ -188,28 +166,20 @@ to Myself, that where I am, *there*you may be also.
 
 **We have an eternal inheritance.**
 
-**1 Peter 1:3-5.** Blessed be the God and Father of our Lord Jesus
-Christ, who according to His great mercy has caused us to be born again
-to a living hope through the resurrection of Jesus Christ from the dead,
+<blockquote><strong>**1 Peter 1:3-5.** Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,
 
-to *obtain*an inheritance *which is* imperishable and undefiled and will
-not fade away, reserved in heaven for you,
+to *obtain*an inheritance *which is* imperishable and undefiled and will not fade away, reserved in heaven for you,
 
-who are protected by the power of God through faith for a salvation
-ready to be revealed in the last time.
+who are protected by the power of God through faith for a salvation ready to be revealed in the last time.</blockquote></strong>
 
 **We will have no more sorrow, no more tears.**
 
-**Rev. 21:4.**and He will wipe away every tear from their eyes; and
-there will no longer be *any*death; there will no longer be
-*any*mourning, or crying, or pain; the first things have passed away.”
+<blockquote><strong>**Rev. 21:4.**and He will wipe away every tear from their eyes; and there will no longer be *any*death; there will no longer be *any*mourning, or crying, or pain; the first things have passed away.” </blockquote></strong>
 
 **We will have a resurrection body in which we will live with Jesus
 Christ forever.**
 
-**1 Thess. 4:16-18.** For the Lord Himself will descend from heaven with
-a shout, with the voice of *the*archangel and with the trumpet of God,
-and the dead in Christ will rise first.
+<blockquote><strong>**1 Thess. 4:16-18.** For the Lord Himself will descend from heaven with a shout, with the voice of *the*archangel and with the trumpet of God, and the dead in Christ will rise first. </blockquote></strong>
 
 Then we who are alive and remain will be caught up together with them in
 the clouds to meet the Lord in the air, and so we shall always be with
@@ -217,9 +187,7 @@ the Lord.
 
 Therefore comfort one another with these words.
 
-**Phil. 3:21.**who will transform the body of our humble state into
-conformity with the body of His glory, by the exertion of the power that
-He has even to subject all things to Himself.
+<blockquote><strong>**Phil. 3:21.**who will transform the body of our humble state into conformity with the body of His glory, by the exertion of the power that He has even to subject all things to Himself.</blockquote></strong>
 
 **1 John 3:1,2**
 
