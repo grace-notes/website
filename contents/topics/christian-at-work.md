@@ -7,10 +7,7 @@ tableOfContents: false
 template: topic.jade
 ---
 
-*Titus 2:9, 10, “Exhort servants to be obedient to their own masters,
-and to please them well in all things; not answering again; not
-stealing, but showing all good fidelity; that they may adorn the
-doctrine of God our Saviour in all things.”*
+<blockquote><strong>Titus 2:9, 10, “Exhort servants to be obedient to their own masters, and to please them well in all things; not answering again; not stealing, but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.”</blockquote></strong>
 
 These verses show in capsule form the principles which are to govern the
 everyday life of a Christian who is an employee and who wants to be a
