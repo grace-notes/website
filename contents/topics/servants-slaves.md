@@ -93,6 +93,7 @@ heirs. The servant was said to have a certain monetary value, that is,
 his labor had a money value; but he was not supposed to be thought of as
 chattel.
 
+
 A slave could be freed in one of four ways:
 
 <ul>
