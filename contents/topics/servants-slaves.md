@@ -73,21 +73,21 @@ with him, she was to be freed with him. However, if his master had
 provided him with a wife, the master could require the wife to stay when
 the man left. The children of such a marriage stayed with the master
 (Exod. 21:3; Jer. 34:8 ff).
-
+<br>
 If the Hebrew servant, for love of his wife and children or other
 reason, preferred not to accept freedom in the seventh year or when his
 obligation was completed, he was brought before the elders of the
 community and had his ear pierced as a token of his willingness to give
 life long servitude to his master (Exod. 21:6; Deut. 15:17).
-
+<br>
 If a Jew were to become the slave of a Gentile, the servitude could be
 terminated in two ways. First, it could be terminated by the arrival of
 the year of jubilee. Second, the servant could be released by payment to
 the master of the purchase price less the value of the services
 rendered, based upon the pay scale of a hired laborer (Lev. 25:47-54).
-
+<br>
 During the time that the slave was possessed by his master, the master had certain power of disposing of him as he would other articles of personal property. He could, for example, leave the servant to his heirs. The servant was said to have a certain monetary value, that is, his labor had a money value; but he was not supposed to be thought of as chattel.
-
+<br>
 A slave could be freed in one of four ways:
 
 <ul>
