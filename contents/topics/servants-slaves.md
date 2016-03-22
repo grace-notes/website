@@ -58,7 +58,7 @@ brethren:
 <li>A Hebrew who had been convicted of theft was required to make restitution to the extent of at least double the value of the amount
 stolen if the stolen property itself was recovered. In other cases he was to pay four or five times as much as he stole also note the case of Zacchaeus (Luke 19:8. If the thief could not make the required restitution, he was sold for his theft and he made restitution by his labor. </li>
 
-<blockquote><strong>Exod. 22:1-3, “If a man shall steal …If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft.” <blockquote><strong>
+<blockquote><strong>Exod. 22:1-3, “If a man shall steal …If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft.” </blockquote></strong>
 
 <li>Children of a Hebrew servant became, by condition of their birth, became servants of the master (Exod. 21:4).</li>
 
