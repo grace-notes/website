@@ -16,7 +16,7 @@ Under the inspiration of the Holy Spirit, he wrote the foundation
 documents for the Christian way of life, the Word of God which has
 changed the lives of millions.
 
-**Paul’s Education**
+# Paul’s Education
 
 Paul was educated by his mother until the age of five. From age five to
 ten he studied with his father in the Hebrew scriptures and traditional
@@ -78,7 +78,7 @@ see the Chronological Table of Paul’s Ministry. The most thorough,
 accurate, and interesting secular work on Paul is *The Life and Epistles
 of St. Paul*, by Conybeare and Howson.
 
-**Paul, The Prisoner for the Gentiles**
+# Paul, The Prisoner for the Gentiles
 
 The Lord made Paul a missionary to the Gentiles, even revealing to him
 during the period of his arrest in Palestine, and during his subsequent
@@ -173,7 +173,7 @@ ever recorded. Agrippa said, “Almost you persuade me …”
 Festus decided then that Paul was innocent or wrongdoing, and he would
 have let him go free if he had not appealed to Caesar.
 
-**Paul’s Voyage to Rome**
+# Paul’s Voyage to Rome
 
 Paul’s escort on the trip to Rome was a platoon of Roman soldiers under
 Julius, a centurion of the Augustan Cohort. They sailed in a coasting
@@ -202,7 +202,7 @@ Luke and Onesiphorus). There was persecution in Rome at this time, and a
 campaign of terror by Nero against the Christians. Paul was condemned
 and executed in Rome.
 
-“I have fought a good fight, I have finished my course, I have kept the
+<blockquote><strong>“I have fought a good fight, I have finished my course, I have kept the
 faith; henceforth there is laid up for me a crown of righteousness,
-which the Lord, the righteous judge, shall give me at that day.”
+which the Lord, the righteous judge, shall give me at that day.” </blockquote></strong>
 
