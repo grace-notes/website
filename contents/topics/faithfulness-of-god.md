@@ -30,7 +30,7 @@ The faithfulness of God in providing for us under the partnership of Christ.
 
 The faithfulness of God in keeping His promises to us.
 
-<blockquote><strong>**Heb. 10:23**, “Let us hold fast the profession of our faith without wavering; for He is faithful that promised.”
+<blockquote><strong>**Heb. 10:23**, “Let us hold fast the profession of our faith without wavering; for He is faithful that promised.” </blockquote></strong>
 
 The faithfulness of God to us in times of suffering.
 
