@@ -30,7 +30,7 @@ to Israelite and foreigner alike.
 
 <blockquote><strong>Deut. 24:7, “If a man be found stealing any of his brethren of the children of Israel, and makes merchandise of him, or sells him; then that thief shall die; and you shall put evil away from among you.” </blockquote></strong>
 
-<blockquote><strong>Exo. 21:16, “And he that steals a man, and sells him, or if he be found in his hand, he shall be surely put to death.” /<blockquote></strong>
+<blockquote><strong>Exo. 21:16, “And he that steals a man, and sells him, or if he be found in his hand, he shall be surely put to death.” </blockquote></strong>
 
 ## The Treatment of Servants
 
