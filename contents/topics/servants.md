@@ -25,7 +25,7 @@ The believer’s service is to be rendered to people.
 
 ## Christian service makes life noble.
 
-<blockquote><strong>Mark 10:43,44 “But so shall it not be among you: but whosoever will be great among you, shall be your minister: and whosoever of you will be the chiefest, shall be servant of all. For even the Son of Man came not to be ministered unto, but to minister.”
+<blockquote><strong>Mark 10:43,44 “But so shall it not be among you: but whosoever will be great among you, shall be your minister: and whosoever of you will be the chiefest, shall be servant of all. For even the Son of Man came not to be ministered unto, but to minister.” </blockquote></strong>
 
 ## Christian service exemplifies neighborliness.
 
