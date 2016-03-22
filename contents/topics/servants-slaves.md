@@ -86,13 +86,7 @@ the year of jubilee. Second, the servant could be released by payment to
 the master of the purchase price less the value of the services
 rendered, based upon the pay scale of a hired laborer (Lev. 25:47-54).
 
-During the time that the slave was possessed by his master, the master
-had certain power of disposing of him as he would other articles of
-personal property. He could, for example, leave the servant to his
-heirs. The servant was said to have a certain monetary value, that is,
-his labor had a money value; but he was not supposed to be thought of as
-chattel.
-
+During the time that the slave was possessed by his master, the master had certain power of disposing of him as he would other articles of personal property. He could, for example, leave the servant to his heirs. The servant was said to have a certain monetary value, that is, his labor had a money value; but he was not supposed to be thought of as chattel.
 
 A slave could be freed in one of four ways:
 
