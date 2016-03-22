@@ -97,7 +97,7 @@ Godly men served the Lord by serving other men.
 
 ### The faithful servant receives honor from God.
 
-<blockquote><strong>John 12:26 “If any man serve me, let him fol­low me; and where I am, there shall also my servant be: if any man serve me, him will my Father honor.” <blockquote><strong>
+<blockquote><strong>John 12:26 “If any man serve me, let him fol­low me; and where I am, there shall also my servant be: if any man serve me, him will my Father honor.” </blockquote></strong>
 
 The faithful servant has a life of joy.
 
