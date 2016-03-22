@@ -35,7 +35,7 @@ that thief shall die; and you shall put evil away from among you.”
 Exo. 21:16, “And he that steals a man, and sells him, or if he be found
 in his hand, he shall be surely put to death.”
 
-The Treatment of Servants
+## The Treatment of Servants
 
 Each Israelite was considered to be a servant of God. Therefore, he was
 not to be treated as a bond servant, but as a hired worker; and his
@@ -52,33 +52,17 @@ return.”
 There were several ways that a Hebrew could become the servant of his
 brethren:
 
-• The Israelite, through poverty, might become unable to manage his own
-affairs or to maintain himself as an independent citizen. In this case
-he might pass by sale under the power of another. The passage in Lev.
-25:39 ff, which lays down the law in these matters, does not imply that
-such a sale was compulsory. It is understood to mean that the individual
-sold himself or rather, he sold the rights to his labor to another Jew,
-so that he might be able to earn subsistence for himself and his family.
+<ul>
+<li>The Israelite, through poverty, might become unable to manage his own affairs or to maintain himself as an independent citizen. In this case he might pass by sale under the power of another. The passage in Lev. 25:39 ff, which lays down the law in these matters, does not imply that such a sale was compulsory. It is understood to mean that the individual sold himself or rather, he sold the rights to his labor to another Jew, so that he might be able to earn subsistence for himself and his family.</li>
 
-• A Hebrew who had been convicted of theft was required to make
-restitution to the extent of at least double the value of the amount
-stolen if the stolen property itself was recovered. In other cases he
-was to pay four or five times as much as he stole also note the case of
-Zacchaeus (Luke 19:8. If the thief could not make the required
-restitution, he was sold for his theft and he made restitution by his
-labor.
+<li>A Hebrew who had been convicted of theft was required to make restitution to the extent of at least double the value of the amount
+stolen if the stolen property itself was recovered. In other cases he was to pay four or five times as much as he stole also note the case of Zacchaeus (Luke 19:8. If the thief could not make the required restitution, he was sold for his theft and he made restitution by his labor. </li>
 
-Exod. 22:1-3, “If a man shall steal …If the sun be risen upon him, there
-shall be blood shed for him; for he should make full restitution; if he
-have nothing, then he shall be sold for his theft.”
+<blockquote><strong>Exod. 22:1-3, “If a man shall steal …If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft.” <blockquote><strong>
 
-• Children of a Hebrew servant became, by condition of their birth,
-became servants of the master (Exod. 21:4).
+<li>Children of a Hebrew servant became, by condition of their birth, became servants of the master (Exod. 21:4).</li>
 
-• When a man was claimed personally by a creditor, his children were
-usually sold into bondage with him. While the impoverished man might
-sell himself into servitude, it was only to work off his debt until the
-jubilee year. 2 Kings 4:1; Neh. 5:5; Isa. 50:1; Job 24:9.
+<li>When a man was claimed personally by a creditor, his children were usually sold into bondage with him. While the impoverished man might sell himself into servitude, it was only to work off his debt until the jubilee year. 2 Kings 4:1; Neh. 5:5; Isa. 50:1; Job 24:9.</li></ul>
 
 Every Israelite, male or female, who had become a slave, might be
 redeemed at any time by relatives or friends by the payment of what was
@@ -111,15 +95,15 @@ chattel.
 
 A slave could be freed in one of four ways:
 
-• By redemption through the payment of money or goods.
+<ul>
+<li>By redemption through the payment of money or goods.</li>
 
-• By manumission, a bill or ticket of freedom issued by the master.
+<li>By manumission, a bill or ticket of freedom issued by the master.</li>
 
-• By testamentary disposition; the master could specify that the slave
-was to be freed upon the master’s death, for example.
+<li>By testamentary disposition; the master could specify that the slave was to be freed upon the master’s death, for example.</li>
 
-• By any act that implied that the slave was a free citizen, such as
-making an heir of one’s slave.
+<li>By any act that implied that the slave was a free citizen, such as making an heir of one’s slave. </li>
+</ul>
 
 The Law had several means for the protection of slaves or servants. A
 servant was entitled to full religious privilege and access to all
