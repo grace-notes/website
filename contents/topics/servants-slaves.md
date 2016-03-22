@@ -28,12 +28,9 @@ death to steal or kidnap a human being for the purpose of making him a
 slave or to sell him to someone else as a slave. This regulation applied
 to Israelite and foreigner alike.
 
-Deut. 24:7, “If a man be found stealing any of his brethren of the
-children of Israel, and makes merchandise of him, or sells him; then
-that thief shall die; and you shall put evil away from among you.”
+<blockquote><strong>Deut. 24:7, “If a man be found stealing any of his brethren of the children of Israel, and makes merchandise of him, or sells him; then that thief shall die; and you shall put evil away from among you.” </blockquote></strong>
 
-Exo. 21:16, “And he that steals a man, and sells him, or if he be found
-in his hand, he shall be surely put to death.”
+<blockquote><strong>Exo. 21:16, “And he that steals a man, and sells him, or if he be found in his hand, he shall be surely put to death.” /<blockquote></strong>
 
 ## The Treatment of Servants
 
@@ -41,13 +38,7 @@ Each Israelite was considered to be a servant of God. Therefore, he was
 not to be treated as a bond servant, but as a hired worker; and his
 master was to rule over him with kindness.
 
-Lev. 25:39-41, “And if thy brother that dwells by thee be waxen poor,
-and be sold unto thee; thou shalt not compel him to serve as a bond
-servant; But as a hired servant, and as a sojourner, he shall be with
-thee, and shall serve thee unto the year of jubilee: And then shall he
-depart from thee, both he and his children with him, and shall return
-unto his own family, and unto the possession of his fathers shall he
-return.”
+<blockquote><strong>Lev. 25:39-41, “And if thy brother that dwells by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bond servant; But as a hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubilee: And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.” </blockquote></strong>
 
 There were several ways that a Hebrew could become the servant of his
 brethren:
