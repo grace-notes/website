@@ -7,7 +7,7 @@ template: topic.jade
 ---
 
 
-**Philemon 7, “Your love has given me great joy and encouragement, because you, brother, have refreshed the hearts of the saints.”**
+<blockquote><strong>**Philemon 7**, “Your love has given me great joy and encouragement, because you, brother, have refreshed the hearts of the saints.”</blockquote></strong>
 
 This phrase demands some of our attention, for Paul is in prison, he is chained, his physical movements are confined, his recreation is very limited, his pleasures are denied; in these circumstances, how can Paul make the statement that he is not just happy, but that he has much happiness?
 
