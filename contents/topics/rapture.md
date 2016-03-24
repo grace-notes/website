@@ -109,7 +109,7 @@ result of physical death for every human.
 humanity, came spiritual resurrection (salvation) followed by physical
 resurrection, Phil. 3:21.
 
-The word “hope”, translated from the Greek word ἐλπίς **elpis**,
+The word “hope”, translated from the Greek word **ἐλπίς** (elpis),
 meaning “confidence”, is a technical designation for the Rapture in at
 least three Bible passages, including:
 
