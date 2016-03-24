@@ -25,17 +25,18 @@ There has been controversy for many generations concerning the timing of
 the final events in human history. The position held by the majority of
 categorical and fundamental Bible teachers is as follows:
 
-• We are presently in the dispensation known as the Church Age, and we
-do not know when this age will end.
+<ul>
+<li>We are presently in the dispensation known as the Church Age, and we
+do not know when this age will end.</li>
 
-• The Rapture will occur at the end of the Church Age; and the day of
+<li>The Rapture will occur at the end of the Church Age; and the day of
 the Rapture will be the first day of the sever-year period known as the
-Great Tribulation.
+Great Tribulation.</li>
 
-• The Second Coming of Christ will occur on the last day of the
+<li>The Second Coming of Christ will occur on the last day of the
 Tribulation period and will usher in the thousand-year reign of Jesus
-Christ.
-
+Christ.</li>
+</ul>
 The statements above are part of a position, or viewpoint, concerning
 the chronology of the final events of human history, a doctrinal concept
 known as the Pre–Tribulation Rapture / Pre–Millennium Tribulation view.
@@ -51,7 +52,7 @@ general prophecy, a good general orientation to the whole Bible, and a
 lot of practice in tracing threads of logic through interwoven networks
 of Bible doctrine. For the time being we will settle for …
 
-A Description of the Rapture
+# A Description of the Rapture
 
 The Rapture was promised by the Lord Jesus Christ just before His
 crucifixion, John 14:1–3. At the Rapture, He keeps His promise and
@@ -112,12 +113,13 @@ The word “hope”, translated from the Greek word **elpis
 meaning “confidence”, is a technical designation for the Rapture in at
 least three Bible passages, including:
 
-• The living hope, 1 Peter 1:3
+<ul>
+<li>The living hope, 1 Peter 1:3</li>
 
-• The blessed hope, Titus 2:13
+<li>The blessed hope, Titus 2:13</li>
 
-• The purifying hope, 1 John 3:3
-
+<li>The purifying hope, 1 John 3:3</li>
+</ul>
 The Rapture takes the sting out of death, 1 Cor. 15:54–56. Therefore,
 the Rapture removes the despair of bereavement, 1 Thess. 4:13–18. This
 confidence in the Rapture comes through the obtaining of wisdom,
@@ -138,30 +140,22 @@ Nevertheless, the Bible directs us to pursue certain activities while
 waiting for the Rapture. These are given in the last section of this
 article. Meanwhile, take a look at …
 
-What to do While Waiting for the Rapture
+## What to do While Waiting for the Rapture
 
-**Stay in Fellowship**. “And now, little children, abide in Him; that
-when He shall appear, we may have confidence and not be ashamed before
-Him at His coming.” 1 John 2:28
+**Stay in Fellowship**. “_And now, little children, abide in Him; that when He shall appear, we may have confidence and not be ashamed before Him at His coming._” 1 John 2:28
 
-**Employ the Faith-Rest techniques**. “Now we beseech you, brethren,
-concerning the coming of our Lord Jesus Christ, and by our gathering
-together unto him, that ye be not soon shaken in mind, or be troubled,
-neither by spirit, nor by word, nor by forged letters as from us, as
-that day of Christ is at hand.” 2 Thess. 2:1,2
+**Employ the Faith-Rest techniques**. “_Now we beseech you, brethren, concerning the coming of our Lord Jesus Christ, and by our gathering together unto him, that ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by forged letters as from us, as that day of Christ is at hand._” 2 Thess. 2:1,2
 
 **Have Confidence**. “Being confident of this very things, that He which
 hath begun a good work in you will perform it until the day of Jesus
 Christ.” Phil. 1:6
 
-**Have Patience**. “Be patient, therefore, unto the coming of the Lord…”
+**Have Patience**. “_Be patient, therefore, unto the coming of the Lord…_”
 James 5:7
 
-**Grow in Christ by continuing to be edified**. “…be ye also patient,
-stablish your hearts, for the coming of the Lord draweth nigh.” James
-5:8 See also Isaiah 33:4 and 2 Tim. 2:15
+**Grow in Christ by continuing to be edified**. “_…be ye also patient, stablish your hearts, for the coming of the Lord draweth nigh._” James 5:8 See also Isaiah 33:4 and 2 Tim. 2:15
 
-#### Contrasts Between the Rapture and the Second Coming of Christ
+# Contrasts Between the Rapture and the Second Coming of Christ
 
 **The Rapture**
 
