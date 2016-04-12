@@ -42,7 +42,7 @@ Impersonal love for all mankind is functional love. It gives one the ability to 
 
 Occupation with the person of Christ is the ultimate result of love.
 
-**Synonyms for Edification**
+## Synonyms for Edification
 
 * The word light is not listed in Ephesians 5
 
@@ -54,11 +54,11 @@ Occupation with the person of Christ is the ultimate result of love.
 
 * “_Imitators of God . . ._” Eph 5:1
 
-**The Importance of the Pastor’s Teaching in Edification**
+## The Importance of the Pastor’s Teaching in Edification
 
 The responsibility of the pastor in edification is found in a number of passages.
 
-**2 Cor. 10:8, “_For even if I should boast somewhat further about our authority, which the Lord gave for building you up and not for destroying you, I shall not be put to shame,_”**
+> **2 Cor. 10:8**, “For even if I should boast somewhat further about our authority, which the Lord gave for building you up and not for destroying you, I shall not be put to shame,”
 
 The Corinthians wavered so much that Paul really had to get tough with them and throw his rank around.
 
@@ -68,17 +68,17 @@ Our authority refers to those with the communication gifts of pastor teacher as 
 
 Paul makes it clear that edification depends upon accepting the authority of a pastor teacher who communicates doctrinal information.
 
-**2 Cor. 13:10, “_For this reason, I am writing these things while absent, in order that when I am present, I may not use severity in compatibility with the authority which God has given to me for the purpose of your edification, and not for the purpose of destroying you._”**
+> **2 Cor. 13:10**, “For this reason, I am writing these things while absent, in order that when I am present, I may not use severity in compatibility with the authority which God has given to me for the purpose of your edification, and not for the purpose of destroying you.”
 
 No one can learn any subject without accepting the authority of the one who teaches.
 
 Therefore, the importance of understanding that edification comes through the teaching of a pastor in communicating the mystery doctrine of the church age.
 
-**1 Thess. 5:12, "_But we request of you, brethren, that you respect those pastor teachers who work hard among you [studying and teaching], who have command over you in the Lord and give you instruction._"**
+> **1 Thess. 5:12**, "But we request of you, brethren, that you respect those pastor teachers who work hard among you [studying and teaching], who have command over you in the Lord and give you instruction."
 
 The road to edification is paved with hundreds and thousands of lessons regarding the plan of God.
 
-**Heb. 13:17, “_Keep obeying those who themselves are ruling over you, and submit to their authority , for these same keep watching for the benefit of your souls as those who have to render an account. Keep obeying them, in order that they may do this accounting with joy, and not with groaning, for this is unprofitable for you._”**
+> **Heb. 13:17**, “Keep obeying those who themselves are ruling over you, and submit to their authority , for these same keep watching for the benefit of your souls as those who have to render an account. Keep obeying them, in order that they may do this accounting with joy, and not with groaning, for this is unprofitable for you.”
 
 The threefold purpose of the pastor is found in Eph. 4:12, “_for the purpose of equipping the saints, for the production of Christian service, for the edification of the body of Christ._”
 
@@ -90,13 +90,13 @@ The threefold purpose of the pastor is found in Eph. 4:12, “_for the purpose o
 
 All believers are in full time Christian service from the moment of their salvation. Christian service is the normal result of spiritual growth but never the means.
 
-**Eph. 4:16, “_From whom the whole body, being fitted and held together by that which every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love._”**
+> **Eph. 4:16**, “From whom the whole body, being fitted and held together by that which every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love.”
 
 Body function depends upon the proper use of joints. Athletic coordination depends upon the proper use of the joints.
 
 The result of the communication of doctrine is edification in your soul.
 
-**The Motivation of the Believer in Edification**
+## The Motivation of the Believer in Edification
 
 There are two categories of motivation: positive volition and humility
 
