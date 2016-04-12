@@ -110,13 +110,13 @@ Prosperity and edification go together; both are the result of continual positiv
 
 In order for consistent perception of doctrine to occur, it is important to have a mental attitude of humility.
 
-**Rom. 12:2-5, “_And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what the will of God is, that which is good and acceptable and perfect._”**
+> **Rom. 12:2-5**, “And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what the will of God is, that which is good and acceptable and perfect.”
 
-**“_For through the grace given to me I say to every man among you not to think more highly of himself than he ought to think; but to think so as to have sound judgment, as God has allotted to each a measure of faith._”**
+> “For through the grace given to me I say to every man among you not to think more highly of himself than he ought to think; but to think so as to have sound judgment, as God has allotted to each a measure of faith.”
 
-**“For just as we have many members in one body and all the members do not have the same function,”**
+> “For just as we have many members in one body and all the members do not have the same function,”
 
-**“_so we, who are many, are one body in Christ, and individually members one of another._”**
+> “so we, who are many, are one body in Christ, and individually members one of another.”
 
 The standard of thinking from doctrine includes every aspect of divine viewpoint, orientation to life through enforced and genuine humility and everything that makes us objective and teachable toward the word of God.
 
@@ -124,13 +124,11 @@ Many members in one body emphasizes that although we have different spiritual gi
 
 Without genuine humility, there is neither objectivity nor teachability. Without objectivity and teachability in life, you will be miserable, whether you are a believer or unbeliever, successful or not. Without objectivity and teachability, there is no edification.
 
-**Edification: The Key to the Proper Function of the Local Church**
+## Edification: The Key to the Proper Function of the Local Church
 
-**1 Cor 14:12, “So also you, since you are eager to have the function of
-spiritual gifts, seek to abound in spiritual gifts that edify the
-church.”**
+> **1 Cor 14:12**, “So also you, since you are eager to have the function of spiritual gifts, seek to abound in spiritual gifts that edify the church.”
 
-_*Comments:*_
+### Comments:
 
 * The Corinthians were all eager to get the gift of tongues because it was spectacular, and then they could assume they were spiritual. In reality, the worst believers in the Bible are described as having the gift of tongues.
 
@@ -138,7 +136,7 @@ _*Comments:*_
 
 * The precanon temporary gifts did not edify the church.
 
-**1 Cor 14:26, “_What is the outcome then, brethren? When you assemble, each one has a psalm, has a teaching, has a revelation, has a tongue, has an interpretation. Let all things be done for edification.”_"**
+> **1 Cor 14:26**, “What is the outcome then, brethren? When you assemble, each one has a psalm, has a teaching, has a revelation, has a tongue, has an interpretation. Let all things be done for edification."
 
 There are a number of ways in which we worship God, but they must all relate to our spiritual growth. Everything in assembly worship should be done with a view toward the objective, which is edification. The objective is to communicate the word of God, the purpose of which is to produce edification.
 
@@ -148,7 +146,7 @@ In the context of 1 Cor. 14, the gift of tongues did not fulfill that purpose. 1
 
 The gift of tongues illustrated how not to do things decently and in order. For tongues did not contribute to the principle of edification, nor did it contribute to doing things properly and in an orderly manner.
 
-**The Results of Edification**
+## The Results of Edification
 
 You begin with a foundation of eternal salvation and a body of teaching, the revealed scriptures, built upon the apostles and prophets, Jesus Christ Himself being the chief cornerstone.
 
@@ -156,23 +154,23 @@ The moment you personally believed in Jesus Christ, a foundation was constructed
 
 The foundation is constructed on the saving work of Jesus Christ on the cross, Please see Grace Notes topics: redemption, propitiation, reconciliation, imputation and justification.
 
-**2 Tim. 2:19, “_Nevertheless, the firm foundation of God stands, having this seal; the Lord knows those who are His. . . ._”**
+> **2 Tim. 2:1988, “Nevertheless, the firm foundation of God stands, having this seal; the Lord knows those who are His. . . .”
 
-**1 Cor. 3:11 “_No one can lay a foundation other than the one which is laid, which is Jesus Christ._”**
+> **1 Cor. 3:11**, “No one can lay a foundation other than the one which is laid, which is Jesus Christ.”
 
 With edification you become spiritually self sustaining and you function under the privacy of your priesthood to resolve your own problems, including the greatest problems in life.
 
 Problems are resolved in two ways: through the use of the biblical problem solving devices, and through understanding of specific principles in the word of God. Please see Grace Notes topics: confession of sin; faith rest; occupation with Christ.
 
-**Edification Motivates Believers**
+## Edification Motivates Believers
 
 Edification is the motivation in the function of love in the congregation, through which tolerance provides room for spiritual
 growth.
 
-**Rom. 15:2, “_Let each of us accommodate his neighbor for the good to edification._”**
+> **Rom. 15:2**, “Let each of us accommodate his neighbor for the good to edification.”
 
-**1 Cor. 10:23, “_All things are lawful, but all things do not edify._”**
+> **1 Cor. 10:23**, “All things are lawful, but all things do not edify.”
 
-**Acts 9:31, “So the church throughout all Judea and Galilee and Samaria enjoyed peace, being built up; and, going on in the fear of the Lord and in the comfort of the Holy Spirit, it continued to increase.”**
+> **Acts 9:31**, “So the church throughout all Judea and Galilee and Samaria enjoyed peace, being built up; and, going on in the fear of the Lord and in the comfort of the Holy Spirit, it continued to increase.”
 
 
