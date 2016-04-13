@@ -12,11 +12,11 @@ Later, when Paul was opposed by the Jews, and perhaps to remove any obstacle to 
 
 It is not clear when Aquila and Priscilla became Christians, but it was certainly before Paul left Corinth, because they traveled with him to Ephesus. Paul was able to teach them a great deal about Christ in a short time, because we see Aquila and Priscilla giving instruction to Apollos in Ephesus (Acts 18). They appear to have been zealous promoters of the cause of Christ in Ephesus (1 Cor. 16:19).
 
-**Acts 18:2**, “_And he [Paul] found a certain Jew named Aquila, a native of Pontus, having recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. He came to them,_”
+> **Acts 18:2**, “And he [Paul] found a certain Jew named Aquila, a native of Pontus, having recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. He came to them,”
 
-**Acts 18:18**, “_And Paul, having remained many days longer, took leave of the brethren and put out to sea for Syria, and with him were Priscilla and Aquila. In Cenchrea he had his hair cut, for he was keeping a vow._”
+> **Acts 18:18**, “And Paul, having remained many days longer, took leave of the brethren and put out to sea for Syria, and with him were Priscilla and Aquila. In Cenchrea he had his hair cut, for he was keeping a vow.”
 
-**Acts 18:26**, “_and he [Apollos] began to speak out boldly in the synagogue. But when Priscilla and Aquila heard him, they took him aside and explained to him the way of God more accurately._”
+> **Acts 18:26**, “and he [Apollos] began to speak out boldly in the synagogue. But when Priscilla and Aquila heard him, they took him aside and explained to him the way of God more accurately.”
 
 Aquila and Priscilla later returned to Rome, and their home there was a place of assembly for believers. See Romans 16:3 and following verses.
 
