@@ -40,7 +40,10 @@ Moses’ direction, the miracles commanded by God unto Moses (7:9f). With
 Hur he held up Moses’ hands, in order that the “rod of God might be
 lifted up,” during the fight with Amalek (17:10, 12).
 
-A few days later, when Moses, attended by
+Aaron next comes into prominence when, at Sinai, he is one of the elders
+and representatives of his tribe to approach nearer to the mount than
+the people in general were allowed to do, and to see the manifested
+glory of God (Ex. 24:1, 9f). A few days later, when Moses, attended by
 his “minister” Joshua, went up into the mountain, Aaron exercised some
 kind of headship over the people in his absence. Despairing of seeing
 again their leader, who had disappeared into the mystery of communion
