@@ -143,6 +143,8 @@ $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
 
+\def\tightlist{}
+
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[R]{\thepage}
