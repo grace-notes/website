@@ -16,7 +16,7 @@ before_deploy:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: aws s3 sync build/ s3://gracenotes/
+    script: aws s3 sync build/ s3://www2.gracenotes.info/
     on:
       branch: master
 
