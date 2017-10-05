@@ -1,0 +1,22 @@
+language: javascript
+
+before_install:
+- sudo apt-get update -qq
+- sudo apt-get install pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+- npm install -g wintersmith
+- gem install sass
+
+install: npm install
+
+script: wintersmith build
+
+before_deploy:
+- sudo pip install awscli --upgrade
+
+deploy:
+  - provider: script
+    skip_cleanup: true
+    script: aws s3 sync build/ s3://gracenotes/
+    on:
+      branch: master
+
