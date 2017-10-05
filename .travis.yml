@@ -2,13 +2,13 @@ language: javascript
 
 before_install:
 - sudo apt-get update -qq
-- sudo apt-get install pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+- sudo apt-get install -q pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
 - npm install -g wintersmith
 - gem install sass
 
 install: npm install
 
-script: wintersmith build -v -c config.nopdf.json
+script: wintersmith build -v
 
 before_deploy:
 - sudo pip install awscli --upgrade
