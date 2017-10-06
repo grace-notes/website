@@ -10,6 +10,8 @@ convert() {
 
   mkdir -p $( dirname $dest )
 
+  echo Generating $( basename $dest )...
+
   pandoc \
      --from=markdown \
      --standalone \
@@ -20,6 +22,8 @@ convert() {
      $source
 
   dest=$( echo $dest | sed 's@.pdf$@.epub@' )
+
+  echo Generating $( basename $dest )...
 
   pandoc \
      --from=markdown \
@@ -41,6 +45,6 @@ COUNT=$( echo "$FILES" | wc -l )
 
 echo Converting $COUNT files to pdf and epub.
 
-# echo "$FILES" | pv -p -s $COUNT | xargs -n 1 -P 8 -I {} bash -c 'convert {}'
+echo "$FILES" | xargs -n 1 -P 8 -I {} bash -c 'convert {}'
 
-parallel --no-notice --jobs 12 --bar convert ::: "$FILES"
+# parallel --no-notice --jobs 12 --bar convert ::: "$FILES"
