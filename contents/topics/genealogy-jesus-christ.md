@@ -1,16 +1,16 @@
 ---
-title: "Genealogy Jesus Christ"
+title: "Genealogy of Jesus Christ"
 indexTitle: "Jesus Christ, Genealogy"
-pdf: "genealogyJesusChrist.pdf"
-tableOfContents: false
+tableOfContents: true
 template: topic.jade
+author: Mark Perkins
 ---
 
 by Mark Perkins, Pastor  
 Front Range Bible Church  
 Denver. Colorado  
 
-**Introduction.**
+## Introduction
 
 Matthew and Luke have taken the time to record the genealogies of our
 Lord. Since they wrote under the inspiration of God the Holy Spirit, we
@@ -53,7 +53,7 @@ Both of the genealogies skip generations.
     unimportant. The reason does not matter. Just keep this fact in
     mind.
 
-**Luke’s Genealogy.**
+## Luke’s Genealogy
 
 Luke’s genealogy is unique in that it traces its line in the opposite
 direction from the norm. However, we will start with Adam and go
@@ -66,9 +66,9 @@ of the human race. By looking at Adam’s life we can discover the
 beginnings of our problems… and solutions. Adam is perhaps the one man
 in these genealogies with the greatest connection to Christ.
 
-Rom 5:12-21, “Therefore, just as through one man sin entered into the
+> Rom 5:12-21sadf "Therefore, just as through one man sin entered into the
 world, and death through sin, and so death spread to all men because all
-sinned”
+sinned"
 
 When God created Adam, He gave him the legitimate authority to rule
 planet earth When God created Adam, He created him body, mind, and
@@ -789,9 +789,9 @@ his father Ham, Genesis 9:20-27.
 In that account, He is called blessed by Noah - a recognition of his
 spiritual maturity.
 
-**Christ’s Genealogy from Shem to Abraham**
+## Christ’s Genealogy from Shem to Abraham
 
-Introduction
+### Introduction
 
 When Noah began the building of the ark, God made a covenant with him.
 
@@ -895,7 +895,7 @@ Read Gen. 9:8-17
 So the covenant is made and the transfer is made to post-diluvian
 civilization. Let’s pick up the line of Christ again with Shem.
 
-Shem
+### Shem
 
 Shem was the son of Noah. He was about 98 years old when he entered the
 ark with the rest of his family. He fathered many children, including
@@ -916,17 +916,17 @@ hit dry land.
 He apparently settled in the mountainous country in the Northeast, and
 we really do not know much else about this man.
 
-Cainan
+### Cainan
 
 Cainan was the son of Arphaxad. He is not mentioned in the original
 table of nations in Gen., but for some reason Moses skipped him and went
 to his son, Shelah. Nothing else is known about this man.
 
-Shelah
+### Shelah
 
 The son of Cainan; the father of Heber.
 
-Heber
+### Heber
 
 This man’s name means ‘fellowship’. In the Hebrew, it is really Eber.
 
@@ -935,7 +935,7 @@ The son of Shelah, the father of Peleg.
 He is the founder of the Hebrew race, and he gave his name to it, Gen.
 10:21.
 
-Peleg
+### Peleg
 
 His name means division, and it was during his lifetime that the nations
 were divided.
@@ -945,31 +945,31 @@ of Babel. When God put down that attempt, the nations of the earth were
 formed, and the earth divided into geographical national boundaries for
 the very first time.
 
-Reu
+### Reu
 
 He is the son of Peleg and the father of Serug. His name means,
 ‘friend’. Nothing else is known.
 
-Serug
+### Serug
 
 He is the son of Reu. His name means ‘shoot, or tendril’ in the Hebrew.
 There is an ancient city by this name, and it may have something to do
 with this man.
 
-Nahor
+### Nahor
 
 Do not confuse this man with the brother of Abraham. This Nahor lived in
 the 23rd century BC, and is the grandfather of Abraham. His name means
 snorting or snoring.
 
-Terah
+### Terah
 
 He was born in Ur of the Chaldees. His name means ‘antelope’. Joshua
 24:2 tells us that this man was involved in idolatry. He did take place
 in the big move to Canaan, with the rest of the family. He died about
 2100 BC
 
-**The Abraham Connection**
+## The Abraham Connection
 
 From Abraham to David, there are fourteen generations.
 Abraham-Isaac-Jacob-Judah-Perez-Hezron-Ram-Admin-Amminadab-Nahshon-Salmon-Boaz-Obed-Jesse-David.
@@ -989,7 +989,7 @@ This line covers the age of the patriarchs, from God’s covenant with
 Abraham to the next covenant with David. Its chronology runs from
 Abraham’s birth in 2160 BC to Israel under king Saul in 1004 BC
 
-Abraham.
+### Abraham
 
 Gen 12:1-3 records Abram’s first call:
 
@@ -1005,7 +1005,7 @@ reserved for him and his progeny. He also had to leave because his first
 home and his family and relatives would have been a fatal distraction to
 him.
 
-The covenants to Israel.
+### The covenants to Israel
 
 God provided the nation of Israel a fantastic portfolio of grace
 blessings in the form of covenants. A covenant is based on the
@@ -1304,7 +1304,7 @@ erroneous conclusion.
 
 -   Wrong, says God.
 
-Isaac to Jesse
+## Isaac to Jesse
 
 **Isaac** was born to Abraham and Sarah. He would marry Rebekah, and
 father the twins, Jacob and Esau. It is worthwhile to note that Rebekah,
@@ -1751,7 +1751,7 @@ hearkens back to the wilderness journey of Israel.
 It emphasizes the need for faith perception of the truth. For us, it
 looks forward to the coming of Christ, or our joining with him.
 
-Read Isaiah 42. It establishes the purpose of the Messiah. "
+Read Isaiah 42. It establishes the purpose of the Messiah.
 
 These verses spell out the purpose of the life of Christ.
 
@@ -1896,11 +1896,11 @@ them will be thrust away like thorns, because they cannot be taken in
 hand; but the man who touches them must be armed with iron and the shaft
 of a spear, and they will be compleely burned with fire in their place.”
 
-David to the Exile
+## David to the Exile
 
 Joseph’s Line, the Legal Line of Christ (Matthew).
 
-Solomon
+### Solomon
 
 Solomon was a true genius, and he exploited that genius by having a
 great relationship with God. “Now God gave Solomon wisdom and very great
@@ -1930,7 +1930,7 @@ is: fear God, and keep His commandments, because this applies to every
 person. for God will bring every act to judgment, everything which is
 hidden, whether it is good or evil.”
 
-Rehoboam
+### Rehoboam
 
 The son of Solomon, he was a weak king, and although he wanted the right
 things, he lacked the leadership to bring them about.
@@ -1944,7 +1944,7 @@ conducted even the most depraved forms of idol worship.
 He was an immoral man, and he had a knack for making bad decisions from
 a position of weakness.
 
-Abijah
+### Abijah
 
 Abijah saw the split of the two nations in a very black and white way.
 The Northern kingdom had rebelled, and must be forcibly brought back
@@ -1955,7 +1955,7 @@ to bring the rebels under his rule. The kingdom remained divided.
 
 Abijah was also an immoral man, and he too was a failure as a king.
 
-Asa
+### Asa
 
 Asa returned to the pure worship of God. Although he allowed idolatry to
 exist, he emphasized what was true and right: the ritual plan of God.
@@ -1970,7 +1970,7 @@ allied with a pagan nation, Syria.
 Asa became ill and did not seek God’s help. Depending on his household
 physicians, he died.
 
-Jehoshaphat
+### Jehoshaphat
 
 This man, a king, was a winner. He sought the Lord with all his heart,
 and he made his nation a good place. When his nation was threatened, he
@@ -1982,11 +1982,11 @@ Jehosaphat was benevolent and wise, and both his foreign and domestic
 policies were effective. He lived out his life peacefully, satisfied
 because of his great relationship with God.
 
-Joram
+### Joram
 
 Not much is known about this man, other than his father.
 
-Uzziah
+### Uzziah
 
 Uzziah was another great man, who followed the Lord for most of his
 life. He grew to have a great relationship with God under the ministry
@@ -1997,7 +1997,7 @@ overstepped the bounds of his authority and tried to perform a priestly
 function. For that sin, God gave him leprosy, and he remained a leper
 until the day of his death.
 
-Jotham
+### Jotham
 
 Jotham was also a great king, and he turned out to be great even than
 his father, for he did not become arrogant because of his success.
@@ -2007,7 +2007,7 @@ He died a contented man, confident before God of his eternal future.
 The people were not completely responsive to his leadership, but Judah
 still became much stronger through him.
 
-Ahaz
+### Ahaz
 
 This man was a loser. He refused to depend on God - refused to believe
 in Him. He was instead an idolater, and as king he did many evil things.
@@ -2018,7 +2018,7 @@ king, even sending him the Temple treasures.
 When he died, no one missed him, and the people did not think him worthy
 to be buried with the other kings of Israel.
 
-Hezekiah
+### Hezekiah
 
 Hezekiah was a good and Godly king, who from his relationship with God
 desired to repair the damage that his father had done.
@@ -2045,7 +2045,7 @@ was through him. He prayed for his own life, and trusted in God, and God
 extended his life for another 15 years. It was during that time that he
 fathered a son, Manasseh.
 
-Manasseh
+### Manasseh
 
 Manasseh ruled for fifty five years. His was the longest rule of any of
 the kings of Judah. He was an extremely evil man, who hated God and his
@@ -2063,13 +2063,13 @@ all the idols and idolatrous altars that he could.
 Though he had been very evil, he died in peace, knowing the forgiveness
 of his savior.
 
-Amon
+### Amon
 
 Unfortunately, Amon imitated all of the evil of his own father, and
 failed to repent. He died the victim of a conspiracy, and his eight year
 old son took the throne in his place.
 
-Josiah
+### Josiah
 
 When Josiah had reigned for 12 years he began a great purge of all the
 idol worship in the land. A few years later, he oversaw the cleansing
@@ -2082,7 +2082,7 @@ was already unleashed.
 Josiah died in peace before the destruction of the nation, and did not
 have to witness the terrible invasion of the Babylonians.
 
-Jehoiakim
+### Jehoiakim
 
 Jehoiakim was an evil, idolatrous man who ruled as king during the
 destruction of the nation of Judah.
@@ -2096,13 +2096,13 @@ His son Jeconiah, or Jehoiachin is mentioned by Matthew.
 
 Note: We are taking this one all the way to Christ.
 
-Nathan
+### Nathan
 
 Nathan was a son of David and Bathsheba. He is the quiet son, for
 nothing much is said about him in Scripture. Even so, he was a link in
 the biological line of Christ.
 
-Mattathia
+### Mattathia
 
 Nothing much is known about this man.
 
@@ -2111,7 +2111,7 @@ Jorim, Eliezer, Joshua, Er, Elmadam, Cosam, Addi, Melchi, Neri
 
 Nothing is said about any of these men in the Bible.
 
-Shealtiel
+### Shealtiel
 
 This is where a crossover point occurs. Both genealogies stop here. This
 is where the nation went into exile. Shealtiel was not the true son of
@@ -2119,7 +2119,7 @@ Jeconiah, but instead, the line of David continued in this man because
 Jeconiah failed to produce an heir. This is why Matthew’s genealogy
 claims Jeconiah as this man’s father.
 
-Zerubbabel
+### Zerubbabel
 
 He is the head of Israel at the time of the return from exile. Zerubabel
 is the result of the marriage between Pedaiah and the wife of Shealtiel.
@@ -2139,11 +2139,11 @@ Nahum, Amos, Mattathias, Joseph, Jannai, Melchi, Levi, Matthat
 The biological line of Christ continued in these men. Nothing else is
 known of them.
 
-Eli
+### Eli
 
 Father of Mary.
 
-Mary
+### Mary
 
 From the Exile to Joseph Joseph’s Line, the Legal Line of Christ, as
 Expounded in Matthew

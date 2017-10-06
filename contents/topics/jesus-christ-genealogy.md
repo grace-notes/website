@@ -1,15 +1,14 @@
-- - - 
-title: "Jesus Christ, Genealogy of"
-indexTitle: "Jesus Christ, Genealogy"
-pdf: "jesus- christ- genealogy.pdf"
+--- 
+title: "The Genealogy of Jesus Christ"
+indexTitle: "Jesus Christ, Genealogy - by Warren Doud"
 description: "The complete lineage of Jesus from Adam to Mary and Joseph."
 template: topic.jade
-tableOfContents: true
+tableOfContents: yes
 author: Warren Doud
-- - - 
+--- 
 
-###The Genealogy of Jesus Christ
-###Introduction
+##Introduction
+
 Matthew and Luke have taken the time to record the genealogies of our Lord. Since they wrote under the inspiration of God the Holy Spirit, we can assume that this information is important.
 Thanks to the Pharisees' fascination with genealogies, at the time that these men wrote there was a great archive of information on the subject, and so they were able to accurately trace the line of Christ.
 
@@ -29,12 +28,11 @@ Matthew traces of the line of Christ through Joseph, and thus back to Abraham. L
 Luke's Genealogy.
 Luke's genealogy is unique in that it traces its line in the opposite direction from the norm. However, we will start with Adam and go forward, in spite of Luke's deviant behavior.
 
-###ADAM
+## ADAM
 It is fitting that we start with Adam, because Adam was the first head of the human race. By looking at Adam's life we can discover the beginnings of our problems... and solutions. Adam is perhaps the one man in these genealogies with the greatest connection to Christ.
 
->**Romans 5:12- 21**
-
->"Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all men because all sinned"
+> **Romans 5:12- 21**
+> "Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all men because all sinned"
 
 When God created Adam, He gave him the legitimate authority to rule planet earth When God created Adam, He created him body, mind, and spirit.
 
@@ -56,24 +54,24 @@ Therefore, all of Adam's progeny would suffer the following consequences:
 - They would be born with a soul, and thus would be able to choose for themselves the courses of their lives (and so genetics means very little).
 - They would be born with a human conscience, and thus be able to discern right from wrong,
  
->**Romans 2:14- 15**
-
+> **Romans 2:14- 15**
 > "For when Gentiles who do not have the Law do instinctively the things of the Law, these, not having the law, are a law to themselves, in that they show the work of the Law written in their hearts, their conscience bearing witness, and their thoughts alternately accusing or else defending them..."
 
->**Romans 5:13,14**
-
->“for until the Law sin was in the world; but sin is not imputed though there is no law. Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the offense of Adam, who is a type of Him who was to come."
+> **Romans 5:13,14**
+> “for until the Law sin was in the world; but sin is not imputed though there is no law. Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the offense of Adam, who is a type of Him who was to come."
 
 The first part of this statement communicates the utter degeneracy of the post- sin, pre- flood era, and their great hope in the last Adam.
 
 - The Law of Moses provided very much in the way of Divine Establishment restraint on the old sin nature.
 - Without that restraint, the human race became extremely involved in the cosmic system, even to the point of sexual relations with angels.
 - And yet even at that time, their personal sins were not imputed to them. They were instead reserved for imputation to Jesus Christ
+
 The second part of the statement has to do with the continued effects of spiritual death.
 
 - Although their personal sins were not imputed to them, spiritual death still continued unrestrained.
 - This shows the heart of the matter. Real spiritual death has to do with the imputation of Adam's sin. Salvation has to do with the imputation of our personal sin into Adam.
 - We did not commit Adam's sin - Adam did. We do receive the imputation of that sin at the moment of human birth. 
+
 Romans 5:15,16 contrasts the two Adams: 
 
 "But the free gift is not like the transgression. For if by the transgression of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, abound to the many. And the gift is not like that which came through the one who sinned; for on the one hand the judgment arose from one transgression resulting in condemnation, but on the other hand the free gift arose from many transgressions resulting in justification."
@@ -143,7 +141,7 @@ Therefore, in Adam we all died. In Christ, we can all live. This is the essence 
 
 **1 Corinthians 15:20- 22** introduce the matter.
 
->"But now Christ has been raised from the dead, the first fruits of those who are asleep. For since by a man came death, by a man also came the resurrection of the dead. For as in Adam all die, so also in Christ all shall be made alive."
+> "But now Christ has been raised from the dead, the first fruits of those who are asleep. For since by a man came death, by a man also came the resurrection of the dead. For as in Adam all die, so also in Christ all shall be made alive."
 
 This passage points out there is more to human life than life, and more to physical death than death.
 
@@ -155,7 +153,7 @@ Christ's resurrection resulted in the provision of a resurrection body for all b
 
 **1 Corinthians 15:23,24** set forth the order of resurrections. 
 
->"But each in his own order: Christ the first fruits, after that those who are Christ's at His coming, then comes the end, when He delivers up the kingdom to the God and Father, when he has abolished all rule and all authority and power.
+> "But each in his own order: Christ the first fruits, after that those who are Christ's at His coming, then comes the end, when He delivers up the kingdom to the God and Father, when he has abolished all rule and all authority and power.
 
 The word for order in this passage has to do with human organizations of various kinds. Primarily, it is a word used of military formations. In a military formation, things always happen in a certain order, and that is what is in view here.
 
@@ -243,6 +241,7 @@ The heavenly bodies are used to analogize the difference in the glory of the ear
 1 Cor. 15:42,43 tell us the about the soil into which the seed of the resurrection body is sown.
 
 >"It is sown in a perishable body, it is raised in an imperishable body; it is sown in dishonorable, it is raised in glory; it is sown in weakness, it is raised in power; it is sown a soulish body, it is raised a spiritual body. If there is a natural body, there is also a spiritual body."
+
 The soil into which the seed is planted is the human body. The body is the perishable, the dishonorable, the weak, the soulish.
 
 The soulish is from the Greek word **psuchikos**. Soulish is used elsewhere in Scripture (1 Cor 2:14; James 3:15; Jude 1:19) to connote a person without a human spirit.
@@ -272,7 +271,8 @@ The conclusion is in **1 Corinthians 15:47-49**.
 
 >"The first man is from the earth, earthy; the second man is from heaven. As is the earthy, so also are those who are earthy; and as is the heavenly, so also are those who are heavenly. And just as we have borne the image of the earthy, we shall also bear the image of the heavenly."
 
-###SETH
+### SETH
+
 Seth was Adam's third son, and after the death of Abel and the banishment of Cain, Seth would renew Adam's line.
 
 Seth represents a new hope and new beginning. He was the appointed replacement for Abel, and that is the meaning of his name (**Genesis 4:25-26**).
@@ -284,6 +284,7 @@ During this time in human history, people lived to ages which seem impossible to
 The line of Christ had been cut off when Cain murdered Abel. Seth is the renewal of that line. In a sense, he is Abel's substitute; his designated hitter.
 
 ###ENOSH
+
 Enos is the Greek rendering of this name, which is more correctly pronounced Enosh. The Greeks were indiscriminate in their rendering of the Hebrew letters *sin* and *shin*, and that is why the difference.
 
 There is one significant fact about this man: his life marks the beginning of the great apostasy of the antediluvian civilization. 
@@ -422,12 +423,12 @@ Thus Noah and his family were preserved; while the others died to await their fu
 
 Noah's three sons and their wives repopulated the earth, and began the post-diluvian civilization.
 
-###SHEM
+### SHEM
 Shem was a voyager on the ark, and the firstborn son of Noah. He cared for his nephew Canaan after it was discovered that he had been abused by his father Ham, **Genesis 9:20-27**.
 
 In that account, He is called blessed by Noah - a recognition of his spiritual maturity.
 
-###Christ's Genealogy from Shem to Abraham 
+## Christ's Genealogy from Shem to Abraham 
 
 When Noah began the building of the ark, God made a covenant with him.
 
@@ -526,7 +527,7 @@ Do not confuse this man with the brother of Abraham. This Nahor lived in the 23r
 ###TERAH
 He was born in Ur of the Chaldees. His name means 'antelope'. Joshua 24:2 tells us that this man was involved in idolatry. He did take place in the big move to Canaan, with the rest of the family. He died about 2100 BC 
 
-###The Abraham Connection
+## The Abraham Connection
 From Abraham to David, there are fourteen generations. Abraham- Isaac- Jacob- Judah- Perez- Hezron- Ram- Admin- Amminadab- Nahshon- Salmon- Boaz- Obed- Jesse- David.
 
 Between the genealogies in Luke and Matthew there is only one difference, and that is the Luke's insertion of Admin between Ram and Amminadab. This points out the reality of skipped generations in genealogy lists.
@@ -537,14 +538,14 @@ We will concentrate on Abraham, Nahshon, and Boaz in this line.
 
 This line covers the age of the patriarchs, from God's covenant with Abraham to the next covenant with David. Its chronology runs from Abraham's birth in 2160 BC to Israel under king Saul in 1004 BC
 
-###ABRAHAM.
+### ABRAHAM.
 **Genesis 12:1-3** records Abram's first call:
 
 >"Now the Lord said to Abram, 'Go forth from your country, and from your relatives and from your father's house, to the land which I will show you; And I will make you a great nation, and I will bless you, and make your name great; and so you shall be a blessing; and I will bless those who bless you, and the one who curses you I will curse. And in you all the families of the earth will be blessed.'"
 
 Abraham had to leave his own country because God had a wonderful place reserved for him and his progeny. He also had to leave because his first home and his family and relatives would have been a fatal distraction to him.
 
-###The covenants to Israel.
+## The covenants to Israel.
 God provided the nation of Israel a fantastic portfolio of grace blessings in the form of covenants. A covenant is based on the attributes of God.
 
 - It finds its motive in the love of God. There is nothing treacherous or deceitful about a covenant.
@@ -606,7 +607,7 @@ It is here that Abram has another worship service.
 
 Next is the story of Abraham's offspring.
 
-###Abraham's Offspring
+## Abraham's Offspring
 The story of Sarai's treachery begins in **Genesis 16** 
 
 >"Now Sarai, Abram's wife had borne him no children, and she had an Egyptian maid whose name was Hagar. So Sarai said to Abram, 'Now behold, the Lord has prevented me from bearing children. Please go in to may maid; perhaps I shall be built up through her.' And Abram listened to the voice of Sarai. And after Abram had lived ten years in the land of Canaan, Abram's wife Sarai took Hagar the Egyptian, her maid, and gave her to her husband Abram as his wife. And he went in to Hagar, and she conceived; and when she saw that she had conceived, her mistress was despised in her sight. And Sarai said to Abram, 'May the wrong done me be upon you. I gave my maid into your arms; but when she saw she had conceived, I was despised in her sight. May the Lord judge between you and me.'"
@@ -653,7 +654,7 @@ And, he must have been a great leader, because his entire household was under th
 
 But this was the beginning of the miraculous birth of Isaac.
 
-###THE BIRTH OF ISAAC
+### THE BIRTH OF ISAAC
 >**Genesis 17:15**
 
 >"Then God said to Abraham, 'As for Sarai your wife, you will not call her name Sarai, but Sarah will be her name. And I will bless her, and she will be a mother of nations; kings of peoples will come from her.' Then Abraham fell on his face and laughed, and said in his heart, 'Will a child be born to a man one hundred years old? And will Sarah, who is ninety years old, bear a child?' And Abraham said to God, 'Oh that Ishmael might live before thee!' But God said, 'No, but Sarah your wife will bear you a son, and you will call his name Isaac; and I will establish My covenant with him for an everlasting covenant for his descendants after him.'"
@@ -683,7 +684,7 @@ In this passage, Abraham listens to what God has to say, and comes to an erroneo
 - Then the Lord must want to use Ishmael as my seed, and must have all along!
 - Wrong, says God.
 
-###ISAAC TO JESSE
+## ISAAC TO JESSE
 Isaac was born to Abraham and Sarah. He would marry Rebekah, and father the twins, Jacob and Esau. It is worthwhile to note that Rebekah, too, was barren. She was the second in the line to find healing in God. Another miracle to continue the line of Christ.
 
 **Jacob**. This man was no prince, at least at first. He took advantage of his older brother, Esau, and took his birthright from him. Later he would wrestle with God, and in that match he would win God's respect. God changed his name to Israel, 'wrestler with God'. 
@@ -931,7 +932,7 @@ This is a little different. It records the crucifixion of Christ as it relates t
 
 There are two predictions here. First, the prophet predicts the ministry of John the Baptist. Second, there is a prediction concerning the scouring of the Temple, which actually occurred on two occasions.
 
-###King David, the Forerunner of Christ
+## King David, the Forerunner of Christ
 
 King David was the forerunner of Christ in at least three ways:
 
@@ -1051,21 +1052,21 @@ He is not mentioned - Matthew skips over him because of his evil and the terribl
 
 His son Jeconiah, or Jehoiachin is mentioned by Matthew.
 
-###Mary's Line, the Biological Line of Christ (Luke)
+## Mary's Line, the Biological Line of Christ (Luke)
 
 Note: We are taking this one all the way to Christ.
 
-###NATHAN
+### NATHAN
 Nathan was a son of David and Bathsheba. He is the quiet son, for nothing much is said about him in Scripture. Even so, he was a link in the biological line of Christ.
 
-###MATTATHIA
+### MATTATHIA
 Nothing much is known about this man.
 
-####MENNA, MELEA, ELIAKIM, JONAM, JOSEPH, JUDAH, SIMEON, LEVI, MATTHAT, JORIM, ELIEZER, JOSHUA, ER, ELMADAM, COSAM, ADDI, MELCHI, NERI
+### MENNA, MELEA, ELIAKIM, JONAM, JOSEPH, JUDAH, SIMEON, LEVI, MATTHAT, JORIM, ELIEZER, JOSHUA, ER, ELMADAM, COSAM, ADDI, MELCHI, NERI
 
 Nothing is said about any of these men in the Bible.
 
-###SHEALTIEL
+### SHEALTIEL
 This is where a crossover point occurs. Both genealogies stop here. This is where the nation went into exile. Shealtiel was not the true son of Jeconiah, but instead, the line of David continued in this man because Jeconiah failed to produce an heir. This is why Matthew's genealogy claims Jeconiah as this man's father. 
 
 ###ZERUBBABEL
