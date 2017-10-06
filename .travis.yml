@@ -1,24 +1,20 @@
 language: javascript
 
+branches:
+  only:
+  - master
+
 before_install:
 - sudo apt-get update -qq
-- sudo apt-get install -q pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+- sudo apt-get install -q pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra parallel
 - npm install -g wintersmith
 - gem install sass
+- sudo pip install awscli --upgrade
 
 install: npm install
 
 script:
 - wintersmith build -v -c config.nopdf.json
+- aws s3 sync build/ s3://www2.gracenotes.info/
 - ./generate-pdfs.sh
-
-before_deploy:
-- sudo pip install awscli --upgrade
-
-deploy:
-  - provider: script
-    skip_cleanup: true
-    script: aws s3 sync build/ s3://www2.gracenotes.info/
-    on:
-      branch: master
-
+- aws s3 sync build/ s3://www2.gracenotes.info/
