@@ -8,7 +8,9 @@ before_install:
 
 install: npm install
 
-script: wintersmith build -v
+script:
+- wintersmith build -v -c config.nopdf.json
+- ./generate-pdfs.sh
 
 before_deploy:
 - sudo pip install awscli --upgrade
