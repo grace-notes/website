@@ -1,5 +1,4 @@
-
-# Grace Notes Website [![Build Status](https://travis-ci.org/grace-notes/legacy-website.svg?branch=master)](https://travis-ci.org/grace-notes/legacy-website)
+# Grace Notes Website [![Build Status](https://travis-ci.org/grace-notes/website.svg?branch=master)](https://travis-ci.org/grace-notes/website)
 
 This repository contains the content and build scripts for the topics library
 on [Grace Notes](https://www.gracenotes.info).
