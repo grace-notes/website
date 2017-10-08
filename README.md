@@ -13,7 +13,7 @@ into an HTML file, a PDF and an ePub file. The topics list is generated as an
 alphabetical list of each of the topics.
 
 The site is generated primarily with a JavaScript static site generator called 
-([wintersmith](https://github.com/jnordberg/wintersmith).
+[wintersmith](https://github.com/jnordberg/wintersmith).
 
 ### Deployment
 
